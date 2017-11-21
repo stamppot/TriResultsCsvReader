@@ -1,0 +1,10 @@
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\column_config.xml
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\CsvColumnNormalizer.dll.config
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\CsvColumnNormalizer.dll
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\CsvColumnNormalizer.pdb
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\TechTalk.SpecFlow.dll
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\bin\Debug\Newtonsoft.Json.xml
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\obj\Debug\CsvColumnNormalizer.dll
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\obj\Debug\CsvColumnNormalizer.pdb
+C:\Repos\CsvColumnNormalizer\CsvColumnNormalizer\obj\Debug\TriResultsCsvReader.csprojResolveAssemblyReference.cache
