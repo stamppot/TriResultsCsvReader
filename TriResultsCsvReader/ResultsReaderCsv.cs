@@ -1,10 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TriResultsCsvReader
 {
@@ -18,15 +13,22 @@ namespace TriResultsCsvReader
             _csvColumnConfixXml = columnConfigXml;
         }
 
-        public void Read(string csv)
+        public ResultsReaderCsv(IEnumerable<Column> columnsConfig)
         {
-            var csvHelper = new CsvHelper();
-            var columnNames = csvHelper.GetHeaders(csv).ToList();
+            _csvColumnConfig = columnsConfig;
+        }
 
+        /// <summary>
+        /// Reads csv file and standardizes columnnames
+        /// </summary>
+        /// <param name="csv"></param>
+        public string[] Read(string[] csvLines)
+        {
+            ICsvHelper csvHelper = new MyCsvHelper();
             var columnStandardizer = new ColumnStandardizer(GetColumnConfiguration);
-            var standardizedColumnsNames = columnStandardizer.GetStandardColumnNames(columnNames);
-
-
+            
+            var standardizedCsv = csvHelper.ReplaceHeaders(csvLines, columnStandardizer.GetStandardColumnNames);
+            return standardizedCsv;
         }
 
 

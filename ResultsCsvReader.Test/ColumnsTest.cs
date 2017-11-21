@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using CsvColumnNormalizer.Test;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TriResultsCsvReader.Test
@@ -10,26 +11,17 @@ namespace TriResultsCsvReader.Test
     public class ColumnsTest
     {
         private IEnumerable<Column> _columnsConfig;
-        private string _csvColumnConfixXml;
 
         public ColumnsTest()
         {
-            Init();    
+            _columnsConfig = CsvConfigHelper.ReadConfig("column_config.xml");
         }
-
-        public void Init()
-        {
-            _csvColumnConfixXml = File.ReadAllText("column_config.xml");
-            var configReader = new ColumnsConfigReader();
-            _columnsConfig = configReader.Read(_csvColumnConfixXml);
-        }
-
+        
         [TestMethod]
         public void SingleMappingColumnTest()
         {
-            var csv =
-                "Pos,StartNr,Naam,Club,Club/Woonplaats,Cat,PltsCat,Zwem,PltsZwem,Wiss1,Fiets,PltsFiets,NaFiets,PltsNaFie,Wiss2,Loop,PltsLoop,TotaalTijd,DQ";
-            var columnNames = new CsvHelper().GetHeaders(csv).ToList();
+            var csv = new List<string> { "Pos,StartNr,Naam,Club,Club/Woonplaats,Cat,PltsCat,Zwem,PltsZwem,Wiss1,Fiets,PltsFiets,NaFiets,PltsNaFie,Wiss2,Loop,PltsLoop,TotaalTijd,DQ" };
+            var columnNames = new MyCsvHelper().GetHeaders(csv).ToList();
 
             var standardizedColumnNames = new ColumnStandardizer(_columnsConfig).GetStandardColumnNames(columnNames, _columnsConfig).ToList();
 
