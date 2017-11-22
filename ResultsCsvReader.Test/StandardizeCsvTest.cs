@@ -11,12 +11,12 @@ namespace CsvColumnNormalizer.Test
     public class StandardizeCsvTest
     {
         private IEnumerable<Column> _columnsConfig;
-        private ResultsReaderCsv _resultsReaderCsv;
+        private StandardizeResultsCsv _csvStandardizer;
 
         public StandardizeCsvTest()
         {
             _columnsConfig = CsvConfigHelper.ReadConfig("column_config.xml");
-            _resultsReaderCsv = new ResultsReaderCsv(_columnsConfig);
+            _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
 
         [TestMethod]
@@ -24,7 +24,7 @@ namespace CsvColumnNormalizer.Test
         {
             var csv = File.ReadAllLines("files/Leiderdorp_sprint.csv");
 
-            var standardizedCsv = _resultsReaderCsv.Read(csv);
+            var standardizedCsv = _csvStandardizer.Read(csv);
             var standardizedHeaders = new MyCsvHelper().GetHeaders(standardizedCsv).ToList();
 
             var expectedColumns = "Pos,StartNr,Naam,Cat,Swim,T1,Bike,AfterBike,T2,Run,Total".Split(',').ToList();
