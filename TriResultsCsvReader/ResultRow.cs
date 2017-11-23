@@ -70,5 +70,9 @@ namespace TriResultsCsvReader
 
         public string Total { get; set; }
 
+        public string RaceDate { get; set; }
+
+        public string Race { get; set; }
+
     }
 }

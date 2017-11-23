@@ -10,6 +10,7 @@
     <name>StartNr</name>
     <mapfrom>
       <altname>StNr</altname>
+      <altname>RaceNr</altname>
     </mapfrom>
   </column>
   <column>
@@ -59,7 +60,9 @@
       <altname>PltsZw</altname>
       <altname>#Zwem</altname>
       <altname>#Z</altname>
+      <altname>#Zw</altname>
       <altname>#Swim</altname>
+      <altname>#Sw</altname>
     </mapfrom>
   </column>
   <column>
@@ -68,6 +71,7 @@
       <altname>Wis1</altname>
       <altname>Wiss1</altname>
       <altname>Wissel1</altname>
+      <altname>Chg1</altname>
     </mapfrom>
   </column>
   <column>
@@ -82,6 +86,7 @@
     <mapfrom>
       <altname>#NaW1</altname>
       <altname>PosNaWis1</altname>
+      <altname>AftChg1</altname>
     </mapfrom>
   </column>
   <column>
@@ -99,6 +104,7 @@
       <altname>#F</altname>
       <altname>#Fie</altname>
       <altname>#Bike</altname>
+      <altname>#Bk</altname>
     </mapfrom>
   </column>
   <column>
@@ -107,6 +113,8 @@
       <altname>NaFiets</altname>
       <altname>NaF</altname>
       <altname>NaFie</altname>
+      <altname>AftBike</altname>
+      <altname>AftBk</altname>
     </mapfrom>
   </column>
   <column>
@@ -117,6 +125,7 @@
       <altname>#NaFiets</altname>
       <altname>#NaF</altname>
       <altname>#NaFie</altname>
+      <altname>#AftBk</altname>
     </mapfrom>
   </column>
   <column>
@@ -125,6 +134,7 @@
       <altname>Wis2</altname>
       <altname>Wiss2</altname>
       <altname>Wissel2</altname>
+      <altname>Chg2</altname>
     </mapfrom>
   </column>
   <column>
@@ -139,6 +149,7 @@
     <mapfrom>
       <altname>#NaW2</altname>
       <altname>PosNaWis2</altname>
+      <altname>AftChg2</altname>
     </mapfrom>
   </column>
   <column>
@@ -154,6 +165,7 @@
       <altname>PltsRun</altname>
       <altname>#Loop</altname>
       <altname>#L</altname>
+      <altname>#Run</altname>
     </mapfrom>
   </column>
   <!-- RBR -->
