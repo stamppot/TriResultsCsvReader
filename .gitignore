@@ -3,3 +3,7 @@
 ################################################################################
 
 /TriResultsCsvReader/bin/Debug
+/TriResultsCsvReader/obj/Debug
+/TriResultsCsvReader/obj/Debug
+/packages
+/.vs/TriResults/v15
