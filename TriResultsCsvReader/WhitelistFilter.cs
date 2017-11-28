@@ -27,5 +27,10 @@ namespace TriResultsCsvReader
         {
             return _allowedNames.Keys.Any(key => name != null && name.Contains(key));
         }
+
+        public IEnumerable<string> GetEntries()
+        {
+            return _allowedNames.Keys;
+        }
     }
 }

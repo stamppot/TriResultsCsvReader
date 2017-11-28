@@ -51,6 +51,8 @@
   <ItemGroup>
     <Compile Include="Exceptions\BadConfigurationException.cs" />
     <Compile Include="IWhitelistFilter.cs" />
+    <Compile Include="MemberReaderCsv.cs" />
+    <Compile Include="MemberRow.cs" />
     <Compile Include="QueryExtensions.cs" />
     <Compile Include="TriResultsCsvWriter.cs" />
     <Compile Include="WhitelistFilter.cs" />

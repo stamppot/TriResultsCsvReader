@@ -10,7 +10,7 @@ namespace ResultsCsvReader.Test
     [TestClass]
     public class WriteStandardizedCsvResultsTest
     {
-        private TriResultsWri _resultsReader;
+        //private TriResultsCsvReader _resultsReader;
 
         public WriteStandardizedCsvResultsTest()
         {

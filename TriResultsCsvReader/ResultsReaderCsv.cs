@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Reflection;
 using CsvHelper;
 using CsvHelper.Configuration;
 
@@ -11,29 +10,27 @@ namespace TriResultsCsvReader
 {
     public class ResultsReaderCsv
     {
+        private readonly Action<string> _outputWriter;
         private IEnumerable<Column> _columnsConfig;
         private StandardizeResultsCsv _csvStandardizer;
 
-        public ResultsReaderCsv() : this("column_config.xml")
+        public ResultsReaderCsv(Action<string> outputWriter = null) : this("column_config.xml", outputWriter)
         {
+            _outputWriter = outputWriter;
         }
 
-        public ResultsReaderCsv(string configFilePath)
+        public ResultsReaderCsv(string configFilePath, Action<string> outputWriter)
         {
             if(string.IsNullOrEmpty(configFilePath))
             {
                 throw new BadConfigurationException("No config file given");
             }
 
-            //var isLocalPath = new Uri(configFilePath).is;
-
-            //if (isLocalPath)
-            //{
-            //    configFilePath = Path.Combine(Assembly.GetExecutingAssembly().Location, configFilePath);
-            //}
             if(!File.Exists(configFilePath))
             {
-                throw new BadConfigurationException($"Config file not found in path: {configFilePath}");
+                var errorMessage = $"Config file not found in path: {configFilePath}";
+                _outputWriter.Invoke(errorMessage);
+                throw new BadConfigurationException(errorMessage);
             }
 
             _columnsConfig = CsvConfigHelper.ReadConfig(configFilePath);
@@ -64,9 +61,19 @@ namespace TriResultsCsvReader
                 }
 
                 records = records.ToList();
+
+                WriteOutput($"Records read from file {csvFilename}: {records.Count()}");
             }
 
             return records;
+        }
+
+        private void WriteOutput(string message)
+        {
+            if (null != _outputWriter)
+            {
+                _outputWriter.Invoke(message);
+            }
         }
     }
 }
