@@ -37,14 +37,38 @@ namespace TriResultsConsole
 
 
                 Expression<Func<ResultRow, bool>> filterExp = null;
+                if(string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords)) {
+                    var errorMessage = $"No Member file or filter keywords given"; Console.WriteLine(errorMessage);
+                }
+
+                
+                var hasMemberFilter = !string.IsNullOrEmpty(options.MemberFile) && ExistsFile(options.MemberFile);
+                var hasFilterKeywords = !string.IsNullOrEmpty(options.MemberFile);
+
                 if (!string.IsNullOrEmpty(options.MemberFile) && !ExistsFile(options.MemberFile)) { var errorMessage = $"Member file for filtering not found: {options.MemberFile}"; Console.WriteLine(errorMessage); throw new FileNotFoundException(errorMessage); }
                 else
                 {
                     var members = new MemberReaderCsv().Read(options.MemberFile);
                     var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
-                    //if(options.Verbose) { Console.WriteLine("Filter list:\n" + String.Join("\n", memberWhitelist.GetEntries())); }
                     filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
                 }
+
+                if(hasFilterKeywords)
+                {
+                    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray());
+                    var keywordsFilter = new WhitelistFilter(keywords);
+                    filterExp = ((row) =>  keywordsFilter.ContainsMatch(row.Club));
+                }
+
+                if (hasMemberFilter && hasFilterKeywords)
+                {
+                    var members = new MemberReaderCsv().Read(options.MemberFile);
+                    var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
+                    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray()).Select(x => x.Trim());
+                    var keywordsFilter = new WhitelistFilter(keywords);
+                    filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam) || keywordsFilter.ContainsMatch(row.Club));
+                }
+
 
 
                 if (!string.IsNullOrEmpty(options.OutputFile)) { }

@@ -16,7 +16,10 @@ namespace TriResultsConsole
         [Option('m', "member list csv")]
         public string MemberFile { get; set; }
 
-        [Option('c', "Config file")]
+        [Option('x', HelpText = "Filter keywords")]
+        public string FilterKeywords { get; set; }
+
+        [Option('c', HelpText = "Config file", DefaultValue = "column_config.xml")]
         public string ConfigFile { get; set; }
 
         [Option('o', "output file")]
