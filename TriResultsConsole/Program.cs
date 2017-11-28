@@ -130,6 +130,7 @@ namespace TriResultsConsole
                 output.Date = raceDate;
             }
 
+            output.Name = output.Name.Replace(".csv", "");
             output.OutputFile = Path.Combine(fi.Directory.FullName, raceDate.ToString("yyyyMMdd") + "_" + name.Insert(index, "_output"));
 
             return output;
