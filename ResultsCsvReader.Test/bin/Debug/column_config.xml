@@ -10,15 +10,20 @@
     <name>StartNr</name>
     <mapfrom>
       <altname>StNr</altname>
+      <altname>RaceNr</altname>
     </mapfrom>
   </column>
   <column>
     <name>Naam</name>
+    <mapfrom>
+      <altname>NAAM</altname>
+    </mapfrom>
   </column>
   <column>
     <name>Club</name>
     <mapfrom>
       <altname>Team</altname>
+      <altname>Teamnaam</altname>
     </mapfrom>
   </column>
   <column>
@@ -38,10 +43,9 @@
   </column>
   <column>
     <name>Cat</name>
-    <!--<mapfrom>
-      <altname>Cat</altname>
-      <altname>PltsCat</altname>
-    </mapfrom>-->
+    <mapfrom>
+      <altname>Categ</altname>
+    </mapfrom>
   </column>
   <column>
     <name>Swim</name>
@@ -53,8 +57,12 @@
     <name>PosSwim</name>
     <mapfrom>
       <altname>PltsZwem</altname>
+      <altname>PltsZw</altname>
       <altname>#Zwem</altname>
       <altname>#Z</altname>
+      <altname>#Zw</altname>
+      <altname>#Swim</altname>
+      <altname>#Sw</altname>
     </mapfrom>
   </column>
   <column>
@@ -63,6 +71,22 @@
       <altname>Wis1</altname>
       <altname>Wiss1</altname>
       <altname>Wissel1</altname>
+      <altname>Chg1</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>PosT1</name>
+    <mapfrom>
+      <altname>#W1</altname>
+      <altname>PosWis1</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>PosAfterT1</name>
+    <mapfrom>
+      <altname>#NaW1</altname>
+      <altname>PosNaWis1</altname>
+      <!--<altname>AftChg1</altname>-->
     </mapfrom>
   </column>
   <column>
@@ -75,9 +99,12 @@
     <name>PosBike</name>
     <mapfrom>
       <altname>PltsFiets</altname>
+      <altname>PltsFie</altname>
       <altname>#Fiets</altname>
       <altname>#F</altname>
       <altname>#Fie</altname>
+      <altname>#Bike</altname>
+      <altname>#Bk</altname>
     </mapfrom>
   </column>
   <column>
@@ -86,6 +113,8 @@
       <altname>NaFiets</altname>
       <altname>NaF</altname>
       <altname>NaFie</altname>
+      <altname>AftBike</altname>
+      <altname>AftBk</altname>
     </mapfrom>
   </column>
   <column>
@@ -96,6 +125,7 @@
       <altname>#NaFiets</altname>
       <altname>#NaF</altname>
       <altname>#NaFie</altname>
+      <altname>#AftBk</altname>
     </mapfrom>
   </column>
   <column>
@@ -104,6 +134,22 @@
       <altname>Wis2</altname>
       <altname>Wiss2</altname>
       <altname>Wissel2</altname>
+      <altname>Chg2</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>PosT2</name>
+    <mapfrom>
+      <altname>#W2</altname>
+      <altname>PosWis2</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>PosAfterT2</name>
+    <mapfrom>
+      <altname>#NaW2</altname>
+      <altname>PosNaWis2</altname>
+      <!--<altname>AftChg2</altname>-->
     </mapfrom>
   </column>
   <column>
@@ -116,8 +162,10 @@
     <name>PosRun</name>
     <mapfrom>
       <altname>PltsLoop</altname>
+      <altname>PltsRun</altname>
       <altname>#Loop</altname>
       <altname>#L</altname>
+      <altname>#Run</altname>
     </mapfrom>
   </column>
   <!-- RBR -->
@@ -150,11 +198,40 @@
     </mapfrom>
   </column>
   <!-- end RBR -->
+  <!-- Teams -->
+  <column>
+    <name>TeamPoints</name>
+    <mapfrom>
+      <altname>Pnt</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>TeamTotalPoints</name>
+    <mapfrom>
+      <altname>Punten</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>TeamRank</name>
+    <mapfrom>
+      <altname>RankTeam</altname>
+    </mapfrom>
+  </column>
+  <!-- end Teams -->
+  <column>
+    <name>Difference</name>
+    <mapfrom>
+      <altname>Verschil</altname>
+      <altname>Versch</altname>
+    </mapfrom>
+  </column>
   <column>
     <name>Total</name>
     <mapfrom>
       <altname>Totaal</altname>
       <altname>TotaalTijd</altname>
+      <altname>NETTO</altname>
+      <altname>Netto</altname>
     </mapfrom>
   </column>
 </columns>

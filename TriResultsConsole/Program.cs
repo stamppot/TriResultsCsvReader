@@ -37,11 +37,12 @@ namespace TriResultsConsole
 
 
                 Expression<Func<ResultRow, bool>> filterExp = null;
-                if(string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords)) {
+                if (string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords))
+                {
                     var errorMessage = $"No Member file or filter keywords given"; Console.WriteLine(errorMessage);
                 }
 
-                
+
                 var hasMemberFilter = !string.IsNullOrEmpty(options.MemberFile) && ExistsFile(options.MemberFile);
                 var hasFilterKeywords = !string.IsNullOrEmpty(options.MemberFile);
 
@@ -53,18 +54,22 @@ namespace TriResultsConsole
                     filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
                 }
 
-                if(hasFilterKeywords)
-                {
-                    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray());
-                    var keywordsFilter = new WhitelistFilter(keywords);
-                    filterExp = ((row) =>  keywordsFilter.ContainsMatch(row.Club));
-                }
+                //if(hasFilterKeywords)
+                //{
+                //    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray());
+                //    var keywordsFilter = new WhitelistFilter(keywords);
+                //    filterExp = ((row) =>  keywordsFilter.ContainsMatch(row.Club));
+                //}
 
                 if (hasMemberFilter && hasFilterKeywords)
                 {
                     var members = new MemberReaderCsv().Read(options.MemberFile);
                     var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
-                    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray()).Select(x => x.Trim());
+                    IEnumerable<string> keywords = new List<string>();
+                    if (!string.IsNullOrEmpty(options.FilterKeywords))
+                    {
+                        keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray()).Select(x => x.Trim());
+                    }
                     var keywordsFilter = new WhitelistFilter(keywords);
                     filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam) || keywordsFilter.ContainsMatch(row.Club));
                 }
@@ -91,7 +96,7 @@ namespace TriResultsConsole
                 }
             }
         }
-        
+
 
         public class RaceData
         {
@@ -109,10 +114,11 @@ namespace TriResultsConsole
 
             RaceData output = new RaceData() { Name = name };
 
-            if(raceDate.Equals(DateTime.MinValue))
+            if (raceDate.Equals(DateTime.MinValue))
             {
                 Console.WriteLine("raceDate is null, will try to get date from filename");
-                if(DateTime.TryParseExact(name.Substring(0, 8), "yyyyMMdd", Thread.CurrentThread.CurrentCulture, DateTimeStyles.None, out var racedate))
+                var datePart = name.Substring(0, 8);
+                if (DateTime.TryParseExact(datePart, "yyyyMMdd", Thread.CurrentThread.CurrentCulture, DateTimeStyles.None, out var racedate))
                 {
                     Console.WriteLine("Got raceDate from filename: " + racedate.ToShortDateString());
                     output.Date = racedate;
@@ -121,7 +127,7 @@ namespace TriResultsConsole
                 }
                 else
                 {
-                    throw new FormatException("Filename must start with date in format yyyyMMdd_racefile.csv");
+                    //throw new FormatException("Filename must start with date in format yyyyMMdd_racefile.csv");
                 }
             }
             else
@@ -132,7 +138,7 @@ namespace TriResultsConsole
 
             output.Name = output.Name.Replace(".csv", "");
             output.OutputFile = Path.Combine(fi.Directory.FullName, raceDate.ToString("yyyyMMdd") + "_" + name.Insert(index, "_output"));
-
+            Console.WriteLine("OutputFile: " + output.OutputFile);
             return output;
         }
 
@@ -142,11 +148,12 @@ namespace TriResultsConsole
 
             var dirInfo = new DirectoryInfo(inputFileOrFolder);
 
-            if (printVerboseOutput) {
+            if (printVerboseOutput)
+            {
                 Console.WriteLine($"Input {inputFileOrFolder}");
             }
 
-            if(dirInfo.Exists)
+            if (dirInfo.Exists)
             {
                 Console.WriteLine($"Is a folder {inputFileOrFolder}");
                 // a directory is given
@@ -162,7 +169,7 @@ namespace TriResultsConsole
                 files.Add(fileInfo.FullName);
             }
 
-            if(printVerboseOutput)
+            if (printVerboseOutput)
             {
                 Console.WriteLine("Found files:\n");
                 files.ForEach(f => Console.WriteLine($"{f}"));
