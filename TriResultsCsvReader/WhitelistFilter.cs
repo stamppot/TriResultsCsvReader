@@ -10,7 +10,15 @@ namespace TriResultsCsvReader
 
         public WhitelistFilter(IEnumerable<string> allowedNames)
         {
-            _allowedNames = allowedNames.ToDictionary(n => n);
+            try {
+                _allowedNames = allowedNames.ToDictionary(n => n);
+            } catch(ArgumentException ex)
+            {
+                var dupes = allowedNames.GroupBy(x => x).Select(x => new { Name = x.First(), Count = x.Count() })
+                    .Where(x => x.Count > 1);
+                Console.WriteLine("Duplicates found: {0}", string.Join(", ", dupes.Select(x => x.Name)));
+                throw;
+            }
         }
 
         public bool ExactMatch(string name)

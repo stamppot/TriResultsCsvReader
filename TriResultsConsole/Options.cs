@@ -10,7 +10,7 @@ namespace TriResultsConsole
 {
     class Options
     {
-        [Option('f', "input file or folder")]
+        [Option('i', "input file or folder")]
         public string InputFile { get; set; }
 
         [Option('m', "member list csv")]
@@ -22,15 +22,15 @@ namespace TriResultsConsole
         [Option('c', HelpText = "Config file", DefaultValue = "column_config.xml")]
         public string ConfigFile { get; set; }
 
-        [Option('o', "output file")]
-        public string OutputFile { get; set; }
+        [Option('o', "output folder")]
+        public string OutputFolder { get; set; }
 
         //[Option('d', "output directory")]
         //public string OutputDirectory { get; set; }
 
 
-        [Option('r', "race name")]
-        public string RaceName { get; set; }
+        //[Option('r', "race name")]
+        //public string RaceName { get; set; }
 
 
         [Option('d', "race date")]

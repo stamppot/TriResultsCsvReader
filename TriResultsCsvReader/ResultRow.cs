@@ -15,6 +15,8 @@ namespace TriResultsCsvReader
 
         public string Naam { get; set; }
 
+        public string RaceType { get; set; }
+
         public string Club { get; set; }
 
         public string City { get; set; }
@@ -70,7 +72,7 @@ namespace TriResultsCsvReader
 
         public string Total { get; set; }
 
-        public string RaceDate { get; set; }
+        public DateTime RaceDate { get; set; }
 
         public string Race { get; set; }
 
