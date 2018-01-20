@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Reflection;
 
 namespace TriResultsCsvReader
 {
@@ -71,10 +71,21 @@ namespace TriResultsCsvReader
         public string Difference { get; set; }
 
         public string Total { get; set; }
+        
+        public string Race { get; set; }
 
         public DateTime RaceDate { get; set; }
 
-        public string Race { get; set; }
 
+
+        public object GetPropertyValue(string name)
+        {
+            var prop = this.GetType().GetProperty(name);
+            if(prop != null)
+            {
+                return prop.GetValue(this, null);
+            }
+            return null;
+        }
     }
 }

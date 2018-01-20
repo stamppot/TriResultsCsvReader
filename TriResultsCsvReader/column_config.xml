@@ -16,6 +16,7 @@
   <column>
     <name>Naam</name>
     <mapfrom>
+      <altname>Name</altname>
       <altname>NAAM</altname>
     </mapfrom>
   </column>
@@ -86,7 +87,7 @@
     <mapfrom>
       <altname>#NaW1</altname>
       <altname>PosNaWis1</altname>
-      <altname>AftChg1</altname>
+      <!--<altname>AftChg1</altname>-->
     </mapfrom>
   </column>
   <column>
@@ -149,7 +150,7 @@
     <mapfrom>
       <altname>#NaW2</altname>
       <altname>PosNaWis2</altname>
-      <altname>AftChg2</altname>
+      <!--<altname>AftChg2</altname>-->
     </mapfrom>
   </column>
   <column>
@@ -232,6 +233,22 @@
       <altname>TotaalTijd</altname>
       <altname>NETTO</altname>
       <altname>Netto</altname>
+      <altname>NettoTijd</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>Race</name>
+    <mapfrom>
+      <altname>RaceName</altname>
+      <altname>Event</altname>
+      <altname>race</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>RaceDate</name>
+    <mapfrom>
+      <altname>Date</altname>
+      <altname>date</altname>
     </mapfrom>
   </column>
 </columns>

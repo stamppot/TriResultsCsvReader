@@ -8,23 +8,51 @@ using CsvHelper.Configuration;
 
 namespace TriResultsCsvReader
 {
-    public class TriResultsCsvWriter
+    public class StandardizeHeadersAndFilterStep : BaseStep, IPipelineStep
     {
-        private readonly Action<string> _outputWriter;
         private readonly string _dateFormat = "yyyy-MM-dd";
         private string _readerConfigXml;
         private bool _skipEmptyResults;
+        private readonly IEnumerable<Column> _columns;
 
-        public TriResultsCsvWriter(string columnConfigXmlPath, Action<string> outputWriter, bool skipEmptyResults = true)
+        public StandardizeHeadersAndFilterStep(IEnumerable<Column> columns, bool skipEmptyResults = true)
         {
-            _outputWriter = outputWriter;
-            _readerConfigXml = columnConfigXmlPath;
+            _columns = columns;
             _skipEmptyResults = skipEmptyResults;
+        }
+
+        public IEnumerable<Column> GetColumns()
+        {
+            return _columns;
+        }
+
+        public override StepData Process(StepData step)
+        {
+            var reader = new ResultsReaderCsv(GetColumns(), WriteOutput);
+
+            var resultRows = reader.ReadFile(step.InputFile, step.Filter).ToList();
+
+            var raceType = SetRaceType(resultRows);
+
+            WriteOutput($"Read {resultRows.Count()} rows of {raceType}\n");
+
+            if (resultRows.Any())
+            {
+                var firstResult = resultRows.First();
+                step.RaceData.Date = firstResult.RaceDate;
+                step.RaceData.Name = firstResult.Race;
+                step.RaceData.RaceType = firstResult.RaceType;
+                step.RaceData.Results = resultRows;
+                WriteOutput($"From race {step.RaceData.Name}  {firstResult.Race}\n");
+
+            }
+
+            return step;
         }
 
         public void StandardizeCsv(string raceName, string srcFile, string destPath, Expression<Func<ResultRow, bool>> filterExpression = null)
         {
-            var reader = new ResultsReaderCsv(_readerConfigXml, _outputWriter);
+            var reader = new ResultsReaderCsv(_readerConfigXml, WriteOutput);
 
             var resultRows = reader.ReadFile(srcFile, filterExpression).ToList();
 
@@ -43,7 +71,9 @@ namespace TriResultsCsvReader
         {
             var guesser = new RaceTypeGuesser();
 
-            var raceType = guesser.GetRaceType(results.FirstOrDefault());
+            var firstResult = results.FirstOrDefault();
+            var raceType = guesser.GetRaceType(firstResult);
+
             foreach(var result in results)
             {
                 result.RaceType = raceType;
@@ -52,6 +82,7 @@ namespace TriResultsCsvReader
             return raceType;
         }
 
+        [Obsolete("Is done in another step")]
         public void Write(string destFolder, DateTime raceDate, string raceName, IEnumerable<ResultRow> rows, string raceType)
         {
             foreach (var row in rows)
@@ -79,14 +110,6 @@ namespace TriResultsCsvReader
                 var csvWriter = new CsvWriter(writer);
 
                 csvWriter.WriteRecords<ResultRow>(rows);
-            }
-        }
-
-        private void WriteOutput(string message)
-        {
-            if(null != _outputWriter)
-            {
-                _outputWriter.Invoke(message);
             }
         }
     }

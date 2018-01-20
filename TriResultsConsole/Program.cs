@@ -8,11 +8,13 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using TriResultsCsvReader;
+using TriResultsCsvReader.PipelineSteps;
 
 namespace TriResultsConsole
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             var options = new Options();
@@ -35,6 +37,8 @@ namespace TriResultsConsole
 
                 if (options.Verbose) { Console.WriteLine("Files to process:\n"); inputFiles.ForEach(file => Console.WriteLine(file)); }
 
+
+                var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile);
 
                 Expression<Func<ResultRow, bool>> filterExp = null;
                 if (string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords))
@@ -80,7 +84,6 @@ namespace TriResultsConsole
 
 
                 var resultsReaderCsv = new ResultsReaderCsv(configFile, (str => Console.WriteLine(str)));
-                var resultsWriterCsv = new TriResultsCsvWriter(configFile, (str => Console.WriteLine(str)));
 
                 var outputDir = string.IsNullOrEmpty(options.OutputFolder) ? "output/" : options.OutputFolder + "/";
                 Console.WriteLine("Output dir: " + outputDir);
@@ -89,21 +92,56 @@ namespace TriResultsConsole
                     Directory.CreateDirectory(outputDir);
                 }
 
-                foreach (var file in inputFiles)
-                {
-                    var raceData = GetRaceFileData(file, options.OutputFolder, options.RaceDate);
-                    var srcFilename = raceData.Name;
+                
+                var filteredRaces = new List<StepData>();
+                foreach(var file in inputFiles) {
+                    var filePath = Path.Combine(options.InputFile, file);
+                    Console.WriteLine("filePAth! " + filePath);
+                    var raceData = GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
+                    var raceName = raceData.Name;
                     var raceDate = raceData.Date;
-                    Console.Write("race (from filename): {0}, date: {1}", srcFilename, raceData.Date);
+      
+                    Console.Write("P! race (from filename): {0}, date: {1}, name: {2}", raceName, raceData.Date, raceData.Name);
 
                     if (options.Verbose)
                     {
-                        Console.WriteLine($"Parsing file {file}. Race: {srcFilename}, date: {raceDate}. Output file: {raceData.OutputFile}");
+                        Console.WriteLine($"Parsing file {file}. Race: {raceName}, date: {raceDate}. Output file: {raceData.OutputFile}");
                     }
-                    resultsWriterCsv.StandardizeCsv(srcFilename, file, raceData.FullPath, filterExp);
+                    
+
+                    var stepData = new StepData {InputFile = filePath, ColumnConfigFile = options.ConfigFile, OutputOptions = new List<string> { "csv" } };
+
+                    var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
+                    
+                    var nextStep = readAndFilterStep.Process(stepData);
+
+                    if(nextStep.RaceData != null)
+                        filteredRaces.Add(nextStep);
                 }
+ 
+                // order races by newest first
+                filteredRaces = filteredRaces.OrderByDescending(r => r.RaceData.Date).ToList();
+
+                var writeStep = new CsvWriterStep();
+
+                foreach (var race in filteredRaces)
+                {
+                    Console.WriteLine("outputfile: " + race.RaceData.ToFilename());
+                    race.OutputFile = Path.Combine(options.InputFile, options.OutputFolder, race.RaceData.ToFilename());
+                    writeStep.Process(race);
+                }
+
+                // TODO: write all races to one combined files
+                // TODO: write output in separate class 
+
+                var htmlOutputStep = new CombineOutputHtmlStep();
+                var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
+
+                var outputfile = string.Format("{0}_uitslagen.html", DateTime.Now.ToString("yyyyMMddhhmm"));
+                htmlOutputStep.Process("output", outputfile, columns, filteredRaces.Select(f => f.RaceData).ToList());
             }
         }
+
 
 
         public class RaceFileData

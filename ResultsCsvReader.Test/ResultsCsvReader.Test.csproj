@@ -67,37 +67,85 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="files\2016-jul-23-rotterdam-LongTot.csv">
+    <None Include="files\2016-apr-16-nijmegen-Kort_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\duin_almere_team.csv">
+    <None Include="files\2016-apr-24-roermond-5KTot_output.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Leiderdorp_1D.csv">
+    <None Include="files\2016-aug-14-leiderdorp-O_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Leiderdorp_sprint.csv">
+    <None Include="files\2016-aug-20-annapaulowna-KwartTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Leiderdorp_sprint_indi.csv">
+    <None Include="files\2016-jul-17-klazienaveen-Halve_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\ouderkerkadamstel_sprint_m.csv">
+    <None Include="files\2016-jul-17-klazienaveen-IndOD_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Rotterdam_RBR_overall.csv">
+    <None Include="files\2016-jul-2-maastricht-EliteTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Tri_Schagen_indi.csv">
+    <None Include="files\2016-jul-24-rotterdam-NKTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\utt_middag_overall.csv">
+    <None Include="files\2016-jun-24-zeewolde-TotIND.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\utt_ochtend_overall.csv">
+    <None Include="files\2016-jun-24-zeewolde-TotTRI.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="files\Zeewolde_OD_2D_m.csv">
+    <None Include="files\2016-jun-25-amsterdam-RBRM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-25-oud-gastel-AchtsteTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-25-oud-gastel-DivTotM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-25-zeewolde-8TotIND.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-25-zeewolde-NKTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-25-zeewolde-ODTotIND.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-jun-5-amsterdam-UitslagODTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-may-28-heerenveen-ATot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-may-28-heerenveen-ODTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-10-almere-UitslagHTTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-10-almere-UitslagLDTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-10-apeldoorn-Achtste_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-10-apeldoorn-Kwart_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-17-vroomshoop-Dames_TusInd.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2016-sep-17-vroomshoop-Heren_TusInd.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2017-sep-9-almere-UitslagHTTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2017-sep-9-almere-UitslagLDTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="leden2016.csv">

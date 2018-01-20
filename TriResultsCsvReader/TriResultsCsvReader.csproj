@@ -66,12 +66,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CsvOutputWriter.cs" />
+    <Compile Include="FileHelper.cs" />
+    <Compile Include="PipelineSteps\BaseStep.cs" />
     <Compile Include="Exceptions\BadConfigurationException.cs" />
+    <Compile Include="PipelineSteps\CombineOutputCsvStep.cs" />
+    <Compile Include="PipelineSteps\CombineOutputHtmlStep.cs" />
+    <Compile Include="PipelineSteps\IPipelineStep.cs" />
     <Compile Include="IWhitelistFilter.cs" />
     <Compile Include="MemberReaderCsv.cs" />
     <Compile Include="MemberRow.cs" />
+    <Compile Include="PipelineSteps\ReadAndFilterCsvFiles.cs" />
     <Compile Include="QueryExtensions.cs" />
-    <Compile Include="TriResultsCsvWriter.cs" />
+    <Compile Include="Race.cs" />
+    <Compile Include="RaceTypeGuesser.cs" />
+    <Compile Include="PipelineSteps\CsvWriterStep.cs" />
+    <Compile Include="StepData.cs" />
+    <Compile Include="PipelineSteps\StandardizeHeadersAndFilterStep.cs" />
     <Compile Include="WhitelistFilter.cs" />
     <Compile Include="ResultsReaderCsv.cs" />
     <Compile Include="StandardizeHeaders\Column.cs" />

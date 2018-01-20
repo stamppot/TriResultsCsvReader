@@ -36,7 +36,16 @@ namespace TriResultsCsvReader
             _columnsConfig = CsvConfigHelper.ReadConfig(configFilePath);
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
-        
+
+        public ResultsReaderCsv(IEnumerable<Column> config, Action<string> outputWriter) {
+            _columnsConfig = config;
+            _outputWriter = outputWriter;
+            _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
+
+        }
+
+
+
 
         public IEnumerable<ResultRow> ReadFile(string csvFilename, Expression<Func<ResultRow, bool>> filter = null)
         {
@@ -48,7 +57,8 @@ namespace TriResultsCsvReader
             IEnumerable<ResultRow> records;
 
             // 2. read csv
-            using (TextReader sr = new StringReader(String.Join("\n", standardizedCsv)))
+            var csvStr = String.Join("\n", standardizedCsv);
+            using (TextReader sr = new StringReader(csvStr))
             {
                 var csvReaderConfig = new Configuration() { HeaderValidated = null, MissingFieldFound = null, SanitizeForInjection = true, TrimOptions = TrimOptions.Trim };
                 var csvReader = new CsvReader(sr, csvReaderConfig);
