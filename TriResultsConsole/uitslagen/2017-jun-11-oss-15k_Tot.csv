@@ -1,0 +1,40 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,1011,RenO Brands,Geffen,M,1,01:02:05,01:02:04,Maasdijk Marathon ,2017-06-11
+2,1010,Roy Maasdijk,Oss,M,2,01:02:35,01:02:34,Maasdijk Marathon ,2017-06-11
+3,1024,Alex Gijsbers,Berghem,M,3,01:06:17,01:06:17,Maasdijk Marathon ,2017-06-11
+4,1042,Philip de Bruijn,Beuningen Gld,M,4,01:08:40,01:08:36,Maasdijk Marathon ,2017-06-11
+5,1048,Jeroen Bardoel,Beers,M,5,01:13:27,01:13:25,Maasdijk Marathon ,2017-06-11
+6,1045,Jack Kuijten,Waalre,M,6,01:14:36,01:14:36,Maasdijk Marathon ,2017-06-11
+7,1030,Maurice Huits,Oss,M,7,01:14:43,01:14:39,Maasdijk Marathon ,2017-06-11
+8,1044,Bart van Vliet,Oss,M,8,01:15:57,01:15:53,Maasdijk Marathon ,2017-06-11
+9,1046,Bas van den Brand,Berghem,M,9,01:17:02,01:16:59,Maasdijk Marathon ,2017-06-11
+10,1015,Annemieke bot,Zwaag,V,1,01:17:11,01:17:10,Maasdijk Marathon ,2017-06-11
+11,1036,Sandra van de Goor,Oss,V,2,01:17:28,01:17:24,Maasdijk Marathon ,2017-06-11
+12,1017,Reinier Vinken,Oss,M,10,01:18:21,01:18:18,Maasdijk Marathon ,2017-06-11
+13,1009,Martijn Jellema,Oss,M,11,01:19:07,01:19:03,Maasdijk Marathon ,2017-06-11
+14,1022,Gertie Willemse,Deursen-Dennenburg,V,3,01:19:51,01:19:47,Maasdijk Marathon ,2017-06-11
+15,1004,Erwin Putters,Oss,M,12,01:20:00,01:19:57,Maasdijk Marathon ,2017-06-11
+16,1002,Hans Smits,Oijen,M,13,01:20:59,01:20:56,Maasdijk Marathon ,2017-06-11
+17,1008,Rob Timmers,Berghem,M,14,01:21:13,01:21:09,Maasdijk Marathon ,2017-06-11
+18,1020,Patrick van Gaal,Berghem,M,15,01:21:19,01:21:15,Maasdijk Marathon ,2017-06-11
+19,1028,Jeroen Donders,Oss,M,16,01:21:38,01:21:34,Maasdijk Marathon ,2017-06-11
+20,1037,Jeroen van de Moosdijk,Bergeijk,M,17,01:23:55,01:23:49,Maasdijk Marathon ,2017-06-11
+21,1031,Gertjan Spierings,Lith,M,18,01:24:40,01:24:40,Maasdijk Marathon ,2017-06-11
+22,1043,Johnny Pronk,Berghem,M,19,01:25:51,01:25:46,Maasdijk Marathon ,2017-06-11
+23,1047,Mark Verks,Beers,M,20,01:26:38,01:26:38,Maasdijk Marathon ,2017-06-11
+24,1029,Ankie van Erp,Maren-Kessel,V,4,01:29:28,01:29:23,Maasdijk Marathon ,2017-06-11
+25,1038,Martijn Daas,Bergeijk,M,21,01:30:33,01:30:28,Maasdijk Marathon ,2017-06-11
+26,1003,Rosita de Waal,Berghem,V,5,01:30:33,01:30:33,Maasdijk Marathon ,2017-06-11
+27,1040,Martijn gremmen,Alphen Gld,M,22,01:30:52,01:30:45,Maasdijk Marathon ,2017-06-11
+28,1001,Marijn van den Heuvel,Herpen,M,23,01:31:42,01:31:38,Maasdijk Marathon ,2017-06-11
+29,1041,Kristel van den Hurk,'s-Hertogenbosch,V,6,01:35:39,01:35:34,Maasdijk Marathon ,2017-06-11
+30,1013,Susan Vervoordeldonk,Oss,V,7,01:36:41,01:36:37,Maasdijk Marathon ,2017-06-11
+31,1026,Jack Post,Oss,M,24,01:37:37,01:37:34,Maasdijk Marathon ,2017-06-11
+32,1019,Kristy Visser,Oss,V,8,01:40:36,01:40:32,Maasdijk Marathon ,2017-06-11
+33,1014,Henk Vrolijk,Oss,M,25,01:41:45,01:41:41,Maasdijk Marathon ,2017-06-11
+34,1033,Kelly Thienpont,Oss,V,9,01:41:59,01:41:56,Maasdijk Marathon ,2017-06-11
+35,1027,Merel van Lith,Maren-Kessel,V,10,01:43:51,01:43:48,Maasdijk Marathon ,2017-06-11
+36,1012,Bianca gordijn,Oss,V,11,01:50:39,01:50:34,Maasdijk Marathon ,2017-06-11
+37,1000,Olaf van der Sanden,Oss,M,26,01:51:36,01:51:30,Maasdijk Marathon ,2017-06-11
+38,1034,Koen Vandenhaesevelde,Oss,M,27,01:57:21,01:57:18,Maasdijk Marathon ,2017-06-11
+39,1032,Lies Schiltz,Oss,V,12,01:57:23,01:57:19,Maasdijk Marathon ,2017-06-11

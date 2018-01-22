@@ -1,0 +1,110 @@
+Nr,StartNr,Cat,Naam,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaaltijd,race,date
+1,250,Man/man,"Robert Gerritsen,  Glenn Edelenbos",00:25:24,2,00:00:51,00:26:15,00:43:01,5,01:09:16,00:00:18,01:09:33,00:12:22,2,01:21:55,Run Bike Run Deurningen 25-06-2017,2017-06-25
+2,260,Man/man,"Steven Mengels,  Joost van Weerd",00:26:40,4,00:00:50,00:27:30,00:44:29,14,01:11:58,00:00:20,01:12:18,00:13:32,7,01:25:50,Run Bike Run Deurningen 25-06-2017,2017-06-25
+3,213,Man/man,"Bert Wessels,  Mart Somsen",00:27:57,11,00:00:43,00:28:40,00:43:53,11,01:12:33,00:00:20,01:12:53,00:13:34,8,01:26:26,Run Bike Run Deurningen 25-06-2017,2017-06-25
+4,244,Man/man,"Peter Semmekrot,  Lars Bekhuis",00:28:43,16,00:00:20,00:29:03,00:43:28,9,01:12:30,00:00:20,01:12:50,00:13:41,9,01:26:31,Run Bike Run Deurningen 25-06-2017,2017-06-25
+5,264,Man/man,"Tom Benerink,  Rob Benerink",00:26:43,5,00:00:53,00:27:36,00:45:26,20,01:13:01,00:00:25,01:13:26,00:13:18,6,01:26:43,Run Bike Run Deurningen 25-06-2017,2017-06-25
+6,205,Man/man,"John van Norden,  Niels Grote Beverborg",00:29:06,19,00:01:00,00:30:06,00:42:28,3,01:12:33,00:00:20,01:12:53,00:14:23,18,01:27:16,Run Bike Run Deurningen 25-06-2017,2017-06-25
+7,241,Man/man,"Niels Harms,  Detmar Roessink",00:27:43,10,00:00:57,00:28:39,00:44:51,17,01:13:29,00:00:23,01:13:52,00:14:04,14,01:27:55,Run Bike Run Deurningen 25-06-2017,2017-06-25
+8,218,Man/man,"Edwin Veenstra,  Humphrey Fridt",00:26:52,7,00:01:00,00:27:52,00:46:49,25,01:14:41,00:00:28,01:15:09,00:13:43,11,01:28:52,Run Bike Run Deurningen 25-06-2017,2017-06-25
+9,226,Man/man,"Harold Sneller,  Martijn Halink",00:28:40,15,00:00:20,00:29:00,00:46:25,24,01:15:24,00:00:25,01:15:49,00:14:04,15,01:29:53,Run Bike Run Deurningen 25-06-2017,2017-06-25
+10,237,Man/man,"Caimin Stevens,  Hilbrand Reinders",00:25:21,1,00:00:40,00:26:01,00:51:26,64,01:17:27,00:00:25,01:17:52,00:12:05,1,01:29:56,Run Bike Run Deurningen 25-06-2017,2017-06-25
+11,403,Vrouw/vrouw,"Ellen van der Kolk,  Marjolein Stegeman",00:27:42,9,00:01:00,00:28:42,00:47:35,33,01:16:16,00:00:25,01:16:41,00:13:42,10,01:30:23,Run Bike Run Deurningen 25-06-2017,2017-06-25
+12,265,Man/man,"Tom Hagedoorn,  Arjan Engbers",00:28:38,14,00:00:20,00:28:58,00:47:17,31,01:16:15,00:00:25,01:16:40,00:13:51,13,01:30:30,Run Bike Run Deurningen 25-06-2017,2017-06-25
+13,230,Man/man,"Kevin kamphuis,  Wouter Pigge",00:29:14,20,00:00:38,00:29:51,00:46:21,23,01:16:12,00:00:25,01:16:37,00:14:08,16,01:30:45,Run Bike Run Deurningen 25-06-2017,2017-06-25
+14,228,Man/man,"Jan Scholten,  Walter Hemmer",00:25:52,3,00:00:59,00:26:51,00:50:43,57,01:17:33,00:00:25,01:17:58,00:12:53,3,01:30:50,Run Bike Run Deurningen 25-06-2017,2017-06-25
+15,202,Man/man,"Ben Nijland,  Jelmer Borgerink",00:28:43,17,00:00:20,00:29:03,00:47:15,30,01:16:18,00:00:25,01:16:43,00:14:32,21,01:31:14,Run Bike Run Deurningen 25-06-2017,2017-06-25
+16,322,Man/vrouw,"Henriët Koornberg,  Heini Koornberg",00:32:16,42,00:00:47,00:33:02,00:42:31,4,01:15:33,00:00:25,01:15:58,00:15:57,44,01:31:55,Run Bike Run Deurningen 25-06-2017,2017-06-25
+17,327,Man/vrouw,"Laurens Scholten,  Marlies ter Bekke",00:27:10,8,00:00:43,00:27:53,00:50:32,55,01:18:25,00:00:25,01:18:50,00:13:11,5,01:32:00,Run Bike Run Deurningen 25-06-2017,2017-06-25
+18,256,Man/man,"Sandy Huls,  Johny van der Kolk",00:28:44,18,00:00:49,00:29:33,00:49:33,47,01:19:06,00:00:25,01:19:31,00:13:48,12,01:33:19,Run Bike Run Deurningen 25-06-2017,2017-06-25
+19,211,Man/man,"Carst Grootelaar,  Arnold Marinus van Leeuwen",00:30:36,29,00:00:20,00:30:56,00:48:00,37,01:18:55,00:00:25,01:19:20,00:14:34,22,01:33:54,Run Bike Run Deurningen 25-06-2017,2017-06-25
+20,233,Man/man,"Luuk Scheffer,  Niels Scheffer",00:30:48,31,00:00:48,00:31:36,00:47:50,35,01:19:25,00:00:25,01:19:50,00:14:17,17,01:34:07,Run Bike Run Deurningen 25-06-2017,2017-06-25
+21,240,Man/man,"Nico van Eerden,  Maico Oude Lenferink",00:29:55,23,00:00:45,00:30:40,00:48:15,39,01:18:54,00:00:25,01:19:19,00:14:52,28,01:34:10,Run Bike Run Deurningen 25-06-2017,2017-06-25
+22,204,Man/man,"Clemens Meuleman,  Vincent Haanappel",00:30:03,25,00:00:51,00:30:53,00:48:44,45,01:19:37,00:00:25,01:20:02,00:14:27,20,01:34:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+23,209,Man/man,"Stefan Filart,  Remko Moorman",00:31:11,35,00:00:43,00:31:54,00:47:29,32,01:19:23,00:00:25,01:19:48,00:14:41,25,01:34:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+24,257,Man/man,"Sjaak Munsterman,  Gerald olde Bolhaar",00:30:10,27,00:00:45,00:30:55,00:48:39,44,01:19:33,00:00:25,01:19:58,00:14:35,23,01:34:33,Run Bike Run Deurningen 25-06-2017,2017-06-25
+25,222,Man/man,"Frank Wageman,  Eddie Heuvel",00:29:53,22,00:01:15,00:31:08,00:48:24,42,01:19:31,00:00:25,01:19:56,00:14:52,27,01:34:47,Run Bike Run Deurningen 25-06-2017,2017-06-25
+26,258,Man/man,"Stefan Boshove,  Sven Tiggelaven",00:30:56,33,00:00:40,00:31:36,00:47:51,36,01:19:27,00:00:25,01:19:52,00:14:57,31,01:34:48,Run Bike Run Deurningen 25-06-2017,2017-06-25
+27,270,Man/man,"Jordy Zwiep,  Jari Hellegers",00:31:54,36,00:00:41,00:32:35,00:46:52,27,01:19:26,00:00:25,01:19:51,00:15:00,33,01:34:51,Run Bike Run Deurningen 25-06-2017,2017-06-25
+28,310,Man/vrouw,"Branco van Minnen,  Chantal Wiggers",00:26:48,6,00:00:45,00:27:32,00:54:19,85,01:21:50,00:00:21,01:22:11,00:13:09,4,01:35:19,Run Bike Run Deurningen 25-06-2017,2017-06-25
+29,208,Man/man,"Ron Höfte,  Tom Tiehatten",00:28:23,13,00:00:20,00:28:43,00:51:30,65,01:20:12,00:00:46,01:20:57,00:14:25,19,01:35:21,Run Bike Run Deurningen 25-06-2017,2017-06-25
+30,262,Man/man,"Tijs Keuper,  Tom Wensink",00:34:52,63,00:00:20,00:35:12,00:44:03,13,01:19:14,00:00:25,01:19:39,00:15:52,43,01:35:31,Run Bike Run Deurningen 25-06-2017,2017-06-25
+31,248,Man/man,"Richard Olde Hanter,  Bart Schipper",00:33:38,54,00:00:57,00:34:35,00:44:36,16,01:19:11,00:00:25,01:19:36,00:16:39,56,01:36:14,Run Bike Run Deurningen 25-06-2017,2017-06-25
+32,330,Man/vrouw,"Malene Froeling,  Rob Froeling",00:35:10,65,00:00:38,00:35:48,00:43:29,10,01:19:16,00:00:25,01:19:41,00:17:03,64,01:36:43,Run Bike Run Deurningen 25-06-2017,2017-06-25
+33,215,Man/man,"Matthew Diemont,  Richard Boomkamp",00:33:18,50,00:00:20,00:33:38,00:45:51,21,01:19:28,00:00:25,01:19:53,00:17:02,63,01:36:55,Run Bike Run Deurningen 25-06-2017,2017-06-25
+34,329,Man/vrouw,"Maaike de Vries,  Philip Kootstra",00:35:25,67,00:00:20,00:35:45,00:43:27,8,01:19:11,00:00:25,01:19:36,00:17:29,67,01:37:05,Run Bike Run Deurningen 25-06-2017,2017-06-25
+35,231,Man/man,"Lennard Croce,  Bas Wiedemeijer",00:33:46,58,00:00:40,00:34:26,00:45:04,19,01:19:29,00:00:25,01:19:54,00:17:17,66,01:37:10,Run Bike Run Deurningen 25-06-2017,2017-06-25
+36,328,Man/vrouw,"Lyke Rots,  Manfred Zweers",00:36:34,73,00:00:20,00:36:54,00:43:20,7,01:20:13,00:00:25,01:20:38,00:17:44,72,01:38:21,Run Bike Run Deurningen 25-06-2017,2017-06-25
+37,224,Man/man,"Gerald van der Aa,  André ter Braak",00:30:03,26,00:00:20,00:30:23,00:52:48,78,01:23:11,00:00:22,01:23:33,00:14:56,29,01:38:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+38,301,Man/vrouw,"Edith Mulder,  Michel Mulder",00:36:20,72,00:00:36,00:36:56,00:43:14,6,01:20:09,00:00:25,01:20:34,00:18:01,74,01:38:34,Run Bike Run Deurningen 25-06-2017,2017-06-25
+39,214,Man/man,"Casper Bevers,  Dion Hemmer",00:32:00,38,00:00:40,00:32:40,00:50:28,54,01:23:07,00:00:21,01:23:28,00:15:14,35,01:38:41,Run Bike Run Deurningen 25-06-2017,2017-06-25
+40,236,Man/man,"Mark ten Brummelhuis,  René Tasscher",00:33:42,56,00:00:56,00:34:38,00:46:56,28,01:21:34,00:00:23,01:21:56,00:16:48,58,01:38:44,Run Bike Run Deurningen 25-06-2017,2017-06-25
+41,263,Man/man,"Tim Harberink,  Jan Dorgelo",00:31:56,37,00:00:54,00:32:50,00:50:16,52,01:23:06,00:00:25,01:23:30,00:15:15,36,01:38:45,Run Bike Run Deurningen 25-06-2017,2017-06-25
+42,216,Man/man,"Eddy Sieverink,  Rob van Dijk",00:32:20,46,00:00:46,00:33:06,00:50:01,48,01:23:06,00:00:24,01:23:30,00:15:28,38,01:38:57,Run Bike Run Deurningen 25-06-2017,2017-06-25
+43,234,Man/man,"Quinten Mulder,  Maarten Pigge",00:32:02,39,00:00:45,00:32:47,00:50:13,51,01:23:00,00:00:29,01:23:29,00:15:39,39,01:39:07,Run Bike Run Deurningen 25-06-2017,2017-06-25
+44,333,Man/vrouw,"Marlies Schoonhoven,  Winston van Oosterhout",00:35:29,68,00:00:20,00:35:49,00:44:29,15,01:20:17,00:00:25,01:20:42,00:18:31,79,01:39:13,Run Bike Run Deurningen 25-06-2017,2017-06-25
+45,242,Man/man,"Paul Eshuis,  Hugo Stamsnieder",00:30:43,30,00:00:20,00:31:03,00:52:00,72,01:23:03,00:00:17,01:23:19,00:16:14,48,01:39:32,Run Bike Run Deurningen 25-06-2017,2017-06-25
+46,219,Man/man,"Edzart Kroodsma,  Feddo Zielstra",00:33:45,57,00:00:49,00:34:33,00:48:26,43,01:22:58,00:00:23,01:23:21,00:16:21,51,01:39:42,Run Bike Run Deurningen 25-06-2017,2017-06-25
+47,311,Man/vrouw,"Carolien Lubbers,  Roderick Mintjens",00:36:55,77,00:01:00,00:37:55,00:44:01,12,01:21:55,00:00:22,01:22:17,00:17:38,69,01:39:54,Run Bike Run Deurningen 25-06-2017,2017-06-25
+48,203,Man/man,"Cas Molenbroek,  Alwie Molenbroek",00:31:01,34,00:00:44,00:31:44,00:51:17,60,01:23:01,00:00:28,01:23:29,00:16:37,54,01:40:05,Run Bike Run Deurningen 25-06-2017,2017-06-25
+49,239,Man/man,"Michel Oude Booijink,  Rob Giesselink",00:32:06,40,00:00:57,00:33:02,00:51:47,69,01:24:48,00:00:16,01:25:04,00:15:06,34,01:40:09,Run Bike Run Deurningen 25-06-2017,2017-06-25
+50,325,Man/man,"Ronald Schiphorst,  Eric Derks",00:30:16,28,00:00:51,00:31:07,00:54:05,84,01:25:11,00:00:28,01:25:39,00:14:57,32,01:40:36,Run Bike Run Deurningen 25-06-2017,2017-06-25
+51,249,Man/man,"Rick Dekkers,  Lennart Onwijn",00:32:18,45,00:00:48,00:33:05,00:51:40,67,01:24:45,00:00:19,01:25:04,00:15:40,40,01:40:43,Run Bike Run Deurningen 25-06-2017,2017-06-25
+52,243,Man/man,"Paul Poorthuis,  Ruud Ter Huurne",00:32:16,43,00:00:20,00:32:36,00:52:11,76,01:24:47,00:00:30,01:25:17,00:16:02,45,01:41:18,Run Bike Run Deurningen 25-06-2017,2017-06-25
+53,251,Man/man,"Robert Huis in t Veld,  Mark Wolfkamp",00:32:29,47,00:01:15,00:33:43,00:51:55,71,01:25:38,00:00:25,01:26:03,00:16:03,46,01:42:05,Run Bike Run Deurningen 25-06-2017,2017-06-25
+54,253,Man/man,"Ruud Bijen,  René Geerdink",00:30:51,32,00:00:20,00:31:11,00:55:22,89,01:26:33,00:00:28,01:27:01,00:15:25,37,01:42:25,Run Bike Run Deurningen 25-06-2017,2017-06-25
+55,261,Man/man,"Thomas Hietbrink,  Joury Spanjaard",00:33:25,52,00:00:40,00:34:05,00:51:19,62,01:25:24,00:00:27,01:25:51,00:16:44,57,01:42:35,Run Bike Run Deurningen 25-06-2017,2017-06-25
+56,210,Man/man,"Alex Jeffrey Van Geldrop,  Groeneveld, Jan Willem",00:32:17,44,00:01:04,00:33:21,00:52:10,75,01:25:30,00:00:21,01:25:51,00:16:56,60,01:42:46,Run Bike Run Deurningen 25-06-2017,2017-06-25
+57,267,Man/man,"Wim Swijghuizen,  Vincent Scheffer",00:33:55,60,00:00:45,00:34:40,00:51:01,59,01:25:40,00:00:25,01:26:04,00:17:01,62,01:43:04,Run Bike Run Deurningen 25-06-2017,2017-06-25
+58,316,Man/vrouw,"Ellen Banierink,  Rynald Kip",00:36:36,74,00:00:10,00:36:46,00:47:44,34,01:24:30,00:00:23,01:24:52,00:18:24,78,01:43:16,Run Bike Run Deurningen 25-06-2017,2017-06-25
+59,207,Man/man,"Niek Velltink,  Rick van Rijn",00:33:24,51,00:00:43,00:34:06,00:53:11,79,01:27:16,00:00:21,01:27:37,00:16:38,55,01:44:15,Run Bike Run Deurningen 25-06-2017,2017-06-25
+60,304,Man/vrouw,"Rianne ter Bekke,  Dirk van Haarlem",00:35:38,71,00:00:53,00:36:30,00:50:28,53,01:26:58,00:00:26,01:27:23,00:16:52,59,01:44:15,Run Bike Run Deurningen 25-06-2017,2017-06-25
+61,335,Man/vrouw,"Mirjam Kremer,  Rob van den Berghe",00:40:02,93,00:00:50,00:40:51,00:42:20,1,01:23:11,00:00:48,01:23:58,00:20:20,91,01:44:18,Run Bike Run Deurningen 25-06-2017,2017-06-25
+62,324,Man/vrouw,"Ivanka Zuijdendorp,  Daan Steffens",00:40:03,94,00:00:50,00:40:52,00:42:20,2,01:23:12,00:00:45,01:23:57,00:20:21,92,01:44:18,Run Bike Run Deurningen 25-06-2017,2017-06-25
+63,217,Man/man,"Edwin Brummelhuis,  Marcel Dreierink",00:33:09,49,00:00:57,00:34:06,00:53:48,83,01:27:53,00:00:14,01:28:07,00:16:32,53,01:44:38,Run Bike Run Deurningen 25-06-2017,2017-06-25
+64,266,Man/man,"Vincent Klaaskate,  Stijn van der Ham",00:36:41,75,00:00:58,00:37:38,00:50:56,58,01:28:34,00:00:24,01:28:57,00:16:19,49,01:45:16,Run Bike Run Deurningen 25-06-2017,2017-06-25
+65,221,Man/man,"Frank Meere,  Jasper Meere",00:29:39,21,00:01:02,00:30:41,00:59:53,99,01:30:33,00:00:24,01:30:56,00:14:39,24,01:45:34,Run Bike Run Deurningen 25-06-2017,2017-06-25
+66,220,Man/man,"Erwin Elfrink,  Rene Vos",00:35:17,66,00:00:56,00:36:12,00:51:41,68,01:27:52,00:00:18,01:28:10,00:17:37,68,01:45:47,Run Bike Run Deurningen 25-06-2017,2017-06-25
+67,309,Man/vrouw,"Bob Leussink,  Kyra van Dijk",00:28:12,12,00:00:56,00:29:07,01:01:33,101,01:30:39,00:00:25,01:31:03,00:14:56,30,01:45:59,Run Bike Run Deurningen 25-06-2017,2017-06-25
+68,342,Man/vrouw,"Timothy Olde Bolhaar,  Danielle Rothe",00:29:56,24,00:00:48,00:30:44,01:00:41,100,01:31:25,00:00:21,01:31:45,00:14:43,26,01:46:27,Run Bike Run Deurningen 25-06-2017,2017-06-25
+69,313,Man/man,"Tom Siers,  Joris Kole",00:39:23,89,00:00:44,00:40:07,00:50:02,49,01:30:09,00:00:33,01:30:41,00:16:20,50,01:47:01,Run Bike Run Deurningen 25-06-2017,2017-06-25
+70,246,Man/man,"Pim Braamhaar,  Remko Lulof",00:33:46,59,00:00:40,00:34:26,00:55:13,88,01:29:39,00:00:18,01:29:56,00:17:10,65,01:47:06,Run Bike Run Deurningen 25-06-2017,2017-06-25
+71,259,Man/man,"Stefan Sandker,  Jeroen Sandker",00:32:10,41,00:01:07,00:33:16,00:57:53,96,01:31:09,00:00:22,01:31:30,00:15:51,42,01:47:20,Run Bike Run Deurningen 25-06-2017,2017-06-25
+72,254,Man/man,"Ruud Semmekrot,  Henk Semmekrot",00:33:41,55,00:00:57,00:34:37,00:56:44,93,01:31:21,00:00:20,01:31:41,00:15:48,41,01:47:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+73,409,Vrouw/vrouw,"Marlies Semmekrot,  Anne Mulder",00:34:11,61,00:00:40,00:34:51,00:55:22,90,01:30:12,00:00:29,01:30:41,00:16:57,61,01:47:38,Run Bike Run Deurningen 25-06-2017,2017-06-25
+74,245,Man/man,"Peter Veenhoven,  Edward de Jonge",00:32:53,48,00:01:10,00:34:03,00:57:28,94,01:31:30,00:00:19,01:31:49,00:16:05,47,01:47:53,Run Bike Run Deurningen 25-06-2017,2017-06-25
+75,303,Man/vrouw,"Ilse Meulenbroek,  Paul Meulenbroek",00:36:52,76,00:00:20,00:37:12,00:52:33,77,01:29:45,00:00:18,01:30:02,00:18:03,75,01:48:05,Run Bike Run Deurningen 25-06-2017,2017-06-25
+76,318,Man/vrouw,"Elles Nieuwmeijer,  Erik Heijdens",00:40:09,95,00:00:20,00:40:29,00:47:13,29,01:27:42,00:00:22,01:28:03,00:21:01,98,01:49:03,Run Bike Run Deurningen 25-06-2017,2017-06-25
+77,227,Man/man,"Jan Grobben,  Bert Spaansen",00:38:15,83,00:00:20,00:38:35,00:53:31,82,01:32:05,00:00:28,01:32:33,00:17:38,70,01:50:11,Run Bike Run Deurningen 25-06-2017,2017-06-25
+78,334,Man/vrouw,"Merle Nijland,  Ewald Nijland",00:39:24,90,00:00:46,00:40:09,00:50:05,50,01:30:14,00:00:27,01:30:40,00:19:36,86,01:50:16,Run Bike Run Deurningen 25-06-2017,2017-06-25
+79,238,Man/man,"Martin Koop,  Martin Schoolkate",00:35:32,69,00:01:00,00:36:32,00:55:31,91,01:32:03,00:00:29,01:32:31,00:18:05,76,01:50:36,Run Bike Run Deurningen 25-06-2017,2017-06-25
+80,223,Man/man,"Friso Roeleveld,  Jos van Loon",00:38:10,81,00:01:01,00:39:11,00:50:37,56,01:29:48,00:00:28,01:30:15,00:20:50,96,01:51:04,Run Bike Run Deurningen 25-06-2017,2017-06-25
+81,319,Man/vrouw,"Elly Koning,  Jan van der Meij",00:37:36,80,00:00:59,00:38:34,00:52:10,74,01:30:44,00:00:27,01:31:10,00:20:04,88,01:51:14,Run Bike Run Deurningen 25-06-2017,2017-06-25
+82,340,Man/vrouw,"Simone van Raan,  Christian heuvel",00:42:12,101,00:00:46,00:42:58,00:48:21,41,01:31:19,00:00:21,01:31:40,00:19:49,87,01:51:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+83,308,Man/vrouw,"Anouk Ensink,  Gerald Ensink",00:39:37,92,00:00:20,00:39:57,00:51:19,61,01:31:15,00:00:22,01:31:37,00:20:51,97,01:52:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+84,201,Man/man,"André Mulder,  Wiebe Teunis",00:39:24,91,00:00:30,00:39:54,00:53:17,81,01:33:11,00:00:26,01:33:36,00:19:32,84,01:53:07,Run Bike Run Deurningen 25-06-2017,2017-06-25
+85,312,Man/man,"Bob Looijenstein,  Niek Klieverik",00:35:08,64,00:01:18,00:36:26,00:59:03,98,01:35:29,00:00:26,01:35:55,00:17:48,73,01:53:42,Run Bike Run Deurningen 25-06-2017,2017-06-25
+86,232,Man/man,"Léon Veldhof,  Erik Oude Engberink",00:43:21,104,00:00:49,00:44:10,00:48:59,46,01:33:08,00:00:25,01:33:32,00:20:12,90,01:53:44,Run Bike Run Deurningen 25-06-2017,2017-06-25
+87,331,Man/vrouw,"Marije Brummelhuis,  Jeroen Oude Smeijers",00:43:21,105,00:01:00,00:44:21,00:46:50,26,01:31:11,00:00:25,01:31:35,00:22:10,102,01:53:44,Run Bike Run Deurningen 25-06-2017,2017-06-25
+88,332,Man/vrouw,"Marlies Mulder,  Norbert Mulder",00:44:25,106,00:01:00,00:45:25,00:45:52,22,01:31:17,00:00:23,01:31:39,00:22:17,103,01:53:55,Run Bike Run Deurningen 25-06-2017,2017-06-25
+89,407,Vrouw/vrouw,"Kirsten Scholten,  Ellie Scholten",00:40:48,96,00:00:45,00:41:33,00:51:54,70,01:33:26,00:00:25,01:33:51,00:20:21,93,01:54:12,Run Bike Run Deurningen 25-06-2017,2017-06-25
+90,339,Man/vrouw,"Sanne Bauhuis,  Frans Bauhuis",00:39:13,88,00:00:30,00:39:43,00:55:06,87,01:34:49,00:00:30,01:35:18,00:19:02,82,01:54:20,Run Bike Run Deurningen 25-06-2017,2017-06-25
+91,323,Man/vrouw,"Iris Pieterse,  Jordy Finkers",00:38:17,84,00:00:46,00:39:03,00:56:14,92,01:35:17,00:00:24,01:35:40,00:18:42,81,01:54:21,Run Bike Run Deurningen 25-06-2017,2017-06-25
+92,315,Man/vrouw,"Elke Nordkamp,  Thijs Nordkamp",00:40:57,97,00:00:53,00:41:49,00:51:35,66,01:33:24,00:00:26,01:33:50,00:20:38,95,01:54:28,Run Bike Run Deurningen 25-06-2017,2017-06-25
+93,305,Man/vrouw,"Sonja Kruse,  Rob Kruse",00:41:00,98,00:00:57,00:41:57,00:53:15,80,01:35:11,00:00:24,01:35:35,00:20:22,94,01:55:56,Run Bike Run Deurningen 25-06-2017,2017-06-25
+94,229,Man/man,"Jerker Wouters,  Martijn van Beek",00:38:59,85,00:00:30,00:39:29,00:58:04,97,01:37:33,00:00:29,01:38:01,00:18:40,80,01:56:41,Run Bike Run Deurningen 25-06-2017,2017-06-25
+95,343,Man/vrouw,"Marike Bos,  Marcello Aresu",00:34:50,62,00:00:53,00:35:42,01:02:53,102,01:38:35,00:00:26,01:39:01,00:18:06,77,01:57:06,Run Bike Run Deurningen 25-06-2017,2017-06-25
+96,306,Man/vrouw,"Angela scholten,  Eric homan",00:43:03,103,00:00:53,00:43:56,00:51:23,63,01:35:19,00:00:27,01:35:45,00:21:55,101,01:57:40,Run Bike Run Deurningen 25-06-2017,2017-06-25
+97,404,Vrouw/vrouw,"Gonnie de Koning,  Desiree Ziemerink",00:37:01,78,00:01:00,00:38:01,00:45:02,18,01:23:02,00:00:25,01:23:27,00:34:29,107,01:57:56,Run Bike Run Deurningen 25-06-2017,2017-06-25
+98,341,Man/vrouw,"Tessa Nelissen,  Jan Nelissen",00:42:10,99,00:00:51,00:43:00,00:52:07,73,01:35:06,00:01:27,01:36:33,00:21:24,99,01:57:56,Run Bike Run Deurningen 25-06-2017,2017-06-25
+99,405,Vrouw/vrouw,"Iris Olde Wolsink,  Pien Grootenhaar",00:39:09,87,00:00:48,00:39:56,00:57:52,95,01:37:48,00:00:27,01:38:15,00:20:07,89,01:58:21,Run Bike Run Deurningen 25-06-2017,2017-06-25
+100,326,Man/vrouw,"Kirsten Frazer,  René Frazer",00:42:21,102,00:01:00,00:43:21,00:54:25,86,01:37:46,00:00:28,01:38:13,00:22:24,104,02:00:37,Run Bike Run Deurningen 25-06-2017,2017-06-25
+101,212,Man/man,"Bert Schepers,  Raymond Padberg",00:33:28,53,00:01:07,00:34:35,01:09:23,106,01:43:57,00:00:30,01:44:27,00:16:28,52,02:00:54,Run Bike Run Deurningen 25-06-2017,2017-06-25
+102,408,Man/vrouw,"Roan Olthof,  Nikki Broekmate",00:38:10,82,00:00:48,00:38:57,01:03:54,103,01:42:51,00:00:23,01:43:13,00:19:12,83,02:02:24,Run Bike Run Deurningen 25-06-2017,2017-06-25
+103,401,Vrouw/vrouw,"Anita Kwast,  Ylonka Lemmers",00:37:15,79,00:01:02,00:38:16,00:48:02,38,01:26:18,00:17:02,01:43:19,00:19:32,85,02:02:50,Run Bike Run Deurningen 25-06-2017,2017-06-25
+104,336,Man/vrouw,"Mirjam Oude Smeijers,  Robert Wolsing",00:49:17,108,00:00:40,00:49:57,00:48:21,40,01:38:18,00:00:27,01:38:44,00:24:16,106,02:03:00,Run Bike Run Deurningen 25-06-2017,2017-06-25
+105,235,Man/man,"Marcel Wennink,  Athur Peters",00:35:35,70,00:00:58,00:36:33,01:13:17,107,01:49:49,00:00:34,01:50:23,00:17:39,71,02:08:01,Run Bike Run Deurningen 25-06-2017,2017-06-25
+106,338,Man/vrouw,"Oude Smeijers,  Aloys Engelbertink",00:42:12,100,00:01:10,00:43:21,01:07:13,105,01:50:34,00:00:28,01:51:01,00:21:25,100,02:12:26,Run Bike Run Deurningen 25-06-2017,2017-06-25
+107,402,Vrouw/vrouw,"Èllen Peters,  Maaike van Heek",00:45:32,107,00:01:00,00:46:32,01:05:02,104,01:51:33,00:00:32,01:52:05,00:24:13,105,02:16:17,Run Bike Run Deurningen 25-06-2017,2017-06-25
+108,406,Vrouw/vrouw,"Jeanne Boenink,  Britt Griepink",00:39:08,86,00:00:47,00:39:54,,0,,,,,0,,Run Bike Run Deurningen 25-06-2017,2017-06-25
+109,337,Man/vrouw,"Myrte Visser,  Martijn Bus",,0,,00:31:34,00:51:36,0,01:23:09,00:00:49,01:23:58,,0,,Run Bike Run Deurningen 25-06-2017,2017-06-25

@@ -1,0 +1,502 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,Brutotijd,NettoTijd,Foto,race,date
+1,5700,Amir Bakkali-Yakhlef,Amersfoort,JG-4,1,00:04:05,00:04:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+2,5936,Jasper Bouw,Amersfoort,JG-4,2,00:04:05,00:04:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+3,6397,Henry Nicolaas,Amersfoort,JG-4,3,00:04:07,00:04:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+4,5921,Bobbie van der Vleuten,Amersfoort,JG-4,4,00:04:13,00:04:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+5,5944,Rayyan Rouchou,Amersfoort,JG-4,5,00:04:24,00:04:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+6,6008,Daniel van Mourik,Amersfoort,JG-4,6,00:04:24,00:04:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+7,6070,Tycho Fontein,Amersfoort,JG-4,7,00:04:24,00:04:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+8,6328,Jeroen Mols,Amersfoort,JG-4,8,00:04:24,00:04:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+9,6424,Tijn Bouman,Amersfoort,JG-4,9,00:04:25,00:04:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+10,5636,Merlijn Forée,Amersfoort,JG-4,10,00:04:34,00:04:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+11,6060,Aron de Graaf,Amersfoort,JG-4,11,00:04:34,00:04:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+12,6535,,,,0,00:04:38,00:04:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+13,5939,Lode de Jager,Amersfoort,JG-4,12,00:04:39,00:04:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+14,6418,Lucas Van Roost,Amersfoort,JG-4,13,00:04:39,00:04:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+15,6385,Eva Wagemakers,Amersfoort,MG-4,1,00:04:39,00:04:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+16,5906,Kian Fréni,Amersfoort,JG-4,14,00:04:41,00:04:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+17,5621,Fons van Loon,Amersfoort,JG-4,15,00:04:41,00:04:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+18,6075,Jelte Cornelissen,Amersfoort,JG-4,16,00:04:43,00:04:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+19,5851,Pelle Huitema,Amersfoort,JG-4,17,00:04:44,00:04:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+20,5634,Thomas Eimermann,Amersfoort,JG-4,18,00:04:44,00:04:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+21,5674,Koen Boot,Amersfoort,JG-4,19,00:04:44,00:04:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+22,6056,Marijn van Pelt,Amersfoort,JG-4,20,00:04:45,00:04:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+23,6450,Daan van Wolfswinkel,Amersfoort,JG-4,21,00:04:47,00:04:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+24,6287,Pelle de Raad,Amersfoort,JG-4,22,00:04:47,00:04:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+25,5602,Noa Schut,Amersfoort,MG-4,2,00:04:48,00:04:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+26,6153,Joris Lamaker,Amersfoort,JG-4,23,00:04:50,00:04:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+27,5974,Sasha Smink,Amersfoort,MG-4,3,00:04:51,00:04:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+28,6312,Elske Dunnink,Amersfoort,MG-4,4,00:04:51,00:04:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+29,5611,Stijn Pen,Amersfoort,JG-4,24,00:04:53,00:04:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+30,6206,Beer Jacobs,Amersfoort,JG-4,25,00:04:53,00:04:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+31,6536,,,,0,00:04:54,00:04:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+32,6323,Annelies van Gool,Amersfoort,MG-4,5,00:04:55,00:04:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+33,5815,Taeke Doevendans,Amersfoort,JG-4,26,00:04:56,00:04:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+34,5691,Rinus Teunissen,Amersfoort,JG-4,27,00:04:57,00:04:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+35,6432,Eneas Verbakel,Soest,JG-4,28,00:04:58,00:04:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+36,6264,Niek Bos,Hooglanderveen,JG-4,29,00:04:58,00:04:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+37,5964,Max Van Kraaikamp,Hoogland,JG-4,30,00:04:58,00:04:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+38,5692,Peter Teunissen,Amersfoort,JG-4,31,00:04:59,00:04:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+39,5908,Olivia Schoenaker,Amersfoort,MG-4,6,00:04:59,00:04:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+40,6446,Sijmen van der Harst,Amersfoort,JG-4,32,00:04:59,00:04:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+41,6386,Jayden van Weede,Amersfoort,JG-4,33,00:05:00,00:04:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+42,5765,Teun Wouterson,Amersfoort,JG-4,34,00:05:00,00:04:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+43,6119,Cato Willemink,Amersfoort,MG-4,7,00:05:00,00:04:58,"",Amersfoort Marathon   05-06-2016,2016-06-05
+44,6161,Zoë van Koningsveld,Amersfoort,MG-4,8,00:05:00,00:04:58,"",Amersfoort Marathon   05-06-2016,2016-06-05
+45,5731,Sascha Mahdi,Amersfoort,MG-4,9,00:05:02,00:05:02,"",Amersfoort Marathon   05-06-2016,2016-06-05
+46,6382,Ruben Malak,Amersfoort,JG-4,35,00:05:03,00:04:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+47,6281,Floortje Schaapveld,Amersfoort,MG-4,10,00:05:05,00:05:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+48,6042,Feline Smand,Amersfoort,MG-4,11,00:05:06,00:05:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+49,6408,Benjamin Gotte,Amersfoort,JG-4,36,00:05:07,00:04:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+50,5630,Tom Koolen,Amersfoort,JG-4,37,00:05:07,00:05:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+51,5728,Mette Wendt,Amersfoort,MG-4,12,00:05:09,00:05:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+52,6425,Jasper Bouman,Amersfoort,JG-4,38,00:05:09,00:05:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+53,6457,Tom Westdijk,Amersfoort,JG-4,39,00:05:09,00:05:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+54,6096,Elisha Domingos,Amersfoort,MG-4,13,00:05:10,00:05:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+55,6145,Samuel Post,Amersfoort,JG-4,40,00:05:10,00:05:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+56,5649,Jet Pijls,Amersfoort,MG-4,14,00:05:10,00:05:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+57,6129,Ralph Jansen,Amersfoort,JG-4,41,00:05:11,00:05:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+58,6234,Joey Smith,Amersfoort,JG-4,42,00:05:11,00:05:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+59,5828,Jort Piepers,Amersfoort,JG-4,43,00:05:11,00:04:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+60,5941,Boaz van Nes,Amersfoort,JG-4,44,00:05:11,00:05:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+61,6235,Sasha Malevitsch,Amersfoort,JG-4,45,00:05:11,00:05:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+62,6378,Esmee Staal,Amersfoort,MG-4,15,00:05:12,00:05:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+63,6026,Dean Hendriks,Amersfoort,JG-4,46,00:05:13,00:05:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+64,5608,Yfke van der Meer,Amersfoort,MG-4,16,00:05:14,00:05:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+65,6284,Wende de Witte,Amersfoort,MG-4,17,00:05:14,00:05:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+66,5990,Naut van Weert,Amersfoort,JG-4,47,00:05:14,00:05:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+67,6071,Anick Fontein,Amersfoort,MG-4,18,00:05:15,00:05:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+68,6067,Hielke Boorsma,Amersfoort,JG-4,48,00:05:15,00:05:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+69,6124,Quinten van Gulik,Amersfoort,JG-4,49,00:05:15,00:05:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+70,6331,Eline Barsema,Amersfoort,MG-4,19,00:05:16,00:05:02,"",Amersfoort Marathon   05-06-2016,2016-06-05
+71,6033,Nout Vos,Amersfoort,JG-4,50,00:05:16,00:05:02,"",Amersfoort Marathon   05-06-2016,2016-06-05
+72,5875,Reinout den Boer,Amersfoort,JG-4,51,00:05:17,00:05:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+73,6203,Joost Steenhuis,Amersfoort,JG-4,52,00:05:17,00:05:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+74,6197,Sebastiaan Oldenhuis Arwe,Amersfoort,JG-4,53,00:05:18,00:05:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+75,5930,Kyara Lankheet,Amersfoort,MG-4,20,00:05:19,00:05:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+76,5981,Jacob Meissner,Amersfoort,JG-4,54,00:05:19,00:05:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+77,5715,Pelle van der Kuip,Amersfoort,JG-4,55,00:05:19,00:05:17,"",Amersfoort Marathon   05-06-2016,2016-06-05
+78,6198,Dio van den Akker,Amersfoort,JG-4,56,00:05:20,00:05:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+79,5655,Chi vy Ho,Amersfoort,JG-4,57,00:05:20,00:05:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+80,5955,Ole Hamberg,Amersfoort,JG-4,58,00:05:20,00:05:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+81,5805,Jasper Laros,Amersfoort,JG-4,59,00:05:20,00:05:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+82,5652,Maelynn Kok,Amersfoort,MG-4,21,00:05:21,00:05:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+83,6273,Isabelle Duchateau,Amersfoort,MG-4,22,00:05:22,00:05:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+84,6420,Simon Nagel,Amersfoort,JG-4,60,00:05:22,00:04:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+85,5889,Jasper van den Hengel,Amersfoort,JG-4,61,00:05:22,00:05:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+86,5905,Dries Möhlmann,Amersfoort,JG-4,62,00:05:23,00:05:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+87,5701,Sara Bakkali-Yakhlef,Amersfoort,MG-4,23,00:05:23,00:05:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+88,5820,Levi Bakker,Amersfoort,JG-4,63,00:05:23,00:05:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+89,6366,Sofie Kroon,Amersfoort,MG-4,24,00:05:25,00:05:17,"",Amersfoort Marathon   05-06-2016,2016-06-05
+90,6181,Bram van den Hoorn,Amersfoort,JG-4,64,00:05:25,00:05:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+91,6041,Lars Bouma,Amersfoort,JG-4,65,00:05:26,00:05:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+92,6490,Alain Tourne,Amersfoort,JG-4,66,00:05:26,00:05:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+93,5720,Maurits van Dijk,Amersfoort,JG-4,67,00:05:26,00:05:26,"",Amersfoort Marathon   05-06-2016,2016-06-05
+94,6140,Aron Geldof,Amersfoort,JG-4,68,00:05:27,00:05:17,"",Amersfoort Marathon   05-06-2016,2016-06-05
+95,6475,Jayro Epskamp,Nijkerk Gld,JG-4,69,00:05:27,00:05:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+96,5947,Sami Chaiat,Amersfoort,JG-4,70,00:05:27,00:05:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+97,5814,Mees Kempen,Amersfoort,JG-4,71,00:05:28,00:05:26,"",Amersfoort Marathon   05-06-2016,2016-06-05
+98,6494,Cas Wiggers,Soesterberg,JG-4,72,00:05:29,00:05:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+99,6020,Milan Broekhuijsen,Amersfoort,JG-4,73,00:05:29,00:05:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+100,6156,Luuk Verhallen,Amersfoort,JG-4,74,00:05:30,00:05:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+101,6344,Daniël de Vos,Amersfoort,JG-4,75,00:05:30,00:05:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+102,5647,Bjorn Timmer,Amersfoort,JG-4,76,00:05:31,00:05:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+103,5614,Wessel Heddes,Amersfoort,JG-4,77,00:05:31,00:05:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+104,5617,Lotus Veltman,Amersfoort,MG-4,25,00:05:31,00:05:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+105,6410,YaraRoos de Wit,Amersfoort,MG-4,26,00:05:31,00:05:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+106,6411,IvaLynn de Wit,Amersfoort,MG-4,27,00:05:31,00:05:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+107,5610,Annelou Pen,Amersfoort,MG-4,28,00:05:32,00:05:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+108,5957,Sem Bilstra,Amersfoort,JG-4,78,00:05:33,00:05:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+109,5627,Isa Devick,Amersfoort,MG-4,29,00:05:33,00:05:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+110,5752,Jaeda Isidora,Amersfoort,MG-4,30,00:05:33,00:05:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+111,6249,Saar de Boer,Amersfoort,MG-4,31,00:05:34,00:05:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+112,5832,Jinthe Piet,Amersfoort,MG-4,32,00:05:34,00:05:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+113,6453,Kalle Chang,Leusden,JG-4,79,00:05:35,00:05:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+114,5868,Lukas van Dort,Amersfoort,JG-4,80,00:05:35,00:05:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+115,6179,Moshe Adams,Amersfoort,JG-4,81,00:05:36,00:05:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+116,5710,Kaan Keskin,Amersfoort,JG-4,82,00:05:37,00:05:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+117,5686,Jesse Voogd,Amersfoort,JG-4,83,00:05:38,00:05:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+118,5980,Bram Bergmans,Amersfoort,JG-4,84,00:05:39,00:05:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+119,5807,Lola Schimmel,Amersfoort,MG-4,33,00:05:40,00:05:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+120,5975,Casper Willems,Amersfoort,JG-4,85,00:05:40,00:05:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+121,6291,Tomas Mosquera Kragt,Hoogland,JG-4,86,00:05:40,00:05:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+122,6313,Luuk Binnekamp,Amersfoort,JG-4,87,00:05:41,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+123,5878,Lina Rajai,Amersfoort,MG-4,34,00:05:41,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+124,6150,Eef Moorees,Amersfoort,MG-4,35,00:05:42,00:05:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+125,6238,Sander Ruijgers,Amersfoort,JG-4,88,00:05:43,00:05:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+126,5641,Emil Huisman,Amersfoort,JG-4,89,00:05:45,00:05:35,"",Amersfoort Marathon   05-06-2016,2016-06-05
+127,5757,Kian van Hoeijen,Amersfoort,JG-4,90,00:05:45,00:05:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+128,6245,Laura van Eijk,Amersfoort,MG-4,36,00:05:45,00:05:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+129,5902,Marijn Ragas,Amersfoort,JG-4,91,00:05:46,00:05:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+130,6288,Mylène Deden,Amersfoort,MG-4,37,00:05:46,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+131,6359,Ravi Brinkman,Amersfoort,JG-4,92,00:05:47,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+132,6099,Simon van Groen,Amersfoort,JG-4,93,00:05:47,00:05:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+133,5942,Samuël van Nes,Amersfoort,JG-4,94,00:05:47,00:05:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+134,5697,Dion Nijhout,Amersfoort,JG-4,95,00:05:48,00:05:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+135,6073,Annejet Mourits,Amersfoort,MG-4,38,00:05:48,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+136,5625,Indy Rijnbeek,Amersfoort,JG-4,96,00:05:49,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+137,6237,Eva Buitenkamp,Amersfoort,MG-4,39,00:05:49,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+138,6354,Pepijn Mandemaker,Amersfoort,JG-4,97,00:05:49,00:05:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+139,6111,Tijs van Hooidonk,Amersfoort,JG-4,98,00:05:49,00:05:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+140,6267,Zakkaryia Akkatal,Amersfoort,JG-4,99,00:05:49,00:05:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+141,6126,Jamie van Ombergen,Amersfoort,JG-4,100,00:05:50,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+142,6370,Iona van de Wetering,Amersfoort,MG-4,40,00:05:50,00:05:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+143,5742,Sanna Grbic,Amersfoort,MG-4,41,00:05:50,00:05:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+144,5949,Thomas van Deelen,Amersfoort,JG-4,101,00:05:50,00:05:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+145,5904,Suze de Goede,Amersfoort,MG-4,42,00:05:51,00:05:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+146,5909,Christian Schoenaker,Amersfoort,JG-4,102,00:05:51,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+147,6280,Norah Meijnhardt,Amersfoort,MG-4,43,00:05:51,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+148,6367,Otis Prins,Amersfoort,JG-4,103,00:05:51,00:05:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+149,6461,Tommy Vendrig,Soest,JG-4,104,00:05:52,00:05:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+150,5637,Tom Stoss,Amersfoort,JG-4,105,00:05:52,00:05:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+151,5671,Romy Bendanon,Amersfoort,MG-4,44,00:05:52,00:05:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+152,5734,Vincent van Capelleveen,Amersfoort,JG-4,106,00:05:52,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+153,6427,Joaz Moerdijk,Amersfoort,JG-4,107,00:05:52,00:05:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+154,5869,Jaiden Renfurm,Amersfoort,JG-4,108,00:05:53,00:05:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+155,5788,Kian de Ruiter,Hooglanderveen,JG-4,109,00:05:53,00:05:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+156,6278,Leon op den Brouw,Amersfoort,JG-4,110,00:05:53,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+157,6374,Colin Dooijewaard,Amersfoort,JG-4,111,00:05:54,00:05:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+158,5767,Teije Mennema,Amersfoort,JG-4,112,00:05:54,00:05:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+159,6305,Noa Slop,Amersfoort,MG-4,45,00:05:54,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+160,5945,Sarah Rouchou,Amersfoort,MG-4,46,00:05:54,00:05:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+161,6001,Thijmen Pruim,Amersfoort,JG-4,113,00:05:55,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+162,5753,Iliyas Abdirahman,Amersfoort,JG-4,114,00:05:55,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+163,5739,Yara Verschuren,Amersfoort,MG-4,47,00:05:55,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+164,5675,Suze Boot,Amersfoort,MG-4,48,00:05:56,00:05:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+165,5732,Jelmer Trip,Hooglanderveen,JG-4,115,00:05:56,00:05:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+166,6012,Luka van Marle,Amersfoort,JG-4,116,00:05:57,00:05:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+167,6482,Bas Rutgers,Amersfoort,JG-4,117,00:05:57,00:05:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+168,5988,Daan Bijl,Hoogland,JG-4,118,00:05:57,00:05:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+169,6034,Lieke Henkens,Amersfoort,MG-4,49,00:05:58,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+170,5881,Loek Weg,Amersfoort,JG-4,119,00:05:58,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+171,5895,Charley Frenken,Amersfoort,MG-4,50,00:05:58,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+172,5912,Floris Out,Amersfoort,JG-4,120,00:05:59,00:05:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+173,5787,Jasper Bakker,Amersfoort,JG-4,121,00:05:59,00:05:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+174,6022,Imke van der Bruggen,Amersfoort,MG-4,51,00:06:00,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+175,6445,Quinn Tieman,Amersfoort,JG-4,122,00:06:00,00:05:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+176,5838,Beau van Eijden,Amersfoort,JG-4,123,00:06:00,00:05:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+177,6157,Jonatahn van Bokhorst,Amersfoort,JG-4,124,00:06:00,00:05:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+178,6456,Nienke Lozeman,Leusden,MG-4,52,00:06:01,00:05:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+179,6199,Belal Teymouri,Amersfoort,JG-4,125,00:06:01,00:05:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+180,5937,Nina Spoor,Amersfoort,MG-4,53,00:06:02,00:05:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+181,6202,Pepijn Steenhuis,Amersfoort,JG-4,126,00:06:03,00:05:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+182,5687,Hannah Peereboom,Amersfoort,MG-4,54,00:06:03,00:05:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+183,6412,Moos de Wit,Amersfoort,JG-4,127,00:06:03,00:05:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+184,5721,Julius van Dijk,Amersfoort,JG-4,128,00:06:03,00:06:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+185,5689,Dani Taspinar,Amersfoort,JG-4,129,00:06:04,00:05:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+186,6066,Yannick Beltman,Amersfoort,JG-4,130,00:06:04,00:05:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+187,6252,Mika Martijn,Amersfoort,JG-4,131,00:06:05,00:06:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+188,6009,Lieuwe van der Linden,Amersfoort,JG-4,132,00:06:05,00:05:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+189,5745,Sietse Peeters,Amersfoort,JG-4,133,00:06:06,00:05:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+190,5853,Lenthe van der Meer,Amersfoort,MG-4,55,00:06:06,00:05:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+191,6531,,,,0,00:06:06,00:05:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+192,6294,Matthijs Mulder,Amersfoort,JG-4,134,00:06:07,00:05:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+193,5859,Alvano Post,Amersfoort,JG-4,135,00:06:07,00:06:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+194,6346,Tess van de Pijpekamp,Amersfoort,MG-4,56,00:06:08,00:05:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+195,6097,Cheliza Domingos,Amersfoort,MG-4,57,00:06:08,00:06:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+196,6440,Sebastiaan Mud,Amersfoort,JG-4,136,00:06:09,00:05:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+197,6025,Veerle van Tilburg,Amersfoort,MG-4,58,00:06:09,00:06:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+198,5631,Brian Meijer,Hooglanderveen,JG-4,137,00:06:09,00:06:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+199,5866,Anne Talsma,Amersfoort,MG-4,59,00:06:09,00:06:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+200,6459,Luka Peters,Amersfoort,JG-4,138,00:06:09,00:05:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+201,6015,Teun Onstee,Hooglanderveen,JG-4,139,00:06:10,00:05:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+202,6031,Nova Burm,Amersfoort,MG-4,60,00:06:10,00:06:02,"",Amersfoort Marathon   05-06-2016,2016-06-05
+203,5849,Jurre Menkehorst,Amersfoort,JG-4,140,00:06:11,00:06:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+204,5817,Elin van Toorenburg,Hoogland,MG-4,61,00:06:11,00:05:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+205,6334,Freek Slagter,Amersfoort,JG-4,141,00:06:11,00:05:58,"",Amersfoort Marathon   05-06-2016,2016-06-05
+206,6110,Jonathan van Elst,Woudenberg,JG-4,142,00:06:12,00:05:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+207,6242,Evi Jansen,Amersfoort,MG-4,62,00:06:12,00:06:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+208,5877,Karlijn de Vries,Amersfoort,MG-4,63,00:06:12,00:06:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+209,6081,Alexander de Jong,Amersfoort,JG-4,143,00:06:13,00:05:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+210,6477,Siem Helmens,Amersfoort,JG-4,144,00:06:13,00:05:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+211,6476,Jouno Epskamp,Nijkerk Gld,JG-4,145,00:06:14,00:05:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+212,6468,Anne-Sophie Reudink,Amersfoort,MG-4,64,00:06:15,00:06:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+213,6239,Ruben Ruijgers,Amersfoort,JG-4,146,00:06:15,00:06:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+214,6303,Israe Hajjari,Amersfoort,MG-4,65,00:06:16,00:06:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+215,5763,Emilie de Jong,Amersfoort,MG-4,66,00:06:16,00:06:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+216,5892,Kian Strooker,Amersfoort,JG-4,147,00:06:17,00:06:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+217,6062,Merit Wiss,Amersfoort,MG-4,67,00:06:17,00:06:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+218,6437,Alba van de Giesen,Amersfoort,MG-4,68,00:06:17,00:06:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+219,6501,Phileine Vereijken,Amersfoort,MG-4,69,00:06:18,00:06:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+220,5802,Claartje de Jong,Amersfoort,MG-4,70,00:06:18,00:06:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+221,5711,Defne Keskin,Amersfoort,MG-4,71,00:06:19,00:05:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+222,6152,Marit Lamaker,Amersfoort,MG-4,72,00:06:20,00:06:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+223,5626,Alexander Kielar,Amersfoort,JG-4,148,00:06:20,00:06:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+224,6481,Ellen Rutgers,Amersfoort,MG-4,73,00:06:21,00:06:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+225,5733,Roos Trip,Hooglanderveen,MG-4,74,00:06:22,00:06:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+226,6243,Mees Ruitenbeek,Amersfoort,JG-4,149,00:06:22,00:06:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+227,6209,Emma Splinter,Amersfoort,MG-4,75,00:06:23,00:06:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+228,6013,Tymo Boey,Amersfoort,JG-4,150,00:06:23,00:06:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+229,6005,Ornella Hegmans,Amersfoort,MG-4,76,00:06:24,00:06:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+230,6216,Esmaé de Gans,Amersfoort,MG-4,77,00:06:25,00:06:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+231,5977,Nore van Leeuwen,Amersfoort,MG-4,78,00:06:26,00:06:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+232,5772,Damin Yildiz,Hooglanderveen,JG-4,151,00:06:26,00:06:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+233,6419,Amelie Van Roost,Amersfoort,MG-4,79,00:06:27,00:06:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+234,6137,Jaap Mathijssen,Amersfoort,JG-4,152,00:06:27,00:06:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+235,6375,Sterre Dietvorst,Amersfoort,MG-4,80,00:06:28,00:06:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+236,6330,Ruth Hüttner,Amersfoort,MG-4,81,00:06:28,00:06:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+237,5913,Sep van Diepen,Amersfoort,JG-4,153,00:06:28,00:06:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+238,6201,Baer Karadavut,Amersfoort,JG-4,154,00:06:28,00:06:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+239,6215,Iris Konings,Amersfoort,MG-4,82,00:06:28,00:06:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+240,6265,Noud van Opdorp,Amersfoort,JG-4,155,00:06:29,00:06:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+241,6544,Luna Kneefel,,MG-4,83,00:06:29,00:06:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+242,6251,Luca Martijn,Amersfoort,JG-4,156,00:06:29,00:06:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+243,6166,Yannick van der Heijden,Amersfoort,MG-4,84,00:06:29,00:06:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+244,5666,Lucie Leeuwis,Amersfoort,MG-4,85,00:06:30,00:06:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+245,6254,Jelle Verstraete,Amersfoort,JG-4,157,00:06:30,00:06:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+246,5979,Ben Ripken,Hoogland,JG-4,158,00:06:30,00:06:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+247,6405,Bart Jansen,Amersfoort,JG-4,159,00:06:31,00:06:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+248,6055,Thomas Sijbrandi,Amersfoort,JG-4,160,00:06:31,00:06:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+249,6154,Rens van Duijn,Amersfoort,JG-4,161,00:06:31,00:05:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+250,5800,Floris Boersema,Hooglanderveen,JG-4,162,00:06:31,00:06:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+251,6438,Bastiaan Bot,Amersfoort,JG-4,163,00:06:31,00:06:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+252,6514,Matthijs Bach,Amersfoort,JG-4,164,00:06:32,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+253,5925,Lise Beltman,Amersfoort,MG-4,86,00:06:32,00:06:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+254,5776,Eron Postema,Amersfoort,JG-4,165,00:06:32,00:06:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+255,5943,Vincent Vegas Perez,Amersfoort,JG-4,166,00:06:32,00:06:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+256,6151,Lotte Moorees,Amersfoort,MG-4,87,00:06:33,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+257,5682,Luc Hagens,Amersfoort,JG-4,167,00:06:33,00:06:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+258,5995,Kai van Almkerk,Amersfoort,JG-4,168,00:06:33,00:05:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+259,5661,Mia de Graaf,Amersfoort,MG-4,88,00:06:33,00:06:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+260,6315,Auke Binnekamp,Amersfoort,JG-4,169,00:06:34,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+261,5773,Musa Aktaran,Amersfoort,JG-4,170,00:06:34,00:06:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+262,6489,Impano Vanheste,GrouGent,MG-4,89,00:06:35,00:06:18,"",Amersfoort Marathon   05-06-2016,2016-06-05
+263,6229,Soraya Teffer,Amersfoort,MG-4,90,00:06:35,00:06:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+264,5609,Hanne van der Meer,Amersfoort,MG-4,91,00:06:35,00:06:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+265,5713,Thies van Vliet,Amersfoort,JG-4,171,00:06:35,00:06:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+266,5740,Davi Bakhuisen,Soesterberg,JG-4,172,00:06:35,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+267,5741,Lina Bakhuisen,Soesterberg,MG-4,92,00:06:36,00:06:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+268,6125,Esmee Verhaak,Amersfoort,MG-4,93,00:06:37,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+269,6100,Sterre Colijn,Amersfoort,MG-4,94,00:06:38,00:06:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+270,6289,Floranne Keulen,Hoogland,MG-4,95,00:06:38,00:06:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+271,5622,Minke Wildeman,Amersfoort,MG-4,96,00:06:39,00:06:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+272,6106,Bas van der Schriek,Amersfoort,JG-4,173,00:06:39,00:06:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+273,5940,Mila Koorman,Amersfoort,MG-4,97,00:06:40,00:06:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+274,6221,Marwa Farkesh,Amersfoort,MG-4,98,00:06:40,00:06:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+275,6406,Julia de Graaff,Amersfoort,MG-4,99,00:06:40,00:06:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+276,6053,Isra Sghir,Amersfoort,MG-4,100,00:06:40,00:06:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+277,6314,Jurian de Vries,Biddinghuizen,JG-4,174,00:06:40,00:06:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+278,6233,Lorraina Huffels,Amersfoort,MG-4,101,00:06:41,00:06:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+279,5821,Jasmijn Bakker,Amersfoort,MG-4,102,00:06:42,00:06:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+280,6266,Iben van Opdorp,Amersfoort,JG-4,175,00:06:42,00:06:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+281,5830,Jenderick Martina,Amersfoort,JG-4,176,00:06:42,00:05:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+282,5884,Nika Bredemeijer,Amersfoort,MG-4,103,00:06:43,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+283,6231,Kristel Su,Amersfoort,MG-4,104,00:06:43,00:06:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+284,6351,Quinty van Bokhorst,Amersfoort,MG-4,105,00:06:44,00:06:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+285,6226,Joep Broerse,Amersfoort,JG-4,177,00:06:44,00:06:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+286,6244,Lieke Jensma,Amersfoort,MG-4,106,00:06:46,00:06:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+287,5968,Anouk van Nifterik,Amersfoort,MG-4,107,00:06:46,00:06:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+288,6377,Wesje Onland,Hoogland,JG-4,178,00:06:49,00:06:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+289,5702,Nora Kompier,Amersfoort,MG-4,108,00:06:49,00:06:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+290,6299,Rafi Mohamed,Amersfoort,JG-4,179,00:06:50,00:06:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+291,6316,Dex van der Gouw,Amersfoort,JG-4,180,00:06:50,00:06:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+292,5645,Mila Peeters,Amersfoort,MG-4,109,00:06:52,00:06:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+293,6311,Quinty van Oorschot,Amersfoort,MG-4,110,00:06:53,00:06:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+294,6219,Mathieu Roelofs,Amersfoort,JG-4,181,00:06:53,00:06:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+295,5646,Zola Peeters,Amersfoort,MG-4,111,00:06:53,00:06:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+296,6309,Eline Felix,Amersfoort,MG-4,112,00:06:53,00:06:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+297,6455,Floortje Jongsma,Amersfoort,MG-4,113,00:06:54,00:06:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+298,6155,Mirjam van Dooren,Amersfoort,MG-4,114,00:06:54,00:06:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+299,6255,Casper Kloet,Amersfoort,JG-4,182,00:06:54,00:06:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+300,6098,Lotte Engelberts,Amersfoort,MG-4,115,00:06:55,00:06:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+301,5719,Roos Spieker,Amersfoort,MG-4,116,00:06:55,00:06:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+302,6389,Lente Ermers,Hoogland,MG-4,117,00:06:55,00:06:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+303,6483,Linde Huizing,Amersfoort,MG-4,118,00:06:55,00:06:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+304,5900,Femke Verhoef,Hoogland,MG-4,119,00:06:55,00:06:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+305,6210,Jasper Nieuwland,Amersfoort,JG-4,183,00:06:58,00:06:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+306,5835,Hanna Zwaan,Amersfoort,MG-4,120,00:06:58,00:06:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+307,6017,Morgan Jonas,Amersfoort,JG-4,184,00:06:58,00:06:38,"",Amersfoort Marathon   05-06-2016,2016-06-05
+308,6268,Tieme de Jong,Amersfoort,JG-4,185,00:06:59,00:06:31,"",Amersfoort Marathon   05-06-2016,2016-06-05
+309,6167,Onno Hoekstra,Amersfoort,JG-4,186,00:06:59,00:06:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+310,6502,Stéphanie Vereijken,Amersfoort,MG-4,121,00:06:59,00:06:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+311,5606,Lorenzo Oggianu,Amersfoort,JG-4,187,00:07:00,00:06:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+312,5915,Evy van der Zijden,Amersfoort,MG-4,122,00:07:00,00:06:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+313,6117,Marieke Stolwijk,Amersfoort,MG-4,123,00:07:00,00:06:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+314,6401,Noor van Dijk,Amersfoort,MG-4,124,00:07:01,00:06:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+315,6371,Saar Duine,Hoogland,MG-4,125,00:07:01,00:06:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+316,6029,Mckayla Resosemito,Amersfoort,MG-4,126,00:07:01,00:06:24,"",Amersfoort Marathon   05-06-2016,2016-06-05
+317,5696,Stan Nijhout,Amersfoort,JG-4,188,00:07:02,00:06:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+318,6223,Damian Rosendahl,Amersfoort,JG-4,189,00:07:02,00:06:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+319,5643,Bram Kamperveen,Amersfoort,JG-4,190,00:07:02,00:07:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+320,6182,Lisa Kreb,Amersfoort,MG-4,127,00:07:02,00:06:35,"",Amersfoort Marathon   05-06-2016,2016-06-05
+321,6474,Alexandra Barské,Amersfoort,MG-4,128,00:07:03,00:06:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+322,5938,Joris Spoor,Amersfoort,JG-4,191,00:07:04,00:06:53,"",Amersfoort Marathon   05-06-2016,2016-06-05
+323,6045,Nout van der Veen,Amersfoort,JG-4,192,00:07:04,00:06:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+324,6224,Demi Nick Boeree,Amersfoort,JG-4,193,00:07:04,00:06:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+325,5923,Tjeerd Breg,Amersfoort,JG-4,194,00:07:05,00:06:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+326,5665,Jens Werner,Amersfoort,JG-4,195,00:07:05,00:06:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+327,5709,Babs van Mourik,Langbroek,MG-4,129,00:07:06,00:06:35,"",Amersfoort Marathon   05-06-2016,2016-06-05
+328,6275,Mille Koopman,Amersfoort,MG-4,130,00:07:06,00:06:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+329,5953,Tom Riemersma,Amersfoort,JG-4,196,00:07:06,00:06:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+330,5852,Mick de Rooij,Amersfoort,JG-4,197,00:07:07,00:06:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+331,6054,Gijs Vonk,Amersfoort,JG-4,198,00:07:07,00:06:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+332,5640,Ilse Huisman,Amersfoort,MG-4,131,00:07:07,00:06:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+333,6532,,,,0,00:07:07,00:06:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+334,6118,Anne Stolwijk,Amersfoort,MG-4,132,00:07:08,00:06:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+335,6144,Amalia Pennards,Amersfoort,MG-4,133,00:07:09,00:07:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+336,6188,Joey Hilhorst,Amersfoort,JG-4,199,00:07:09,00:06:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+337,5681,Amenah Shahid,Amersfoort,MG-4,134,00:07:10,00:06:27,"",Amersfoort Marathon   05-06-2016,2016-06-05
+338,6310,Midas Hof,Amersfoort,JG-4,200,00:07:10,00:06:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+339,5847,Eline ten Hoor,Amersfoort,MG-4,135,00:07:10,00:06:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+340,6365,Cristel Epema,Amersfoort,MG-4,136,00:07:11,00:06:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+341,6093,Marrit Jelgerhuis,Amersfoort,MG-4,137,00:07:11,00:06:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+342,6353,Mick van Houte,Amersfoort,JG-4,201,00:07:11,00:06:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+343,6352,Marah van Houte,Amersfoort,MG-4,138,00:07:11,00:06:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+344,6529,,,,0,00:07:12,00:06:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+345,5796,Matthia Niemann,Amersfoort,MG-4,139,00:07:12,00:06:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+346,5811,Fleur Heij,Amersfoort,MG-4,140,00:07:12,00:06:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+347,6241,Priscilla van Hemert,Amersfoort,MG-4,141,00:07:12,00:06:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+348,6259,Jet Schoonhoven,Hooglanderveen,MG-4,142,00:07:13,00:07:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+349,5754,Louise Post,Amersfoort,MG-4,143,00:07:15,00:06:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+350,5770,Lina Taspinar,Hooglanderveen,MG-4,144,00:07:16,00:06:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+351,6114,Mara Hinderdael,Amersfoort,MG-4,145,00:07:16,00:07:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+352,5799,Emma Boersema,Hooglanderveen,MG-4,146,00:07:16,00:06:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+353,5871,Sophie Wiggemans,Hooglanderveen,MG-4,147,00:07:16,00:07:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+354,5872,Julia Wiggemans,Hooglanderveen,MG-4,148,00:07:17,00:07:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+355,5876,Meike Suur,Amersfoort,MG-4,149,00:07:17,00:06:52,"",Amersfoort Marathon   05-06-2016,2016-06-05
+356,5966,Thijs Berkhof,Amersfoort,JG-4,202,00:07:19,00:06:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+357,6178,Anouk Zoetebier,Amersfoort,MG-4,150,00:07:22,00:07:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+358,5658,Sofia Mirza,Amersfoort,MG-4,151,00:07:23,00:07:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+359,5712,Storm Griesheimer,Wadenoijen,JG-4,203,00:07:23,00:06:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+360,6208,Danaë Post,Amersfoort,MG-4,152,00:07:23,00:07:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+361,6247,Luuk Hill,Amersfoort,JG-4,204,00:07:24,00:06:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+362,5950,Milan van Deelen,Amersfoort,JG-4,205,00:07:24,00:07:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+363,6105,Lemya Belhalba,Amersfoort,MG-4,153,00:07:24,00:07:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+364,6115,Rens van Middelaar,Hooglanderveen,JG-4,206,00:07:25,00:06:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+365,5998,Stella Wheeler,Amersfoort,MG-4,154,00:07:26,00:07:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+366,5885,Noa Van Ee,Amersfoort,JG-4,207,00:07:27,00:07:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+367,5842,Stijn van Piggelen,Amersfoort,JG-4,208,00:07:27,00:07:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+368,5672,Yfke Verbraeken,Amersfoort,MG-4,155,00:07:27,00:07:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+369,6010,Evi Gerritsen,Amersfoort,MG-4,156,00:07:27,00:07:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+370,6023,Eva Jonker,Amersfoort,MG-4,157,00:07:28,00:07:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+371,5903,Chabi Georges,Amersfoort,JG-4,209,00:07:28,00:06:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+372,5929,Noor Voogt,Amersfoort,MG-4,158,00:07:28,00:07:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+373,6044,Manu Harmeijer,Amersfoort,JG-4,210,00:07:29,00:06:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+374,6372,Britte Oldenhof,Amersfoort,MG-4,159,00:07:29,00:07:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+375,6164,Bouke de Jong,Amersfoort,JG-4,211,00:07:29,00:07:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+376,6122,Matz de Groot,Amersfoort,JG-4,212,00:07:30,00:06:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+377,6051,Noor Tekstra,Amersfoort,MG-4,160,00:07:30,00:06:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+378,6128,Mattes Huijnen,Amersfoort,JG-4,213,00:07:32,00:06:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+379,6263,Jona Grievink,Amersfoort,JG-4,214,00:07:32,00:07:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+380,6014,Eline Toonen,Amersfoort,MG-4,161,00:07:33,00:07:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+381,5819,Daniel Klaverstijn,Amersfoort,JG-4,215,00:07:33,00:06:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+382,5750,Hero Nieuwboer,Amersfoort,JG-4,216,00:07:37,00:07:02,"",Amersfoort Marathon   05-06-2016,2016-06-05
+383,6101,Dominique Betancourt,Amersfoort,MG-4,162,00:07:38,00:07:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+384,5973,Thorsten Bouwens,Amersfoort,JG-4,217,00:07:38,00:07:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+385,5758,Silke Markhorst,Amersfoort,MG-4,163,00:07:42,00:07:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+386,6439,Cato Van Roost,Amersfoort,MG-4,164,00:07:42,00:07:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+387,5967,Silke Berkhof,Amersfoort,MG-4,165,00:07:42,00:07:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+388,6336,Alon Meijer,Amersfoort,JG-4,218,00:07:43,00:07:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+389,6513,,,,0,00:07:44,00:06:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+390,5948,Nadir Chaiat,Amersfoort,JG-4,219,00:07:44,00:07:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+391,6123,Maud de Groot,Amersfoort,MG-4,166,00:07:44,00:06:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+392,6094,Ilan Jelgerhuis,Amersfoort,JG-4,220,00:07:44,00:07:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+393,5926,Jason Schmidt,Amersfoort,JG-4,221,00:07:47,00:07:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+394,5722,Tesse de Boer,Hoogland,MG-4,167,00:07:47,00:07:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+395,6028,Joel Groot,Amersfoort,JG-4,222,00:07:47,00:07:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+396,6448,Oscar Heinen,Amersfoort,JG-4,223,00:07:48,00:07:11,"",Amersfoort Marathon   05-06-2016,2016-06-05
+397,6300,Klara Brökelmann,Amersfoort,MG-4,168,00:07:51,00:07:25,"",Amersfoort Marathon   05-06-2016,2016-06-05
+398,6296,Lara Keulers,Amersfoort,MG-4,169,00:07:51,00:07:29,"",Amersfoort Marathon   05-06-2016,2016-06-05
+399,5839,Naut van Eijden,Amersfoort,JG-4,224,00:07:52,00:07:46,"",Amersfoort Marathon   05-06-2016,2016-06-05
+400,5694,Sven Veenendaal,Amersfoort,JG-4,225,00:07:53,00:07:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+401,6441,Dominic Schubert,Almere,JG-4,226,00:07:56,00:07:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+402,5651,Fiene Jongsma,Amersfoort,MG-4,170,00:07:57,00:07:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+403,5854,Jelle Dirkmaat,Amersfoort,JG-4,227,00:07:57,00:07:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+404,6030,Floris Valkonet,Amersfoort,JG-4,228,00:07:58,00:06:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+405,6084,Amelie de Graaf,Amersfoort,MG-4,171,00:08:00,00:07:35,"",Amersfoort Marathon   05-06-2016,2016-06-05
+406,5812,Jasmijn Rinzema,Amersfoort,MG-4,172,00:08:02,00:07:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+407,6414,Anniek Mateman,Amersfoort,MG-4,173,00:08:03,00:07:17,"",Amersfoort Marathon   05-06-2016,2016-06-05
+408,5916,Abel Belgraver,Amersfoort,JG-4,229,00:08:05,00:07:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+409,6543,Yonthe Bruggemann,,MG-4,174,00:08:05,00:07:34,"",Amersfoort Marathon   05-06-2016,2016-06-05
+410,5870,Minke van den Pol,Amersfoort,MG-4,175,00:08:06,00:07:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+411,5782,Bente Jansen,Amersfoort,MG-4,176,00:08:07,00:07:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+412,6256,Maxime Elderbroek,Amersfoort,MG-4,177,00:08:10,00:07:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+413,5755,Olivia Schreuder,Amersfoort,MG-4,178,00:08:10,00:07:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+414,6343,Donya de Leeuw,Amersfoort,MG-4,179,00:08:14,00:07:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+415,5952,Kim Riemersma,Amersfoort,MG-4,180,00:08:14,00:07:48,"",Amersfoort Marathon   05-06-2016,2016-06-05
+416,6130,Myrthe Jansen,Amersfoort,MG-4,181,00:08:18,00:07:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+417,5747,Eline van Bruxvoort,Amersfoort,MG-4,182,00:08:19,00:07:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+418,6329,Freya Gryffroy,Amersfoort,MG-4,183,00:08:20,00:07:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+419,6120,Tinde Jansen op de Haar,Amersfoort,MG-4,184,00:08:21,00:07:42,"",Amersfoort Marathon   05-06-2016,2016-06-05
+420,6133,Timon Reinders,Amersfoort,JG-4,230,00:08:21,00:08:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+421,6086,Abel Ros,Amersfoort,JG-4,231,00:08:22,00:07:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+422,6039,Dexter van den Berg,Amersfoort,JG-4,232,00:08:22,00:08:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+423,6426,Bob Lans,Amersfoort,JG-4,233,00:08:23,00:07:36,"",Amersfoort Marathon   05-06-2016,2016-06-05
+424,5783,Estrella Bruins,Amersfoort,MG-4,185,00:08:23,00:08:04,"",Amersfoort Marathon   05-06-2016,2016-06-05
+425,6212,Maud Rebergen,Hooglanderveen,MG-4,186,00:08:24,00:07:57,"",Amersfoort Marathon   05-06-2016,2016-06-05
+426,6495,Sanne Rossewij,Amersfoort,MG-4,187,00:08:24,00:07:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+427,5759,Isabel Terrahe,Amersfoort,MG-4,188,00:08:26,00:07:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+428,6422,Finn Smit,Amersfoort,JG-4,234,00:08:26,00:07:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+429,6369,Nina Gieskens,Amersfoort,MG-4,189,00:08:27,00:07:51,"",Amersfoort Marathon   05-06-2016,2016-06-05
+430,5893,Dolora Kok,Amersfoort,MG-4,190,00:08:28,00:08:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+431,6207,Fleur van den Barg,Amersfoort,MG-4,191,00:08:32,00:08:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+432,5794,Isa Melgert,Amersfoort,MG-4,192,00:08:33,00:08:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+433,6308,Cato Zwerver,Amersfoort,MG-4,193,00:08:34,00:07:58,"",Amersfoort Marathon   05-06-2016,2016-06-05
+434,6399,Liz van Eijkel,Amersfoort,MG-4,194,00:08:34,00:08:05,"",Amersfoort Marathon   05-06-2016,2016-06-05
+435,6538,,,,0,00:08:34,00:07:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+436,5983,Tessa Bakker,Amersfoort,MG-4,195,00:08:35,00:08:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+437,6409,Bo Gotte,Amersfoort,MG-4,196,00:08:35,00:08:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+438,5804,Jasmijn van 't Veld,Amersfoort,MG-4,197,00:08:40,00:08:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+439,6048,Pepijn Bloemers,Amersfoort,JG-4,235,00:08:40,00:07:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+440,5894,Mareau van de Laarschot,Amersfoort,MG-4,198,00:08:40,00:07:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+441,6327,Reza Janssen,Amersfoort,MG-4,199,00:08:41,00:08:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+442,6213,Tess Rebergen,Hooglanderveen,MG-4,200,00:08:41,00:08:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+443,6090,Zeger Belderbos,Hooglanderveen,JG-4,236,00:08:42,00:08:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+444,5706,Marel van Dooremalen,Amersfoort,MG-4,201,00:08:42,00:08:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+445,5718,Nina Denier van der Gon,Amersfoort,MG-4,202,00:08:42,00:07:59,"",Amersfoort Marathon   05-06-2016,2016-06-05
+446,6274,Hugo van Wijk,Amersfoort,JG-4,237,00:08:42,00:08:21,"",Amersfoort Marathon   05-06-2016,2016-06-05
+447,5764,Hugo de Jong,Amersfoort,JG-4,238,00:08:43,00:08:37,"",Amersfoort Marathon   05-06-2016,2016-06-05
+448,6089,Vigo Belderbos,Hooglanderveen,JG-4,239,00:08:44,00:08:26,"",Amersfoort Marathon   05-06-2016,2016-06-05
+449,5864,Anjuli Semper,Amersfoort,MG-4,203,00:08:46,00:08:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+450,6186,Tobias Askes,Amersfoort,JG-4,240,00:08:47,00:08:14,"",Amersfoort Marathon   05-06-2016,2016-06-05
+451,6317,Evie de Jong,Amersfoort,MG-4,204,00:08:47,00:08:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+452,6347,Emma de Jong,Amersfoort,MG-4,205,00:08:49,00:08:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+453,6218,Teun van Aarssen,Amersfoort,JG-4,241,00:08:50,00:08:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+454,6431,Xavier Reijnders,Amersfoort,JG-4,242,00:08:50,00:08:16,"",Amersfoort Marathon   05-06-2016,2016-06-05
+455,5932,Dian van der Veen,Amersfoort,MG-4,206,00:08:51,00:08:08,"",Amersfoort Marathon   05-06-2016,2016-06-05
+456,6542,Mirthe Bruggemann,,MG-4,207,00:08:52,00:08:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+457,6217,Pien van Aarssen,Amersfoort,MG-4,208,00:08:53,00:08:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+458,6131,Suze Mare Bramer,Amersfoort,MG-4,209,00:08:56,00:08:22,"",Amersfoort Marathon   05-06-2016,2016-06-05
+459,6295,Jort Mulder,Amersfoort,JG-4,243,00:08:56,00:08:17,"",Amersfoort Marathon   05-06-2016,2016-06-05
+460,6200,Loïs Dekker,Amersfoort,MG-4,210,00:08:58,00:08:13,"",Amersfoort Marathon   05-06-2016,2016-06-05
+461,6423,Mare Smit,Amersfoort,MG-4,211,00:09:00,00:08:23,"",Amersfoort Marathon   05-06-2016,2016-06-05
+462,6498,Suray Malik,Amersfoort,MG-4,212,00:09:00,00:09:00,"",Amersfoort Marathon   05-06-2016,2016-06-05
+463,6443,Alexander Schubert,Almere,JG-4,244,00:09:01,00:08:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+464,6285,Fien Bramer,Amersfoort,MG-4,213,00:09:01,00:08:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+465,6049,Anne de Bruijn,Amersfoort,MG-4,214,00:09:02,00:08:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+466,6116,Lian van Middelaar,Hooglanderveen,MG-4,215,00:09:06,00:08:20,"",Amersfoort Marathon   05-06-2016,2016-06-05
+467,6091,Marit van Wermeskerken,Amersfoort,MG-4,216,00:09:08,00:08:35,"",Amersfoort Marathon   05-06-2016,2016-06-05
+468,5956,Tj van Kesteren,Amersfoort,JG-4,245,00:09:09,00:08:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+469,5648,Kyran Hagebeuk,Leusden,JG-4,246,00:09:12,00:08:44,"",Amersfoort Marathon   05-06-2016,2016-06-05
+470,6149,Abderrahim Saksak,Amersfoort,JG-4,247,00:09:12,00:08:30,"",Amersfoort Marathon   05-06-2016,2016-06-05
+471,6433,Eola Verbakel,Soest,MG-4,217,00:09:13,00:09:07,"",Amersfoort Marathon   05-06-2016,2016-06-05
+472,6065,Lucas Stikvoort,Amersfoort,JG-4,248,00:09:15,00:08:33,"",Amersfoort Marathon   05-06-2016,2016-06-05
+473,5707,Anna van Dooremalen,Amersfoort,MG-4,218,00:09:15,00:08:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+474,6158,Wieneke Weenink,Hilversum,MG-4,219,00:09:17,00:08:43,"",Amersfoort Marathon   05-06-2016,2016-06-05
+475,6537,,,,0,00:09:18,00:08:50,"",Amersfoort Marathon   05-06-2016,2016-06-05
+476,5748,Milou van Bruxvoort,Amersfoort,MG-4,220,00:09:18,00:08:32,"",Amersfoort Marathon   05-06-2016,2016-06-05
+477,5971,Noa Vastenburg,Amersfoort,JG-4,249,00:09:22,00:09:03,"",Amersfoort Marathon   05-06-2016,2016-06-05
+478,5999,Jette Maas,Amersfoort,MG-4,221,00:09:26,00:08:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+479,6415,Juliet Mateman,Amersfoort,MG-4,222,00:09:26,00:08:39,"",Amersfoort Marathon   05-06-2016,2016-06-05
+480,6159,Karlijn Weenink,Hilversum,MG-4,223,00:09:26,00:08:52,"",Amersfoort Marathon   05-06-2016,2016-06-05
+481,6211,Finn Rebergen,Hooglanderveen,JG-4,250,00:09:27,00:08:41,"",Amersfoort Marathon   05-06-2016,2016-06-05
+482,5629,Cato van der Zwan,Amersfoort,MG-4,224,00:09:27,00:08:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+483,5628,Evi van der Zwan,Amersfoort,MG-4,225,00:09:28,00:08:49,"",Amersfoort Marathon   05-06-2016,2016-06-05
+484,5914,Marit van der Voort,Amersfoort,MG-4,226,00:09:30,00:08:58,"",Amersfoort Marathon   05-06-2016,2016-06-05
+485,6368,Mirthe de Boer,Amersfoort,MG-4,227,00:09:33,00:08:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+486,6326,Dieke Janssen,Amersfoort,MG-4,228,00:09:33,00:08:55,"",Amersfoort Marathon   05-06-2016,2016-06-05
+487,6376,Ayden Castricum,Amersfoort,JG-4,251,00:09:33,00:09:19,"",Amersfoort Marathon   05-06-2016,2016-06-05
+488,6077,Noor Klaasen,Amersfoort,MG-4,229,00:09:35,00:08:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+489,6078,Geeske Klaasen,Amersfoort,MG-4,230,00:09:40,00:09:01,"",Amersfoort Marathon   05-06-2016,2016-06-05
+490,6136,Roos Verhagen,Amersfoort,MG-4,231,00:09:53,00:09:15,"",Amersfoort Marathon   05-06-2016,2016-06-05
+491,6046,Yenthe de Vries,Amersfoort,MG-4,232,00:09:54,00:08:40,"",Amersfoort Marathon   05-06-2016,2016-06-05
+492,5795,Lioba Niemann,Amersfoort,MG-4,233,00:09:57,00:08:45,"",Amersfoort Marathon   05-06-2016,2016-06-05
+493,6360,Mena Visschers,Amersfoort,MG-4,234,00:09:57,00:09:28,"",Amersfoort Marathon   05-06-2016,2016-06-05
+494,6232,Philip van der Meer,Amersfoort,JG-4,252,00:09:57,00:09:06,"",Amersfoort Marathon   05-06-2016,2016-06-05
+495,6108,Zoë Smoorenburg,Hoogland,MG-4,235,00:10:00,00:09:10,"",Amersfoort Marathon   05-06-2016,2016-06-05
+496,5749,Caitlin Vedder,Amersfoort,MG-4,236,00:10:02,00:09:12,"",Amersfoort Marathon   05-06-2016,2016-06-05
+497,6082,Yana Vauléon,Amersfoort,MG-4,237,00:10:09,00:10:09,"",Amersfoort Marathon   05-06-2016,2016-06-05
+498,6380,Sofía de Bruin,Amersfoort,MG-4,238,00:10:12,00:09:54,"",Amersfoort Marathon   05-06-2016,2016-06-05
+499,5717,Tijn Schrijvers,Amersfoort,JG-4,253,00:10:22,00:09:47,"",Amersfoort Marathon   05-06-2016,2016-06-05
+500,5716,Lotte Schrijvers,Amersfoort,MG-4,239,00:10:31,00:09:56,"",Amersfoort Marathon   05-06-2016,2016-06-05
+501,5601,Ryan Butselaar,Hoevelaken,JG-4,254,00:12:55,00:12:15,"",Amersfoort Marathon   05-06-2016,2016-06-05

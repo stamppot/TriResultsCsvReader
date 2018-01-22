@@ -1,0 +1,452 @@
+Plts,StNr,Naam,Woonplaats,Cat,PltsCat,Split5k,Netto,Bruto,race,date
+1,1099,Marten-Jan Ernst,Damwald,Msen,1,00:19:13,00:37:58,00:37:58,Sport op de As ,2016-09-24
+2,1404,Hans Hiemstra,Harkema,Msen,2,00:19:13,00:38:40,00:38:40,Sport op de As ,2016-09-24
+3,1286,Dirk Rietberg,'s-Gravenhage,Msen,3,00:20:31,00:41:27,00:41:27,Sport op de As ,2016-09-24
+4,1419,Henk vander Meer,Garyp,M50,1,00:19:51,00:41:54,00:41:55,Sport op de As ,2016-09-24
+5,1137,Julien van Dijk,Dokkum,Msen,4,00:21:15,00:42:03,00:42:03,Sport op de As ,2016-09-24
+6,1219,,,,,00:20:16,00:42:23,00:42:24,Sport op de As ,2016-09-24
+7,1058,Ido Pranger,Dokkum,Msen,5,00:21:31,00:42:52,00:42:55,Sport op de As ,2016-09-24
+8,1384,Jilke Marinus,Damwald,Msen,6,00:22:00,00:42:29,00:42:57,Sport op de As ,2016-09-24
+9,1429,,,,,00:21:52,00:42:57,00:43:05,Sport op de As ,2016-09-24
+10,1369,,,,,00:21:48,00:43:27,00:43:30,Sport op de As ,2016-09-24
+11,1370,Jelmer Schaaf,Britsum,Msen,7,00:21:48,00:43:28,00:43:30,Sport op de As ,2016-09-24
+12,1506,Leon Visser,Driezum,Msen,8,00:21:36,00:43:14,00:43:39,Sport op de As ,2016-09-24
+13,1075,JanAuke Bos,De Falom,Msen,9,00:21:13,00:43:19,00:43:45,Sport op de As ,2016-09-24
+14,1218,Wouter de Vlugt,Sumar,Msen,10,00:21:32,00:43:45,00:43:47,Sport op de As ,2016-09-24
+15,1314,Michel Hania,Leeuwarden,Msen,11,00:21:46,00:44:03,00:44:08,Sport op de As ,2016-09-24
+16,1537,Peter Bakker,,M60,1,00:21:52,00:44:35,00:44:44,Sport op de As ,2016-09-24
+17,1465,Gerrit Gildemacher,Leeuwarden,Msen,12,00:22:01,00:44:48,00:44:50,Sport op de As ,2016-09-24
+18,1148,Dedde De Jong,Dokkum,M50,2,00:22:14,00:45:06,00:45:12,Sport op de As ,2016-09-24
+19,1166,Arnold Boersma,Oentsjerk,Msen,13,00:21:41,00:45:23,00:45:23,Sport op de As ,2016-09-24
+20,1001,JanDouwe Zuidema,Damwald,M40,1,00:21:59,00:45:27,00:45:28,Sport op de As ,2016-09-24
+21,1064,Alie Gercama,De Westereen,Vsen,1,00:22:28,00:45:41,00:45:41,Sport op de As ,2016-09-24
+22,1425,Douwe Wiersma,Nij Beets,M40,2,00:22:26,00:45:37,00:45:51,Sport op de As ,2016-09-24
+23,1184,Wouter Jelsma,Leeuwarden,Msen,14,00:22:58,00:45:25,00:45:55,Sport op de As ,2016-09-24
+24,2069,Geert Broersma,Damwald,M40,3,00:22:59,00:46:06,00:46:08,Sport op de As ,2016-09-24
+25,1069,Niek Westra,Leeuwarden,Msen,15,00:23:16,00:46:11,00:46:19,Sport op de As ,2016-09-24
+26,1182,YneAge Terpstra,Leeuwarden,Msen,16,00:22:16,00:46:20,00:46:26,Sport op de As ,2016-09-24
+27,1386,Sijtse S Scherjon,De Westereen,M40,4,00:22:50,00:46:28,00:46:32,Sport op de As ,2016-09-24
+28,2419,Harm Veenstra,Gorredijk,M50,3,00:23:10,00:46:32,00:46:35,Sport op de As ,2016-09-24
+29,1296,Johannes Bloem,Dokkum,M50,4,00:23:15,00:46:44,00:46:47,Sport op de As ,2016-09-24
+30,1352,PieterJelle de Jong,Leeuwarden,Msen,17,00:23:39,00:46:57,00:47:16,Sport op de As ,2016-09-24
+31,1304,Rutger Meinema,Dokkum,Msen,18,00:24:00,00:47:14,00:47:23,Sport op de As ,2016-09-24
+32,1100,,,,,00:22:46,00:47:11,00:47:29,Sport op de As ,2016-09-24
+33,1510,Anco vander Vliet,Burgum,Msen,19,00:23:28,00:46:55,00:47:32,Sport op de As ,2016-09-24
+34,1522,Anita Holwerda,Joure,V35,1,00:23:22,00:47:26,00:47:36,Sport op de As ,2016-09-24
+35,2220,Wiep vander Heide,Drachten,M40,5,00:23:21,00:47:45,00:47:45,Sport op de As ,2016-09-24
+36,2412,Petra Grimbergen,Nij Beets,V45,1,00:23:36,00:47:31,00:47:49,Sport op de As ,2016-09-24
+37,1202,Marten Groen,Munein,M50,5,00:23:19,00:47:48,00:47:51,Sport op de As ,2016-09-24
+38,1255,Piet Zijlstra,Bornwird,M40,6,00:23:36,00:46:55,00:47:52,Sport op de As ,2016-09-24
+39,1493,Chris vander Veen,Ternaard,Msen,20,00:23:57,00:47:36,00:47:58,Sport op de As ,2016-09-24
+40,1456,JanHendrik Polhuijs,Spijk Gn,M60,2,00:23:34,00:47:48,00:47:59,Sport op de As ,2016-09-24
+41,1479,Ed Velderman,Gytsjerk,M50,6,00:23:45,00:47:49,00:47:59,Sport op de As ,2016-09-24
+42,1194,Alle De Boer,Kollumerzwaag,M60,3,00:23:17,00:47:55,00:48:02,Sport op de As ,2016-09-24
+43,1375,Henk Otten,Heerenveen,M40,7,00:24:23,00:48:03,00:48:08,Sport op de As ,2016-09-24
+44,1337,Joke van Klaarbergen,Damwald,V35,2,00:23:11,00:48:09,00:48:11,Sport op de As ,2016-09-24
+45,1115,Jappie Bijlstra,Dokkum,M50,7,00:23:54,00:48:23,00:48:26,Sport op de As ,2016-09-24
+46,1351,Nynke Meijer,Leek,Vsen,2,00:23:24,00:48:29,00:48:36,Sport op de As ,2016-09-24
+47,1308,Petra Westra,De Westereen,V35,3,00:23:33,00:48:38,00:48:42,Sport op de As ,2016-09-24
+48,1002,Marcel Swart,Sneek,Msen,21,00:23:35,00:48:34,00:48:49,Sport op de As ,2016-09-24
+49,1153,Loek Smid,Hindeloopen,M50,8,00:24:08,00:48:49,00:48:52,Sport op de As ,2016-09-24
+50,1390,Erik Willekus,St.-Annaparochie,M40,8,00:24:40,00:48:35,00:48:53,Sport op de As ,2016-09-24
+51,1435,Jan-Albert Noordstra,Dokkum,Msen,22,00:22:34,00:48:57,00:49:02,Sport op de As ,2016-09-24
+52,1264,Froukje Beenen,De Westereen,V35,4,00:23:33,00:49:05,00:49:08,Sport op de As ,2016-09-24
+53,1283,Halbe Rinsma,Buitenpost,M50,9,00:23:53,00:48:34,00:49:09,Sport op de As ,2016-09-24
+54,2456,Duco Zijlstra,Lekkum,M50,10,00:24:40,00:48:32,00:49:10,Sport op de As ,2016-09-24
+55,1342,Tim Wiersma,Noardburgum,Msen,23,00:23:54,00:49:06,00:49:12,Sport op de As ,2016-09-24
+56,1193,Anne-Oetze vander Burg,Burgum,M40,9,00:23:28,00:49:09,00:49:12,Sport op de As ,2016-09-24
+57,1477,Elly Hoekstra,Burdaard,Vsen,3,00:24:13,00:49:14,00:49:19,Sport op de As ,2016-09-24
+58,1348,Herman de Vries,Leeuwarden,Msen,24,00:24:33,00:49:10,00:49:21,Sport op de As ,2016-09-24
+59,1047,Jacob Dijkstra,Bitgummole,M50,11,00:24:52,00:49:16,00:49:23,Sport op de As ,2016-09-24
+60,1539,Hendrik Hoogland,,Msen,25,00:24:29,00:49:18,00:49:24,Sport op de As ,2016-09-24
+61,1097,Johan Vrieswijk,Dokkum,Msen,26,00:25:19,00:49:33,00:49:36,Sport op de As ,2016-09-24
+62,1430,Uilke Aize Wind,Hurdegaryp,M50,12,00:24:23,00:49:33,00:49:37,Sport op de As ,2016-09-24
+63,1383,Bernd Jager,Dokkum,Msen,27,00:24:05,00:49:27,00:49:37,Sport op de As ,2016-09-24
+64,1382,Marina Delac,Kollum,Vsen,4,00:24:04,00:49:34,00:49:44,Sport op de As ,2016-09-24
+65,1454,Christiaan Jilderda,Dokkum,Msen,28,00:25:08,00:49:14,00:49:56,Sport op de As ,2016-09-24
+66,1450,Johannes Vriesinga,Noardburgum,Msen,29,00:24:52,00:49:29,00:49:56,Sport op de As ,2016-09-24
+67,1057,Tony Vrieswijk,Dokkum,Msen,30,00:25:19,00:50:04,00:50:08,Sport op de As ,2016-09-24
+68,1365,Sven Stielstra,Groningen,Msen,31,00:24:49,00:49:56,00:50:11,Sport op de As ,2016-09-24
+69,1444,Michelle Franke,Utrecht,Vsen,5,00:25:02,00:50:08,00:50:17,Sport op de As ,2016-09-24
+70,1074,Pieter Visser,Dokkum,M40,10,00:24:38,00:50:00,00:50:18,Sport op de As ,2016-09-24
+71,1053,Gerda van Klaarbergen,Leeuwarden,Vsen,6,00:23:56,00:50:17,00:50:19,Sport op de As ,2016-09-24
+72,1319,Jan Loonstra,Dokkum,M40,11,00:26:29,00:49:45,00:50:32,Sport op de As ,2016-09-24
+73,1056,Yvonne Hiemstra,IJlst,V35,5,00:25:03,00:50:28,00:50:43,Sport op de As ,2016-09-24
+74,1380,Theo Terpstra,Hallum,M40,12,00:25:17,00:50:38,00:50:43,Sport op de As ,2016-09-24
+75,1131,Bettie Koops,Leeuwarden,V55,1,00:25:16,00:50:37,00:50:46,Sport op de As ,2016-09-24
+76,1257,Wouter Sibma,Surhuisterveen,M50,13,00:24:52,00:50:48,00:51:02,Sport op de As ,2016-09-24
+77,1273,Harm Swart,Dokkum,Msen,32,00:26:38,00:50:36,00:51:14,Sport op de As ,2016-09-24
+78,1220,Alfred De Jager,Tytsjerk,M40,13,00:25:55,00:51:08,00:51:15,Sport op de As ,2016-09-24
+79,2030,Marten Hellinga,Burgum,Msen,33,00:25:30,00:50:55,00:51:17,Sport op de As ,2016-09-24
+80,1399,Egbert Noorman,Feanwalden,M40,14,00:24:34,00:51:15,00:51:21,Sport op de As ,2016-09-24
+81,1515,Jelle Hiemstra,Gytsjerk,M40,15,00:24:11,00:51:22,00:51:25,Sport op de As ,2016-09-24
+82,1488,Dieke de Boer,Burgum,V45,2,00:25:22,00:51:14,00:51:27,Sport op de As ,2016-09-24
+83,1305,Edwin Bruinsma,Leeuwarden,M40,16,00:24:31,00:51:06,00:51:34,Sport op de As ,2016-09-24
+84,1051,Gerard Dam,Dokkum,M40,17,00:24:01,00:51:10,00:51:38,Sport op de As ,2016-09-24
+85,1507,Johannes De Vries,Earnewald,Msen,34,00:26:23,00:51:03,00:51:43,Sport op de As ,2016-09-24
+86,1004,Hendrik-Jan Meulenaar,Burgum,M40,18,00:25:44,00:51:51,00:52:01,Sport op de As ,2016-09-24
+87,1008,Nelie Jasper,Sneek,V35,6,00:25:58,00:51:51,00:52:06,Sport op de As ,2016-09-24
+88,1523,Sandra Schievink,Burgum,V35,7,00:25:52,00:51:51,00:52:07,Sport op de As ,2016-09-24
+89,1127,Haije de Vries,Drachten,M40,19,00:25:22,00:51:34,00:52:30,Sport op de As ,2016-09-24
+90,1229,Mark Wijnsma,Ee,M40,20,00:25:33,00:52:16,00:52:38,Sport op de As ,2016-09-24
+91,1492,Jappie van Dijk,Stiens,M60,4,00:25:32,00:52:31,00:52:39,Sport op de As ,2016-09-24
+92,1247,Adriana Rieke,Burgum,V45,3,00:24:52,00:52:41,00:52:42,Sport op de As ,2016-09-24
+93,1198,Sjoukje Visser,Damwald,Vsen,7,00:25:44,00:52:50,00:52:55,Sport op de As ,2016-09-24
+94,1230,Martijn Dijkstra,Dokkum,Msen,35,00:25:21,00:52:22,00:53:09,Sport op de As ,2016-09-24
+95,1360,Johan De Jong,Dokkum,Msen,36,00:26:38,00:52:13,00:53:11,Sport op de As ,2016-09-24
+96,1368,AnkeLia Struiksma,Jistrum,Vsen,8,00:26:35,00:53:07,00:53:17,Sport op de As ,2016-09-24
+97,1457,Evelyn Polhuijs,Leeuwarden,Vsen,9,00:23:34,00:53:17,00:53:27,Sport op de As ,2016-09-24
+98,1291,Karim Hamad,Leeuwarden,Msen,37,00:24:33,00:53:07,00:53:27,Sport op de As ,2016-09-24
+99,1162,Marian vander Schaaf,Oentsjerk,V55,2,00:25:51,00:52:47,00:53:29,Sport op de As ,2016-09-24
+100,1480,Pieter Boek,Burgum,M40,21,00:26:47,00:53:14,00:53:40,Sport op de As ,2016-09-24
+101,1490,Klaas Groenveld,Burgum,M40,22,00:26:02,00:53:46,00:53:58,Sport op de As ,2016-09-24
+102,1204,Conny Behrens,Anjum,V45,4,00:27:17,00:53:40,00:54:00,Sport op de As ,2016-09-24
+103,1489,Sander Meindertsma,Burum,Msen,38,00:27:27,00:54:07,00:54:18,Sport op de As ,2016-09-24
+104,2257,Peter Boersen,Leeuwarden,M50,14,00:27:18,00:53:50,00:54:31,Sport op de As ,2016-09-24
+105,1527,Mark Kruisselbrink,Burgum,Msen,39,00:25:53,00:54:30,00:54:40,Sport op de As ,2016-09-24
+106,1483,JanPeter vander Zwaag,Bakkeveen,M50,15,00:27:26,00:54:36,00:54:42,Sport op de As ,2016-09-24
+107,1029,Jermaine Lapar,Dokkum,M40,23,00:27:27,00:54:39,00:54:43,Sport op de As ,2016-09-24
+108,1512,Jan Palma,Oentsjerk,M50,16,00:27:59,00:54:08,00:54:46,Sport op de As ,2016-09-24
+109,1346,Marijke Bijker,Burdaard,Vsen,10,00:25:50,00:54:43,00:54:48,Sport op de As ,2016-09-24
+110,1482,Menno Schukking,Leeuwarden,Msen,40,00:27:27,00:54:45,00:54:49,Sport op de As ,2016-09-24
+111,1494,Fred Willekes,Hurdegaryp,M60,5,00:27:30,00:54:21,00:54:55,Sport op de As ,2016-09-24
+112,1338,Jurjen van Tellingen,Leeuwarden,Msen,41,00:25:30,00:54:52,00:54:57,Sport op de As ,2016-09-24
+113,1332,Anke van Akker,Zoutkamp,Vsen,11,00:27:59,00:55:13,00:55:13,Sport op de As ,2016-09-24
+114,1136,Jeroen Zuidema,Drachten,Msen,42,00:29:32,00:54:51,00:55:18,Sport op de As ,2016-09-24
+115,1415,Marlous Hoogeveen,Hooghalen,Vsen,12,00:28:40,00:55:20,00:55:21,Sport op de As ,2016-09-24
+116,1272,Annemarie Bax,Drachten,V45,5,00:27:08,00:55:06,00:55:22,Sport op de As ,2016-09-24
+117,1445,Sandra Klaver,Kollum,V35,8,00:26:54,00:54:53,00:55:25,Sport op de As ,2016-09-24
+118,1055,Japke Veninga,Dokkum,Vsen,13,00:27:35,00:55:05,00:55:25,Sport op de As ,2016-09-24
+119,1447,Geertje Hoekstra,Brantgum,Vsen,14,00:27:48,00:55:18,00:55:29,Sport op de As ,2016-09-24
+120,1054,Klaas vander Kooij,Damwald,M60,6,00:27:36,00:55:05,00:55:34,Sport op de As ,2016-09-24
+121,1101,Saskia Jutte,Dokkum,Vsen,15,00:27:29,00:55:17,00:55:38,Sport op de As ,2016-09-24
+122,1448,Gert-Jan Bosch,Brantgum,Msen,43,00:27:46,00:55:29,00:55:41,Sport op de As ,2016-09-24
+123,1205,Fré Sobel,Drachten,V45,6,00:27:36,00:55:05,00:55:45,Sport op de As ,2016-09-24
+124,1195,Wim de Vries,Leeuwarden,M40,24,00:26:13,00:55:38,00:55:46,Sport op de As ,2016-09-24
+125,1234,Aaltsje Meirink-Kalsbeek,Oosternijkerk,Vsen,16,00:28:20,00:55:24,00:55:47,Sport op de As ,2016-09-24
+126,1267,Menno Vellenga,Burgum,Msen,44,00:28:46,00:55:34,00:55:51,Sport op de As ,2016-09-24
+127,1442,Liesbeth ten hoeve,Feanwalden,V35,9,00:27:39,00:55:44,00:55:57,Sport op de As ,2016-09-24
+128,1521,Alie Marinus,Oudwoude,V45,7,00:27:53,00:55:05,00:55:58,Sport op de As ,2016-09-24
+129,1011,Marijke Hellinga,Burgum,V35,10,00:28:05,00:55:39,00:56:01,Sport op de As ,2016-09-24
+130,1116,Marijke vander veen,Dokkum,Vsen,17,00:27:29,00:55:41,00:56:03,Sport op de As ,2016-09-24
+131,1529,Jan Visser,Suwald,Msen,45,00:26:23,00:55:28,00:56:07,Sport op de As ,2016-09-24
+132,1300,Marinus deHaan,Hurdegaryp,Msen,46,00:28:34,00:55:55,00:56:11,Sport op de As ,2016-09-24
+133,1459,Janinka van Weperen,Groningen,Vsen,18,00:28:40,00:56:20,00:56:21,Sport op de As ,2016-09-24
+134,1466,Gea Zijlstra/vdSchaaf,Burgum,V35,11,00:27:59,00:55:53,00:56:22,Sport op de As ,2016-09-24
+135,1335,Jacoba van Houten,Burgum,V35,12,00:27:41,00:56:11,00:56:23,Sport op de As ,2016-09-24
+136,1142,Anke Sonnema,Dokkum,Vsen,19,00:28:13,00:55:37,00:56:24,Sport op de As ,2016-09-24
+137,1364,Rudmer de Vries,Gytsjerk,Msen,47,00:29:37,00:56:09,00:56:24,Sport op de As ,2016-09-24
+138,1347,Annemieke Nienhuis,Leeuwarden,Vsen,20,00:27:50,00:56:13,00:56:25,Sport op de As ,2016-09-24
+139,1395,Friso vanden Berg,Franeker,M40,25,00:27:11,00:56:18,00:56:29,Sport op de As ,2016-09-24
+140,1500,Irene de Vries,Munein,V45,8,00:27:02,00:56:28,00:56:31,Sport op de As ,2016-09-24
+141,1428,Sietske Rispens,Metslawier,Vsen,21,00:28:20,00:56:10,00:56:33,Sport op de As ,2016-09-24
+142,1474,Hemke Rozema,Sneek,M50,17,00:28:09,00:55:49,00:56:39,Sport op de As ,2016-09-24
+143,2105,Willem Bakker,Damwald,M50,18,00:27:49,00:56:31,00:56:44,Sport op de As ,2016-09-24
+144,2048,Wessel Bouman,Dokkum,M60,7,00:27:49,00:56:31,00:56:44,Sport op de As ,2016-09-24
+145,2200,Henk de Groot,Burgum,M50,19,00:27:08,00:56:03,00:56:52,Sport op de As ,2016-09-24
+146,1135,Adrie van Dijk,Dokkum,M50,20,00:27:29,00:56:39,00:56:57,Sport op de As ,2016-09-24
+147,1349,Elsa Nienhuis,Snakkerburen,Vsen,22,00:27:51,00:56:50,00:57:01,Sport op de As ,2016-09-24
+148,1083,Nanne De Vries,Dokkum,M50,21,00:28:10,00:56:27,00:57:06,Sport op de As ,2016-09-24
+149,1062,BoteSape Schoorstra,Ternaard,Msen,48,00:27:41,00:56:15,00:57:07,Sport op de As ,2016-09-24
+150,1495,Erwin Vander Blom,Leeuwarden,M50,22,00:27:08,00:57:00,00:57:08,Sport op de As ,2016-09-24
+151,1108,Evert Homan,Noardburgum,M40,26,00:27:54,00:56:39,00:57:08,Sport op de As ,2016-09-24
+152,1034,Harm Postma,Damwald,M50,23,00:27:00,00:56:30,00:57:12,Sport op de As ,2016-09-24
+153,1212,Pietsje Boskma,De Westereen,Vsen,23,00:27:59,00:56:46,00:57:14,Sport op de As ,2016-09-24
+154,1089,Eddie Sprietsma,Burgum,Msen,49,00:28:46,00:57:00,00:57:17,Sport op de As ,2016-09-24
+155,1118,Trea Walstra,Menaam,V45,9,00:28:03,00:56:50,00:57:18,Sport op de As ,2016-09-24
+156,1233,Julian Kevelam,Almelo,Msen,50,00:27:28,00:56:27,00:57:20,Sport op de As ,2016-09-24
+157,1277,Lenny Loonstra,Dokkum,V45,10,00:28:37,00:56:35,00:57:22,Sport op de As ,2016-09-24
+158,1242,Ronald Volbeda,Leeuwarden,Msen,51,00:27:28,00:57:00,00:57:22,Sport op de As ,2016-09-24
+159,1117,Gerard Hooghiem,Ferwert,M60,8,00:28:08,00:57:05,00:57:28,Sport op de As ,2016-09-24
+160,1095,Hannie Korenblik,Dokkum,V35,13,00:28:37,00:56:56,00:57:34,Sport op de As ,2016-09-24
+161,1102,Aaltsje Stellema,Dokkum,Vsen,24,00:27:29,00:57:22,00:57:35,Sport op de As ,2016-09-24
+162,1248,Rick Louwerens,Hallum,Msen,52,00:26:43,00:57:32,00:57:37,Sport op de As ,2016-09-24
+163,2401,Brigitte Feenstra,Ryptsjerk,V35,14,00:28:37,00:57:30,00:57:38,Sport op de As ,2016-09-24
+164,1453,Annemarie Rozema,Aldtsjerk,V45,11,00:28:38,00:57:32,00:57:40,Sport op de As ,2016-09-24
+165,1504,PeterArnold Jellema,Gytsjerk,M40,27,00:28:15,00:57:01,00:57:41,Sport op de As ,2016-09-24
+166,1437,KlaasHerman Postma,Hantum,M40,28,00:29:06,00:57:22,00:57:45,Sport op de As ,2016-09-24
+167,1038,Aafie Kloosterman,De Westereen,Vsen,25,00:27:10,00:57:39,00:57:45,Sport op de As ,2016-09-24
+168,1042,Ingrid Lapar,Dokkum,V35,15,00:29:10,00:57:26,00:57:46,Sport op de As ,2016-09-24
+169,1476,Rense Zwerver,Leeuwarden,M60,9,00:27:37,00:57:45,00:57:50,Sport op de As ,2016-09-24
+170,1475,Johan Zwerver,Goutum,M60,10,00:27:37,00:57:45,00:57:50,Sport op de As ,2016-09-24
+171,1200,Johannes Gjaltema,Hallum,Msen,53,00:27:32,00:57:44,00:57:52,Sport op de As ,2016-09-24
+172,1199,Rick van Meekeren,Broeksterwald,M50,24,00:27:36,00:57:21,00:58:02,Sport op de As ,2016-09-24
+173,1191,Inge Wiersma,Dokkum,V55,3,00:28:19,00:57:59,00:58:02,Sport op de As ,2016-09-24
+174,1037,Jorrit Booi,Burgum,Msen,54,00:27:56,00:57:39,00:58:06,Sport op de As ,2016-09-24
+175,1085,Margreeth Zuiderhof,Dokkum,V35,16,00:29:19,00:57:31,00:58:09,Sport op de As ,2016-09-24
+176,1275,Minke Schaap,Dokkum,Vsen,26,00:28:35,00:57:25,00:58:13,Sport op de As ,2016-09-24
+177,1146,Jantina Jager,Damwald,V35,17,00:27:58,00:58:08,00:58:15,Sport op de As ,2016-09-24
+178,1403,Fenna Bijlsma,Burgum,Vsen,27,00:29:04,00:58:08,00:58:18,Sport op de As ,2016-09-24
+179,1106,Tytsje Schievink,Dokkum,V45,12,00:28:09,00:58:00,00:58:21,Sport op de As ,2016-09-24
+180,1082,Frans Nicolai,Dokkum,M40,29,00:28:13,00:57:45,00:58:24,Sport op de As ,2016-09-24
+181,1213,Bert Santema,De Westereen,M50,25,00:27:17,00:57:54,00:58:26,Sport op de As ,2016-09-24
+182,1035,Mattijs Tiggeler,Leeuwarden,Msen,55,00:29:25,00:58:09,00:58:30,Sport op de As ,2016-09-24
+183,1514,Janneke Vd Polder,Readtsjerk,V35,18,00:29:07,00:58:06,00:58:30,Sport op de As ,2016-09-24
+184,1143,Ymkjeanna de Vries,Groningen,Vsen,28,00:29:50,00:58:26,00:58:31,Sport op de As ,2016-09-24
+185,1473,Nico Wijma,Burgum,M40,30,00:28:28,00:57:42,00:58:40,Sport op de As ,2016-09-24
+186,1323,Jacqueline Boersma,Burgum,V45,13,00:29:17,00:58:11,00:58:41,Sport op de As ,2016-09-24
+187,1274,Erik Piekema,Leeuwarden,Msen,56,00:28:54,00:58:05,00:58:46,Sport op de As ,2016-09-24
+188,1310,Sanne Keuning,Gytsjerk,Vsen,29,00:28:52,00:58:37,00:58:49,Sport op de As ,2016-09-24
+189,1508,Henk Meerema,Garyp,M40,31,00:27:38,00:58:35,00:58:58,Sport op de As ,2016-09-24
+190,1405,Rintje Zijlstra,Damwald,,,00:29:01,00:58:33,00:59:08,Sport op de As ,2016-09-24
+191,1180,Petra Kooy,Duiven,V45,14,00:28:18,00:58:41,00:59:11,Sport op de As ,2016-09-24
+192,1288,Jan Rietberg,Sibrandahus,M60,11,00:29:02,00:58:28,00:59:12,Sport op de As ,2016-09-24
+193,1003,Tjerk de Jong,Buitenpost,M40,32,00:28:24,00:58:39,00:59:16,Sport op de As ,2016-09-24
+194,1367,Albert de Boer,Gytsjerk,Msen,57,00:27:32,00:59:05,00:59:19,Sport op de As ,2016-09-24
+195,1409,Gelske Tjeerdsma,Oudega gem Smallingerlnd,Vsen,30,00:29:39,00:58:42,00:59:19,Sport op de As ,2016-09-24
+196,1411,Nynke vander Wal,Oudega gem Smallingerlnd,V35,19,00:29:43,00:58:44,00:59:21,Sport op de As ,2016-09-24
+197,2146,Paulien Roest,Leeuwarden,V35,20,00:29:08,00:59:11,00:59:22,Sport op de As ,2016-09-24
+198,1063,Minke Oord,Joure,V55,4,00:29:12,00:59:19,00:59:25,Sport op de As ,2016-09-24
+199,1501,Petra Bijlstra,Damwald,V35,21,00:28:59,00:58:47,00:59:31,Sport op de As ,2016-09-24
+200,2070,Feikje Riedstra,Burdaard,V45,15,00:29:49,00:59:19,00:59:31,Sport op de As ,2016-09-24
+201,1203,Foke Reitsma,Eastermar,V55,5,00:29:25,00:58:35,00:59:33,Sport op de As ,2016-09-24
+202,1481,Jelly Haarsma,Ternaard,V35,22,00:27:29,00:59:09,00:59:42,Sport op de As ,2016-09-24
+203,1432,Aukje Weidenaar,Oosternijkerk,Vsen,31,00:28:47,00:59:20,00:59:43,Sport op de As ,2016-09-24
+204,1278,Erwin Ytsma,Nes gem Dongeradeel,M40,33,00:29:45,00:59:32,00:59:53,Sport op de As ,2016-09-24
+205,1320,Annegriet Bosch,Apeldoorn,Vsen,32,00:29:10,00:59:50,00:59:55,Sport op de As ,2016-09-24
+206,1412,Doede De Poel,Dokkum,Msen,58,00:30:06,00:59:25,01:00:00,Sport op de As ,2016-09-24
+207,1019,Siebe de Jong,Kollum,M40,34,00:28:17,00:59:32,01:00:10,Sport op de As ,2016-09-24
+208,1269,Arie Poortinga,Burgum,M50,26,00:29:08,00:59:39,01:00:10,Sport op de As ,2016-09-24
+209,1434,Peter de Vries,Dokkum,M40,35,00:29:17,00:59:31,01:00:12,Sport op de As ,2016-09-24
+210,1433,Anja de Vries,Dokkum,V35,23,00:29:16,00:59:32,01:00:12,Sport op de As ,2016-09-24
+211,1400,Elsiena van Vliet,Gytsjerk,V35,24,00:29:34,00:59:39,01:00:15,Sport op de As ,2016-09-24
+212,1355,Marcia Dijkstra,Leeuwarden,V35,25,00:29:52,01:00:00,01:00:17,Sport op de As ,2016-09-24
+213,1040,Elske Booi,Burgum,V45,16,00:29:59,00:59:53,01:00:20,Sport op de As ,2016-09-24
+214,1119,Bouwina Sliedrecht,Raard,V45,17,00:30:10,01:00:00,01:00:21,Sport op de As ,2016-09-24
+215,1327,Regina Schreiber,Dokkum,V45,18,00:29:29,00:59:42,01:00:33,Sport op de As ,2016-09-24
+216,1206,Sabine Sijbesma,Leeuwarden,V35,26,00:28:08,01:00:27,01:00:34,Sport op de As ,2016-09-24
+217,1408,Fokje Kooistra,Oudega gem Smallingerlnd,Vsen,33,00:29:45,01:00:04,01:00:42,Sport op de As ,2016-09-24
+218,1187,Betty Witteveen,De Westereen,Vsen,34,00:29:26,01:00:38,01:00:45,Sport op de As ,2016-09-24
+219,1243,Jolanda Wijnsma,Dokkum,Vsen,35,00:29:42,01:00:30,01:00:45,Sport op de As ,2016-09-24
+220,1531,L. Kloosterman,Westereen,M60,12,00:29:34,01:00:39,01:00:48,Sport op de As ,2016-09-24
+221,1503,Robbert Reijn,Burgum,M60,13,00:27:46,01:00:01,01:00:50,Sport op de As ,2016-09-24
+222,2140,Jos Meeuwsen,Burgum,M50,27,00:28:32,01:00:07,01:00:50,Sport op de As ,2016-09-24
+223,1379,Leonie Terpstra,Hallum,V35,27,00:29:27,01:00:41,01:00:56,Sport op de As ,2016-09-24
+224,1126,David vander Veen,Leeuwarden,Msen,59,00:28:47,01:00:25,01:00:57,Sport op de As ,2016-09-24
+225,1397,Arjen vander Meer,Burgum,Msen,60,00:28:41,01:00:26,01:00:59,Sport op de As ,2016-09-24
+226,1156,Coba Wouda,Kollum,V45,19,00:30:03,01:00:27,01:01:01,Sport op de As ,2016-09-24
+227,1114,Herman Bakker,Dokkum,M40,36,00:28:37,01:00:31,01:01:10,Sport op de As ,2016-09-24
+228,1328,Anja Zuidema,Dokkum,V45,20,00:29:35,01:00:20,01:01:11,Sport op de As ,2016-09-24
+229,1486,Anita de Vreeze,Leeuwarden,V35,28,00:29:42,01:00:44,01:01:17,Sport op de As ,2016-09-24
+230,1436,Jelle de Haan,Haskerhorne,M40,37,00:29:09,01:00:20,01:01:18,Sport op de As ,2016-09-24
+231,1121,Sierd Santema,De Westereen,M50,28,00:29:52,01:00:47,01:01:20,Sport op de As ,2016-09-24
+232,1076,Thomas Hoekstra,Raard,M40,38,00:29:02,01:01:10,01:01:22,Sport op de As ,2016-09-24
+233,1505,Anja Bandstra,Oosternijkerk,V35,29,00:29:20,01:00:59,01:01:25,Sport op de As ,2016-09-24
+234,1190,Kim Arends-Fock,De Westereen,Vsen,36,00:29:16,01:01:20,01:01:27,Sport op de As ,2016-09-24
+235,1391,Cindy de Jager,St.-Annaparochie,V35,30,00:30:01,01:01:23,01:01:42,Sport op de As ,2016-09-24
+236,1377,Ine de Vries,Buitenpost,V35,31,00:30:09,01:01:05,01:01:45,Sport op de As ,2016-09-24
+237,1298,Janine StiksmaDijkstra,Buitenpost,Vsen,37,00:30:05,01:01:06,01:01:45,Sport op de As ,2016-09-24
+238,1280,Henk Koet,Buitenpost,M50,29,00:29:14,01:01:17,01:01:53,Sport op de As ,2016-09-24
+239,2088,Roelof Elzinga,Dokkum,M50,30,00:29:41,01:01:25,01:01:55,Sport op de As ,2016-09-24
+240,1302,Henny Nuwolt,Nes gem Dongeradeel,V35,32,00:30:10,01:01:31,01:01:56,Sport op de As ,2016-09-24
+241,1259,Fransisca Spa,Surhuisterveen,V35,33,00:29:56,01:01:35,01:02:01,Sport op de As ,2016-09-24
+242,1111,Theo Santema,Reitsum,M50,31,00:29:27,01:01:20,01:02:11,Sport op de As ,2016-09-24
+243,1468,Yvonne Luinge,Feanwalden,Vsen,38,00:30:03,01:02:09,01:02:12,Sport op de As ,2016-09-24
+244,2322,Nynke Hartman,Gytsjerk,V35,34,00:28:48,01:01:55,01:02:14,Sport op de As ,2016-09-24
+245,1207,Jan Bilker,Dokkum,M50,32,00:32:59,01:01:25,01:02:18,Sport op de As ,2016-09-24
+246,1161,Pieteke Kooij,Burgum,V45,21,00:30:17,01:01:52,01:02:24,Sport op de As ,2016-09-24
+247,1237,Joke Gros,Burgum,V45,22,00:30:18,01:01:53,01:02:25,Sport op de As ,2016-09-24
+248,1036,Herman Buikema,Goutum,Msen,61,00:29:25,01:02:06,01:02:27,Sport op de As ,2016-09-24
+249,1496,Romy de Boer,Beetsterzwaag,V45,23,00:27:15,01:02:11,01:02:29,Sport op de As ,2016-09-24
+250,1424,Rieneke Kooistra,Kortehemmen,V45,24,00:30:15,01:02:12,01:02:30,Sport op de As ,2016-09-24
+251,1215,Wietske de Vries,Groningen,Vsen,39,00:30:08,01:02:17,01:02:32,Sport op de As ,2016-09-24
+252,1186,Leo Smidt,Bornwird,M50,33,00:30:04,01:02:26,01:02:37,Sport op de As ,2016-09-24
+253,1169,Jan Panhuis,Leeuwarden,M60,14,00:30:35,01:02:17,01:02:40,Sport op de As ,2016-09-24
+254,1421,Theo Hazelaar,Burgum,M60,15,00:29:36,01:01:59,01:02:40,Sport op de As ,2016-09-24
+255,1520,Dirk vanderbeek,Ferwert,Msen,62,00:27:55,01:02:08,01:02:43,Sport op de As ,2016-09-24
+256,1221,Johanna de Boer,Kollumerzwaag,Vsen,40,00:30:04,01:02:44,01:02:51,Sport op de As ,2016-09-24
+257,1301,Majella Geerdink,Burgum,V35,35,00:30:19,01:02:20,01:02:51,Sport op de As ,2016-09-24
+258,1344,Ymie Broos,Drogeham,V45,25,00:29:35,01:02:14,01:02:52,Sport op de As ,2016-09-24
+259,1139,Tjisse Noordhuis,Dokkum,M50,34,00:29:50,01:02:47,01:03:00,Sport op de As ,2016-09-24
+260,1039,Leo Hoekstra,Garyp,M40,39,00:30:45,01:02:19,01:03:00,Sport op de As ,2016-09-24
+261,1443,Theo Beeksma,Dokkum,M40,40,00:31:43,01:02:11,01:03:13,Sport op de As ,2016-09-24
+262,1518,Nynke Dedden,Drachten,Vsen,41,00:31:07,01:03:03,01:03:23,Sport op de As ,2016-09-24
+263,1250,Koos vander Ploeg,Kollumerzwaag,M40,41,00:29:33,01:02:48,01:03:25,Sport op de As ,2016-09-24
+264,1394,Floris Goet,Buitenpost,Msen,63,00:29:31,01:02:42,01:03:32,Sport op de As ,2016-09-24
+265,1336,Natasja Hoekstra,Burgum,V45,26,00:29:48,01:03:22,01:03:34,Sport op de As ,2016-09-24
+266,1499,Ettha Huisman,Buitenpost,V55,6,00:30:12,01:02:58,01:03:35,Sport op de As ,2016-09-24
+267,1297,Marjan Sibma,Buitenpost,V35,36,00:29:47,01:02:56,01:03:35,Sport op de As ,2016-09-24
+268,1271,Titia Westra,Burgum,V35,37,00:30:38,01:03:05,01:03:35,Sport op de As ,2016-09-24
+269,1422,Conny Oldenhuis,Buitenpost,V45,27,00:30:10,01:02:59,01:03:35,Sport op de As ,2016-09-24
+270,1012,Annet Popken,Assen,V45,28,00:28:55,01:03:24,01:03:37,Sport op de As ,2016-09-24
+271,1538,Gemma Bakker,,Vsen,42,00:29:46,01:03:36,01:03:42,Sport op de As ,2016-09-24
+272,1345,Ria Visser,Anjum,V45,29,00:30:47,01:02:58,01:03:43,Sport op de As ,2016-09-24
+273,1491,Ida Hoekstra,Akkrum,V55,7,00:30:18,01:03:24,01:03:43,Sport op de As ,2016-09-24
+274,1094,Gea Huisman,Drachten,V45,30,00:31:34,01:02:47,01:03:44,Sport op de As ,2016-09-24
+275,1157,Ids Feenstra,Zwagerbosch,M50,35,00:29:09,01:03:14,01:03:49,Sport op de As ,2016-09-24
+276,1046,Jan Pranger,De Westereen,M50,36,00:29:00,01:03:42,01:03:52,Sport op de As ,2016-09-24
+277,1350,Julia Meijer,Leek,V45,31,00:30:33,01:03:44,01:03:52,Sport op de As ,2016-09-24
+278,1147,Wiesje Kloosterman,Burgum,V45,32,00:29:45,01:03:24,01:03:53,Sport op de As ,2016-09-24
+279,1252,Romana Monsma,Dokkum,V35,38,00:31:21,01:03:40,01:04:09,Sport op de As ,2016-09-24
+280,1470,Jellie Tabak,Opende,V35,39,00:31:19,01:04:06,01:04:20,Sport op de As ,2016-09-24
+281,1407,Sita Postma,Oudega gem Smallingerlnd,Vsen,43,00:29:54,01:03:53,01:04:31,Sport op de As ,2016-09-24
+282,1513,Sippie Miedema,Buitenpost,V35,40,00:30:11,01:03:52,01:04:31,Sport op de As ,2016-09-24
+283,1032,Greetje Jellema,Raard,V55,8,00:31:25,01:04:12,01:04:33,Sport op de As ,2016-09-24
+284,1362,Elly Eelkema,Anjum,V45,33,00:30:47,01:03:50,01:04:35,Sport op de As ,2016-09-24
+285,1253,Gelske Jager,Driezum,V45,34,00:32:48,01:03:52,01:04:38,Sport op de As ,2016-09-24
+286,1138,Folkje De Vries,Drachten,Vsen,44,00:30:58,01:04:12,01:04:39,Sport op de As ,2016-09-24
+287,1050,Janouk Hogeveen,Dokkum,Vsen,45,00:32:56,01:03:54,01:04:39,Sport op de As ,2016-09-24
+288,1441,Ronald Peters,Dokkum,M40,42,00:31:44,01:03:50,01:04:49,Sport op de As ,2016-09-24
+289,1192,Margriet vander Heide,Hurdegaryp,V35,41,00:31:00,01:04:12,01:04:49,Sport op de As ,2016-09-24
+290,1467,Cobe de Wilde,Burgum,V45,35,00:30:46,01:04:22,01:04:52,Sport op de As ,2016-09-24
+291,1141,Tineke Bergsma,Burgum,V55,9,00:31:31,01:04:51,01:04:56,Sport op de As ,2016-09-24
+292,1452,Geert Vriesingaga,Noardburgum,M50,37,00:29:49,01:04:32,01:04:58,Sport op de As ,2016-09-24
+293,1066,Jelly Visser,Dokkum,V35,42,00:30:55,01:04:26,01:05:05,Sport op de As ,2016-09-24
+294,1078,Afie Schilstra,Dokkum,V45,36,00:29:30,01:04:27,01:05:05,Sport op de As ,2016-09-24
+295,1426,Jozé wiersma-kranendonk,Nij Beets,V45,37,00:31:22,01:04:50,01:05:07,Sport op de As ,2016-09-24
+296,1232,Jade Gundelach,Almelo,V35,43,00:31:10,01:04:31,01:05:25,Sport op de As ,2016-09-24
+297,1103,LammertWybren Stellema,Dokkum,Msen,64,00:28:38,01:05:18,01:05:30,Sport op de As ,2016-09-24
+298,1133,Carla Hoekstra,Tytsjerk,V35,44,00:30:26,01:05:24,01:05:32,Sport op de As ,2016-09-24
+299,1134,Kor Postma,Tytsjerk,M40,43,00:30:39,01:05:24,01:05:32,Sport op de As ,2016-09-24
+300,1188,Folkert Bruinsma,Kollum,Msen,65,00:33:37,01:05:20,01:05:43,Sport op de As ,2016-09-24
+301,2245,Inge Kools,Leeuwarden,V55,10,00:30:06,01:05:38,01:05:47,Sport op de As ,2016-09-24
+302,1120,Silke Visser,Hurdegaryp,Vsen,46,00:30:32,01:05:39,01:05:49,Sport op de As ,2016-09-24
+303,1060,Jaap vander Laan,Burgum,M40,44,00:28:35,01:05:52,01:05:58,Sport op de As ,2016-09-24
+304,1471,Annet Mettrop,Bovensmilde,V55,11,00:31:23,01:05:47,01:05:59,Sport op de As ,2016-09-24
+305,1528,Marjanna Kooistra,Oudwoude,V45,38,00:32:07,01:05:10,01:06:03,Sport op de As ,2016-09-24
+306,1164,Babetta Hellinga,Dokkum,V35,45,00:33:18,01:05:23,01:06:07,Sport op de As ,2016-09-24
+307,1485,Bianca Borgsteyn,Heerenveen,V35,46,00:33:16,01:05:23,01:06:07,Sport op de As ,2016-09-24
+308,1343,Marten vander Woude,Dokkum,M60,16,00:31:38,01:05:13,01:06:10,Sport op de As ,2016-09-24
+309,1306,Karin Wielinga,Stuifzand,V45,39,00:30:52,01:05:31,01:06:21,Sport op de As ,2016-09-24
+310,1526,Hinke Oost,Leeuwarden,V45,40,00:31:38,01:06:02,01:06:27,Sport op de As ,2016-09-24
+311,1372,Eric Limpens,Gytsjerk,M40,45,00:32:22,01:06:12,01:06:36,Sport op de As ,2016-09-24
+312,1282,Bernedine Hakvoort,Oldemarkt,V35,47,00:30:49,01:06:16,01:06:41,Sport op de As ,2016-09-24
+313,1087,Femme de Bruin,Leeuwarden,M60,17,00:32:12,01:05:58,01:06:49,Sport op de As ,2016-09-24
+314,1065,Wipkje Hiemstra,De Westereen,V35,48,00:32:25,01:06:45,01:06:50,Sport op de As ,2016-09-24
+315,1502,Sjoerd Postma,Damwald,Msen,66,00:33:12,01:06:09,01:06:52,Sport op de As ,2016-09-24
+316,1524,Debora Plas,Hoogeveen,V45,41,00:32:10,01:06:03,01:06:53,Sport op de As ,2016-09-24
+317,1270,Klasina Vonk,Burgum,V45,42,00:31:01,01:06:29,01:07:00,Sport op de As ,2016-09-24
+318,1128,Naraysca Cecilia,Drachten,V35,49,00:32:26,01:06:06,01:07:07,Sport op de As ,2016-09-24
+319,1256,Timo van Buiten,Surhuisterveen,M40,46,00:30:39,01:06:42,01:07:08,Sport op de As ,2016-09-24
+320,1469,Elisabeth Everts,Opende,V35,50,00:32:19,01:06:54,01:07:08,Sport op de As ,2016-09-24
+321,1388,Edwin Dejong,Noardburgum,M40,47,00:35:47,01:06:38,01:07:20,Sport op de As ,2016-09-24
+322,1049,Setske Sauermann,Dokkum,V45,43,00:32:52,01:06:31,01:07:22,Sport op de As ,2016-09-24
+323,1303,Corrie Zwart,Ulrum,V55,12,00:31:39,01:07:13,01:07:22,Sport op de As ,2016-09-24
+324,1123,Geert de Jong,Twijzelerheide,M40,48,00:31:32,01:07:08,01:07:25,Sport op de As ,2016-09-24
+325,1125,Klaas-Jaap vander Lijn,Feanwalden,M40,49,00:31:47,01:07:25,01:07:25,Sport op de As ,2016-09-24
+326,1293,Ciska Boomsma,Noardburgum,V45,44,00:32:10,01:06:55,01:07:28,Sport op de As ,2016-09-24
+327,1294,Maaike Vledder,Leeuwarden,V35,51,00:32:11,01:06:55,01:07:28,Sport op de As ,2016-09-24
+328,1172,Siebe Groos,Drachten,M60,18,00:31:33,01:06:32,01:07:29,Sport op de As ,2016-09-24
+329,1238,Jolanda vander Gang,Dokkum,V35,52,00:33:03,01:06:50,01:07:29,Sport op de As ,2016-09-24
+330,1007,Dukke Bosman,Damwald,V45,45,00:32:55,01:06:43,01:07:29,Sport op de As ,2016-09-24
+331,1170,Eelke De Vries,Feanwalden,M50,38,00:29:24,01:06:43,01:07:41,Sport op de As ,2016-09-24
+332,1334,Gerdy Castelein,Feanwalden,Vsen,47,00:33:17,01:07:17,01:07:41,Sport op de As ,2016-09-24
+333,1251,Siska Kloppenburg,Dokkum,V35,53,00:33:16,01:06:56,01:07:43,Sport op de As ,2016-09-24
+334,1416,Cobie Sietzema,Buitenpost,V45,46,00:31:19,01:06:53,01:07:45,Sport op de As ,2016-09-24
+335,1417,Wieky Adler,Dokkum,V45,47,00:31:18,01:06:53,01:07:45,Sport op de As ,2016-09-24
+336,1446,Jose Baas-Zondag,Grou,V55,13,00:31:42,01:07:27,01:07:47,Sport op de As ,2016-09-24
+337,1463,Henk Schipper,Dokkum,M60,19,00:31:12,01:07:05,01:07:51,Sport op de As ,2016-09-24
+338,1398,Marije Bijma,Surhuizum,Vsen,48,00:33:14,01:07:36,01:07:52,Sport op de As ,2016-09-24
+339,1088,Aukje Veenema,Dokkum,V45,48,00:33:04,01:07:06,01:07:53,Sport op de As ,2016-09-24
+340,1080,Jacolina de Swart,Dokkum,V45,49,00:33:07,01:07:06,01:07:54,Sport op de As ,2016-09-24
+341,1150,Lianne van Mourik,Hurdegaryp,V35,54,00:28:49,01:07:50,01:07:56,Sport op de As ,2016-09-24
+342,1067,Henk Veninga,Broeksterwald,M50,39,00:31:03,01:07:38,01:07:57,Sport op de As ,2016-09-24
+343,1287,Attie vander Woude,Raard,V45,50,00:32:26,01:07:38,01:08:00,Sport op de As ,2016-09-24
+344,1163,Margot Hagedoorn,Dokkum,V45,51,00:33:42,01:07:19,01:08:00,Sport op de As ,2016-09-24
+345,1093,Siske van Oostrum,Leeuwarden,V55,14,00:30:06,01:07:39,01:08:01,Sport op de As ,2016-09-24
+346,1005,Bep Roorda,Damwald,V55,15,00:33:00,01:07:20,01:08:05,Sport op de As ,2016-09-24
+347,1333,Elizabeth Wiersma,Nij Altoenae,V35,55,00:31:38,01:07:52,01:08:11,Sport op de As ,2016-09-24
+348,1385,Sanne Kloosterman,Damwald,Vsen,49,00:34:35,01:07:47,01:08:14,Sport op de As ,2016-09-24
+349,1045,Hieke Veenstra-Rinsma,Noardburgum,V55,16,00:33:17,01:07:44,01:08:17,Sport op de As ,2016-09-24
+350,1313,Ymkje de Vries,Burgum,V45,52,00:33:17,01:07:46,01:08:17,Sport op de As ,2016-09-24
+351,1052,Tineke Woudwijk,Burgum,V45,53,00:32:59,01:07:54,01:08:25,Sport op de As ,2016-09-24
+352,1025,Maaike Holwerda,Dokkum,V55,17,00:33:20,01:07:44,01:08:29,Sport op de As ,2016-09-24
+353,1331,Johanna Sliep,Triemen,Vsen,50,00:33:59,01:08:01,01:08:36,Sport op de As ,2016-09-24
+354,1317,Gelly Kooistra,De Westereen,V45,54,00:34:01,01:08:02,01:08:36,Sport op de As ,2016-09-24
+355,1318,Hanna Kooistra,De Westereen,Vsen,51,00:34:10,01:08:03,01:08:36,Sport op de As ,2016-09-24
+356,1132,Klaas Vander Meer,Damwald,M60,20,00:32:57,01:07:42,01:08:36,Sport op de As ,2016-09-24
+357,1079,Erna Koenderink,Metslawier,V55,18,00:33:12,01:08:21,01:09:09,Sport op de As ,2016-09-24
+358,1020,Pina Lombardi,Dokkum,V45,55,00:32:52,01:08:23,01:09:09,Sport op de As ,2016-09-24
+359,1533,Vanessa Stoelwinder,,,,00:32:35,01:09:26,01:09:28,Sport op de As ,2016-09-24
+360,1276,Therese Wester,Leeuwarden,V45,56,00:32:32,01:09:19,01:09:28,Sport op de As ,2016-09-24
+361,1373,Jikke Castelein,Gytsjerk,V35,56,00:32:20,01:09:08,01:09:32,Sport op de As ,2016-09-24
+362,1048,Jannie Hoeksma,Dokkum,V45,57,00:33:08,01:09:08,01:09:56,Sport op de As ,2016-09-24
+363,1519,Berber Dedden,Jistrum,Vsen,52,00:32:42,01:09:42,01:10:03,Sport op de As ,2016-09-24
+364,1179,Sjoukje Reitsma,Hurdegaryp,Vsen,53,00:32:42,01:09:54,01:10:05,Sport op de As ,2016-09-24
+365,1130,André Hartmann,Leeuwarden,M50,40,00:32:00,01:09:21,01:10:06,Sport op de As ,2016-09-24
+366,1181,Tjitte Kooy,Duiven,M40,50,00:31:37,01:09:41,01:10:12,Sport op de As ,2016-09-24
+367,1245,Amanda Dorfel,Dokkum,Vsen,54,00:34:13,01:09:24,01:10:12,Sport op de As ,2016-09-24
+368,1366,Gosse Dijkstra,Hurdegaryp,M60,21,00:32:50,01:09:26,01:10:17,Sport op de As ,2016-09-24
+369,1110,Alina Tiemersma,Burgum,V45,58,00:33:16,01:09:49,01:10:22,Sport op de As ,2016-09-24
+370,1339,Hilda van Dijk,Eastermar,Vsen,55,00:34:45,01:10:02,01:10:25,Sport op de As ,2016-09-24
+371,1418,Mijke Bos,Dokkum,V35,57,00:34:45,01:10:01,01:10:29,Sport op de As ,2016-09-24
+372,1460,Maaike Borstlap,Dokkum,V35,58,00:34:44,01:10:00,01:10:29,Sport op de As ,2016-09-24
+373,1410,Baukje vander Velde,Oudega gem Smallingerlnd,Vsen,56,00:34:13,01:10:13,01:10:32,Sport op de As ,2016-09-24
+374,1464,Thijs van Dijk,Dokkum,M60,22,00:32:18,01:09:54,01:10:33,Sport op de As ,2016-09-24
+375,1431,Lianne de Jong,Damwald,Vsen,57,00:34:03,01:10:21,01:10:36,Sport op de As ,2016-09-24
+376,1155,Jorrit Wijnstra,Hurdegaryp,Msen,67,00:33:41,01:10:36,01:10:43,Sport op de As ,2016-09-24
+377,1239,Regina Visser,Hurdegaryp,V45,59,00:33:34,01:10:36,01:10:43,Sport op de As ,2016-09-24
+378,1226,Guido Groen,Drachten,M40,51,00:31:59,01:09:53,01:10:49,Sport op de As ,2016-09-24
+379,1322,Sofia Greijdanus,Kollumerzwaag,V45,60,00:33:30,01:10:21,01:10:53,Sport op de As ,2016-09-24
+380,1124,Eline Visser,Damwald,V35,59,00:34:01,01:10:29,01:10:53,Sport op de As ,2016-09-24
+381,1122,Dineke Vander Lei,Damwald,V35,60,00:34:01,01:10:29,01:10:54,Sport op de As ,2016-09-24
+382,1378,Lucy Hoekstra,Hurdegaryp,Vsen,58,00:34:05,01:10:31,01:10:55,Sport op de As ,2016-09-24
+383,1290,Clementia Vander Heide-Rietberg,Buitenpost,V35,61,00:33:53,01:10:12,01:10:56,Sport op de As ,2016-09-24
+384,1263,Aletta vander Meer-vanKammen,De Westereen,V35,62,00:34:40,01:10:25,01:10:58,Sport op de As ,2016-09-24
+385,1525,KLaas Plas,Hoogeveen,M40,52,00:32:09,01:10:36,01:11:25,Sport op de As ,2016-09-24
+386,1154,Hennie Smid-Hooijer,Hindeloopen,V45,61,00:33:02,01:10:55,01:11:31,Sport op de As ,2016-09-24
+387,1160,Erika Klompmaker,Dokkum,V45,62,00:34:36,01:11:15,01:11:58,Sport op de As ,2016-09-24
+388,1268,Linda Veninga,Gytsjerk,V35,63,00:32:35,01:11:41,01:11:58,Sport op de As ,2016-09-24
+389,1077,Sytske Broersma,Burgum,V35,64,00:32:44,01:11:46,01:12:03,Sport op de As ,2016-09-24
+390,1516,Tim Logher,Burgum,M60,23,00:33:54,01:11:14,01:12:04,Sport op de As ,2016-09-24
+391,1013,Marja Damstra,Raard,V35,65,00:34:18,01:12:08,01:12:27,Sport op de As ,2016-09-24
+392,1010,Aukje vander Veen,Dokkum,V55,19,00:33:16,01:12:14,01:12:35,Sport op de As ,2016-09-24
+393,1223,Tineke Dijkstra,Bitgum,V55,20,00:35:07,01:11:59,01:12:51,Sport op de As ,2016-09-24
+394,1225,Yvette Alkema,Sneek,V45,63,00:34:56,01:12:28,01:12:54,Sport op de As ,2016-09-24
+395,1484,Joop Boonstra,Leeuwarden,M60,24,00:35:21,01:12:07,01:12:59,Sport op de As ,2016-09-24
+396,1104,Herman Hoekstra,Goutum,M60,25,00:35:16,01:12:08,01:13:00,Sport op de As ,2016-09-24
+397,1509,Gré vander Vliet,Burgum,V35,66,00:33:15,01:12:24,01:13:07,Sport op de As ,2016-09-24
+398,1096,Alie Soepboer,Dokkum,V45,64,00:32:41,01:12:23,01:13:11,Sport op de As ,2016-09-24
+399,1014,Djoke van Dongera,Dokkum,V45,65,00:33:04,01:12:24,01:13:11,Sport op de As ,2016-09-24
+400,1236,Marieke van Dellen,Dokkum,V35,67,00:34:56,01:12:44,01:13:12,Sport op de As ,2016-09-24
+401,1235,Laura Westra,Ternaard,V35,68,00:35:01,01:12:45,01:13:13,Sport op de As ,2016-09-24
+402,1498,Johan De Vries,Lioessens,M50,41,00:34:57,01:12:24,01:13:20,Sport op de As ,2016-09-24
+403,1497,Marianne Mijdam,Lioessens,V45,66,00:34:57,01:12:24,01:13:20,Sport op de As ,2016-09-24
+404,1392,Esther hofs-jellema,Arnhem,V35,69,00:34:45,01:12:53,01:13:27,Sport op de As ,2016-09-24
+405,1534,Paulien Ardesch,,V45,67,00:35:00,01:13:11,01:13:27,Sport op de As ,2016-09-24
+406,1535,Annette Nolting,,V45,68,00:35:00,01:13:11,01:13:27,Sport op de As ,2016-09-24
+407,1299,Aukje Bijker,Kollumerzwaag,V45,69,00:34:26,01:12:56,01:13:28,Sport op de As ,2016-09-24
+408,1189,Annet Jellema,De Westereen,V35,70,00:34:41,01:12:56,01:13:29,Sport op de As ,2016-09-24
+409,1072,Froukje de Roos,De Westereen,V45,70,00:34:26,01:12:57,01:13:29,Sport op de As ,2016-09-24
+410,1158,Fokeltje Feenstra,Zwagerbosch,V55,21,00:33:34,01:12:54,01:13:30,Sport op de As ,2016-09-24
+411,1009,Karin Molenbuur,Feanwalden,V45,71,00:33:18,01:13:11,01:14:01,Sport op de As ,2016-09-24
+412,1030,Henriëtte vander Zee,Dokkum,V45,72,00:33:36,01:13:12,01:14:01,Sport op de As ,2016-09-24
+413,1031,Susan Postma,Damwald,V45,73,00:34:01,01:13:15,01:14:02,Sport op de As ,2016-09-24
+414,1033,Froukje Broersma,Feanwalden,V45,74,00:35:38,01:13:49,01:14:25,Sport op de As ,2016-09-24
+415,1168,Lia Hengst,Feanwalden,V45,75,00:35:37,01:13:52,01:14:28,Sport op de As ,2016-09-24
+416,1244,Corrina Venema,Dokkum,V45,76,00:34:50,01:13:45,01:14:33,Sport op de As ,2016-09-24
+417,1265,Margreet VanderMolen,Westergeest,V45,77,00:35:10,01:14:15,01:14:35,Sport op de As ,2016-09-24
+418,1401,Andrea Steenhuis,Haulerwijk,Vsen,59,00:35:46,01:14:33,01:14:47,Sport op de As ,2016-09-24
+419,2338,Carolien Dijkstra,Holwerd,V35,71,00:34:48,01:14:40,01:14:47,Sport op de As ,2016-09-24
+420,1402,Marijke Akker,Wijnjewoude,Vsen,60,00:35:46,01:14:33,01:14:47,Sport op de As ,2016-09-24
+421,1023,Margriet Brinkman,Kollumerzwaag,V45,78,00:32:56,01:14:15,01:14:49,Sport op de As ,2016-09-24
+422,1361,Jindra Hoogland,Drachten,Vsen,61,00:36:16,01:14:43,01:15:02,Sport op de As ,2016-09-24
+423,1090,Sylvia Pieters,Engwierum,V45,79,00:32:41,01:14:16,01:15:04,Sport op de As ,2016-09-24
+424,1027,Ferdi Bijl,Wyns,V55,22,00:33:11,01:14:25,01:15:10,Sport op de As ,2016-09-24
+425,1041,Margje vander Meulen,Wergea,V55,23,00:36:31,01:15:50,01:16:39,Sport op de As ,2016-09-24
+426,1091,Reina Frietema,Damwald,V45,80,00:35:14,01:15:48,01:16:39,Sport op de As ,2016-09-24
+427,1028,Jelly van Klaarbergen,Broeksterwald,V55,24,00:36:31,01:15:50,01:16:39,Sport op de As ,2016-09-24
+428,1420,Arenda Franken,Drachten,V35,72,00:36:11,01:16:55,01:17:04,Sport op de As ,2016-09-24
+429,1358,DirkPiet Bilker,Wolvega,M50,42,00:34:48,01:16:16,01:17:09,Sport op de As ,2016-09-24
+430,1201,Douwina Iedema,Holwerd,V45,81,00:34:48,01:16:17,01:17:10,Sport op de As ,2016-09-24
+431,1387,Henk Tamminga,Dokkum,M50,43,00:36:25,01:17:18,01:18:00,Sport op de As ,2016-09-24
+432,1249,Claudia Westerhof,Dokkum,Vsen,62,00:36:15,01:18:20,01:19:11,Sport op de As ,2016-09-24
+433,1006,Maaike Walsweer,Feanwalden,V35,73,00:36:43,01:19:06,01:19:42,Sport op de As ,2016-09-24
+434,1171,Marieke Jorritsma,Groningen,Vsen,63,00:36:57,01:19:44,01:20:04,Sport op de As ,2016-09-24
+435,1241,Nanette Caviet,Dokkum,V55,25,00:38:48,01:20:13,01:20:26,Sport op de As ,2016-09-24
+436,1254,Grietje de Vries,Noardburgum,V35,74,00:35:56,01:19:48,01:20:31,Sport op de As ,2016-09-24
+437,2370,Diena Pel,Noardburgum,V35,75,00:36:35,01:19:49,01:20:32,Sport op de As ,2016-09-24
+438,1107,Tjitske Vanderveen,Feanwalden,V55,26,00:37:09,01:20:41,01:21:02,Sport op de As ,2016-09-24
+439,1472,Alie Luitjes,Bovensmilde,V45,82,00:38:44,01:21:17,01:21:30,Sport op de As ,2016-09-24
+440,1167,Henk Boersma,De Westereen,M60,26,00:40:00,01:21:10,01:21:44,Sport op de As ,2016-09-24
+441,1312,Marjan Hoeksma,Dokkum,V35,76,00:39:15,01:21:22,01:21:54,Sport op de As ,2016-09-24
+442,1311,Alice vanderPloeg-Visser,Dokkum,V35,77,00:39:12,01:21:23,01:21:54,Sport op de As ,2016-09-24
+443,2190,Sietske vander Bij,Jirnsum,V55,27,00:40:02,01:22:03,01:22:57,Sport op de As ,2016-09-24
+444,1209,Reinder Sinnema,Leeuwarden,M50,44,00:40:00,01:22:03,01:22:57,Sport op de As ,2016-09-24
+445,1196,Jos van Oostrum,Leeuwarden,Msen,68,00:42:19,01:22:59,01:23:22,Sport op de As ,2016-09-24
+446,1316,Luuk Feitsma,Leeuwarden,M60,27,00:40:25,01:23:19,01:23:36,Sport op de As ,2016-09-24
+447,1440,Hein krottje,Walterswald,M40,53,00:40:07,01:22:57,01:23:56,Sport op de As ,2016-09-24
+448,1016,Emmy Vander Henne,Dokkum,V45,83,00:39:51,01:26:57,01:27:26,Sport op de As ,2016-09-24
+449,1536,Anneke Papma-Sijtsma,Ferwert,V55,28,00:41:41,01:26:57,01:27:26,Sport op de As ,2016-09-24
+450,1177,Roelyke Gallego-Wilthof,Leeuwarden,V35,78,00:44:23,01:34:08,01:35:03,Sport op de As ,2016-09-24
+451,1176,Pascual GallegoyvanSeijen,Leeuwarden,M40,54,00:44:26,01:34:08,01:35:03,Sport op de As ,2016-09-24

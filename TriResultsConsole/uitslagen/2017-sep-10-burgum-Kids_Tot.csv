@@ -1,0 +1,70 @@
+Plts,StNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,70,Albert Jan Plantinga,Garyp,M,1,00:09:37,00:09:37,BurgumRun ,2017-09-10
+2,58,Brecht Frensel,Akkrum,V,1,00:09:44,00:09:44,BurgumRun ,2017-09-10
+3,37,Bauke Tuinstra,Kootstertille,M,2,00:09:57,00:09:55,BurgumRun ,2017-09-10
+4,24,Hannah Talstra,Drachten,V,2,00:09:59,00:09:59,BurgumRun ,2017-09-10
+5,46,Jelle Bosma,Burgum,M,3,00:11:01,00:11:01,BurgumRun ,2017-09-10
+6,56,Ylse Barkmeijer,Akkrum,V,3,00:11:10,00:11:10,BurgumRun ,2017-09-10
+7,61,Marne Van der Kooi,Burgum,M,4,00:11:13,00:11:13,BurgumRun ,2017-09-10
+8,28,Boaz Elzinga,Munein,M,5,00:11:34,00:11:32,BurgumRun ,2017-09-10
+9,5,Fleur de Vries,Drachten,V,4,00:11:42,00:11:42,BurgumRun ,2017-09-10
+10,14,Joeri Oosterhof,Stiens,M,6,00:11:58,00:11:55,BurgumRun ,2017-09-10
+11,35,Benjamin Benjak,Burgum,M,7,00:12:12,00:12:12,BurgumRun ,2017-09-10
+12,13,Jorik de Jager,Hurdegaryp,M,8,00:12:15,00:12:11,BurgumRun ,2017-09-10
+13,45,Thyme Bosma,Burgum,M,9,00:12:18,00:12:18,BurgumRun ,2017-09-10
+14,57,Nynke Barkmeijer,Akkrum,V,5,00:12:29,00:12:29,BurgumRun ,2017-09-10
+15,11,Néya Schuhmacher,Stiens,V,6,00:12:30,00:12:27,BurgumRun ,2017-09-10
+16,44,Corné van der Heide,Harkema,M,10,00:12:34,00:12:33,BurgumRun ,2017-09-10
+17,21,Jorrick Veenstra,Drachten,M,11,00:12:35,00:12:33,BurgumRun ,2017-09-10
+18,42,Lucian Schievink,Burgum,M,12,00:12:47,00:12:46,BurgumRun ,2017-09-10
+19,53,Johan Postma,Burgum,M,13,00:12:49,00:12:44,BurgumRun ,2017-09-10
+20,41,Mariëlle Schievink,Burgum,V,7,00:12:49,00:12:48,BurgumRun ,2017-09-10
+21,19,Renske de Boer,Eastermar,V,8,00:12:54,00:12:54,BurgumRun ,2017-09-10
+22,38,Aline Eelkema,Hantum,V,9,00:13:16,00:13:16,BurgumRun ,2017-09-10
+23,26,Paul sjoerdsma,Burgum,M,14,00:13:29,00:13:29,BurgumRun ,2017-09-10
+24,69,Joran v.d. Wal,Burgum,M,15,00:13:36,00:13:31,BurgumRun ,2017-09-10
+25,59,Ynes Barkmeijer,Akkrum,V,10,00:13:40,00:13:40,BurgumRun ,2017-09-10
+26,75,Ditmer Douwes,Burgum,M,16,00:13:43,00:13:37,BurgumRun ,2017-09-10
+27,43,Remco Hellinga,Burgum,M,17,00:13:57,00:13:54,BurgumRun ,2017-09-10
+28,47,Mats de Nijs,Burgum,M,18,00:14:04,00:13:58,BurgumRun ,2017-09-10
+29,27,Lars Yedema,Heerenveen,M,19,00:14:06,00:14:01,BurgumRun ,2017-09-10
+30,32,Nick van der bijl,De Westereen,M,20,00:14:08,00:14:08,BurgumRun ,2017-09-10
+31,74,Sven Douwes,Burgum,M,21,00:14:16,00:14:10,BurgumRun ,2017-09-10
+32,49,Hidde de Roos,Burgum,M,22,00:14:24,00:14:24,BurgumRun ,2017-09-10
+33,22,Annique Veenstra,Drachten,V,11,00:14:33,00:14:30,BurgumRun ,2017-09-10
+34,9,Silde Boersma,Ureterp,V,12,00:14:35,00:14:30,BurgumRun ,2017-09-10
+35,4,Feike Anne Walsweer,Feanwalden,M,23,00:14:37,00:14:36,BurgumRun ,2017-09-10
+36,36,Jonathan Benjak,Burgum,M,24,00:14:38,00:14:35,BurgumRun ,2017-09-10
+37,17,Sygrid Schievink,Burgum,V,13,00:14:50,00:14:44,BurgumRun ,2017-09-10
+38,2,Anne-Fleur van Assen,Drachten,V,14,00:14:51,00:14:49,BurgumRun ,2017-09-10
+39,64,Lisca van Gelder,Leeuwarden,V,15,00:14:51,00:14:48,BurgumRun ,2017-09-10
+40,63,Iesco van Gelder,Leeuwarden,M,25,00:14:51,00:14:46,BurgumRun ,2017-09-10
+41,16,Jelke Wijkhuizen,Burgum,M,26,00:15:00,00:14:58,BurgumRun ,2017-09-10
+42,25,Simon Talstra,Drachten,M,27,00:15:01,00:15:00,BurgumRun ,2017-09-10
+43,60,Wytse-Jan van der Kooi,Burgum,M,28,00:15:04,00:15:04,BurgumRun ,2017-09-10
+44,65,Dione van Gelder,Leeuwarden,V,16,00:15:13,00:15:10,BurgumRun ,2017-09-10
+45,54,Fenna Hamersma,Burgum,V,17,00:15:17,00:15:11,BurgumRun ,2017-09-10
+46,40,Levi poeziat,Burgum,M,29,00:15:37,00:15:30,BurgumRun ,2017-09-10
+47,73,Jorn Adema,Burgum,M,30,00:15:58,00:15:56,BurgumRun ,2017-09-10
+48,72,Noor adema,Burgum,V,18,00:16:00,00:15:58,BurgumRun ,2017-09-10
+49,52,Jesse Postma,Burgum,M,31,00:16:02,00:15:57,BurgumRun ,2017-09-10
+50,67,Dylan Reitsma,Hurdegaryp,M,32,00:16:13,00:16:11,BurgumRun ,2017-09-10
+51,29,Nina van der vliet,Burgum,V,19,00:16:15,00:16:13,BurgumRun ,2017-09-10
+52,33,Rikst Wijma,Feanwalden,V,20,00:16:40,00:16:39,BurgumRun ,2017-09-10
+53,1,Marije Fokkinga,Augustinusga,V,21,00:17:01,00:17:01,BurgumRun ,2017-09-10
+54,15,Rudmer Hoekstra,Burgum,M,33,00:17:47,00:17:44,BurgumRun ,2017-09-10
+55,51,Femke Wijnstra,Noardburgum,V,22,00:17:52,00:17:48,BurgumRun ,2017-09-10
+56,10,Ivo snitker,Leeuwarden,M,34,00:17:58,00:17:54,BurgumRun ,2017-09-10
+57,48,Auke Tymen de Boer,Buitenpost,M,35,00:18:30,00:18:30,BurgumRun ,2017-09-10
+58,62,Feiso Elzinga,Munein,M,36,00:18:31,00:18:29,BurgumRun ,2017-09-10
+59,31,Marije Buwalda,Burgum,V,23,00:18:35,00:18:35,BurgumRun ,2017-09-10
+60,18,Werner Schievink,Burgum,M,37,00:18:35,00:18:28,BurgumRun ,2017-09-10
+61,3,Naomi Tabak,Drachten,V,24,00:18:35,00:18:34,BurgumRun ,2017-09-10
+62,71,Imara Schuurman,Ureterp,V,25,00:18:43,00:18:38,BurgumRun ,2017-09-10
+63,39,Roan poeziat,Burgum,M,38,00:18:53,00:18:47,BurgumRun ,2017-09-10
+64,68,Mark Yedema,Heerenveen,M,39,00:18:57,00:18:53,BurgumRun ,2017-09-10
+65,23,Sanna Storm,Leeuwarden,V,26,00:19:09,00:19:07,BurgumRun ,2017-09-10
+66,55,Evie Hamersma,Burgum,V,27,00:20:36,00:20:29,BurgumRun ,2017-09-10
+67,66,Senna Reitsma,Hurdegaryp,V,28,00:20:48,00:20:45,BurgumRun ,2017-09-10
+68,30,Sanne Hiemstra,Burgum,V,29,00:23:08,00:23:04,BurgumRun ,2017-09-10
+69,12,Sophie de Haan,Menaam,V,30,00:23:32,00:23:25,BurgumRun ,2017-09-10

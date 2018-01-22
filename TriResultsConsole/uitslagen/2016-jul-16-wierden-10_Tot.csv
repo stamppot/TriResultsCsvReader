@@ -1,0 +1,516 @@
+Plts,StartNr,Naam,Vereniging/Plaats/Land,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Video,race,date
+1,1,Roy Hoornweg,Nederland,Msen,1,00:30:17,00:30:17,00:15:27,00:14:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+2,5,Mats Lunders,België,Msen,2,00:31:01,00:31:01,00:15:44,00:15:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+3,6,Mecle Mekonen,Eritrea,Msen,3,00:31:25,00:31:25,00:15:55,00:15:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+4,3,Thorben Dietz,Duitsland,Msen,4,00:31:34,00:31:34,00:16:10,00:15:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+5,21,Ruben Scheurwater,Nederland,M35,1,00:31:58,00:31:58,00:16:27,00:15:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+6,31,Stefan Van den Broeck,België,M40,1,00:32:18,00:32:17,00:16:26,00:15:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+7,407,Charles Khazoom,Enschede,Msen,5,00:32:36,00:32:35,00:16:27,00:16:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+8,42,Edo Baart,Nederland,M45,1,00:32:38,00:32:38,00:16:45,00:15:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+9,10,Alwin Heijting,Nederland,Msen,6,00:32:52,00:32:51,00:16:45,00:16:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+10,23,Erik Driesen,Nederland,M35,2,00:32:53,00:32:53,00:16:45,00:16:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+11,27,Edwin Wissema,Nederland,M35,3,00:32:55,00:32:53,00:16:46,00:16:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+12,32,Henk Smalbrugge,Nederland,M40,2,00:33:14,00:33:13,00:16:47,00:16:26,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+13,24,Erwin Akkerman,Nederland,M35,4,00:33:29,00:33:28,00:17:06,00:16:22,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+14,37,Karim Fares,Marokko,M40,3,00:33:44,00:33:44,00:17:08,00:16:37,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+15,43,Saaid Ribag,Marokko,M45,2,00:33:46,00:33:44,00:17:07,00:16:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+16,34,Jay Sauer,Nederland,M40,4,00:33:47,00:33:46,00:17:23,00:16:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+17,49,Veerle Dejaeghere,België,Vsen,1,00:33:48,00:33:48,00:17:24,00:16:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+18,16,Tom Hendrikse,Nederland,Msen,7,00:33:51,00:33:51,00:16:56,00:16:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+19,1625,Danny Koppelman,Step One,Msen,8,00:33:59,00:33:59,00:16:56,00:17:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+20,30,Bas Mekking,Nederland,M35,5,00:34:51,00:34:48,00:17:46,00:17:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+21,45,Wim Opten,Nederland,M50,1,00:34:55,00:34:53,00:17:48,00:17:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+22,36,Erik Caluwaerts,België,M40,5,00:34:56,00:34:55,00:17:50,00:17:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+23,26,Richard Loendersloot,Nederland,M35,6,00:34:56,00:34:55,00:17:49,00:17:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+24,40,Eric Borg,Nederland,M45,3,00:35:05,00:35:02,00:17:48,00:17:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+25,18,Mark Hakbijl,Nederland,M35,7,00:35:08,00:35:07,00:18:00,00:17:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+26,53,Jessica Oosterloo,Nederland,Vsen,2,00:35:13,00:35:12,00:17:59,00:17:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+27,29,Andre Plette,Nederland,M35,8,00:35:16,00:35:14,00:17:56,00:17:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+28,51,Hanna Vandenbussche,België,Vsen,3,00:35:18,00:35:17,00:17:59,00:17:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+29,63,Jan Venhuizen,Nederland,M45,4,00:35:48,00:35:45,00:17:54,00:17:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+30,50,Jamie van Lieshout,Nederland,Vsen,4,00:35:52,00:35:51,00:17:49,00:18:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+31,399,Koen van Dijk,Triathlon,Msen,9,00:36:01,00:36:00,00:18:00,00:18:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+32,41,Arjen Driesen,Nederland,M45,5,00:36:02,00:36:00,00:18:03,00:17:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+33,28,Gerko Floor,Nederland,M35,9,00:36:09,00:36:06,00:17:59,00:18:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+34,1712,Casper Smit,Enschede,Msen,10,00:36:11,00:36:08,00:18:26,00:17:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+35,213,Bennie Thunker,Isala '96,M45,6,00:36:14,00:36:11,00:18:25,00:17:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+36,390,Shayne Rookhuyzen,Veluwe,M40,6,00:36:14,00:36:11,00:18:24,00:17:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+37,519,Gerold Nyhoff,Step One,M50,2,00:36:18,00:36:16,00:18:28,00:17:48,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+38,17,Falco Olivier,Nederland,Msen,11,00:36:20,00:36:18,00:18:10,00:18:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+39,1691,Bert Kelder,Den Ham Ov,M40,7,00:36:42,00:36:42,00:18:35,00:18:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+40,341,Melchior van de Pol,AV '34,M45,7,00:36:46,00:36:45,00:18:53,00:17:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+41,52,Fanos Tekle,Ethiopië,Vsen,5,00:36:47,00:36:45,00:18:53,00:17:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+42,22,Bieuwe Roelofs,Nederland,M35,10,00:36:54,00:36:52,00:18:34,00:18:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+43,13,Mark Kleve,Nederland,Msen,12,00:36:56,00:36:56,00:18:36,00:18:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+44,54,Karen van Proeyen,België,Vsen,6,00:37:01,00:37:00,00:18:54,00:18:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+45,411,Ronald Derksen,Veluwe,M45,8,00:37:10,00:37:08,00:18:23,00:18:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+46,191,Marcel de Bats,Cialfo,Msen,13,00:37:22,00:37:19,00:19:15,00:18:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+47,1703,Frans Deenen,Venray,M50,3,00:37:36,00:37:33,00:19:16,00:18:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+48,370,Maurits Hoonhorst,BB lopers,M40,8,00:37:48,00:37:46,00:19:35,00:18:12,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+49,373,Jan Willem Davidse,PEC 1910,M50,4,00:37:50,00:37:45,00:19:14,00:18:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+50,420,Jorrit Stokvis,Hengelo Ov,M40,9,00:38:04,00:38:00,00:19:17,00:18:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+51,173,Dirk Hoekman,AV Holten,M50,5,00:38:05,00:38:02,00:19:20,00:18:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+52,56,Lisanne Meuleman,Nederland,Vsen,7,00:38:21,00:38:18,00:19:21,00:18:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+53,277,Bart Nijland,Markelo,Msen,14,00:38:34,00:38:06,00:19:23,00:18:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+54,501,Robin te Wierik,gemeente Wierden 2,M45,9,00:38:48,00:38:45,00:19:30,00:19:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+55,140,Barry Tijhof,Wierden,M40,10,00:38:55,00:38:48,00:19:29,00:19:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+56,408,Jaap Stijlaart,Triathlon,M55,1,00:38:56,00:38:53,00:19:32,00:19:22,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+57,379,Patrick Cromsigt,Marvel,M40,11,00:38:58,00:38:48,00:19:42,00:19:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+58,377,Raymond Zeeman,Losser,M45,10,00:39:02,00:38:57,00:19:53,00:19:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+59,297,René Becker,Runners Stadskanaal,M40,12,00:39:16,00:39:15,00:19:40,00:19:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+60,181,Kevin Voss,Hengelo Ov,Msen,15,00:39:21,00:39:16,00:20:04,00:19:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+61,402,Michel Bruggink,Rijssen,Msen,16,00:39:23,00:39:06,00:19:35,00:19:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+62,62,Sabine Dejaeghere,België,V50,1,00:39:24,00:39:22,00:20:09,00:19:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+63,1707,Hans Blankenstijn,Deventer,M55,2,00:39:28,00:39:24,00:19:58,00:19:26,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+64,414,Harry Dijk,TION,M60,1,00:39:36,00:39:34,00:20:04,00:19:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+65,1658,Peter Semmekrot,Bornerbroek,Msen,17,00:39:39,00:39:29,00:20:01,00:19:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+66,1643,Aalt Hagedoorn,Wierden,M45,11,00:39:41,00:39:30,00:20:04,00:19:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+67,60,Ingrid Prigge,Nederland,V50,2,00:39:51,00:39:48,00:20:16,00:19:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+68,1701,Michiel Bronsink,Oldebroek,Msen,18,00:39:53,00:39:50,00:20:47,00:19:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+69,471,Tim Gerrits,LAAC Twente,Msen,19,00:40:02,00:39:59,00:20:40,00:19:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+70,386,Johan Steenbergen,AV Rijssen,M40,13,00:40:02,00:39:59,00:20:32,00:19:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+71,424,Tjibbe de Vries,BB lopers,M60,2,00:40:05,00:40:00,00:20:26,00:19:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+72,47,Roelof Hutten,Nederland,M55,3,00:40:10,00:40:07,00:20:17,00:19:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+73,1708,Emiel Willems,Vriezenveen,Msen,20,00:40:19,00:40:17,00:19:40,00:20:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+74,55,Eline Glas,Nederland,Vsen,8,00:40:24,00:40:21,00:20:23,00:19:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+75,301,Tom Hagedoorn,Wierden,Msen,21,00:40:26,00:40:20,00:20:46,00:19:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+76,241,Ger Siemerink,Rijssen,M45,12,00:40:29,00:40:16,00:20:38,00:19:39,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+77,165,Hendrie Wassink,Wierden,M50,6,00:40:30,00:40:26,00:20:18,00:20:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+78,2220,Marcel de Ruiter,BB lopers,M35,11,00:40:39,00:40:34,00:20:06,00:20:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+79,1657,Carlos Rego,Wierden,M35,12,00:40:42,00:40:39,00:20:19,00:20:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+80,1717,Remon Knaap,Apeldoorn,M35,13,00:40:44,00:40:36,00:20:49,00:19:48,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+81,327,Harry Derksen,Salland,M55,4,00:40:46,00:40:40,00:20:47,00:19:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+82,389,Tim Jongman,Enschede,Msen,22,00:40:47,00:40:26,00:20:15,00:20:12,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+83,349,René Hulsman,Raalte,M50,7,00:40:50,00:40:43,00:20:46,00:19:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+84,362,André Somhorst,AV Haaksbergen,M60,3,00:40:55,00:40:49,00:20:42,00:20:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+85,1626,Ruben Koppelman,Step One,Msen,23,00:40:57,00:40:55,00:20:39,00:20:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+86,394,Rob van de Graaf,HAC '63,M50,8,00:41:04,00:41:03,00:20:19,00:20:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+87,275,Diederik Roelofs,Rijssen,Msen,24,00:41:15,00:41:09,00:20:24,00:20:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+88,58,Saskia Schutte,Nederland,V35,1,00:41:23,00:41:21,00:21:03,00:20:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+89,188,Martijn Wagemans,Wierden,M35,14,00:41:23,00:41:21,00:20:43,00:20:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+90,423,Wout Mensink,Running2000,M55,5,00:41:25,00:41:24,00:20:44,00:20:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+91,378,Leon Hans,Deventer,M35,15,00:41:36,00:40:57,00:21:03,00:19:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+92,504,Kevin ter Haar,Auto Aaltink 1,Msen,25,00:41:42,00:41:39,00:21:00,00:20:39,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+93,1706,Stephan Kamp,Almelo,Msen,26,00:41:55,00:41:45,00:21:10,00:20:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+94,448,Martin Imhof,Nijverdal,M35,16,00:41:59,00:41:51,00:20:20,00:21:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+95,1676,Rowan Veenhuizen,Tynaarlo,Msen,27,00:42:02,00:41:57,00:21:29,00:20:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+96,1674,Ilse Rooks,LSV Invictus,Vsen,9,00:42:02,00:41:58,00:21:29,00:20:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+97,201,Niek Dijkstra,Nijverdal,M35,17,00:42:13,00:41:56,00:21:20,00:20:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+98,61,Anne van Schuppen,Nederland,V50,3,00:42:18,00:42:16,00:21:18,00:20:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+99,298,Frank Ooms,Enter,Msen,28,00:42:22,00:42:08,00:21:23,00:20:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+100,468,Aalt Wensink,De Gemzen,M35,18,00:42:26,00:42:20,00:21:11,00:21:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+101,269,Martijn Slagers,Borne,M35,19,00:42:28,00:42:18,00:22:12,00:20:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+102,433,Attilio Bottegal,Terni,M40,14,00:42:31,00:42:24,00:21:00,00:21:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+103,518,Vanessa Lorkeers,Step One,V35,2,00:42:49,00:42:45,00:21:31,00:21:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+104,314,Clemens Meuleman,LAAC Twente,M45,13,00:42:49,00:42:38,00:21:43,00:20:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+105,1697,Diederik van de Woestijne,Raalte,M35,20,00:42:52,00:42:46,00:21:49,00:20:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+106,1165,Ronald Rumawatine,Marathon Pim Mulier,M55,6,00:42:54,00:42:50,00:21:31,00:21:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+107,1679,Rene Komduur,Rekken,M40,15,00:43:05,00:42:58,00:21:16,00:21:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+108,250,Wouter Klaas,Wierden,Msen,29,00:43:06,00:42:59,00:21:28,00:21:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+109,365,Janneke Logtenberg,Lochem,Vsen,10,00:43:23,00:43:18,00:21:42,00:21:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+110,259,Hubert Bögemann,De Gemzen,M50,9,00:43:26,00:43:21,00:21:01,00:22:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+111,103,Richard Dekker,Nijverdal,M40,16,00:43:29,00:43:21,00:22:04,00:21:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+112,490,Henry Breukelman,Rekenen.nl,M45,14,00:43:32,00:43:22,00:21:45,00:21:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+113,1666,Jacobus Postma,Atletics Nijverdal,M45,15,00:43:36,00:43:09,00:22:12,00:20:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+114,502,Gerard Sluiskes,gemeente Wierden 2,M40,17,00:43:39,00:43:35,00:21:59,00:21:37,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+115,367,Koen Rekers,Almelo,Msen,30,00:43:46,00:43:34,00:22:05,00:21:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+116,261,Pim Oolderink,Almelo,Msen,31,00:43:50,00:43:34,00:21:03,00:22:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+117,1630,Bilal Durmaz,Nederland,M40,18,00:43:53,00:43:49,00:21:32,00:22:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+118,498,Ciska Jonges,BDO Accountants en Adviseurs 4,Vsen,11,00:43:55,00:43:50,00:22:47,00:21:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+119,48,Bert Streumer,Nederland,M60,4,00:43:57,00:43:55,00:21:05,00:22:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+120,85,Jan Boerman,AV Rijssen,M60,5,00:44:00,00:43:58,00:22:08,00:21:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+121,460,Rene Korte,Almelo,M50,10,00:44:02,00:43:57,00:21:59,00:21:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+122,482,Penny Hope,Almelo,V45,1,00:44:03,00:43:57,00:22:03,00:21:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+123,513,Arne Wessels,Rabobank Rijssen-Enter,Msen,32,00:44:05,00:44:01,00:22:12,00:21:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+124,371,Arne Smit,Rijssen,Msen,33,00:44:05,00:43:23,00:22:06,00:21:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+125,229,Marcel IJland,Denekamp,M35,21,00:44:15,00:44:02,00:22:40,00:21:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+126,239,Sander Bregman,Rijssen,Msen,34,00:44:17,00:43:58,00:23:03,00:20:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+127,1642,Henk Grootherder,Wierden,M45,16,00:44:18,00:44:03,00:22:49,00:21:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+128,2221,Wim Zwiers,Rijssen,M45,17,00:44:27,00:44:09,00:22:19,00:21:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+129,207,Sebastiaan Veldhuizen,Nijverdal,M35,22,00:44:28,00:44:19,00:22:27,00:21:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+130,450,Jelmer Rumathe,Nijverdal,Msen,35,00:44:30,00:44:19,00:22:53,00:21:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+131,1662,Hans Pluimers,Nijverdal,M45,18,00:44:32,00:44:28,00:22:39,00:21:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+132,1685,Lucien Galgenbeld,Nijverdal,M35,23,00:44:35,00:44:20,00:22:27,00:21:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+133,446,Martijn Wieberdink,LAAC Twente,Msen,36,00:44:36,00:44:27,00:21:52,00:22:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+134,351,Frank van Bruggen,Zwolle,Msen,37,00:44:40,00:44:26,00:23:16,00:21:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+135,92,Jeroen Stange,Wierden,Msen,38,00:44:41,00:44:16,00:22:37,00:21:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+136,234,Michel Oonk,Wierden,M35,24,00:44:41,00:44:37,00:22:12,00:22:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+137,472,Arjen ten Brinke,Almelo,M40,19,00:44:42,00:44:26,00:22:18,00:22:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+138,315,Simon van de Neut,Weerselo,Msen,39,00:44:48,00:44:20,00:22:52,00:21:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+139,1700,Marcel Kraesgenberg,Denekamp,Msen,40,00:44:54,00:44:41,00:22:40,00:22:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+140,1639,Ton Borsten,Vlaardingen,M45,19,00:44:55,00:44:37,00:22:35,00:22:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+141,384,Serge Ter Harmsel,SISU,M35,25,00:44:58,00:44:46,00:22:48,00:21:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+142,483,Leo Meijerink,ACO Van Elderen,M50,11,00:44:58,00:44:49,00:22:06,00:22:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+143,443,Jan Waanders,Wierden,M40,20,00:45:03,00:44:46,00:22:32,00:22:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+144,372,Remko Klein,Diepenveen,Msen,41,00:45:03,00:44:40,00:22:52,00:21:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+145,353,Emiel Ooms,Wierden,M40,21,00:45:05,00:44:59,00:22:16,00:22:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+146,334,Mark Kamp,Almelo,M35,26,00:45:08,00:44:58,00:23:18,00:21:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+147,1637,Bart van Vliet,Oss,M60,6,00:45:17,00:45:09,00:23:10,00:21:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+148,492,Sjoerd Al,Pocket Media,Msen,42,00:45:36,00:45:20,00:23:33,00:21:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+149,316,Niek Kuipers,Nijverdal,M35,27,00:45:36,00:45:27,00:22:31,00:22:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+150,1654,Gert Jan Pleij,Wierden,M55,7,00:45:37,00:45:34,00:22:48,00:22:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+151,357,Ilona Bolks,Sportlust/Loopgroep de Zandstuve,Vsen,12,00:45:44,00:45:38,00:22:31,00:23:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+152,449,Jordy van Rhee,Nijverdal,M40,22,00:45:44,00:45:29,00:23:33,00:21:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+153,101,Maarten Westrik,Wierden,Msen,43,00:45:48,00:45:25,00:23:08,00:22:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+154,211,Simon Agterberg,Wierden,Msen,44,00:45:50,00:45:37,00:22:45,00:22:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+155,400,Almon Rietdijk,Leimuiden,Msen,45,00:45:52,00:45:25,00:23:12,00:22:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+156,495,Heidi Liegl,Pocket Media,Vsen,13,00:45:52,00:45:36,00:23:33,00:22:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+157,154,Barry ten Hove,Atletics Nijverdal,M45,20,00:45:52,00:45:34,00:23:16,00:22:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+158,497,Marleen Heerink,BDO Accountants en Adviseurs 4,Vsen,14,00:45:54,00:45:48,00:23:42,00:22:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+159,1659,Barry Wanschers,Wierden,Msen,46,00:45:56,00:45:44,00:22:51,00:22:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+160,1640,Roy Lammertink,Twello,Msen,47,00:45:57,00:45:52,00:22:57,00:22:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+161,391,Esther Labohm,Veluwe,V35,3,00:45:58,00:45:50,00:23:41,00:22:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+162,499,Wiebe van der Leij,BDO Accountants en Adviseurs 4,M35,28,00:45:59,00:45:53,00:22:47,00:23:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+163,303,Leon Cuypers,Hengelo Ov,M35,29,00:46:00,00:45:47,00:22:56,00:22:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+164,432,Barrie van Heek,AV Rijssen,M35,30,00:46:01,00:45:57,00:23:09,00:22:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+165,494,Bart Bruins,Pocket Media,M35,31,00:46:05,00:45:45,00:23:36,00:22:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+166,276,Han KleinJan,Rijssen,M40,23,00:46:08,00:45:39,00:23:45,00:21:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+167,160,Robert van Bloem,Atletics Nijverdal,M35,32,00:46:09,00:45:39,00:23:44,00:21:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+168,383,Gerard Hengstman,Wierden,M45,21,00:46:09,00:45:57,00:23:46,00:22:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+169,503,Rick Stevens,gemeente Wierden 2,M35,33,00:46:10,00:45:45,00:23:26,00:22:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+170,187,Marco Oude Groothuis,Almelo,M40,24,00:46:14,00:46:02,00:23:09,00:22:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+171,415,Jacques Veldscholten,Wierden,Msen,48,00:46:15,00:46:06,00:24:04,00:22:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+172,1636,Anja van Viet,Oss,V50,4,00:46:26,00:46:17,00:23:43,00:22:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+173,195,Martin ten Voorde,AV Haaksbergen,M60,7,00:46:26,00:46:11,00:23:43,00:22:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+174,2222,Hans Siemerink,Rijssen,Msen,49,00:46:27,00:46:10,00:22:56,00:23:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+175,245,Jeroen Rouweler,Wierden,M35,34,00:46:28,00:46:24,00:22:38,00:23:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+176,447,Kevin Tibbe,Nijverdal,Msen,50,00:46:29,00:46:19,00:23:14,00:23:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+177,291,Mart van Blanken,Hengelo Ov,Msen,51,00:46:34,00:46:22,00:22:58,00:23:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+178,150,Tom Asbreuk,Wierden,Msen,52,00:46:35,00:46:15,00:23:17,00:22:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+179,398,Jasper Siemerink,Rijssen,Msen,53,00:46:36,00:46:23,00:23:51,00:22:33,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+180,248,Arnaud Mensen,Schalkhaar,M40,25,00:46:37,00:46:21,00:23:22,00:23:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+181,240,Harold Braamhaar,Rijssen,Msen,54,00:46:37,00:46:17,00:23:22,00:22:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+182,1632,Evert van Kooten,Wierden,M50,12,00:46:40,00:46:11,00:23:51,00:22:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+183,1668,Henk Voortman,Wierden,M55,8,00:46:45,00:46:38,00:23:55,00:22:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+184,206,Rene Elzinga,Vroomshoop,M50,13,00:46:46,00:46:33,00:23:39,00:22:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+185,1681,Emiel Blikman,Nijverdal,M35,35,00:46:48,00:46:33,00:23:43,00:22:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+186,421,Marian Fuselier,Heino,V50,5,00:46:49,00:46:40,00:23:16,00:23:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+187,98,Lars Dikkers,Wierden,M35,36,00:46:53,00:46:41,00:23:40,00:23:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+188,318,Ewald Woertman,Raalte,M45,22,00:46:55,00:46:44,00:23:55,00:22:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+189,1692,Niek Broeze,Nijverdal,M35,37,00:46:57,00:46:43,00:23:46,00:22:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+190,1673,Peter Hooijen,Geldrop,M50,14,00:46:58,00:46:44,00:23:36,00:23:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+191,496,Roland van Hecke,BDO Accountants en Adviseurs 4,M45,23,00:47:00,00:46:53,00:23:43,00:23:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+192,199,John Rouweler,Wierden,M40,26,00:47:01,00:46:55,00:23:06,00:23:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+193,293,André Timmerman,Almelo,M35,38,00:47:01,00:46:45,00:23:48,00:22:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+194,382,Hessel Maris,Wierden,Msen,55,00:47:02,00:46:56,00:24:29,00:22:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+195,1705,Rene Steentjes,Enter,M50,15,00:47:08,00:46:54,00:24:17,00:22:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+196,295,Joris Bouwhuis,Raalte,M35,39,00:47:10,00:46:55,00:24:02,00:22:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+197,1665,Bram Pleij,Wierden,Msen,56,00:47:14,00:47:11,00:23:34,00:23:37,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+198,184,Dick Zeedijk,LAAC Twente,M60,8,00:47:15,00:47:01,00:24:11,00:22:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+199,454,Jeroen Oosthof,Apeldoorn,M50,16,00:47:15,00:47:00,00:23:42,00:23:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+200,515,Jos Hekman,Rabobank Rijssen-Enter,Msen,57,00:47:18,00:46:47,00:23:35,00:23:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+201,477,Remco Muller,Almelo,Msen,58,00:47:19,00:47:01,00:22:58,00:24:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+202,330,Michel Nijkamp,Rijssen,Msen,59,00:47:19,00:46:58,00:23:35,00:23:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+203,147,Richard Draaijer,Wierden,Msen,60,00:47:24,00:47:00,00:22:58,00:24:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+204,387,Laurens Groothuis,Geesteren Ov,M45,24,00:47:25,00:47:22,00:23:18,00:24:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+205,149,Christiaan van der Sar,Wierden,M35,40,00:47:26,00:47:02,00:24:07,00:22:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+206,309,Jan Krans,Fivelstreek,M60,9,00:47:26,00:47:22,00:23:32,00:23:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+207,294,Stefan Groote Stroek,Wierden,M35,41,00:47:30,00:47:14,00:24:00,00:23:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+208,112,Joyce Braamhaar,Nijverdal,V35,4,00:47:30,00:47:21,00:24:24,00:22:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+209,84,Erwin Stam,Rijssen,M40,27,00:47:31,00:47:19,00:23:52,00:23:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+210,406,Gert-Jan Konijnenbelt,Atletics Nijverdal,M45,25,00:47:32,00:47:15,00:23:34,00:23:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+211,159,Henk jan Smedema,Wierden,M50,17,00:47:40,00:47:12,00:23:29,00:23:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+212,256,Edward Anthonijs,Almelo,M40,28,00:47:45,00:47:20,00:24:02,00:23:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+213,397,Hans Bisschop,Vriezenveen,M45,26,00:47:50,00:47:32,00:23:41,00:23:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+214,1696,Martin Lankamp,AV Rijssen,M45,27,00:47:54,00:47:38,00:24:23,00:23:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+215,1711,Hans Lokas,Vroomshoop,M50,18,00:47:56,00:47:35,00:23:21,00:24:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+216,466,Stefan Koenderink,Wierden,Msen,61,00:47:57,00:47:45,00:24:06,00:23:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+217,1645,Bart Hollema,Almelo,Msen,62,00:48:02,00:47:49,00:24:07,00:23:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+218,426,Leonie van Roekel,Peize,V35,5,00:48:03,00:47:54,00:24:03,00:23:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+219,467,René Meijer,Wierden,Msen,63,00:48:03,00:47:51,00:23:37,00:24:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+220,489,Ruben van Kolfschoten,Rekenen.nl,M35,42,00:48:03,00:47:42,00:24:43,00:23:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+221,506,André Gottemaker,Auto Aaltink 1,M45,28,00:48:04,00:47:58,00:24:16,00:23:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+222,225,Jorg Meier,Utrecht,Msen,64,00:48:08,00:47:45,00:24:59,00:22:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+223,290,Jan Valk,Wierden,M45,29,00:48:09,00:47:42,00:23:54,00:23:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+224,1648,Philip Boes,Vriezenveen,Msen,65,00:48:12,00:47:53,00:23:21,00:24:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+225,361,Sebastiaan Slot,Bruchterveld,Msen,66,00:48:13,00:47:39,00:24:31,00:23:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+226,135,Ramon Henning,Wierden,M35,43,00:48:14,00:48:07,00:24:22,00:23:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+227,216,Rob Lamers,DE LOPER,M40,29,00:48:14,00:47:55,00:24:37,00:23:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+228,156,Kevin Kamphuis,Wierden,Msen,67,00:48:18,00:48:11,00:23:31,00:24:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+229,124,Robert Spekhorst,Rijssen,Msen,68,00:48:20,00:48:04,00:23:35,00:24:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+230,1714,Frank Hering,glanerbrug,M45,30,00:48:20,00:48:15,00:21:07,00:27:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+231,180,André Beddinkhaus,Avanti-Wilskracht,M45,31,00:48:20,00:48:07,00:24:18,00:23:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+232,1684,Henk Aalderink,Vriezenveen,M60,10,00:48:21,00:48:11,00:23:49,00:24:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+233,226,Dah Van Dolen,Nijverdal,Msen,69,00:48:24,00:47:53,00:24:26,00:23:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+234,137,Leonie Postma,LAAC Twente,V35,6,00:48:27,00:48:19,00:24:21,00:23:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+235,425,Martijn Maris,Wierden,Msen,70,00:48:27,00:48:09,00:24:00,00:24:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+236,1719,Larry ten Broeke,Nijverdal,M55,9,00:48:28,00:48:01,00:24:28,00:23:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+237,356,Ard Kreijkes,Rijssen,Msen,71,00:48:28,00:48:12,00:24:20,00:23:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+238,182,Patrick Kelder,Vriezenveen,Msen,72,00:48:29,00:48:06,00:25:02,00:23:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+239,146,Vincent Vaarhorst,Wierden,M55,10,00:48:29,00:48:19,00:24:19,00:24:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+240,1635,Henk Meijerink,Wierden,M55,11,00:48:34,00:48:16,00:24:36,00:23:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+241,310,Andre Oost,Wierden,M40,30,00:48:35,00:48:13,00:24:33,00:23:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+242,311,Peter Krijgsveld,Almelo,M40,31,00:48:35,00:48:15,00:24:42,00:23:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+243,401,Jannie Nijenhuis,Raalte,V50,6,00:48:40,00:48:29,00:24:34,00:23:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+244,453,Gerben Damhuis,Enter,Msen,73,00:48:41,00:48:14,00:25:07,00:23:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+245,114,Tamara Buijse,Wierden,Vsen,15,00:48:46,00:48:39,00:24:12,00:24:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+246,455,Niek Schuurman,Wierden,Msen,74,00:48:47,00:48:18,00:24:57,00:23:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+247,110,Jacco Roest,Utrecht,Msen,75,00:48:51,00:48:13,00:24:51,00:23:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+248,2224,Pascal Harmsen,Vriezenveen,Msen,76,00:48:55,00:48:12,00:24:36,00:23:37,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+249,462,Frank Veltkamp,Rijssen,Msen,77,00:48:57,00:48:39,00:24:47,00:23:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+250,331,Jan Schutte,Sibculo,M45,32,00:48:57,00:48:33,00:25:03,00:23:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+251,429,Wencke Beerens,Raalte,V35,7,00:48:57,00:48:49,00:25:03,00:23:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+252,1650,Stefan van Gelder,Wierden,Msen,78,00:48:59,00:48:37,00:24:58,00:23:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+253,122,Arnoud Roosendaal,Nijverdal,M40,32,00:49:01,00:48:46,00:23:57,00:24:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+254,86,Gertjan ten Brinke,Wierden,Msen,79,00:49:03,00:48:31,00:25:03,00:23:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+255,266,Emiel Oolderink,Almelo,Msen,80,00:49:04,00:48:47,00:23:19,00:25:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+256,508,Monique Hutterd,Auto Aaltink 1,V35,8,00:49:09,00:49:02,00:24:24,00:24:39,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+257,1695,Sebastiaan Bruggink,Nijverdal,M35,44,00:49:09,00:48:52,00:25:10,00:23:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+258,438,Pascal Huiting,Almelo,Msen,81,00:49:10,00:48:44,00:25:14,00:23:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+259,404,Jan Dasselaar,Hellendoorn,M35,45,00:49:14,00:48:48,00:24:36,00:24:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+260,262,Liesbeth Kleisen,Wierden,V35,9,00:49:15,00:49:02,00:25:13,00:23:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+261,464,Inge Homan,Rijssen,Vsen,16,00:49:17,00:49:10,00:24:09,00:25:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+262,325,Petra Hartgers,Nijverdal,Vsen,17,00:49:18,00:49:02,00:24:43,00:24:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+263,322,Martin Klaassen,Rijssen,Msen,82,00:49:18,00:49:00,00:25:26,00:23:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+264,385,EJ Paalman,Hengelo Ov,M35,46,00:49:24,00:49:04,00:24:11,00:24:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+265,364,Bob Wester,Wierden,M50,19,00:49:27,00:49:24,00:25:22,00:24:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+266,253,Jorien Tijink,Bornerbroek,Vsen,18,00:49:29,00:49:12,00:25:15,00:23:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+267,418,Matthijs Boers,Hengelo Ov,M40,33,00:49:29,00:49:16,00:25:01,00:24:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+268,509,Jorien van Haarst,Auto Aaltink 2,Vsen,19,00:49:30,00:49:22,00:24:58,00:24:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+269,416,Jolien Entjes,Vriezenveen,Vsen,20,00:49:36,00:49:28,00:25:31,00:23:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+270,104,Bart Kroon,Spurt '88,M55,12,00:49:43,00:49:32,00:24:48,00:24:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+271,1663,Paul van Rijn,Wierden,M45,33,00:49:46,00:49:19,00:24:57,00:24:22,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+272,514,Hendri Godeke,Rabobank Rijssen-Enter,Msen,83,00:49:51,00:49:19,00:25:09,00:24:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+273,1693,Alexander Oosterveen,Twenterand,M35,47,00:49:51,00:49:31,00:25:49,00:23:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+274,90,Elise Brummer,Hengelo Ov,Vsen,21,00:49:52,00:49:44,00:25:12,00:24:33,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+275,337,Herman Baan,Rijssen,M45,34,00:49:53,00:49:26,00:25:15,00:24:12,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+276,478,Gert-jan ten Hove,Rijssen,M45,35,00:50:00,00:49:50,00:25:21,00:24:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+277,94,Ferdinand Dam,Daarlerveen,M40,34,00:50:03,00:49:53,00:25:46,00:24:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+278,480,Martijn Buwalda,Nijverdal,M35,48,00:50:04,00:49:54,00:25:18,00:24:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+279,287,Maarten Swagerman,Wierden,Msen,84,00:50:08,00:49:45,00:24:46,00:25:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+280,410,Thomas Pas,Twenterand,Msen,85,00:50:10,00:49:48,00:24:59,00:24:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+281,118,Jürgen Spijker,Wierden,M35,49,00:50:19,00:49:41,00:25:20,00:24:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+282,473,Koen Heuver,Nijverdal,Msen,86,00:50:20,00:49:52,00:24:57,00:24:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+283,1715,Tonny ten Dam,Bornerbroek,M50,20,00:50:21,00:50:13,00:25:14,00:25:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+284,516,Stephan Altena,Rabobank Rijssen-Enter,Msen,87,00:50:22,00:49:50,00:25:15,00:24:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+285,487,Daniël van Kolfschoten,Rekenen.nl,Msen,88,00:50:22,00:49:59,00:25:32,00:24:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+286,344,Petri Lowik,Hengelo Ov,Msen,89,00:50:23,00:50:18,00:24:11,00:26:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+287,338,Paul Ezendam,Goor,Msen,90,00:50:23,00:49:56,00:25:07,00:24:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+288,167,Johan Voorhorst,Veluwe,M40,35,00:50:35,00:50:30,00:25:48,00:24:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+289,200,Robin op den Dries,Nijverdal,Msen,91,00:50:40,00:50:17,00:25:32,00:24:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+290,317,Esther Kuipers,Nijverdal,V35,10,00:50:42,00:50:32,00:25:47,00:24:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+291,82,Wim Dekker,GVAC,M50,21,00:50:45,00:50:06,00:26:24,00:23:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+292,96,Erwin Kazimier,Wierden,M40,36,00:50:52,00:50:40,00:24:53,00:25:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+293,117,Nardy Elink Schuurman,Nijverdal,Vsen,22,00:50:55,00:50:13,00:24:48,00:25:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+294,1672,Alja Klok,Goor,V50,7,00:50:56,00:50:24,00:26:06,00:24:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+295,152,Wim Bruil,Buinerveen,M50,22,00:50:57,00:50:25,00:25:19,00:25:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+296,127,Harold Landuwer,Wierden,M40,37,00:50:59,00:50:22,00:25:03,00:25:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+297,324,Remco Nijkamp,Rijssen,Msen,92,00:51:00,00:50:42,00:25:45,00:24:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+298,479,Henri Bolink,Atletics Nijverdal,M45,36,00:51:03,00:50:34,00:24:58,00:25:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+299,517,Matthijs Altena,Rabobank Rijssen-Enter,Msen,93,00:51:04,00:50:34,00:24:45,00:25:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+300,434,Jan Willem Schutte,Wierden,M35,50,00:51:04,00:50:46,00:25:18,00:25:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+301,1690,Arjen ten Brinke,Rijssen,Msen,94,00:51:06,00:50:22,00:26:25,00:23:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+302,1661,Mats Lammertink,Wierden,Msen,95,00:51:08,00:51:02,00:24:30,00:26:33,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+303,381,Ferdinand Maris,Wierden,M55,13,00:51:09,00:51:01,00:24:49,00:26:12,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+304,1675,Frank Koopmans,Balkbrug,M50,23,00:51:09,00:50:58,00:24:34,00:26:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+305,412,Dick Hofman,Oosterbeek,M60,11,00:51:11,00:50:54,00:25:13,00:25:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+306,441,Harry Bakker,Kampen,M45,37,00:51:12,00:50:58,00:25:31,00:25:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+307,158,Irmgard Olthof,'s-Gravenhage,Vsen,23,00:51:14,00:51:00,00:26:50,00:24:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+308,251,Martijn Wirtz,Daventria,M45,38,00:51:14,00:50:32,00:25:29,00:25:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+309,252,Martie Ressing,Daventria,M45,39,00:51:15,00:50:33,00:25:29,00:25:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+310,1652,Gerard Doosje,Wierden,M50,24,00:51:15,00:51:00,00:25:46,00:25:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+311,336,Ruben Kollenstaart,Nijverdal,Msen,96,00:51:16,00:51:02,00:24:42,00:26:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+312,1627,Mark Bouwens,Nederland,M45,40,00:51:17,00:50:58,00:25:18,00:25:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+313,99,Wilco Lubbers,Wierden,M35,51,00:51:19,00:51:06,00:24:34,00:26:33,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+314,1694,Wesley van Pijkeren,Rijssen,Msen,97,00:51:22,00:51:05,00:25:47,00:25:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+315,205,Winfried Timmer,Nijverdal,M45,41,00:51:29,00:51:20,00:25:16,00:26:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+316,484,Sabine Selbach,Loopgroep Het Lageveld,V35,11,00:51:33,00:51:06,00:26:15,00:24:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+317,459,Merlissa Zandbergen,Rijssen,Vsen,24,00:51:34,00:51:00,00:26:32,00:24:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+318,299,Robbin Schipper,Wierden,Msen,98,00:51:47,00:51:40,00:26:03,00:25:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+319,292,Jochem Arendsen,Deurningen,Msen,99,00:51:47,00:51:35,00:25:46,00:25:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+320,260,Peter de Jong,Loopgroep Het Lageveld,M55,14,00:51:52,00:51:30,00:25:37,00:25:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+321,224,Chiel Nijhuis,Wierden,Msen,100,00:51:55,00:51:41,00:26:27,00:25:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+322,286,Nanette Dijkman,De Gemzen,V35,12,00:51:57,00:51:51,00:26:07,00:25:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+323,1664,Harm Paalman,Rijssen,Msen,101,00:51:59,00:51:19,00:26:03,00:25:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+324,148,Seline Stokkelaar,Atletics Nijverdal,V35,13,00:52:03,00:51:52,00:26:17,00:25:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+325,511,Danielle Spenkelink,Auto Aaltink 2,V35,14,00:52:05,00:51:56,00:26:19,00:25:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+326,1628,Eddy van Horssen,Nederland,M45,42,00:52:08,00:51:50,00:25:37,00:26:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+327,366,Niels Benhadda,Nijverdal,Msen,102,00:52:15,00:52:07,00:26:04,00:26:04,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+328,1710,Arden van de Werve,Wierden,M55,15,00:52:17,00:52:08,00:25:50,00:26:18,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+329,1689,Frank Baan,Rijssen,Msen,103,00:52:21,00:51:38,00:26:26,00:25:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+330,138,Henri Overweg,Wierden,M40,38,00:52:21,00:52:04,00:24:08,00:27:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+331,1713,Anouk IJmker,Vroomshoop,V35,15,00:52:22,00:52:00,00:26:50,00:25:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+332,1698,Lars de Jong,Nijverdal,Msen,104,00:52:23,00:52:00,00:25:20,00:26:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+333,1716,Angelien Nieuwenhuis,Almelo,V45,2,00:52:26,00:52:08,00:26:35,00:25:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+334,247,Michael Derksen,Wierden,M40,39,00:52:27,00:52:03,00:26:28,00:25:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+335,392,Maarten Lesscher,Rijssen,Msen,105,00:52:33,00:52:02,00:25:30,00:26:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+336,1677,Jan Stege,Wierden,M60,12,00:52:34,00:52:31,00:26:26,00:26:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+337,192,Marloes Peters,Leeuwarden,Vsen,25,00:52:36,00:52:28,00:27:00,00:25:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+338,348,Helene Boerekamps,Wierden,V45,3,00:52:37,00:52:33,00:26:05,00:26:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+339,1646,Gerrit Kalvenhaar,Rijssen,M50,25,00:52:40,00:52:27,00:25:59,00:26:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+340,143,Richard Nibourg,Almelo,Msen,106,00:52:44,00:52:24,00:26:11,00:26:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+341,340,Wouter Tijhuis,Rijssen,M35,52,00:52:45,00:52:27,00:25:55,00:26:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+342,281,Ppm Band,Hengelo Ov,M40,40,00:52:47,00:52:03,00:27:50,00:24:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+343,136,Dennis ter Harmsel,Rijssen,Msen,107,00:52:47,00:52:30,00:26:42,00:25:49,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+344,265,Fallon Siwes,Almelo,Vsen,26,00:52:48,00:52:29,00:27:05,00:25:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+345,130,Lisanne Meijer,Almelo,Vsen,27,00:52:48,00:52:29,00:27:05,00:25:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+346,189,Gerwin Evers,Daarlerveen,M35,53,00:52:48,00:52:48,00:27:03,00:25:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+347,308,Niek KleinJan,Amsterdam,Msen,108,00:52:58,00:52:33,00:26:38,00:25:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+348,1678,Richard Folkers,Enschede,M45,43,00:53:01,00:52:33,00:27:37,00:24:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+349,488,Bart Meens,Rekenen.nl,M35,54,00:53:02,00:52:41,00:26:17,00:26:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+350,444,Ruud Geerdink,Rijssen,Msen,109,00:53:05,00:52:32,00:26:31,00:26:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+351,475,Anouk Tiebot,Nijverdal,Vsen,28,00:53:10,00:52:46,00:26:57,00:25:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+352,1704,Annette Bouwhuis,Rijssen,V35,16,00:53:12,00:52:54,00:26:31,00:26:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+353,108,Hilda Juurlink-Wermink,Hellendoorn,V35,17,00:53:16,00:53:03,00:27:08,00:25:56,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+354,481,Jasper Schutten,Nijverdal,Msen,110,00:53:18,00:52:43,00:26:41,00:26:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+355,352,Chantal Kogelman,Nijverdal,V35,18,00:53:19,00:53:12,00:27:17,00:25:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+356,161,Stas Noltus,Wierden,Msen,111,00:53:27,00:53:11,00:24:45,00:28:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+357,345,Richard Adams,Hengelo Ov,M40,41,00:53:28,00:53:21,00:25:38,00:27:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+358,190,Robert Kerkhof,Tubbergen,M40,42,00:53:34,00:53:15,00:27:00,00:26:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+359,244,Jan Wessels,Rijssen,M40,43,00:53:36,00:53:20,00:27:50,00:25:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+360,264,Don Westerheijden,Wierden,M55,16,00:53:36,00:53:02,00:25:47,00:27:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+361,1638,Ronnie van Dijk,Enschede,M40,44,00:53:36,00:53:12,00:25:35,00:27:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+362,439,Marcel Rauhé,Twenterand,M50,26,00:53:36,00:53:12,00:25:02,00:28:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+363,470,Martin van Arnhem,Wierden,Msen,112,00:53:37,00:53:09,00:28:12,00:24:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+364,409,Johan Dollen,Daarle,M40,45,00:53:41,00:53:10,00:28:11,00:25:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+365,1682,Eddy Brand,Almelo,M45,44,00:53:43,00:53:16,00:26:33,00:26:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+366,1649,Bennie Ruper,Wierden,M50,27,00:53:48,00:53:19,00:26:39,00:26:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+367,162,Sigrid Olthof,Groningen,Vsen,29,00:53:50,00:53:36,00:26:50,00:26:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+368,304,Harald Brughuis,Hengelo Ov,M40,46,00:53:51,00:53:37,00:26:31,00:27:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+369,369,Jos Paalman,Rijssen,Msen,113,00:53:51,00:53:17,00:27:02,00:26:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+370,223,Irma Meijers,Rijssen,V35,19,00:53:53,00:53:41,00:26:59,00:26:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+371,505,Helen Blom - Wolterink,Auto Aaltink 1,Vsen,30,00:53:55,00:53:46,00:25:31,00:28:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+372,393,Mark Bijlstra,Vriezenveen,M35,55,00:53:56,00:53:23,00:27:05,00:26:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+373,153,Gerben Aijtink,Vriezenveen,M35,56,00:53:58,00:53:29,00:27:02,00:26:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+374,395,Foka Koopmanns,Dutch Runners,V50,8,00:53:58,00:53:49,00:27:15,00:26:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+375,419,Tessa Hofman,Dutch Runners,Vsen,31,00:54:02,00:53:26,00:27:29,00:25:57,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+376,350,Anne-Marie Smelt,Zwolle,V35,20,00:54:03,00:53:30,00:27:09,00:26:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+377,510,Nataly Luby,Auto Aaltink 2,V35,21,00:54:09,00:54:01,00:27:16,00:26:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+378,347,Kees Nijland,Wierden,M45,45,00:54:13,00:53:45,00:27:22,00:26:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+379,258,Chris Noltes,Nijverdal,M35,57,00:54:19,00:54:15,00:26:33,00:27:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+380,1660,Wilfred Wijnhoff,Hoge Hexel,M45,46,00:54:45,00:54:24,00:27:33,00:26:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+381,288,Marjan van de Werve,Wierden,V50,9,00:54:46,00:54:38,00:28:08,00:26:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+382,123,Carel van Leeuwen,TION,M60,13,00:54:50,00:54:09,00:27:10,00:27:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+383,214,Ivonne Kamphuis,Westervoort,V35,22,00:55:07,00:54:46,00:28:21,00:26:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+384,512,Anita Scholten,Auto Aaltink 2,V35,23,00:55:08,00:54:59,00:27:48,00:27:12,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+385,115,Robert Schoonhoven,Wierden,M40,47,00:55:09,00:54:32,00:28:38,00:25:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+386,273,Bert Aalvink,Wierden,M60,14,00:55:12,00:54:42,00:27:34,00:27:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+387,285,Eelco Tjeerdsma,Nijverdal,M35,58,00:55:13,00:55:03,00:27:30,00:27:33,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+388,1633,Anne Krommendijk,Wierden,Vsen,32,00:55:16,00:55:02,00:28:12,00:26:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+389,284,Patricia Poelarends,Nijverdal,Vsen,33,00:55:16,00:55:06,00:27:24,00:27:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+390,507,Patrick Scholman,Auto Aaltink 1,Msen,114,00:55:20,00:54:39,00:27:58,00:26:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+391,363,Hans Jansen,Rijssen,M50,28,00:55:21,00:55:12,00:27:18,00:27:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+392,210,Michel Ganzevles,Leimuiden,Msen,115,00:55:22,00:55:00,00:24:34,00:30:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+393,332,Stefanie oude Spraakste,Almelo,Vsen,34,00:55:27,00:55:16,00:27:30,00:27:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+394,246,Rachel Griffioen,Alphen aan den Rijn,Vsen,35,00:55:27,00:55:08,00:28:09,00:26:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+395,333,Kees-Jan van der Ziel,Wierden,M35,59,00:55:28,00:55:17,00:27:39,00:27:38,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+396,111,Claudia Bergsma,Dedemsvaart,Vsen,36,00:55:33,00:54:54,00:27:55,00:26:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+397,132,Willy Hoppen,Nijverdal,M55,17,00:55:41,00:55:14,00:27:55,00:27:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+398,93,Joost van Silfhout,Wierden,M35,60,00:55:53,00:55:24,00:27:04,00:28:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+399,193,Michel Tijhof,Nijverdal,Msen,116,00:55:53,00:55:28,00:27:15,00:28:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+400,131,Mark Mensink,Wierden,Msen,117,00:55:55,00:55:29,00:28:13,00:27:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+401,170,Sander Olthof,Hellendoorn,Msen,118,00:55:55,00:55:29,00:28:13,00:27:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+402,139,Kirsten Postma,Almelo,V35,24,00:56:04,00:55:55,00:28:35,00:27:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+403,1647,Gerard Vloedbeld,Wierden,M60,15,00:56:08,00:55:39,00:28:13,00:27:26,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+404,169,Lars Hobert,Wierden,Msen,119,00:56:08,00:55:45,00:29:24,00:26:21,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+405,272,Robert Bussink,Markelo,Msen,120,00:56:11,00:55:39,00:28:23,00:27:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+406,388,Linda Kranenborg,Almelo,Vsen,37,00:56:12,00:55:57,00:28:44,00:27:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+407,375,Sanne Dollen,Hengelo Ov,Vsen,38,00:56:13,00:56:03,00:28:33,00:27:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+408,1656,Aart ter Keurs,Slijk-Ewijk,M40,48,00:56:13,00:55:38,00:25:32,00:30:07,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+409,113,Bryonde Tijhof,Wierden,Vsen,39,00:56:18,00:55:54,00:28:14,00:27:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+410,100,Maurice Govers,Oldenzaal,M40,49,00:56:22,00:56:15,00:27:27,00:28:48,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+411,307,Harry Kleinjan,Nijverdal,M55,18,00:56:33,00:56:08,00:28:16,00:27:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+412,328,Henny Poortman,Rijssen,V50,10,00:56:37,00:56:20,00:29:11,00:27:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+413,1680,Patricia oude Spraakste,Rekken,Vsen,40,00:56:38,00:56:28,00:27:20,00:29:08,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+414,417,Marielle Lankamp,AV Rijssen,V35,25,00:56:40,00:56:26,00:29:18,00:27:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+415,120,Bart de Rode,Vriezenveen,M60,16,00:56:43,00:56:17,00:28:49,00:27:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+416,436,Myrthe Eising,Wierden,Vsen,41,00:56:43,00:56:13,00:28:38,00:27:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+417,437,Ezra Paliama,Wierden,Vsen,42,00:56:43,00:56:13,00:28:38,00:27:36,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+418,209,Romy Ganzevles,Leimuiden,Vsen,43,00:56:44,00:56:23,00:28:33,00:27:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+419,178,Piet Rietdijk,Leimuiden,M60,17,00:56:44,00:56:18,00:27:54,00:28:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+420,89,Erik Hegeman,Utrecht,Msen,121,00:56:47,00:56:08,00:29:14,00:26:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+421,339,Mart Geels,Enter,Msen,122,00:56:47,00:56:12,00:28:10,00:28:03,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+422,255,Johan van der Burgh,Almelo,M50,29,00:56:53,00:56:17,00:29:23,00:26:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+423,396,Michel Harbers,LAAC Twente,M40,50,00:56:54,00:56:20,00:27:11,00:29:10,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+424,403,Wim Siemerink,Rijssen,M45,47,00:57:09,00:56:57,00:28:56,00:28:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+425,493,Kris Bokhove,Pocket Media,Msen,123,00:57:12,00:56:50,00:28:34,00:28:17,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+426,413,Aron Scholten,Nijverdal,Msen,124,00:57:13,00:56:38,00:28:25,00:28:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+427,128,Martin Gerritsen,Wierden,M50,30,00:57:14,00:56:49,00:29:25,00:27:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+428,1688,Hanneke Wermink,Auto Aaltink 2,Vsen,44,00:57:14,00:56:46,00:29:23,00:27:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+429,106,Johan Noltes,Amstelveen,Msen,125,00:57:15,00:56:37,00:29:13,00:27:24,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+430,1699,Johan de Jong,Nijverdal,M50,31,00:57:16,00:56:39,00:28:19,00:28:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+431,1634,Henriette Pellekooren,Boskoop,V35,26,00:57:16,00:56:55,00:28:50,00:28:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+432,81,Henk Jetten,Atletics Nijverdal,M60,18,00:57:23,00:57:00,00:28:06,00:28:54,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+433,343,Derk Hendriks,Sibculo,M45,48,00:57:26,00:57:00,00:29:26,00:27:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+434,235,Thieu Werter,Groningen,Msen,126,00:57:27,00:57:17,00:27:18,00:29:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+435,427,Jeroen Landkroon,Wierden,M35,61,00:57:29,00:56:51,00:27:20,00:29:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+436,451,Jolien Tubben,Coevorden,Vsen,45,00:57:41,00:57:38,00:28:57,00:28:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+437,129,Alain Gotz,Almelo,Msen,127,00:57:42,00:57:02,00:29:50,00:27:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+438,198,Marc ten Kate,Twenterand,M40,51,00:57:43,00:57:22,00:29:30,00:27:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+439,1683,Muhamed Abas,Oldenzaal,M40,52,00:57:48,00:57:46,00:28:42,00:29:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+440,179,Marleen van Elburg,Hellendoorn,Vsen,46,00:57:50,00:57:22,00:29:38,00:27:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+441,171,Kim van Elburg,Zwolle,V35,27,00:57:50,00:57:22,00:29:38,00:27:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+442,105,Kirsten Hegeman,Twenterand,Vsen,47,00:57:51,00:57:30,00:29:30,00:28:01,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+443,91,Joyce Leidelmeijer,Marathon Pim Mulier,V50,11,00:58:20,00:58:09,00:29:34,00:28:35,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+444,435,Evelien Blankhorst,Nijverdal,V35,28,00:58:23,00:58:16,00:28:31,00:29:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+445,126,Dennis Eppink,Almelo,Msen,128,00:58:32,00:57:52,00:29:53,00:28:00,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+446,1655,Joke van de Pol,Almelo,V45,4,00:58:35,00:58:01,00:29:09,00:28:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+447,175,Jonny Drees,Nijverdal,M55,19,00:58:36,00:57:58,00:29:28,00:28:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+448,469,Koen Wisselink,Varsseveld,Msen,129,00:58:36,00:57:58,00:29:28,00:28:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+449,1670,Carolien Embsen,Wierden,V50,12,00:58:41,00:58:04,00:29:52,00:28:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+450,463,Laura Ooms,Enter,Vsen,48,00:58:41,00:58:27,00:27:39,00:30:48,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+451,1709,Richard Hartgers,Nijverdal,Msen,130,00:58:42,00:58:26,00:25:58,00:32:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+452,116,Nicole van der Laan,Enschede,V35,29,00:58:44,00:58:22,00:29:23,00:28:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+453,254,Gerwin Ooms,Wierden,M40,53,00:58:50,00:58:13,00:28:52,00:29:22,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+454,329,Arline Werter,Hengelo Ov,V50,13,00:58:52,00:58:41,00:29:33,00:29:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+455,282,Petra Stapelberg,Borne,Vsen,49,00:59:04,00:58:20,00:28:47,00:29:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+456,1667,Annelies Embsen,Wierden,V50,14,00:59:09,00:58:32,00:29:52,00:28:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+457,133,Mariska Hoppen,Apeldoorn,Vsen,50,00:59:14,00:58:46,00:30:04,00:28:42,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+458,263,Jo Stegeman,Hellendoorn,M55,20,00:59:24,00:58:58,00:30:44,00:28:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+459,376,Marianne Klaas,Wierden,V50,15,00:59:30,00:58:53,00:29:52,00:29:02,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+460,342,Annemiek Tegeler,Almelo,Vsen,51,00:59:35,00:59:03,00:30:16,00:28:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+461,107,Karola Drost,Hellendoorn,V35,30,00:59:43,00:59:31,00:29:15,00:30:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+462,456,Fokje Meijer,Almelo,V50,16,00:59:49,00:59:27,00:30:54,00:28:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+463,186,Gonny Schoolkate,Deventer,V45,5,00:59:56,00:59:19,00:29:37,00:29:43,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+464,442,Jesper Scholten,Nijverdal,Msen,131,00:59:56,00:59:21,00:30:12,00:29:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+465,346,Kim Adams,Hengelo Ov,Vsen,52,00:59:57,00:59:50,00:29:39,00:30:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+466,102,Cindy Dekker,Atletics Nijverdal,V35,31,00:59:58,00:59:43,00:30:03,00:29:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+467,380,Marco Collet,Wierden,M50,32,01:00:10,00:59:48,00:29:42,00:30:06,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+468,428,Erica Tijink,AV Rijssen,V45,6,01:00:36,01:00:21,00:30:26,00:29:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+469,109,Frank Lammertink,Almelo,M45,49,01:00:42,01:00:11,00:31:58,00:28:14,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+470,194,Laura Tijhof-Thorsen,Nijverdal,Vsen,53,01:00:47,01:00:22,00:30:38,00:29:44,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+471,368,Yvette Fransen,Deventer,Vsen,54,01:01:02,01:00:28,00:28:47,00:31:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+472,1671,Anton Kreilleman,Nijverdal,M60,19,01:01:13,01:00:56,00:29:46,00:31:11,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+473,405,Benno Geerdink,TION,M55,21,01:01:19,01:00:38,00:30:07,00:30:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+474,227,Peter vd Heuvel,Nijverdal,Msen,132,01:01:23,01:00:50,00:31:19,00:29:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+475,270,Lieke Hofman,Utrecht,Vsen,55,01:01:30,01:00:49,00:29:44,00:31:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+476,271,Dion Morssink,Enter,Msen,133,01:01:30,01:00:49,00:29:44,00:31:05,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+477,452,Christiaan Eichelsheim,Enschede,Msen,134,01:01:38,01:01:06,00:30:52,00:30:15,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+478,306,Pascal Loohuis,Rijssen,Msen,135,01:02:09,01:01:34,00:32:49,00:28:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+479,202,Ellen Vrugteveen,Hellendoorn,Vsen,56,01:02:09,01:01:35,00:32:50,00:28:46,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+480,164,Frank Nijveld,Wierden,M35,62,01:02:16,01:01:52,00:28:21,00:33:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+481,163,Jorine Borgman,Borne,V35,32,01:02:26,01:02:11,00:31:20,00:30:51,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+482,242,Wilma Leunge,Rijssen,V50,17,01:02:47,01:02:22,00:32:06,00:30:16,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+483,440,Alfred Hospers,Wierden,M50,33,01:02:52,01:02:23,00:31:59,00:30:25,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+484,1702,Arlette Paalvast,Almelo,V35,33,01:02:59,01:02:19,00:32:11,00:30:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+485,1718,Jolanda Jansen,Vriezenveen,V35,34,01:03:00,01:02:37,00:31:11,00:31:27,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+486,233,Hermien Dollen,Daarle,V35,35,01:03:01,01:02:30,00:32:58,00:29:32,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+487,144,Kim Meijlof,Almelo,V35,36,01:03:02,01:02:27,00:33:29,00:28:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+488,204,Marjon ter Haar,Hellendoorn,V35,37,01:03:29,01:02:56,00:32:57,00:29:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+489,1687,Thea Hendrikse,Assen,V50,18,01:03:36,01:03:00,00:32:13,00:30:47,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+490,358,Jessica Huiting,Almelo,Vsen,57,01:03:37,01:03:11,00:29:26,00:33:45,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+491,218,Ramona Plas-Tijhuis,Rijssen,Vsen,58,01:03:43,01:03:10,00:32:30,00:30:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+492,280,Marloes Janssen,Nijverdal,Vsen,59,01:03:44,01:03:13,00:31:39,00:31:34,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+493,121,Björna de Groen,Almelo,V35,38,01:03:50,01:03:23,00:32:00,00:31:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+494,485,Naomi Beumer,Wierden,Vsen,60,01:03:53,01:03:26,00:32:27,00:30:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+495,230,Jenny Bontekoe,Nijverdal,V35,39,01:03:58,01:03:26,00:32:58,00:30:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+496,296,Lidy Braakman,Nijverdal,V35,40,01:04:00,01:03:28,00:32:57,00:30:31,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+497,457,Erna Jonkman,Almelo,V50,19,01:04:17,01:03:55,00:33:15,00:30:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+498,431,Ton de Jong,Almelo,M60,20,01:04:17,01:03:56,00:33:16,00:30:41,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+499,221,Dennis Verbeek,Enschede,Msen,136,01:05:38,01:05:02,00:31:44,00:33:19,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+500,222,Julia Keizer,Enschede,Vsen,61,01:05:39,01:05:03,00:32:06,00:32:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+501,458,Hasan Ta,Wierden,M35,63,01:05:48,01:05:19,00:32:21,00:32:59,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+502,196,Josita Luttenberg,Hellendoorn,V35,41,01:05:49,01:05:16,00:33:27,00:31:50,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+503,232,Marieke Harmsen,Nijverdal,Vsen,62,01:06:16,01:05:43,00:33:30,00:32:13,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+504,335,Eline van der Veen,Almelo,Vsen,63,01:06:33,01:06:02,00:32:33,00:33:30,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+505,1631,Yolanda Lubbers,Bornerbroek,V50,20,01:06:46,01:06:16,00:32:53,00:33:23,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+506,217,Bertil Burgwal,Wierden,M50,34,01:06:53,01:06:20,00:33:11,00:33:09,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+507,289,Ria Nijkamp,Rijssen,V50,21,01:06:57,01:06:22,00:33:30,00:32:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+508,274,Janita Boeve,Rijssen,V45,7,01:06:57,01:06:22,00:33:30,00:32:53,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+509,134,Kim Leussink,Zwolle,V35,42,01:07:03,01:06:24,00:33:56,00:32:28,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+510,208,Roy Augustijn,Borne,M45,50,01:07:31,01:06:51,00:33:57,00:32:55,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+511,1686,André Steketee,Nederland,M50,35,01:07:58,01:07:53,00:31:56,00:35:58,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+512,145,Elles Morsink,Almelo,V35,43,01:08:35,01:08:00,00:33:31,00:34:29,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+513,1651,Niels Baars,Enschede,Msen,137,01:08:53,01:08:22,00:33:30,00:34:52,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+514,1641,Stefan Spaan,Wierden,Msen,138,01:09:06,01:08:28,00:34:09,00:34:20,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16
+515,257,Dayelle Sikkens,Zoetermeer,V35,44,01:09:37,01:09:07,00:34:28,00:34:40,"",18e Wiezoloop  Wierden  16-07-2016,2016-07-16

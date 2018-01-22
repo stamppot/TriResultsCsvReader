@@ -1,0 +1,175 @@
+Plts,StNr,Naam,Vereniging / Woonplaats,Cat,PltsCat,Bruto,Netto,race,date
+1,2221,Jorrit Cleij,Cifla,Msen,1,00:32:04,00:32:04,Maas en Waalse Dijkenloop ,2017-09-03
+2,2057,Sami van Lent,Cifla,Msen,2,00:33:24,00:33:23,Maas en Waalse Dijkenloop ,2017-09-03
+3,2058,Eyob van Lent,Cifla,Msen,3,00:33:51,00:33:50,Maas en Waalse Dijkenloop ,2017-09-03
+4,2218,Michiel Kallenberg,Cifla,Msen,4,00:34:00,00:33:59,Maas en Waalse Dijkenloop ,2017-09-03
+5,2050,Almir Fetahovic,Cifla,Msen,5,00:34:05,00:34:04,Maas en Waalse Dijkenloop ,2017-09-03
+6,2148,Serge Horbach,NSAV 't Haasje,Msen,6,00:34:57,00:34:56,Maas en Waalse Dijkenloop ,2017-09-03
+7,2061,Tom Koppe,Nijmegen,Msen,7,00:38:43,00:38:42,Maas en Waalse Dijkenloop ,2017-09-03
+8,2220,Arno Luft,Cifla,M45,1,00:38:53,00:38:51,Maas en Waalse Dijkenloop ,2017-09-03
+9,2032,Charissa Koetsier,Nijmegen,Vsen,1,00:38:58,00:38:57,Maas en Waalse Dijkenloop ,2017-09-03
+10,2183,Emiel Schreur,Ciko '66,Msen,8,00:39:01,00:39:00,Maas en Waalse Dijkenloop ,2017-09-03
+11,2126,Ynte Biemans,Atverni,Vsen,2,00:39:17,00:39:17,Maas en Waalse Dijkenloop ,2017-09-03
+12,2136,Jasper Rosmulder,Cifla,Msen,9,00:39:39,00:39:37,Maas en Waalse Dijkenloop ,2017-09-03
+13,2219,Frederik te Hennepe,Wageningen,M45,2,00:41:08,00:41:06,Maas en Waalse Dijkenloop ,2017-09-03
+14,2207,Steven Eskes,Druten,Msen,10,00:41:46,00:41:39,Maas en Waalse Dijkenloop ,2017-09-03
+15,2163,Rolf Broekman,Beneden-Leeuwen,Msen,11,00:42:18,00:42:09,Maas en Waalse Dijkenloop ,2017-09-03
+16,2035,Tim Pruimboom,Beneden-Leeuwen,Msen,12,00:42:21,00:42:12,Maas en Waalse Dijkenloop ,2017-09-03
+17,2223,Harm van Zuijlen,Wamel,Msen,13,00:42:44,00:42:40,Maas en Waalse Dijkenloop ,2017-09-03
+18,2157,Peter Huls,Cifla,M45,3,00:42:56,00:42:54,Maas en Waalse Dijkenloop ,2017-09-03
+19,2110,Olivier Walravens,Astylos,M45,4,00:43:04,00:43:02,Maas en Waalse Dijkenloop ,2017-09-03
+20,2192,Derk Venema,Wijchen,Msen,14,00:43:12,00:43:09,Maas en Waalse Dijkenloop ,2017-09-03
+21,2175,Patrick Schoots,Astylos,M45,5,00:43:24,00:43:22,Maas en Waalse Dijkenloop ,2017-09-03
+22,2130,Léon Holster,Nijmegen,M45,6,00:43:31,00:43:27,Maas en Waalse Dijkenloop ,2017-09-03
+23,2204,Coen Stork,Wamel,Msen,15,00:43:44,00:43:41,Maas en Waalse Dijkenloop ,2017-09-03
+24,2226,Bart van Galen,Beneden-Leeuwen,Msen,16,00:43:48,00:43:42,Maas en Waalse Dijkenloop ,2017-09-03
+25,2156,Guido Kluijtmans,Generaal Michaelis,M45,7,00:43:51,00:43:46,Maas en Waalse Dijkenloop ,2017-09-03
+26,2120,Niels van den Hazelkamp,Wamel,Msen,17,00:44:04,00:44:01,Maas en Waalse Dijkenloop ,2017-09-03
+27,2048,Wesley van Ham,'s-Hertogenbosch,Msen,18,00:44:05,00:44:00,Maas en Waalse Dijkenloop ,2017-09-03
+28,2076,Toon Boonman,Overasselt,M45,8,00:46:11,00:46:07,Maas en Waalse Dijkenloop ,2017-09-03
+29,2060,Frank van Gaal,Wijchen,Msen,19,00:46:13,00:46:08,Maas en Waalse Dijkenloop ,2017-09-03
+30,2000,Marjon Pijl,Arnhem,V45,1,00:46:19,00:46:18,Maas en Waalse Dijkenloop ,2017-09-03
+31,2155,John Thoonen,Horssen,Msen,20,00:46:20,00:46:03,Maas en Waalse Dijkenloop ,2017-09-03
+32,2165,Fer Grooteman,Wateringen,M45,9,00:46:35,00:46:27,Maas en Waalse Dijkenloop ,2017-09-03
+33,2179,Simon Baars,Puiflijk,Msen,21,00:46:36,00:46:25,Maas en Waalse Dijkenloop ,2017-09-03
+34,,Chip 3EZ7GVK,,,,00:46:36,00:46:26,Maas en Waalse Dijkenloop ,2017-09-03
+35,2045,Teun van Kalkeren,De Dijkrunners,M45,10,00:47:10,00:47:05,Maas en Waalse Dijkenloop ,2017-09-03
+36,2144,Gert Libbers,Druten,M45,11,00:47:44,00:47:25,Maas en Waalse Dijkenloop ,2017-09-03
+37,2168,Harold van Zandvoort,Druten,Msen,22,00:48:09,00:47:53,Maas en Waalse Dijkenloop ,2017-09-03
+38,2043,Wessel van Ledden,Tiel,Msen,23,00:48:11,00:47:51,Maas en Waalse Dijkenloop ,2017-09-03
+39,2198,Ruud Bongers,Tiel,M45,12,00:48:14,00:48:04,Maas en Waalse Dijkenloop ,2017-09-03
+40,2213,Harrie van Welie,Beneden-Leeuwen,M45,13,00:48:15,00:48:10,Maas en Waalse Dijkenloop ,2017-09-03
+41,2162,Inez Wissingh,Healthclub Juliën,V45,2,00:48:19,00:48:17,Maas en Waalse Dijkenloop ,2017-09-03
+42,2191,Rob Konings,Beneden-Leeuwen,Msen,24,00:48:22,00:48:10,Maas en Waalse Dijkenloop ,2017-09-03
+43,2133,Stephan Wijnekus,Boven-Leeuwen,M45,14,00:48:29,00:48:25,Maas en Waalse Dijkenloop ,2017-09-03
+44,2146,Ralph Schuurman,Daventria,M45,15,00:48:37,00:48:24,Maas en Waalse Dijkenloop ,2017-09-03
+45,2212,Marieke Roelofs,Cifla,Vsen,3,00:48:45,00:48:34,Maas en Waalse Dijkenloop ,2017-09-03
+46,2071,John Hensen,Wageningen,M45,16,00:48:53,00:48:33,Maas en Waalse Dijkenloop ,2017-09-03
+47,2118,Theo Suppers,Nederasselt,M45,17,00:48:55,00:48:46,Maas en Waalse Dijkenloop ,2017-09-03
+48,2042,Richard van Gelder,Beneden-Leeuwen,Msen,25,00:48:57,00:48:46,Maas en Waalse Dijkenloop ,2017-09-03
+49,2124,Peter Essers,Tiel,M45,18,00:49:11,00:48:56,Maas en Waalse Dijkenloop ,2017-09-03
+50,2131,Annette van Veenendaal,Beneden-Leeuwen,V45,3,00:49:11,00:49:06,Maas en Waalse Dijkenloop ,2017-09-03
+51,2201,Geert Maassen,Maasbommel,M45,19,00:49:19,00:49:01,Maas en Waalse Dijkenloop ,2017-09-03
+52,2153,Dick Hofman,Oosterbeek,M45,20,00:49:20,00:49:12,Maas en Waalse Dijkenloop ,2017-09-03
+53,2169,Jan Rovers,Beneden-Leeuwen,Msen,26,00:49:23,00:49:20,Maas en Waalse Dijkenloop ,2017-09-03
+54,2070,Dave Jacobs,Beneden-Leeuwen,Msen,27,00:49:30,00:49:30,Maas en Waalse Dijkenloop ,2017-09-03
+55,2129,Richard Rutten,Nijmegen,M45,21,00:49:39,00:49:22,Maas en Waalse Dijkenloop ,2017-09-03
+56,2075,Leonie Roodhorst,Malden,Vsen,4,00:49:53,00:49:37,Maas en Waalse Dijkenloop ,2017-09-03
+57,2214,Henny Roodhorst,Cifla,M45,22,00:49:53,00:49:37,Maas en Waalse Dijkenloop ,2017-09-03
+58,2147,Theo van den Bos,Druten,M45,23,00:50:32,00:50:15,Maas en Waalse Dijkenloop ,2017-09-03
+59,2068,Dirk-jan Robbe,AVA '70,M45,24,00:50:33,00:50:20,Maas en Waalse Dijkenloop ,2017-09-03
+60,2065,Harrie Wattenberg,Winssen,M45,25,00:50:37,00:50:21,Maas en Waalse Dijkenloop ,2017-09-03
+61,2182,Wiljo van den Broek,Afferden Gld,M45,26,00:50:40,00:50:32,Maas en Waalse Dijkenloop ,2017-09-03
+62,2074,Alex Steenbekkers,Rossum Gld,Msen,28,00:50:48,00:50:39,Maas en Waalse Dijkenloop ,2017-09-03
+63,2166,Jochem van Rossum,Beneden-Leeuwen,Msen,29,00:50:53,00:50:45,Maas en Waalse Dijkenloop ,2017-09-03
+64,2051,Mohamed Barre,Geldrop,M45,27,00:51:02,00:50:58,Maas en Waalse Dijkenloop ,2017-09-03
+65,2023,Roy van As,Druten,Msen,30,00:51:11,00:50:54,Maas en Waalse Dijkenloop ,2017-09-03
+66,2125,Lilianne van Nistelrooij,Dreumel,V45,4,00:51:17,00:51:11,Maas en Waalse Dijkenloop ,2017-09-03
+67,2205,Marco Janssen,Beneden-Leeuwen,M45,28,00:51:18,00:51:09,Maas en Waalse Dijkenloop ,2017-09-03
+68,2154,Ben de Jong,IJsselstein Ut,M45,29,00:51:22,00:51:12,Maas en Waalse Dijkenloop ,2017-09-03
+69,2225,Dirck van Meurs,Beneden-Leeuwen,M45,30,00:51:42,00:51:25,Maas en Waalse Dijkenloop ,2017-09-03
+70,2142,Wim Campschroer,B.o.d. De Sprinters,M45,31,00:51:52,00:51:44,Maas en Waalse Dijkenloop ,2017-09-03
+71,2134,Hanny Vink,Zoelen,Vsen,5,00:51:59,00:51:44,Maas en Waalse Dijkenloop ,2017-09-03
+72,2047,Bart van den Hurk,Astylos,M45,32,00:52:01,00:51:51,Maas en Waalse Dijkenloop ,2017-09-03
+73,2180,Wim Daanen,Beneden-Leeuwen,M45,33,00:52:17,00:52:09,Maas en Waalse Dijkenloop ,2017-09-03
+74,2200,Ton Rutten,Hardlopen.nl,M45,34,00:52:20,00:52:15,Maas en Waalse Dijkenloop ,2017-09-03
+75,2103,Pierre Basten,Beneden-Leeuwen,M45,35,00:52:31,00:52:17,Maas en Waalse Dijkenloop ,2017-09-03
+76,2188,Belinda van Wijlick,Utrecht,V45,5,00:52:31,00:52:20,Maas en Waalse Dijkenloop ,2017-09-03
+77,2063,Leo van Eeuwijk,Kranenburg,M45,36,00:52:32,00:52:16,Maas en Waalse Dijkenloop ,2017-09-03
+78,2203,Suzanne Stevens,Wamel,Vsen,6,00:52:39,00:52:25,Maas en Waalse Dijkenloop ,2017-09-03
+79,2170,William Hendricks,Groesbeek,Msen,31,00:52:50,00:52:40,Maas en Waalse Dijkenloop ,2017-09-03
+80,2209,Bert Dreijer,Dreumel,M45,37,00:52:51,00:52:40,Maas en Waalse Dijkenloop ,2017-09-03
+81,3020,Mart Anthony Paulus,Haarlem,M45,38,00:53:14,00:52:51,Maas en Waalse Dijkenloop ,2017-09-03
+82,2052,Arend Kroos,Tiel,Msen,32,00:53:15,00:52:54,Maas en Waalse Dijkenloop ,2017-09-03
+83,2041,René van den Hurk,Beneden-Leeuwen,M45,39,00:53:20,00:53:14,Maas en Waalse Dijkenloop ,2017-09-03
+84,2150,Wim Schreurs,Druten,M45,40,00:53:28,00:53:05,Maas en Waalse Dijkenloop ,2017-09-03
+85,2172,Sjuul van de Klok,Druten,M45,41,00:53:29,00:53:11,Maas en Waalse Dijkenloop ,2017-09-03
+86,2049,Mark Tielemans,Ede Gld,Msen,33,00:53:35,00:53:13,Maas en Waalse Dijkenloop ,2017-09-03
+87,2039,Wesley van Verseveld,Ingen,Msen,34,00:53:37,00:53:16,Maas en Waalse Dijkenloop ,2017-09-03
+88,2062,Marleen Hofstede,Nederasselt,Vsen,7,00:53:37,00:53:15,Maas en Waalse Dijkenloop ,2017-09-03
+89,2108,Joyce Vink,Tiel,Vsen,8,00:53:43,00:53:35,Maas en Waalse Dijkenloop ,2017-09-03
+90,2029,Annelies Vos,Arena Atletiek,V45,6,00:53:51,00:53:29,Maas en Waalse Dijkenloop ,2017-09-03
+91,2019,Vincent de Kleijn,Nijmegen,Msen,35,00:54:00,00:53:48,Maas en Waalse Dijkenloop ,2017-09-03
+92,2036,Linda de Leeuw,Alphen Gld,Vsen,9,00:54:10,00:53:59,Maas en Waalse Dijkenloop ,2017-09-03
+93,2186,Jan van Groenestijn,Beneden-Leeuwen,M45,42,00:54:26,00:54:23,Maas en Waalse Dijkenloop ,2017-09-03
+94,2194,Theo van Elk,Beneden-Leeuwen,M45,43,00:54:33,00:54:27,Maas en Waalse Dijkenloop ,2017-09-03
+95,2208,Annelien Bos,Winssen,Vsen,10,00:54:46,00:54:33,Maas en Waalse Dijkenloop ,2017-09-03
+96,2034,Roy Groenen,Horssen,Msen,36,00:54:50,00:54:41,Maas en Waalse Dijkenloop ,2017-09-03
+97,2008,Guido Geenen,Eindhoven,M45,44,00:54:57,00:54:51,Maas en Waalse Dijkenloop ,2017-09-03
+98,2222,Coby van den Heuvel,Veenendaal,V45,7,00:54:59,00:54:56,Maas en Waalse Dijkenloop ,2017-09-03
+99,2176,Theo Lukkezen,Beneden-Leeuwen,M45,45,00:55:06,00:54:45,Maas en Waalse Dijkenloop ,2017-09-03
+100,2105,Jafar Taqawi,Arnhem,M45,46,00:55:13,00:54:27,Maas en Waalse Dijkenloop ,2017-09-03
+101,2100,Dennis Meijer,Tiel,Msen,37,00:55:15,00:55:07,Maas en Waalse Dijkenloop ,2017-09-03
+102,2104,Cor Vink,Tiel,M45,47,00:55:16,00:55:09,Maas en Waalse Dijkenloop ,2017-09-03
+103,2017,Jan van Thuyl,Beuningen Gld,M45,48,00:55:20,00:55:04,Maas en Waalse Dijkenloop ,2017-09-03
+104,2206,Jessica van Hulst,Boven-Leeuwen,Vsen,11,00:55:27,00:55:20,Maas en Waalse Dijkenloop ,2017-09-03
+105,2122,Bert van Elk,Beneden-Leeuwen,M45,49,00:55:33,00:55:21,Maas en Waalse Dijkenloop ,2017-09-03
+106,2044,Rianne Kliest,Maastricht,Vsen,12,00:55:41,00:55:21,Maas en Waalse Dijkenloop ,2017-09-03
+107,2196,Theo van Erp,Beneden-Leeuwen,M45,50,00:55:43,00:55:29,Maas en Waalse Dijkenloop ,2017-09-03
+108,2195,Annemiek van Krevel,Beneden-Leeuwen,V45,8,00:55:44,00:55:38,Maas en Waalse Dijkenloop ,2017-09-03
+109,2187,Anne Arts,Beneden-Leeuwen,Vsen,13,00:55:51,00:55:32,Maas en Waalse Dijkenloop ,2017-09-03
+110,2066,Miranka Anderson,Almere,V45,9,00:56:02,00:55:44,Maas en Waalse Dijkenloop ,2017-09-03
+111,2064,Marco van Verseveld,Ingen,M45,51,00:56:04,00:55:44,Maas en Waalse Dijkenloop ,2017-09-03
+112,2202,Jeanine van Kaauwen,Beneden-Leeuwen,Vsen,14,00:56:18,00:56:08,Maas en Waalse Dijkenloop ,2017-09-03
+113,2059,Angela Litjens,Horssen,Vsen,15,00:56:27,00:56:23,Maas en Waalse Dijkenloop ,2017-09-03
+114,2139,Richard van Staveren,Beneden-Leeuwen,M45,52,00:56:31,00:56:12,Maas en Waalse Dijkenloop ,2017-09-03
+115,2054,Krista IJzerman,Zoelen,Vsen,16,00:56:31,00:56:15,Maas en Waalse Dijkenloop ,2017-09-03
+116,2056,Jan Foolen,Prins Hendrik,M45,53,00:56:31,00:56:25,Maas en Waalse Dijkenloop ,2017-09-03
+117,2111,Ronald Holdijk,Tiel,Msen,38,00:56:33,00:56:17,Maas en Waalse Dijkenloop ,2017-09-03
+118,2185,Ernest Lange,'s-Gravenhage,Msen,39,00:56:36,00:56:24,Maas en Waalse Dijkenloop ,2017-09-03
+119,2135,Suzan van Heck,Boven-Leeuwen,Vsen,17,00:56:49,00:56:37,Maas en Waalse Dijkenloop ,2017-09-03
+120,2164,Astrid van Gelder,Beneden-Leeuwen,V45,10,00:56:56,00:56:44,Maas en Waalse Dijkenloop ,2017-09-03
+121,2128,Maranka Verkerk-v d Berg,avVN,V45,11,00:57:14,00:56:59,Maas en Waalse Dijkenloop ,2017-09-03
+122,2193,Erica Bosch,Ewijk,V45,12,00:57:22,00:57:04,Maas en Waalse Dijkenloop ,2017-09-03
+123,2143,Rut van Ledden,Lienden,Msen,40,00:57:38,00:57:17,Maas en Waalse Dijkenloop ,2017-09-03
+124,2145,Hans Smits,Afferden Gld,M45,54,00:57:49,00:57:35,Maas en Waalse Dijkenloop ,2017-09-03
+125,2141,Nicole Coenen,AV Wijchen,V45,13,00:57:51,00:57:29,Maas en Waalse Dijkenloop ,2017-09-03
+126,2067,Siebe de Vries,Ingen,Msen,41,00:57:58,00:57:41,Maas en Waalse Dijkenloop ,2017-09-03
+127,2199,Gerard van den Heuvel,Beneden-Leeuwen,M45,55,00:58:10,00:58:01,Maas en Waalse Dijkenloop ,2017-09-03
+128,2160,Renske van den Heuvel,Beneden-Leeuwen,Vsen,18,00:58:11,00:58:00,Maas en Waalse Dijkenloop ,2017-09-03
+129,2217,Berta Streumer,Tiel,V45,14,00:58:16,00:58:01,Maas en Waalse Dijkenloop ,2017-09-03
+130,2109,Robertino van Meerten,Boven-Leeuwen,Msen,42,00:58:46,00:58:27,Maas en Waalse Dijkenloop ,2017-09-03
+131,2018,Thijs Rijken,Beneden-Leeuwen,Msen,43,00:58:48,00:58:28,Maas en Waalse Dijkenloop ,2017-09-03
+132,2028,Kim Hiddink,Beneden-Leeuwen,Vsen,19,00:58:49,00:58:30,Maas en Waalse Dijkenloop ,2017-09-03
+133,2014,Bert Turk,Nuenen,M45,56,00:59:08,00:59:01,Maas en Waalse Dijkenloop ,2017-09-03
+134,2037,Marieke Gennissen,Maasbommel,Vsen,20,00:59:09,00:58:59,Maas en Waalse Dijkenloop ,2017-09-03
+135,2174,Moniek Kamoen,Nijmegen,Vsen,21,00:59:29,00:59:13,Maas en Waalse Dijkenloop ,2017-09-03
+136,2215,Willem van Veenendaal,Beneden-Leeuwen,M45,57,00:59:32,00:59:26,Maas en Waalse Dijkenloop ,2017-09-03
+137,2026,Noortje Bergevoet,Beneden-Leeuwen,Vsen,22,00:59:34,00:59:24,Maas en Waalse Dijkenloop ,2017-09-03
+138,2113,Maarten Buters,Nijmegen,Msen,44,00:59:48,00:59:35,Maas en Waalse Dijkenloop ,2017-09-03
+139,2151,Hilde den Daas,Dreumel,Vsen,23,00:59:56,00:59:44,Maas en Waalse Dijkenloop ,2017-09-03
+140,2123,Annie van Elk,Beneden-Leeuwen,V45,15,01:00:00,00:59:48,Maas en Waalse Dijkenloop ,2017-09-03
+141,2053,Lotte Kroos,Tiel,Vsen,24,01:00:05,00:59:43,Maas en Waalse Dijkenloop ,2017-09-03
+142,2140,Laura van Eldik,Tiel,V45,16,01:00:07,01:00:03,Maas en Waalse Dijkenloop ,2017-09-03
+143,2046,Lineke Mesdag,Nijmegen,V45,17,01:00:23,01:00:13,Maas en Waalse Dijkenloop ,2017-09-03
+144,2106,Angela Vink,Tiel,Vsen,25,01:00:27,01:00:21,Maas en Waalse Dijkenloop ,2017-09-03
+145,2012,Erik van Schaik,Amersfoort,M45,58,01:00:51,01:00:43,Maas en Waalse Dijkenloop ,2017-09-03
+146,2015,Daphne Veenendaal,Beneden-Leeuwen,Vsen,26,01:01:03,01:00:44,Maas en Waalse Dijkenloop ,2017-09-03
+147,2072,Mieke Reuser,Utrecht,Vsen,27,01:01:06,01:01:01,Maas en Waalse Dijkenloop ,2017-09-03
+148,2119,Joyce van Dinther,Oss,V45,18,01:01:08,01:00:50,Maas en Waalse Dijkenloop ,2017-09-03
+149,2161,Angela Peper,Puiflijk,V45,19,01:01:09,01:00:46,Maas en Waalse Dijkenloop ,2017-09-03
+150,2189,Thom Smits,Boven-Leeuwen,M45,59,01:01:23,01:01:02,Maas en Waalse Dijkenloop ,2017-09-03
+151,2121,Carola Zondag,Puiflijk,Vsen,28,01:01:42,01:01:30,Maas en Waalse Dijkenloop ,2017-09-03
+152,2024,Peter Kroon,Wijk bij Duurstede,M45,60,01:01:57,01:01:36,Maas en Waalse Dijkenloop ,2017-09-03
+153,2112,Jos Gebbinck,Wijk bij Duurstede,M45,61,01:01:57,01:01:36,Maas en Waalse Dijkenloop ,2017-09-03
+154,2211,Frans Fokker,Buurmalsen,M45,62,01:02:29,01:02:15,Maas en Waalse Dijkenloop ,2017-09-03
+155,2137,Peter Driessen,Beneden-Leeuwen,M45,63,01:02:49,01:02:26,Maas en Waalse Dijkenloop ,2017-09-03
+156,2004,Natalie Cleton,Est,Vsen,29,01:03:25,01:03:06,Maas en Waalse Dijkenloop ,2017-09-03
+157,2005,Hans Cleton,Renswoude,M45,64,01:03:29,01:03:10,Maas en Waalse Dijkenloop ,2017-09-03
+158,2073,Brigitte van der Hoogt,Druten,V45,20,01:03:35,01:03:21,Maas en Waalse Dijkenloop ,2017-09-03
+159,2022,Jacinta Kannekens,Prins Hendrik,V45,21,01:03:41,01:03:35,Maas en Waalse Dijkenloop ,2017-09-03
+160,2021,Jan de Leeuw,Prins Hendrik,M45,65,01:03:42,01:03:36,Maas en Waalse Dijkenloop ,2017-09-03
+161,2149,Marga van der Zwaluw,Appeltern,V45,22,01:03:43,01:03:20,Maas en Waalse Dijkenloop ,2017-09-03
+162,2158,Niki Tromp-Hellenbrand,Beneden-Leeuwen,Vsen,30,01:04:03,01:03:49,Maas en Waalse Dijkenloop ,2017-09-03
+163,2038,Tonnie de Haas,Boven-Leeuwen,M45,66,01:04:54,01:04:41,Maas en Waalse Dijkenloop ,2017-09-03
+164,2069,Irma Oosterhof,Zoelmond,Vsen,31,01:04:58,01:04:43,Maas en Waalse Dijkenloop ,2017-09-03
+165,2178,Ellen Gerritsen,Nijmegen,V45,23,01:04:58,01:04:48,Maas en Waalse Dijkenloop ,2017-09-03
+166,2173,Wilma Koning,Tiel,Vsen,32,01:05:21,01:05:06,Maas en Waalse Dijkenloop ,2017-09-03
+167,2003,Mieke van Oijen,Beneden-Leeuwen,Vsen,33,01:06:00,01:05:45,Maas en Waalse Dijkenloop ,2017-09-03
+168,2227,Robert Rood,Berg en Dal,M45,67,01:07:13,01:06:59,Maas en Waalse Dijkenloop ,2017-09-03
+169,2107,Noesjka van der Weegen,Maurik,V45,24,01:09:24,01:09:15,Maas en Waalse Dijkenloop ,2017-09-03
+170,2010,Karin de Geest,Tiel,Vsen,34,01:09:24,01:09:16,Maas en Waalse Dijkenloop ,2017-09-03
+171,2116,Nikkie Meijers,AAA,V45,25,01:12:45,01:12:28,Maas en Waalse Dijkenloop ,2017-09-03
+172,2117,Sari Koppens,Nijmegen Atletiek,V45,26,01:12:45,01:12:28,Maas en Waalse Dijkenloop ,2017-09-03
+173,2025,Wieke Romijnders,Beneden-Leeuwen,Vsen,35,01:14:12,01:13:59,Maas en Waalse Dijkenloop ,2017-09-03
+174,2132,Reinier van Hattem,Rhenen,M45,68,01:14:14,01:14:11,Maas en Waalse Dijkenloop ,2017-09-03

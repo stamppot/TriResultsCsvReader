@@ -1,0 +1,50 @@
+Plts,StartNr,Naam,School,Cat,PltsCat,BrutoTijd,race,date
+1,119,Nathalie van Heemsbergen,Springplank,V,1,00:03:09,Cuneraloop ,2016-06-04
+2,115,Jelle Coenradi,Springplank,M,1,00:03:18,Cuneraloop ,2016-06-04
+3,75,Finn Jakobs,Cuneraschool,M,2,00:03:22,Cuneraloop ,2016-06-04
+4,63,Merijn Stuijt,"Pradijsvogel, Den Haag",M,3,00:03:25,Cuneraloop ,2016-06-04
+5,116,Akram Elbouziri,Springplank,M,4,00:03:26,Cuneraloop ,2016-06-04
+6,82,Kick Pallada,Cuneraschool,M,5,00:03:29,Cuneraloop ,2016-06-04
+7,77,Xander Kragting,Cuneraschool,M,6,00:03:30,Cuneraloop ,2016-06-04
+8,81,Floor de Moel,Cuneraschool,V,2,00:03:36,Cuneraloop ,2016-06-04
+9,89,Dano Hoogendoorn,Driesprong / Bantuin,M,7,00:03:38,Cuneraloop ,2016-06-04
+10,199,Wytske Tolboom,Lienden,V,3,00:03:38,Cuneraloop ,2016-06-04
+11,92,Amine Mouni,Driesprong / Bantuin,M,8,00:03:38,Cuneraloop ,2016-06-04
+12,102,Isabelle Baardman,Montessorischool,V,4,00:03:43,Cuneraloop ,2016-06-04
+13,189,Joris Visser,Eben Haëzer School (Liend,M,9,00:03:43,Cuneraloop ,2016-06-04
+14,120,Rifka de Jager,Springplank,V,5,00:03:43,Cuneraloop ,2016-06-04
+15,60,Babirye de la Mar,Ericaschool,V,6,00:03:43,Cuneraloop ,2016-06-04
+16,104,Lika Beumer,Montessorischool,V,7,00:03:44,Cuneraloop ,2016-06-04
+17,369,Tibbe Eelman,Montesorri,M,10,00:03:50,Cuneraloop ,2016-06-04
+18,123,Noa Wagenmans,Springplank,V,8,00:03:50,Cuneraloop ,2016-06-04
+19,113,Arwen Stieltjes,Montessorischool,M,11,00:03:50,Cuneraloop ,2016-06-04
+20,109,Vlinder van Rhee,Montessorischool,V,9,00:03:50,Cuneraloop ,2016-06-04
+21,65,Art Bartolomeus,Cuneraschool,M,12,00:03:51,Cuneraloop ,2016-06-04
+22,86,Dynthe Rouleau,Cuneraschool,V,10,00:03:57,Cuneraloop ,2016-06-04
+23,71,Jotte Habets van der Burgt,Cuneraschool,V,11,00:03:57,Cuneraloop ,2016-06-04
+24,99,Jolijn van de Pol,Ericaschool,V,12,00:03:58,Cuneraloop ,2016-06-04
+25,61,Tim Tollenaar,Ericaschool,M,13,00:03:58,Cuneraloop ,2016-06-04
+26,83,Elin Pronk,Cuneraschool,V,13,00:03:58,Cuneraloop ,2016-06-04
+27,66,Vigo Bolderman,Cuneraschool,M,14,00:03:59,Cuneraloop ,2016-06-04
+28,69,Femke Everts,Cuneraschool,V,14,00:04:05,Cuneraloop ,2016-06-04
+29,78,Sven de Kruijf,Cuneraschool,M,15,00:04:05,Cuneraloop ,2016-06-04
+30,106,Sofie van Donselaar,Montessorischool,V,15,00:04:12,Cuneraloop ,2016-06-04
+31,101,Tilia van Apeldoorn,Montessorischool,V,16,00:04:12,Cuneraloop ,2016-06-04
+32,76,Isa Jansen,Cuneraschool,V,17,00:04:12,Cuneraloop ,2016-06-04
+33,103,Sven Belgraver,Montessorischool,M,16,00:04:12,Cuneraloop ,2016-06-04
+34,68,Floor Dominicus,Cuneraschool,V,18,00:04:19,Cuneraloop ,2016-06-04
+35,105,Caylee de Bruin,Montessorischool,V,19,00:04:20,Cuneraloop ,2016-06-04
+36,94,Gioya van de Burg,Ericaschool,V,20,00:04:21,Cuneraloop ,2016-06-04
+37,74,Shane Hovestad,Cuneraschool,M,17,00:04:27,Cuneraloop ,2016-06-04
+38,121,Liam Lakerink,Springplank,M,18,00:04:27,Cuneraloop ,2016-06-04
+39,95,Tess Heuts,Ericaschool,V,21,00:04:34,Cuneraloop ,2016-06-04
+40,87,Chelsea Stoltz,Cuneraschool,V,22,00:04:34,Cuneraloop ,2016-06-04
+41,96,Eva Hilhorst,Ericaschool,V,23,00:04:38,Cuneraloop ,2016-06-04
+42,107,Roma Eremeiko,Montessorischool,M,19,00:04:55,Cuneraloop ,2016-06-04
+43,114,Sarah el Abbadi,Springplank,V,24,00:04:55,Cuneraloop ,2016-06-04
+44,194,Kendra de Vries,Springplank,V,25,00:04:55,Cuneraloop ,2016-06-04
+45,118,Alyssa Geurtsen,Springplank,V,26,00:05:09,Cuneraloop ,2016-06-04
+46,98,Linda h t Le,Ericaschool,V,27,00:05:44,Cuneraloop ,2016-06-04
+47,97,Pien Hilhorst,Ericaschool,V,28,00:05:44,Cuneraloop ,2016-06-04
+48,80,Bodine Manussen,Cuneraschool,V,29,00:06:06,Cuneraloop ,2016-06-04
+49,6,Julia van Erven,Cuneraschool,V,30,00:06:14,Cuneraloop ,2016-06-04

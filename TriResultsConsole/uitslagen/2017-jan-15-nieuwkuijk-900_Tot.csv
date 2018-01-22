@@ -1,0 +1,55 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,BM,race,date
+1,186,Stef van Beurden,Vlijmen,M9,1,00:04:10,00:04:10,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+2,3,Ruben van Geenen,Waalwijk,M9,2,00:04:20,00:04:20,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+3,21,Robbie Smulders,'s-Hertogenbosch,M9,3,00:04:21,00:04:21,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+4,110,Koen van Beurden,Vlijmen,M9,4,00:04:29,00:04:29,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+5,111,Joost van Beurden,Vlijmen,M9,5,00:04:35,00:04:35,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+6,109,Raff Hendriks,Nieuwkuijk,M9,6,00:04:36,00:04:36,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+7,117,Vince Berkelmans,Nieuwkuijk,M9,7,00:04:39,00:04:39,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+8,185,Lucas Velthuijzen,Nieuwkuijk,M9,8,00:04:53,00:04:52,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+9,422,Janique Kleijn,Nieuwkuijk,V9,1,00:04:54,00:04:52,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+10,193,Juub van Bijnen,Nieuwkuijk,M9,9,00:04:56,00:04:56,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+11,113,Wouter van Kessel,Nieuwkuijk,M9,10,00:04:58,00:04:58,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+12,112,Tim van Dommelen,Nieuwkuijk,M9,11,00:04:59,00:04:59,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+13,116,Sjors van Spijk,Drunen,M9,12,00:04:59,00:04:59,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+14,183,Daan van Bokhoven,Vlijmen,M9,13,00:05:00,00:04:58,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+15,8,Stan van Gestel,Vlijmen,M9,14,00:05:03,00:05:03,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+16,416,Anne Smits,Drunen,V9,2,00:05:04,00:05:02,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+17,115,Pepijn van de Wiel,Nieuwkuijk,M9,15,00:05:07,00:05:07,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+18,159,Siebe de Gouw,Nieuwkuijk,M9,16,00:05:08,00:05:06,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+19,184,Filipe Smits,Nieuwkuijk,M9,17,00:05:10,00:05:07,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+20,239,Rens Beekmans,Drunen,M9,18,00:05:10,00:05:10,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+21,250,Jelle van Esch,Haarsteeg,M9,19,00:05:10,00:05:10,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+22,253,Rens Timmermans,Vlijmen,M9,20,00:05:10,00:05:08,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+23,158,Matthijs van Drunen,Nieuwkuijk,M9,21,00:05:14,00:05:12,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+24,393,Benthe van Hulten,Nieuwkuijk,V9,3,00:05:15,00:05:14,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+25,188,Nick Vissers,Vlijmen,M9,22,00:05:17,00:05:17,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+26,390,Isa Cales,Nieuwkuijk,V9,4,00:05:19,00:05:17,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+27,394,Roos Fitters,Nieuwkuijk,V9,5,00:05:20,00:05:19,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+28,187,Youri Vissers,Vlijmen,M9,23,00:05:21,00:05:19,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+29,114,Thijs Vermeulen,Vlijmen,M9,24,00:05:28,00:05:28,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+30,391,Kim Cales,Nieuwkuijk,V9,6,00:05:28,00:05:26,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+31,483,Emma Kers,Drunen,V9,7,00:05:41,00:05:41,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+32,189,Bart Boom,Vlijmen,M9,25,00:05:47,00:05:45,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+33,192,Joris de Bonth,Nieuwkuijk,M9,26,00:05:50,00:05:50,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+34,248,Mart van Oijen,Haarsteeg,M9,27,00:05:56,00:05:55,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+35,251,Kees-Jan De Bruijne,Vlijmen,M9,28,00:05:56,00:05:56,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+36,448,Daphne van Delft,Drunen,V9,8,00:05:58,00:05:56,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+37,475,Jet Kamphuis,Wijk en Aalburg,V9,9,00:05:58,00:05:58,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+38,191,Gijs de Hart,Nieuwkuijk,M9,29,00:06:04,00:06:04,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+39,160,Justin van Opzeeland,Nieuwkuijk,M9,30,00:06:04,00:06:03,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+40,254,Jurgen Helgers,Vlijmen,M9,31,00:06:08,00:06:06,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+41,190,Aaron Melis,Nieuwkuijk,M9,32,00:06:08,00:06:07,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+42,389,Elena van de Hooven,Nieuwkuijk,V9,10,00:06:08,00:06:07,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+43,392,Noa Bloks,Vlijmen,V9,11,00:06:09,00:06:07,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+44,388,Jolie Vissers,Vlijmen,V9,12,00:06:10,00:06:08,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+45,354,Babette Van de Sande,Nieuwkuijk,V9,13,00:06:13,00:06:12,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+46,482,Sophie Kers,Drunen,V9,14,00:06:19,00:06:19,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+47,395,Anoek de Bonth,Nieuwkuijk,V9,15,00:06:24,00:06:22,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+48,387,Sanne van Bokhoven,Vlijmen,V9,16,00:06:34,00:06:33,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+49,396,Sienna van Aerle,Nieuwkuijk,V9,17,00:06:35,00:06:33,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+50,479,Robin van der Velden,Nieuwkuijk,V9,18,00:06:38,00:06:36,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+51,161,Max Willemse,Nieuwkuijk,M9,33,00:06:39,00:06:38,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+52,249,Ryan te Riele,Vlijmen,M9,34,00:06:47,00:06:46,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+53,397,Floor van de Wiel,Nieuwkuijk,V9,19,00:07:40,00:07:39,,Kuijkse Stratenloop  15-01-2017,2017-01-15
+54,355,Wies Beekmans,Nieuwkuijk,V9,20,00:08:38,00:08:36,,Kuijkse Stratenloop  15-01-2017,2017-01-15

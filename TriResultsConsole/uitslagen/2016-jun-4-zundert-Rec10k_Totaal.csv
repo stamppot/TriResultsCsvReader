@@ -1,0 +1,63 @@
+Plts,StartNr,Naam,Plaats/Vereniging,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Ronde3,race,date
+1,1078,Fred Louter,Maasland,Mtrim,1,00:37:04,00:37:02,00:12:26,00:12:24,00:12:13,Van Goghloop Zundert 04-06-2016,2016-06-04
+2,1017,Ralf Martens,Zundert,Mtrim,2,00:39:49,00:39:47,00:13:06,00:13:12,00:13:30,Van Goghloop Zundert 04-06-2016,2016-06-04
+3,1044,Martijn Brooijmans,Etten-Leur,Mtrim,3,00:40:34,00:40:31,00:13:36,00:13:38,00:13:17,Van Goghloop Zundert 04-06-2016,2016-06-04
+4,1023,Wout Bevers,Loenhout,Mtrim,4,00:40:53,00:40:51,00:13:13,00:14:00,00:13:38,Van Goghloop Zundert 04-06-2016,2016-06-04
+5,1090,Leon Pepermans,Sprint,Mtrim,5,00:41:04,00:41:02,00:13:45,00:13:43,00:13:35,Van Goghloop Zundert 04-06-2016,2016-06-04
+6,1055,Gust Quirynen,Merksplas,Mtrim,6,00:41:22,00:41:21,00:13:43,00:14:03,00:13:37,Van Goghloop Zundert 04-06-2016,2016-06-04
+7,1034,Twan Zopfi,Zundert,Mtrim,7,00:41:52,00:41:48,00:13:34,00:13:52,00:14:22,Van Goghloop Zundert 04-06-2016,2016-06-04
+8,1053,Dennis Coremans,Etten-Leur,Mtrim,8,00:42:29,00:42:26,00:13:51,00:14:13,00:14:23,Van Goghloop Zundert 04-06-2016,2016-06-04
+9,1046,Jaco Rip,Scherpenisse,Mtrim,9,00:43:11,00:43:09,00:13:56,00:14:26,00:14:49,Van Goghloop Zundert 04-06-2016,2016-06-04
+10,1067,Frank Laurijssen,Klein Zundert,Mtrim,10,00:43:19,00:43:19,00:13:44,00:14:35,00:15:01,Van Goghloop Zundert 04-06-2016,2016-06-04
+11,1025,Rini van Gils,Wernhout,Mtrim,11,00:43:37,00:43:35,00:14:06,00:14:47,00:14:43,Van Goghloop Zundert 04-06-2016,2016-06-04
+12,1099,Marian Lauwrijssen,Sprundel,Vtrim,1,00:43:40,00:43:37,00:13:59,00:14:44,00:14:55,Van Goghloop Zundert 04-06-2016,2016-06-04
+13,1009,Erik van Nijnatten,Wernhout,Mtrim,12,00:43:46,00:43:43,00:14:15,00:14:47,00:14:43,Van Goghloop Zundert 04-06-2016,2016-06-04
+14,1011,Diemer van Wijk,Bergen op Zoom,Mtrim,13,00:44:27,00:44:22,00:15:06,00:14:51,00:14:27,Van Goghloop Zundert 04-06-2016,2016-06-04
+15,1054,Peter Loose,Merksplas,Mtrim,14,00:44:49,00:44:45,00:14:29,00:15:09,00:15:08,Van Goghloop Zundert 04-06-2016,2016-06-04
+16,1057,Jan Moeskops,Baarle-Nassau,Mtrim,15,00:44:56,00:44:51,00:14:59,00:15:02,00:14:52,Van Goghloop Zundert 04-06-2016,2016-06-04
+17,1013,Léon Mahieu,Breda,Mtrim,16,00:45:08,00:45:06,00:14:24,00:15:15,00:15:28,Van Goghloop Zundert 04-06-2016,2016-06-04
+18,1005,Charlo Jochems,Achtmaal,Mtrim,17,00:45:11,00:45:09,00:14:06,00:15:19,00:15:45,Van Goghloop Zundert 04-06-2016,2016-06-04
+19,1089,Piet Danen,Oud Gastel,Mtrim,18,00:45:41,00:45:32,00:15:17,00:15:11,00:15:06,Van Goghloop Zundert 04-06-2016,2016-06-04
+20,1027,Sander van Gils,Wagenberg,Mtrim,19,00:45:46,00:45:42,00:15:04,00:15:33,00:15:07,Van Goghloop Zundert 04-06-2016,2016-06-04
+21,1020,Daniel Elst,Klein Zundert,Mtrim,20,00:45:56,00:45:46,00:15:02,00:15:33,00:15:11,Van Goghloop Zundert 04-06-2016,2016-06-04
+22,1042,Bob Bavoloop,Rijsbergen,Mtrim,21,00:46:39,00:46:32,00:15:29,00:15:44,00:15:20,Van Goghloop Zundert 04-06-2016,2016-06-04
+23,1038,Peter Bavoloop,Rijsbergen,Mtrim,22,00:46:42,00:46:35,00:15:29,00:15:44,00:15:23,Van Goghloop Zundert 04-06-2016,2016-06-04
+24,1040,Edwin Bavoloop,Breda,Mtrim,23,00:46:43,00:46:36,00:15:29,00:15:43,00:15:24,Van Goghloop Zundert 04-06-2016,2016-06-04
+25,1047,Hein Verpaalen,Zundert,Mtrim,24,00:46:55,00:46:49,00:14:43,00:15:54,00:16:13,Van Goghloop Zundert 04-06-2016,2016-06-04
+26,1058,Linda Gommers,Zundert,Vtrim,2,00:47:09,00:47:05,00:15:28,00:15:50,00:15:48,Van Goghloop Zundert 04-06-2016,2016-06-04
+27,1029,Jan Monden,Rijsbergen,Mtrim,25,00:47:18,00:47:16,00:14:59,00:16:13,00:16:04,Van Goghloop Zundert 04-06-2016,2016-06-04
+28,1024,Luc Bevers,Loenhout,Mtrim,26,00:47:29,00:47:26,00:14:40,00:16:00,00:16:47,Van Goghloop Zundert 04-06-2016,2016-06-04
+29,1061,Frank van Aert,Achtmaal,Mtrim,27,00:47:42,00:47:38,00:15:13,00:16:10,00:16:17,Van Goghloop Zundert 04-06-2016,2016-06-04
+30,1096,Toine Dingemans,Sprint,Mtrim,28,00:48:04,00:48:01,00:15:07,00:16:21,00:16:33,Van Goghloop Zundert 04-06-2016,2016-06-04
+31,1068,Olaf Linders,St. Willebrord,Mtrim,29,00:48:48,00:48:42,00:16:02,00:16:28,00:16:13,Van Goghloop Zundert 04-06-2016,2016-06-04
+32,1021,Monique Buijnsters,Klein Zundert,Vtrim,3,00:49:16,00:49:12,00:16:01,00:16:50,00:16:22,Van Goghloop Zundert 04-06-2016,2016-06-04
+33,1050,Bert van der Made,Rijsbergen,Mtrim,30,00:49:17,00:49:11,00:16:01,00:16:50,00:16:22,Van Goghloop Zundert 04-06-2016,2016-06-04
+34,1062,Paul Bastiaansen,Zundert,Mtrim,31,00:49:20,00:49:13,00:15:54,00:16:37,00:16:43,Van Goghloop Zundert 04-06-2016,2016-06-04
+35,1063,Sylvie Vanlaerhoven,Klein Zundert,Vtrim,4,00:50:00,00:49:54,00:16:01,00:16:53,00:17:01,Van Goghloop Zundert 04-06-2016,2016-06-04
+36,1097,Andre Rozenborg,Made,Mtrim,32,00:50:14,00:50:03,00:16:11,00:16:53,00:17:01,Van Goghloop Zundert 04-06-2016,2016-06-04
+37,1010,Marco van Nijnatten,Zundert,Mtrim,33,00:50:24,00:50:21,00:15:53,00:17:27,00:17:02,Van Goghloop Zundert 04-06-2016,2016-06-04
+38,1007,Jeroen de Zwaan,Breda,Mtrim,34,00:50:51,00:50:47,00:15:45,00:17:33,00:17:30,Van Goghloop Zundert 04-06-2016,2016-06-04
+39,1052,Frans Nouws,Zundert,Mtrim,35,00:51:52,00:51:44,00:17:02,00:17:14,00:17:29,Van Goghloop Zundert 04-06-2016,2016-06-04
+40,1030,Lieke Droog,Eindhoven,Vtrim,5,00:51:58,00:51:50,00:17:28,00:17:18,00:17:05,Van Goghloop Zundert 04-06-2016,2016-06-04
+41,1015,Jos Vriends,Zundert,Mtrim,36,00:52:04,00:51:59,00:16:09,00:17:46,00:18:05,Van Goghloop Zundert 04-06-2016,2016-06-04
+42,1022,Ton van dongen,Zundert,Mtrim,37,00:52:27,00:52:19,00:15:55,00:18:18,00:18:06,Van Goghloop Zundert 04-06-2016,2016-06-04
+43,1008,Joanna Tuynman,Breda,Vtrim,6,00:52:40,00:52:35,00:17:22,00:17:35,00:17:39,Van Goghloop Zundert 04-06-2016,2016-06-04
+44,1019,Jane Filius,Breda,Vtrim,7,00:52:45,00:52:40,00:16:53,00:17:43,00:18:05,Van Goghloop Zundert 04-06-2016,2016-06-04
+45,1039,Wim Bavoloop,Roosendaal,Mtrim,38,00:52:53,00:52:45,00:17:11,00:17:50,00:17:45,Van Goghloop Zundert 04-06-2016,2016-06-04
+46,1092,Frank Gort,Loopvereniging TOF,Mtrim,39,00:53:04,00:52:56,00:17:12,00:17:46,00:17:59,Van Goghloop Zundert 04-06-2016,2016-06-04
+47,1012,Micheline de Bruijn,Oosterhout Nb,Vtrim,8,00:53:44,00:53:39,00:16:45,00:18:24,00:18:32,Van Goghloop Zundert 04-06-2016,2016-06-04
+48,1076,Ruud Vissers,Zundert,Mtrim,40,00:54:02,00:53:54,00:17:34,00:18:10,00:18:11,Van Goghloop Zundert 04-06-2016,2016-06-04
+49,1091,Christ de Bruijn,Sprundel,Mtrim,41,00:54:46,00:54:40,00:17:46,00:18:33,00:18:22,Van Goghloop Zundert 04-06-2016,2016-06-04
+50,1059,Cees van Opstal,Wernhout,Mtrim,42,00:55:30,00:55:28,00:17:07,00:18:43,00:19:39,Van Goghloop Zundert 04-06-2016,2016-06-04
+51,1002,Rob Matthijsen,Steenbergen Nb,Mtrim,43,00:56:19,00:56:12,00:18:30,00:19:16,00:18:27,Van Goghloop Zundert 04-06-2016,2016-06-04
+52,1041,Alex Bavoloop,Rijsbergen,Mtrim,44,00:56:57,00:56:49,00:18:06,00:19:53,00:18:51,Van Goghloop Zundert 04-06-2016,2016-06-04
+53,1004,Mieke Bellemakers,Oisterwijk,Vtrim,9,00:57:11,00:57:06,00:18:07,00:19:55,00:19:04,Van Goghloop Zundert 04-06-2016,2016-06-04
+54,1100,Angela Wirken,Rucphen,Vtrim,10,00:57:32,00:57:23,00:18:26,00:19:40,00:19:18,Van Goghloop Zundert 04-06-2016,2016-06-04
+55,1101,Dennis Wirken,Rucphen,Mtrim,45,00:57:32,00:57:23,00:18:26,00:19:40,00:19:19,Van Goghloop Zundert 04-06-2016,2016-06-04
+56,1086,Marco van Hassel,DJA,Mtrim,46,00:57:41,00:57:34,00:18:32,00:19:31,00:19:33,Van Goghloop Zundert 04-06-2016,2016-06-04
+57,1028,Ad kustermans,Etten-Leur,Mtrim,47,00:57:41,00:57:35,00:18:29,00:19:35,00:19:33,Van Goghloop Zundert 04-06-2016,2016-06-04
+58,1087,Jolanda van Hassel,DJA,Vtrim,11,00:59:55,00:59:49,00:19:01,00:20:02,00:20:47,Van Goghloop Zundert 04-06-2016,2016-06-04
+59,1060,Marleen Kooijman,Roosendaal,Vtrim,12,01:01:14,01:01:10,00:19:07,00:20:54,00:21:10,Van Goghloop Zundert 04-06-2016,2016-06-04
+60,1037,Anton Bavoloop,Ulvenhout,Mtrim,48,01:02:51,01:02:43,00:19:10,00:21:17,00:22:17,Van Goghloop Zundert 04-06-2016,2016-06-04
+61,1077,Judith van den Broek,Zundert,Vtrim,13,01:08:46,01:08:41,00:21:08,00:23:31,00:24:03,Van Goghloop Zundert 04-06-2016,2016-06-04
+62,1018,Rinus Filius,Wernhout,Mtrim,49,01:11:47,01:11:42,00:22:58,00:24:14,00:24:31,Van Goghloop Zundert 04-06-2016,2016-06-04

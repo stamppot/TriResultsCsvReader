@@ -1,0 +1,565 @@
+Plts,StartNr,Naam,MV,Ronde1,Ronde2,Finish,race,date
+1,875,Maarten Wijnants,M,01:12:00,01:14:31,02:26:30,Hondsrug Classic ,2017-10-15
+2,10,Gert-Jan Bosman,M,01:12:00,01:14:31,02:26:30,Hondsrug Classic ,2017-10-15
+3,21,Twan Brusselman,M,01:11:59,01:14:32,02:26:31,Hondsrug Classic ,2017-10-15
+4,52,Tim Smeenge,M,01:11:59,01:14:32,02:26:31,Hondsrug Classic ,2017-10-15
+5,31,Mark de Maar,M,01:12:01,01:14:32,02:26:32,Hondsrug Classic ,2017-10-15
+6,15,Rick Ottema,M,01:13:03,01:14:08,02:27:10,Hondsrug Classic ,2017-10-15
+7,4,Rob Gambon,M,01:13:20,01:13:54,02:27:14,Hondsrug Classic ,2017-10-15
+8,3,Erik Groen,M,01:12:00,01:16:28,02:28:27,Hondsrug Classic ,2017-10-15
+9,1,Frank Beemer,M,01:11:59,01:16:39,02:28:37,Hondsrug Classic ,2017-10-15
+10,43,Anne-Mark van der Vlag,M,01:13:03,01:15:55,02:28:57,Hondsrug Classic ,2017-10-15
+11,22,Rens te Voet,M,01:13:03,01:16:27,02:29:29,Hondsrug Classic ,2017-10-15
+12,17,Joris Blokker,M,01:13:08,01:16:43,02:29:50,Hondsrug Classic ,2017-10-15
+13,35,Roel Verhoeven,M,01:12:00,01:18:36,02:30:35,Hondsrug Classic ,2017-10-15
+14,36,Jan Weevers,M,01:13:44,01:17:06,02:30:49,Hondsrug Classic ,2017-10-15
+15,33,Bart Pennings,M,01:13:45,01:18:32,02:32:16,Hondsrug Classic ,2017-10-15
+16,12,Edwim Geerdimk,M,01:13:30,01:19:14,02:32:43,Hondsrug Classic ,2017-10-15
+17,45,Micha Gankema,M,01:14:36,01:18:30,02:33:06,Hondsrug Classic ,2017-10-15
+18,881,Niels Goeree,M,01:14:36,01:18:34,02:33:09,Hondsrug Classic ,2017-10-15
+19,16,Jochem Hoekstra,M,01:14:37,01:18:43,02:33:20,Hondsrug Classic ,2017-10-15
+20,32,Micha de Vries,M,01:14:37,01:18:44,02:33:20,Hondsrug Classic ,2017-10-15
+21,80,Henk Bos,M,01:14:33,01:19:07,02:33:39,Hondsrug Classic ,2017-10-15
+22,113,Onno Reijnhout,M,01:13:28,01:20:24,02:33:51,Hondsrug Classic ,2017-10-15
+23,18,Rick van Breda,M,01:14:30,01:19:37,02:34:07,Hondsrug Classic ,2017-10-15
+24,20,Daan Germs,M,01:17:04,01:17:59,02:35:03,Hondsrug Classic ,2017-10-15
+25,72,Marten Haitjema,M,01:13:45,01:21:28,02:35:13,Hondsrug Classic ,2017-10-15
+26,139,Mark Schepp,M,01:15:30,01:20:45,02:36:14,Hondsrug Classic ,2017-10-15
+27,50,Bruno Nakken,M,01:16:02,01:20:18,02:36:20,Hondsrug Classic ,2017-10-15
+28,62,Paul Snip,M,01:17:04,01:19:31,02:36:34,Hondsrug Classic ,2017-10-15
+29,51,Teus Ruijter,M,01:16:02,01:20:36,02:36:37,Hondsrug Classic ,2017-10-15
+30,882,Rick Goeree,M,01:16:02,01:22:28,02:38:30,Hondsrug Classic ,2017-10-15
+31,26,Ton Timmermans,M,01:16:02,01:22:56,02:38:57,Hondsrug Classic ,2017-10-15
+32,66,Jelle Looijen,M,01:17:04,01:21:55,02:38:58,Hondsrug Classic ,2017-10-15
+33,73,Siert Minkema,M,01:18:00,01:21:27,02:39:27,Hondsrug Classic ,2017-10-15
+34,888,Thijmen Eising,M,01:13:28,01:26:40,02:40:07,Hondsrug Classic ,2017-10-15
+35,133,Giel KleinJan,M,01:19:21,01:21:34,02:40:55,Hondsrug Classic ,2017-10-15
+36,92,Daniel de Bruin,M,01:19:24,01:21:39,02:41:02,Hondsrug Classic ,2017-10-15
+37,112,Mark Hessels,M,01:19:24,01:21:40,02:41:04,Hondsrug Classic ,2017-10-15
+38,49,Martijn Knol,M,01:18:00,01:23:22,02:41:22,Hondsrug Classic ,2017-10-15
+39,23,Wilbert Broekhuizen,M,01:19:21,01:22:01,02:41:22,Hondsrug Classic ,2017-10-15
+40,5,Martijn Keizer,M,01:16:01,01:25:24,02:41:25,Hondsrug Classic ,2017-10-15
+41,88,Christiaan nip,M,01:18:01,01:23:25,02:41:25,Hondsrug Classic ,2017-10-15
+42,100,Richard Feiken,M,01:17:16,01:24:42,02:41:57,Hondsrug Classic ,2017-10-15
+43,122,Adriaan Botma,M,01:21:27,01:20:34,02:42:00,Hondsrug Classic ,2017-10-15
+44,879,Bertus Sanders,M,01:20:34,01:21:27,02:42:00,Hondsrug Classic ,2017-10-15
+45,137,Niek Geerts,M,01:18:00,01:24:39,02:42:39,Hondsrug Classic ,2017-10-15
+46,876,Jeffrey Veltink,M,01:19:22,01:23:18,02:42:40,Hondsrug Classic ,2017-10-15
+47,25,Stan Wijkel,M,01:17:05,01:25:43,02:42:47,Hondsrug Classic ,2017-10-15
+48,68,Yvar Kortleve,M,01:18:58,01:25:56,02:44:54,Hondsrug Classic ,2017-10-15
+49,61,Tim de Jong,M,01:18:59,01:26:03,02:45:01,Hondsrug Classic ,2017-10-15
+50,165,Giorgio Renleo,M,01:20:34,01:24:53,02:45:27,Hondsrug Classic ,2017-10-15
+51,167,Siebe Vrieswijk,M,01:20:35,01:24:52,02:45:27,Hondsrug Classic ,2017-10-15
+52,161,Toon Schoonderbeek,M,01:20:58,01:24:41,02:45:39,Hondsrug Classic ,2017-10-15
+53,75,Stijn Boek,M,01:19:20,01:26:41,02:46:01,Hondsrug Classic ,2017-10-15
+54,63,Pim Funken,M,01:18:01,01:28:35,02:46:36,Hondsrug Classic ,2017-10-15
+55,55,Jelmer Brinkhuis,M,01:18:59,01:27:45,02:46:43,Hondsrug Classic ,2017-10-15
+56,141,Benito Pekel,M,01:20:47,01:26:02,02:46:48,Hondsrug Classic ,2017-10-15
+57,568,Erwin Mesu,M,01:19:21,01:27:55,02:47:16,Hondsrug Classic ,2017-10-15
+58,384,Hermann sinnigen,M,01:23:39,01:23:44,02:47:22,Hondsrug Classic ,2017-10-15
+59,154,Emiel Kunkeler,M,01:20:47,01:26:36,02:47:22,Hondsrug Classic ,2017-10-15
+60,157,Atze Hospes,M,01:23:39,01:24:19,02:47:58,Hondsrug Classic ,2017-10-15
+61,110,Arjan Broekema,M,01:21:44,01:26:16,02:47:59,Hondsrug Classic ,2017-10-15
+62,59,Tom Schellekens,M,01:20:24,01:27:36,02:48:00,Hondsrug Classic ,2017-10-15
+63,53,Andries Weening,M,01:19:23,01:28:41,02:48:03,Hondsrug Classic ,2017-10-15
+64,339,Steven Neijenhuis,M,01:23:39,01:24:43,02:48:22,Hondsrug Classic ,2017-10-15
+65,54,Björn bakker,M,01:23:16,01:25:39,02:48:54,Hondsrug Classic ,2017-10-15
+66,30,Bart Voskamp,M,01:22:26,01:26:29,02:48:55,Hondsrug Classic ,2017-10-15
+67,195,Robbert van Toorn,M,01:23:33,01:25:48,02:49:21,Hondsrug Classic ,2017-10-15
+68,101,Roland lamein,M,01:21:11,01:28:11,02:49:21,Hondsrug Classic ,2017-10-15
+69,79,Justin Kloese,M,01:20:35,01:28:47,02:49:21,Hondsrug Classic ,2017-10-15
+70,825,Annemiek van Vleuten,V,01:24:28,01:25:39,02:50:06,Hondsrug Classic ,2017-10-15
+71,136,Vincent Huiting,M,01:20:24,01:30:31,02:50:54,Hondsrug Classic ,2017-10-15
+72,105,Martin Grummel,M,01:23:43,01:27:20,02:51:02,Hondsrug Classic ,2017-10-15
+73,93,Sjon van Veen,M,01:24:00,01:27:05,02:51:04,Hondsrug Classic ,2017-10-15
+74,83,Johan Gielstra,M,01:23:44,01:27:22,02:51:06,Hondsrug Classic ,2017-10-15
+75,40,Jeffrie van der Velde,M,01:24:30,01:26:46,02:51:15,Hondsrug Classic ,2017-10-15
+76,82,Gerben de Groot,M,01:19:21,01:31:56,02:51:16,Hondsrug Classic ,2017-10-15
+77,592,B van Diemen,M,01:27:04,01:24:21,02:51:25,Hondsrug Classic ,2017-10-15
+78,366,Edwin soepenberg,M,01:27:05,01:24:20,02:51:25,Hondsrug Classic ,2017-10-15
+79,368,Eduard Laarman,M,01:27:08,01:24:17,02:51:25,Hondsrug Classic ,2017-10-15
+80,289,William Weeseman,M,01:26:08,01:25:20,02:51:28,Hondsrug Classic ,2017-10-15
+81,282,Marten van Dijk,M,01:27:04,01:24:26,02:51:30,Hondsrug Classic ,2017-10-15
+82,815,Monique Zeldenrust,V,01:26:08,01:25:23,02:51:31,Hondsrug Classic ,2017-10-15
+83,874,Jan Strijker,M,01:25:29,01:26:30,02:51:58,Hondsrug Classic ,2017-10-15
+84,147,Paul Timmer,M,01:25:10,01:27:11,02:52:21,Hondsrug Classic ,2017-10-15
+85,140,Jeroen Heijne,M,01:25:13,01:27:10,02:52:23,Hondsrug Classic ,2017-10-15
+86,817,Kirsten Peetoom,V,01:25:33,01:27:08,02:52:40,Hondsrug Classic ,2017-10-15
+87,60,Tycho Dijkstra,M,01:22:19,01:30:22,02:52:41,Hondsrug Classic ,2017-10-15
+88,116,John Meijer,M,01:23:43,01:29:15,02:52:58,Hondsrug Classic ,2017-10-15
+89,96,Gosse Bergsma,M,01:25:29,01:27:30,02:52:59,Hondsrug Classic ,2017-10-15
+90,272,Wierd Bareld Kooistra,M,01:26:32,01:27:16,02:53:48,Hondsrug Classic ,2017-10-15
+91,163,Gijs Brouwer,M,01:22:58,01:30:55,02:53:52,Hondsrug Classic ,2017-10-15
+92,183,Johan Dussel,M,01:22:26,01:31:31,02:53:57,Hondsrug Classic ,2017-10-15
+93,42,Roelof de Jong,M,01:22:19,01:31:43,02:54:01,Hondsrug Classic ,2017-10-15
+94,554,Pieter Nienhuis,M,01:23:48,01:30:14,02:54:01,Hondsrug Classic ,2017-10-15
+95,132,Dennis Koster,M,01:20:59,01:33:55,02:54:53,Hondsrug Classic ,2017-10-15
+96,108,Sander Koops,M,01:25:32,01:29:36,02:55:08,Hondsrug Classic ,2017-10-15
+97,95,Wietze Gorter,M,01:25:36,01:29:39,02:55:14,Hondsrug Classic ,2017-10-15
+98,193,Maikel van Weert,M,01:26:06,01:29:13,02:55:18,Hondsrug Classic ,2017-10-15
+99,128,Matthias dijkstra,M,01:21:22,01:34:07,02:55:28,Hondsrug Classic ,2017-10-15
+100,392,Arne Keissen,M,01:28:08,01:27:22,02:55:30,Hondsrug Classic ,2017-10-15
+101,118,Cor van Tuyl,M,01:24:29,01:31:05,02:55:34,Hondsrug Classic ,2017-10-15
+102,208,Matthieu Klooster,M,01:26:38,01:29:05,02:55:43,Hondsrug Classic ,2017-10-15
+103,107,Bart van de Walle,M,01:27:09,01:28:57,02:56:05,Hondsrug Classic ,2017-10-15
+104,119,Dennis Zijlstra,M,01:25:39,01:30:44,02:56:22,Hondsrug Classic ,2017-10-15
+105,19,Christiaan Janssen,M,01:24:30,01:31:53,02:56:23,Hondsrug Classic ,2017-10-15
+106,58,Kees Kunkeler,M,01:24:29,01:32:07,02:56:36,Hondsrug Classic ,2017-10-15
+107,125,Jelle Dijk,M,01:26:43,01:29:57,02:56:40,Hondsrug Classic ,2017-10-15
+108,808,Kiki van Asselt,V,01:27:07,01:29:35,02:56:42,Hondsrug Classic ,2017-10-15
+109,204,Robert Romijn,M,01:28:46,01:27:57,02:56:42,Hondsrug Classic ,2017-10-15
+110,444,Ron Waanders,M,01:27:05,01:29:38,02:56:42,Hondsrug Classic ,2017-10-15
+111,802,Susan Visscher,V,01:27:06,01:29:37,02:56:42,Hondsrug Classic ,2017-10-15
+112,877,Raimond Boom,M,01:25:36,01:31:07,02:56:43,Hondsrug Classic ,2017-10-15
+113,258,Roy Gambon,M,01:28:19,01:28:33,02:56:52,Hondsrug Classic ,2017-10-15
+114,228,Henk Lugtmeijer,M,01:25:58,01:30:56,02:56:53,Hondsrug Classic ,2017-10-15
+115,213,Jarno Bosma,M,01:27:23,01:29:33,02:56:55,Hondsrug Classic ,2017-10-15
+116,115,Marco van Dijken,M,01:24:28,01:32:27,02:56:55,Hondsrug Classic ,2017-10-15
+117,294,Dion Dijkman,M,01:28:33,01:28:44,02:57:16,Hondsrug Classic ,2017-10-15
+118,151,Ruud Fransen,M,01:24:28,01:32:50,02:57:17,Hondsrug Classic ,2017-10-15
+119,90,Peter Arends,M,01:21:14,01:36:10,02:57:23,Hondsrug Classic ,2017-10-15
+120,156,Bauke Bouwstra,M,01:27:08,01:30:21,02:57:29,Hondsrug Classic ,2017-10-15
+121,886,Arjen Smedes,M,01:28:19,01:29:39,02:57:57,Hondsrug Classic ,2017-10-15
+122,138,Hielke Heijs,M,01:19:22,01:38:40,02:58:02,Hondsrug Classic ,2017-10-15
+123,168,Cees van Zanden,M,01:24:31,01:33:33,02:58:04,Hondsrug Classic ,2017-10-15
+124,222,Richard Eikens,M,01:27:07,01:31:01,02:58:07,Hondsrug Classic ,2017-10-15
+125,871,Henk Wolthuis,M,01:27:09,01:31:02,02:58:10,Hondsrug Classic ,2017-10-15
+126,177,Leroy van der Werve,M,01:26:33,01:31:52,02:58:24,Hondsrug Classic ,2017-10-15
+127,146,Bas Eefting,M,01:28:52,01:29:45,02:58:37,Hondsrug Classic ,2017-10-15
+128,111,Marcel van der Mei,M,01:28:18,01:30:31,02:58:49,Hondsrug Classic ,2017-10-15
+129,203,Ronnie Vos,M,01:26:40,01:32:21,02:59:01,Hondsrug Classic ,2017-10-15
+130,106,Hans Jager,M,01:26:20,01:32:53,02:59:12,Hondsrug Classic ,2017-10-15
+131,130,Fokke Postma,M,01:23:44,01:35:33,02:59:17,Hondsrug Classic ,2017-10-15
+132,175,Meindert Kwant,M,01:28:09,01:31:23,02:59:31,Hondsrug Classic ,2017-10-15
+133,241,Barry Kroeze,M,01:28:00,01:31:35,02:59:35,Hondsrug Classic ,2017-10-15
+134,441,Stephan van Straaten,M,01:30:27,01:29:09,02:59:35,Hondsrug Classic ,2017-10-15
+135,569,Albert Hulzebos,M,01:28:20,01:31:27,02:59:46,Hondsrug Classic ,2017-10-15
+136,443,Xander Uiterlinde,M,01:32:05,01:27:49,02:59:53,Hondsrug Classic ,2017-10-15
+137,373,Huub Poppe,M,01:33:08,01:26:47,02:59:54,Hondsrug Classic ,2017-10-15
+138,356,Fausto van Tuyl,M,01:27:59,01:32:30,03:00:29,Hondsrug Classic ,2017-10-15
+139,220,Wim Hanning,M,01:28:18,01:32:20,03:00:37,Hondsrug Classic ,2017-10-15
+140,424,Jan Brouwer,M,01:30:27,01:30:13,03:00:39,Hondsrug Classic ,2017-10-15
+141,884,Karsten Veen,M,01:28:32,01:32:24,03:00:55,Hondsrug Classic ,2017-10-15
+142,120,Eddy Heuvelink,M,01:28:59,01:32:01,03:01:00,Hondsrug Classic ,2017-10-15
+143,164,Walter Mulder,M,01:27:10,01:34:19,03:01:28,Hondsrug Classic ,2017-10-15
+144,24,Jelle Wolsink,M,01:34:06,01:27:23,03:01:28,Hondsrug Classic ,2017-10-15
+145,85,Kees de Vries,M,01:28:34,01:32:55,03:01:29,Hondsrug Classic ,2017-10-15
+146,308,Tom Ottens,M,01:30:35,01:31:04,03:01:39,Hondsrug Classic ,2017-10-15
+147,414,Robert Beute,M,01:30:06,01:31:41,03:01:47,Hondsrug Classic ,2017-10-15
+148,91,Ronald Hollander,M,01:29:33,01:32:18,03:01:51,Hondsrug Classic ,2017-10-15
+149,432,Bram Kamphuis,M,01:31:30,01:30:21,03:01:51,Hondsrug Classic ,2017-10-15
+150,464,René Zandstra,M,01:32:20,01:29:33,03:01:52,Hondsrug Classic ,2017-10-15
+151,298,Bert Scholten,M,01:31:26,01:30:28,03:01:53,Hondsrug Classic ,2017-10-15
+152,458,Lieuwe van der Veen,M,01:30:39,01:31:19,03:01:57,Hondsrug Classic ,2017-10-15
+153,98,Sjoerd Knol,M,01:28:54,01:33:18,03:02:11,Hondsrug Classic ,2017-10-15
+154,344,Sjoerd Rijpkema,M,01:33:07,01:29:14,03:02:20,Hondsrug Classic ,2017-10-15
+155,270,Jan Zwiers,M,01:30:11,01:32:10,03:02:21,Hondsrug Classic ,2017-10-15
+156,304,Arjan Goeree,M,01:30:12,01:32:25,03:02:36,Hondsrug Classic ,2017-10-15
+157,417,Nils Meijer,M,01:32:44,01:30:22,03:03:05,Hondsrug Classic ,2017-10-15
+158,390,Jeffrey smits,M,01:32:52,01:30:23,03:03:15,Hondsrug Classic ,2017-10-15
+159,259,Johan de Wit,M,01:31:30,01:32:03,03:03:32,Hondsrug Classic ,2017-10-15
+160,169,Anne Jan Dekker,M,01:27:18,01:36:16,03:03:34,Hondsrug Classic ,2017-10-15
+161,571,Jaap van Dijk,M,01:32:18,01:31:39,03:03:56,Hondsrug Classic ,2017-10-15
+162,242,Eric Kooistra,M,01:32:08,01:31:59,03:04:06,Hondsrug Classic ,2017-10-15
+163,263,Hendrik Peijsel,M,01:30:07,01:34:02,03:04:08,Hondsrug Classic ,2017-10-15
+164,804,Sanne Bouwmeester,V,01:31:32,01:32:41,03:04:12,Hondsrug Classic ,2017-10-15
+165,628,Hugo Koggel,M,01:31:33,01:32:40,03:04:12,Hondsrug Classic ,2017-10-15
+166,619,Gerwin Donkers,M,01:34:40,01:29:35,03:04:14,Hondsrug Classic ,2017-10-15
+167,207,Janko ter Heide,M,01:30:12,01:34:09,03:04:20,Hondsrug Classic ,2017-10-15
+168,291,Rick Staal,M,01:30:10,01:34:11,03:04:20,Hondsrug Classic ,2017-10-15
+169,305,Luc Engelkus,M,01:31:59,01:33:01,03:04:59,Hondsrug Classic ,2017-10-15
+170,142,Bas Langeveld,M,01:31:31,01:33:44,03:05:14,Hondsrug Classic ,2017-10-15
+171,827,Ingeborg Kreuze,V,01:30:27,01:34:48,03:05:15,Hondsrug Classic ,2017-10-15
+172,878,Stefan Zevenberg,M,01:30:11,01:35:21,03:05:32,Hondsrug Classic ,2017-10-15
+173,205,Arjen Lok,M,01:30:12,01:35:25,03:05:37,Hondsrug Classic ,2017-10-15
+174,527,Pieter Kortleve,M,01:28:59,01:36:49,03:05:47,Hondsrug Classic ,2017-10-15
+175,178,Marten Veen,M,01:28:34,01:37:15,03:05:49,Hondsrug Classic ,2017-10-15
+176,191,Marco Dik,M,01:28:07,01:38:00,03:06:06,Hondsrug Classic ,2017-10-15
+177,200,Egbert Zwiers,M,01:29:34,01:36:38,03:06:12,Hondsrug Classic ,2017-10-15
+178,7,Bert Jan Lindeman,M,01:25:35,01:40:41,03:06:15,Hondsrug Classic ,2017-10-15
+179,57,Danny van der tuuk,M,01:25:35,01:40:40,03:06:15,Hondsrug Classic ,2017-10-15
+180,425,Bert Darwinkel,M,01:34:05,01:32:22,03:06:26,Hondsrug Classic ,2017-10-15
+181,352,Eddie Merks,M,01:31:39,01:34:53,03:06:31,Hondsrug Classic ,2017-10-15
+182,333,Michael Schellekens,M,01:33:55,01:32:37,03:06:32,Hondsrug Classic ,2017-10-15
+183,149,Paul Huizinga,M,01:30:30,01:36:27,03:06:56,Hondsrug Classic ,2017-10-15
+184,810,Sanne Westerveld,V,01:31:32,01:35:25,03:06:57,Hondsrug Classic ,2017-10-15
+185,284,Stephan Gunnink,M,01:30:39,01:36:36,03:07:14,Hondsrug Classic ,2017-10-15
+186,492,Willem van der Leij,M,01:36:47,01:30:32,03:07:19,Hondsrug Classic ,2017-10-15
+187,102,Jan-Wessel Hovingh,M,01:27:10,01:40:37,03:07:47,Hondsrug Classic ,2017-10-15
+188,429,Lars Hamburg,M,01:34:21,01:33:51,03:08:11,Hondsrug Classic ,2017-10-15
+189,327,Jos Vrienk,M,01:31:40,01:36:36,03:08:15,Hondsrug Classic ,2017-10-15
+190,212,Egbert Houkes,M,01:31:26,01:36:54,03:08:19,Hondsrug Classic ,2017-10-15
+191,28,Gert Jakobs,M,01:30:39,01:37:54,03:08:33,Hondsrug Classic ,2017-10-15
+192,883,Sander Iwema,M,01:20:08,01:48:31,03:08:38,Hondsrug Classic ,2017-10-15
+193,873,Gose Feringa,M,01:30:31,01:38:24,03:08:54,Hondsrug Classic ,2017-10-15
+194,427,Fred Exterkate,M,01:32:35,01:36:21,03:08:55,Hondsrug Classic ,2017-10-15
+195,301,Klaas Jan Rekeman,M,01:29:20,01:39:39,03:08:59,Hondsrug Classic ,2017-10-15
+196,378,Ronald de Jong,M,01:33:01,01:36:00,03:09:01,Hondsrug Classic ,2017-10-15
+197,488,Evert Koning,M,01:32:04,01:36:57,03:09:01,Hondsrug Classic ,2017-10-15
+198,287,Kor Reinink,M,01:34:06,01:34:59,03:09:04,Hondsrug Classic ,2017-10-15
+199,610,Wiger Hellema,M,01:39:42,01:29:27,03:09:08,Hondsrug Classic ,2017-10-15
+200,487,Jaap Emmens,M,01:35:56,01:33:24,03:09:20,Hondsrug Classic ,2017-10-15
+201,395,Paul Hensema,M,01:32:11,01:37:10,03:09:20,Hondsrug Classic ,2017-10-15
+202,309,Kevin Sluimer,M,01:32:17,01:37:18,03:09:34,Hondsrug Classic ,2017-10-15
+203,227,Detlev Riemer,M,01:33:24,01:36:13,03:09:37,Hondsrug Classic ,2017-10-15
+204,330,Mark Bruining,M,01:35:34,01:34:04,03:09:38,Hondsrug Classic ,2017-10-15
+205,498,Marcel ten Wolde,M,01:37:28,01:33:09,03:10:36,Hondsrug Classic ,2017-10-15
+206,180,Marcel Ubels,M,01:32:20,01:38:21,03:10:41,Hondsrug Classic ,2017-10-15
+207,477,Peter Meulman,M,01:37:09,01:33:33,03:10:42,Hondsrug Classic ,2017-10-15
+208,829,Mareille Meijering,V,01:30:06,01:40:41,03:10:47,Hondsrug Classic ,2017-10-15
+209,433,Oscar Kappert,M,01:33:06,01:37:45,03:10:51,Hondsrug Classic ,2017-10-15
+210,236,Robert Eseryel,M,01:34:21,01:36:32,03:10:52,Hondsrug Classic ,2017-10-15
+211,887,Andre Sasbrink,M,01:31:40,01:39:23,03:11:02,Hondsrug Classic ,2017-10-15
+212,617,F Luikens,M,01:35:23,01:35:51,03:11:14,Hondsrug Classic ,2017-10-15
+213,267,Bert Mensingh,M,01:32:59,01:38:20,03:11:18,Hondsrug Classic ,2017-10-15
+214,604,Jimmy Meijer,M,01:40:42,01:30:38,03:11:19,Hondsrug Classic ,2017-10-15
+215,293,Freddy Venema,M,01:34:21,01:37:02,03:11:22,Hondsrug Classic ,2017-10-15
+216,588,Arjan van Lier,M,01:36:52,01:34:41,03:11:32,Hondsrug Classic ,2017-10-15
+217,209,Alex Uuldersma,M,01:34:09,01:37:27,03:11:36,Hondsrug Classic ,2017-10-15
+218,201,Wubbe Roelfsema,M,01:34:56,01:36:48,03:11:43,Hondsrug Classic ,2017-10-15
+219,218,Paul Bijsterveld,M,01:33:55,01:37:51,03:11:46,Hondsrug Classic ,2017-10-15
+220,486,Bert van Veen,M,01:31:59,01:40:21,03:12:20,Hondsrug Classic ,2017-10-15
+221,302,Raymond Rekeman,M,01:33:01,01:39:30,03:12:31,Hondsrug Classic ,2017-10-15
+222,338,Jan Venema,M,01:35:35,01:37:04,03:12:39,Hondsrug Classic ,2017-10-15
+223,388,Gerard Horstink,M,01:34:23,01:38:17,03:12:39,Hondsrug Classic ,2017-10-15
+224,484,Klaas Smit,M,01:38:52,01:34:01,03:12:52,Hondsrug Classic ,2017-10-15
+225,150,Richard Kors,M,01:31:42,01:41:17,03:12:58,Hondsrug Classic ,2017-10-15
+226,355,Alno vd boogaard,M,01:35:34,01:37:25,03:12:59,Hondsrug Classic ,2017-10-15
+227,549,P de Boer,M,01:35:22,01:37:39,03:13:01,Hondsrug Classic ,2017-10-15
+228,805,Diana boeser,V,01:32:12,01:40:53,03:13:04,Hondsrug Classic ,2017-10-15
+229,253,Luuk Lesschen,M,01:34:22,01:39:06,03:13:27,Hondsrug Classic ,2017-10-15
+230,396,Gert Wigchers,M,01:36:47,01:36:58,03:13:45,Hondsrug Classic ,2017-10-15
+231,260,Philip Bosama,M,01:32:09,01:41:50,03:13:59,Hondsrug Classic ,2017-10-15
+232,194,Niels Dukker,M,01:31:44,01:42:18,03:14:01,Hondsrug Classic ,2017-10-15
+233,385,Bert Schoemaker,M,01:36:55,01:37:08,03:14:02,Hondsrug Classic ,2017-10-15
+234,297,Ewoud van der Schaaf,M,01:33:03,01:41:07,03:14:09,Hondsrug Classic ,2017-10-15
+235,565,M Volting,M,01:36:45,01:37:27,03:14:12,Hondsrug Classic ,2017-10-15
+236,482,Han Datema,M,01:39:35,01:34:49,03:14:24,Hondsrug Classic ,2017-10-15
+237,431,Rene Hofstee,M,01:35:21,01:39:21,03:14:42,Hondsrug Classic ,2017-10-15
+238,64,Bryan Braam,M,01:29:20,01:45:33,03:14:53,Hondsrug Classic ,2017-10-15
+239,303,Jan Goeree,M,01:33:06,01:41:54,03:14:59,Hondsrug Classic ,2017-10-15
+240,152,Dennis Steverink,M,01:27:06,01:47:55,03:15:00,Hondsrug Classic ,2017-10-15
+241,184,Sander ter Velde,M,01:33:56,01:41:05,03:15:01,Hondsrug Classic ,2017-10-15
+242,274,Patrick van Dijk,M,01:36:23,01:38:39,03:15:01,Hondsrug Classic ,2017-10-15
+243,179,Floris de Groot,M,01:32:17,01:42:45,03:15:02,Hondsrug Classic ,2017-10-15
+244,448,Roelof Maring,M,01:38:45,01:36:24,03:15:09,Hondsrug Classic ,2017-10-15
+245,393,Nol van Oosterbosch,M,01:34:43,01:40:32,03:15:14,Hondsrug Classic ,2017-10-15
+246,474,Tim Riemeijer,M,01:36:28,01:39:03,03:15:30,Hondsrug Classic ,2017-10-15
+247,337,Mark Kuijpers,M,01:36:52,01:38:42,03:15:33,Hondsrug Classic ,2017-10-15
+248,319,Thies Hiemstra,M,01:35:35,01:40:02,03:15:37,Hondsrug Classic ,2017-10-15
+249,593,Menno Cramer,M,01:40:19,01:35:28,03:15:47,Hondsrug Classic ,2017-10-15
+250,182,Maurice Walstra,M,01:35:06,01:40:55,03:16:01,Hondsrug Classic ,2017-10-15
+251,176,Jan de Vries,M,01:33:55,01:42:14,03:16:09,Hondsrug Classic ,2017-10-15
+252,245,Johan Wolters,M,01:36:51,01:39:36,03:16:26,Hondsrug Classic ,2017-10-15
+253,299,Sjoerd Couperus,M,01:41:35,01:34:58,03:16:32,Hondsrug Classic ,2017-10-15
+254,428,Boudewijn Geijtenbeek,M,01:39:30,01:37:40,03:17:09,Hondsrug Classic ,2017-10-15
+255,246,Willem Wolting,M,01:32:19,01:44:50,03:17:09,Hondsrug Classic ,2017-10-15
+256,367,Hans van der Kloo,M,01:33:32,01:43:41,03:17:12,Hondsrug Classic ,2017-10-15
+257,608,Laurens Koggel,M,01:39:29,01:37:49,03:17:18,Hondsrug Classic ,2017-10-15
+258,323,Fokko Kupers,M,01:36:50,01:40:56,03:17:46,Hondsrug Classic ,2017-10-15
+259,605,Josse van Rutten,M,01:41:39,01:36:07,03:17:46,Hondsrug Classic ,2017-10-15
+260,394,Eddy De vries,M,01:37:29,01:40:26,03:17:55,Hondsrug Classic ,2017-10-15
+261,252,Marco Verkade,M,01:36:41,01:41:15,03:17:55,Hondsrug Classic ,2017-10-15
+262,326,Robbin Drent,M,01:41:58,01:36:03,03:18:00,Hondsrug Classic ,2017-10-15
+263,285,Johan Ottens,M,01:35:02,01:43:04,03:18:05,Hondsrug Classic ,2017-10-15
+264,438,Bert Oolman,M,01:39:29,01:38:37,03:18:05,Hondsrug Classic ,2017-10-15
+265,349,Eric Schevers,M,01:38:36,01:39:31,03:18:06,Hondsrug Classic ,2017-10-15
+266,807,Marlous Hoogeveen,V,01:32:18,01:45:51,03:18:08,Hondsrug Classic ,2017-10-15
+267,226,Marc Supèr,M,01:36:43,01:41:27,03:18:10,Hondsrug Classic ,2017-10-15
+268,181,Rob de Vries,M,01:34:04,01:44:10,03:18:14,Hondsrug Classic ,2017-10-15
+269,583,Roland Dijkma,M,01:38:36,01:39:40,03:18:15,Hondsrug Classic ,2017-10-15
+270,597,Alwin Pijper,M,01:41:11,01:37:15,03:18:25,Hondsrug Classic ,2017-10-15
+271,596,Marjolein Dijkman,V,01:39:43,01:39:02,03:18:44,Hondsrug Classic ,2017-10-15
+272,158,Kees Westerdijk,M,01:35:07,01:43:51,03:18:58,Hondsrug Classic ,2017-10-15
+273,210,Erik Slomp,M,01:32:22,01:46:55,03:19:16,Hondsrug Classic ,2017-10-15
+274,616,Maarten Rechterschen,M,01:42:06,01:37:25,03:19:31,Hondsrug Classic ,2017-10-15
+275,560,Otto Koops,M,01:40:56,01:38:40,03:19:35,Hondsrug Classic ,2017-10-15
+276,380,Rene Tiktak,M,01:38:48,01:41:16,03:20:03,Hondsrug Classic ,2017-10-15
+277,468,Jan Reinder Smeenge,M,01:40:43,01:39:37,03:20:19,Hondsrug Classic ,2017-10-15
+278,563,Stephan,M,01:41:51,01:38:39,03:20:30,Hondsrug Classic ,2017-10-15
+279,247,Henk Wolting,M,01:36:54,01:43:39,03:20:32,Hondsrug Classic ,2017-10-15
+280,190,Joshua Blauw,M,01:37:59,01:42:36,03:20:34,Hondsrug Classic ,2017-10-15
+281,359,Rutger Kussendrager,M,01:38:44,01:41:51,03:20:34,Hondsrug Classic ,2017-10-15
+282,411,Thijs van Starkenborgh,M,01:39:56,01:40:43,03:20:39,Hondsrug Classic ,2017-10-15
+283,324,Henk Driebergen,M,01:37:11,01:43:34,03:20:45,Hondsrug Classic ,2017-10-15
+284,485,Rob Dedden,M,01:39:36,01:41:35,03:21:10,Hondsrug Classic ,2017-10-15
+285,370,Rene van der Haar,M,01:37:52,01:43:20,03:21:11,Hondsrug Classic ,2017-10-15
+286,612,Arjan Vaartjes,M,01:42:11,01:39:05,03:21:16,Hondsrug Classic ,2017-10-15
+287,459,Anne-Willem Braam,M,01:34:35,01:46:45,03:21:19,Hondsrug Classic ,2017-10-15
+288,533,Harm Jan Luursema,M,01:41:39,01:39:52,03:21:31,Hondsrug Classic ,2017-10-15
+289,300,Frans Gerding,M,01:35:20,01:46:14,03:21:33,Hondsrug Classic ,2017-10-15
+290,250,Paul Lubbersen,M,01:35:21,01:46:29,03:21:49,Hondsrug Classic ,2017-10-15
+291,493,Rense Veenstra,M,01:38:27,01:43:25,03:21:51,Hondsrug Classic ,2017-10-15
+292,537,Harold Ezinga,M,01:43:02,01:38:54,03:21:55,Hondsrug Classic ,2017-10-15
+293,216,Martijn Groote,M,01:38:36,01:43:28,03:22:04,Hondsrug Classic ,2017-10-15
+294,271,Sjonnie wubs,M,01:39:00,01:43:10,03:22:09,Hondsrug Classic ,2017-10-15
+295,235,Christiaan Kamphuis,M,01:36:54,01:45:15,03:22:09,Hondsrug Classic ,2017-10-15
+296,451,Sjaak Haans,M,01:39:26,01:42:46,03:22:12,Hondsrug Classic ,2017-10-15
+297,826,Maike van der Duin,V,01:36:38,01:45:48,03:22:25,Hondsrug Classic ,2017-10-15
+298,372,Sebastiaan van Dijk,M,01:34:05,01:48:26,03:22:31,Hondsrug Classic ,2017-10-15
+299,401,Sven Vintges,M,01:39:43,01:42:53,03:22:35,Hondsrug Classic ,2017-10-15
+300,564,Tinus van Nuik,M,01:44:06,01:38:46,03:22:51,Hondsrug Classic ,2017-10-15
+301,538,Kenneth Benjamins,M,01:36:50,01:46:53,03:23:42,Hondsrug Classic ,2017-10-15
+302,551,Peter Groenendaal,M,01:44:57,01:38:56,03:23:53,Hondsrug Classic ,2017-10-15
+303,317,Joeri Vriend,M,01:38:55,01:44:59,03:23:53,Hondsrug Classic ,2017-10-15
+304,189,Franc Sonnemans,M,01:37:15,01:46:41,03:23:55,Hondsrug Classic ,2017-10-15
+305,430,Japues Hielkema,M,01:41:55,01:42:09,03:24:03,Hondsrug Classic ,2017-10-15
+306,426,Jan Willem van Empel,M,01:38:40,01:45:24,03:24:03,Hondsrug Classic ,2017-10-15
+307,561,Roelof Hulzebosch,M,01:44:20,01:40:32,03:24:51,Hondsrug Classic ,2017-10-15
+308,186,Tim Dussel,M,01:32:09,01:53:02,03:25:11,Hondsrug Classic ,2017-10-15
+309,578,Xander Draaijer,M,01:38:56,01:46:16,03:25:11,Hondsrug Classic ,2017-10-15
+310,418,Albert Meijer,M,01:41:25,01:43:48,03:25:12,Hondsrug Classic ,2017-10-15
+311,354,Arjan boelema,M,01:40:41,01:44:40,03:25:20,Hondsrug Classic ,2017-10-15
+312,364,Henry Brandsma,M,01:42:50,01:42:40,03:25:29,Hondsrug Classic ,2017-10-15
+313,265,Jos Medema,M,01:41:20,01:44:29,03:25:49,Hondsrug Classic ,2017-10-15
+314,237,Theo Becker,M,01:40:06,01:45:44,03:25:49,Hondsrug Classic ,2017-10-15
+315,478,Harry ter Schuur,M,01:37:29,01:48:22,03:25:51,Hondsrug Classic ,2017-10-15
+316,223,Martijn van de Laar,M,01:41:19,01:44:45,03:26:03,Hondsrug Classic ,2017-10-15
+317,626,Masteling,M,01:43:55,01:42:11,03:26:05,Hondsrug Classic ,2017-10-15
+318,586,Johannes Wanders,M,01:44:02,01:42:05,03:26:07,Hondsrug Classic ,2017-10-15
+319,818,Sophie van Bakel,V,01:40:12,01:45:56,03:26:07,Hondsrug Classic ,2017-10-15
+320,536,Gerrit van Ieperen,M,01:39:06,01:47:06,03:26:12,Hondsrug Classic ,2017-10-15
+321,544,Mark Vos,M,01:44:48,01:41:32,03:26:19,Hondsrug Classic ,2017-10-15
+322,214,Cas Franke,M,01:37:31,01:49:43,03:27:14,Hondsrug Classic ,2017-10-15
+323,445,Jan Zwiers,M,01:38:23,01:48:55,03:27:18,Hondsrug Classic ,2017-10-15
+324,331,Gert Braam,M,01:39:12,01:48:29,03:27:41,Hondsrug Classic ,2017-10-15
+325,437,Darwin Nales,M,01:43:43,01:44:05,03:27:47,Hondsrug Classic ,2017-10-15
+326,505,Jack Stam,M,01:42:48,01:45:09,03:27:57,Hondsrug Classic ,2017-10-15
+327,350,Mark-jan nijboer,M,01:40:47,01:47:11,03:27:58,Hondsrug Classic ,2017-10-15
+328,566,Willem Dijk,M,01:40:40,01:47:27,03:28:06,Hondsrug Classic ,2017-10-15
+329,296,Remco de Jong,M,01:41:56,01:46:13,03:28:08,Hondsrug Classic ,2017-10-15
+330,476,Erwin Oeben,M,01:44:12,01:43:58,03:28:09,Hondsrug Classic ,2017-10-15
+331,602,Maurits van der Heijde,M,01:37:42,01:50:38,03:28:20,Hondsrug Classic ,2017-10-15
+332,562,Albert Hulzebosch,M,01:45:57,01:42:30,03:28:26,Hondsrug Classic ,2017-10-15
+333,457,Rob Vianen,M,01:40:00,01:48:29,03:28:28,Hondsrug Classic ,2017-10-15
+334,613,Tim Lamers,M,01:45:42,01:42:57,03:28:39,Hondsrug Classic ,2017-10-15
+335,539,Roland Beumer,M,01:48:02,01:40:39,03:28:41,Hondsrug Classic ,2017-10-15
+336,540,Peter van de Veen,M,01:44:00,01:44:48,03:28:47,Hondsrug Classic ,2017-10-15
+337,416,Peter Leever,M,01:42:46,01:46:02,03:28:48,Hondsrug Classic ,2017-10-15
+338,440,Jan van Oosterom,M,01:35:57,01:52:52,03:28:49,Hondsrug Classic ,2017-10-15
+339,275,Sidaan Feiertag,M,01:39:10,01:49:47,03:28:57,Hondsrug Classic ,2017-10-15
+340,306,David Stoppelenburg,M,01:44:40,01:44:27,03:29:07,Hondsrug Classic ,2017-10-15
+341,406,Ferry de Jong,M,01:44:56,01:44:14,03:29:09,Hondsrug Classic ,2017-10-15
+342,803,Miriam Lassche,V,01:42:18,01:46:52,03:29:09,Hondsrug Classic ,2017-10-15
+343,821,Eva Hofstee,V,01:44:01,01:45:10,03:29:10,Hondsrug Classic ,2017-10-15
+344,409,Klaas Hoomans,M,01:44:56,01:44:15,03:29:11,Hondsrug Classic ,2017-10-15
+345,598,John Okkes,M,01:44:53,01:44:21,03:29:14,Hondsrug Classic ,2017-10-15
+346,572,Wim Joustra,M,01:42:55,01:46:40,03:29:35,Hondsrug Classic ,2017-10-15
+347,268,Jan de Hoop,M,01:35:36,01:53:59,03:29:35,Hondsrug Classic ,2017-10-15
+348,310,Michiel Merten,M,01:44:40,01:45:02,03:29:42,Hondsrug Classic ,2017-10-15
+349,591,J Meijering,M,01:47:12,01:42:55,03:30:06,Hondsrug Classic ,2017-10-15
+350,633,P Dalling,M,01:44:55,01:45:12,03:30:07,Hondsrug Classic ,2017-10-15
+351,315,Martijn Groenewold,M,01:38:55,01:51:14,03:30:09,Hondsrug Classic ,2017-10-15
+352,524,Joris van Mastrigt,M,01:47:18,01:43:04,03:30:22,Hondsrug Classic ,2017-10-15
+353,456,René Brinkhuis,M,01:44:51,01:45:34,03:30:24,Hondsrug Classic ,2017-10-15
+354,314,Gert Dijkstra,M,01:43:01,01:47:50,03:30:51,Hondsrug Classic ,2017-10-15
+355,397,Raymond Groenhart,M,01:44:14,01:46:50,03:31:04,Hondsrug Classic ,2017-10-15
+356,422,Laurens Slinkman,M,01:44:23,01:46:42,03:31:05,Hondsrug Classic ,2017-10-15
+357,603,Bas Sinkeldam,M,01:47:08,01:43:58,03:31:05,Hondsrug Classic ,2017-10-15
+358,375,Richard Witteveen,M,01:42:02,01:49:19,03:31:20,Hondsrug Classic ,2017-10-15
+359,581,Casper van de Kamp,M,01:42:11,01:49:26,03:31:36,Hondsrug Classic ,2017-10-15
+360,269,Maarten Brugman,M,01:44:48,01:47:13,03:32:01,Hondsrug Classic ,2017-10-15
+361,279,Karim Benmoussa,M,01:38:54,01:53:09,03:32:02,Hondsrug Classic ,2017-10-15
+362,543,H Hardenbol,M,01:49:38,01:42:27,03:32:05,Hondsrug Classic ,2017-10-15
+363,585,Roel Jan Kuipers,M,01:43:54,01:48:15,03:32:08,Hondsrug Classic ,2017-10-15
+364,570,Ad Boelen,M,01:50:14,01:42:12,03:32:26,Hondsrug Classic ,2017-10-15
+365,2,Jeroen Boelen,M,01:50:14,01:42:13,03:32:26,Hondsrug Classic ,2017-10-15
+366,529,Nol van de Haterd,M,01:39:28,01:53:20,03:32:48,Hondsrug Classic ,2017-10-15
+367,410,Mo Mulder,M,01:40:11,01:52:52,03:33:03,Hondsrug Classic ,2017-10-15
+368,447,Marco Schuiling,M,01:45:55,01:47:13,03:33:08,Hondsrug Classic ,2017-10-15
+369,475,Sjaak Veldman,M,01:42:17,01:50:54,03:33:10,Hondsrug Classic ,2017-10-15
+370,500,Koen Vos,M,01:41:55,01:51:15,03:33:10,Hondsrug Classic ,2017-10-15
+371,627,Bart Stoke,M,01:45:57,01:47:21,03:33:17,Hondsrug Classic ,2017-10-15
+372,824,Mirjam Braam,V,01:42:13,01:51:11,03:33:24,Hondsrug Classic ,2017-10-15
+373,386,Roel Hoekstra,M,01:44:41,01:48:54,03:33:35,Hondsrug Classic ,2017-10-15
+374,555,Jan Ploeger,M,01:49:04,01:45:10,03:34:13,Hondsrug Classic ,2017-10-15
+375,329,Michel Oost,M,01:42:19,01:51:58,03:34:17,Hondsrug Classic ,2017-10-15
+376,351,Tinus Bouius,M,01:41:38,01:53:04,03:34:41,Hondsrug Classic ,2017-10-15
+377,353,Martijn Dijkman,M,01:44:11,01:50:31,03:34:41,Hondsrug Classic ,2017-10-15
+378,507,Marcel Zwiers,M,01:48:31,01:46:20,03:34:50,Hondsrug Classic ,2017-10-15
+379,545,Martin Meinders,M,01:44:17,01:50:51,03:35:07,Hondsrug Classic ,2017-10-15
+380,334,Max van Oort,M,01:42:24,01:53:07,03:35:31,Hondsrug Classic ,2017-10-15
+381,278,Mathijs Höster,M,01:32:19,02:03:20,03:35:39,Hondsrug Classic ,2017-10-15
+382,332,Marcel Koopman,M,01:43:01,01:52:40,03:35:41,Hondsrug Classic ,2017-10-15
+383,219,Jan Boonstra,M,01:47:28,01:48:29,03:35:56,Hondsrug Classic ,2017-10-15
+384,160,Mark Steenhuis,M,01:44:30,01:51:32,03:36:02,Hondsrug Classic ,2017-10-15
+385,497,Andre Geertsema,M,01:44:59,01:51:31,03:36:30,Hondsrug Classic ,2017-10-15
+386,450,Demi-Esmee Halmingh,V,01:45:56,01:50:34,03:36:30,Hondsrug Classic ,2017-10-15
+387,340,Van Slooten,M,01:45:56,01:50:54,03:36:50,Hondsrug Classic ,2017-10-15
+388,233,Trinus Schaper,M,01:44:09,01:53:06,03:37:14,Hondsrug Classic ,2017-10-15
+389,69,Ivar Kors,M,01:39:30,01:58:26,03:37:56,Hondsrug Classic ,2017-10-15
+390,822,Ellen Sonnemans,V,01:45:41,01:53:07,03:38:48,Hondsrug Classic ,2017-10-15
+391,510,Krista Droog,V,01:50:06,01:48:43,03:38:48,Hondsrug Classic ,2017-10-15
+392,483,Erik Smit,M,01:42:12,01:57:03,03:39:15,Hondsrug Classic ,2017-10-15
+393,413,Robert van der Berg,M,01:44:23,01:54:57,03:39:19,Hondsrug Classic ,2017-10-15
+394,615,H Blom,M,01:46:58,01:52:28,03:39:26,Hondsrug Classic ,2017-10-15
+395,584,Gerard Ploeg,M,01:47:39,01:51:49,03:39:28,Hondsrug Classic ,2017-10-15
+396,463,Jan van Dam,M,01:50:23,01:49:20,03:39:42,Hondsrug Classic ,2017-10-15
+397,471,Rene Kuipers,M,01:46:23,01:53:36,03:39:58,Hondsrug Classic ,2017-10-15
+398,526,Robin Sibering,M,01:50:10,01:49:51,03:40:01,Hondsrug Classic ,2017-10-15
+399,573,Wietze Mesken,M,01:44:00,01:56:05,03:40:04,Hondsrug Classic ,2017-10-15
+400,461,Hendrik Hoekstra,M,01:46:31,01:53:34,03:40:05,Hondsrug Classic ,2017-10-15
+401,501,Marcel Guns,M,01:51:57,01:48:19,03:40:15,Hondsrug Classic ,2017-10-15
+402,439,Linda van Oosterom,V,01:47:08,01:53:08,03:40:16,Hondsrug Classic ,2017-10-15
+403,248,Johan van der Werf,M,01:50:07,01:50:11,03:40:17,Hondsrug Classic ,2017-10-15
+404,365,Jamy Modderman,M,01:52:22,01:48:20,03:40:42,Hondsrug Classic ,2017-10-15
+405,542,Hans Ooink,M,01:44:13,01:56:42,03:40:55,Hondsrug Classic ,2017-10-15
+406,550,Alex Wolting,M,01:54:12,01:47:35,03:41:47,Hondsrug Classic ,2017-10-15
+407,515,Peter Gerhardt,M,01:51:51,01:49:58,03:41:48,Hondsrug Classic ,2017-10-15
+408,490,Bas de Groot,M,01:47:14,01:54:56,03:42:10,Hondsrug Classic ,2017-10-15
+409,336,Bart Schakenraad,M,01:46:06,01:56:22,03:42:27,Hondsrug Classic ,2017-10-15
+410,335,Theun Bouius,M,01:46:49,01:55:41,03:42:29,Hondsrug Classic ,2017-10-15
+411,405,Freek Olthof,M,01:44:24,01:58:20,03:42:44,Hondsrug Classic ,2017-10-15
+412,381,Richard Luijting,M,01:41:45,02:01:01,03:42:45,Hondsrug Classic ,2017-10-15
+413,455,Jeroen Funken,M,01:44:02,01:59:00,03:43:02,Hondsrug Classic ,2017-10-15
+414,325,Mark Eijer,M,01:52:21,01:50:45,03:43:06,Hondsrug Classic ,2017-10-15
+415,453,Robert Wicker,M,01:49:07,01:54:08,03:43:14,Hondsrug Classic ,2017-10-15
+416,535,Marleen Boer,V,01:52:54,01:50:26,03:43:19,Hondsrug Classic ,2017-10-15
+417,872,Albert Jan Jakobs,M,01:40:56,02:02:45,03:43:40,Hondsrug Classic ,2017-10-15
+418,328,Eddy Kuipers,M,01:48:13,01:56:01,03:44:13,Hondsrug Classic ,2017-10-15
+419,625,Alfred Kleis,M,01:47:13,01:57:47,03:44:59,Hondsrug Classic ,2017-10-15
+420,513,Mark Bruinenberg,M,01:49:37,01:55:30,03:45:07,Hondsrug Classic ,2017-10-15
+421,343,Hans Schevers,M,01:41:22,02:04:36,03:45:57,Hondsrug Classic ,2017-10-15
+422,621,Jan Kooistra,M,01:53:15,01:52:52,03:46:07,Hondsrug Classic ,2017-10-15
+423,589,Westerhol,M,01:49:53,01:56:19,03:46:11,Hondsrug Classic ,2017-10-15
+424,576,Jeanet van Liere,V,01:53:42,01:52:31,03:46:12,Hondsrug Classic ,2017-10-15
+425,606,Wil Broekaart,M,01:53:02,01:53:11,03:46:12,Hondsrug Classic ,2017-10-15
+426,579,Eduard Dusseljee,M,01:49:37,01:56:38,03:46:15,Hondsrug Classic ,2017-10-15
+427,622,Hans Kon,M,01:54:09,01:52:23,03:46:32,Hondsrug Classic ,2017-10-15
+428,828,Nadine Post,V,01:47:55,01:58:52,03:46:47,Hondsrug Classic ,2017-10-15
+429,525,Siert Pruis,M,01:55:20,01:53:13,03:48:32,Hondsrug Classic ,2017-10-15
+430,541,Bert Hartman,M,01:52:20,01:56:16,03:48:36,Hondsrug Classic ,2017-10-15
+431,830,Jorien Kleinsman,V,01:47:54,02:02:21,03:50:15,Hondsrug Classic ,2017-10-15
+432,281,Pieter van der werf,M,01:42:33,02:07:43,03:50:15,Hondsrug Classic ,2017-10-15
+433,402,Theo Bosma,M,01:44:11,02:07:07,03:51:18,Hondsrug Classic ,2017-10-15
+434,809,Vica van Veen,V,01:51:38,01:59:42,03:51:19,Hondsrug Classic ,2017-10-15
+435,231,Marcel Terpstra,M,01:48:49,02:03:09,03:51:57,Hondsrug Classic ,2017-10-15
+436,217,Klaas muizelaar,M,01:55:19,01:56:39,03:51:57,Hondsrug Classic ,2017-10-15
+437,491,Saskia de Groot,V,01:50:06,02:02:55,03:53:01,Hondsrug Classic ,2017-10-15
+438,341,Gerwin Hadders,M,01:53:20,01:59:57,03:53:16,Hondsrug Classic ,2017-10-15
+439,514,Arjan Bruinenberg,M,01:52:21,02:01:34,03:53:54,Hondsrug Classic ,2017-10-15
+440,187,Renaldo Soetevent,M,01:48:22,02:05:47,03:54:09,Hondsrug Classic ,2017-10-15
+441,460,Harrold Hoekstra,M,01:50:09,02:04:48,03:54:56,Hondsrug Classic ,2017-10-15
+442,462,Johannes Hoekstra,M,01:50:11,02:04:46,03:54:57,Hondsrug Classic ,2017-10-15
+443,318,Jeroen Boers,M,01:46:54,02:09:10,03:56:03,Hondsrug Classic ,2017-10-15
+444,575,Helmert van Reenen,M,01:58:33,01:57:46,03:56:18,Hondsrug Classic ,2017-10-15
+445,546,M Twickler,M,01:50:56,02:06:01,03:56:57,Hondsrug Classic ,2017-10-15
+446,611,Sybouth Homsma,M,01:53:56,02:03:03,03:56:58,Hondsrug Classic ,2017-10-15
+447,595,Bas Vonk,M,01:52:20,02:04:45,03:57:05,Hondsrug Classic ,2017-10-15
+448,556,Oscar Tobben,M,01:47:51,02:09:15,03:57:05,Hondsrug Classic ,2017-10-15
+449,512,Erik Oosterkamp,M,01:54:06,02:03:02,03:57:08,Hondsrug Classic ,2017-10-15
+450,480,John Klein Klouwenberg,M,01:55:13,02:01:59,03:57:11,Hondsrug Classic ,2017-10-15
+451,466,Jan Henk Veldman,M,01:50:24,02:07:08,03:57:32,Hondsrug Classic ,2017-10-15
+452,520,Alfred Zwarts,M,01:58:46,01:59:20,03:58:06,Hondsrug Classic ,2017-10-15
+453,240,Ary de Jonge,M,01:50:12,02:09:34,03:59:46,Hondsrug Classic ,2017-10-15
+454,811,Chimène Boer,V,01:51:37,02:10:39,04:02:16,Hondsrug Classic ,2017-10-15
+455,820,Moniek van de Vosse,V,01:53:06,02:09:13,04:02:18,Hondsrug Classic ,2017-10-15
+456,577,Peter Duitman,M,01:58:33,02:04:17,04:02:49,Hondsrug Classic ,2017-10-15
+457,188,Beja Batstra,M,01:57:35,02:05:31,04:03:05,Hondsrug Classic ,2017-10-15
+458,534,Bart Boerema,M,01:56:32,02:06:40,04:03:11,Hondsrug Classic ,2017-10-15
+459,221,Remco Heidema,M,01:55:19,02:09:08,04:04:27,Hondsrug Classic ,2017-10-15
+460,618,Joris Kloen,M,02:03:13,02:02:16,04:05:28,Hondsrug Classic ,2017-10-15
+461,623,Jeroen Jager,M,01:53:51,02:14:08,04:07:59,Hondsrug Classic ,2017-10-15
+462,582,SM Medendorp,M,01:51:33,02:19:04,04:10:36,Hondsrug Classic ,2017-10-15
+463,503,Marco de Priester,M,01:54:11,02:18:42,04:12:53,Hondsrug Classic ,2017-10-15
+464,518,Folkert Beetstra,M,02:06:43,02:06:12,04:12:54,Hondsrug Classic ,2017-10-15
+465,347,Sebastian Klamer,M,02:03:10,02:11:41,04:14:51,Hondsrug Classic ,2017-10-15
+466,552,Paul van de Weide,M,02:06:46,02:10:44,04:17:30,Hondsrug Classic ,2017-10-15
+467,465,Paul Vriends,M,02:06:41,02:10:49,04:17:30,Hondsrug Classic ,2017-10-15
+468,609,P van Schooten,M,02:07:36,02:12:07,04:19:43,Hondsrug Classic ,2017-10-15
+469,47,Steven Lammertink,M,01:14:30,,,Hondsrug Classic ,2017-10-15
+470,162,Ferry de Ruiter,M,01:19:21,,,Hondsrug Classic ,2017-10-15
+471,117,Guido van TUyl,M,01:19:22,,,Hondsrug Classic ,2017-10-15
+472,46,Marc de Bruin,M,01:19:22,,,Hondsrug Classic ,2017-10-15
+473,121,Ruud Bosscha,M,01:19:23,,,Hondsrug Classic ,2017-10-15
+474,37,Bart Barkhuis,M,01:19:24,,,Hondsrug Classic ,2017-10-15
+475,126,Benny Gankema,M,01:20:35,,,Hondsrug Classic ,2017-10-15
+476,889,Erwin Rinsma,M,01:22:26,,,Hondsrug Classic ,2017-10-15
+477,134,Luuk van Dorth,M,01:24:29,,,Hondsrug Classic ,2017-10-15
+478,65,Daan de Jong,M,01:25:23,,,Hondsrug Classic ,2017-10-15
+479,103,Heinie Hommes,M,01:26:20,,,Hondsrug Classic ,2017-10-15
+480,244,Buld Martijn,M,01:27:06,,,Hondsrug Classic ,2017-10-15
+481,124,Tom Rustebiel,M,01:27:07,,,Hondsrug Classic ,2017-10-15
+482,109,Herman warmink,M,01:28:26,,,Hondsrug Classic ,2017-10-15
+483,900,Steven Rooks,M,01:28:49,,,Hondsrug Classic ,2017-10-15
+484,286,Reiny Oosterman,M,01:28:57,,,Hondsrug Classic ,2017-10-15
+485,192,Bart de Boer,M,01:29:04,,,Hondsrug Classic ,2017-10-15
+486,104,Martin Kuipers,M,01:31:16,,,Hondsrug Classic ,2017-10-15
+487,276,Hedser van der Veen,M,01:31:31,,,Hondsrug Classic ,2017-10-15
+488,215,Hans Zwaneveld,M,01:32:07,,,Hondsrug Classic ,2017-10-15
+489,14,Rudy Botter,M,01:33:05,,,Hondsrug Classic ,2017-10-15
+490,379,Jesper de Hoog,M,01:33:07,,,Hondsrug Classic ,2017-10-15
+491,211,André Kamminga,M,01:33:36,,,Hondsrug Classic ,2017-10-15
+492,13,Robert Flim,M,01:34:28,,,Hondsrug Classic ,2017-10-15
+493,436,Roel Nahuis,M,01:35:05,,,Hondsrug Classic ,2017-10-15
+494,819,Sanne Tent,V,01:35:09,,,Hondsrug Classic ,2017-10-15
+495,442,Finn Tiebout,M,01:35:21,,,Hondsrug Classic ,2017-10-15
+496,369,Johan van der Weide,M,01:36:19,,,Hondsrug Classic ,2017-10-15
+497,391,Andreas van Scherpenzeel,M,01:36:53,,,Hondsrug Classic ,2017-10-15
+498,239,Otte Homan,M,01:37:42,,,Hondsrug Classic ,2017-10-15
+499,521,Jordan Jansen,M,01:38:24,,,Hondsrug Classic ,2017-10-15
+500,229,Jeroen Yntema,M,01:38:42,,,Hondsrug Classic ,2017-10-15
+501,316,Henri Westra,M,01:38:56,,,Hondsrug Classic ,2017-10-15
+502,249,Jan van der Wal,M,01:39:37,,,Hondsrug Classic ,2017-10-15
+503,880,Marijn Velt,M,01:40:49,,,Hondsrug Classic ,2017-10-15
+504,398,Dennis van Klaveren,M,01:41:18,,,Hondsrug Classic ,2017-10-15
+505,473,Rutger Groothuis,M,01:42:02,,,Hondsrug Classic ,2017-10-15
+506,225,Menno steg,M,01:42:10,,,Hondsrug Classic ,2017-10-15
+507,403,Max Nieborg,M,01:42:44,,,Hondsrug Classic ,2017-10-15
+508,594,Edwin van Voorn,M,01:44:17,,,Hondsrug Classic ,2017-10-15
+509,234,Tom Weseman,M,01:44:24,,,Hondsrug Classic ,2017-10-15
+510,511,Johan Klaas,M,01:46:10,,,Hondsrug Classic ,2017-10-15
+511,454,Roelof Luchies,M,01:46:25,,,Hondsrug Classic ,2017-10-15
+512,412,Dick Bathoorn,M,01:47:49,,,Hondsrug Classic ,2017-10-15
+513,528,Tienus Kwant,M,01:48:02,,,Hondsrug Classic ,2017-10-15
+514,481,Herman van Mal,M,01:48:07,,,Hondsrug Classic ,2017-10-15
+515,587,Jan Grit,M,01:48:57,,,Hondsrug Classic ,2017-10-15
+516,311,Peter Dijkstra,M,01:50:30,,,Hondsrug Classic ,2017-10-15
+517,371,Henk Everts,M,01:51:07,,,Hondsrug Classic ,2017-10-15
+518,632,John Maasbach,M,01:51:08,,,Hondsrug Classic ,2017-10-15
+519,283,Marieke Falkmann,V,01:51:37,,,Hondsrug Classic ,2017-10-15
+520,389,Paul Boer,M,01:53:07,,,Hondsrug Classic ,2017-10-15
+521,266,Theo Medema,M,01:53:11,,,Hondsrug Classic ,2017-10-15
+522,312,Paul van de Haring,M,01:53:19,,,Hondsrug Classic ,2017-10-15
+523,408,Andre Kuipers,M,01:54:05,,,Hondsrug Classic ,2017-10-15
+524,407,Erwin Broersma,M,01:54:22,,,Hondsrug Classic ,2017-10-15
+525,313,Anne Oosterman,M,01:54:41,,,Hondsrug Classic ,2017-10-15
+526,634,Guido Oosting,M,01:55:30,,,Hondsrug Classic ,2017-10-15
+527,495,Martijn Knobben,M,01:56:03,,,Hondsrug Classic ,2017-10-15
+528,506,Bas van de Ven,M,01:56:58,,,Hondsrug Classic ,2017-10-15
+529,590,Johan Zinger,M,01:57:20,,,Hondsrug Classic ,2017-10-15
+530,419,Job Hamming,M,01:57:29,,,Hondsrug Classic ,2017-10-15
+531,517,Wietze Luchies,M,01:57:38,,,Hondsrug Classic ,2017-10-15
+532,629,Niek,M,01:58:34,,,Hondsrug Classic ,2017-10-15
+533,801,Nicole van Wikselaar,V,01:58:34,,,Hondsrug Classic ,2017-10-15
+534,251,Bert ten Brinke,M,01:58:58,,,Hondsrug Classic ,2017-10-15
+535,548,Jaap Smit,M,02:01:36,,,Hondsrug Classic ,2017-10-15
+536,620,Herma Harke,V,02:03:48,,,Hondsrug Classic ,2017-10-15
+537,530,Henk Groen,M,02:04:21,,,Hondsrug Classic ,2017-10-15
+538,607,Niels van der D,M,02:04:48,,,Hondsrug Classic ,2017-10-15
+539,508,Lennart Dolfing,M,02:05:33,,,Hondsrug Classic ,2017-10-15
+540,532,Maarten Bunnik,M,02:06:25,,,Hondsrug Classic ,2017-10-15
+541,630,PML van de Tillaar,M,02:06:30,,,Hondsrug Classic ,2017-10-15
+542,320,Piet Doorduin,M,02:07:10,,,Hondsrug Classic ,2017-10-15
+543,580,Chris ter Veld,M,02:07:40,,,Hondsrug Classic ,2017-10-15
+544,516,Gerard jansen,M,02:07:45,,,Hondsrug Classic ,2017-10-15
+545,601,Harry Dijkstra,M,02:08:29,,,Hondsrug Classic ,2017-10-15
+546,600,Peter Zandstra,M,02:08:57,,,Hondsrug Classic ,2017-10-15
+547,823,Marjan Dik,V,02:10:11,,,Hondsrug Classic ,2017-10-15
+548,557,Gerrit Danneberg,M,02:12:59,,,Hondsrug Classic ,2017-10-15
+549,999,Rudie Wiersma,M,02:16:09,,,Hondsrug Classic ,2017-10-15
+550,362,Sara Vergunst,V,02:17:01,,,Hondsrug Classic ,2017-10-15
+551,363,Hilda Brandsma,V,02:17:01,,,Hondsrug Classic ,2017-10-15
+552,361,Syward Molenaar,M,02:17:01,,,Hondsrug Classic ,2017-10-15
+553,614,F Lamers Paalhaar,M,02:19:10,,,Hondsrug Classic ,2017-10-15
+554,348,Marianne Luinstra,V,02:19:11,,,Hondsrug Classic ,2017-10-15
+555,494,Bianca Hulleman,V,02:19:42,,,Hondsrug Classic ,2017-10-15
+556,599,Gerard de Regt,M,02:22:12,,,Hondsrug Classic ,2017-10-15
+557,574,Frank Snip,M,02:23:42,,,Hondsrug Classic ,2017-10-15
+558,567,Anita Karperien,V,02:23:42,,,Hondsrug Classic ,2017-10-15
+559,519,Van voorn,M,02:26:44,,,Hondsrug Classic ,2017-10-15
+560,377,Heleen Hoogeveen,V,01:55:30,,,Hondsrug Classic ,2017-10-15
+561,74,Menno Don,M,01:23:30,,,Hondsrug Classic ,2017-10-15
+562,358,Erik Farenhorst,M,01:21:11,,,Hondsrug Classic ,2017-10-15
+563,382,Ageeth Boverhuis,V,02:06:38,,,Hondsrug Classic ,2017-10-15
+564,70,Perry Wit,M,02:16:24,,,Hondsrug Classic ,2017-10-15

@@ -1,0 +1,270 @@
+Plts,StNr,Naam,Club / Woonplaats,Cat,PltsCat,Ronde1,Ronde2,Ronde3,NettoTijd,BrutoTijd,race,date
+1,1,ezra kering,,MSEN,1,00:11:10,00:09:11,00:09:02,00:29:22,00:29:22,Hemmeromloop ,2017-08-27
+2,2,Willem vam schuerbeeck,,MSEN,2,00:11:23,00:09:42,00:09:37,00:30:41,00:30:41,Hemmeromloop ,2017-08-27
+3,9,Lucas nieuwboer,KAV Holland,MSEN,3,00:11:23,00:09:44,00:09:46,00:30:51,00:30:51,Hemmeromloop ,2017-08-27
+4,6,christiaan bosselaar,KAV Holland,M35,1,00:11:34,00:10:04,00:10:00,00:31:37,00:31:37,Hemmeromloop ,2017-08-27
+5,4,edwin de vries,,MSEN,4,00:11:33,00:10:08,00:10:01,00:31:42,00:31:42,Hemmeromloop ,2017-08-27
+6,32,Gianluca assorgia,SV Sportlust,M35,2,00:11:49,00:10:05,00:09:51,00:31:43,00:31:44,Hemmeromloop ,2017-08-27
+7,3,ambroise uwiragiye,,M35,3,00:11:43,00:10:05,00:09:59,00:31:46,00:31:46,Hemmeromloop ,2017-08-27
+8,34,hichan ettaichmi,,M35,4,00:11:36,00:10:13,00:10:24,00:32:12,00:32:12,Hemmeromloop ,2017-08-27
+9,7,michiel de ruiter,NOVA,MSEN,5,00:11:49,00:10:14,00:10:22,00:32:24,00:32:25,Hemmeromloop ,2017-08-27
+10,10,sten stoltenborg,,MSEN,6,00:12:01,00:10:20,00:10:09,00:32:30,00:32:31,Hemmeromloop ,2017-08-27
+11,35,Bouke Onstenk,Hollandia,M35,5,00:12:37,00:10:17,00:10:09,00:33:02,00:33:02,Hemmeromloop ,2017-08-27
+12,111,Tabitha gichia,,VSEN,1,00:11:56,00:10:27,00:10:40,00:33:02,00:33:03,Hemmeromloop ,2017-08-27
+13,36,Jeroen Kramer,Zaanland,M35,6,00:12:14,00:10:38,00:10:39,00:33:31,00:33:32,Hemmeromloop ,2017-08-27
+14,113,zinash mekonnen,,VSEN,2,00:12:30,00:10:39,00:10:54,00:34:01,00:34:02,Hemmeromloop ,2017-08-27
+15,12,jan berkhout,,MSEN,7,00:12:26,00:10:42,00:11:01,00:34:08,00:34:09,Hemmeromloop ,2017-08-27
+16,112,elizeba cherone,,VSEN,3,00:12:45,00:10:54,00:10:43,00:34:21,00:34:22,Hemmeromloop ,2017-08-27
+17,74,rahid mohamedani,Atos,M50,1,00:12:28,00:11:04,00:10:59,00:34:30,00:34:31,Hemmeromloop ,2017-08-27
+18,8,filmon tesfu,SV Sportlust,MSEN,8,00:11:56,00:10:51,00:12:01,00:34:48,00:34:48,Hemmeromloop ,2017-08-27
+19,51,mohammed mahamadi,AAC,M45,1,00:12:49,00:11:02,00:11:12,00:35:03,00:35:03,Hemmeromloop ,2017-08-27
+20,52,pip tesselaar,Hera,M45,2,00:13:26,00:11:23,00:11:06,00:35:54,00:35:55,Hemmeromloop ,2017-08-27
+21,43,Jordy Vinke,Texel,M40,1,00:13:27,00:11:23,00:11:09,00:35:58,00:35:58,Hemmeromloop ,2017-08-27
+22,16,bjorn vennema,,MSEN,9,00:13:26,00:11:23,00:11:14,00:36:02,00:36:03,Hemmeromloop ,2017-08-27
+23,131,inge de jong,,V40,1,00:13:27,00:11:23,00:11:26,00:36:15,00:36:15,Hemmeromloop ,2017-08-27
+24,253,Frank van Lieshout,Grootebroek,MTRIM,1,00:13:05,00:11:49,00:11:30,00:36:23,00:36:24,Hemmeromloop ,2017-08-27
+25,275,Rob Keuning,Hoorn Nh,MTRIM,2,00:13:25,00:11:40,00:11:41,00:36:45,00:36:46,Hemmeromloop ,2017-08-27
+26,210,Kevin Hanff,Enkhuizen,MTRIM,3,00:13:25,00:11:39,00:11:43,00:36:46,00:36:47,Hemmeromloop ,2017-08-27
+27,183,Richard Kramer,SAV,MKAMP,1,00:13:26,00:11:39,00:12:08,00:37:12,00:37:13,Hemmeromloop ,2017-08-27
+28,58,Michael Nijland,Atos,M45,3,00:13:48,00:11:42,00:11:40,00:37:09,00:37:13,Hemmeromloop ,2017-08-27
+29,225,Tobias Pennekamp,De Goorn,MTRIM,4,00:13:46,00:11:48,00:11:41,00:37:15,00:37:17,Hemmeromloop ,2017-08-27
+30,309,Michael Rippens,Zwaag,MTRIM,5,00:13:45,00:11:48,00:11:50,00:37:22,00:37:25,Hemmeromloop ,2017-08-27
+31,83,Ronald Rol,NOVA,M55,1,00:13:26,00:12:03,00:12:08,00:37:36,00:37:37,Hemmeromloop ,2017-08-27
+32,18,Sebastiaan Post,Atos,MSEN,10,00:14:10,00:11:54,00:11:51,00:37:54,00:37:59,Hemmeromloop ,2017-08-27
+33,186,Gerald KOeman,Hollandia,MKAMP,2,00:14:02,00:12:09,00:11:58,00:38:08,00:38:09,Hemmeromloop ,2017-08-27
+34,54,peter tas,DOKEV,M45,4,00:13:48,00:12:05,00:12:25,00:38:18,00:38:18,Hemmeromloop ,2017-08-27
+35,254,Niels van Vliet,KAV Holland,MTRIM,6,00:13:52,00:12:16,00:12:21,00:38:28,00:38:29,Hemmeromloop ,2017-08-27
+36,19,Alexander Beemsterboer,Loopgroep Hoorn,MSEN,11,00:14:21,00:12:10,00:12:04,00:38:34,00:38:36,Hemmeromloop ,2017-08-27
+37,44,Ton Sweep,GAC Hilversum,M40,2,00:14:19,00:12:17,00:12:06,00:38:42,00:38:44,Hemmeromloop ,2017-08-27
+38,53,herman leeman,AAC,M45,5,00:15:35,00:11:41,00:11:28,00:38:43,00:38:44,Hemmeromloop ,2017-08-27
+39,149,Chris Schaper,Hoogkarspel,MKAMP,3,00:13:41,00:12:28,00:12:39,00:38:47,00:38:48,Hemmeromloop ,2017-08-27
+40,290,SJaak Bakker,SAV,MTRIM,7,00:14:20,00:12:05,00:12:24,00:38:49,00:38:49,Hemmeromloop ,2017-08-27
+41,14,maurice vriend,AAC,MSEN,12,00:14:03,00:12:23,00:12:41,00:39:05,00:39:06,Hemmeromloop ,2017-08-27
+42,119,Margriet Berkhout,NOVA,VSEN,4,00:14:18,00:12:20,00:12:41,00:39:18,00:39:20,Hemmeromloop ,2017-08-27
+43,20,Reinier Warder,,MSEN,13,00:14:35,00:12:25,00:12:37,00:39:36,00:39:39,Hemmeromloop ,2017-08-27
+44,219,Roderick visser,Bovenkarspel,MTRIM,8,00:14:36,00:12:26,00:12:45,00:39:46,00:39:47,Hemmeromloop ,2017-08-27
+45,207,Marco bot,Bovenkarspel,MTRIM,9,00:14:46,00:12:34,00:12:32,00:39:50,00:39:52,Hemmeromloop ,2017-08-27
+46,152,Niels Vertelman,Loopgroep Aart Stigter,MKAMP,4,00:14:21,00:12:50,00:12:40,00:39:50,00:39:52,Hemmeromloop ,2017-08-27
+47,250,Ed Peerdeman,Amsterdam,MTRIM,10,00:14:15,00:12:50,00:12:54,00:39:59,00:40:00,Hemmeromloop ,2017-08-27
+48,45,Paul Okkerse,SV Sportlust,MSEN,14,00:15:08,00:12:50,00:12:35,00:40:32,00:40:36,Hemmeromloop ,2017-08-27
+49,84,Peter reus,SAV,M55,2,00:15:11,00:12:52,00:12:36,00:40:38,00:40:39,Hemmeromloop ,2017-08-27
+50,278,Niels van Wijk,Andijk,MTRIM,11,00:14:53,00:12:48,00:12:52,00:40:33,00:40:40,Hemmeromloop ,2017-08-27
+51,311,Jurriaan Alderlieste,Grootebroek,MTRIM,12,00:15:00,00:13:02,00:12:44,00:40:45,00:40:47,Hemmeromloop ,2017-08-27
+52,142,Pim Neefjes,Hoogkarspel,MKAMP,5,00:14:21,00:13:11,00:13:18,00:40:49,00:40:51,Hemmeromloop ,2017-08-27
+53,87,Hans Paten,Hera,M55,3,00:14:38,00:13:03,00:13:37,00:41:17,00:41:18,Hemmeromloop ,2017-08-27
+54,88,Jan Smit,Hollandia,M55,4,00:15:13,00:13:02,00:13:11,00:41:25,00:41:25,Hemmeromloop ,2017-08-27
+55,92,jan zwarthoed,AV Edam,M60,1,00:15:12,00:13:02,00:13:16,00:41:28,00:41:30,Hemmeromloop ,2017-08-27
+56,276,Steven Jansen,Purmerend,MTRIM,13,00:15:10,00:12:51,00:13:30,00:41:30,00:41:33,Hemmeromloop ,2017-08-27
+57,121,katinka de jong laan,,V35,1,00:15:09,00:13:06,00:13:21,00:41:35,00:41:37,Hemmeromloop ,2017-08-27
+58,72,peter luijtes,,M50,2,00:15:40,00:13:03,00:13:00,00:41:42,00:41:47,Hemmeromloop ,2017-08-27
+59,151,Sam Meissen,Venhuizen,MKAMP,6,00:15:11,00:13:07,00:13:33,00:41:50,00:41:51,Hemmeromloop ,2017-08-27
+60,114,selma borst,,VSEN,5,00:15:31,00:13:14,00:13:12,00:41:57,00:41:59,Hemmeromloop ,2017-08-27
+61,89,Jaap Broers,Hera,M55,5,00:15:31,00:13:21,00:13:05,00:41:56,00:41:59,Hemmeromloop ,2017-08-27
+62,461,monique andriessen,,V45,1,00:15:25,00:13:20,00:13:18,00:42:02,00:42:02,Hemmeromloop ,2017-08-27
+63,91,jan kreuk,SAV,M60,2,00:15:38,00:13:18,00:13:15,00:42:10,00:42:12,Hemmeromloop ,2017-08-27
+64,269,Tom Broersen,SAV,MTRIM,14,00:15:33,00:13:20,00:13:28,00:42:20,00:42:26,Hemmeromloop ,2017-08-27
+65,125,Rosalie Teeuwen,Atos,V35,2,00:15:34,00:13:23,00:13:35,00:42:31,00:42:33,Hemmeromloop ,2017-08-27
+66,306,Co van Bueren,,MTRIM,15,00:15:07,00:13:30,00:13:53,00:42:29,00:42:33,Hemmeromloop ,2017-08-27
+67,188,Wilco Kenter,Venhuizen,MKAMP,7,00:15:56,00:13:24,00:13:11,00:42:31,00:42:34,Hemmeromloop ,2017-08-27
+68,93,Herman Akkerman,Hollandia,M60,3,00:15:37,00:13:22,00:13:38,00:42:36,00:42:38,Hemmeromloop ,2017-08-27
+69,100,Cees Meijer,SAV,M60,4,00:15:37,00:13:35,00:13:40,00:42:50,00:42:51,Hemmeromloop ,2017-08-27
+70,260,Chris Koedooder,RunningClubAmsterdam,MTRIM,16,00:16:07,00:13:27,00:13:21,00:42:54,00:42:57,Hemmeromloop ,2017-08-27
+71,279,Rens Wooter,Enkhuizen,MTRIM,17,00:15:26,00:13:45,00:13:39,00:42:50,00:42:59,Hemmeromloop ,2017-08-27
+72,293,Arjen Mol,,MTRIM,18,00:15:35,00:13:31,00:13:53,00:42:58,00:43:03,Hemmeromloop ,2017-08-27
+73,283,John van de Swaluw,Wervershoof,MTRIM,19,00:15:09,00:14:03,00:13:51,00:43:02,00:43:05,Hemmeromloop ,2017-08-27
+74,57,Sander Kleijne,Atos,M45,6,00:16:28,00:13:25,00:13:08,00:43:00,00:43:06,Hemmeromloop ,2017-08-27
+75,123,Jessica Glasbergen,SV Sportlust,V35,3,00:15:34,00:13:36,00:13:54,00:43:03,00:43:08,Hemmeromloop ,2017-08-27
+76,258,Edwin Bitter,Berkhout,MTRIM,20,00:15:50,00:13:36,00:13:33,00:42:57,00:43:09,Hemmeromloop ,2017-08-27
+77,134,Fa Adda,Feniks,V40,2,00:15:43,00:13:45,00:13:48,00:43:15,00:43:15,Hemmeromloop ,2017-08-27
+78,41,theo quist,,M40,3,00:15:52,00:13:48,00:13:40,00:43:19,00:43:24,Hemmeromloop ,2017-08-27
+79,62,Antoine Flori,,M45,7,00:16:02,00:13:44,00:13:43,00:43:29,00:43:39,Hemmeromloop ,2017-08-27
+80,82,frank boon,SAV,M55,6,00:15:51,00:13:53,00:14:00,00:43:43,00:43:44,Hemmeromloop ,2017-08-27
+81,15,Hidde bakker,,MSEN,15,00:16:01,00:13:52,00:13:53,00:43:45,00:43:50,Hemmeromloop ,2017-08-27
+82,201,Menno van Ewijk,Enkhuizen,MTRIM,21,00:16:24,00:13:43,00:13:36,00:43:42,00:43:52,Hemmeromloop ,2017-08-27
+83,139,Marleen Haakma,Atos,V45,2,00:15:38,00:14:03,00:14:13,00:43:53,00:43:55,Hemmeromloop ,2017-08-27
+84,136,willy riselada,,V45,3,00:16:12,00:13:55,00:13:48,00:43:54,00:43:58,Hemmeromloop ,2017-08-27
+85,95,Ger Kragten,Atos,M60,5,00:16:29,00:13:43,00:13:49,00:44:00,00:44:05,Hemmeromloop ,2017-08-27
+86,101,ton van der meche,SV Sportlust,M60,6,00:16:32,00:13:55,00:13:40,00:44:06,00:44:11,Hemmeromloop ,2017-08-27
+87,296,TWan Ruiter,,MTRIM,22,00:15:17,00:14:18,00:14:48,00:44:21,00:44:24,Hemmeromloop ,2017-08-27
+88,285,Rens Kooiman,Schellinkhout,MTRIM,23,00:15:38,00:14:03,00:14:32,00:44:12,00:44:25,Hemmeromloop ,2017-08-27
+89,282,Johan Koomen,Wervershoof,MTRIM,24,00:15:49,00:14:26,00:14:12,00:44:26,00:44:30,Hemmeromloop ,2017-08-27
+90,292,Giorgio Sironi,,MTRIM,25,00:16:04,00:13:55,00:14:27,00:44:24,00:44:30,Hemmeromloop ,2017-08-27
+91,462,Esther Veldhuis,SAV,V45,4,00:16:13,00:14:02,00:14:16,00:44:30,00:44:33,Hemmeromloop ,2017-08-27
+92,55,wouter ebbing,,M45,8,00:15:56,00:13:55,00:14:40,00:44:30,00:44:36,Hemmeromloop ,2017-08-27
+93,191,Paul Beekhuis,Enkhuizen,MTRIM,26,00:16:01,00:14:10,00:14:25,00:44:35,00:44:37,Hemmeromloop ,2017-08-27
+94,17,koen kramer,,MSEN,16,00:17:03,00:14:01,00:13:36,00:44:39,00:44:50,Hemmeromloop ,2017-08-27
+95,289,Justin Reus,Grootebroek,MTRIM,27,00:16:05,00:14:13,00:14:26,00:44:42,00:44:52,Hemmeromloop ,2017-08-27
+96,61,Hans Veldhorst,,M45,9,00:16:25,00:13:59,00:14:22,00:44:45,00:44:53,Hemmeromloop ,2017-08-27
+97,180,Hans Kelling,,MKAMP,8,00:16:37,00:14:15,00:14:05,00:44:56,00:45:03,Hemmeromloop ,2017-08-27
+98,144,Alex Entius,Hoogkarspel,MKAMP,9,00:16:19,00:14:33,00:14:25,00:45:16,00:45:19,Hemmeromloop ,2017-08-27
+99,190,Huib de Boer,Hem,MKAMP,10,00:15:59,00:14:31,00:14:49,00:45:17,00:45:21,Hemmeromloop ,2017-08-27
+100,85,Bob Westerduijn,Spark,M55,7,00:16:54,00:14:32,00:14:13,00:45:38,00:45:43,Hemmeromloop ,2017-08-27
+101,300,Gert Jan Konijn,Atos,MTRIM,28,00:16:30,00:14:29,00:14:44,00:45:43,00:45:49,Hemmeromloop ,2017-08-27
+102,465,Yvonne Kramer,,V45,5,00:16:52,00:14:25,00:14:30,00:45:46,00:45:51,Hemmeromloop ,2017-08-27
+103,46,Peter Paul Langerak,Atos,M40,4,00:15:55,00:14:04,00:15:52,00:45:49,00:45:53,Hemmeromloop ,2017-08-27
+104,277,Niels Visser,Bergen Nh,MTRIM,29,00:16:24,00:14:25,00:15:19,00:46:07,00:46:15,Hemmeromloop ,2017-08-27
+105,220,Michiel Hendriks,Beverwijk,MTRIM,30,00:17:07,00:14:32,00:14:36,00:46:13,00:46:16,Hemmeromloop ,2017-08-27
+106,233,Patrick van Dijk,Enkhuizen,MTRIM,31,00:16:32,00:14:27,00:15:11,00:46:08,00:46:17,Hemmeromloop ,2017-08-27
+107,224,Aik Ruiter,Zwaagdijk-Oost,MTRIM,32,00:17:12,00:14:49,00:14:06,00:46:06,00:46:24,Hemmeromloop ,2017-08-27
+108,302,Sander Kolenberg,,MTRIM,33,00:16:44,00:15:03,00:14:38,00:46:24,00:46:27,Hemmeromloop ,2017-08-27
+109,305,Wouter Meijerink,,MTRIM,34,00:16:19,00:15:00,00:15:20,00:46:38,00:46:41,Hemmeromloop ,2017-08-27
+110,197,Niels Daems,Enkhuizen,MTRIM,35,00:17:10,00:14:37,00:14:46,00:46:32,00:46:44,Hemmeromloop ,2017-08-27
+111,237,David Pennekamp,De Goorn,MTRIM,36,00:17:04,00:14:49,00:14:55,00:46:47,00:46:50,Hemmeromloop ,2017-08-27
+112,59,Abdel el Amrani,SAV,M45,10,00:16:14,00:15:47,00:14:49,00:46:49,00:46:51,Hemmeromloop ,2017-08-27
+113,124,Inge Rol,AV Castricum,VSEN,6,00:17:40,00:14:30,00:14:33,00:46:41,00:46:54,Hemmeromloop ,2017-08-27
+114,257,Kees van de Stadt,Zaandijk,MTRIM,37,00:17:02,00:14:27,00:15:20,00:46:49,00:46:55,Hemmeromloop ,2017-08-27
+115,173,Rob de Vrieze,Venhuizen,MKAMP,11,00:17:02,00:14:50,00:15:02,00:46:53,00:46:57,Hemmeromloop ,2017-08-27
+116,174,Bas van Rijnshoeve,Venhuizen,MKAMP,12,00:17:01,00:14:51,00:15:02,00:46:53,00:46:57,Hemmeromloop ,2017-08-27
+117,170,Rick Laan,Hoogkarspel,MKAMP,13,00:16:55,00:14:58,00:15:06,00:46:57,00:47:08,Hemmeromloop ,2017-08-27
+118,468,Ans Thole,SAV,V45,6,00:17:16,00:14:50,00:15:11,00:47:16,00:47:22,Hemmeromloop ,2017-08-27
+119,206,Bart Mulder,Grootebroek,MTRIM,38,00:17:15,00:15:07,00:15:02,00:47:23,00:47:25,Hemmeromloop ,2017-08-27
+120,223,Peter Zwart,Amsterdam,MTRIM,39,00:17:50,00:14:45,00:14:38,00:47:12,00:47:27,Hemmeromloop ,2017-08-27
+121,184,Theo Klaver,Hoogkarspel,MKAMP,14,00:16:37,00:15:03,00:15:47,00:47:25,00:47:29,Hemmeromloop ,2017-08-27
+122,229,Frank van der Kant,Bovenkarspel,MTRIM,40,00:17:07,00:15:09,00:15:17,00:47:32,00:47:36,Hemmeromloop ,2017-08-27
+123,187,Erwin Ruijter,Venhuizen,MKAMP,15,00:16:39,00:15:07,00:15:48,00:47:34,00:47:39,Hemmeromloop ,2017-08-27
+124,75,Martijn Mengerink,Loopgroep Hoorn,M45,11,00:18:03,00:15:06,00:14:24,00:47:32,00:47:39,Hemmeromloop ,2017-08-27
+125,240,Rober Heilig,Hoogkarspel,MTRIM,41,00:17:06,00:14:44,00:15:36,00:47:24,00:47:41,Hemmeromloop ,2017-08-27
+126,86,johan laan,Grootebroek,M55,8,00:17:33,00:15:04,00:15:01,00:47:37,00:47:41,Hemmeromloop ,2017-08-27
+127,267,Jos van den Berg,SAV,MTRIM,42,00:16:34,00:15:23,00:15:43,00:47:40,00:47:47,Hemmeromloop ,2017-08-27
+128,202,Wim Groen,Zwaag,MTRIM,43,00:16:33,00:15:26,00:15:53,00:47:51,00:47:53,Hemmeromloop ,2017-08-27
+129,132,rita quist,,V40,3,00:17:19,00:15:12,00:15:33,00:48:03,00:48:08,Hemmeromloop ,2017-08-27
+130,71,pierre vriend,,M50,3,00:17:45,00:15:07,00:15:07,00:47:58,00:48:09,Hemmeromloop ,2017-08-27
+131,476,Marleen van den Hoven,Wognum,VTRIM,1,00:17:42,00:15:22,00:15:05,00:48:09,00:48:10,Hemmeromloop ,2017-08-27
+132,308,Ruud Boon,Wognum4,MTRIM,44,00:17:38,00:15:19,00:15:08,00:48:04,00:48:14,Hemmeromloop ,2017-08-27
+133,255,Dirk Zwaan,Bovenkarspel,MTRIM,45,00:17:43,00:15:23,00:14:59,00:48:05,00:48:17,Hemmeromloop ,2017-08-27
+134,304,Harm Dik,Grootebroek,MTRIM,46,00:17:16,00:15:40,00:15:20,00:48:15,00:48:19,Hemmeromloop ,2017-08-27
+135,280,Jeroen Spanjer,Beverwijk,MTRIM,47,00:17:37,00:15:20,00:15:28,00:48:24,00:48:35,Hemmeromloop ,2017-08-27
+136,182,Erik Ruiter,,MKAMP,16,00:17:34,00:14:54,00:16:00,00:48:26,00:48:35,Hemmeromloop ,2017-08-27
+137,447,Jolanda Rozier,Hoogkarspel,V40,4,00:17:43,00:15:27,00:15:20,00:48:28,00:48:36,Hemmeromloop ,2017-08-27
+138,262,Dave Vang,Blokker,MTRIM,48,00:16:09,00:15:23,00:16:59,00:48:30,00:48:42,Hemmeromloop ,2017-08-27
+139,81,louis helsloot,,M55,9,00:17:30,00:15:40,00:15:28,00:48:37,00:48:44,Hemmeromloop ,2017-08-27
+140,116,sonja strauwets,,VSEN,7,00:17:31,00:15:39,00:15:27,00:48:37,00:48:44,Hemmeromloop ,2017-08-27
+141,298,Gerrit Jan van der Leek,,MTRIM,49,00:17:49,00:15:30,00:15:29,00:48:48,00:48:57,Hemmeromloop ,2017-08-27
+142,122,Rahil Roodsaz,Atos,V35,4,00:18:03,00:15:26,00:15:15,00:48:42,00:48:59,Hemmeromloop ,2017-08-27
+143,453,Lisette Boon,SAV,V35,5,00:18:02,00:15:31,00:15:33,00:49:05,00:49:09,Hemmeromloop ,2017-08-27
+144,198,Tiemen Bos,Hoogkarspel,MTRIM,50,00:17:36,00:15:48,00:15:46,00:49:10,00:49:17,Hemmeromloop ,2017-08-27
+145,297,FRank Dekker,,MTRIM,51,00:17:34,00:15:43,00:15:52,00:49:08,00:49:21,Hemmeromloop ,2017-08-27
+146,259,Lies de Vleminck,Merchten,MTRIM,52,00:17:25,00:15:37,00:16:08,00:49:10,00:49:22,Hemmeromloop ,2017-08-27
+147,489,Aafke Boon,Amsterdam,VTRIM,2,00:18:16,00:15:54,00:15:04,00:49:12,00:49:26,Hemmeromloop ,2017-08-27
+148,227,Wim Smit,Grootebroek,MTRIM,53,00:17:36,00:15:38,00:15:54,00:49:07,00:49:29,Hemmeromloop ,2017-08-27
+149,213,Jeroen Stap,Hoogkarspel,MTRIM,54,00:16:53,00:16:05,00:16:27,00:49:24,00:49:30,Hemmeromloop ,2017-08-27
+150,217,Piet Vriend,Wervershoof,MTRIM,55,00:18:25,00:15:45,00:15:12,00:49:21,00:49:36,Hemmeromloop ,2017-08-27
+151,175,Siegfried Kok,Hem,MKAMP,17,00:18:34,00:15:28,00:15:28,00:49:29,00:49:38,Hemmeromloop ,2017-08-27
+152,118,Sanne Glas,Hera,VSEN,8,00:18:30,00:15:39,00:15:39,00:49:47,00:49:56,Hemmeromloop ,2017-08-27
+153,238,Ruud van Stralen,Enkhuizen,MTRIM,56,00:16:11,00:17:17,00:16:25,00:49:53,00:50:00,Hemmeromloop ,2017-08-27
+154,147,Michel Haring,Hem,MKAMP,18,00:18:08,00:15:54,00:15:48,00:49:49,00:50:02,Hemmeromloop ,2017-08-27
+155,185,Frank Zwagerman,Hoogkarspel,MKAMP,19,00:18:30,00:15:45,00:15:40,00:49:54,00:50:04,Hemmeromloop ,2017-08-27
+156,235,Daniel van Gils,Hoorn Nh,MTRIM,57,00:17:24,00:16:11,00:16:27,00:50:00,00:50:05,Hemmeromloop ,2017-08-27
+157,98,Sjaak Boon,avVN,M60,7,00:18:34,00:15:56,00:15:37,00:50:06,00:50:08,Hemmeromloop ,2017-08-27
+158,99,Antoon van der Jagt,avVN,M60,8,00:17:50,00:16:04,00:16:12,00:50:05,00:50:12,Hemmeromloop ,2017-08-27
+159,268,Gian Broers,,MTRIM,58,00:18:38,00:15:46,00:15:40,00:50:04,00:50:18,Hemmeromloop ,2017-08-27
+160,291,Ronald Kolenberg,Andijk,MTRIM,59,00:19:21,00:15:45,00:15:22,00:50:27,00:50:40,Hemmeromloop ,2017-08-27
+161,179,Lars Boon,,MKAMP,20,00:17:56,00:16:21,00:16:31,00:50:48,00:50:52,Hemmeromloop ,2017-08-27
+162,226,Simon Brandt,Hoogkarspel,MTRIM,60,00:17:12,00:16:11,00:17:30,00:50:52,00:51:03,Hemmeromloop ,2017-08-27
+163,451,Fleur Hakkesteegt,Enkhuizen,VTRIM,3,00:18:36,00:16:30,00:16:09,00:51:14,00:51:22,Hemmeromloop ,2017-08-27
+164,172,NIels Kool,Venhuizen,MKAMP,21,00:18:56,00:16:09,00:16:09,00:51:14,00:51:26,Hemmeromloop ,2017-08-27
+165,496,Suzanne Kuin,Hem,VTRIM,4,00:18:37,00:16:27,00:16:12,00:51:15,00:51:26,Hemmeromloop ,2017-08-27
+166,60,Kelly den Haan,Loopgroep Hoorn,M45,12,00:19:04,00:16:25,00:15:44,00:51:11,00:51:27,Hemmeromloop ,2017-08-27
+167,153,Jos TImmer,Venhuizen,MKAMP,22,00:18:24,00:16:01,00:17:01,00:51:25,00:51:35,Hemmeromloop ,2017-08-27
+168,270,Hans Veerbeek,Hoorn Nh,MTRIM,61,00:19:13,00:16:19,00:16:00,00:51:31,00:51:48,Hemmeromloop ,2017-08-27
+169,203,Dick Verdonschot,Wervershoof,MTRIM,62,00:18:17,00:16:18,00:17:11,00:51:45,00:51:53,Hemmeromloop ,2017-08-27
+170,249,Mark Kuijer,Haarlem,MTRIM,63,00:18:40,00:16:29,00:16:33,00:51:41,00:51:54,Hemmeromloop ,2017-08-27
+171,403,Marijn Koopman,Bergen,VTRIM,5,00:18:30,00:16:43,00:16:30,00:51:41,00:51:55,Hemmeromloop ,2017-08-27
+172,479,Mieke Bakker,Amsterdam,VTRIM,6,00:18:51,00:16:17,00:16:39,00:51:46,00:51:56,Hemmeromloop ,2017-08-27
+173,212,Jan Laan,Hem,MTRIM,64,00:18:26,00:16:41,00:16:55,00:52:01,00:52:07,Hemmeromloop ,2017-08-27
+174,299,Pieter Plas,,MTRIM,65,00:18:47,00:16:57,00:16:08,00:51:51,00:52:10,Hemmeromloop ,2017-08-27
+175,284,Kevin Huing,Enkhuizen,MTRIM,66,00:18:45,00:16:32,00:16:46,00:52:01,00:52:11,Hemmeromloop ,2017-08-27
+176,481,Linda de Groot,Hoogkarspel,VTRIM,7,00:19:03,00:16:27,00:16:38,00:52:07,00:52:13,Hemmeromloop ,2017-08-27
+177,404,Angelique Bakker Blom,Enkhuizen,VSEN,9,00:18:45,00:16:32,00:16:48,00:52:04,00:52:14,Hemmeromloop ,2017-08-27
+178,96,Ed de jong,Atos,M60,9,00:19:34,00:16:21,00:16:06,00:52:01,00:52:16,Hemmeromloop ,2017-08-27
+179,228,Rogier Linterman,Hoorn Nh,MTRIM,67,00:19:23,00:16:30,00:16:10,00:52:02,00:52:18,Hemmeromloop ,2017-08-27
+180,495,Dorien kuin,Hoogkarspel,VTRIM,8,00:19:02,00:16:30,00:16:42,00:52:13,00:52:24,Hemmeromloop ,2017-08-27
+181,295,Pieter Keesman,,MTRIM,68,00:19:10,00:16:40,00:16:24,00:52:13,00:52:25,Hemmeromloop ,2017-08-27
+182,301,Edv Sanches,,MTRIM,69,00:19:08,00:16:42,00:16:49,00:52:37,00:52:47,Hemmeromloop ,2017-08-27
+183,181,Koos Laan,,MKAMP,23,00:19:08,00:16:39,00:16:54,00:52:39,00:52:48,Hemmeromloop ,2017-08-27
+184,493,Annemieke Veken,Hoogkarspel,VTRIM,9,00:19:23,00:16:44,00:16:35,00:52:42,00:52:59,Hemmeromloop ,2017-08-27
+185,264,Bart Muller,Zwaag,MTRIM,70,00:18:31,00:16:35,00:17:40,00:52:45,00:52:59,Hemmeromloop ,2017-08-27
+186,467,Truus Puul,,V45,7,00:19:12,00:16:51,00:16:49,00:52:52,00:53:03,Hemmeromloop ,2017-08-27
+187,312,,,,1,00:19:01,00:16:50,00:17:02,00:52:52,00:53:04,Hemmeromloop ,2017-08-27
+188,246,Wietse de groot,Bovenkarspel,MTRIM,71,00:19:55,00:16:40,00:16:13,00:52:48,00:53:13,Hemmeromloop ,2017-08-27
+189,245,Frank Koning,Bovenkarspel,MTRIM,72,00:19:55,00:16:40,00:16:22,00:52:57,00:53:22,Hemmeromloop ,2017-08-27
+190,194,Remco de Haas,Zaandam,MTRIM,73,00:18:49,00:16:52,00:17:51,00:53:30,00:53:36,Hemmeromloop ,2017-08-27
+191,145,Gerard Koster,Venhuizen,MKAMP,24,00:18:41,00:16:37,00:18:16,00:53:33,00:53:41,Hemmeromloop ,2017-08-27
+192,189,Ron Laan,Venhuizen,MKAMP,25,00:19:21,00:16:59,00:17:18,00:53:37,00:53:49,Hemmeromloop ,2017-08-27
+193,288,Teun Sneeboer,Grootebroek,MTRIM,74,00:20:29,00:16:41,00:16:34,00:53:43,00:53:58,Hemmeromloop ,2017-08-27
+194,196,Kees Greuter,Hoogkarspel,MTRIM,75,00:20:20,00:16:56,00:16:29,00:53:44,00:54:03,Hemmeromloop ,2017-08-27
+195,234,Ronald Guitoneau,Hollandia,MTRIM,76,00:19:37,00:16:58,00:17:24,00:53:59,00:54:17,Hemmeromloop ,2017-08-27
+196,477,Petra Dilling,Enkhuizen,VTRIM,10,00:20:04,00:17:19,00:16:54,00:54:16,00:54:25,Hemmeromloop ,2017-08-27
+197,294,Gerrit Beuling,,MTRIM,77,00:20:11,00:17:09,00:17:14,00:54:33,00:54:47,Hemmeromloop ,2017-08-27
+198,146,Kees Laan,Venhuizen,MKAMP,26,00:19:37,00:17:03,00:18:04,00:54:43,00:54:49,Hemmeromloop ,2017-08-27
+199,148,Roy Akkerman,Venhuizen,MKAMP,27,00:20:41,00:17:15,00:16:37,00:54:32,00:54:51,Hemmeromloop ,2017-08-27
+200,135,Patricia Noordeloos,,V40,5,00:19:18,00:17:41,00:17:46,00:54:44,00:54:53,Hemmeromloop ,2017-08-27
+201,143,Luc Neefjes,Hoogkarspel,MKAMP,28,00:19:13,00:17:46,00:18:12,00:55:10,00:55:17,Hemmeromloop ,2017-08-27
+202,171,Piet Boon,Venhuizen,MKAMP,29,00:18:51,00:17:19,00:18:56,00:55:05,00:55:19,Hemmeromloop ,2017-08-27
+203,448,Saskia Boon,SAV,VTRIM,11,00:20:17,00:17:20,00:17:39,00:55:15,00:55:22,Hemmeromloop ,2017-08-27
+204,449,Pauline Appelman,SAV,VTRIM,12,00:20:19,00:17:48,00:17:08,00:55:15,00:55:22,Hemmeromloop ,2017-08-27
+205,310,Ronald Koppes,Zwaag,M40,5,00:20:18,00:17:25,00:17:21,00:55:03,00:55:22,Hemmeromloop ,2017-08-27
+206,274,Andre Dekker,Wognum,MTRIM,78,00:20:42,00:17:29,00:16:54,00:55:05,00:55:23,Hemmeromloop ,2017-08-27
+207,141,Kees Bot,Hollandia,MKAMP,30,00:20:02,00:17:34,00:18:06,00:55:41,00:55:48,Hemmeromloop ,2017-08-27
+208,242,Eric Hes,Hoorn Nh,MTRIM,79,00:20:17,00:17:17,00:18:06,00:55:39,00:55:57,Hemmeromloop ,2017-08-27
+209,230,Daniel Doets,Enkhuizen,MTRIM,80,00:20:01,00:16:51,00:18:59,00:55:50,00:56:02,Hemmeromloop ,2017-08-27
+210,236,Ron Schaft,Oostzaan,MTRIM,81,00:20:38,00:17:46,00:17:55,00:56:19,00:56:36,Hemmeromloop ,2017-08-27
+211,273,Kees Bijvoet,Wognum,MTRIM,82,00:20:47,00:17:43,00:18:05,00:56:34,00:56:49,Hemmeromloop ,2017-08-27
+212,287,Richard Hes,Heerhugowaard,MTRIM,83,00:18:29,00:19:25,00:18:51,00:56:44,00:56:53,Hemmeromloop ,2017-08-27
+213,251,Jacco Tensen,Grootebroek,MTRIM,84,00:20:33,00:17:35,00:18:34,00:56:41,00:56:56,Hemmeromloop ,2017-08-27
+214,454,Anne HOman,Hollandia,VSEN,10,00:20:42,00:17:58,00:18:10,00:56:49,00:56:57,Hemmeromloop ,2017-08-27
+215,407,Dewie Drogenga,Hoorn Nh,V40,6,00:20:46,00:18:10,00:17:57,00:56:52,00:57:00,Hemmeromloop ,2017-08-27
+216,244,Jeroen Tusveld,Oosthuizen,MTRIM,85,00:19:14,00:18:00,00:19:37,00:56:51,00:57:00,Hemmeromloop ,2017-08-27
+217,466,Carla Zwart,Hollandia,V45,8,00:21:23,00:17:53,00:17:29,00:56:44,00:57:02,Hemmeromloop ,2017-08-27
+218,450,Joselin Haring,Wervershoof,V40,7,00:19:04,00:18:24,00:19:34,00:57:01,00:57:04,Hemmeromloop ,2017-08-27
+219,488,Gwendoline van der Linden,Hoogkarspel,VTRIM,13,00:20:57,00:18:13,00:18:21,00:57:30,00:57:40,Hemmeromloop ,2017-08-27
+220,402,Anne-Luke Sneeboer,Bovenkarspel,VTRIM,14,00:20:43,00:18:15,00:18:36,00:57:33,00:57:49,Hemmeromloop ,2017-08-27
+221,281,Aad Sneeboer,Bovenkarspel,MTRIM,86,00:20:42,00:18:15,00:18:36,00:57:33,00:57:49,Hemmeromloop ,2017-08-27
+222,307,HOfland,Wijdenes,MTRIM,87,00:21:43,00:18:19,00:17:25,00:57:25,00:57:51,Hemmeromloop ,2017-08-27
+223,195,John heiman,Hoogkarspel,MTRIM,88,00:20:20,00:19:23,00:17:56,00:57:38,00:57:58,Hemmeromloop ,2017-08-27
+224,401,Sonja Beemsterboer,Wormer,V35,6,00:21:12,00:18:23,00:18:10,00:57:44,00:57:58,Hemmeromloop ,2017-08-27
+225,204,Leon de Wit,Wijdenes,MTRIM,89,00:21:31,00:18:16,00:18:10,00:57:56,00:58:16,Hemmeromloop ,2017-08-27
+226,490,Esther Botman,Venhuizen,VTRIM,15,00:20:34,00:18:36,00:19:15,00:58:24,00:58:27,Hemmeromloop ,2017-08-27
+227,272,Guido Ruiter,Wormer,MTRIM,90,00:21:11,00:18:26,00:18:39,00:58:14,00:58:29,Hemmeromloop ,2017-08-27
+228,241,Charles Rijkmans,Enkhuizen,MTRIM,91,00:21:48,00:18:19,00:18:11,00:58:17,00:58:38,Hemmeromloop ,2017-08-27
+229,232,Ton scheelings,IJmuiden,MTRIM,92,00:20:37,00:18:57,00:18:44,00:58:17,00:58:40,Hemmeromloop ,2017-08-27
+230,214,Bas Stroomer,Zaandam,MTRIM,93,00:21:27,00:18:23,00:18:32,00:58:21,00:58:41,Hemmeromloop ,2017-08-27
+231,480,Dorien van Diepen,Wervershoof,VTRIM,16,00:21:26,00:18:25,00:18:43,00:58:32,00:58:49,Hemmeromloop ,2017-08-27
+232,452,Marian Klooster,SAV,VTRIM,17,00:20:48,00:18:20,00:19:40,00:58:47,00:58:50,Hemmeromloop ,2017-08-27
+233,115,selina brausweiger,,VSEN,11,00:20:12,00:19:39,00:18:49,00:58:39,00:58:50,Hemmeromloop ,2017-08-27
+234,209,Eric Brouwer,Almere,MTRIM,94,00:21:56,00:18:25,00:18:44,00:59:04,00:59:26,Hemmeromloop ,2017-08-27
+235,486,Sanna Smit,Hoogkarspel,VTRIM,18,00:21:13,00:19:18,00:18:54,00:59:25,00:59:44,Hemmeromloop ,2017-08-27
+236,400,Leny Ligthart,Lutjebroek,VTRIM,19,00:21:24,00:19:18,00:19:10,00:59:52,01:00:00,Hemmeromloop ,2017-08-27
+237,265,Paul Dohmen,Hollandia,MTRIM,95,00:20:44,00:19:54,00:19:24,01:00:01,01:00:17,Hemmeromloop ,2017-08-27
+238,94,Jan J. Laan,Loopgroep Hoorn,M60,10,00:22:35,00:18:49,00:18:47,01:00:11,01:00:28,Hemmeromloop ,2017-08-27
+239,243,robert bijdemat,Enkhuizen,MTRIM,96,00:21:25,00:18:53,00:19:58,01:00:15,01:00:36,Hemmeromloop ,2017-08-27
+240,409,Cora Oud,,VTRIM,20,00:22:32,00:19:13,00:19:25,01:01:09,01:01:17,Hemmeromloop ,2017-08-27
+241,256,Erik den Os,Bovenkarspel,MTRIM,97,00:20:59,00:19:30,00:20:43,01:01:10,01:01:23,Hemmeromloop ,2017-08-27
+242,216,Kees Koops,Hierden,MTRIM,98,00:21:04,00:19:34,00:20:57,01:01:33,01:01:35,Hemmeromloop ,2017-08-27
+243,271,Niels BOtman,,MTRIM,99,00:21:33,00:20:16,00:20:05,01:01:52,01:02:04,Hemmeromloop ,2017-08-27
+244,483,Remy Hoek Spaans,Wijdenes,VTRIM,21,00:21:20,00:20:28,00:20:26,01:02:14,01:02:28,Hemmeromloop ,2017-08-27
+245,205,Sjaak van Diepen,Andijk,MTRIM,100,00:22:22,00:19:27,00:20:27,01:02:15,01:02:30,Hemmeromloop ,2017-08-27
+246,215,Wim Koops,Hierden,MTRIM,101,00:21:55,00:20:35,00:20:06,01:02:34,01:02:35,Hemmeromloop ,2017-08-27
+247,261,Arie Hennevanger,IJmuiden,MTRIM,102,00:22:30,00:19:47,00:20:01,01:02:18,01:02:41,Hemmeromloop ,2017-08-27
+248,478,Catharine Bakker,Hollandia,VTRIM,22,00:23:04,00:19:39,00:19:58,01:02:40,01:02:57,Hemmeromloop ,2017-08-27
+249,484,Cindy Zwart,Hollandia,VTRIM,23,00:23:04,00:19:39,00:19:58,01:02:41,01:02:57,Hemmeromloop ,2017-08-27
+250,248,Henk Rutte,Haarlem,MTRIM,103,00:22:36,00:19:51,00:20:24,01:02:50,01:03:02,Hemmeromloop ,2017-08-27
+251,303,Ron Sanches,,MTRIM,104,00:22:20,00:19:42,00:21:10,01:03:10,01:03:26,Hemmeromloop ,2017-08-27
+252,138,Hélène Schilder,SAV,V45,9,00:23:10,00:19:51,00:20:18,01:03:19,01:03:30,Hemmeromloop ,2017-08-27
+253,263,Ruud HOrn,Almere,MTRIM,105,00:22:50,00:20:23,00:21:12,01:04:24,01:04:39,Hemmeromloop ,2017-08-27
+254,491,Judith Linterman,Winkel,VTRIM,24,00:22:47,00:20:12,00:21:29,01:04:27,01:04:45,Hemmeromloop ,2017-08-27
+255,266,Ilse Lodewijk,Hollandia,MTRIM,106,00:24:03,00:20:28,00:20:36,01:05:06,01:05:20,Hemmeromloop ,2017-08-27
+256,494,Mary dos Santo Silva,Hoorn Nh,VTRIM,25,00:23:04,00:20:39,00:21:47,01:05:29,01:05:50,Hemmeromloop ,2017-08-27
+257,239,Sjaak boon,Hem,MTRIM,107,00:23:01,00:21:16,00:21:36,01:05:52,01:05:59,Hemmeromloop ,2017-08-27
+258,211,Richard Andriessen,Hoorn Nh,MTRIM,108,00:22:56,00:20:47,00:22:01,01:05:43,01:06:05,Hemmeromloop ,2017-08-27
+259,208,Giovanni perini,Enkhuizen,MTRIM,109,00:24:47,00:21:32,00:20:01,01:06:19,01:06:30,Hemmeromloop ,2017-08-27
+260,154,Albert Boon,Hoogkarspel,MKAMP,31,00:22:21,00:21:32,00:22:39,01:06:31,01:06:50,Hemmeromloop ,2017-08-27
+261,102,MIchiel Koorn,avVN,M60,11,00:21:50,00:21:45,00:23:23,01:06:57,01:07:08,Hemmeromloop ,2017-08-27
+262,193,Jaap Brouwer,Hoorn Nh,MTRIM,110,00:24:02,00:21:16,00:21:48,01:07:05,01:07:27,Hemmeromloop ,2017-08-27
+263,286,Pim Kuipers,Hollandia,MTRIM,111,00:25:21,00:21:44,00:21:43,01:08:47,01:09:05,Hemmeromloop ,2017-08-27
+264,405,Kitty Hoogeboom,Heiloo,VTRIM,26,00:23:58,00:22:33,00:22:38,01:09:08,01:09:21,Hemmeromloop ,2017-08-27
+265,231,Rob Linterman,Wieringerwerf,MTRIM,112,00:24:54,00:23:18,00:23:25,01:11:36,01:11:53,Hemmeromloop ,2017-08-27
+266,408,Judith Leijen-Fresco,Venhuizen,V45,10,00:25:46,00:23:09,00:22:50,01:11:44,01:11:57,Hemmeromloop ,2017-08-27
+267,492,Michelle van der Velden,Zwaag,VTRIM,27,00:25:55,00:24:06,00:24:08,01:14:08,01:14:17,Hemmeromloop ,2017-08-27
+268,485,Marjolein van Hengst,Enkhuizen,VTRIM,28,00:25:52,00:24:26,00:24:23,01:14:40,01:14:54,Hemmeromloop ,2017-08-27
+269,97,Joop Keetman,Lycurgus,M60,12,00:27:53,00:24:41,00:24:37,01:17:10,01:17:27,Hemmeromloop ,2017-08-27

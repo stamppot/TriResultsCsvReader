@@ -1,0 +1,485 @@
+Nr,StartNr,Naam,School/Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,1292,Lars Molenkamp,Almere '81,J9-10,1,00:03:23,00:03:22,36e Zeebodemloop ,2016-06-04
+2,1123,Abdi Abubakaz,Lelystad,J1314,1,00:03:25,00:03:23,36e Zeebodemloop ,2016-06-04
+3,1017,Tim Tempelman,OBS de Driemaster,J1112,1,00:03:26,00:03:25,36e Zeebodemloop ,2016-06-04
+4,1150,Daan Bergmans,Flevo Delta,J1112,2,00:03:30,00:03:30,36e Zeebodemloop ,2016-06-04
+5,1026,Kelian Jansen,kbs De Toermalijn,J1112,3,00:03:34,00:03:32,36e Zeebodemloop ,2016-06-04
+6,1100,Erik Cana,Spirit Lelystad,J1112,4,00:03:34,00:03:31,36e Zeebodemloop ,2016-06-04
+7,1331,Iris Turksema,Lelystad,M9-10,1,00:03:38,00:03:37,36e Zeebodemloop ,2016-06-04
+8,1310,Mathijs Adriaanse,Spirit Lelystad,J9-10,2,00:03:42,00:03:41,36e Zeebodemloop ,2016-06-04
+9,1104,Indy Faassen,Flevo Delta,M1112,1,00:03:44,00:03:43,36e Zeebodemloop ,2016-06-04
+10,1018,Joe van Opstal,OBS de Driemaster,J1112,5,00:03:45,00:03:44,36e Zeebodemloop ,2016-06-04
+11,1109,Ciara Nijland,Lelystad,M1112,2,00:03:46,00:03:44,36e Zeebodemloop ,2016-06-04
+12,1095,Younes El Bouchhati,Lelystad,J1112,6,00:03:48,00:03:48,36e Zeebodemloop ,2016-06-04
+13,1451,Hendrik Jackson,OBS De Vuurtoren,J7-8,1,00:03:50,00:03:49,36e Zeebodemloop ,2016-06-04
+14,1469,Tycho de Vries,De Tjotter,J7-8,2,00:03:50,00:03:49,36e Zeebodemloop ,2016-06-04
+15,1096,Tycho Huisman,Lelystad,J1314,2,00:03:52,00:03:48,36e Zeebodemloop ,2016-06-04
+16,1030,Emir Elboustani,SBO de Watergeus,J1112,7,00:03:52,00:03:50,36e Zeebodemloop ,2016-06-04
+17,1120,Suzanne Vink,Lelystad,M1112,3,00:03:53,00:03:52,36e Zeebodemloop ,2016-06-04
+18,1004,Oskar Sitek,O.B.S. De Optimist,J1314,3,00:03:53,00:03:51,36e Zeebodemloop ,2016-06-04
+19,1281,Rami Gtari,OBS De Vuurtoren,J9-10,3,00:03:53,00:03:53,36e Zeebodemloop ,2016-06-04
+20,1098,Antonio Ramos,Lelystad,J1112,8,00:03:54,00:03:50,36e Zeebodemloop ,2016-06-04
+21,1293,Milan Tromp,Almere '81,J9-10,4,00:03:54,00:03:53,36e Zeebodemloop ,2016-06-04
+22,1094,Tarik El Bouchhati,Lelystad,J1314,4,00:03:54,00:03:54,36e Zeebodemloop ,2016-06-04
+23,1329,Lea Winkelman,Spirit Lelystad,J9-10,5,00:03:55,00:03:53,36e Zeebodemloop ,2016-06-04
+24,1406,Timo Verweij,OBS de Driemaster,J7-8,3,00:03:55,00:03:54,36e Zeebodemloop ,2016-06-04
+25,1010,Koen van Eden,de Windroos,J1112,9,00:03:56,00:03:54,36e Zeebodemloop ,2016-06-04
+26,1296,Jochem Terluin,Lelystad,J9-10,6,00:03:56,00:03:55,36e Zeebodemloop ,2016-06-04
+27,1168,Domenique Buter,Vogelveste,J9-10,7,00:03:56,00:03:55,36e Zeebodemloop ,2016-06-04
+28,509,Jesse van Barneveld,Lelystad,J7-8,4,00:04:00,00:03:58,36e Zeebodemloop ,2016-06-04
+29,1320,Isis te Pas,Spirit Lelystad,M9-10,2,00:04:01,00:03:59,36e Zeebodemloop ,2016-06-04
+30,1427,Ismail Jahouh,OBS De Vuurtoren,J7-8,5,00:04:01,00:04:00,36e Zeebodemloop ,2016-06-04
+31,1241,Jorne Wachters,kbs De Toermalijn,J9-10,8,00:04:02,00:03:58,36e Zeebodemloop ,2016-06-04
+32,1485,Luuk Godijn,Lelystad,J7-8,6,00:04:05,00:04:02,36e Zeebodemloop ,2016-06-04
+33,1239,Bas Simons,kbs De Toermalijn,J9-10,9,00:04:05,00:04:03,36e Zeebodemloop ,2016-06-04
+34,1059,Nadalina Dugandzic,O.B.S. De Optimist,M1112,4,00:04:06,00:04:04,36e Zeebodemloop ,2016-06-04
+35,1114,Tommy Larson,Meander,J1112,10,00:04:08,00:04:07,36e Zeebodemloop ,2016-06-04
+36,1025,Morris Boumans,OBS de Driemaster,J1112,11,00:04:08,00:04:07,36e Zeebodemloop ,2016-06-04
+37,1279,Munasar Abdirazaq Warsame,OBS De Vuurtoren,J9-10,10,00:04:08,00:04:07,36e Zeebodemloop ,2016-06-04
+38,1079,Lev van Ligtenberg,OBS De Tjalk,J1112,12,00:04:09,00:04:06,36e Zeebodemloop ,2016-06-04
+39,1482,Senna van Veenendaal,Lelystad,J7-8,7,00:04:09,00:04:07,36e Zeebodemloop ,2016-06-04
+40,1073,Mats Fokker,OBS De Tjalk,J1112,13,00:04:09,00:04:04,36e Zeebodemloop ,2016-06-04
+41,1160,Collin van Voorst,de Windroos,J9-10,11,00:04:10,00:04:08,36e Zeebodemloop ,2016-06-04
+42,1290,Coen van Rijn,Horizon,J9-10,12,00:04:11,00:04:09,36e Zeebodemloop ,2016-06-04
+43,1302,Joshua Ramos,Lelystad,J9-10,13,00:04:12,00:04:07,36e Zeebodemloop ,2016-06-04
+44,1198,Sam van der Hulst,de Windroos,M9-10,3,00:04:12,00:04:09,36e Zeebodemloop ,2016-06-04
+45,1456,Jimme Keegstra,de Windroos,J7-8,8,00:04:12,00:04:10,36e Zeebodemloop ,2016-06-04
+46,1479,Nynke Glas,Lelystad,M7-8,1,00:04:12,00:04:11,36e Zeebodemloop ,2016-06-04
+47,1334,Gijs van de Velde,Lelystad,J9-10,14,00:04:13,00:04:11,36e Zeebodemloop ,2016-06-04
+48,1083,Valentino van Beelen,Vogelveste,J1112,14,00:04:13,00:04:09,36e Zeebodemloop ,2016-06-04
+49,1110,Giorgio Nijland,Lelystad,J1112,15,00:04:13,00:04:11,36e Zeebodemloop ,2016-06-04
+50,1459,Tamas Gabriel Szeremley,de Windroos,J7-8,9,00:04:14,00:04:10,36e Zeebodemloop ,2016-06-04
+51,1411,Rafael Ciucka,kbs De Toermalijn,J7-8,10,00:04:14,00:04:11,36e Zeebodemloop ,2016-06-04
+52,1111,Gelino,Lelystad,J1112,16,00:04:14,00:04:13,36e Zeebodemloop ,2016-06-04
+53,1087,Blend Mekers,De Tjotter,M1112,5,00:04:15,00:04:09,36e Zeebodemloop ,2016-06-04
+54,1057,Hidde Keegstra,de Windroos,J1112,17,00:04:15,00:04:08,36e Zeebodemloop ,2016-06-04
+55,1299,Nick Houtstra,Lelystad,J9-10,15,00:04:15,00:04:08,36e Zeebodemloop ,2016-06-04
+56,1173,Mick Voortman,de Windroos,J9-10,16,00:04:16,00:04:13,36e Zeebodemloop ,2016-06-04
+57,1498,Rick Winkelman,Spirit Lelystad,J7-8,11,00:04:16,00:04:14,36e Zeebodemloop ,2016-06-04
+58,1210,Erica de Lange,OBS De Tjalk,M9-10,4,00:04:16,00:04:16,36e Zeebodemloop ,2016-06-04
+59,1157,Mack Mooiweer,de Windroos,J9-10,17,00:04:16,00:04:14,36e Zeebodemloop ,2016-06-04
+60,1531,Job Gerritsen,Horizon,J1112,18,00:04:17,00:04:10,36e Zeebodemloop ,2016-06-04
+61,1204,Milan Zandvliet,OBS de Driemaster,J9-10,18,00:04:17,00:04:15,36e Zeebodemloop ,2016-06-04
+62,1101,Jasper de Goeijen,Lelystad,J1112,19,00:04:17,00:04:14,36e Zeebodemloop ,2016-06-04
+63,1248,Sem van Loon,kbs De Toermalijn,J9-10,19,00:04:17,00:04:14,36e Zeebodemloop ,2016-06-04
+64,1404,Demian van Dijk,OBS de Driemaster,J7-8,12,00:04:17,00:04:16,36e Zeebodemloop ,2016-06-04
+65,1196,Djustin van der Horst,OBS de Driemaster,J9-10,20,00:04:17,00:04:13,36e Zeebodemloop ,2016-06-04
+66,1108,Stefan Hagendijk,Lelystad,J1112,20,00:04:17,00:04:13,36e Zeebodemloop ,2016-06-04
+67,1247,Pepijn vd Vennen,kbs De Toermalijn,J9-10,21,00:04:18,00:04:14,36e Zeebodemloop ,2016-06-04
+68,1034,Levi Libardo Bol,CBS Ichthus,J1112,21,00:04:18,00:04:15,36e Zeebodemloop ,2016-06-04
+69,1319,Lisa Caldenhoven,Spirit Lelystad,M9-10,5,00:04:18,00:04:16,36e Zeebodemloop ,2016-06-04
+70,1318,Eva Ligtvoet,Spirit Lelystad,M9-10,6,00:04:18,00:04:17,36e Zeebodemloop ,2016-06-04
+71,1497,Milan Heere,OBS De Tjalk,J7-8,13,00:04:19,00:04:14,36e Zeebodemloop ,2016-06-04
+72,1037,Zeyad Rasoelbaks,OBS De Vuurtoren,J1112,22,00:04:21,00:04:20,36e Zeebodemloop ,2016-06-04
+73,1082,Giel Freriks,OBS De Tjalk,J1112,23,00:04:23,00:04:18,36e Zeebodemloop ,2016-06-04
+74,1184,Fabio Volonteri,OBS de Driemaster,J9-10,22,00:04:23,00:04:21,36e Zeebodemloop ,2016-06-04
+75,1086,Luca Blokland,De Tjotter,J1112,24,00:04:23,00:04:17,36e Zeebodemloop ,2016-06-04
+76,1413,Jesse Meijerink,kbs De Toermalijn,J7-8,14,00:04:24,00:04:21,36e Zeebodemloop ,2016-06-04
+77,1038,Xander Overwater,Meander,J1112,25,00:04:24,00:04:22,36e Zeebodemloop ,2016-06-04
+78,1099,Louise-Maria Ramos,Lelystad,M1112,6,00:04:25,00:04:21,36e Zeebodemloop ,2016-06-04
+79,1249,Finn Beekman,kbs De Toermalijn,J9-10,23,00:04:25,00:04:20,36e Zeebodemloop ,2016-06-04
+80,1112,Anne van der Plas,Lelystad,M1112,7,00:04:25,00:04:21,36e Zeebodemloop ,2016-06-04
+81,1185,Tom Pelt,OBS de Driemaster,J9-10,24,00:04:25,00:04:22,36e Zeebodemloop ,2016-06-04
+82,1323,Eren,Lelystad,J9-10,25,00:04:25,00:04:24,36e Zeebodemloop ,2016-06-04
+83,1113,Sanne Strijker,Lelystad,M1112,8,00:04:26,00:04:23,36e Zeebodemloop ,2016-06-04
+84,1175,Noortje Biemond,Meander,M9-10,7,00:04:26,00:04:20,36e Zeebodemloop ,2016-06-04
+85,1455,Guido de Pee,de Windroos,J7-8,15,00:04:26,00:04:23,36e Zeebodemloop ,2016-06-04
+86,1237,Hadera Hailu,COA,M9-10,8,00:04:27,00:04:19,36e Zeebodemloop ,2016-06-04
+87,1475,Jari Bras,Lelystad,J7-8,16,00:04:27,00:04:26,36e Zeebodemloop ,2016-06-04
+88,1321,Jasmijn Vink,Lelystad,M9-10,9,00:04:28,00:04:24,36e Zeebodemloop ,2016-06-04
+89,1508,Noel Oliver Szeremley,de Windroos,J-6,1,00:04:28,00:04:26,36e Zeebodemloop ,2016-06-04
+90,1317,Femke Grift,Lelystad,M9-10,10,00:04:29,00:04:26,36e Zeebodemloop ,2016-06-04
+91,1074,Jilano van Tol,OBS De Tjalk,J1112,26,00:04:29,00:04:26,36e Zeebodemloop ,2016-06-04
+92,1447,Waylon Killaars,Meander,J7-8,17,00:04:29,00:04:26,36e Zeebodemloop ,2016-06-04
+93,1491,Matthijs Vink,Lelystad,J7-8,18,00:04:31,00:04:29,36e Zeebodemloop ,2016-06-04
+94,1222,Auke Gerritsen,Horizon,J9-10,26,00:04:31,00:04:23,36e Zeebodemloop ,2016-06-04
+95,1401,Senne Wissink,Vogelveste,J7-8,19,00:04:32,00:04:30,36e Zeebodemloop ,2016-06-04
+96,1117,Nick de Vries,Lelystad,J1112,27,00:04:32,00:04:29,36e Zeebodemloop ,2016-06-04
+97,1495,Ahmed Ibrahim Mohamed,OBS De Vuurtoren,J7-8,20,00:04:32,00:04:30,36e Zeebodemloop ,2016-06-04
+98,1430,Garassa,COA,J7-8,21,00:04:33,00:04:32,36e Zeebodemloop ,2016-06-04
+99,1271,Mehdi Zebboudj,O.B.S. De Optimist,M9-10,11,00:04:34,00:04:31,36e Zeebodemloop ,2016-06-04
+100,1053,Rachel van Heusden,OBS de Driemaster,M1112,9,00:04:34,00:04:26,36e Zeebodemloop ,2016-06-04
+101,1024,Cian Terstroot,OBS de Driemaster,J1112,28,00:04:34,00:04:32,36e Zeebodemloop ,2016-06-04
+102,1493,Anouk Scherpenzeel,Lelystad,M7-8,2,00:04:34,00:04:31,36e Zeebodemloop ,2016-06-04
+103,1315,Said Daniel Abedi,COA,J9-10,27,00:04:34,00:04:31,36e Zeebodemloop ,2016-06-04
+104,1194,Roy van Weezep,De Tjotter,J9-10,28,00:04:35,00:04:32,36e Zeebodemloop ,2016-06-04
+105,1306,Niels Bon,Lelystad,J9-10,29,00:04:35,00:04:31,36e Zeebodemloop ,2016-06-04
+106,1219,Rick ten Holte,OBS de Driemaster,J9-10,30,00:04:36,00:04:31,36e Zeebodemloop ,2016-06-04
+107,1445,Njordy Boon,Meander,J7-8,22,00:04:36,00:04:32,36e Zeebodemloop ,2016-06-04
+108,1266,Douna Aktaou,O.B.S. De Optimist,M9-10,12,00:04:36,00:04:36,36e Zeebodemloop ,2016-06-04
+109,1153,Thygo Sienema,de Windroos,J9-10,31,00:04:37,00:04:32,36e Zeebodemloop ,2016-06-04
+110,1008,Fardowso Abdurahman Ahmed,OBS De Vuurtoren,M1314,1,00:04:37,00:04:36,36e Zeebodemloop ,2016-06-04
+111,1191,Kate van Mourik,de Windroos,M9-10,13,00:04:37,00:04:37,36e Zeebodemloop ,2016-06-04
+112,1179,Lisa Potts,de Windroos,M9-10,14,00:04:38,00:04:34,36e Zeebodemloop ,2016-06-04
+113,507,Sidney de Pruis,Lelystad,J7-8,23,00:04:38,00:04:36,36e Zeebodemloop ,2016-06-04
+114,1130,Rilana Duynstee,Spirit Lelystad,M1112,10,00:04:38,00:04:33,36e Zeebodemloop ,2016-06-04
+115,1400,Kuba Akbuga,Vogelveste,J7-8,24,00:04:38,00:04:37,36e Zeebodemloop ,2016-06-04
+116,1326,Mohamed Ibrahim,OBS De Vuurtoren,J9-10,32,00:04:38,00:04:37,36e Zeebodemloop ,2016-06-04
+117,1434,Natalie Heikoop,de Windroos,M7-8,3,00:04:38,00:04:33,36e Zeebodemloop ,2016-06-04
+118,1207,Jorden de Ree,Triangel,J9-10,33,00:04:39,00:04:33,36e Zeebodemloop ,2016-06-04
+119,1016,Dylano Couwenbergh,Vogelveste,J1112,29,00:04:39,00:04:35,36e Zeebodemloop ,2016-06-04
+120,1393,Faizalla Mohamad,COA,M7-8,4,00:04:40,00:04:38,36e Zeebodemloop ,2016-06-04
+121,1051,Floortje Koller,OBS de Driemaster,M1112,11,00:04:41,00:04:35,36e Zeebodemloop ,2016-06-04
+122,1466,Simon Grimbergen,OBS De Tjalk,J7-8,25,00:04:41,00:04:33,36e Zeebodemloop ,2016-06-04
+123,1468,Frederik Schmidt,OBS De Tjalk,J7-8,26,00:04:41,00:04:33,36e Zeebodemloop ,2016-06-04
+124,1065,Niels van der Meij,OBS De Tjalk,J1112,30,00:04:42,00:04:37,36e Zeebodemloop ,2016-06-04
+125,1307,Tigo Vos,Lelystad,J9-10,34,00:04:42,00:04:38,36e Zeebodemloop ,2016-06-04
+126,1129,Judith Lammers,OBS De Tjalk,M1112,12,00:04:43,00:04:40,36e Zeebodemloop ,2016-06-04
+127,1416,Karst Janbroers,kbs De Toermalijn,J7-8,27,00:04:43,00:04:41,36e Zeebodemloop ,2016-06-04
+128,1238,Saned,COA,M9-10,15,00:04:43,00:04:35,36e Zeebodemloop ,2016-06-04
+129,1031,Drezic Hulsbosch,CBS Ichthus,J1112,31,00:04:43,00:04:41,36e Zeebodemloop ,2016-06-04
+130,1203,Zoe Velthuis,de Windroos,M9-10,16,00:04:44,00:04:41,36e Zeebodemloop ,2016-06-04
+131,1021,Daniel van Dijk,OBS de Driemaster,J1112,32,00:04:44,00:04:42,36e Zeebodemloop ,2016-06-04
+132,1254,Dion Been,SBO de Watergeus,J9-10,35,00:04:45,00:04:35,36e Zeebodemloop ,2016-06-04
+133,1454,Aaron van der Hulst,de Windroos,J7-8,28,00:04:46,00:04:41,36e Zeebodemloop ,2016-06-04
+134,1105,Mike Tak,Lelystad,J1112,33,00:04:46,00:04:44,36e Zeebodemloop ,2016-06-04
+135,1092,Ivan Bruijnzeels,Vogelveste,J1112,34,00:04:47,00:04:42,36e Zeebodemloop ,2016-06-04
+136,1297,Luca Gerringa,Spirit Lelystad,J9-10,36,00:04:48,00:04:45,36e Zeebodemloop ,2016-06-04
+137,1372,Anissa Boudunt,O.B.S. De Optimist,M7-8,5,00:04:49,00:04:47,36e Zeebodemloop ,2016-06-04
+138,1590,Jada Kaminyoge,Kampen,M-6,1,00:04:49,00:04:48,36e Zeebodemloop ,2016-06-04
+139,1243,Natalie Smid,kbs De Toermalijn,M9-10,17,00:04:50,00:04:45,36e Zeebodemloop ,2016-06-04
+140,1019,Kyan van Sunder,OBS de Driemaster,J1112,35,00:04:50,00:04:46,36e Zeebodemloop ,2016-06-04
+141,1206,Jasmijn Klaasen,OBS De Tjalk,M9-10,18,00:04:50,00:04:43,36e Zeebodemloop ,2016-06-04
+142,502,Loek Turksema,Lelystad,J7-8,29,00:04:50,00:04:38,36e Zeebodemloop ,2016-06-04
+143,1309,Kjell Joosten,Lelystad,J9-10,37,00:04:51,00:04:49,36e Zeebodemloop ,2016-06-04
+144,1077,Nikki Schenk,OBS De Tjalk,M1112,13,00:04:51,00:04:46,36e Zeebodemloop ,2016-06-04
+145,1027,JJ Cozijnsen,kbs De Toermalijn,J1112,36,00:04:52,00:04:47,36e Zeebodemloop ,2016-06-04
+146,1328,Raf Woud,Lelystad,J9-10,38,00:04:52,00:04:46,36e Zeebodemloop ,2016-06-04
+147,511,Rhiley de Groot,Lelystad,J7-8,30,00:04:52,00:04:40,36e Zeebodemloop ,2016-06-04
+148,1327,Bram Rensema,Lelystad,J9-10,39,00:04:52,00:04:44,36e Zeebodemloop ,2016-06-04
+149,1121,Huseyin,Lelystad,J1112,37,00:04:53,00:04:53,36e Zeebodemloop ,2016-06-04
+150,1402,Sander de Vries,OBS de Driemaster,J7-8,31,00:04:53,00:04:51,36e Zeebodemloop ,2016-06-04
+151,1424,Armaan Sayedi,OBS De Vuurtoren,J7-8,32,00:04:53,00:04:48,36e Zeebodemloop ,2016-06-04
+152,1351,Quinn Prins,de Windroos,J7-8,33,00:04:54,00:04:48,36e Zeebodemloop ,2016-06-04
+153,1122,Lola,Lelystad,M1112,14,00:04:54,00:04:52,36e Zeebodemloop ,2016-06-04
+154,1192,Vera Sterk,OBS de Driemaster,M9-10,19,00:04:54,00:04:50,36e Zeebodemloop ,2016-06-04
+155,503,Kevin van de Bongardt,Lelystad,J7-8,34,00:04:54,00:04:44,36e Zeebodemloop ,2016-06-04
+156,1521,Joaquim van Zuilekom,OBS de Driemaster,J-6,2,00:04:55,00:04:51,36e Zeebodemloop ,2016-06-04
+157,1005,Mohamed Abdulameer,OBS De Vuurtoren,J1314,5,00:04:55,00:04:54,36e Zeebodemloop ,2016-06-04
+158,1270,Amir Saedi,O.B.S. De Optimist,J9-10,40,00:04:55,00:04:52,36e Zeebodemloop ,2016-06-04
+159,1187,Iris Pereboom,de Windroos,M9-10,20,00:04:55,00:04:51,36e Zeebodemloop ,2016-06-04
+160,1488,Jesse Hagendijk,Lelystad,J7-8,35,00:04:56,00:04:52,36e Zeebodemloop ,2016-06-04
+161,1595,Minke Bon,Lelystad,M-6,2,00:04:56,00:04:53,36e Zeebodemloop ,2016-06-04
+162,1410,Robin Postma,kbs De Toermalijn,J7-8,36,00:04:56,00:04:51,36e Zeebodemloop ,2016-06-04
+163,1423,Mohammed El Mourabit,OBS De Vuurtoren,J7-8,37,00:04:56,00:04:52,36e Zeebodemloop ,2016-06-04
+164,1422,Sem Kuiper,OBS De Vuurtoren,J7-8,38,00:04:57,00:04:56,36e Zeebodemloop ,2016-06-04
+165,1043,Rawad,COA,J1112,38,00:04:57,00:04:52,36e Zeebodemloop ,2016-06-04
+166,1013,Deacon Steman,Vogelveste,J1112,39,00:04:58,00:04:54,36e Zeebodemloop ,2016-06-04
+167,1093,Skyler Drenth,Vogelveste,M1112,15,00:04:58,00:04:53,36e Zeebodemloop ,2016-06-04
+168,1088,Erik van Vulpen,Vogelveste,J1112,40,00:04:59,00:04:53,36e Zeebodemloop ,2016-06-04
+169,1035,Ekrem Koç,OBS De Vuurtoren,J1112,41,00:04:59,00:04:58,36e Zeebodemloop ,2016-06-04
+170,1261,Najoua Dadi,O.B.S. De Optimist,M9-10,21,00:05:00,00:04:56,36e Zeebodemloop ,2016-06-04
+171,1457,Cas Goossens,de Windroos,J7-8,39,00:05:00,00:04:54,36e Zeebodemloop ,2016-06-04
+172,1428,Anwar Rasoelbaks,OBS De Vuurtoren,J7-8,40,00:05:01,00:05:00,36e Zeebodemloop ,2016-06-04
+173,1221,Felicia de Wit,OBS De Tjalk,M9-10,22,00:05:01,00:04:58,36e Zeebodemloop ,2016-06-04
+174,1492,Quinta Lena Ronde,Lelystad,M7-8,6,00:05:01,00:04:58,36e Zeebodemloop ,2016-06-04
+175,1288,Elisa van den Haspel,Horizon,M9-10,23,00:05:02,00:04:53,36e Zeebodemloop ,2016-06-04
+176,1481,Daan Wijers,Lelystad,J7-8,41,00:05:02,00:04:51,36e Zeebodemloop ,2016-06-04
+177,1388,Isa Hekkenberg,OBS de Driemaster,M7-8,7,00:05:02,00:04:50,36e Zeebodemloop ,2016-06-04
+178,1277,Julian Artz,OBS De Vuurtoren,J9-10,41,00:05:02,00:05:01,36e Zeebodemloop ,2016-06-04
+179,1220,Renske Eerdmans,OBS De Tjalk,M9-10,24,00:05:03,00:04:59,36e Zeebodemloop ,2016-06-04
+180,1384,Kim Venhuizen,Meander,M7-8,8,00:05:03,00:04:56,36e Zeebodemloop ,2016-06-04
+181,1063,Karlijn Janssen,OBS De Tjalk,M1112,16,00:05:03,00:04:59,36e Zeebodemloop ,2016-06-04
+182,1064,Dounia El Mourabit,OBS De Vuurtoren,M1112,17,00:05:03,00:05:02,36e Zeebodemloop ,2016-06-04
+183,1551,Zahra de Vries,De Tjotter,M-6,3,00:05:04,00:05:03,36e Zeebodemloop ,2016-06-04
+184,1091,Mahmud Mohamad,Vogelveste,J1112,42,00:05:04,00:04:59,36e Zeebodemloop ,2016-06-04
+185,1199,Arda Gantay,Triangel,J9-10,42,00:05:04,00:04:58,36e Zeebodemloop ,2016-06-04
+186,1062,Deeqo Abubakar Abdi,OBS De Vuurtoren,M1112,18,00:05:04,00:05:03,36e Zeebodemloop ,2016-06-04
+187,508,Tuur van de Velde,Lelystad,J7-8,42,00:05:04,00:05:03,36e Zeebodemloop ,2016-06-04
+188,506,Eva van Lammeren,Almere,M7-8,9,00:05:04,00:05:01,36e Zeebodemloop ,2016-06-04
+189,1596,Bram Hiemstra,Lelystad,J-6,3,00:05:05,00:04:57,36e Zeebodemloop ,2016-06-04
+190,1405,Mark Roos,OBS de Driemaster,J7-8,43,00:05:05,00:04:59,36e Zeebodemloop ,2016-06-04
+191,1300,Damian Jansen,Lelystad,J9-10,43,00:05:05,00:04:59,36e Zeebodemloop ,2016-06-04
+192,1324,Simon Boerhout,Lelystad,J9-10,44,00:05:06,00:05:00,36e Zeebodemloop ,2016-06-04
+193,1049,Annelieke Friedrich,de Windroos,M1112,19,00:05:07,00:05:00,36e Zeebodemloop ,2016-06-04
+194,1186,Erik Roos,OBS de Driemaster,J9-10,45,00:05:07,00:05:03,36e Zeebodemloop ,2016-06-04
+195,1007,Samira Ibrahim Mohamed,OBS De Vuurtoren,M1314,2,00:05:08,00:05:07,36e Zeebodemloop ,2016-06-04
+196,1036,Alhamza Abdulameer,OBS De Vuurtoren,J1112,43,00:05:08,00:05:08,36e Zeebodemloop ,2016-06-04
+197,1478,Tom Dijkstra,Lelystad,J7-8,44,00:05:08,00:04:55,36e Zeebodemloop ,2016-06-04
+198,1090,Ravdeep Singh,Vogelveste,J1112,44,00:05:09,00:05:05,36e Zeebodemloop ,2016-06-04
+199,1272,Dilan Hulsbosch,CBS Ichthus,J9-10,46,00:05:09,00:05:07,36e Zeebodemloop ,2016-06-04
+200,1103,Bryan Joosten,Lelystad,J1112,45,00:05:09,00:05:05,36e Zeebodemloop ,2016-06-04
+201,1197,Jasper Prins,Triangel,J9-10,47,00:05:10,00:05:04,36e Zeebodemloop ,2016-06-04
+202,1418,Caleb Bol,CBS Ichthus,J7-8,45,00:05:10,00:05:01,36e Zeebodemloop ,2016-06-04
+203,1588,Nadhir Gtari,OBS De Vuurtoren,J-6,4,00:05:11,00:05:10,36e Zeebodemloop ,2016-06-04
+204,1284,Isaiah Redan,OBS De Vuurtoren,J9-10,48,00:05:11,00:05:09,36e Zeebodemloop ,2016-06-04
+205,512,Lars den Hartog,Lelystad,J7-8,46,00:05:11,00:05:07,36e Zeebodemloop ,2016-06-04
+206,1215,Emma Eijpe,OBS de Driemaster,M9-10,25,00:05:11,00:05:06,36e Zeebodemloop ,2016-06-04
+207,1193,Sterre Kamminga,OBS de Driemaster,M9-10,26,00:05:12,00:05:07,36e Zeebodemloop ,2016-06-04
+208,1115,Katja Timmer,Lelystad,M1112,20,00:05:12,00:05:10,36e Zeebodemloop ,2016-06-04
+209,1246,Yannick Postma,kbs De Toermalijn,J9-10,49,00:05:12,00:05:09,36e Zeebodemloop ,2016-06-04
+210,1124,Hannah de Wilde,Lelystad,M1112,21,00:05:13,00:05:11,36e Zeebodemloop ,2016-06-04
+211,1275,Vivarno Ralf,CBS Ichthus,J9-10,50,00:05:13,00:05:11,36e Zeebodemloop ,2016-06-04
+212,1496,Abdullah Massoudi,Lelystad,J7-8,47,00:05:13,00:05:11,36e Zeebodemloop ,2016-06-04
+213,1189,Emma Hoedemaker,OBS de Driemaster,M9-10,27,00:05:13,00:05:06,36e Zeebodemloop ,2016-06-04
+214,1325,Fien Haberland,Lelystad,M9-10,28,00:05:14,00:05:08,36e Zeebodemloop ,2016-06-04
+215,1012,Lars van Amsterdam,de Windroos,J1112,46,00:05:14,00:05:07,36e Zeebodemloop ,2016-06-04
+216,1373,Lisanne Böning,OBS de Driemaster,M7-8,10,00:05:14,00:05:08,36e Zeebodemloop ,2016-06-04
+217,510,Sendo Commandeur,Lelystad,J7-8,48,00:05:15,00:05:03,36e Zeebodemloop ,2016-06-04
+218,1420,Dario Cloin,OBS De Vuurtoren,J7-8,49,00:05:15,00:05:12,36e Zeebodemloop ,2016-06-04
+219,1412,Roan Yszenga,kbs De Toermalijn,J7-8,50,00:05:15,00:05:11,36e Zeebodemloop ,2016-06-04
+220,513,Jesse den Hartog,Lelystad,J7-8,51,00:05:16,00:05:12,36e Zeebodemloop ,2016-06-04
+221,1414,Thijmen Jansen,kbs De Toermalijn,J7-8,52,00:05:16,00:05:13,36e Zeebodemloop ,2016-06-04
+222,1080,Lynn Groen,OBS De Tjalk,M1112,22,00:05:17,00:05:14,36e Zeebodemloop ,2016-06-04
+223,1161,Bart van Solt,OBS De Tjalk,J9-10,51,00:05:17,00:05:11,36e Zeebodemloop ,2016-06-04
+224,1050,Dewi van Dam,OBS de Driemaster,M1112,23,00:05:18,00:05:13,36e Zeebodemloop ,2016-06-04
+225,1052,Emma Crawford,OBS de Driemaster,M1112,24,00:05:18,00:05:13,36e Zeebodemloop ,2016-06-04
+226,1158,Maarten Grimbergen,OBS De Tjalk,J9-10,52,00:05:18,00:05:11,36e Zeebodemloop ,2016-06-04
+227,1584,Liam Vos,Lelystad,J-6,5,00:05:19,00:05:16,36e Zeebodemloop ,2016-06-04
+228,1006,Mohamad Saad Ghanaymi,COA,J1314,6,00:05:19,00:05:16,36e Zeebodemloop ,2016-06-04
+229,1214,Esmee Teunissen,OBS de Driemaster,M9-10,29,00:05:19,00:05:15,36e Zeebodemloop ,2016-06-04
+230,1047,Louai Khattab,COA,J1112,47,00:05:21,00:05:19,36e Zeebodemloop ,2016-06-04
+231,1533,Thomas Lether,Horizon,J-6,6,00:05:21,00:05:18,36e Zeebodemloop ,2016-06-04
+232,1126,Lars Cana,Lelystad,J1314,7,00:05:22,00:05:13,36e Zeebodemloop ,2016-06-04
+233,1311,Lina Ben Salem,Lelystad,M9-10,30,00:05:23,00:05:14,36e Zeebodemloop ,2016-06-04
+234,1446,David Martendorp,Meander,J7-8,53,00:05:24,00:05:19,36e Zeebodemloop ,2016-06-04
+235,1181,Melanie Roseboom,de Windroos,M9-10,31,00:05:24,00:05:20,36e Zeebodemloop ,2016-06-04
+236,1476,Joanne de Vsiser,Lelystad,M7-8,11,00:05:24,00:05:19,36e Zeebodemloop ,2016-06-04
+237,504,Yasmine Hamdi,OBS De Tjalk,M7-8,12,00:05:24,00:05:16,36e Zeebodemloop ,2016-06-04
+238,1514,Christian Rooze,OBS De Tjalk,J-6,7,00:05:25,00:05:17,36e Zeebodemloop ,2016-06-04
+239,1211,Sem Coorengel,Vogelveste,J9-10,53,00:05:26,00:05:18,36e Zeebodemloop ,2016-06-04
+240,1183,Jesse Arendse,OBS De Tjalk,J9-10,54,00:05:26,00:05:19,36e Zeebodemloop ,2016-06-04
+241,1461,Boar Velthuis,de Windroos,J7-8,54,00:05:26,00:05:24,36e Zeebodemloop ,2016-06-04
+242,1041,Emmanuel Uzondu,COA,J1112,48,00:05:27,00:05:22,36e Zeebodemloop ,2016-06-04
+243,1386,Sophie Overwater,Meander,M7-8,13,00:05:27,00:05:23,36e Zeebodemloop ,2016-06-04
+244,1218,Joshua Huyting,Vogelveste,J9-10,55,00:05:29,00:05:21,36e Zeebodemloop ,2016-06-04
+245,1360,Celesta de Wit,OBS De Tjalk,M7-8,14,00:05:29,00:05:20,36e Zeebodemloop ,2016-06-04
+246,1154,Rory den Hertog,Vogelveste,M9-10,32,00:05:29,00:05:20,36e Zeebodemloop ,2016-06-04
+247,1431,Isa Ramkema,OBS De Tjalk,M7-8,15,00:05:29,00:05:23,36e Zeebodemloop ,2016-06-04
+248,1072,Romy Arendse,OBS De Tjalk,M1112,25,00:05:30,00:05:26,36e Zeebodemloop ,2016-06-04
+249,1240,Mahak,COA,M9-10,33,00:05:30,00:05:26,36e Zeebodemloop ,2016-06-04
+250,1532,Abel Brouwer,Horizon,J-6,8,00:05:31,00:05:25,36e Zeebodemloop ,2016-06-04
+251,1573,Lieve Brouwer,Horizon,M-6,4,00:05:31,00:05:27,36e Zeebodemloop ,2016-06-04
+252,1242,Susanne Bosch,kbs De Toermalijn,M9-10,34,00:05:32,00:05:30,36e Zeebodemloop ,2016-06-04
+253,1448,Lucas van der Ploeg,Horizon,J7-8,55,00:05:33,00:05:24,36e Zeebodemloop ,2016-06-04
+254,1068,Eleonora Ebube,COA,M1112,26,00:05:33,00:05:27,36e Zeebodemloop ,2016-06-04
+255,1040,Yohana Dagnachew,COA,J1112,49,00:05:33,00:05:28,36e Zeebodemloop ,2016-06-04
+256,1265,Rana Aktaou,O.B.S. De Optimist,M9-10,35,00:05:35,00:05:34,36e Zeebodemloop ,2016-06-04
+257,1216,Sienna Houweling,OBS De Tjalk,M9-10,36,00:05:35,00:05:34,36e Zeebodemloop ,2016-06-04
+258,1477,Ruben van Buiten,Lelystad,J7-8,56,00:05:35,00:05:22,36e Zeebodemloop ,2016-06-04
+259,1511,Roan van Mourik,OBS De Tjalk,J-6,9,00:05:35,00:05:27,36e Zeebodemloop ,2016-06-04
+260,1361,Amy de Rijk,OBS De Tjalk,M7-8,16,00:05:36,00:05:30,36e Zeebodemloop ,2016-06-04
+261,1304,Julien Kepper,Lelystad,J9-10,56,00:05:36,00:05:31,36e Zeebodemloop ,2016-06-04
+262,1394,Fadi,COA,J7-8,57,00:05:36,00:05:34,36e Zeebodemloop ,2016-06-04
+263,1507,Thomas Willemse,de Windroos,J-6,10,00:05:37,00:05:32,36e Zeebodemloop ,2016-06-04
+264,1494,Ryan van der Drift,Lelystad,J7-8,58,00:05:37,00:05:34,36e Zeebodemloop ,2016-06-04
+265,1523,Noah Meijaard,OBS de Driemaster,J-6,11,00:05:37,00:05:36,36e Zeebodemloop ,2016-06-04
+266,1397,Rufta Tsegay Abreha,COA,M7-8,17,00:05:38,00:05:30,36e Zeebodemloop ,2016-06-04
+267,1356,Faith van Doorn,Vogelveste,M7-8,18,00:05:38,00:05:35,36e Zeebodemloop ,2016-06-04
+268,1273,Karim el Hamouchi,CBS Ichthus,J9-10,57,00:05:38,00:05:36,36e Zeebodemloop ,2016-06-04
+269,1229,Miland de Goede,Meander,J9-10,58,00:05:38,00:05:31,36e Zeebodemloop ,2016-06-04
+270,1530,David Doorneweert,Horizon,J-6,12,00:05:39,00:05:34,36e Zeebodemloop ,2016-06-04
+271,1015,Liam Brunings,Vogelveste,J1112,50,00:05:40,00:05:35,36e Zeebodemloop ,2016-06-04
+272,1245,Danae Kranenbarg,kbs De Toermalijn,M9-10,37,00:05:40,00:05:36,36e Zeebodemloop ,2016-06-04
+273,1244,Dani vd Kruk,kbs De Toermalijn,M9-10,38,00:05:41,00:05:38,36e Zeebodemloop ,2016-06-04
+274,1250,Amy Yszenga,kbs De Toermalijn,M9-10,39,00:05:41,00:05:36,36e Zeebodemloop ,2016-06-04
+275,1223,Anouk Lenzen,Meander,M9-10,40,00:05:42,00:05:36,36e Zeebodemloop ,2016-06-04
+276,1332,Lilian Dullaert,Lelystad,M9-10,41,00:05:42,00:05:40,36e Zeebodemloop ,2016-06-04
+277,1188,Meintje de Vries,Meander,M9-10,42,00:05:42,00:05:36,36e Zeebodemloop ,2016-06-04
+278,1032,Angelo Konstantinov,CBS Ichthus,J1112,51,00:05:43,00:05:41,36e Zeebodemloop ,2016-06-04
+279,1403,Mika de Rooij,OBS de Driemaster,J7-8,59,00:05:43,00:05:31,36e Zeebodemloop ,2016-06-04
+280,1579,Nora El Bouchhati,Lelystad,M-6,5,00:05:44,00:05:42,36e Zeebodemloop ,2016-06-04
+281,1528,Mohamed Enes Danis,OBS De Vuurtoren,J-6,13,00:05:45,00:05:43,36e Zeebodemloop ,2016-06-04
+282,1464,Mika Eijpe,OBS De Tjalk,J7-8,60,00:05:45,00:05:37,36e Zeebodemloop ,2016-06-04
+283,1106,Meshael Almohammed,COA,J1112,52,00:05:46,00:05:43,36e Zeebodemloop ,2016-06-04
+284,1156,Senna Eijpe,OBS De Tjalk,J9-10,59,00:05:46,00:05:39,36e Zeebodemloop ,2016-06-04
+285,1465,Ryan Janse,OBS De Tjalk,J7-8,61,00:05:46,00:05:38,36e Zeebodemloop ,2016-06-04
+286,1544,Anouk Sienema,de Windroos,M-6,6,00:05:46,00:05:42,36e Zeebodemloop ,2016-06-04
+287,1547,Amelie Visser,de Windroos,M-6,7,00:05:47,00:05:42,36e Zeebodemloop ,2016-06-04
+288,1408,Ferris Terstroot,OBS de Driemaster,J7-8,62,00:05:47,00:05:34,36e Zeebodemloop ,2016-06-04
+289,1232,Lars ten Katen,Meander,J9-10,60,00:05:48,00:05:38,36e Zeebodemloop ,2016-06-04
+290,1225,Niels van den Hoff,OBS de Driemaster,J9-10,61,00:05:49,00:05:39,36e Zeebodemloop ,2016-06-04
+291,1597,Noor Zuidhof,Lelystad,M-6,8,00:05:49,00:05:46,36e Zeebodemloop ,2016-06-04
+292,1592,Tijmen Daan,Lelystad,J-6,14,00:05:50,00:05:47,36e Zeebodemloop ,2016-06-04
+293,1172,Justin van Dijk,de Windroos,J9-10,62,00:05:50,00:05:47,36e Zeebodemloop ,2016-06-04
+294,1585,Björn Groen,Lelystad,J-6,15,00:05:51,00:05:46,36e Zeebodemloop ,2016-06-04
+295,1546,Kiki Woud,de Windroos,M-6,9,00:05:51,00:05:47,36e Zeebodemloop ,2016-06-04
+296,1537,Abraham Tsegay Abreha,COA,J-6,16,00:05:51,00:05:49,36e Zeebodemloop ,2016-06-04
+297,1333,Lloyd Masore,Lelystad,J9-10,63,00:05:51,00:05:41,36e Zeebodemloop ,2016-06-04
+298,1453,Osken de Leeuw,de Windroos,J7-8,63,00:05:52,00:05:45,36e Zeebodemloop ,2016-06-04
+299,1228,Simon Martendorp,Meander,J9-10,64,00:05:52,00:05:45,36e Zeebodemloop ,2016-06-04
+300,1582,Brandon Jansen,Lelystad,J-6,17,00:05:53,00:05:47,36e Zeebodemloop ,2016-06-04
+301,1587,Safia Jahouh,Lelystad,M-6,10,00:05:54,00:05:51,36e Zeebodemloop ,2016-06-04
+302,1378,Tuana Acun,OBS De Vuurtoren,M7-8,19,00:05:55,00:05:51,36e Zeebodemloop ,2016-06-04
+303,1085,Sander Alberts,Vogelveste,J1112,53,00:05:55,00:05:47,36e Zeebodemloop ,2016-06-04
+304,1545,Enya van der Ancker,de Windroos,M-6,11,00:05:55,00:05:52,36e Zeebodemloop ,2016-06-04
+305,1486,Lisa van Haandel,OBS De Vuurtoren,M7-8,20,00:05:55,00:05:50,36e Zeebodemloop ,2016-06-04
+306,1212,Dionne Kerpentier,OBS De Tjalk,M9-10,43,00:05:56,00:05:49,36e Zeebodemloop ,2016-06-04
+307,1213,Estreya Aeissing,OBS de Driemaster,M9-10,44,00:05:56,00:05:52,36e Zeebodemloop ,2016-06-04
+308,1263,Esmanur Kaya,O.B.S. De Optimist,M9-10,45,00:05:56,00:05:55,36e Zeebodemloop ,2016-06-04
+309,1535,Robin Alberts,De Lepelaar,J-6,18,00:05:56,00:05:55,36e Zeebodemloop ,2016-06-04
+310,1484,Quinty van Dullemen,Lelystad,M7-8,21,00:05:56,00:05:51,36e Zeebodemloop ,2016-06-04
+311,1377,Asli Demir,O.B.S. De Optimist,M7-8,22,00:05:57,00:05:53,36e Zeebodemloop ,2016-06-04
+312,1441,Isabella Edelerbosch,de Windroos,M7-8,23,00:05:57,00:05:47,36e Zeebodemloop ,2016-06-04
+313,1234,Eriberto Chidozie,COA,J9-10,65,00:05:58,00:05:50,36e Zeebodemloop ,2016-06-04
+314,1231,Evi Kouwenhoven,De Lepelaar,M9-10,46,00:05:59,00:05:49,36e Zeebodemloop ,2016-06-04
+315,1081,Ylan de Bruijn,OBS De Tjalk,J1112,54,00:05:59,00:05:55,36e Zeebodemloop ,2016-06-04
+316,1056,Merrin Kamminga,SBO de Watergeus,M1112,27,00:05:59,00:05:52,36e Zeebodemloop ,2016-06-04
+317,1516,Matthijs van Liempt,De Tjotter,J-6,19,00:05:59,00:05:57,36e Zeebodemloop ,2016-06-04
+318,1483,Storm Jansen,Lelystad,J7-8,64,00:05:59,00:05:57,36e Zeebodemloop ,2016-06-04
+319,1449,Yairon Reding,Horizon,J7-8,65,00:05:59,00:05:50,36e Zeebodemloop ,2016-06-04
+320,1285,Maram Abdulameer,OBS De Vuurtoren,M9-10,47,00:06:00,00:05:53,36e Zeebodemloop ,2016-06-04
+321,1022,Kaylan Aeissing,OBS de Driemaster,J1112,55,00:06:00,00:05:55,36e Zeebodemloop ,2016-06-04
+322,1458,Max Snoerwang,de Windroos,J7-8,66,00:06:01,00:05:55,36e Zeebodemloop ,2016-06-04
+323,1335,Sabine Roekhoven,Lelystad,M9-10,48,00:06:01,00:05:51,36e Zeebodemloop ,2016-06-04
+324,1076,Emily van den Heuvel,OBS De Tjalk,M1112,28,00:06:02,00:05:58,36e Zeebodemloop ,2016-06-04
+325,1510,Sacha Janse,OBS De Tjalk,J-6,20,00:06:02,00:05:57,36e Zeebodemloop ,2016-06-04
+326,1550,Hayleigh Onstwedder,De Tjotter,M-6,12,00:06:03,00:05:57,36e Zeebodemloop ,2016-06-04
+327,1529,Jacco Joustra,Horizon,J-6,21,00:06:03,00:05:57,36e Zeebodemloop ,2016-06-04
+328,1594,Ingmar Etmans,Lelystad,J-6,22,00:06:03,00:05:54,36e Zeebodemloop ,2016-06-04
+329,1039,Rowena Stokhof,Vogelveste,M1112,29,00:06:04,00:05:59,36e Zeebodemloop ,2016-06-04
+330,1536,Chanmikaur,COA,J-6,23,00:06:04,00:06:02,36e Zeebodemloop ,2016-06-04
+331,1524,Jasper ten Holte,OBS de Driemaster,J-6,24,00:06:05,00:06:02,36e Zeebodemloop ,2016-06-04
+332,1286,Morina Chedi,OBS De Vuurtoren,M9-10,49,00:06:05,00:05:58,36e Zeebodemloop ,2016-06-04
+333,1556,Britt van Dijk,Triangel,M-6,13,00:06:05,00:05:54,36e Zeebodemloop ,2016-06-04
+334,1374,Sarah-Jane Buis,OBS de Driemaster,M7-8,24,00:06:05,00:06:02,36e Zeebodemloop ,2016-06-04
+335,1502,Jarno Oord,de Windroos,J-6,25,00:06:06,00:06:01,36e Zeebodemloop ,2016-06-04
+336,1291,Amber van den Hengel,Horizon,M9-10,50,00:06:06,00:05:57,36e Zeebodemloop ,2016-06-04
+337,1278,Ahmed Elbouhi,OBS De Vuurtoren,J9-10,66,00:06:06,00:06:06,36e Zeebodemloop ,2016-06-04
+338,1303,Lotte Dekkers,Lelystad,M9-10,51,00:06:06,00:06:05,36e Zeebodemloop ,2016-06-04
+339,1171,Lotte Harders,Horizon,M9-10,52,00:06:07,00:06:00,36e Zeebodemloop ,2016-06-04
+340,1264,Leandra de Roon,O.B.S. De Optimist,M9-10,53,00:06:08,00:06:07,36e Zeebodemloop ,2016-06-04
+341,1390,Isabel van Hulten,kbs De Toermalijn,M7-8,25,00:06:09,00:06:04,36e Zeebodemloop ,2016-06-04
+342,1282,Rasim Danis,OBS De Vuurtoren,J9-10,67,00:06:09,00:06:09,36e Zeebodemloop ,2016-06-04
+343,1392,Kebron Dagnachew,COA,M7-8,26,00:06:10,00:06:02,36e Zeebodemloop ,2016-06-04
+344,1387,Larissa Visser,OBS de Driemaster,M7-8,27,00:06:10,00:05:58,36e Zeebodemloop ,2016-06-04
+345,1167,Lune van der Vlies,Horizon,M9-10,54,00:06:10,00:06:01,36e Zeebodemloop ,2016-06-04
+346,1166,Doris Timmerman,Horizon,M9-10,55,00:06:10,00:06:02,36e Zeebodemloop ,2016-06-04
+347,1371,Rosa Woltjer,Horizon,M7-8,28,00:06:11,00:06:00,36e Zeebodemloop ,2016-06-04
+348,1370,Lotte Stegenga,Horizon,M7-8,29,00:06:11,00:06:00,36e Zeebodemloop ,2016-06-04
+349,1375,Marissa Engel,OBS de Driemaster,M7-8,30,00:06:12,00:05:59,36e Zeebodemloop ,2016-06-04
+350,1487,Toine de Vries,Lelystad,J7-8,67,00:06:13,00:06:03,36e Zeebodemloop ,2016-06-04
+351,1501,Max Edelerbosch,de Windroos,J-6,26,00:06:14,00:06:08,36e Zeebodemloop ,2016-06-04
+352,1060,Dounya El Azzouri,O.B.S. De Optimist,M1112,30,00:06:14,00:06:11,36e Zeebodemloop ,2016-06-04
+353,1490,Cailin Waterman,Lelystad,M7-8,31,00:06:14,00:06:10,36e Zeebodemloop ,2016-06-04
+354,1363,Esri Seunnenga,Triangel,M7-8,32,00:06:15,00:06:02,36e Zeebodemloop ,2016-06-04
+355,1409,Tim ten Holte,OBS de Driemaster,J7-8,68,00:06:15,00:06:03,36e Zeebodemloop ,2016-06-04
+356,1591,Esmée van Lammeren,Almere,M-6,14,00:06:16,00:06:13,36e Zeebodemloop ,2016-06-04
+357,1253,Saïd Ruimgaart,SBO de Watergeus,J9-10,68,00:06:17,00:06:10,36e Zeebodemloop ,2016-06-04
+358,1202,Jo-Amy Gilissen,Meander,M9-10,56,00:06:17,00:06:12,36e Zeebodemloop ,2016-06-04
+359,1352,Selene Janmaat,Horizon,M7-8,33,00:06:18,00:06:09,36e Zeebodemloop ,2016-06-04
+360,1354,Jeslynn Oornink,Horizon,M7-8,34,00:06:19,00:06:10,36e Zeebodemloop ,2016-06-04
+361,1365,Zoë van Dijk,Triangel,M7-8,35,00:06:20,00:06:15,36e Zeebodemloop ,2016-06-04
+362,1258,Thomas Mossel,SBO de Watergeus,J9-10,69,00:06:20,00:06:08,36e Zeebodemloop ,2016-06-04
+363,1558,Renske Luitwieler,OBS de Driemaster,M-6,15,00:06:20,00:06:17,36e Zeebodemloop ,2016-06-04
+364,1226,Lois Tiethoff,Vogelveste,M9-10,57,00:06:20,00:06:15,36e Zeebodemloop ,2016-06-04
+365,1489,Benjamin Fielemon,Lelystad,J7-8,69,00:06:21,00:06:16,36e Zeebodemloop ,2016-06-04
+366,1525,Marcos Dabagh,O.B.S. De Optimist,J-6,27,00:06:22,00:06:21,36e Zeebodemloop ,2016-06-04
+367,1555,Robee de Moor,Triangel,M-6,16,00:06:23,00:06:11,36e Zeebodemloop ,2016-06-04
+368,1070,Nima Ramezani,COA,M1112,31,00:06:23,00:06:21,36e Zeebodemloop ,2016-06-04
+369,1061,Sada Hailu,COA,M1112,32,00:06:23,00:06:20,36e Zeebodemloop ,2016-06-04
+370,1589,Kian van Mourit,OBS De Tjalk,J-6,28,00:06:23,00:06:22,36e Zeebodemloop ,2016-06-04
+371,1415,Cian Wolffensperger,kbs De Toermalijn,J7-8,70,00:06:23,00:06:19,36e Zeebodemloop ,2016-06-04
+372,1559,Feline Visser,OBS de Driemaster,M-6,17,00:06:23,00:06:07,36e Zeebodemloop ,2016-06-04
+373,1399,Dania Mohammet,COA,J7-8,71,00:06:25,00:06:23,36e Zeebodemloop ,2016-06-04
+374,1440,Juna Adelaar,de Windroos,M7-8,36,00:06:26,00:06:18,36e Zeebodemloop ,2016-06-04
+375,1437,Alayh Harpal,de Windroos,M7-8,37,00:06:26,00:06:18,36e Zeebodemloop ,2016-06-04
+376,1566,Sania Sayedi,OBS De Vuurtoren,M-6,18,00:06:27,00:06:25,36e Zeebodemloop ,2016-06-04
+377,1452,Tyn van der Laan,de Windroos,J7-8,72,00:06:27,00:06:20,36e Zeebodemloop ,2016-06-04
+378,1444,Pheline de Groot,de Windroos,M7-8,38,00:06:27,00:06:21,36e Zeebodemloop ,2016-06-04
+379,1509,Jo van der Marel,OBS De Tjalk,J-6,29,00:06:28,00:06:18,36e Zeebodemloop ,2016-06-04
+380,1274,Mark Bodegom,CBS Ichthus,J9-10,70,00:06:29,00:06:26,36e Zeebodemloop ,2016-06-04
+381,1305,Shania Frederik,Lelystad,M9-10,58,00:06:29,00:06:27,36e Zeebodemloop ,2016-06-04
+382,1170,Mariska Joustra,Horizon,M9-10,59,00:06:30,00:06:22,36e Zeebodemloop ,2016-06-04
+383,1439,Mirthe Oord,de Windroos,M7-8,39,00:06:31,00:06:09,36e Zeebodemloop ,2016-06-04
+384,1527,Dmitri Cloin,OBS De Vuurtoren,J-6,30,00:06:31,00:06:29,36e Zeebodemloop ,2016-06-04
+385,1295,Quinty Huisman,Lelystad,M9-10,60,00:06:32,00:06:20,36e Zeebodemloop ,2016-06-04
+386,1554,Danique van der Meijden,Triangel,M-6,19,00:06:32,00:06:20,36e Zeebodemloop ,2016-06-04
+387,1259,Damian van Eijs,SBO de Watergeus,J9-10,71,00:06:33,00:06:22,36e Zeebodemloop ,2016-06-04
+388,1593,Xavian Commandeur,Lelystad,J-6,31,00:06:34,00:06:25,36e Zeebodemloop ,2016-06-04
+389,1195,Jaydan Bruitzman,Triangel,J9-10,72,00:06:36,00:06:31,36e Zeebodemloop ,2016-06-04
+390,1164,Calvin Visscher,Vogelveste,J9-10,73,00:06:36,00:06:34,36e Zeebodemloop ,2016-06-04
+391,1269,Ramada Mepschen,O.B.S. De Optimist,M9-10,61,00:06:37,00:06:33,36e Zeebodemloop ,2016-06-04
+392,1353,Liv de Nooij,OBS De Tjalk,M7-8,40,00:06:37,00:06:28,36e Zeebodemloop ,2016-06-04
+393,1568,Nafina Djack Diakite,OBS De Vuurtoren,M-6,20,00:06:38,00:06:37,36e Zeebodemloop ,2016-06-04
+394,1162,Yassin Portoredjo,Vogelveste,J9-10,74,00:06:38,00:06:36,36e Zeebodemloop ,2016-06-04
+395,1359,Lorena de Wit,OBS De Tjalk,M7-8,41,00:06:39,00:06:30,36e Zeebodemloop ,2016-06-04
+396,1002,Duncan Heijdelberger,OBS de Driemaster,J1314,8,00:06:40,00:06:35,36e Zeebodemloop ,2016-06-04
+397,1165,Ruben van der Lit,OBS De Tjalk,J9-10,75,00:06:40,00:06:33,36e Zeebodemloop ,2016-06-04
+398,1298,Joela Mud,Lelystad,M9-10,62,00:06:41,00:06:40,36e Zeebodemloop ,2016-06-04
+399,1435,Nijnke Keegstra,de Windroos,M7-8,42,00:06:41,00:06:34,36e Zeebodemloop ,2016-06-04
+400,1251,Kimberley Knetsch,SBO de Watergeus,M9-10,63,00:06:42,00:06:31,36e Zeebodemloop ,2016-06-04
+401,1432,Giulia Houweling,OBS De Tjalk,M7-8,43,00:06:42,00:06:34,36e Zeebodemloop ,2016-06-04
+402,1177,Lisa van der Veer,de Windroos,M9-10,64,00:06:42,00:06:30,36e Zeebodemloop ,2016-06-04
+403,514,Ardim Najah,Lelystad,J7-8,73,00:06:42,00:06:34,36e Zeebodemloop ,2016-06-04
+404,1534,Qeynan Reding,Horizon,J-6,32,00:06:44,00:06:42,36e Zeebodemloop ,2016-06-04
+405,1379,Julise Boersbroek,Meander,M7-8,44,00:06:44,00:06:38,36e Zeebodemloop ,2016-06-04
+406,1578,Roemer Visser,Lelystad,J-6,33,00:06:44,00:06:30,36e Zeebodemloop ,2016-06-04
+407,1471,Martijn Prins,Triangel,J7-8,74,00:06:45,00:06:40,36e Zeebodemloop ,2016-06-04
+408,1500,Nisrine Zarhouni,Lelystad,M7-8,45,00:06:46,00:06:32,36e Zeebodemloop ,2016-06-04
+409,1262,Shamila Tahmasi,O.B.S. De Optimist,M9-10,65,00:06:47,00:06:43,36e Zeebodemloop ,2016-06-04
+410,1260,Paris Nieuwenhuyse,SBO de Watergeus,M9-10,66,00:06:47,00:06:38,36e Zeebodemloop ,2016-06-04
+411,1499,Farah Zarhouni,Lelystad,M7-8,46,00:06:47,00:06:33,36e Zeebodemloop ,2016-06-04
+412,1217,Patricia Vos,OBS De Tjalk,M9-10,67,00:06:47,00:06:44,36e Zeebodemloop ,2016-06-04
+413,1023,Naresh Nanhoe,OBS de Driemaster,J1112,56,00:06:48,00:06:43,36e Zeebodemloop ,2016-06-04
+414,1066,Fartun Ibrahim Mohamed,OBS De Vuurtoren,M1112,33,00:06:51,00:06:50,36e Zeebodemloop ,2016-06-04
+415,1312,Chandeni Sewsaran,SBO de Watergeus,M9-10,68,00:06:52,00:06:41,36e Zeebodemloop ,2016-06-04
+416,1443,Mila Jansen,de Windroos,M7-8,47,00:06:52,00:06:44,36e Zeebodemloop ,2016-06-04
+417,1575,Eldana Dagnachew,COA,M-6,21,00:06:52,00:06:50,36e Zeebodemloop ,2016-06-04
+418,1467,Martijn Meijn,OBS De Tjalk,J7-8,75,00:06:52,00:06:43,36e Zeebodemloop ,2016-06-04
+419,1563,Lisa Hofs,kbs De Toermalijn,M-6,22,00:06:52,00:06:48,36e Zeebodemloop ,2016-06-04
+420,1470,Jay Oostveen,Triangel,J7-8,76,00:06:53,00:06:49,36e Zeebodemloop ,2016-06-04
+421,1561,Nikte Kranenbarg,kbs De Toermalijn,M-6,23,00:06:53,00:06:49,36e Zeebodemloop ,2016-06-04
+422,1574,Fenne Gieslink,Meander,M-6,24,00:06:55,00:06:48,36e Zeebodemloop ,2016-06-04
+423,1054,Souriya Ruimgaart,SBO de Watergeus,M1112,34,00:06:55,00:06:48,36e Zeebodemloop ,2016-06-04
+424,1366,Aaricia Helder,Triangel,M7-8,48,00:06:55,00:06:42,36e Zeebodemloop ,2016-06-04
+425,1548,Famke Drieehuizen,de Windroos,M-6,25,00:06:55,00:06:51,36e Zeebodemloop ,2016-06-04
+426,1268,Sabya Kamavi,O.B.S. De Optimist,M9-10,69,00:06:57,00:06:53,36e Zeebodemloop ,2016-06-04
+427,1438,Kiki Brink,de Windroos,M7-8,49,00:06:57,00:06:48,36e Zeebodemloop ,2016-06-04
+428,1391,Luciana Kesimaat,kbs De Toermalijn,M7-8,50,00:06:58,00:06:51,36e Zeebodemloop ,2016-06-04
+429,1201,Mila Riegman,OBS de Driemaster,M9-10,70,00:06:58,00:06:46,36e Zeebodemloop ,2016-06-04
+430,1385,Suus de Vries,OBS de Driemaster,M7-8,51,00:06:59,00:06:47,36e Zeebodemloop ,2016-06-04
+431,1389,Avon vd Stoep,kbs De Toermalijn,M7-8,52,00:07:00,00:06:53,36e Zeebodemloop ,2016-06-04
+432,1169,Troy van Doorn,Vogelveste,J9-10,76,00:07:00,00:06:54,36e Zeebodemloop ,2016-06-04
+433,1058,Chelsea Nieuwenhuyse,SBO de Watergeus,M1112,35,00:07:01,00:06:55,36e Zeebodemloop ,2016-06-04
+434,1003,Jelle van der Ploeg,SBO de Watergeus,J1314,9,00:07:02,00:06:58,36e Zeebodemloop ,2016-06-04
+435,1009,Nynce van der Ploeg,De Lepelaar,M1314,3,00:07:02,00:06:56,36e Zeebodemloop ,2016-06-04
+436,1322,Yaren,Lelystad,M9-10,71,00:07:03,00:07:02,36e Zeebodemloop ,2016-06-04
+437,505,Sophie van Kleef,Meander,M7-8,53,00:07:03,00:07:00,36e Zeebodemloop ,2016-06-04
+438,1233,Federica Favour,COA,M9-10,72,00:07:03,00:06:55,36e Zeebodemloop ,2016-06-04
+439,1549,Fee de Nooij,OBS De Tjalk,M-6,26,00:07:04,00:06:59,36e Zeebodemloop ,2016-06-04
+440,1257,Dion van der Heijden,SBO de Watergeus,J9-10,77,00:07:05,00:06:58,36e Zeebodemloop ,2016-06-04
+441,1078,Floris Vos,OBS De Tjalk,J1112,57,00:07:05,00:07:03,36e Zeebodemloop ,2016-06-04
+442,1517,Riley ten Tuijnte,Triangel,J-6,34,00:07:07,00:07:01,36e Zeebodemloop ,2016-06-04
+443,1055,Kelsey Hees,SBO de Watergeus,M1112,36,00:07:08,00:07:01,36e Zeebodemloop ,2016-06-04
+444,1472,Liese van Delden,Lelystad,M7-8,54,00:07:08,00:07:03,36e Zeebodemloop ,2016-06-04
+445,1267,Yasmine Acherrat,O.B.S. De Optimist,M9-10,73,00:07:09,00:07:07,36e Zeebodemloop ,2016-06-04
+446,1425,Yassin Salhi,OBS De Vuurtoren,J7-8,77,00:07:09,00:07:08,36e Zeebodemloop ,2016-06-04
+447,1513,Kièro van der Hulst,OBS De Tjalk,J-6,35,00:07:09,00:07:05,36e Zeebodemloop ,2016-06-04
+448,1364,Kimberley van der Meijden,Triangel,M7-8,55,00:07:10,00:06:55,36e Zeebodemloop ,2016-06-04
+449,1362,Zorah Bruitzman,Triangel,M7-8,56,00:07:10,00:07:06,36e Zeebodemloop ,2016-06-04
+450,1155,Anouk Vissher,Vogelveste,M9-10,74,00:07:11,00:07:07,36e Zeebodemloop ,2016-06-04
+451,1163,Dichantley Enser,Vogelveste,M9-10,75,00:07:11,00:07:07,36e Zeebodemloop ,2016-06-04
+452,1001,Paolo Tetteroo,OBS De Tjalk,J1314,10,00:07:11,00:07:05,36e Zeebodemloop ,2016-06-04
+453,1570,Guine Karijodrono,OBS De Vuurtoren,M-6,27,00:07:14,00:07:05,36e Zeebodemloop ,2016-06-04
+454,1314,Julian Been,SBO de Watergeus,J9-10,78,00:07:16,00:07:07,36e Zeebodemloop ,2016-06-04
+455,1560,Mondega Mettle,OBS de Driemaster,M-6,28,00:07:18,00:07:11,36e Zeebodemloop ,2016-06-04
+456,1252,Zerina Stavinga,SBO de Watergeus,M9-10,76,00:07:19,00:07:08,36e Zeebodemloop ,2016-06-04
+457,1071,Radi Najafi,OBS De Tjalk,J1112,58,00:07:19,00:07:13,36e Zeebodemloop ,2016-06-04
+458,1541,Noatee Wijngart,de Windroos,M-6,29,00:07:20,00:07:07,36e Zeebodemloop ,2016-06-04
+459,1583,Olivia de Visser,Lelystad,M-6,30,00:07:20,00:07:18,36e Zeebodemloop ,2016-06-04
+460,1209,Eunice de Graav,OBS De Tjalk,M9-10,77,00:07:23,00:07:18,36e Zeebodemloop ,2016-06-04
+461,1395,Mesgana Shanet Hailu,COA,M7-8,57,00:07:26,00:07:18,36e Zeebodemloop ,2016-06-04
+462,1152,Dax Macintosh,Vogelveste,J9-10,79,00:07:26,00:07:15,36e Zeebodemloop ,2016-06-04
+463,1557,Milou Tempelaars,OBS de Driemaster,M-6,31,00:07:26,00:07:11,36e Zeebodemloop ,2016-06-04
+464,1522,Tycho Eijpe,OBS de Driemaster,J-6,36,00:07:31,00:07:24,36e Zeebodemloop ,2016-06-04
+465,1398,Dania Ahmed,COA,M7-8,58,00:07:34,00:07:27,36e Zeebodemloop ,2016-06-04
+466,1564,Keara Wolffensperger,kbs De Toermalijn,M-6,32,00:07:36,00:07:32,36e Zeebodemloop ,2016-06-04
+467,1442,Elainy Staal,de Windroos,M7-8,59,00:07:43,00:07:35,36e Zeebodemloop ,2016-06-04
+468,1519,Raizo van Dekken,OBS de Driemaster,J-6,37,00:07:43,00:07:35,36e Zeebodemloop ,2016-06-04
+469,1542,Feike van Schie,de Windroos,M-6,33,00:07:51,00:07:45,36e Zeebodemloop ,2016-06-04
+470,1543,Kim van der Veer,de Windroos,M-6,34,00:07:58,00:07:40,36e Zeebodemloop ,2016-06-04
+471,1357,Naomi Kuiper,OBS de Driemaster,M7-8,60,00:08:04,00:07:52,36e Zeebodemloop ,2016-06-04
+472,1520,Marijn Luitwieler,OBS de Driemaster,J-6,38,00:08:11,00:08:08,36e Zeebodemloop ,2016-06-04
+473,1571,Amelie Brouwer,Horizon,M-6,35,00:08:17,00:08:13,36e Zeebodemloop ,2016-06-04
+474,1577,Charlotte van Delden,Lelystad,M-6,36,00:08:22,00:08:16,36e Zeebodemloop ,2016-06-04
+475,1506,Jamie van Meeteren,de Windroos,J-6,39,00:08:26,00:08:20,36e Zeebodemloop ,2016-06-04
+476,1127,Henk Salders,Lelystad,J1112,59,00:08:30,00:08:20,36e Zeebodemloop ,2016-06-04
+477,1504,Joey van Meeteren,de Windroos,J-6,40,00:08:35,00:08:31,36e Zeebodemloop ,2016-06-04
+478,1429,Chanteert,COA,M7-8,61,00:08:38,00:08:29,36e Zeebodemloop ,2016-06-04
+479,1580,Eloise Gerringa,Lelystad,M-6,37,00:08:50,00:08:40,36e Zeebodemloop ,2016-06-04
+480,1552,Caelin Berendsen,Triangel,M-6,38,00:09:45,00:09:30,36e Zeebodemloop ,2016-06-04
+481,1562,Liviana Kesimaat,kbs De Toermalijn,M-6,39,00:09:48,00:09:42,36e Zeebodemloop ,2016-06-04
+482,1503,Guido van Schie,de Windroos,J-6,41,00:10:15,00:10:07,36e Zeebodemloop ,2016-06-04
+483,1553,Evi ten Tuijnte,Triangel,M-6,40,00:10:23,00:10:17,36e Zeebodemloop ,2016-06-04
+484,1480,Rianna de Jong,Lelystad,M7-8,62,00:17:26,00:17:12,36e Zeebodemloop ,2016-06-04

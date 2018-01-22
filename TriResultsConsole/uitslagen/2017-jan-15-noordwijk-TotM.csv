@@ -1,0 +1,366 @@
+Nr,Startnr,Naam,Woonplaats,Cat,PltsCat,Heen,Terug,NettoTijd,BrutoTijd,Gemid,race,date
+1,4,Ramon Sinkeldam,Assendelft,MLIC,1,00:35:41,00:28:42,01:04:23,01:04:25,39.145,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+2,9,Bram Imming,Egmond Binnen,MLIC,2,00:36:12,00:28:16,01:04:27,01:04:27,39.101,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+3,7,Ronan van Zandbeek,SCHIJNDEL,MLIC,3,00:35:43,00:28:43,01:04:26,01:04:28,39.117,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+4,1,Jordy Buskermolen,KUDELSTAART,MLIC,4,00:35:42,00:28:45,01:04:27,01:04:28,39.109,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+5,26,Thijs Zonneveld,AMSTERDAM,MLIC,5,00:36:10,00:28:17,01:04:26,01:04:30,39.115,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+6,3,Stefan Vreugdenhil,Zwanenburg,MLIC,6,00:35:42,00:28:46,01:04:28,01:04:30,39.093,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+7,11,Robbert de Nijs,WARMENHUIZEN,MLIC,7,00:35:43,00:28:46,01:04:29,01:04:31,39.089,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+8,46,Sven Broekaart,JULIANADORP,MLIC,8,00:35:40,00:28:48,01:04:27,01:04:32,39.103,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+9,2,Tom Dumoulin,,MLIC,9,00:35:44,00:28:47,01:04:30,01:04:32,39.075,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+10,13,Tino Haakman,ENKHUIZEN,MLIC,10,00:36:04,00:28:26,01:04:29,01:04:32,39.080,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+11,48,Richard Jansen,ASSENDELFT,MLIC,11,00:35:41,00:28:50,01:04:31,01:04:34,39.068,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+12,12,Robbie Gevers,SCHIJNDEL,MLIC,12,00:36:05,00:28:27,01:04:32,01:04:34,39.053,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+13,6,Laurens ten Dam,Oudorp,MLIC,13,00:36:15,00:28:29,01:04:43,01:04:43,38.944,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+14,5,Jasper Ockeloen,DORDRECHT,MLIC,14,00:35:43,00:28:59,01:04:42,01:04:43,38.957,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+15,47,Gerben Mos,HAVELTE,MLIC,15,00:36:02,00:28:36,01:04:38,01:04:44,38.996,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+16,19,Ramses Bekkenk,Alkmaar,MLIC,16,00:36:16,00:28:25,01:04:41,01:04:44,38.966,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+17,42,Harm Bronkhorst,VOORHOUT,MLIC,17,00:36:09,00:28:43,01:04:51,01:04:55,38.867,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+18,29,Sander Lormans,HEEMSKERK,MLIC,18,00:36:09,00:28:53,01:05:01,01:05:05,38.765,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+19,33,Wim Botman,AVENHORN,MLIC,19,00:36:11,00:28:50,01:05:01,01:05:05,38.765,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+20,24,Mats Buning,ALKMAAR,MLIC,20,00:36:09,00:28:53,01:05:02,01:05:06,38.758,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+21,44,Bas Rijs,Alkmaar,MLIC,21,00:36:12,00:28:51,01:05:02,01:05:07,38.758,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+22,18,Arthur Rutte,HAARLEM,MLIC,22,00:36:06,00:28:58,01:05:04,01:05:07,38.739,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+23,118,Frits van Lieshout,SPAARNDAM,MLIC,23,00:36:05,00:28:55,01:05:00,01:05:07,38.779,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+24,22,Hidde Bos,HAARLEM,MLIC,24,00:36:19,00:28:50,01:05:08,01:05:11,38.695,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+25,23,Martin Schuttert,BURGUM,MLIC,25,00:36:09,00:29:01,01:05:09,01:05:12,38.688,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+26,21,Job de Ridder,NOORDWIJKERHOUT,MLIC,26,00:36:11,00:28:58,01:05:09,01:05:13,38.686,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+27,40,Laurens Snoek,VOLENDAM,MLIC,27,00:36:15,00:28:55,01:05:09,01:05:13,38.686,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+28,30,Mitchel Steenman,AMSTERDAM,MLIC,28,00:36:31,00:28:40,01:05:11,01:05:14,38.669,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+29,36,Arjan van der Plas,KATWIJK ZH,MLIC,29,00:36:08,00:29:05,01:05:12,01:05:16,38.656,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+30,31,Marc Kivits,SCHIJNDEL,MLIC,30,00:36:16,00:28:59,01:05:15,01:05:19,38.628,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+31,102,Stijn Appel,SPANBROEK,MLIC,31,00:36:06,00:29:09,01:05:14,01:05:22,38.631,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+32,10,Cees Snoek,VOLENDAM,MLIC,32,00:36:10,00:29:26,01:05:35,01:05:38,38.428,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+33,38,Roy Beukers,PETTEN,MLIC,33,00:36:09,00:30:15,01:06:23,01:06:27,37.967,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+34,8,Sem Huitema,OUDKARSPEL,MLIC,34,00:36:19,00:30:08,01:06:26,01:06:27,37.939,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+35,28,Toon Imming,Egmond Binnen,MLIC,35,00:36:17,00:30:07,01:06:24,01:06:27,37.960,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+36,14,Henry Kes,VOLENDAM,MLIC,36,00:36:20,00:30:08,01:06:27,01:06:30,37.925,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+37,68,André van Reek,LISSE,MLIC,37,00:36:17,00:30:11,01:06:28,01:06:33,37.923,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+38,20,Dennis Kulk,Noordwijk,MLIC,38,00:36:34,00:29:56,01:06:29,01:06:33,37.905,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+39,16,Pascal Noort,Haarlem,MLIC,39,00:36:08,00:30:23,01:06:31,01:06:34,37.888,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+40,133,Roy Rotteveel,Noordwijkerhout,MLIC,40,00:36:32,00:30:00,01:06:32,01:06:39,37.884,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+41,70,Marvin van Spronsen,Monster,MLIC,41,00:36:14,00:30:18,01:06:31,01:06:39,37.890,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+42,27,Dirk-Jan van Reek,VOORHOUT,MLIC,42,00:36:35,00:30:01,01:06:36,01:06:40,37.841,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+43,15,Jorn Teer,ASSENDELFT,MLIC,43,00:36:19,00:30:22,01:06:40,01:06:42,37.806,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+44,50,Pim de Waard,HEILOO,MLIC,44,00:36:32,00:30:06,01:06:38,01:06:44,37.821,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+45,51,Rob van der Niet,Noordwijk,MLIC,45,00:36:00,00:30:38,01:06:37,01:06:45,37.832,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+46,43,Barend Derriks,HEERHUGOWAARD,MLIC,46,00:36:31,00:30:11,01:06:41,01:06:46,37.797,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+47,128,Menno Munster,ALKMAAR,MLIC,47,00:36:10,00:30:31,01:06:41,01:06:47,37.799,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+48,32,Sebastiaan ten Zeldam,HAARLEM,MLIC,48,00:36:33,00:30:11,01:06:44,01:06:48,37.769,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+49,55,Tim Groot,BOVENKARSPEL,MLIC,49,00:36:40,00:30:06,01:06:45,01:06:50,37.756,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+50,39,Jaco Paauw,RIJNSBURG,MLIC,50,00:36:32,00:30:12,01:06:44,01:06:51,37.768,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+51,131,Daniel Langereis,Delft,MLIC,51,00:36:15,00:30:30,01:06:44,01:06:52,37.762,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+52,25,Berry Hollander,SASSENHEIM,MLIC,52,00:36:34,00:30:33,01:07:07,01:07:10,37.553,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+53,41,Bouk de Roeck,HEEMSKERK,MLIC,53,00:36:43,00:31:23,01:08:05,01:08:10,37.015,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+54,97,Bart van Ruiten,Noordwijkerhout,MLIC,54,00:36:33,00:31:35,01:08:08,01:08:15,36.990,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+55,49,Bram de Waard,PETTEN,MLIC,55,00:36:42,00:31:30,01:08:12,01:08:17,36.958,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+56,45,Didier Boumans,DEN HAAG,MLIC,56,00:36:34,00:31:41,01:08:14,01:08:18,36.933,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+57,122,Sjors Handgraaf,LEIDEN,MLIC,57,00:36:38,00:31:38,01:08:16,01:08:22,36.920,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+58,54,Joury Ottenbros,HEERHUGOWAARD,MLIC,58,00:36:35,00:31:46,01:08:21,01:08:26,36.877,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+59,60,Pim Molenaar,Heiloo,MLIC,59,00:36:42,00:31:45,01:08:27,01:08:31,36.822,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+60,59,Yennick Wolthuizen,Castricum,MLIC,60,00:38:28,00:30:46,01:09:14,01:09:19,36.406,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+61,52,Marcel Beukers,PETTEN,MLIC,61,00:36:59,00:32:20,01:09:18,01:09:24,36.368,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+62,111,Leo Sluijs,NOORDWIJK ZH,MLIC,62,00:36:43,00:32:39,01:09:22,01:09:26,36.332,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+63,141,Jesper Smorenberg,Noordwijkerhout,MBAS,1,00:38:11,00:31:07,01:09:18,01:09:30,36.372,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+64,145,Ronald de Jong,ZOETERMEER,MBAS,2,00:38:09,00:31:10,01:09:18,01:09:31,36.365,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+65,152,Henk Verdonk,Egmond aan den Hoef,MBAS,3,00:38:11,00:31:09,01:09:20,01:09:32,36.352,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+66,156,Ben Visser,HEERHUGOWAARD,MBAS,4,00:38:15,00:31:04,01:09:19,01:09:32,36.361,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+67,162,Ton Rob,MEDEMBLIK,MBAS,5,00:38:10,00:31:09,01:09:18,01:09:32,36.370,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+68,66,Nico van Langen,SCHAGEN,MLIC,63,00:38:13,00:31:13,01:09:26,01:09:35,36.298,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+69,58,Jim Kes,VOLENDAM,MLIC,64,00:38:20,00:31:10,01:09:29,01:09:36,36.275,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+70,105,Aad Honders,MONSTER,MLIC,65,00:38:22,00:31:09,01:09:31,01:09:37,36.255,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+71,144,Bram de Vries,ANDIJK,MBAS,6,00:38:12,00:31:16,01:09:27,01:09:39,36.285,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+72,37,Ad de Brabander,KWINTSHEUL,MLIC,66,00:38:17,00:31:16,01:09:32,01:09:40,36.243,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+73,109,Elwin van der Niet,Warmond,MLIC,67,00:38:23,00:31:12,01:09:35,01:09:42,36.220,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+74,85,Stefan Teeuwen,Noordwijkerhout,MLIC,68,00:38:18,00:31:18,01:09:36,01:09:43,36.215,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+75,94,Jarno van Krimpen,GROOT AMMERS,MLIC,69,00:37:31,00:32:06,01:09:36,01:09:44,36.208,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+76,65,Theo Joosten,SPAARNDAM,MLIC,70,00:38:25,00:31:14,01:09:38,01:09:46,36.190,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+77,142,Joep Homma,Bergen,MBAS,7,00:38:10,00:31:24,01:09:34,01:09:46,36.231,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+78,150,Maarten Nota,ANDIJK,MBAS,8,00:38:14,00:31:24,01:09:37,01:09:46,36.203,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+79,323,Marc Stavenuiter,Andijk,MBAS,9,00:38:10,00:31:26,01:09:36,01:09:46,36.215,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+80,82,Dion Murk,Velserbroek,MLIC,71,00:38:16,00:31:21,01:09:37,01:09:48,36.204,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+81,101,Thijmen van de Vrede,GOES,MLIC,72,00:38:16,00:31:23,01:09:39,01:09:48,36.184,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+82,147,Jisk Hoogervorst,NOORDWIJKERHOUT,MBAS,10,00:38:20,00:31:19,01:09:38,01:09:49,36.191,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+83,76,Dirk Bennen,Haarlem,MLIC,73,00:38:23,00:31:19,01:09:42,01:09:49,36.162,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+84,106,Chris Kool,EGMOND-BINNEN,MLIC,74,00:36:59,00:32:46,01:09:45,01:09:51,36.132,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+85,100,Martijn van Vechgel,HOORN,MLIC,75,00:36:59,00:32:46,01:09:44,01:09:51,36.139,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+86,75,Ron Aardenburg,Heemskerk,MLIC,76,00:38:23,00:31:29,01:09:52,01:09:58,36.076,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+87,79,Dex Groen,TUITJENHORN,MLIC,77,00:36:07,00:33:57,01:10:04,01:10:11,35.974,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+88,57,Mike Kes,VOLENDAM,MLIC,78,00:38:03,00:32:13,01:10:16,01:10:21,35.872,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+89,244,Sjoerd van Kampen,NOORDWIJKERHOUT,MBAS,11,00:39:52,00:30:46,01:10:37,01:10:51,35.686,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+90,35,Arjan van der Niet,Katwijk,MLIC,79,00:37:48,00:32:59,01:10:46,01:10:52,35.613,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+91,305,Jeffrey van der Velden,EGMOND BINNEN,MBAS,12,00:39:40,00:30:54,01:10:33,01:10:56,35.720,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+92,297,Theo Tetteroo,NOORDWIJKERHOUT,MBAS,13,00:39:51,00:30:52,01:10:42,01:10:57,35.645,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+93,161,Andre Uitterdijk,BOVENKARSPEL,MBAS,14,00:39:52,00:30:53,01:10:44,01:10:58,35.627,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+94,186,Tom Bakkum,LIMMEN,MBAS,15,00:39:49,00:30:55,01:10:44,01:10:58,35.633,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+95,148,Jordy Tromp,EGMOND BINNEN,MBAS,16,00:39:50,00:30:57,01:10:46,01:10:59,35.613,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+96,160,Don Brandjes,UITGEEST,MBAS,17,00:39:54,00:30:53,01:10:47,01:10:59,35.608,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+97,233,Robin Hoekstra,LISSE,MBAS,18,00:39:51,00:30:58,01:10:48,01:11:02,35.595,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+98,146,Jeroen Oude Veldhuis,Sassenheim,MBAS,19,00:39:52,00:31:00,01:10:51,01:11:04,35.571,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+99,155,Ivo Punt,LIMMEN,MBAS,20,00:39:53,00:30:57,01:10:49,01:11:04,35.591,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+100,149,Tijs van Beek,HEILOO,MBAS,21,00:39:56,00:30:55,01:10:50,01:11:04,35.580,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+101,87,Ramon Vleugel,Goes,MLIC,80,00:38:19,00:32:39,01:10:57,01:11:06,35.520,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+102,324,John Pronk,Heerhugowaard,MBAS,22,00:39:45,00:31:02,01:10:46,01:11:07,35.616,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+103,151,Sebastiaan Valenteijn,ZWAAGDIJK,MBAS,23,00:38:22,00:32:37,01:10:58,01:11:10,35.511,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+104,81,Kees Kwakman,VOLENDAM,MLIC,81,00:39:05,00:32:04,01:11:08,01:11:14,35.430,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+105,84,Patrick Stam,UITGEEST,MLIC,82,00:38:15,00:32:55,01:11:10,01:11:20,35.417,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+106,74,Bram van der Zwet,ROELOFARENDSVEEN,MLIC,83,00:38:20,00:32:52,01:11:12,01:11:22,35.400,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+107,124,Pieter van der Eijk,Swifterbant,MLIC,84,00:38:18,00:32:57,01:11:14,01:11:23,35.378,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+108,260,Jan Langeveld,CASTRICUM,MBAS,24,00:39:52,00:31:17,01:11:09,01:11:23,35.426,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+109,425,Martijn van der  Kampen,Noordwijk,MBAS,25,00:39:50,00:32:51,01:12:41,01:12:54,34.677,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+110,153,Erwin Griekspoor,DRIEHUIS,MBAS,26,00:39:54,00:32:51,01:12:45,01:12:58,34.645,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+111,125,Jos Dohle,WASSENAAR,MLIC,85,00:39:01,00:33:52,01:12:52,01:13:02,34.584,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+112,154,Stefan van der  Werff,EGMOND-BINNEN,MBAS,27,00:38:57,00:33:58,01:12:55,01:13:05,34.568,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+113,88,Eelco van Wort,HAARLEM,MLIC,86,00:40:01,00:32:58,01:12:59,01:13:09,34.534,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+114,164,Pascal Vergeer,NOORDWIJK ZH,MBAS,28,00:39:55,00:33:03,01:12:58,01:13:12,34.541,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+115,117,Remco Morsch,HEILOO,MLIC,87,00:39:03,00:34:07,01:13:10,01:13:18,34.447,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+116,103,Jan-Dick den Das,LANDSMEER,MLIC,88,00:39:02,00:34:15,01:13:16,01:13:24,34.395,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+117,143,Ron Boendermaker,EGMOND AAN ZEE,MBAS,29,00:39:54,00:33:20,01:13:14,01:13:26,34.418,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+118,183,Joost Baalbergen,ZUID-SCHARWOUDE,MBAS,30,00:39:58,00:33:17,01:13:14,01:13:27,34.413,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+119,262,Bart Levering,LIMMEN,MBAS,31,00:39:59,00:33:16,01:13:15,01:13:29,34.409,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+120,327,Jasper Laroo,Egmond Binnen,MBAS,32,00:39:49,00:33:29,01:13:17,01:13:31,34.390,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+121,159,John Metz,ZAANDAM,MBAS,33,00:40:01,00:33:20,01:13:21,01:13:32,34.360,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+122,280,Marco Plug,Noordwijk,MBAS,34,00:40:00,00:33:20,01:13:20,01:13:34,34.369,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+123,86,Vincent Tuls,Utrecht,MLIC,89,00:40:00,00:33:24,01:13:23,01:13:35,34.344,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+124,56,Robert van den Brink,BIDDINGHUIZEN,MLIC,90,00:40:07,00:33:19,01:13:26,01:13:35,34.323,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+125,243,Bart Kalshoven,CASTRICUM,MBAS,35,00:39:57,00:33:26,01:13:22,01:13:36,34.350,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+126,158,George Baars,MIDWOUD,MBAS,36,00:39:54,00:33:29,01:13:22,01:13:36,34.351,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+127,230,Frits Hallenleben,SCHAGEN,MBAS,37,00:39:59,00:33:26,01:13:25,01:13:37,34.331,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+128,116,Bas Overdevest,AMSTERDAM,MLIC,91,00:40:04,00:33:22,01:13:26,01:13:37,34.320,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+129,123,Joram Grootveld,DELFT,MLIC,92,00:39:54,00:33:34,01:13:28,01:13:38,34.308,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+130,92,Peter Fuchs,BEVERWIJK,MLIC,93,00:39:56,00:33:32,01:13:27,01:13:39,34.313,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+131,99,Thomas Steenvoorden,NOORDWIJK,MLIC,94,00:40:01,00:33:31,01:13:32,01:13:40,34.272,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+132,91,Theo van Duijvenvoorde,KATWIJK,MLIC,95,00:40:19,00:33:18,01:13:37,01:13:44,34.237,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+133,157,Erik Scholtens,DRACHTEN,MBAS,38,00:39:58,00:33:35,01:13:33,01:13:45,34.265,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+134,80,Rolf de Jong,PIJNACKER,MLIC,96,00:40:02,00:33:32,01:13:34,01:13:45,34.261,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+135,132,Marco Duson,Brielle,MLIC,97,00:40:00,00:33:35,01:13:35,01:13:47,34.252,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+136,217,Joost van Giesen,NAALDWIJK,MBAS,39,00:40:50,00:33:06,01:13:55,01:14:14,34.093,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+137,185,Frank de Bakker,wateringen,MBAS,40,00:40:54,00:33:05,01:13:59,01:14:15,34.068,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+138,296,Arjan Tetteroo,NOORDWIJKERHOUT,MBAS,41,00:41:00,00:33:03,01:14:02,01:14:17,34.041,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+139,288,Sander Spoolder,GIESSENBURG,MBAS,42,00:40:44,00:33:13,01:13:56,01:14:19,34.089,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+140,368,Jorian Vesseur,Lisse,MBAS,43,00:40:38,00:33:15,01:13:52,01:14:20,34.119,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+141,264,Dirk Londema,JULIANADORP,MBAS,44,00:40:51,00:33:12,01:14:03,01:14:21,34.036,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+142,254,Tonny Kralt,RIJNSBURG,MBAS,45,00:40:53,00:33:09,01:14:01,01:14:21,34.049,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+143,171,Rob van Veen,VOORHOUT,MBAS,46,00:41:09,00:32:58,01:14:07,01:14:22,34.005,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+144,292,Wouter Steenks,De lier,MBAS,47,00:40:49,00:33:16,01:14:05,01:14:23,34.023,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+145,114,Henri Spijkers,Den Haag,MLIC,98,00:40:32,00:33:44,01:14:16,01:14:24,33.935,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+146,281,Gerben van de Reep,HILLEGOM,MBAS,48,00:40:54,00:33:14,01:14:07,01:14:25,34.003,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+147,215,Bart Gerritsen,BERGEN NH,MBAS,49,00:40:55,00:33:17,01:14:11,01:14:26,33.975,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+148,326,Roy Olierook,Maasdijk,MBAS,50,00:40:58,00:33:10,01:14:08,01:14:27,33.997,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+149,249,Dennis Komen,SCHAGEN,MBAS,51,00:40:58,00:33:10,01:14:07,01:14:28,34.005,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+150,64,Ferdi Frijters,BERKEL-ENSCHOT,MLIC,99,00:40:10,00:34:13,01:14:22,01:14:31,33.890,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+151,130,Paul van Hattem,Noordwijk,MLIC,100,00:40:28,00:33:57,01:14:24,01:14:33,33.874,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+152,228,Wilbert de  Haas,HAZERSWOUDE-RIJNDIJK,MBAS,52,00:40:52,00:33:29,01:14:20,01:14:36,33.904,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+153,165,Patrick Hassing,NOORDWIJK,MBAS,53,00:39:56,00:34:40,01:14:35,01:14:48,33.790,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+154,119,Maurice van der Lee,Santpoort-Noord,MLIC,101,00:41:00,00:33:46,01:14:45,01:14:55,33.716,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+155,190,Bobbie Beentjes,HEEMSKERK,MBAS,54,00:40:59,00:33:40,01:14:39,01:14:55,33.763,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+156,202,Kees Caspers,NOORDWIJK,MBAS,55,,,01:14:40,01:14:56,33.757,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+157,163,Edwin Hagers,ALPHEN AAN DEN RIJN,MBAS,56,00:40:00,00:34:47,01:14:46,01:15:01,33.709,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+158,209,Patrick van Eldonk,MOOK,MBAS,57,00:40:52,00:33:47,01:14:39,01:15:01,33.759,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+159,210,John van den Ende,Naaldwijk,MBAS,58,,,01:14:49,01:15:02,33.684,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+160,293,Sander van Stralen,Noord-Scharwoude,MBAS,59,00:40:34,00:34:12,01:14:46,01:15:03,33.708,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+161,181,Hans Chialastri,Beverwijk,MBAS,60,00:41:03,00:34:09,01:15:12,01:15:28,33.515,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+162,307,Denny Verbaas,LISSE,MBAS,61,00:41:01,00:34:14,01:15:14,01:15:28,33.497,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+163,199,Niels Bras,EGMOND AAN DEN HOEF,MBAS,62,00:40:51,00:34:27,01:15:17,01:15:34,33.478,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+164,212,Erik Ferrari,RIJNSBURG,MBAS,63,00:41:03,00:34:20,01:15:22,01:15:37,33.439,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+165,78,Jos van Doorn,OPPERDOES,MLIC,102,00:40:25,00:35:03,01:15:27,01:15:38,33.400,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+166,304,Pieter Veenstra,HEEMSTEDE,MBAS,64,00:41:04,00:34:23,01:15:26,01:15:41,33.413,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+167,192,Joost Blaauw,ALKMAAR,MBAS,65,00:41:11,00:34:41,01:15:51,01:16:12,33.228,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+168,300,Arthur Turk,VOORHOUT,MBAS,66,00:41:08,00:35:00,01:16:07,01:16:22,33.109,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+169,72,Johan van der Veen,NOORDWIJK ZH,MLIC,103,00:40:05,00:36:17,01:16:22,01:16:28,33.004,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+170,446,Paul Hogendam,Roelofarendsveen,MCYC,1,00:42:52,00:33:33,01:16:24,01:16:29,32.985,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+171,320,Rutger Kraijenoord,Rijnsburg,MBAS,67,00:41:11,00:35:17,01:16:27,01:16:47,32.967,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+172,180,Alexander van Leeuwen,WATERINGEN,MBAS,68,00:41:39,00:35:05,01:16:44,01:16:56,32.848,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+173,96,Duncan Oudshoorn,VELSERBROEK,MLIC,104,00:41:10,00:35:36,01:16:45,01:16:57,32.836,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+174,301,Pascal Valentijn,Ter Aar,MBAS,69,00:43:03,00:33:35,01:16:37,01:16:58,32.892,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+175,211,Paul van den Enden,Kwintsheul,MBAS,70,00:41:29,00:35:12,01:16:41,01:16:58,32.863,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+176,353,Ello van Gelderen,Haarlem,MBAS,71,00:42:49,00:33:37,01:16:26,01:16:59,32.976,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+177,443,Erik Hutcheson,Hoogkarspel,MBAS,72,00:43:03,00:33:35,01:16:37,01:17:01,32.893,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+178,279,Bert van der Plas,Amsterdam,MBAS,73,00:43:07,00:33:36,01:16:43,01:17:03,32.851,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+179,195,Mar Bouvet,NOORDWIJK,MBAS,74,00:42:55,00:33:39,01:16:33,01:17:04,32.923,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+180,236,Kees Huiberts,ALKMAAR,MBAS,75,00:42:54,00:33:46,01:16:39,01:17:05,32.877,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+181,225,D.P.M. Groenewegen,HONSELERSDIJK,MBAS,76,00:43:08,00:33:39,01:16:47,01:17:06,32.821,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+182,231,Jos de Hart,HEEMSTEDE,MBAS,77,00:41:03,00:35:48,01:16:50,01:17:07,32.799,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+183,273,Danny Niekoop,ALKMAAR,MBAS,78,00:42:57,00:33:44,01:16:41,01:17:07,32.869,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+184,121,Martin Janssen,Den Haag,MLIC,105,00:41:33,00:35:28,01:17:00,01:17:08,32.732,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+185,277,Dennis Palfenier,EGMOND BINNEN,MBAS,79,00:43:14,00:33:30,01:16:43,01:17:08,32.850,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+186,168,Frank van den Berg,NOORDWIJK,MBAS,80,00:42:28,00:34:30,01:16:58,01:17:11,32.748,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+187,308,Martien Verbeek,DE LIER,MBAS,81,00:42:15,00:34:43,01:16:58,01:17:11,32.748,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+188,189,Jan Beekhoven,AMSTERDAM,MBAS,82,00:41:17,00:35:39,01:16:55,01:17:12,32.765,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+189,223,Wilco Groen,MAARTENSDIJK,MBAS,83,00:43:07,00:33:45,01:16:51,01:17:12,32.792,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+190,449,Cees Schep,Weesp,MBAS,84,00:43:02,00:33:48,01:16:49,01:17:13,32.806,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+191,179,Peter Wayper,KROMMENIE,MBAS,85,00:43:09,00:33:49,01:16:58,01:17:15,32.747,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+192,316,Herman de Weerd,KROMMENIE,MBAS,86,00:43:03,00:33:55,01:16:58,01:17:19,32.747,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+193,299,Yarno van de Tonnekreek,SLOOTDORP,MBAS,87,00:40:59,00:36:01,01:16:59,01:17:21,32.736,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+194,127,Jurn Bezemer,DEN HOORN,MLIC,106,00:41:16,00:36:10,01:17:25,01:17:35,32.556,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+195,219,Thomas Goedhart,ZWAAGDIJK-WEST,MBAS,88,00:43:02,00:35:01,01:18:02,01:18:26,32.297,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+196,312,Jorge van Vliet,HEEMSKERK,MBAS,89,00:43:19,00:34:55,01:18:14,01:18:32,32.217,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+197,237,Leon Huisman,HEERHUGOWAARD,MBAS,90,00:43:20,00:34:53,01:18:13,01:18:34,32.222,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+198,227,Marcel den  Haan,NAALDWIJK,MBAS,91,00:43:22,00:34:56,01:18:18,01:18:36,32.187,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+199,206,Edwin van   Dulst,Rijsenhout,MBAS,92,00:43:17,00:34:51,01:18:08,01:18:36,32.258,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+200,318,Robert Winder,ZEIST,MBAS,93,00:43:22,00:34:56,01:18:17,01:18:39,32.194,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+201,272,Julien  Mouthaan,BERKEL EN RODENRIJS,MBAS,94,00:43:00,00:35:18,01:18:17,01:18:40,32.193,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+202,319,Emiel Zomerdijk,EGMOND,MBAS,95,00:43:15,00:35:02,01:18:16,01:18:41,32.200,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+203,235,Bas Hoogland,Heiloo,MBAS,96,00:43:22,00:35:00,01:18:21,01:18:43,32.166,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+204,282,Andre van de Reep,VOORHOUT,MBAS,97,00:43:22,00:35:04,01:18:26,01:18:44,32.134,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+205,321,Chris Cappel,VOORHOUT,MBAS,98,00:43:23,00:35:05,01:18:28,01:18:46,32.120,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+206,390,Wout Koomen,MEDEMBLIK,MCYC,2,00:43:06,00:35:43,01:18:48,01:18:53,31.982,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+207,53,Misael van Leeuwen,BOVENKARSPEL,MLIC,107,00:42:23,00:36:23,01:18:45,01:18:54,32.002,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+208,134,Sander van der Aart,Ijmuiden,MLIC,108,00:42:28,00:36:22,01:18:50,01:19:00,31.973,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+209,413,Sven van Tol,Rijsenhout,MCYC,3,00:43:09,00:35:49,01:18:57,01:19:02,31.920,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+210,438,Edwin van Emmerik,Oudewetering,MCYC,4,00:44:37,00:34:27,01:19:03,01:19:07,31.882,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+211,252,Oscar Koopmans,ASSENDELFT,MBAS,99,00:43:10,00:35:49,01:18:58,01:19:17,31.913,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+212,415,Joep van der Veer,ROELOFARENDSVEEN,MCYC,5,00:45:20,00:33:57,01:19:16,01:19:24,31.792,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+213,439,Richard  van Klink,Roelofarendsveen,MCYC,6,00:45:22,00:34:01,01:19:23,01:19:28,31.749,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+214,17,Bram Rood,BROEK OP LANGEDIJK,MLIC,109,00:41:12,00:39:09,01:20:20,01:20:23,31.371,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+215,384,Toine Hulshof,Soest,MCYC,7,00:43:50,00:36:51,01:20:40,01:20:46,31.240,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+216,194,Richard Boterbloem,HILLEGOM,MBAS,100,00:43:27,00:37:15,01:20:41,01:20:58,31.236,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+217,286,Bram Sentveld,EGMOND- BINNEN,MBAS,101,00:43:55,00:36:43,01:20:37,01:21:02,31.262,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+218,258,Rob Lagendijk,VALKENBURG ZH,MBAS,102,00:45:22,00:35:12,01:20:34,01:21:03,31.284,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+219,166,Carl Hoogervorst,NOORDWIJK,MBAS,103,00:43:50,00:37:01,01:20:51,01:21:04,31.173,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+220,176,Hans Mannaart,,MBAS,104,00:43:22,00:37:27,01:20:49,01:21:08,31.187,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+221,253,Edwin Korver,Heemskerk,MBAS,105,00:43:50,00:37:03,01:20:52,01:21:09,31.167,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+222,314,Anton Vrolijk,ALPHEN A/D RIJN,MBAS,106,00:44:04,00:36:53,01:20:56,01:21:14,31.137,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+223,250,Andre Kooij,ZUID SCHARWOUDE,MBAS,107,00:43:22,00:37:28,01:20:50,01:21:14,31.181,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+224,447,Paul Daas,Wormer,MBAS,108,00:43:37,00:37:26,01:21:02,01:21:20,31.101,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+225,257,Simon Kriek,Zaandam,MBAS,109,00:43:53,00:37:15,01:21:08,01:21:27,31.066,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+226,172,Richard Nell,Warmond,MBAS,110,00:43:41,00:37:38,01:21:18,01:21:35,30.998,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+227,198,Wim Branderhorst,UTRECHT,MBAS,111,00:45:43,00:35:43,01:21:25,01:21:42,30.953,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+228,73,Erik van der Wel,IJmuiden,MLIC,110,00:43:03,00:38:30,01:21:33,01:21:43,30.906,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+229,112,Dirk Tuithof,BONTEBOK,MLIC,111,00:43:08,00:38:38,01:21:46,01:21:55,30.825,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+230,255,Stephan Kraus,GEERTRUIDENBERG,MBAS,112,00:45:09,00:36:41,01:21:50,01:22:09,30.799,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+231,388,Jacco Kloet,Zierikzee,MCYC,8,00:45:17,00:37:17,01:22:33,01:22:40,30.529,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+232,270,Ger van Mossel,LEIDEN,MBAS,113,00:45:28,00:36:46,01:22:13,01:22:43,30.653,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+233,278,Jeroen Pastijn,EGMOND-BINNEN,MBAS,114,00:45:29,00:36:59,01:22:28,01:22:52,30.562,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+234,389,Patrick van der Knaap,Wateringen,MCYC,9,00:45:24,00:37:03,01:22:26,01:22:57,30.571,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+235,245,Willem de Kater,ABCOUDE,MBAS,115,00:46:05,00:36:38,01:22:42,01:22:58,30.474,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+236,240,Niels de Jong,BROEK OP LANGEDIJK,MBAS,116,00:45:29,00:37:05,01:22:34,01:23:00,30.523,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+237,317,Bart van Wijk,MAASTRICHT,MBAS,117,00:43:52,00:38:46,01:22:37,01:23:01,30.502,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+238,208,Marcel van Echtelt,HOUTEN,MBAS,118,00:45:56,00:36:48,01:22:44,01:23:03,30.463,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+239,226,Kees Grundeken,WASSENAAR,MBAS,119,00:45:00,00:37:41,01:22:40,01:23:05,30.485,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+240,310,Jan Visser,SANTPOORT-NOORD,MBAS,120,00:45:26,00:37:17,01:22:43,01:23:10,30.469,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+241,259,Joop Lakeman,VOORHOUT,MBAS,121,00:45:28,00:37:31,01:22:59,01:23:26,30.371,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+242,110,Paul Pruis,Velserbroek,MLIC,112,00:46:02,00:38:10,01:24:12,01:24:23,29.930,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+243,298,Chiel Tollenaar,AMSTERDAM,MBAS,122,00:46:01,00:38:12,01:24:12,01:24:30,29.931,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+244,387,Remco Kers,NOORDWIJK,MCYC,10,00:46:02,00:38:07,01:24:08,01:24:31,29.955,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+245,265,Walter Makkinga,ALPHEN AAN DEN RIJN,MBAS,123,00:46:01,00:38:11,01:24:12,01:24:32,29.933,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+246,108,Max van der Linden,Bergen,MLIC,113,00:46:13,00:38:09,01:24:22,01:24:33,29.873,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+247,261,Ron van der Lans,HILLEGOM,MBAS,124,00:45:58,00:38:14,01:24:11,01:24:34,29.935,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+248,285,Robbert Schreuder,DEN HELDER,MBAS,125,00:45:51,00:38:18,01:24:08,01:24:34,29.953,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+249,283,Marcel Rozing,BEVERWIJK,MBAS,126,00:45:59,00:38:19,01:24:18,01:24:38,29.898,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+250,442,Arjen Zijlmans,Heerhugowaard,MBAS,127,00:47:43,00:36:39,01:24:22,01:24:52,29.872,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+251,420,Jarno Vorstenbosch,Schijndel,MCYC,11,00:45:26,00:39:04,01:24:29,01:24:56,29.829,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+252,295,John Terpstra,Venhuizen,MBAS,128,00:47:09,00:37:25,01:24:34,01:25:02,29.801,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+253,221,Dominique Grijze,ABBENES,MBAS,129,00:43:54,00:40:51,01:24:44,01:25:10,29.744,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+254,290,Marc Stedelaar,UITGEEST,MBAS,130,00:43:51,00:41:38,01:25:29,01:25:46,29.484,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+255,224,Pjotr Groenenberg,EETHEN,MBAS,131,00:48:23,00:37:00,01:25:23,01:25:51,29.519,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+256,234,Arjen Hoogenhout,AMSTERDAM,MBAS,132,00:48:10,00:37:12,01:25:22,01:25:56,29.525,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+257,274,Rene van Noort,Sassenheim,MBAS,133,00:45:52,00:39:52,01:25:44,01:26:12,29.395,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+258,178,Sander Rijken,KROMMENIE,MBAS,134,00:46:15,00:39:37,01:25:51,01:26:13,29.356,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+259,247,Patrick Kingma,CASTRICUM,MBAS,135,00:48:41,00:37:28,01:26:08,01:26:24,29.261,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+260,391,Andre Koppenol,,MCYC,12,00:49:20,00:36:58,01:26:18,01:26:46,29.201,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+261,386,Richard Kepper,ALKMAAR,MCYC,13,00:48:13,00:38:30,01:26:42,01:26:47,29.068,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+262,302,Arno van der Veek,AMSTERDAM,MBAS,136,00:43:53,00:42:37,01:26:30,01:26:50,29.136,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+263,347,Christophe Gino,Den Haag,MBAS,137,00:49:39,00:37:02,01:26:40,01:26:52,29.079,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+264,398,Ron Meeuwissen,Roelofarendsveen,MCYC,14,00:48:21,00:38:25,01:26:45,01:26:52,29.052,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+265,216,Pascal Geursen,Beverwijk,MBAS,138,00:48:03,00:38:28,01:26:31,01:26:53,29.129,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+266,440,Pieter van der Velden,Egmond Binnen,MCYC,15,00:49:09,00:37:37,01:26:46,01:26:55,29.048,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+267,444,Jack Meijer,NAALDWIJK,MBAS,139,00:48:16,00:38:11,01:26:27,01:26:57,29.154,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+268,416,Rob van Velzen,Roelofarendsveen,MCYC,16,00:48:19,00:38:36,01:26:55,01:27:01,28.996,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+269,120,Jan Kweekel,GOEDEREEDE,MLIC,114,00:46:32,00:40:31,01:27:03,01:27:14,28.953,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+270,266,Rob Mantje,VELSERBROEK,MBAS,140,00:46:00,00:40:59,01:26:59,01:27:23,28.974,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+271,403,Aart Jan Post,Giessenburg,MCYC,17,00:48:28,00:38:52,01:27:20,01:27:28,28.860,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+272,205,Niels Dukker,Zoetermeer,MBAS,141,00:48:27,00:38:46,01:27:13,01:27:39,28.898,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+273,222,Dennis Groen,SCHAGEN,MBAS,142,00:46:52,00:40:22,01:27:14,01:27:45,28.889,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+274,311,Gerco Vlieland,KATWIJK,MBAS,143,00:48:23,00:38:51,01:27:14,01:27:45,28.893,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+275,303,Jorik van t Hof,Voorburg,MBAS,144,00:48:20,00:38:57,01:27:17,01:27:49,28.874,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+276,330,Martijn Buitenhuis,Lisse,MBAS,145,00:48:25,00:39:30,01:27:54,01:28:21,28.670,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+277,376,Arno Hartman,Rijnsburg,MCYC,18,00:48:15,00:40:02,01:28:17,01:28:28,28.547,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+278,382,Leon Hoogervorst,Noordwijkerhout,MCYC,19,00:49:42,00:38:41,01:28:22,01:28:36,28.521,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+279,377,Bert Hegeman,Alphen aan den Rijn,MCYC,20,00:49:04,00:39:21,01:28:24,01:28:37,28.507,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+280,369,Rob Buchly,Alphen aan den Rijn,MCYC,21,00:49:02,00:39:23,01:28:25,01:28:37,28.505,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+281,404,Pascal Recoert,Pijnacker,MCYC,22,00:48:27,00:40:12,01:28:39,01:29:02,28.431,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+282,263,Jos Liefting,HEEMSKERK,MBAS,146,00:48:38,00:40:00,01:28:38,01:29:09,28.436,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+283,220,Dirk Goldebeld,WORMER,MBAS,147,00:48:57,00:40:01,01:28:57,01:29:22,28.334,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+284,306,Bob Peperkoorn,Haarlem,MBAS,148,00:49:15,00:40:45,01:29:59,01:30:26,28.008,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+285,397,Peter Meester,Katwijk,MCYC,23,00:49:42,00:40:48,01:30:30,01:30:37,27.849,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+286,428,klaas fidom,medemblik,MCYC,24,00:49:56,00:40:38,01:30:34,01:30:40,27.830,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+287,406,Joep Schaft,Wormer,MCYC,25,00:49:35,00:40:57,01:30:31,01:30:41,27.842,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+288,61,Gijs van der Bent,Noordwijk,MLIC,115,00:49:12,00:41:29,01:30:41,01:30:54,27.793,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+289,177,Ruud van de Brink,,MBAS,149,00:48:40,00:42:08,01:30:48,01:31:09,27.757,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+290,315,Matthijs Wansink,HAARLEM,MBAS,150,00:49:10,00:41:41,01:30:50,01:31:17,27.745,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+291,98,Joan Somers,APELDOORN,MLIC,116,00:52:18,00:38:59,01:31:17,01:31:25,27.610,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+292,275,Niels Opdam,Lisse,MBAS,151,00:48:35,00:42:44,01:31:19,01:31:36,27.600,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+293,203,Paul Coebergh,HEILOO,MBAS,152,00:50:06,00:41:13,01:31:19,01:31:39,27.601,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+294,213,Frans Le Fevre,SANTPOORT-ZUID,MBAS,153,00:51:12,00:40:13,01:31:25,01:31:48,27.571,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+295,276,Aad Oliehoek,WASSENAAR,MBAS,154,00:50:45,00:40:40,01:31:25,01:31:48,27.569,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+296,129,Derek-jan Franse,Westdorpe,MLIC,117,00:48:33,00:43:11,01:31:43,01:31:53,27.477,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+297,365,Henco Benjamins,,MCYC,26,00:49:44,00:42:12,01:31:55,01:32:00,27.420,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+298,269,John Veerkamp,Voorburg,MBAS,155,00:48:28,00:43:03,01:31:31,01:32:03,27.541,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+299,441,Charles Bornebroek,Heerhugowaard,MBAS,156,00:51:07,00:40:34,01:31:41,01:32:12,27.490,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+300,188,Marten Bax,Voorhout,MBAS,157,00:53:11,00:38:31,01:31:42,01:32:14,27.485,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+301,248,Sjef Kogels,EGMOND AAN ZEE,MBAS,158,00:52:58,00:38:58,01:31:55,01:32:20,27.419,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+302,207,Richard Dwanna,GEMERT,MBAS,159,00:52:06,00:39:53,01:31:59,01:32:21,27.401,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+303,448,Michael Mom,Spijkenisse,MBAS,160,00:49:03,00:42:48,01:31:50,01:32:22,27.443,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+304,267,Patrick Meijer,Heemskerk,MBAS,161,00:50:13,00:41:46,01:31:59,01:32:30,27.400,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+305,383,Gert Hoogeveen,Woubrugge,MCYC,27,00:49:07,00:44:07,01:33:14,01:33:23,27.030,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+306,422,Kenneth De Wit,Alphen aan den Rijn,MCYC,28,00:50:55,00:42:24,01:33:18,01:33:27,27.010,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+307,229,Ton van Haastregt,HILLEGOM,MBAS,162,00:52:09,00:40:58,01:33:06,01:33:29,27.071,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+308,291,Stef Voermans,Voorburg,MBAS,163,00:49:31,00:43:35,01:33:05,01:33:38,27.075,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+309,437,Edwin de Blaeij,Roelofarendsveen,MCYC,29,00:50:37,00:43:04,01:33:41,01:33:52,26.903,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+310,232,Arjan Heemskerk,Noordwijk ZH,MBAS,164,00:49:53,00:44:54,01:34:47,01:35:15,26.590,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+311,394,Harmen Land,Zoetermeer,MCYC,30,00:53:52,00:42:00,01:35:52,01:36:00,26.288,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+312,411,Frank Steehouwer,SEROOSKERKE,MCYC,31,00:53:52,00:41:54,01:35:45,01:36:01,26.319,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+313,426,Joop de Jong,PURMERED,MCYC,32,00:53:24,00:42:50,01:36:13,01:36:20,26.193,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+314,372,Dave van Egmond,DEN HAAG,MCYC,33,00:53:00,00:43:41,01:36:40,01:36:46,26.070,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+315,362,Gert de Vries,Kortenhoef,MCYC,34,00:51:54,00:44:43,01:36:37,01:36:49,26.084,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+316,173,Andre Plug,NOORDWIJK AAN ZEE,MBAS,165,,,01:37:25,01:37:55,25.869,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+317,214,Hans Frederiks,WASSENAAR,MBAS,166,00:51:23,00:46:17,01:37:40,01:38:05,25.805,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+318,242,Martijn Jongste,DIEMEN,MBAS,167,00:56:19,00:41:28,01:37:47,01:38:20,25.774,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+319,409,Maarten Sourverijn,RIJNSBURG,MCYC,35,00:55:26,00:43:04,01:38:30,01:38:30,25.584,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+320,385,ADNES KEIJZER,middelharnis,MCYC,36,00:54:58,00:43:27,01:38:24,01:38:30,25.612,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+321,374,Perry van Gerven,Voorhout,MCYC,37,00:55:58,00:42:06,01:38:04,01:38:32,25.698,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+322,322,Pieter Steltenpool,,MBAS,168,00:55:10,00:43:00,01:38:09,01:38:44,25.676,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+323,396,Dennis Maas,Raamsdonksveer,MCYC,38,00:54:24,00:44:20,01:38:44,01:38:56,25.526,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+324,405,René Schooltink,Noordwijk aan Zee,MCYC,39,00:53:59,00:44:46,01:38:45,01:38:57,25.523,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+325,375,Bob Hart,MAASSLUIS,MCYC,40,00:55:06,00:43:40,01:38:46,01:39:00,25.519,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+326,431,peter van der van der geest,Alphen aan den rijn,MCYC,41,00:52:04,00:46:45,01:38:49,01:39:03,25.506,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+327,410,Mike Steehouwer,SEROOSKERKE,MCYC,42,00:55:06,00:43:44,01:38:50,01:39:06,25.501,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+328,284,Emiel Schilder,ALKMAAR,MBAS,169,00:58:45,00:41:10,01:39:54,01:40:18,25.229,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+329,380,Henri van Helden,Drunen,MCYC,43,00:55:58,00:44:17,01:40:14,01:40:44,25.142,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+330,329,Erwin van Lier,Kwintsheul,MBAS,170,00:54:30,00:46:19,01:40:49,01:41:07,24.998,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+331,197,Pim Groeneveld,HEERHUGOWAARD,MBAS,171,00:55:05,00:45:53,01:40:58,01:41:16,24.961,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+332,174,Robin Bleeker,Voorhout,MBAS,172,00:56:11,00:44:58,01:41:08,01:41:38,24.918,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+333,373,Mark den Elzen,Noordwijkerhout,MCYC,44,00:54:29,00:47:18,01:41:47,01:41:55,24.762,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+334,325,Lucas Keuning,Sassenheim,MBAS,173,00:54:35,00:47:51,01:42:25,01:42:30,24.607,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+335,393,Arie Kweekel,Spijkenisse,MCYC,45,00:57:36,00:46:00,01:43:36,01:43:51,24.326,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+336,328,Steven Nijweide,Dordrecht,MBAS,174,00:57:46,00:45:59,01:43:44,01:44:15,24.296,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+337,289,Michaël Spronkers,VLEUTEN,MBAS,175,00:56:31,00:47:11,01:43:42,01:44:16,24.304,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+338,445,Eric Buddelmeijer,Oostzaan,MBAS,176,00:59:15,00:44:41,01:43:56,01:44:22,24.250,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+339,200,Martin Josselet,HEEMSKERK,MBAS,177,00:53:55,00:50:52,01:44:46,01:45:01,24.054,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+340,294,Ronny Terhaerdt,Den Haag,MBAS,178,00:56:56,00:47:55,01:44:50,01:45:24,24.039,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+341,424,Nico van der Zwan,Santpoort noord,MCYC,46,00:58:57,00:46:34,01:45:30,01:45:37,23.887,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+342,175,Ruud Mannaart,,MBAS,179,00:59:10,00:46:54,01:46:04,01:46:25,23.762,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+343,417,Ruud Visser,,MCYC,47,01:00:48,00:46:51,01:47:39,01:47:56,23.413,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+344,364,frans Basstra,IJMUIDEN,MCYC,48,00:59:37,00:48:10,01:47:47,01:48:03,23.383,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+345,367,Peter Bouwhuis,Amstelveen,MCYC,49,00:58:31,00:49:23,01:47:54,01:48:09,23.356,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+346,429,Bram de jong,,MCYC,50,00:55:03,00:53:40,01:48:42,01:48:52,23.184,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+347,239,Alex de Jong,HEEMKERK,MBAS,180,01:00:34,00:49:40,01:50:13,01:50:44,22.865,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+348,246,Joey Kerkvliet,OUDORP,MBAS,181,00:45:41,01:06:45,01:52:25,01:52:48,22.418,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+349,400,Rene Neugenbauer,,MCYC,51,01:01:34,00:51:44,01:53:17,01:53:44,22.245,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+350,418,Edwin Visser,,MCYC,52,01:00:59,00:52:30,01:53:29,01:53:44,22.208,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+351,401,Michel Peeters,Leiderdorp,MCYC,53,01:00:48,00:53:27,01:54:14,01:54:28,22.061,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+352,414,Michel Twisk,Velserbroek,MCYC,54,01:01:50,00:52:32,01:54:21,01:54:35,22.038,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+353,395,John Maarse,Leiderdorp,MCYC,55,01:01:52,00:53:09,01:55:01,01:55:13,21.912,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+354,436,Willem Pieter Keuning,Sassenheim,MCYC,56,01:02:24,00:53:03,01:55:26,01:55:33,21.831,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+355,379,Emke van Heijningen,Haarlem,MCYC,57,01:00:47,00:56:11,01:56:57,01:57:08,21.548,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+356,399,Marco Moen,Zaandijk,MCYC,59,01:05:30,00:56:40,02:02:09,02:02:20,20.630,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+357,309,Carl Verbeek,NAALDWIJK,MBAS,182,01:07:40,00:54:28,02:02:07,02:02:31,20.638,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+358,196,Erwin Bouwense,HILLEGOM,MBAS,183,01:12:43,00:59:31,02:12:13,02:12:22,19.061,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+359,268,Matthijs  van Meijl,LEIDERDORP,MBAS,184,01:12:31,00:59:38,02:12:09,02:12:23,19.072,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+360,287,Reinder Smid,,MBAS,185,01:12:32,00:59:41,02:12:13,02:12:23,19.062,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+361,408,willem Sibbing,,MCYC,60,01:10:54,01:01:20,02:12:14,02:12:25,19.059,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+362,412,Bart ter Stege,,MCYC,61,01:10:56,01:01:18,02:12:14,02:12:25,19.059,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+363,407,Ruben Sibbing,,MCYC,62,01:10:55,01:01:19,02:12:14,02:12:25,19.059,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+364,271,Merlijn   Kamp,Nijmegen,MBAS,186,00:57:39,01:13:45,02:11:24,02:16:37,19.179,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15
+365,450,Ab Hoogland,Leiden,MCYC,63,01:13:54,01:06:29,02:20:22,02:20:36,17.953,De Flexwinkel MTB Strandrace   Noordwijk   15-01-2017,2017-01-15

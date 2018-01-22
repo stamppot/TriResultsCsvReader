@@ -1,0 +1,913 @@
+Plts,StartNr,Naam,Vereniging/Woonplaats,Cat,PltsCat,NettoTijd,Na1800m,Na5km,Na8200m,race,date
+1,1850,Rik Helwegen,Amsterdam,Man,1,00:35:20,00:06:15,00:17:43,00:29:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+2,1993,Jason Beerman,Amsterdam,Man,2,00:35:45,00:06:06,00:17:38,00:29:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+3,1951,Aschwin Wijnands,Phanos,Man,3,00:37:00,00:06:16,00:18:12,00:30:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+4,2241,Menno de Roode,Amsterdam,Man,4,00:37:05,00:06:15,00:18:12,00:30:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+5,1923,Steven Cardy,Amsterdam,Man,5,00:37:23,00:06:29,00:18:41,00:30:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+6,1798,Joey den Brave,Lycurgus,Man,6,00:37:33,00:06:16,00:18:13,00:30:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+7,1875,Haiko Smid,Amsterdam,Man,7,00:37:49,00:06:17,00:18:34,00:31:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+8,1759,Alexey Peskov,Haarlem,Man,8,00:38:03,00:06:31,00:18:47,00:31:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+9,2256,Merijn de Ruijter van Ste,Utrecht,Man,9,00:38:30,00:06:41,00:19:01,00:31:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+10,1872,Daphne Jacobs,Amsterdam,Vrouw,1,00:38:32,00:06:35,00:19:06,00:31:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+11,1607,Hayo van Houten,Amstelveen,Man,10,00:38:46,00:06:47,00:19:29,00:31:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+12,1556,Pim Hamers,Badhoevedorp,Man,11,00:38:50,00:06:40,00:19:09,00:31:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+13,1952,Arran Jolly,Amsterdam,Man,12,00:38:58,00:06:44,00:19:14,00:32:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+14,1197,Peter van der Meer,Phanos,Man,13,00:39:05,00:06:53,00:19:41,00:32:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+15,1696,Leander van Diggelen,Nieuw-Vennep,Man,14,00:39:09,00:06:42,00:19:05,00:31:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+16,1908,Mattijs Oud,Amsterdam,Man,15,00:39:12,00:06:52,00:19:45,00:32:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+17,1537,Sander Koning Labadie,Diemen,Man,16,00:39:31,00:06:35,00:19:23,00:32:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+18,1754,Iason Chronis,Amsterdam,Man,17,00:39:43,00:06:53,00:19:38,00:32:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+19,1461,Ardjan Swerink,Amsterdam,Man,18,00:39:46,00:06:34,00:19:23,00:32:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+20,2120,Lian Stadhouders,Amsterdam,Vrouw,2,00:39:49,00:06:37,00:19:26,00:32:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+21,1526,Stefan Wisselink,Diemen,Man,19,00:40:07,00:06:56,00:20:09,00:33:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+22,1236,Robert Boerhout,Amsterdam,Man,20,00:40:18,00:06:57,00:20:11,00:33:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+23,1173,Rogier Bohte,Amsterdam,Man,21,00:40:22,00:06:36,00:19:41,00:33:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+24,2040,Sander Boerkamp,Twello,Man,22,00:40:31,00:06:55,00:20:07,00:33:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+25,2153,Bob Kuiper,Amsterdam,Man,23,00:40:32,00:06:59,00:20:12,00:33:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+26,1251,Robert Frank Houbaer,Amsterdam,Man,24,00:40:38,00:07:00,00:20:14,00:33:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+27,2493,Adri Verhoef (Pacer),,Man,25,00:40:43,00:07:02,00:20:17,00:33:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+28,1669,Bart de Vries,Amstelveen,Man,26,00:40:46,00:07:07,00:20:11,00:33:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+29,1395,Roel Jongejan,Amsterdam,Man,27,00:40:46,00:06:51,00:20:18,00:33:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+30,1221,Ivo Steunebrink,Amsterdam,Man,28,00:40:51,00:06:56,00:20:17,00:33:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+31,2221,Arvid Janssen,Amsterdam,Man,29,00:40:58,00:06:48,00:20:11,00:33:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+32,1396,Roderik Goossens,Amsterdam,Man,30,00:41:00,00:07:26,00:20:59,00:34:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+33,1914,Heather Bray,Amstredam,Vrouw,3,00:41:04,00:07:00,00:20:20,00:33:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+34,1863,Pieter Overmars,Amsterdam,Man,31,00:41:09,00:07:34,00:20:14,00:33:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+35,1536,Britt Fellinger,Amsterdam,Man,32,00:41:13,00:06:35,00:19:38,00:33:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+36,2117,Niels Felix,Amsterdam,Man,33,00:41:17,00:06:51,00:20:07,00:33:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+37,1394,Stijn Rhebergen,Noord-Scharwoude,Man,34,00:41:17,00:07:26,00:20:20,00:33:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+38,2158,Janwillem Martijn,Amsterdam,Man,35,00:41:22,00:07:24,00:20:54,00:34:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+39,1628,Jon Stiekema,Utrecht,Man,36,00:41:24,00:07:20,00:20:37,00:34:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+40,1454,Lennert Salomé,Amsterdam,Man,37,00:41:25,00:07:08,00:20:33,00:34:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+41,1509,Wan Man,Amsterdam,Man,38,00:41:26,00:06:59,00:20:19,00:34:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+42,1689,Joost van Houten,Amstelveen,Man,39,00:41:44,00:07:14,00:20:50,00:34:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+43,1476,Nick Broerse,Assendelft,Man,40,00:41:47,00:07:17,00:20:57,00:34:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+44,1212,Chiel Brandsma,Amsterdam,Man,41,00:41:47,00:07:17,00:20:57,00:34:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+45,2118,Boudewijn de Vries,Amsterdam,Man,42,00:41:48,00:06:52,00:20:07,00:33:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+46,1597,Stan Verstraelen,Amsterdam,Man,43,00:41:50,00:07:12,00:20:58,00:34:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+47,1550,Thomas Karsdorp,Amsterdam,Man,44,00:41:50,00:07:07,00:21:02,00:34:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+48,2159,Roberto Maria Pattumelli,Amsterdam,Man,45,00:41:52,00:07:19,00:20:34,00:34:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+49,1705,Jörgen Bock,Amsterdam,Man,46,00:41:54,00:07:11,00:20:39,00:34:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+50,1191,Joost van Ooijen,Amsterdam,Man,47,00:41:55,00:07:09,00:20:42,00:34:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+51,2196,Martijn Brinkhoff,Amsterdam,Man,48,00:41:56,00:07:20,00:20:51,00:34:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+52,2180,Hans Huisman,Amsterdam,Man,49,00:41:58,00:06:55,00:20:17,00:34:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+53,1791,Erik Brandsma,Amsterdam,Man,50,00:42:05,00:06:56,00:20:17,00:34:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+54,1820,Thomas van Eijkeren,Amsterdam,Man,51,00:42:08,00:07:06,00:20:44,00:34:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+55,1835,Kevin Stroek,Amsterdam,Man,52,00:42:12,00:06:58,00:20:44,00:34:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+56,1211,Hans Geus,Sint Pancras,Man,53,00:42:23,00:07:12,00:20:54,00:34:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+57,1490,Paul van Veen,Amsterdam,Man,54,00:42:29,00:07:08,00:20:51,00:34:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+58,1968,Floor Baars,Zaandam,Man,55,00:42:32,00:07:35,00:21:47,00:35:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+59,1631,Max Bisschop,Amstelveen,Man,56,00:42:38,00:07:25,00:21:10,00:35:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+60,1926,Davide Ceolin,Amsterdam,Man,57,00:42:41,00:07:21,00:20:57,00:34:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+61,1725,Marijn Veenman,Amsterdam,Man,58,00:42:42,00:07:19,00:20:55,00:34:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+62,2171,Philipp Girrbach,Amsterdam,Man,59,00:42:42,00:07:05,00:20:47,00:34:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+63,2279,Loes ten Berge,Barleaus,Vrouw,4,00:42:47,00:07:16,00:21:07,00:35:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+64,1311,Bas Arts,Amsterdam,Man,60,00:42:48,00:06:57,00:20:21,00:34:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+65,1451,Selena Brouwer,Amsterdam,Vrouw,5,00:42:49,00:07:08,00:21:04,00:35:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+66,1666,Sietske Altena,Joure,Vrouw,6,00:42:50,00:07:25,00:21:00,00:35:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+67,2170,Frank Mijnals,Amsterdam,Man,61,00:42:50,00:07:12,00:21:09,00:35:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+68,1553,Job Wink,Muiden,Man,62,00:42:52,00:07:16,00:21:13,00:35:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+69,1630,Danielle Remmers,Utrecht,Vrouw,7,00:42:54,00:07:32,00:21:23,00:35:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+70,1238,Jeffrey IEONG,Amsterdam,Man,63,00:42:57,00:06:38,00:20:39,00:35:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+71,1558,Reint Bolhuis,Amsterdam,Man,64,00:43:15,00:07:16,00:21:01,00:35:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+72,2264,Peter Versteegen,Amsterdam Zuidoost,Man,65,00:43:23,00:07:23,00:21:23,00:35:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+73,2021,Merel van Veen,Amsterdam,Vrouw,8,00:43:25,00:07:09,00:21:05,00:35:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+74,1970,Nicola Quaedvlieg,Amstelveen,Man,66,00:43:26,00:07:31,00:21:25,00:35:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+75,2248,Dirk Sluiter,Hilversum,Man,67,00:43:27,00:07:43,00:22:00,00:36:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+76,2164,Redoin Slimani,Almere,Man,68,00:43:28,00:07:22,00:20:49,00:35:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+77,1919,Floris van Lier,Amsterdam,Man,69,00:43:33,00:07:47,00:22:18,00:36:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+78,1084,Arne,Fons Vitae Lyceum,Man,70,00:43:33,00:07:45,00:21:38,00:35:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+79,1580,Jitse van Tilburg,Amsterdam,Man,71,00:43:35,00:07:30,00:21:51,00:36:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+80,2065,Azzeddine Stitou,Lelystad,Man,72,00:43:45,00:07:25,00:21:38,00:36:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+81,2272,Geert Heuterman,Amsterdam,Man,73,00:43:48,00:07:40,00:22:11,00:36:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+82,1543,Frans van Vliet,Amsterdam,Man,74,00:43:56,00:07:15,00:21:28,00:35:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+83,1922,Thijs Kloosterman,Amsterdam,Man,75,00:43:57,00:07:26,00:21:42,00:36:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+84,1657,Mark Lauret,Amsterdam,Man,76,00:44:00,00:07:07,00:21:18,00:36:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+85,1390,Erik Landman,Amsterdam,Man,77,00:44:05,00:07:51,00:22:17,00:36:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+86,1398,Michael Beemer,Amsterdam,Man,78,00:44:07,00:06:36,00:21:12,00:36:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+87,1817,David Stubbings,Amsterdam,Man,79,00:44:09,00:07:34,00:21:58,00:36:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+88,2194,Marko Dragoljevic,Amsterdam,Man,80,00:44:14,00:07:34,00:21:59,00:36:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+89,1847,Berend Plugge,Amsterdam,Man,81,00:44:15,00:07:33,00:21:57,00:36:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+90,1858,Ron van Veen,Phanos,Man,82,00:44:16,00:07:44,00:21:58,00:36:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+91,2254,Machiel Klaarenbeek,Amsterdam,Man,83,00:44:17,00:07:45,00:22:19,00:36:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+92,2051,Glenn Redding,Dublin,Man,84,00:44:24,00:07:55,00:22:32,00:36:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+93,2232,Joris van Ooijen,Amstelveen,Man,85,00:44:28,00:07:50,00:22:30,00:36:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+94,1297,Jeroen Wiercx,Amsterdam,Man,86,00:44:30,00:07:35,00:21:57,00:36:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+95,1347,Sander Ossenkoppele,Amsterdam,Man,87,00:44:32,00:07:56,00:22:43,00:37:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+96,1899,Derk Willem Duynstee,Hoevelaken,Man,88,00:44:33,00:07:56,00:22:44,00:37:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+97,1471,Ries Bokken,Amsterdam,Man,89,00:44:36,00:07:42,00:22:15,00:37:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+98,2089,Franc van Erck,Amstelveen,Man,90,00:44:40,00:07:21,00:21:57,00:36:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+99,1082,Oskar Maarleveld,Fons Vitae Lyceum,Man,91,00:44:42,00:07:47,00:22:19,00:36:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+100,1614,Arnoud van Spijker,Badhoevedorp,Man,92,00:44:45,00:07:40,00:22:07,00:36:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+101,1321,Marleen van Dusseldorp,Amsterdam,Vrouw,9,00:44:46,00:07:08,00:21:42,00:36:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+102,1819,Scott Strang,Amsterdam,Man,93,00:44:48,00:07:52,00:22:29,00:36:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+103,2044,Ahmed el Ayadi,Amsterdam,Man,94,00:44:49,00:07:16,00:21:37,00:36:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+104,1478,Jantien Vogel,Amsterdam,Vrouw,10,00:44:49,00:07:58,00:22:37,00:37:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+105,1761,Olivier Nijland,Amsterdam,Man,95,00:44:50,00:07:23,00:21:50,00:36:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+106,1773,Paul Perizonius,Amsterdam,Man,96,00:44:51,00:07:40,00:22:12,00:36:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+107,1387,Diederick Bonnerman,Amsterdam,Man,97,00:44:52,00:08:03,00:22:53,00:37:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+108,1407,Klaas Boomsma,Amsterdam,Man,98,00:45:01,00:07:38,00:22:29,00:37:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+109,2157,Bjorn Strumann,Amsterdam,Man,99,00:45:01,00:07:09,00:21:01,00:36:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+110,2017,Jeroen van Lier,Haarlem,Man,100,00:45:01,00:07:50,00:22:20,00:36:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+111,1539,Rogier van Ooijen,Startbaan,Man,101,00:45:08,00:07:28,00:22:02,00:36:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+112,1589,Arnoud de Bruin,Amstelveen,Man,102,00:45:09,00:08:04,00:22:46,00:37:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+113,2049,Alex Koster,Amsterdam,Man,103,00:45:10,00:07:37,00:22:08,00:36:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+114,1156,Fred Vonk,Delta Lloyd Running Team,Man,104,00:45:12,00:07:50,00:22:30,00:37:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+115,1572,Jelle Overmars,Amsterdam,Man,105,00:45:15,00:07:45,00:21:49,00:36:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+116,2161,Bas Pfister,Amsterdam,Man,106,00:45:22,00:07:52,00:22:34,00:37:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+117,2247,Remco Putman,Amsterdam,Man,107,00:45:22,00:07:41,00:22:19,00:37:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+118,1462,Arie Muijlwijk,Amsterdam,Man,108,00:45:23,00:07:49,00:22:31,00:37:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+119,2421,Gert-Han Konijn,Atos,Man,109,00:45:24,00:07:53,00:22:34,00:37:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+120,2496,Cor Vonk (Pacer),,Man,110,00:45:25,00:07:52,00:22:34,00:37:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+121,2494,John Braham (Pacer),,Man,111,00:45:28,00:07:52,00:22:34,00:37:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+122,2495,Ramon van Voornveld (Pacer),,Man,112,00:45:29,00:07:52,00:22:33,00:37:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+123,1720,Eric van Weerden,Lycurgus,Man,113,00:45:34,00:07:52,00:22:28,00:37:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+124,2022,Rocco van den Berg,Amsterdam,Man,114,00:45:35,00:07:52,00:22:39,00:37:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+125,1358,Joost van der Vorst,Amsterdam,Man,115,00:45:35,00:07:41,00:22:35,00:37:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+126,2201,Erjo Beitler,Amsterdam,Man,116,00:45:40,00:08:10,00:23:24,00:38:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+127,1916,Brice Ratajczak,Paris,Man,117,00:45:41,00:07:57,00:22:37,00:37:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+128,1557,Ida Verduin-Boone,Schagen,Vrouw,11,00:45:41,00:08:15,00:23:00,00:37:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+129,2098,Chris Koedooder,Amsterdam,Man,118,00:45:44,00:07:54,00:22:47,00:37:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+130,1564,Barry Oudejans,Wormer,Man,119,00:45:48,00:08:09,00:22:58,00:37:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+131,2137,Pascal Borkhard,Amsterdam Zuidoost,Man,120,00:45:49,00:08:33,00:23:50,00:38:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+132,1175,Peter Hoitinga,Amsterdam,Man,121,00:45:50,00:07:46,00:22:34,00:37:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+133,1498,Gerrie Spits,Atos,Man,122,00:45:53,00:08:06,00:22:50,00:37:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+134,1712,Josip Gracak,Amsterdam Zuidoost,Man,123,00:45:55,00:07:32,00:22:11,00:37:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+135,2024,Rick Bomans,Dolichos,Man,124,00:45:56,00:07:52,00:22:33,00:37:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+136,1675,Frank Verkaaik,Amsterdam,Man,125,00:45:58,00:08:15,00:22:48,00:37:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+137,1299,Albert Logtenberg,Amsterdam,Man,126,00:46:01,00:07:57,00:22:57,00:38:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+138,1512,Rosadinde Doornenbal,Rotterdam,Vrouw,12,00:46:03,00:07:33,00:22:24,00:37:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+139,1930,Joost van Kampen,Hoofddorp,Man,127,00:46:03,00:08:07,00:22:54,00:37:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+140,1781,Jeffrey Schrader,Hoorn Nh,Man,128,00:46:04,00:07:37,00:22:24,00:37:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+141,1549,Gijs Odijk,Amsterdam,Man,129,00:46:06,00:08:24,00:23:14,00:37:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+142,1547,Jeroen Mank,Amsterdam,Man,130,00:46:07,00:08:24,00:23:15,00:38:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+143,1555,Stefan Koop,Bodegraven,Man,131,00:46:07,00:08:24,00:23:15,00:38:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+144,1909,Marine Baud,Amsterdam Zuidoost,Vrouw,13,00:46:09,00:07:49,00:22:39,00:37:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+145,1985,Edo Smit,Bussum,Man,132,00:46:11,00:08:09,00:23:02,00:38:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+146,1846,Nicole Masolijn,Amsterdam,Vrouw,14,00:46:12,00:08:03,00:23:03,00:37:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+147,1130,Rutger van 't Spijker,Lanx Cares,Man,133,00:46:13,00:08:17,00:22:58,00:38:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+148,1836,Ariadne Kibbelaar,Amsterdam,Vrouw,15,00:46:19,00:07:50,00:23:15,00:38:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+149,1719,Ingrid van Weerden,Lycurgus,Vrouw,16,00:46:20,00:08:02,00:23:11,00:38:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+150,1592,Maarten Soudijn,Amsterdam,Man,134,00:46:22,00:07:58,00:22:37,00:37:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+151,2269,Michael Pietersen,Amstelveen,Man,135,00:46:24,00:08:13,00:23:04,00:38:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+152,1516,Arno Colenbrander,Amsterdam,Man,136,00:46:26,00:07:50,00:22:38,00:37:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+153,1411,Dario Castro,Amsterdam,Man,137,00:46:26,00:07:58,00:22:55,00:38:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+154,1186,Rami Hirzalla,Amsterdam,Man,138,00:46:28,00:07:50,00:22:44,00:37:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+155,1910,Rianne Vossen,Amsterdam,Vrouw,17,00:46:28,00:08:00,00:22:43,00:38:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+156,2105,Alexander Lambalk,Amsterdam,Man,139,00:46:29,00:07:50,00:22:31,00:37:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+157,1964,Gert Meijer,Lunteren,Man,140,00:46:29,00:08:01,00:23:11,00:38:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+158,2019,Bart Overbeek,Amsterdam,Man,141,00:46:31,00:07:38,00:22:11,00:37:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+159,2035,Joost Geldhof,Amsterdam,Man,142,00:46:35,00:08:20,00:23:10,00:38:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+160,1778,Jochem Brinckman,Amsterdam,Man,143,00:46:36,00:08:26,00:23:38,00:38:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+161,1583,Aron Stam,Castricum,Man,144,00:46:37,00:08:24,00:22:58,00:38:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+162,2093,Dennis Feiken,Amsterdam,Man,145,00:46:45,00:08:10,00:23:19,00:38:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+163,1117,Lucas Bruineman,Lanx Cares,Man,146,00:46:46,00:08:23,00:23:30,00:38:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+164,1962,Jeffrey van Houten,Amsterdam,Man,147,00:46:48,00:07:55,00:23:00,00:38:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+165,2150,Maarten Janssen,Amsterdam,Man,148,00:46:49,00:07:34,00:22:15,00:38:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+166,2015,Ulas Altug,Amsterdam,Man,149,00:46:51,00:08:34,00:24:03,00:38:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+167,1732,Tony Bervoets,Zaandam,Man,150,00:46:56,00:07:54,00:22:34,00:38:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+168,1921,Erik Kroon,Hoofddorp,Man,151,00:46:58,00:07:53,00:22:54,00:38:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+169,1784,Nils Telman,Amsterdam,Man,152,00:47:00,00:08:15,00:23:27,00:38:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+170,2266,Nicholas Pringle,Amsterdam,Man,153,00:47:01,00:08:01,00:23:13,00:38:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+171,1659,Daniele Besana,Amsterdam,Man,154,00:47:02,00:07:34,00:22:32,00:38:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+172,2088,Gabriëlle Koning,Amsterdam,Vrouw,18,00:47:02,00:08:02,00:23:18,00:38:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+173,1764,Rinco Boelens,Hardloop Club Amsterdamse Bos,Man,155,00:47:02,00:08:04,00:23:14,00:38:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+174,1081,Daan Visser,Fons Vitae Lyceum,Man,156,00:47:04,00:08:16,00:23:24,00:38:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+175,1517,Roy Cremers,Amsterdam,Man,157,00:47:05,00:08:00,00:23:24,00:38:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+176,2147,Tristan Brinkman,Hoofddorp,Man,158,00:47:07,00:08:35,00:23:43,00:38:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+177,1931,Oliver Williams,Amsterdam,Man,159,00:47:15,00:08:19,00:23:48,00:39:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+178,1989,Joep Oudendijk,Badhoevedorp,Man,160,00:47:30,00:08:38,00:24:40,00:40:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+179,1862,Max Marrink,Amsterdam,Man,161,00:47:32,00:08:06,00:23:12,00:38:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+180,1097,Wieger van der Hoeven,Lanx Cares,Man,162,00:47:33,00:08:18,00:23:46,00:39:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+181,2207,Wietske Wentrup,Amsterdam,Vrouw,19,00:47:33,00:07:49,00:23:03,00:38:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+182,2283,Jeroen Smeulders,Barleaus,Man,163,00:47:33,00:08:20,00:23:49,00:39:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+183,1118,Mark Drooglever,Lanx Cares,Man,164,00:47:36,00:09:03,00:25:09,00:40:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+184,2173,Reinoud Bekendam,Amsterdam,Man,165,00:47:36,00:08:58,00:25:02,00:39:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+185,1637,Klaas van Beurden,Utrecht,Man,166,00:47:36,00:08:38,00:24:06,00:39:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+186,1090,Wietse Slort,Fons Vitae Lyceum,Man,167,00:47:38,00:08:56,00:24:22,00:39:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+187,1779,Anne de Visser,AV '23,Man,168,00:47:39,00:08:14,00:23:46,00:39:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+188,1096,Sander Vermeulen,Lanx Cares,Man,169,00:47:44,00:08:17,00:23:05,00:38:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+189,1737,Jasper Hunting,Amsterdam,Man,170,00:47:45,00:08:22,00:23:58,00:39:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+190,2281,Dirk van den Born,Barleaus,Man,171,00:47:45,00:09:23,00:25:11,00:39:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+191,1442,Menno Jensma,Amsterdam,Man,172,00:47:46,00:08:22,00:23:58,00:39:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+192,1824,Marc Oomen,Badhoevedorp,Man,173,00:47:48,00:08:27,00:23:51,00:39:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+193,1250,Martin van Straten,Almere,Man,174,00:47:48,00:08:19,00:23:48,00:39:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+194,1542,Robert Steenhof,Amstelveen,Man,175,00:47:52,00:07:53,00:23:46,00:39:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+195,1184,Pieterjan van der Zwan,Amsterdam,Man,176,00:47:53,00:08:42,00:23:36,00:39:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+196,1879,Jasper Bouwman,Voorhout,Man,177,00:47:54,00:08:31,00:24:02,00:39:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+197,1943,Michiel Tammeling,Amsterdam,Man,178,00:47:54,00:08:16,00:23:17,00:39:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+198,2046,Theo Wubs,Amsterdam,Man,179,00:47:55,00:09:05,00:24:57,00:39:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+199,1861,Tanja van Dijk,Leiden,Vrouw,20,00:47:56,00:08:03,00:23:18,00:39:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+200,1479,Carsten van Maasacker,Amsterdam,Man,180,00:47:58,00:07:45,00:23:37,00:39:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+201,1622,Regina Homan,Loopgroep RDJ,Vrouw,21,00:47:59,00:08:12,00:23:35,00:39:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+202,1228,Jeroen van Berkel,Haarlem,Man,181,00:48:02,00:08:18,00:23:34,00:39:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+203,1887,Meins van de Brink,Huizen,Man,182,00:48:02,00:09:01,00:24:28,00:39:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+204,2104,Peter Kan,Amsterdam,Man,183,00:48:03,00:08:10,00:23:20,00:39:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+205,2116,Nicky van den Daal,Amsterdam,Man,184,00:48:05,00:08:41,00:24:13,00:39:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+206,2197,Erwin de Winter,Hoofddorp,Man,185,00:48:19,00:08:26,00:24:08,00:39:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+207,2095,Jantiena Dijkstra,Amsterdam,Vrouw,22,00:48:22,00:08:27,00:23:58,00:39:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+208,1318,Christiaan Moenis,Marken,Man,186,00:48:22,00:07:45,00:22:49,00:39:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+209,1691,Monique van der Vorst,Amstelveen,Vrouw,23,00:48:22,00:07:39,00:23:21,00:39:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+210,1927,Ivo Grasman,Amsterdam,Man,187,00:48:24,00:08:55,00:24:56,00:40:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+211,2222,Erik Clabbers,Venlo,Man,188,00:48:26,00:07:46,00:23:47,00:39:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+212,2087,Wouter van der Veur,Amsterdam,Man,189,00:48:27,00:08:04,00:23:37,00:39:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+213,2240,Sanne Borckink,Amsterdam,Vrouw,24,00:48:29,00:08:47,00:24:26,00:39:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+214,1254,Abdel Essaghir,Almere,Man,190,00:48:30,00:08:16,00:23:54,00:39:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+215,1131,Stan Brink,Lanx Cares,Man,191,00:48:31,00:08:17,00:24:04,00:39:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+216,1576,Marc Venema,Amsterdam,Man,192,00:48:31,00:08:01,00:23:43,00:39:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+217,2191,Sven Hubens,Amsterdam,Man,193,00:48:32,00:08:29,00:24:02,00:39:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+218,1379,Florens Pfann,Atletiek Maastricht,Man,194,00:48:32,00:08:15,00:23:46,00:39:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+219,2097,Klaas Kummeling,AMSTERDAM,Man,195,00:48:33,00:08:14,00:23:58,00:39:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+220,1772,Anouk Perizonius,Amsterdam,Vrouw,25,00:48:33,00:08:09,00:23:43,00:39:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+221,1601,Ben Ginsel,Amsterdam,Man,196,00:48:36,00:07:50,00:23:12,00:39:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+222,2142,Alex van Oogen,Almere,Man,197,00:48:36,00:08:35,00:24:08,00:39:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+223,1600,Elon van Dijk,Amsterdam,Man,198,00:48:36,00:08:58,00:24:40,00:40:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+224,1372,Joost de Vries,Amsterdam,Man,199,00:48:36,00:08:25,00:24:00,00:39:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+225,2143,Frank Schouten,Almere,Man,200,00:48:37,00:08:21,00:23:57,00:39:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+226,1289,Remon den Ouden,Amsterdam,Man,201,00:48:38,00:08:34,00:24:10,00:39:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+227,1336,Ingrid Birker,Amsterdam,Vrouw,26,00:48:40,00:08:59,00:24:40,00:40:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+228,1603,Eveline Blasius,Amsterdam,Vrouw,27,00:48:43,00:08:36,00:24:24,00:40:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+229,2217,Ruud Steinhaus,Hoorn Nh,Man,202,00:48:46,00:08:38,00:24:28,00:40:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+230,1338,Hans Wertheim,Amsterdam,Man,203,00:48:46,00:08:29,00:24:26,00:40:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+231,2234,Mihály Asztalos,Amsterdam Zuidoost,Man,204,00:48:47,00:08:15,00:23:52,00:40:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+232,1169,Joris van Lieshout,Amstelveen,Man,205,00:48:48,00:08:30,00:23:58,00:40:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+233,1279,Rosa Boon,Amsterdam,Vrouw,28,00:48:50,00:08:41,00:24:15,00:40:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+234,1618,Joop van Rijn,Amsterdam,Man,206,00:48:50,00:08:32,00:24:14,00:40:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+235,1703,Marloes Sonsma,Amsterdam,Vrouw,29,00:48:50,00:08:31,00:24:26,00:40:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+236,2154,Minou Moenis,Amsterdam,Vrouw,30,00:48:50,00:08:10,00:24:18,00:40:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+237,2258,Rui Alves,Amsterdam,Man,207,00:48:50,00:07:58,00:23:14,00:39:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+238,2174,Wilbert Bekendam,Amsterdam,Man,208,00:48:51,00:08:58,00:25:02,00:40:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+239,1950,Nadine Sonnevelt,Amsterdam,Vrouw,31,00:48:52,00:08:49,00:24:46,00:40:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+240,1381,Dieke Oomkes,Amsterdam,Vrouw,32,00:48:56,00:08:54,00:24:45,00:40:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+241,2271,Robert Gielisse,Amsterdam,Man,209,00:48:57,00:08:43,00:24:28,00:40:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+242,1100,Joost Beenes,Lanx Cares,Man,210,00:48:57,00:08:06,00:23:58,00:40:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+243,1848,Erik Heemskerk,Amsterdam,Man,211,00:49:00,00:08:21,00:24:13,00:40:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+244,2031,Nancy Koelega,Amsterdam,Vrouw,33,00:49:01,00:08:42,00:24:30,00:40:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+245,1434,Carlien van Putten,Amsterdam,Vrouw,34,00:49:03,00:08:36,00:24:33,00:40:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+246,1844,Robert Meijer,Wormerveer,Man,212,00:49:04,00:08:52,00:24:35,00:40:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+247,1349,Casper van Kempen,Phanos,Vrouw,35,00:49:05,00:08:26,00:24:12,00:40:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+248,2162,Arnard van der Zwan,Amsterdam,Man,213,00:49:07,00:08:44,00:24:36,00:40:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+249,1768,Mark Verlinden,Amsterdam,Man,214,00:49:07,00:08:32,00:24:35,00:40:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+250,2132,Joost Rebel,Amsterdam Zuidoost,Man,215,00:49:07,00:08:48,00:24:27,00:40:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+251,1876,Ilse Roling,Amsterdam,Vrouw,36,00:49:10,00:08:48,00:24:39,00:40:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+252,1980,Robert-Jan Groenendaal,Bussum,Man,216,00:49:10,00:08:15,00:24:18,00:40:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+253,1599,Roy Klaassen,Amsterdam,Man,217,00:49:10,00:08:51,00:25:00,00:41:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+254,1744,Stella Nelissen,Amsterdam,Vrouw,37,00:49:11,00:08:03,00:23:45,00:40:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+255,1339,Rene Boerkamp,Amsterdam,Man,218,00:49:12,00:08:12,00:24:02,00:40:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+256,1673,Esther Sorber,Amstelveen,Vrouw,38,00:49:12,00:08:23,00:24:31,00:40:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+257,1506,Sijmen Fokker,Amsterdam,Man,219,00:49:13,00:08:12,00:24:00,00:40:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+258,1271,Nina Nijland,Amsterdam,Vrouw,39,00:49:14,00:08:33,00:24:56,00:40:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+259,1853,Michiel Nijhuis,Amsterdam,Man,220,00:49:14,00:08:06,00:24:28,00:40:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+260,2274,Patrick Boekhout,Lycurgus,Man,221,00:49:15,00:08:12,00:24:29,00:40:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+261,1518,Petra Kerkhove,Amsterdam,Vrouw,40,00:49:15,00:08:03,00:23:50,00:40:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+262,1788,Rutger Stoop,Nijmegen,Man,222,00:49:17,00:08:14,00:24:12,00:40:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+263,1762,Vanessa Inggs,Amsterdam,Vrouw,41,00:49:18,00:08:37,00:24:49,00:40:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+264,1767,Nick Hijmensen,Purmerend,Man,223,00:49:20,00:08:15,00:24:12,00:40:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+265,1969,Gianni Quaedvlieg,Amstelveen,Man,224,00:49:22,00:08:09,00:24:04,00:40:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+266,2121,Babette van de Laak,'s-Hertogenbosch,Vrouw,42,00:49:23,00:08:38,00:24:38,00:40:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+267,1833,Marloes de Nijs,Amsterdam,Vrouw,43,00:49:24,00:08:47,00:24:38,00:40:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+268,2155,Michiel de Beet,Amsterdam,Man,225,00:49:25,00:08:48,00:24:46,00:40:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+269,2080,Rik Kraan,Amsterdam,Man,226,00:49:26,00:09:08,00:26:02,00:41:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+270,2016,Anna Hendriks,Amsterdam,Vrouw,44,00:49:26,00:08:27,00:24:48,00:40:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+271,2165,Bas Jongerius,Amsterdam,Man,227,00:49:27,00:09:09,00:26:03,00:41:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+272,2072,Kalleigh van den Hemel,Utrecht,Vrouw,45,00:49:28,00:08:43,00:24:52,00:40:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+273,1859,Sjors van der Woerd,Amsterdam,Man,228,00:49:28,00:08:33,00:24:29,00:40:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+274,2007,Mayra Slootweg,Amstelveen,Vrouw,46,00:49:32,00:08:56,00:24:54,00:40:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+275,2006,Mariska Velmans,Amsterdam,Vrouw,47,00:49:32,00:08:29,00:24:11,00:40:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+276,2053,Michel de Bruijn,Nieuw-Vennep,Man,229,00:49:33,00:08:40,00:24:37,00:40:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+277,1605,Erik Kleerebezem,Baarn,Man,230,00:49:35,00:08:29,00:24:37,00:40:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+278,2112,Daan Schuringa,Amsterdam,Man,231,00:49:36,00:08:44,00:25:21,00:41:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+279,1348,Dennis Klomps,Zeist,Man,232,00:49:39,00:08:06,00:24:17,00:40:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+280,1829,Edgar Senne,Amsterdam,Man,233,00:49:40,00:09:07,00:25:49,00:41:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+281,2204,Mart Wouters,Amsterdam,Man,234,00:49:41,00:08:44,00:24:36,00:40:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+282,2497,Peter Huisman (Pacer),,Man,235,00:49:45,00:09:03,00:24:56,00:40:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+283,2238,Mark Wijbenga,Hollandia,Man,236,00:49:45,00:08:48,00:24:43,00:40:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+284,1457,Marissa Eggenkamp,Amsterdam,Vrouw,48,00:49:46,00:08:59,00:25:08,00:41:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+285,1452,Anna Bakker,Amsterdam,Vrouw,49,00:49:46,00:08:56,00:25:09,00:40:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+286,2391,Danielle de Gelder,Amsterdam,Vrouw,50,00:49:48,00:08:23,00:24:53,00:41:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+287,2286,Marieke van Wiersum (Pacer),,Man,237,00:49:49,00:09:06,00:24:58,00:40:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+288,1363,Roeland van der Vliet,Amsterdam,Man,238,00:49:52,00:08:55,00:25:02,00:41:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+289,1823,Rieke Gilijamse,ZOEV,Vrouw,51,00:49:52,00:08:30,00:24:38,00:40:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+290,1569,Eric Wiersma,Amsterdam,Man,239,00:49:52,00:08:53,00:25:11,00:40:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+291,1224,Arthur Willems,Almere,Man,240,00:49:53,00:08:42,00:24:45,00:40:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+292,2013,Raymond van Oosten,Weesp,Man,241,00:49:54,00:09:01,00:25:24,00:41:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+293,1701,Annebel Keijzer,Amsterdam,Vrouw,52,00:49:54,00:08:32,00:24:36,00:40:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+294,1391,Kristel Kooij-Landman,Amsterdam,Vrouw,53,00:49:55,00:08:32,00:24:36,00:40:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+295,2096,Adriana Angulo,Amsterdam,Vrouw,54,00:49:55,00:08:58,00:24:52,00:40:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+296,1668,Rob Shuter,Amsterdam,Man,242,00:49:57,00:09:17,00:25:11,00:41:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+297,94,Wout Braggaar,Amsterdam,Man,243,00:49:58,00:09:56,00:28:01,00:45:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+298,1352,Pim Krajenbrink,Amsterdam,Man,244,00:50:00,00:09:03,00:24:55,00:41:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+299,1239,Pia Soetebier,Almere,Vrouw,55,00:50:03,00:08:52,00:25:03,00:41:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+300,1354,Martine Serné,Bavel,Vrouw,56,00:50:04,00:08:29,00:24:56,00:41:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+301,1433,Cliff Piets,Kombijsport,Man,245,00:50:06,00:08:54,00:25:07,00:41:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+302,1616,Annemieke Swaanenvelt,Amstelveen,Vrouw,57,00:50:06,00:08:44,00:25:21,00:41:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+303,1903,Martijn Oostdam,Amsterdam,Man,246,00:50:10,00:08:38,00:24:38,00:40:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+304,1493,Alfredo Sepulveda,Amsterdam,Man,247,00:50:12,00:08:23,00:24:50,00:41:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+305,1977,Victor Sekewael,Amsterdam Zuidoost,Man,248,00:50:18,00:08:27,00:24:10,00:40:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+306,1298,Natasja Jelsma,Dutch Runners,Vrouw,58,00:50:18,00:08:45,00:25:04,00:41:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+307,2091,Joyce Pots,Rijssen,Vrouw,59,00:50:18,00:09:27,00:26:13,00:41:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+308,1307,Martien van den Berg,Helmond,Man,249,00:50:21,00:08:41,00:24:54,00:41:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+309,1189,Goziëm Frijmersum,Amsterdam,Man,250,00:50:22,00:09:19,00:25:32,00:41:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+310,1329,Mario Douma,Haarlem,Man,251,00:50:22,00:08:48,00:24:30,00:40:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+311,1489,Adriana Suson,Almere,Vrouw,60,00:50:26,00:08:26,00:24:50,00:41:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+312,1371,Edward Jones,Amsterdam,Man,252,00:50:26,00:08:51,00:25:00,00:41:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+313,1514,Anna Ruppert,Leiden,Vrouw,61,00:50:28,00:08:43,00:24:55,00:41:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+314,2181,Loed Veth,Bussum,Man,253,00:50:32,00:09:02,00:25:05,00:41:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+315,1979,Nicky Kemp,Bussum,Vrouw,62,00:50:32,00:09:03,00:25:06,00:41:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+316,1776,Lisanne Koppenberg,Amsterdam,Vrouw,63,00:50:33,00:09:04,00:24:57,00:41:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+317,1327,Marcel Heijmans,Diemen,Man,254,00:50:34,00:08:54,00:25:12,00:41:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+318,1188,Rachindra Chote,Amsterdam,Man,255,00:50:36,00:08:47,00:24:38,00:41:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+319,2219,Gian Broers,Grootebroek,Man,256,00:50:37,00:08:47,00:25:04,00:41:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+320,2122,Lilian Vermolen,Lycurgus,Vrouw,64,00:50:38,00:08:46,00:25:32,00:41:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+321,2251,Agniet de Vries,Amsterdam,Vrouw,65,00:50:39,00:08:57,00:25:04,00:41:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+322,1529,Philipp Kauffmann,Amsterdam,Man,257,00:50:39,00:09:06,00:24:59,00:41:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+323,1530,Niki Kauffmann,Amsterdam,Vrouw,66,00:50:39,00:09:06,00:24:59,00:41:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+324,2128,Ilya Pimenov,Amsterdam,Man,258,00:50:41,00:08:58,00:25:48,00:42:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+325,1813,Giuliano Giuliani,Amsterdam,Man,259,00:50:42,00:08:30,00:25:16,00:41:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+326,2350,Katinka van Brakel,Amsterdam,Vrouw,67,00:50:44,00:09:06,00:25:06,00:41:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+327,2068,Natasha Struijker Boudier,Startbaan,Vrouw,68,00:50:45,00:08:17,00:24:37,00:41:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+328,2172,Mirelva Berghout,Amsterdam,Vrouw,69,00:50:46,00:09:40,00:26:05,00:42:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+329,2211,Erwin de Groot,Almere,Man,260,00:50:49,00:09:03,00:25:27,00:42:06,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+330,1511,Tom de Jong,Amsterdam,Man,261,00:50:51,00:08:44,00:24:54,00:41:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+331,1417,Marthe Heitbrink,Utrecht,Vrouw,70,00:50:53,00:08:52,00:25:29,00:41:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+332,1792,Lotte Dragt,Rotterdam,Vrouw,71,00:50:54,00:09:18,00:26:08,00:42:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+333,2148,Jan Willem van Kampen,Haarlem,Man,262,00:50:54,00:08:22,00:24:15,00:41:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+334,1415,Alec Oosterink,Amsterdam,Man,263,00:50:55,00:09:16,00:26:11,00:42:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+335,2023,Edward Bruin,Amsterdam,Man,264,00:51:03,00:07:59,00:24:38,00:41:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+336,1961,Sead Korovic,Amsterdam,Man,265,00:51:04,00:08:56,00:24:58,00:41:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+337,2193,Franciska van der Velde,Lycurgus,Vrouw,72,00:51:07,00:09:31,00:26:41,00:42:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+338,1912,Marcel Wiegman,Amsterdam,Man,266,00:51:11,00:08:36,00:24:58,00:41:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+339,1683,Dorien van Linge,Amsterdam,Vrouw,73,00:51:13,00:08:21,00:24:48,00:42:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+340,1158,Mirjam Mollema,Amsterdam,Vrouw,74,00:51:14,00:08:54,00:25:27,00:42:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+341,1647,Milica Antic,Amsterdam,Vrouw,75,00:51:19,00:09:09,00:26:11,00:42:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+342,1575,Marleen Lammers,Nijmegen,Vrouw,76,00:51:27,00:09:06,00:25:44,00:42:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+343,2233,Sofie Kosters,Amsterdam,Vrouw,77,00:51:28,00:09:05,00:25:41,00:42:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+344,1588,Evert van Voskuilen,Amsterdam,Man,267,00:51:29,00:08:55,00:25:31,00:42:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+345,1816,Henk Radder,Amsterdam,Man,268,00:51:30,00:09:15,00:26:21,00:42:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+346,1223,Bert Naber,Amsterdam,Man,269,00:51:30,00:09:06,00:25:41,00:42:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+347,1266,Francoise Oerlemans,Amsterdam,Vrouw,78,00:51:31,00:08:59,00:25:45,00:42:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+348,1222,Sofie Flaman,Amsterdam,Vrouw,79,00:51:31,00:09:07,00:25:42,00:42:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+349,2267,Stan Hoogcarspel,Amsterdam,Man,270,00:51:33,00:09:13,00:26:25,00:42:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+350,1693,Lotte Horlings,Amsterdam,Vrouw,80,00:51:39,00:08:59,00:25:37,00:42:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+351,1410,Omar Khader,Amsterdam,Man,271,00:51:41,00:08:26,00:25:08,00:42:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+352,2236,Karel van der Horst,Badhoevedorp,Man,272,00:51:42,00:08:45,00:25:53,00:42:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+353,1085,Bram Hoogkamp,Fons Vitae Lyceum,Man,273,00:51:43,00:09:01,00:25:09,00:42:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+354,1552,Frank Verheij,Amsterdam,Man,274,00:51:43,00:08:58,00:26:03,00:42:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+355,1378,Thomas Pfann,Phanos,Man,275,00:51:44,00:08:56,00:24:56,00:41:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+356,1812,Frank Basjes,Amsterdam,Man,276,00:51:46,00:08:41,00:25:24,00:42:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+357,1319,Mary Nollen,Amsterdam,Vrouw,81,00:51:48,00:08:54,00:25:16,00:42:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+358,1385,Remco van Stappershoef,Amsterdam,Man,277,00:51:50,00:09:33,00:26:18,00:42:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+359,2190,Wouter Onclin,Amsterdam,Man,278,00:51:51,00:08:51,00:25:55,00:42:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+360,1194,Ferry Lalezari,Amsterdam,Man,279,00:51:52,00:09:05,00:26:17,00:43:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+361,1341,Pascale Bekkering,Amsterdam,Vrouw,82,00:51:52,00:08:47,00:25:33,00:42:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+362,1094,Jan Jaap Burgraaf,Lanx Cares,Man,280,00:51:53,00:09:13,00:26:17,00:42:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+363,1301,Niels Pouw,Amsterdam,Man,281,00:51:55,00:09:29,00:26:20,00:43:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+364,1302,Nicki Verweij,Amsterdam,Vrouw,83,00:51:55,00:09:30,00:26:21,00:43:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+365,2252,Ralph Ferouge,Amstelveen,Man,282,00:51:55,00:08:48,00:25:24,00:42:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+366,1098,Noortje Kok,Lanx Cares,Vrouw,84,00:51:57,00:09:15,00:26:12,00:42:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+367,1972,Auke Bakker,Amsterdam,Man,283,00:51:59,00:08:48,00:25:05,00:42:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+368,1660,Dennis van Der Helm,Amersfoort,Man,284,00:52:03,00:09:32,00:26:55,00:43:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+369,1932,Sandra Lohrmann,Zaandam,Vrouw,85,00:52:04,00:09:18,00:26:19,00:42:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+370,1116,Jeroen van de Koot,Lanx Cares,Man,285,00:52:05,00:09:02,00:25:28,00:42:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+371,1104,Wietse Schouten,Lanx Cares,Man,286,00:52:07,00:09:15,00:26:20,00:42:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+372,1316,Bart Dijkshoorn,Almere,Man,287,00:52:10,00:08:53,00:25:29,00:42:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+373,1945,Mirjam Tonkens,Amsterdam,Vrouw,86,00:52:12,00:09:11,00:26:13,00:42:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+374,1913,Alicia Bonte,Amsterdam,Vrouw,87,00:52:17,00:09:20,00:26:22,00:42:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+375,1674,Adi Sorber,Amstelveen,Man,288,00:52:17,00:08:25,00:24:52,00:42:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+376,1497,Tessa de Weijer,Hoofddorp,Vrouw,88,00:52:18,00:09:22,00:26:32,00:43:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+377,2039,Hanane el Ayadi,Amsterdam,Vrouw,89,00:52:23,00:08:31,00:25:05,00:42:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+378,1884,Stefan Aerts,Huizen,Man,289,00:52:30,00:09:29,00:26:36,00:43:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+379,1216,Laura Stoop,Amsterdam,Vrouw,90,00:52:31,00:09:01,00:25:53,00:43:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+380,2239,Frans Helderman,Lycurgus,Man,290,00:52:32,00:09:23,00:26:29,00:43:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+381,1777,Dennis Heij,Purmerend,Man,291,00:52:33,00:09:20,00:26:17,00:43:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+382,1890,Margriet van Amersfoort,Amsterdam,Vrouw,91,00:52:34,00:08:41,00:24:59,00:43:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+383,1253,Fedde Wiersma,Amsterdam,Man,292,00:52:38,00:09:13,00:26:17,00:43:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+384,2220,Ton Broeksteeg,Amsterdam,Man,293,00:52:39,00:09:42,00:26:59,00:43:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+385,1849,Rosalinde van den Broek,Amsterdam,Vrouw,92,00:52:41,00:09:36,00:26:42,00:43:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+386,1900,Eva Sloff,Amsterdam,Vrouw,93,00:52:41,00:09:23,00:26:36,00:43:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+387,1645,Julia Spaan,Lycurgus,Vrouw,94,00:52:42,00:09:24,00:26:41,00:43:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+388,1901,Anouk Baars,Amsterdam,Vrouw,95,00:52:43,00:09:25,00:26:37,00:43:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+389,1651,Sven Burgerding,Uithoorn,Man,294,00:52:44,00:08:42,00:25:16,00:42:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+390,1687,Janet Brouwer,Lycurgus,Vrouw,96,00:52:45,00:09:26,00:26:42,00:43:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+391,1409,Frederieke Guljé,Amsterdam,Vrouw,97,00:52:47,00:09:06,00:25:47,00:43:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+392,1920,Kim Stikkers,Amsterdam,Vrouw,98,00:52:49,00:09:12,00:26:14,00:43:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+393,1356,Marijke Boeken,Amsterdam,Vrouw,99,00:52:51,00:09:13,00:26:38,00:43:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+394,1161,Peter ter Velde,Amsterdam,Man,295,00:52:51,00:09:26,00:26:25,00:43:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+395,1290,Ronald Oudendijk,Hilversum,Man,296,00:52:53,00:09:58,00:27:37,00:44:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+396,1105,Jules Geelen,Lanx Cares,Man,297,00:52:53,00:09:13,00:26:18,00:43:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+397,1403,Yoeri van Eijk,Diemen,Man,298,00:52:54,00:09:19,00:26:16,00:43:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+398,1404,Taco Tiel,Diemen,Man,299,00:52:54,00:09:19,00:26:15,00:43:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+399,1229,Iwan Daniëls,AAC,Man,300,00:52:58,00:08:50,00:25:39,00:43:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+400,1988,Arthur Oudendijk,Badhoevedorp,Man,301,00:53:00,00:10:06,00:27:45,00:44:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+401,1886,Marit Hijmans,Huizen,Vrouw,100,00:53:03,00:09:35,00:26:38,00:43:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+402,1088,Rianne Eeltink,Fons Vitae Lyceum,Vrouw,101,00:53:04,00:09:23,00:26:52,00:43:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+403,1412,Remco de Vries,Zaanland,Man,302,00:53:07,00:09:42,00:27:08,00:44:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+404,2060,Stephen Corlett,Amsterdam,Man,303,00:53:09,00:09:19,00:26:30,00:43:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+405,2012,Caroline Thai,Amsterdam,Vrouw,102,00:53:10,00:09:32,00:26:13,00:43:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+406,1667,Agmar Altena,Amsterdam,Vrouw,103,00:53:16,00:08:57,00:26:12,00:43:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+407,2282,Robin Hulsman,Barleaus,Vrouw,104,00:53:18,00:10:06,00:27:54,00:44:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+408,1743,Anne Groeneveld,Amsterdam,Vrouw,105,00:53:22,00:09:22,00:26:43,00:43:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+409,1337,Nils Augustijn,Amsterdam,Man,304,00:53:24,00:09:32,00:26:55,00:43:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+410,2225,Stephanie Davids,Purmerend,Vrouw,106,00:53:24,00:09:08,00:26:24,00:43:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+411,2011,Anne Krijger,Amsterdam,Vrouw,107,00:53:27,00:08:43,00:25:29,00:43:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+412,1873,Iris Sijmons,Amsterdam,Vrouw,108,00:53:27,00:09:20,00:26:22,00:43:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+413,1786,Tim Craig,Amsterdam,Man,305,00:53:28,00:08:56,00:26:39,00:43:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+414,1244,Eric Jan Doorenbosch,Badhoevedorp,Man,306,00:53:29,00:09:27,00:26:30,00:43:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+415,1783,Annemarie Duin,Lycurgus,Vrouw,109,00:53:29,00:08:59,00:26:20,00:43:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+416,1867,Jimmy Thurnim,Assendelft,Man,307,00:53:33,00:09:14,00:26:11,00:43:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+417,1728,Ernst Marschall,Huizen,Man,308,00:53:34,00:09:32,00:26:52,00:44:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+418,1400,Hanna Hazenberg,Amsterdam,Vrouw,110,00:53:35,00:09:40,00:27:04,00:44:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+419,1966,Cindy Castricum,Amsterdam,Vrouw,111,00:53:35,00:10:24,00:28:03,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+420,1726,Katharina Stark,Eersel,Vrouw,112,00:53:36,00:09:35,00:27:07,00:44:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+421,2257,Yvette van der Vliet,Amsterdam,Vrouw,113,00:53:36,00:09:00,00:26:13,00:43:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+422,2268,Frits Beerthuizen,Amsterdam,Man,309,00:53:36,00:09:09,00:26:26,00:44:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+423,1330,Fred Pieters,Amsterdam,Man,310,00:53:37,00:09:48,00:27:16,00:44:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+424,1288,David van Gent,Amsterdam,Man,311,00:53:37,00:09:09,00:26:44,00:44:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+425,1494,Michelle Claushuis,Amsterdam,Vrouw,114,00:53:38,00:09:31,00:27:03,00:44:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+426,1383,Louisa Klop,Amsterdam,Vrouw,115,00:53:38,00:09:31,00:27:03,00:44:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+427,1132,Reinier Swart,Lanx Cares,Man,312,00:53:41,00:09:39,00:27:23,00:44:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+428,2280,Merel Meijer,Barleaus,Vrouw,116,00:53:41,00:10:06,00:27:56,00:44:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+429,1648,Rutger Brinkhuis,Amsterdam,Man,313,00:53:45,00:09:06,00:26:33,00:44:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+430,1868,Bart Kolb,Amsterdam,Man,314,00:53:45,00:09:15,00:26:41,00:44:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+431,1830,Rob van Zuuk,Lycurgus,Man,315,00:53:47,00:09:26,00:26:45,00:44:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+432,1521,Jos Küpers,Arnhem,Man,316,00:53:51,00:09:00,00:26:16,00:44:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+433,786,Francisco Jose,,Man,317,00:53:52,00:09:33,00:26:52,00:44:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+434,782,Redondo Tobarias,Badhoevedorp,Man,318,00:53:53,00:09:34,00:26:53,00:44:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+435,1544,Lia de Geest,Atos,Vrouw,117,00:53:55,00:09:36,00:27:04,00:44:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+436,2036,Bas de Haan,Amsterdam,Man,319,00:53:56,00:10:02,00:27:29,00:44:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+437,1242,Lydia Bachanova,Diemen,Vrouw,118,00:53:59,00:09:18,00:26:40,00:44:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+438,2042,Nienke van Duijkeren,Amsterdam,Vrouw,119,00:54:00,00:10:04,00:27:19,00:44:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+439,1520,Hanne Küpers,Arnhem,Vrouw,120,00:54:02,00:09:00,00:26:17,00:44:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+440,2108,Marco Lagendijk,Oegstgeest,Man,320,00:54:02,00:09:08,00:26:32,00:44:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+441,1455,Anneke van Tilburg,Amsterdam,Vrouw,121,00:54:03,00:09:13,00:26:16,00:44:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+442,2033,Marco Schnellbacher,Amsterdam,Man,321,00:54:04,00:09:14,00:26:31,00:44:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+443,1818,Wieke Buisman,Amsterdam,Vrouw,122,00:54:04,00:09:31,00:27:16,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+444,1991,Marjolein van Doorn,Amsterdam,Vrouw,123,00:54:05,00:09:34,00:27:19,00:44:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+445,1624,Dick van Heiningen,Amsterdam,Man,322,00:54:05,00:09:04,00:26:33,00:44:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+446,2138,Erik Sikkens,Amsterdam,Man,323,00:54:06,00:10:02,00:27:26,00:44:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+447,2111,Loutje Schuringa,Amsterdam,Vrouw,124,00:54:06,00:09:10,00:26:15,00:44:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+448,1704,Pieter Handgraaf,Amstelveen,Man,324,00:54:08,00:09:25,00:27:08,00:44:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+449,2213,Anna Zellenrath,Amsterdam,Vrouw,125,00:54:08,00:09:24,00:27:09,00:44:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+450,1283,Joris Rhebergen,Broek op Langedijk,Man,325,00:54:08,00:09:33,00:27:07,00:44:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+451,1551,Wouter Reeskamp,Amsterdam,Man,326,00:54:09,00:09:44,00:27:21,00:44:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+452,1502,Rachelle van den Dool,Amsterdam,Vrouw,126,00:54:10,00:09:22,00:26:32,00:44:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+453,1375,Len Oudendijk,Amsterdam,Vrouw,127,00:54:11,00:10:05,00:27:39,00:44:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+454,1504,Fiona Gelton,Amsterdam,Vrouw,128,00:54:12,00:09:28,00:27:23,00:44:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+455,1243,Frits Schumacher,Veenendaal,Man,327,00:54:14,00:09:20,00:26:38,00:44:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+456,1281,Thomas Kluge,Amsterdam,Man,328,00:54:17,00:08:57,00:26:12,00:44:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+457,2026,Marike Boerman,Dolichos,Vrouw,129,00:54:18,00:08:52,00:26:16,00:44:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+458,2014,Marlous Jansen,Amsterdam,Vrouw,130,00:54:18,00:10:12,00:27:58,00:45:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+459,2135,Tamara Commandeur,Amsterdam,Vrouw,131,00:54:20,00:09:36,00:27:22,00:44:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+460,2034,Shiv Shankar Pandit,Bussum,Man,329,00:54:20,00:09:07,00:26:39,00:44:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+461,2136,Petula Nijeboer,Amsterdam,Vrouw,132,00:54:22,00:09:38,00:27:24,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+462,1643,Yu-Mei Yen,Uithoorn,Vrouw,133,00:54:24,00:09:22,00:27:06,00:44:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+463,2198,Peter Korzelius,Zuidwal,Man,330,00:54:25,00:09:40,00:27:04,00:44:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+464,1935,Bas Bosmans,Bergeijk,Man,331,00:54:25,00:09:11,00:27:03,00:44:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+465,1441,Harm Kolk,Amsterdam,Man,332,00:54:25,00:10:19,00:27:53,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+466,2127,Mariska Hillebregt,Amsterdam,Vrouw,134,00:54:25,00:09:29,00:27:21,00:44:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+467,1885,Kelly vd Gracht,Amsterdam,Vrouw,135,00:54:26,00:10:19,00:27:54,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+468,2500,Fred Mollenaar (Pacer),,Man,333,00:54:26,00:09:26,00:27:11,00:44:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+469,2498,Jack Koninckx (Pacer),,Man,334,00:54:26,00:09:26,00:27:11,00:44:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+470,1384,Floris Dudok van Heel,Amsterdam,Man,335,00:54:28,00:09:30,00:27:00,00:44:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+471,1419,Paul van Horn,Assendelft,Man,336,00:54:29,00:09:23,00:27:01,00:44:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+472,2499,Henk Rozenkamp (Pacer),,Man,337,00:54:29,00:09:27,00:27:12,00:44:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+473,2215,Gert Battenberg,Amsterdam,Man,338,00:54:29,00:09:10,00:27:02,00:45:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+474,2270,Theo Frohn,Amstelveen,Man,339,00:54:30,00:09:20,00:27:06,00:44:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+475,1472,Lydia Groenveld,Aerdenhout,Vrouw,136,00:54:33,00:09:52,00:27:41,00:45:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+476,1468,Barbara Weenink-Perk,Overveen,Vrouw,137,00:54:35,00:09:54,00:27:43,00:45:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+477,1975,Lucia Pot,Amsterdam,Vrouw,138,00:54:35,00:09:46,00:27:26,00:45:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+478,1731,Lian Kosse,Zaandam,Vrouw,139,00:54:37,00:09:29,00:27:26,00:45:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+479,2212,Mark Zellenrath,Huizen,Man,340,00:54:42,00:09:16,00:26:42,00:44:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+480,1587,Manja Maas,Amsterdam,Vrouw,140,00:54:43,00:09:28,00:27:15,00:44:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+481,1987,Heleen Elenbaas,Amsterdam,Vrouw,141,00:54:47,00:09:28,00:26:47,00:44:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+482,1568,Inge Krabbendam,Groningen,Vrouw,142,00:54:48,00:09:24,00:26:59,00:44:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+483,2273,Harriet Aans,Montfoort,Vrouw,143,00:54:48,00:09:33,00:27:28,00:45:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+484,1193,Jan Loot,Almere,Man,341,00:54:55,00:09:23,00:27:09,00:45:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+485,1248,Marvin Gene,Amsterdam,Man,342,00:54:56,00:09:29,00:27:06,00:44:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+486,2003,Carola Aardenhout,Amsterdam,Vrouw,144,00:54:58,00:09:37,00:27:16,00:45:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+487,1636,Evelien Res,Amsterdam,Vrouw,145,00:54:59,00:09:53,00:28:15,00:45:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+488,1891,Paul de Bot,Atos,Man,343,00:54:59,00:10:03,00:27:48,00:45:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+489,1995,Tjeerd de Jager,IJmuiden,Man,344,00:55:01,00:09:38,00:27:38,00:45:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+490,2187,Rene Enthoven,Diemen,Man,345,00:55:03,00:09:06,00:26:46,00:45:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+491,1178,Brian Goltz,Amsterdam,Man,346,00:55:06,00:10:04,00:28:14,00:45:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+492,1967,Bianca Westhoff,Amsterdam,Vrouw,146,00:55:06,00:09:21,00:26:59,00:45:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+493,1641,Martijn Mulder,Amsterdam,Man,347,00:55:06,00:09:31,00:27:30,00:45:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+494,1617,Laura Janssen,Amsterdam,Vrouw,147,00:55:06,00:09:32,00:27:31,00:45:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+495,1839,Marenne Jansne,Amsterdam,Vrouw,148,00:55:07,00:09:26,00:27:26,00:45:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+496,1857,Martin Brester,Amsterdam,Man,348,00:55:07,00:09:31,00:27:28,00:45:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+497,1152,Henriëtte de Jong,Amsterdam,Vrouw,149,00:55:08,00:09:13,00:26:54,00:45:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+498,1610,Tony Kerstjens,Alkmaar,Man,349,00:55:11,00:09:08,00:26:54,00:45:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+499,1427,Laura Schoutsen,Leiden,Vrouw,150,00:55:12,00:09:35,00:27:38,00:45:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+500,2260,Daphne van Elsland,Amsterdam,Vrouw,151,00:55:14,00:09:05,00:26:51,00:45:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+501,1401,Tommy Pauws,Amsterdam,Man,350,00:55:14,00:09:10,00:27:14,00:45:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+502,1748,Amy Eaglestone,Haarlem,Vrouw,152,00:55:16,00:09:24,00:27:08,00:45:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+503,1658,Marlies Tenback,Amsterdam,Vrouw,153,00:55:20,00:09:17,00:27:03,00:45:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+504,1755,Ralph de Bruijn,Amsterdam,Man,351,00:55:20,00:10:25,00:29:18,00:46:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+505,1546,Chantal Dijkers,Diemen,Vrouw,154,00:55:20,00:10:26,00:29:19,00:46:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+506,1990,Anita Hanegraaf,Utrecht,Vrouw,155,00:55:21,00:09:05,00:26:33,00:44:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+507,2175,Linda Stomphorst,Utrecht,Vrouw,156,00:55:21,00:09:30,00:27:34,00:45:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+508,1086,Anne Bokeloh,Fons Vitae Lyceum,Vrouw,157,00:55:23,00:09:53,00:27:52,00:45:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+509,1218,Fiona Collins,Amsterdam,Vrouw,158,00:55:23,00:09:32,00:27:30,00:45:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+510,2214,Nienke van de Lune,Amsterdam,Vrouw,159,00:55:25,00:09:09,00:26:58,00:45:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+511,1742,Lotte Hulshof,Amsterdam,Vrouw,160,00:55:25,00:09:22,00:27:03,00:45:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+512,1579,Florine Koster,Amsterdam,Vrouw,161,00:55:26,00:09:29,00:27:19,00:45:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+513,2176,Luc Holleman,Amsterdam,Man,352,00:55:27,00:10:23,00:29:07,00:46:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+514,2075,Jeroen Siedenburg,Amsterdam,Man,353,00:55:30,00:10:22,00:28:11,00:45:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+515,1388,Suzanne Witteman,Amsterdam,Vrouw,162,00:55:31,00:09:29,00:27:32,00:45:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+516,2199,Annemieke Donkers,Almere,Vrouw,163,00:55:31,00:09:49,00:27:51,00:45:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+517,1217,Jacko Brinkman,Amsterdam,Man,354,00:55:32,00:09:49,00:28:01,00:45:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+518,2123,Bianca Drieenhuyzen,Almere,Vrouw,164,00:55:32,00:09:50,00:27:52,00:45:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+519,1735,Winifred Merkx,Amsterdam,Vrouw,165,00:55:34,00:09:46,00:27:51,00:45:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+520,1983,Laura de Ruiter,Bussum,Vrouw,166,00:55:37,00:09:32,00:27:21,00:45:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+521,1713,Wladimir Cossiga,Amsterdam,Man,355,00:55:40,00:09:49,00:28:13,00:46:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+522,1519,Fleur Abas,Bentveld,Vrouw,167,00:55:42,00:09:39,00:27:43,00:45:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+523,1822,Manon Vermeulen,Kortenhoef,Vrouw,168,00:55:42,00:09:29,00:27:31,00:45:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+524,1958,Terje Hexeberg,Akersloot,Man,356,00:55:45,00:10:10,00:28:07,00:45:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+525,1335,Marcel Wals,Kwadijk,Man,357,00:55:45,00:09:14,00:27:25,00:46:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+526,1386,Charlotte Jansen,Weesp,Vrouw,169,00:55:46,00:09:55,00:27:58,00:46:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+527,1087,Loulou Keppij,Fons Vitae Lyceum,Vrouw,170,00:55:48,00:09:36,00:27:55,00:45:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+528,2005,Anna Dlabacova,Amsterdam Zuidoost,Vrouw,171,00:55:49,00:09:35,00:27:06,00:45:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+529,1865,Alkis Romeos,Amsterdam,Man,358,00:55:50,00:09:00,00:27:07,00:45:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+530,2057,Monique Nieswaag,Uitgeest,Vrouw,172,00:55:51,00:09:38,00:27:53,00:46:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+531,2071,Irene Korstjens,Castricum,Vrouw,173,00:55:53,00:09:38,00:27:53,00:46:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+532,1295,Lisa Molthoff,Badhoevedorp,Vrouw,174,00:55:58,00:09:54,00:28:05,00:46:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+533,1565,Guido Tierolf,Wormer,Man,359,00:55:59,00:10:20,00:28:08,00:46:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+534,1766,Sabien Dobbelaere,Amsterdam,Vrouw,175,00:56:02,00:09:28,00:27:26,00:45:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+535,1774,Alex Firth,Amsterdam,Man,360,00:56:02,00:09:15,00:26:57,00:45:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+536,1940,Paulien van Hummel,Amstelveen,Vrouw,176,00:56:03,00:10:04,00:28:27,00:46:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+537,1974,Peter Deumers,Abcoude,Man,361,00:56:03,00:09:09,00:27:07,00:45:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+538,1313,Paul Commandeur,Diemen,Man,362,00:56:04,00:09:44,00:27:51,00:46:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+539,1263,Marijn van der List,Amsterdam,Vrouw,177,00:56:04,00:09:21,00:27:31,00:45:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+540,1907,Ilja Hijmans,Huizen,Vrouw,178,00:56:04,00:09:44,00:27:19,00:45:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+541,1797,Ed Hennequin,Lycurgus,Man,363,00:56:05,00:09:53,00:28:09,00:46:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+542,1470,Sophia van Wel,Aerdenhout,Vrouw,179,00:56:06,00:09:40,00:27:54,00:46:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+543,1112,Cato Ploem,Lanx Cares,Vrouw,180,00:56:12,00:10:22,00:29:16,00:47:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+544,1113,Myrthe Baars,Lanx Cares,Vrouw,181,00:56:13,00:10:22,00:29:16,00:47:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+545,2086,Eliane van Boxtel,Amstelveen,Vrouw,182,00:56:13,00:09:23,00:26:59,00:45:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+546,1963,Martin Randt,Diemen,Man,364,00:56:18,00:09:34,00:27:32,00:45:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+547,1392,Theo Dohle,Amsterdam,Man,365,00:56:19,00:10:07,00:28:22,00:46:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+548,1640,Alexander van Laaren,Amsterdam,Man,366,00:56:20,00:09:24,00:27:28,00:46:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+549,1582,Wilbert van Leijen,Amsterdam,Man,367,00:56:20,00:09:49,00:28:16,00:46:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+550,1698,Wieteke Killestijn,Abcoude,Vrouw,183,00:56:21,00:10:02,00:28:22,00:46:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+551,1695,Mandy Mulder,'s-Gravenhage,Vrouw,184,00:56:21,00:10:03,00:28:22,00:46:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+552,1710,Eveline Hamers,Amsterdam,Vrouw,185,00:56:25,00:09:49,00:28:14,00:46:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+553,1984,Els Verhoeven,Amsterdam,Vrouw,186,00:56:26,00:09:59,00:28:18,00:46:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+554,1474,Olaf Zorge,Diemen,Man,368,00:56:26,00:09:38,00:27:38,00:46:06,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+555,2277,Vitek van Hasselt,Barleaus,Man,369,00:56:28,00:09:21,00:26:36,00:45:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+556,2102,Elke van Meer,Maarssen,Vrouw,187,00:56:32,00:10:05,00:28:14,00:46:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+557,1500,Mireille Pater,BAV,Vrouw,188,00:56:33,00:09:31,00:27:16,00:46:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+558,2189,Machtelt Bouwman,Amstelveen,Vrouw,189,00:56:34,00:09:38,00:28:03,00:46:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+559,1399,Margriet van Willigen,Amstelveen,Vrouw,190,00:56:35,00:09:39,00:27:48,00:46:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+560,1845,Tom van Dijk,Schagen,Man,370,00:56:36,00:08:55,00:27:27,00:46:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+561,2126,Martijn van der Meer,Leiden,Man,371,00:56:37,00:09:14,00:27:43,00:46:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+562,2028,Sjoerd Righolt,Amsterdam,Man,372,00:56:39,00:10:15,00:28:57,00:47:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+563,1262,Judith Navis,Amsterdam,Vrouw,191,00:56:41,00:09:43,00:27:48,00:46:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+564,1878,Lieke Helvensteijn,Voorhout,Vrouw,192,00:56:41,00:10:11,00:28:16,00:46:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+565,1334,Olivier van Wijngaarden,Amstelveen,Man,373,00:56:41,00:10:02,00:28:12,00:46:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+566,1758,Myrthe Bastings,Amsterdam,Vrouw,193,00:56:42,00:10:15,00:28:57,00:47:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+567,2103,Dorien Eppink,Amsterdam,Vrouw,194,00:56:43,00:10:04,00:28:13,00:46:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+568,1416,Harco Wubs,Purmerend,Man,374,00:56:43,00:10:12,00:28:57,00:47:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+569,1515,Leonie Koote,Zandvoort,Vrouw,195,00:56:45,00:09:53,00:28:00,00:46:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+570,1083,Margot van der Velden,Fons Vitae Lyceum,Vrouw,196,00:56:45,00:09:38,00:27:59,00:46:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+571,1133,Eva Kies,Lanx Cares,Vrouw,197,00:56:48,00:10:18,00:29:24,00:47:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+572,1134,Filipa Bakker,Lanx Cares,Vrouw,198,00:56:48,00:10:18,00:29:25,00:47:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+573,2032,Tessel Borst,Phanos,Vrouw,199,00:56:49,00:10:05,00:28:26,00:46:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+574,1446,Gabrielle van Tilburg,Amsterdam,Vrouw,200,00:56:49,00:09:48,00:28:48,00:47:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+575,1325,Hannah Verhagen,Amsterdam,Vrouw,201,00:56:50,00:09:48,00:28:48,00:47:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+576,2124,Leoni Verwoerd,Altis,Vrouw,202,00:56:50,00:10:04,00:28:27,00:46:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+577,1531,Julia Jansen,Amsterdam,Vrouw,203,00:56:51,00:09:44,00:28:18,00:46:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+578,1929,Jolie van Hummel,Phanos,Vrouw,204,00:56:52,00:10:06,00:28:33,00:47:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+579,2018,Nynke Brandsma,Amsterdam,Vrouw,205,00:56:53,00:10:07,00:28:53,00:47:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+580,2255,Alfred de Haan,Staphorst,Man,375,00:56:55,00:10:22,00:30:03,00:47:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+581,1306,Peggy van den Berg,Helmond,Vrouw,206,00:56:58,00:09:53,00:28:13,00:46:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+582,2041,Sione Tibbertsma,Rotterdam,Vrouw,207,00:56:58,00:09:53,00:28:14,00:46:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+583,2275,Angelique Leek,Lycurgus,Vrouw,208,00:56:59,00:10:24,00:29:04,00:47:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+584,1181,Hein de Hoog,Phanos,Man,376,00:57:04,00:09:28,00:27:42,00:46:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+585,2063,Sarah Laktit,Amsterdam,Vrouw,209,00:57:04,00:09:17,00:26:54,00:46:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+586,1285,Loes Rhebergen,Amsterdam,Vrouw,210,00:57:05,00:09:54,00:28:26,00:47:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+587,1256,Bert van Meegen,Santpoort-Noord,Man,377,00:57:06,00:09:49,00:28:17,00:46:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+588,1503,Jochem van Roon,Amsterdam,Man,378,00:57:08,00:09:23,00:28:13,00:47:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+589,1190,Angela Frijmersum,Amsterdam,Vrouw,211,00:57:11,00:10:29,00:29:47,00:47:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+590,1323,Marije Wijga,Hoorn Nh,Vrouw,212,00:57:11,00:10:28,00:29:47,00:47:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+591,2055,Patrick de Bruijn,Nieuw-Vennep,Man,379,00:57:12,00:08:40,00:25:07,00:45:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+592,1428,Ed Stoop,Zwanenburg,Man,380,00:57:12,00:09:29,00:28:12,00:46:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+593,1578,Titia Tjalma,Amsterdam,Vrouw,213,00:57:16,00:09:56,00:28:05,00:47:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+594,1654,Colin van der Eijken,Amsterdam,Man,381,00:57:16,00:10:55,00:30:09,00:47:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+595,1586,Martin Rooth,Amsterdam,Man,382,00:57:17,00:09:56,00:28:05,00:47:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+596,2151,Nick van Loon,Tilburg,Man,383,00:57:17,00:09:57,00:28:25,00:47:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+597,1655,Camille van Niekerk,Utrecht,Vrouw,214,00:57:18,00:10:55,00:30:09,00:47:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+598,1608,Dirk Jan Kolenbrander,Utrecht,Man,384,00:57:18,00:10:03,00:28:59,00:47:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+599,1507,Robert de Horde,Badhoevedorp,Man,385,00:57:18,00:10:05,00:29:03,00:47:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+600,2160,Rajender Bouman,Amsterdam,Man,386,00:57:20,00:10:15,00:28:33,00:47:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+601,2223,Madelijne Daub,Amsterdam,Vrouw,215,00:57:24,00:08:28,00:25:43,00:45:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+602,1261,Martine Guldemond,Feniks,Vrouw,216,00:57:27,00:09:52,00:28:32,00:47:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+603,1344,Iris Grotenboer,Amsterdam,Vrouw,217,00:57:30,00:09:42,00:27:58,00:46:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+604,1137,Jolien Bouma,Lanx Cares,Vrouw,218,00:57:30,00:10:33,00:29:11,00:47:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+605,1143,Dagmar van der Heijde,Lanx Cares,Vrouw,219,00:57:30,00:10:33,00:29:11,00:47:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+606,1445,Milou Weijenborg,Amsterdam,Vrouw,220,00:57:33,00:10:35,00:29:34,00:48:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+607,1235,Markus Stoffer,Wormerveer,Man,387,00:57:33,00:09:38,00:27:28,00:45:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+608,1138,Joske Schierink,Lanx Cares,Vrouw,221,00:57:33,00:10:33,00:29:11,00:47:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+609,2020,Eefje Geldhof,Leiden,Vrouw,222,00:57:36,00:09:42,00:27:50,00:46:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+610,2152,Robert van Hooff,Amsterdam,Man,388,00:57:36,00:09:40,00:28:22,00:47:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+611,1453,Dirk Steltman,Amsterdam,Man,389,00:57:37,00:09:25,00:27:52,00:46:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+612,1294,Allard Bouman,Badhoevedorp,Man,390,00:57:39,00:09:52,00:28:04,00:46:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+613,1135,Annick Hoorntje,Lanx Cares,Vrouw,223,00:57:40,00:10:25,00:29:23,00:47:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+614,1795,Lisa Butter,Lycurgus,Vrouw,224,00:57:43,00:09:50,00:28:14,00:47:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+615,1166,Rieke Kramer,Amsterdam,Vrouw,225,00:57:43,00:09:35,00:27:58,00:47:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+616,1937,Iris Poels,Amsterdam,Vrouw,226,00:57:45,00:09:20,00:27:26,00:47:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+617,1837,Sjef van Bommel,Amsterdam,Man,391,00:57:46,00:09:48,00:28:19,00:47:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+618,1456,Kay Goedhardt,Diemen,Man,392,00:57:46,00:09:54,00:27:46,00:46:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+619,2084,Callum Milner,Amsterdam,Vrouw,227,00:57:47,00:10:06,00:28:50,00:47:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+620,1106,Ati Veurink,Lanx Cares,Vrouw,228,00:57:49,00:10:24,00:29:22,00:47:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+621,1573,Kees Zonneveld,Amsterdam,Man,393,00:57:53,00:10:26,00:29:39,00:48:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+622,562,Harry Blommers,Amsterdam,Man,394,00:57:54,00:10:24,00:29:22,00:47:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+623,2125,Jos Blommers,Lycurgus,Man,395,00:57:54,00:10:24,00:29:23,00:47:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+624,1230,André Stoffer,Lycurgus,Man,396,00:57:56,00:10:35,00:29:09,00:47:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+625,1140,Roza Dorresteijn,Lanx Cares,Vrouw,229,00:57:57,00:10:59,00:29:58,00:48:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+626,2119,Kim Sillekens,Amsterdam,Vrouw,230,00:57:57,00:10:07,00:29:01,00:47:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+627,1382,Karen Oud,Amsterdam,Vrouw,231,00:58:00,00:09:50,00:28:17,00:47:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+628,2192,Sander Quist,Lycurgus,Man,397,00:58:01,00:10:19,00:28:53,00:47:48,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+629,2184,Suuz de Leeuw,Amsterdam,Vrouw,232,00:58:02,00:09:32,00:28:01,00:47:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+630,834,Julia de Leeuw,Weesp,Vrouw,233,00:58:02,00:09:32,00:28:01,00:47:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+631,1346,Caroline Ossenkoppele,Rotterdam,Vrouw,234,00:58:05,00:10:19,00:29:26,00:48:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+632,1444,Klaske Jensma,Lisse,Vrouw,235,00:58:05,00:10:36,00:29:35,00:48:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+633,1946,Peter Nieuwland,Amsterdam,Man,398,00:58:06,00:10:27,00:30:41,00:49:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+634,2245,Jiska Potuijt,Rotterdam,Vrouw,236,00:58:06,00:10:19,00:29:26,00:48:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+635,1315,Peter den Elsen,Leiden,Man,399,00:58:07,00:09:42,00:27:49,00:46:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+636,2167,Sabina Artemjeva,Amsterdam,Vrouw,237,00:58:07,00:09:19,00:28:27,00:47:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+637,1904,Henk van der Horst,Purmerend,Man,400,00:58:08,00:10:34,00:29:44,00:48:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+638,2235,Marjanne de Keijser,Lycurgus,Vrouw,238,00:58:08,00:10:39,00:29:49,00:48:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+639,1646,Ellen Klooster,Lycurgus,Vrouw,239,00:58:08,00:10:40,00:29:49,00:48:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+640,1249,Diana Bakker,Wieringermeer,Vrouw,240,00:58:16,00:10:27,00:29:32,00:48:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+641,1834,Frans Hilgevoord,Almere,Man,401,00:58:16,00:09:55,00:28:03,00:47:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+642,1160,Ernst Kolvenbag,Naarden,Man,402,00:58:16,00:10:08,00:29:22,00:48:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+643,1790,Lilly Bosman,Aalsmeer,Vrouw,241,00:58:20,00:09:09,00:26:51,00:46:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+644,1998,Paul Gaikhorst,Amsterdam,Man,403,00:58:20,00:09:55,00:28:48,00:48:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+645,2038,Kim Koolen,Amsterdam,Vrouw,242,00:58:20,00:10:45,00:29:56,00:48:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+646,2037,Fee Koolen,Utrecht,Vrouw,243,00:58:21,00:10:45,00:29:56,00:48:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+647,1577,Linda Sprenkeler,Amsterdam,Vrouw,244,00:58:26,00:10:03,00:29:31,00:48:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+648,1144,Marit de Kock,Lanx Cares,Vrouw,245,00:58:27,00:10:33,00:29:12,00:47:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+649,1423,Marlieke Bakker,Amsterdam,Vrouw,246,00:58:31,00:10:16,00:29:11,00:47:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+650,1513,Andrea Schuurman,Amsterdam,Vrouw,247,00:58:36,00:10:07,00:29:09,00:48:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+651,1663,Veronika Snijders,Amsterdam,Vrouw,248,00:58:36,00:09:43,00:28:35,00:48:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+652,1562,Nora Ezendam,Amsterdam,Vrouw,249,00:58:37,00:10:21,00:29:41,00:48:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+653,2249,Gerrit Arp,Amsterdam,Man,404,00:58:38,00:10:26,00:29:34,00:48:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+654,2250,Patrick van Geel,Lelystad,Man,405,00:58:38,00:10:26,00:29:34,00:48:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+655,1869,Rogier Willems,Amsterdam,Man,406,00:58:38,00:09:56,00:29:10,00:48:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+656,1906,Yara Dekker,Amsterdam,Vrouw,250,00:58:38,00:09:57,00:29:11,00:48:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+657,2231,Stephanie Bálint,Amsterdam,Vrouw,251,00:58:40,00:09:44,00:29:03,00:48:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+658,2259,Jhaleea Alberg,Amsterdam,Vrouw,252,00:58:41,00:09:44,00:29:03,00:48:33,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+659,1185,Catharina Lavrijssen,Amsterdam,Vrouw,253,00:58:41,00:09:51,00:29:01,00:48:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+660,1567,Peter van Veen,Amsterdam,Man,407,00:58:42,00:10:20,00:29:40,00:48:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+661,1477,Jantine van der Hoeven,Amsterdam,Vrouw,254,00:58:43,00:10:18,00:29:46,00:49:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+662,1466,Daan Verweij,Aerdenhout,Vrouw,255,00:58:45,00:09:40,00:28:11,00:47:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+663,1711,Roel Verhallen,Amsterdam,Man,408,00:58:45,00:09:49,00:28:04,00:47:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+664,1268,Fong-Ping Chu,Amsterdam,Vrouw,256,00:58:45,00:09:44,00:28:40,00:48:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+665,1324,Franklin Wijga,Hoorn Nh,Man,409,00:58:51,00:10:28,00:29:46,00:48:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+666,1944,Mahmoud Hashim,Amstelveen,Man,410,00:58:51,00:10:09,00:30:07,00:48:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+667,1317,Anouk Scholte,Utrecht,Vrouw,257,00:58:52,00:10:29,00:29:48,00:48:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+668,2243,Brenda Beumer,Lycurgus,Vrouw,258,00:58:53,00:10:40,00:29:55,00:48:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+669,2244,Marga Meulman,Lycurgus,Vrouw,259,00:58:53,00:10:41,00:29:56,00:48:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+670,2261,Marta Andersen,Amsterdam,Vrouw,260,00:58:54,00:09:18,00:28:12,00:48:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+671,1533,Paul Uittenbogaard,Amstelveen,Man,411,00:58:56,00:10:34,00:29:58,00:48:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+672,1827,Maarten Erkamp,Amsterdam,Man,412,00:58:56,00:11:18,00:30:20,00:48:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+673,1532,Michiel Uittenbogaard,Amstelveen,Man,413,00:58:56,00:10:35,00:29:58,00:48:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+674,2001,Karin de Gooijer,Badhoevedorp,Vrouw,261,00:58:57,00:10:20,00:29:22,00:48:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+675,2002,Caro Bakker,Badhoevedorp,Vrouw,262,00:58:57,00:10:20,00:29:23,00:48:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+676,2101,Sabine Bredewold,Beverwijk,Vrouw,263,00:58:58,00:10:19,00:29:38,00:48:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+677,1155,Jeanette Arendsen-Jacobs,Amsterdam,Vrouw,264,00:58:59,00:09:39,00:28:35,00:48:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+678,1803,Dorine Martinez,Amsterdam,Vrouw,265,00:59:00,00:10:11,00:29:36,00:48:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+679,1881,Nicky de Boer,Amsterdam,Man,414,00:59:02,00:11:16,00:30:50,00:49:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+680,1225,Thieu Engels,Amsterdam,Man,415,00:59:03,00:09:52,00:28:41,00:48:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+681,2129,Patrick Deets,Amsterdam,Man,416,00:59:05,00:10:30,00:29:47,00:48:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+682,1915,Eric de Droog,Amsterdam,Man,417,00:59:06,00:10:27,00:29:51,00:48:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+683,2185,Carina van der Meer,Rotterdam Atletiek,Vrouw,266,00:59:08,00:10:23,00:29:19,00:48:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+684,1613,Mariëlle van Straten,Amsterdam,Vrouw,267,00:59:11,00:10:19,00:29:39,00:48:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+685,2195,Marie-Anne Peterse,Hilversum,Vrouw,268,00:59:11,00:10:46,00:30:12,00:49:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+686,1997,Chris Jonker,Hilversum,Vrouw,269,00:59:12,00:10:47,00:30:12,00:49:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+687,1612,Jaap van Straten,Amsterdam,Man,418,00:59:12,00:10:19,00:29:40,00:48:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+688,1351,Joëlle Bastiaansen,Amsterdam,Vrouw,270,00:59:16,00:10:41,00:30:10,00:49:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+689,1629,Aleksandra Bursac,Amsterdam,Vrouw,271,00:59:17,00:10:11,00:29:21,00:48:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+690,2202,Laurien Adriaanse,Amsterdam,Vrouw,272,00:59:18,00:09:37,00:28:54,00:48:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+691,2178,Marjolein Boode,Amsterdam,Vrouw,273,00:59:18,00:10:21,00:28:55,00:48:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+692,2062,Robert Vis,Loopgroep PK,Man,419,00:59:22,00:09:52,00:28:48,00:48:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+693,2058,Marion Meerwaldt,'s-Gravenhage,Vrouw,274,00:59:22,00:09:52,00:28:48,00:48:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+694,1522,Annemiek Verhoeven,Amsterdam,Vrouw,275,00:59:25,00:09:56,00:28:51,00:48:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+695,1714,Sophie-Anne Bergakker,Amsterdam,Vrouw,276,00:59:27,00:10:03,00:29:32,00:49:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+696,1111,Nicole van de Weijer,Lanx Cares,Vrouw,277,00:59:27,00:10:41,00:30:53,00:50:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+697,2169,Sianne van Rhee,Rotterdam,Vrouw,278,00:59:30,00:10:27,00:29:45,00:49:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+698,2110,Arthur Breebaart,Hoofddorp,Man,420,00:59:30,00:10:21,00:29:41,00:49:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+699,1638,Sandrine Mary,Amsterdam,Vrouw,279,00:59:30,00:09:01,00:28:13,00:48:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+700,1540,Annika Janse,Amsterdam,Vrouw,280,00:59:33,00:10:02,00:29:09,00:48:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+701,1277,Marjon van Eck,Loopgroep Aart Stigter,Vrouw,281,00:59:34,00:10:48,00:30:08,00:49:01,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+702,2085,Ewoud Brummer,Amsterdam,Man,421,00:59:35,00:09:53,00:28:43,00:48:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+703,1246,Simone Dirks,Wieringermeer,Vrouw,282,00:59:36,00:10:29,00:29:33,00:48:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+704,1432,Iris van Stel,Utrecht,Vrouw,283,00:59:37,00:10:44,00:29:52,00:48:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+705,1364,Lotte de Jong,Amsterdam,Vrouw,284,00:59:37,00:10:45,00:29:53,00:48:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+706,1437,Lesley Nieuwenhuis,Amsterdam,Vrouw,285,00:59:38,00:10:15,00:29:34,00:48:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+707,1702,Hans Nijenmanting,Dutch Runners,Man,422,00:59:39,00:10:03,00:29:02,00:48:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+708,1925,Niek van Westing,Diemen,Man,423,00:59:40,00:10:28,00:30:00,00:49:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+709,1924,Ingrid Bunck,Amsterdam,Vrouw,286,00:59:41,00:10:30,00:30:01,00:49:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+710,2287,Paola Visser (Pacer),,Man,424,00:59:44,00:10:24,00:29:54,00:49:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+711,1965,Vera Spaans,Amsterdam,Vrouw,287,00:59:45,00:10:26,00:29:22,00:48:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+712,1606,Tim Khan,Zaandam,Man,425,00:59:47,00:10:18,00:29:47,00:49:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+713,1672,Gerrit Sinay,Amsterdam,Man,426,00:59:47,00:10:24,00:30:01,00:49:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+714,1649,Marjan Kakiay,Bodegraven,Vrouw,288,00:59:48,00:10:18,00:29:47,00:49:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+715,1978,Jan Kersten,Bussum,Man,427,00:59:49,00:10:38,00:29:40,00:49:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+716,1706,Erika Thung,Amsterdam,Vrouw,289,00:59:49,00:09:38,00:28:09,00:48:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+717,1730,Ricardo Trovato,Purmerend,Man,428,00:59:50,00:09:42,00:29:07,00:49:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+718,1420,Joke van den Berg,Badhoevedorp,Vrouw,290,00:59:50,00:10:25,00:29:49,00:49:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+719,2149,Bart Noordhoek,Amsterdam,Man,429,00:59:51,00:10:31,00:29:53,00:49:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+720,1801,Lilian Walker,ZOEV,Vrouw,291,00:59:51,00:10:31,00:29:47,00:49:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+721,1802,Marga Heemskerk,ZOEV,Vrouw,292,00:59:51,00:10:31,00:29:48,00:49:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+722,2168,Patricia Heijmans-Klebach,Diemen,Vrouw,293,00:59:53,00:10:10,00:29:31,00:49:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+723,1996,Nadia van Dijk,Veenendaal,Vrouw,294,00:59:53,00:10:44,00:30:35,00:49:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+724,1992,Iris Luteijn,Utrecht,Vrouw,295,00:59:53,00:10:43,00:30:35,00:49:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+725,2079,Bart Willems,Bussum,Man,430,00:59:54,00:09:56,00:29:00,00:48:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+726,2047,Natasja Roos,Amsterdam,Vrouw,296,00:59:55,00:10:22,00:30:02,00:49:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+727,2045,Luuk Hasselman,Amsterdam,Man,431,00:59:57,00:10:26,00:30:04,00:49:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+728,2083,Ruby Neervoort,Amsterdam,Vrouw,297,01:00:03,00:10:04,00:28:59,00:49:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+729,1275,Marian van den Brink,Wijk bij Duurstede,Vrouw,298,01:00:04,00:10:37,00:30:09,00:49:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+730,1276,Anita Damen,Wijk bij Duurstede,Vrouw,299,01:00:04,00:10:37,00:30:10,00:49:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+731,1198,Marijke Piets,Kombijsport,Vrouw,300,01:00:06,00:09:46,00:28:50,00:48:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+732,1397,Fleur Bleeker,Hoogkarspel,Vrouw,301,01:00:06,00:09:47,00:28:26,00:48:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+733,1746,Jennifer Eaglestone,Haarlem,Vrouw,302,01:00:07,00:10:32,00:30:15,00:49:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+734,1799,Danielle Jansen,Lycurgus,Vrouw,303,01:00:08,00:10:27,00:29:51,00:49:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+735,1684,Ronald Steenvoorden,Amsterdam,Man,432,01:00:12,00:08:15,00:22:48,00:37:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+736,2253,Hanna Ahlfors,Amsterdam,Vrouw,304,01:00:17,00:09:42,00:29:29,00:49:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+737,1905,Yoandi van der Horst,Purmerend,Vrouw,305,01:00:18,00:10:35,00:29:44,00:49:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+738,1480,Robine Lempers,Aerdenhout,Vrouw,306,01:00:18,00:10:15,00:29:41,00:49:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+739,1880,Rianne Meiring,Amsterdam,Vrouw,307,01:00:19,00:10:51,00:30:21,00:49:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+740,1814,Alexander Schutte,Amsterdam,Man,433,01:00:20,00:09:29,00:27:51,00:48:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+741,1633,Kirsten Hamelink,Amsterdam,Vrouw,308,01:00:23,00:10:23,00:29:54,00:49:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+742,1938,Bert de Goede,Haarlem,Man,434,01:00:24,00:10:20,00:30:05,00:49:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+743,1485,Marieke Maartense,Almere,Vrouw,309,01:00:27,00:09:59,00:29:10,00:49:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+744,2130,Lazise Hillebregt,Amsterdam,Vrouw,310,01:00:29,00:10:59,00:30:47,00:50:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+745,1491,Martine Groen,Capelle aan den IJssel,Vrouw,311,01:00:31,00:10:44,00:30:28,00:49:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+746,2109,Roelof de Haan,Amsterdam,Man,435,01:00:34,00:10:22,00:30:03,00:49:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+747,1749,Onno Wansink,Amsterdam,Man,436,01:00:35,00:10:52,00:30:36,00:50:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+748,1747,Renee Wansink,Amsterdam,Vrouw,312,01:00:35,00:10:52,00:30:36,00:50:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+749,1750,Willem Veroop,Amsterdam,Man,437,01:00:35,00:10:52,00:30:36,00:50:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+750,1936,Lilian Tilburgs,Amsterdam,Vrouw,313,01:00:38,00:09:32,00:28:49,00:49:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+751,1560,Elaine Romein,Amsterdam,Vrouw,314,01:00:41,00:10:52,00:30:59,00:50:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+752,2025,Jan-Joost Oudshoorn,Amsterdam,Man,438,01:00:41,00:10:26,00:30:06,00:49:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+753,1187,Medine Bouma,Amsterdam,Vrouw,315,01:00:42,00:11:01,00:30:59,00:50:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+754,1353,Elly Bastiaansen,Bavel,Vrouw,316,01:00:44,00:10:41,00:30:18,00:49:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+755,1269,Gosia Iwan,Feniks,Vrouw,317,01:00:45,00:10:31,00:30:04,00:49:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+756,1484,Raymond Maartense,Almere,Man,439,01:00:48,00:10:00,00:29:10,00:49:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+757,2115,Ronald van den Daal,Amsterdam,Man,440,01:00:49,00:10:48,00:31:11,00:50:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+758,1440,Roos Heere,Amsterdam,Vrouw,318,01:00:54,00:10:43,00:30:49,00:50:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+759,1571,Kim Meijers,De Meern,Vrouw,319,01:00:55,00:10:01,00:29:00,00:49:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+760,1688,Rosa Sijben,Amsterdam,Vrouw,320,01:00:56,00:10:06,00:29:51,00:49:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+761,1860,Lillian van der Laan,Amsterdam,Vrouw,321,01:00:58,00:09:48,00:29:24,00:49:44,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+762,1439,Janneke Scholing,Vinkeveen,Vrouw,322,01:01:01,00:10:40,00:30:08,00:50:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+763,133,Tess Travis,Amsterdam,Vrouw,323,01:01:02,00:09:37,00:29:05,00:49:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+764,1625,Berna Homan,Loopgroep RDJ,Vrouw,324,01:01:03,00:10:32,00:30:19,00:49:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+765,2027,Susan Nortier,Amsterdam,Vrouw,325,01:01:03,00:10:56,00:31:10,00:50:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+766,1739,Jerry Tas,De Meern,Man,441,01:01:05,00:11:28,00:32:09,00:51:09,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+767,1527,Jeanine Michorius,Heemskerk,Vrouw,326,01:01:06,00:10:49,00:30:35,00:50:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+768,1561,Sander Linting,Almelo,Man,442,01:01:09,00:09:54,00:29:02,00:49:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+769,1559,Anne Verduin,Almelo,Vrouw,327,01:01:10,00:09:55,00:29:03,00:49:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+770,2131,Hans Grit,Amsterdam,Man,443,01:01:11,00:10:07,00:29:10,00:50:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+771,2237,Arie Wijbenga,Hollandia,Man,444,01:01:11,00:10:28,00:30:10,00:50:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+772,1960,Karin van der Avoort,Amsterdam,Vrouw,328,01:01:13,00:10:56,00:31:10,00:50:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+773,2078,Ozge Willems,Bussum,Vrouw,329,01:01:21,00:10:02,00:29:42,00:49:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+774,2099,Francine Urbanus,Amsterdam,Vrouw,330,01:01:25,00:10:22,00:30:04,00:50:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+775,1652,Eline van der Kooi,Diemen,Vrouw,331,01:01:27,00:09:53,00:29:03,00:49:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+776,1205,Miriam Cnossen,Amsterdam,Vrouw,332,01:01:30,00:10:43,00:31:22,00:51:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+777,2146,Ralf Timmer,Amersfoort,Man,445,01:01:36,00:10:27,00:30:16,00:50:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+778,1247,Thea de Nooijer,Wieringermeer,Vrouw,333,01:01:36,00:10:28,00:29:37,00:50:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+779,2263,Lucas Kakisina,Amersfoort,Man,446,01:01:38,00:10:37,00:30:21,00:50:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+780,1227,John Heijne,Amsterdam,Man,447,01:01:38,00:10:49,00:30:13,00:50:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+781,1939,Barbera Los,Amstelveen,Vrouw,334,01:01:43,00:10:39,00:30:36,00:50:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+782,1172,Joost Dijkhuizen,Utrecht,Man,448,01:01:45,00:10:28,00:30:16,00:50:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+783,1226,Jacqueline Jansen,Amsterdam,Vrouw,335,01:01:45,00:10:49,00:30:26,00:50:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+784,1171,Gymora Latumahina,Almere,Vrouw,336,01:01:46,00:10:27,00:30:18,00:50:20,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+785,2076,Alessandra Morabito,Amsterdam,Vrouw,337,01:01:48,00:10:38,00:30:48,00:50:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+786,1170,Ate van der Horst,Amersfoort,Man,449,01:01:48,00:10:36,00:30:21,00:50:23,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+787,1370,Carolina Kreidler,Amsterdam,Vrouw,338,01:01:56,00:11:05,00:31:37,00:51:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+788,1604,Annemarie Basjes,Baarn,Vrouw,339,01:01:56,00:10:20,00:30:15,00:50:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+789,1525,Esther ten Hoeve,Heemskerk,Vrouw,340,01:01:56,00:10:50,00:30:36,00:50:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+790,2056,Liesbeth Beaumond,Noordwijkerhout,Vrouw,341,01:01:58,00:10:35,00:30:49,00:51:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+791,1214,Ralph Rollman,Amsterdam,Man,450,01:02:01,00:10:16,00:30:08,00:50:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+792,1167,Fi Ritchie,Amsterdam,Vrouw,342,01:02:04,00:10:35,00:30:39,00:51:06,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+793,1308,Kirsten Ruter,Amsterdam,Vrouw,343,01:02:05,00:10:30,00:30:28,00:50:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+794,1664,Marc de Boer,Krommenie,Man,451,01:02:07,00:11:32,00:32:24,00:51:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+795,1871,Jessica Kuijper,Kortenhoef,Vrouw,344,01:02:07,00:09:40,00:29:24,00:50:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+796,1639,Cindy Starken,Amstelveen,Vrouw,345,01:02:07,00:10:45,00:31:12,00:50:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+797,1723,Elsbeth Zielman,Amsterdam,Vrouw,346,01:02:09,00:10:05,00:30:05,00:50:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+798,1724,Tripta Biekram,Amsterdam,Vrouw,347,01:02:09,00:10:05,00:30:05,00:50:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+799,1505,Marijke Brugmans,Amsterdam,Vrouw,348,01:02:09,00:10:46,00:30:45,00:51:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+800,1787,Janny van Rossen,Amsterdam,Vrouw,349,01:02:14,00:10:33,00:30:38,00:50:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+801,1765,Terttu Haring,Amsterdam,Vrouw,350,01:02:18,00:10:10,00:29:59,00:50:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+802,2226,Karen Kan-Tromp,Lycurgus,Vrouw,351,01:02:19,00:10:40,00:30:43,00:50:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+803,2285,Elissa Stam (Pacer),,Man,452,01:02:32,00:10:24,00:29:55,00:50:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+804,1883,Michelle Koning,Amsterdam,Vrouw,352,01:02:34,00:10:50,00:31:18,00:51:32,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+805,1501,Nicole van Rooij,Badhoevedorp,Vrouw,353,01:02:35,00:11:16,00:32:20,00:52:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+806,1141,Viva Sakkens,Lanx Cares,Vrouw,354,01:02:39,00:10:43,00:31:52,00:52:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+807,1676,Corine Jacobs,Amsterdam,Vrouw,355,01:02:40,00:10:40,00:30:39,00:51:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+808,1986,Ravi Shekhar Reddy Yanamala,,Vrouw,356,01:02:43,00:11:04,00:31:55,00:52:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+809,1918,Tim Overdiek,Amsterdam,Man,453,01:02:45,00:10:44,00:31:07,00:51:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+810,1488,Marijn Demarteau,Uithoorn,Man,454,01:02:55,00:10:24,00:29:55,00:50:49,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+811,2081,Hans de Bruin,Hilversum,Man,455,01:03:01,00:10:52,00:30:58,00:51:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+812,2188,Alexander Zuur,Alkmaar,Man,456,01:03:02,00:09:25,00:30:08,00:51:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+813,2216,Peter Morsink,Amsterdam,Man,457,01:03:05,00:11:22,00:32:04,00:52:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+814,2276,Klaas Stelling,Barleaus,Man,458,01:03:16,00:08:51,00:28:13,00:50:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+815,1949,Daan Nieuwland,Bilthoven,Man,459,01:03:21,00:10:26,00:30:40,00:51:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+816,2205,Paul Kramer,Lycurgus,Man,460,01:03:23,00:10:35,00:30:34,00:51:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+817,2070,Simone Suykerbuyk,IJmuiden,Vrouw,357,01:03:25,00:10:45,00:31:19,00:52:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+818,2069,Marcel de Vos,Almere,Man,461,01:03:25,00:10:46,00:31:19,00:52:15,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+819,1110,Meike Visser,Lanx Cares,Vrouw,358,01:03:33,00:10:41,00:30:54,00:52:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+820,1107,Lalaine Faber,Lanx Cares,Vrouw,359,01:03:33,00:10:42,00:30:54,00:52:10,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+821,1821,Jens Henrichs,Rotterdam,Man,462,01:03:35,00:10:01,00:30:41,00:51:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+822,1176,Caroline van den Brink,Amsterdam,Vrouw,360,01:03:37,00:10:44,00:31:23,00:52:08,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+823,1729,Linda van den Boomgaard,Purmerend,Vrouw,361,01:03:37,00:09:41,00:29:43,00:51:21,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+824,1753,Vincent van den Esschert,AV '23,Man,463,01:03:38,00:10:52,00:31:49,00:52:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+825,1694,Rachel Swart,West-Terschelling,Vrouw,362,01:03:41,00:10:54,00:31:01,00:51:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+826,1475,Christopher Springham,Amsterdam,Man,464,01:03:42,00:10:50,00:30:58,00:52:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+827,1414,Nathalie Doodkorte,Amsterdam,Vrouw,363,01:03:43,00:10:55,00:31:01,00:51:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+828,1902,Emma Veerhuis,Amsterdam,Vrouw,364,01:03:47,00:10:31,00:30:45,00:51:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+829,1662,Bettina Perremuto,Amsterdam Zuidoost,Vrouw,365,01:03:49,00:11:07,00:31:20,00:52:16,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+830,1380,Hanneke Lichtenbelt,Amsterdam,Vrouw,366,01:04:01,00:11:35,00:32:34,00:52:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+831,2182,Katherine Bagley,Amsterdam,Vrouw,367,01:04:04,00:11:05,00:31:41,00:52:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+832,1460,Mirjam van der Ploeg,Kiel-Windeweer,Vrouw,368,01:04:09,00:10:52,00:31:34,00:52:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+833,1459,Milou Slots,Amsterdam,Vrouw,369,01:04:09,00:10:53,00:31:35,00:52:36,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+834,1626,Irene Rietkerk,AV Monnickendam,Vrouw,370,01:04:16,00:10:51,00:31:17,00:52:22,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+835,1481,Olga Galabova,Amsterdam,Vrouw,371,01:04:27,00:10:18,00:30:51,00:52:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+836,1632,Lara Nederveen Pieterse,Amsterdam,Vrouw,372,01:04:34,00:10:23,00:30:41,00:52:31,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+837,2442,Willemijn van Hooijdonk,AAC,Vrouw,373,01:04:36,00:10:33,00:31:42,00:53:03,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+838,2218,Desiré Broers,Grootebroek,Vrouw,374,01:04:41,00:11:02,00:31:41,00:52:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+839,2004,Vere Maagdenberg,Diemen,Vrouw,375,01:04:43,00:10:17,00:31:23,00:53:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+840,1745,Susan Appelman,Amsterdam,Vrouw,376,01:04:53,00:11:00,00:32:00,00:53:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+841,1366,Eline van den Heuvel,Haarlem,Vrouw,377,01:04:57,00:11:47,00:33:58,00:54:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+842,1362,Noortje Godijn,Amsterdam,Vrouw,378,01:04:57,00:11:47,00:33:58,00:54:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+843,1602,Hong Ing Teng,Amstelveen,Man,465,01:04:58,00:10:55,00:30:54,00:52:06,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+844,1621,Esther van der Linden,Breukelen Ut,Vrouw,379,01:04:59,00:11:35,00:32:25,00:53:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+845,2230,Annemarie Venemans,Leiden,Vrouw,380,01:05:02,00:11:28,00:33:00,00:53:34,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+846,1196,Fiona Taylor,Amsterdam,Vrouw,381,01:05:03,00:11:28,00:32:26,00:53:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+847,1435,Carole Taylor,Amsterdam,Vrouw,382,01:05:04,00:11:28,00:32:25,00:53:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+848,1272,Laura Elbers,Amsterdam,Vrouw,383,01:05:10,00:10:45,00:31:50,00:53:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+849,2073,Jan Wijnand,Naarden,Man,466,01:05:13,00:11:22,00:33:08,00:54:59,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+850,1981,Melanie Emmerig,Bussum,Vrouw,384,01:05:29,00:11:39,00:33:41,00:54:52,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+851,1369,Nonna Manis van den Booga,Amsterdam,Vrouw,385,01:05:31,00:11:44,00:33:03,00:54:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+852,1164,Mary Healy,Amsterdam,Vrouw,386,01:05:33,00:10:51,00:32:07,00:53:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+853,1642,Hans Stolk,Diemen,Man,467,01:05:46,00:10:36,00:31:32,00:53:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+854,1153,Suzan Haring,Enkhuizen,Vrouw,387,01:05:47,00:10:36,00:31:33,00:53:41,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+855,1898,Gerard Smits,Atos,Man,468,01:05:53,00:10:34,00:30:52,00:53:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+856,2210,Steven Poolman,Almere,Man,469,01:05:56,00:11:08,00:32:09,00:54:00,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+857,1957,Ruben de Wolf,Hilversum,Man,470,01:06:10,00:11:07,00:32:16,00:53:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+858,1959,Dannis van Vuurden,Abcoude,Man,471,01:06:10,00:11:07,00:32:16,00:53:46,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+859,1332,Erzsebet Oosterveld,Amsterdam,Vrouw,388,01:06:19,00:11:00,00:32:14,00:54:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+860,1523,Cliff Rijssel,Diemen,Man,472,01:06:22,00:10:17,00:29:51,00:53:26,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+861,1259,Japke Bahous,Amsterdam,Vrouw,389,01:06:38,00:11:24,00:33:13,00:55:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+862,1359,Anneke Coenradi,Dolichos,Vrouw,390,01:06:40,00:11:36,00:33:09,00:54:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+863,1355,Asrid van Veen,OSM '75,Vrouw,391,01:06:40,00:11:36,00:33:09,00:54:40,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+864,2206,Liesbeth Kramer,Lycurgus,Vrouw,392,01:06:48,00:10:41,00:31:16,00:53:45,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+865,1595,Jan Piekoszewski,Amstelveen,Man,473,01:06:57,00:11:29,00:33:02,00:54:56,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+866,2074,Mike Sloothaak,Naarden,Vrouw,393,01:07:05,00:11:23,00:33:08,00:55:02,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+867,1700,Nicole van der Meulen,AAC,Vrouw,394,01:07:07,00:10:33,00:31:41,00:54:11,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+868,1448,Marit Mulders,Grootebroek,Vrouw,395,01:07:11,00:11:22,00:32:49,00:54:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+869,1449,Henny Mulders,Purmerend,Man,474,01:07:12,00:11:22,00:32:49,00:54:54,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+870,1889,Laurus van Essen,Amsterdam,Man,475,01:07:18,00:11:48,00:34:05,00:55:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+871,2094,Geertje Wijten,Amsterdam,Vrouw,396,01:07:18,00:11:36,00:33:44,00:55:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+872,1634,Wendy Tas,De Meern,Vrouw,397,01:07:21,00:11:32,00:33:13,00:55:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+873,1413,Maarten Kuijten,AAC,Man,476,01:07:21,00:11:19,00:32:34,00:54:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+874,1680,Raymond van der Kieft,Harmelen,Man,477,01:07:21,00:11:32,00:33:14,00:55:14,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+875,2009,Melanie Inklaar,Kortenhoef,Vrouw,398,01:07:21,00:11:38,00:33:11,00:55:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+876,2010,Angela Fine,Kortenhoef,Vrouw,399,01:07:21,00:11:38,00:33:12,00:55:04,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+877,1426,Katharina Kolle,Amsterdam,Vrouw,400,01:07:24,00:11:49,00:33:47,00:55:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+878,1686,Morly Frishman,Amsterdam,Man,478,01:07:24,00:11:48,00:34:05,00:55:53,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+879,1237,Saskia Poen,Woerdense Verlaat,Vrouw,401,01:07:25,00:10:46,00:31:52,00:54:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+880,2208,Rachel Muller,Amstelveen,Vrouw,402,01:07:58,00:11:31,00:32:46,00:55:37,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+881,1681,Juliette Paumen,Amsterdam,Vrouw,403,01:08:18,00:11:27,00:33:16,00:56:12,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+882,1682,Lisa Timmermans,Haarlem,Vrouw,404,01:08:19,00:11:28,00:33:17,00:56:13,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+883,2067,Ron Mulder,Amersfoort,Man,479,01:08:31,00:11:45,00:33:52,00:55:55,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+884,1174,Marianne Huttinga,Amsterdam,Vrouw,405,01:08:34,00:11:39,00:34:08,00:56:24,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+885,1574,Susy Fernandez,Amsterdam,Vrouw,406,01:08:49,00:11:46,00:34:12,00:56:42,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+886,2186,Camiel Staneke,Purmerend,Man,480,01:08:55,00:12:16,00:35:36,00:57:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+887,2066,Mohamed Malki,Amsterdam,Man,481,01:08:59,00:10:08,00:32:12,00:55:57,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+888,2100,Evelien Robers,Amsterdam,Vrouw,407,01:09:48,00:12:59,00:35:32,00:57:43,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+889,1933,Alex Schenk,Zaandam,Man,482,01:10:08,00:11:32,00:33:59,00:57:19,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+890,2228,Sylvie Nederend,Amsterdam,Vrouw,408,01:10:16,00:11:27,00:33:45,00:57:27,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+891,2229,Frouck de Boer,Leiden,Vrouw,409,01:10:17,00:11:28,00:33:46,00:57:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+892,1280,Ruud van den Busken,Amsterdam,Man,483,01:10:24,00:10:35,00:33:01,00:57:06,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+893,1374,Marian de Pedro,Amsterdam,Vrouw,410,01:10:54,00:12:36,00:35:29,00:58:29,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+894,1320,Eirini Spiliotopoulou,Amsterdam,Vrouw,411,01:10:54,00:12:57,00:35:47,00:58:35,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+895,1917,Jessica Vermeulen,Amsterdam,Vrouw,412,01:11:01,00:11:27,00:33:48,00:57:28,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+896,1373,Silvia Mitrea,Amsterdam Zuidoost,Vrouw,413,01:11:01,00:12:58,00:35:47,00:58:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+897,1312,Mirjam Heldmann,Amsterdam,Vrouw,414,01:11:03,00:13:01,00:35:49,00:58:50,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+898,1162,Aideen McCrave,Amsterdam,Vrouw,415,01:11:16,00:12:28,00:35:50,00:58:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+899,1368,Dionne Rongen,Amsterdam,Vrouw,416,01:11:40,00:11:55,00:34:36,00:58:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+900,1843,Sonja van den Akker,Wormerveer,Vrouw,417,01:11:45,00:11:08,00:33:44,00:58:25,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+901,1581,Floortje Bakkeren,Amsterdam,Vrouw,418,01:11:47,00:11:59,00:34:55,00:58:38,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+902,1163,Maria Murtagh,Amsterdam,Vrouw,419,01:12:48,00:11:37,00:34:05,00:59:30,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+903,1825,Suzanne van Niekerken,IJmuiden,Vrouw,420,01:13:41,00:11:19,00:34:32,00:59:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+904,1826,Rosanne Kelner,Amsterdam,Vrouw,421,01:13:42,00:11:19,00:34:32,00:59:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+905,1201,Marieke Meelker,'s-Gravenhage,Vrouw,422,01:13:53,00:11:55,00:35:35,01:00:07,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+906,1255,Astrid Kaan,Den Oever,Vrouw,423,01:14:40,00:12:14,00:35:48,01:00:05,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+907,1679,Eva Visser,Amsterdam,Vrouw,424,01:14:53,00:12:10,00:37:03,01:01:47,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+908,1721,Jill Dorjath,Amsterdam,Vrouw,425,01:15:57,00:11:51,00:36:42,01:02:17,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+909,1159,Nadia van der Merwe,Amsterdam,Vrouw,426,01:17:03,00:12:44,00:37:29,01:02:51,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+910,1260,Rixt Altenburg,Amsterdam,Vrouw,427,01:18:46,00:11:47,00:35:39,01:03:58,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+911,1727,Michaela Vitzthum,Wuppertal,Vrouw,428,01:19:32,00:13:10,00:38:41,01:04:39,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15
+912,1982,Hans van der Lans,Bussum,Man,484,01:19:41,00:13:20,00:37:49,01:04:18,43e Stayokay Vondelparkloop   Amsterdam   15-01-2017,2017-01-15

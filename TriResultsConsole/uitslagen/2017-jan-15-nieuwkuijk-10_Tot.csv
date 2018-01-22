@@ -1,0 +1,67 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Ronde3,Ronde4,race,date
+1,211,Jeroen van Damme,Roosendaal,M35,1,00:33:06,00:33:06,00:08:16,00:08:16,00:08:12,00:08:23,Kuijkse Stratenloop  15-01-2017,2017-01-15
+2,57,Koos Verweij,Drunen,M45,1,00:33:18,00:33:17,00:08:11,00:08:19,00:08:19,00:08:30,Kuijkse Stratenloop  15-01-2017,2017-01-15
+3,167,Dennis de Freytas,Tilburg,MSEN,1,00:33:30,00:33:30,00:08:17,00:08:28,00:08:32,00:08:16,Kuijkse Stratenloop  15-01-2017,2017-01-15
+4,225,Marco Keijsers,Oosterhout,MSEN,2,00:33:41,00:33:41,00:08:17,00:08:17,00:08:35,00:08:34,Kuijkse Stratenloop  15-01-2017,2017-01-15
+5,55,Mitchell van Oudenaarden,Etten-Leur,MSEN,3,00:36:09,00:36:09,00:09:02,00:09:04,00:09:09,00:08:56,Kuijkse Stratenloop  15-01-2017,2017-01-15
+6,9,Tony de Groot,Boxtel,M35,2,00:36:20,00:36:19,00:08:32,00:09:13,00:09:23,00:09:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+7,61,Mar-Hein van de Wiel,Nieuwkuijk,M45,2,00:37:33,00:37:33,00:09:20,00:09:28,00:09:29,00:09:18,Kuijkse Stratenloop  15-01-2017,2017-01-15
+8,58,Ron de Vaan,Drunen,M45,3,00:37:40,00:37:39,00:09:19,00:09:28,00:09:29,00:09:25,Kuijkse Stratenloop  15-01-2017,2017-01-15
+9,223,Tim van Rooij,Wageningen,MSEN,4,00:37:51,00:37:50,00:09:04,00:09:34,00:09:39,00:09:35,Kuijkse Stratenloop  15-01-2017,2017-01-15
+10,259,John van Heeswijn,Drunen,M35,3,00:37:58,00:37:58,00:09:20,00:09:29,00:09:36,00:09:35,Kuijkse Stratenloop  15-01-2017,2017-01-15
+11,59,Gerard Lensvelt,Dussen,M45,4,00:38:04,00:38:03,00:09:19,00:09:27,00:09:30,00:09:49,Kuijkse Stratenloop  15-01-2017,2017-01-15
+12,262,Henk van de Stelt,Hank,M35,4,00:38:04,00:38:03,00:09:03,00:09:34,00:09:40,00:09:48,Kuijkse Stratenloop  15-01-2017,2017-01-15
+13,376,Marjon van de Wansum,Etten-Leur,VSEN,1,00:38:54,00:38:54,00:09:39,00:09:46,00:09:48,00:09:42,Kuijkse Stratenloop  15-01-2017,2017-01-15
+14,47,Jaap Stijlaart,Woudenberg,M55,1,00:39:12,00:39:11,00:09:39,00:09:46,00:09:49,00:09:59,Kuijkse Stratenloop  15-01-2017,2017-01-15
+15,194,Koen van Nieuwburg,Drunen,M45,5,00:40:00,00:40:00,00:09:45,00:10:01,00:10:11,00:10:04,Kuijkse Stratenloop  15-01-2017,2017-01-15
+16,450,Marjon de Kok,Goirle,V35,1,00:40:01,00:40:00,00:09:53,00:09:59,00:10:06,00:10:02,Kuijkse Stratenloop  15-01-2017,2017-01-15
+17,219,Erwin Van arendonk,Drunen,M35,5,00:40:23,00:40:21,00:09:52,00:10:18,00:10:28,00:09:45,Kuijkse Stratenloop  15-01-2017,2017-01-15
+18,486,Jenny Maas,Boxtel,V35,2,00:41:14,00:41:12,00:10:12,00:10:21,00:10:29,00:10:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+19,2,Patrick van Gurp,Drunen,M35,6,00:41:16,00:41:16,00:09:48,00:10:23,00:10:28,00:10:39,Kuijkse Stratenloop  15-01-2017,2017-01-15
+20,51,Ronald van de Sande,Nieuwkuijk,M35,7,00:41:45,00:41:45,00:10:07,00:10:33,00:10:32,00:10:35,Kuijkse Stratenloop  15-01-2017,2017-01-15
+21,264,Maarten van Wijk,Boxtel,MSEN,5,00:41:47,00:41:41,00:10:47,00:10:17,00:10:13,00:10:26,Kuijkse Stratenloop  15-01-2017,2017-01-15
+22,214,Jacco Schipperen,Dussen,M45,6,00:42:09,00:42:08,00:10:05,00:10:34,00:10:49,00:10:42,Kuijkse Stratenloop  15-01-2017,2017-01-15
+23,227,Sjaak Hofmans,Dussen,M55,2,00:42:14,00:42:12,00:10:05,00:10:34,00:10:48,00:10:47,Kuijkse Stratenloop  15-01-2017,2017-01-15
+24,162,Antoine van der Sanden,Drunen,MSEN,6,00:42:20,00:42:19,00:10:04,00:10:35,00:10:48,00:10:53,Kuijkse Stratenloop  15-01-2017,2017-01-15
+25,33,Frits van den Brand,Nieuwkuijk,M55,3,00:42:22,00:42:22,00:10:06,00:10:34,00:10:48,00:10:55,Kuijkse Stratenloop  15-01-2017,2017-01-15
+26,32,Toine van Moergastel,Nieuwkuijk,M45,7,00:43:05,00:43:02,00:10:18,00:10:50,00:10:55,00:11:00,Kuijkse Stratenloop  15-01-2017,2017-01-15
+27,164,Edwin van Esch,Vlijmen,M45,8,00:43:33,00:43:31,00:10:32,00:10:55,00:11:04,00:11:01,Kuijkse Stratenloop  15-01-2017,2017-01-15
+28,210,Bert van Dal,Haarsteeg,M45,9,00:43:46,00:43:44,00:10:35,00:10:56,00:11:08,00:11:06,Kuijkse Stratenloop  15-01-2017,2017-01-15
+29,270,Fred van Tilborg,Drunen,M55,4,00:44:40,00:44:38,00:10:44,00:11:11,00:11:21,00:11:24,Kuijkse Stratenloop  15-01-2017,2017-01-15
+30,197,Roland Hermens,Waalwijk,M45,10,00:44:48,00:44:46,00:11:00,00:11:15,00:11:17,00:11:15,Kuijkse Stratenloop  15-01-2017,2017-01-15
+31,256,Hans  Overbeek,Polsbroek,M45,11,00:44:57,00:44:55,00:11:06,00:11:19,00:11:21,00:11:11,Kuijkse Stratenloop  15-01-2017,2017-01-15
+32,490,Anja van Vliet,Oss,V35,3,00:45:07,00:45:05,00:11:05,00:11:18,00:11:22,00:11:21,Kuijkse Stratenloop  15-01-2017,2017-01-15
+33,257,Walter van Gurp,Drunen,M55,5,00:45:15,00:45:13,00:10:59,00:11:25,00:11:22,00:11:28,Kuijkse Stratenloop  15-01-2017,2017-01-15
+34,267,Dennis de Peffer,Waalwijk,MSEN,7,00:45:49,00:45:45,00:11:44,00:11:31,00:11:25,00:11:07,Kuijkse Stratenloop  15-01-2017,2017-01-15
+35,207,Sander Cox,Eethen,MSEN,8,00:45:50,00:45:45,00:11:27,00:11:25,00:11:48,00:11:07,Kuijkse Stratenloop  15-01-2017,2017-01-15
+36,34,Erik van der Lee,Drunen,M35,8,00:45:53,00:45:48,00:11:17,00:11:29,00:11:33,00:11:30,Kuijkse Stratenloop  15-01-2017,2017-01-15
+37,266,Sander Wijngaarde,Oudheusden,MSEN,9,00:46:07,00:46:03,00:11:44,00:11:33,00:11:23,00:11:26,Kuijkse Stratenloop  15-01-2017,2017-01-15
+38,452,Lianne Ivens,Waalwijk,V35,4,00:46:48,00:46:46,00:11:19,00:11:39,00:11:50,00:12:00,Kuijkse Stratenloop  15-01-2017,2017-01-15
+39,260,Michel de Haan,Vlijmen,M35,9,00:46:54,00:46:48,00:11:32,00:11:47,00:11:50,00:11:40,Kuijkse Stratenloop  15-01-2017,2017-01-15
+40,453,Inge Schipperen,Dussen,V35,5,00:46:58,00:46:56,00:11:20,00:11:46,00:12:00,00:11:52,Kuijkse Stratenloop  15-01-2017,2017-01-15
+41,492,Nikki Bagchus,Loon op Zand,VSEN,2,00:47:05,00:47:02,00:11:21,00:11:54,00:12:01,00:11:48,Kuijkse Stratenloop  15-01-2017,2017-01-15
+42,470,Pascalle Post,s-Hertogenbosch,VSEN,3,00:47:05,00:47:02,00:11:20,00:11:50,00:12:06,00:11:48,Kuijkse Stratenloop  15-01-2017,2017-01-15
+43,238,Niels Kamphuis,Wijk en Aalburg,M35,10,00:47:05,00:47:01,00:11:43,00:11:51,00:12:08,00:11:21,Kuijkse Stratenloop  15-01-2017,2017-01-15
+44,491,Rosanne van Kerkhoven,Tilburg,VSEN,4,00:47:17,00:47:14,00:11:26,00:11:52,00:11:57,00:12:00,Kuijkse Stratenloop  15-01-2017,2017-01-15
+45,237,Jan Willem van Spijk,Vlijmen,M45,12,00:48:12,00:48:06,00:11:57,00:11:50,00:12:12,00:12:08,Kuijkse Stratenloop  15-01-2017,2017-01-15
+46,18,Hans van Wijk,Veen,M45,13,00:48:23,00:48:18,00:11:56,00:11:48,00:12:04,00:12:32,Kuijkse Stratenloop  15-01-2017,2017-01-15
+47,208,Marijn Van der heijden,'s-Hertogenbosch,MSEN,10,00:49:19,00:49:16,00:11:09,00:12:05,00:13:19,00:12:45,Kuijkse Stratenloop  15-01-2017,2017-01-15
+48,375,Yvette Schalken,Sprang-Capelle,VSEN,5,00:49:21,00:49:18,00:12:09,00:12:28,00:12:23,00:12:20,Kuijkse Stratenloop  15-01-2017,2017-01-15
+49,383,Marielle Sprangers,Kaatsheuvel,V35,6,00:49:21,00:49:18,00:12:09,00:12:27,00:12:23,00:12:20,Kuijkse Stratenloop  15-01-2017,2017-01-15
+50,261,Goof Hobo,Hoofdveld,M45,14,00:49:26,00:49:20,00:12:20,00:12:25,00:12:22,00:12:13,Kuijkse Stratenloop  15-01-2017,2017-01-15
+51,265,Jos  de Hollander,Den Bosch,M55,6,00:50:34,00:50:33,00:11:59,00:12:38,00:13:07,00:12:50,Kuijkse Stratenloop  15-01-2017,2017-01-15
+52,361,Tom Leijten,Vlijmen,M45,15,00:50:59,00:50:55,00:12:45,00:12:44,00:12:50,00:12:38,Kuijkse Stratenloop  15-01-2017,2017-01-15
+53,230,Roland Mather,Drunen,MSEN,11,00:51:18,00:51:13,00:12:26,00:12:48,00:13:04,00:12:57,Kuijkse Stratenloop  15-01-2017,2017-01-15
+54,37,Bram Verhagen,Papendrecht,M35,11,00:51:46,00:51:40,00:12:40,00:12:48,00:13:03,00:13:11,Kuijkse Stratenloop  15-01-2017,2017-01-15
+55,418,Willian Smits,Drunen,V35,7,00:52:33,00:52:30,00:12:57,00:13:09,00:13:19,00:13:07,Kuijkse Stratenloop  15-01-2017,2017-01-15
+56,420,Jolanda van Esch,Vlijmen,V35,8,00:52:47,00:52:43,00:12:55,00:13:11,00:13:19,00:13:20,Kuijkse Stratenloop  15-01-2017,2017-01-15
+57,464,Sabrina van Delft,Drunen,VSEN,6,00:53:17,00:53:13,00:12:56,00:13:12,00:13:28,00:13:39,Kuijkse Stratenloop  15-01-2017,2017-01-15
+58,247,Valentijn Maes,Nieuwkuijk,M35,12,00:53:45,00:53:40,00:12:56,00:13:15,00:13:37,00:13:54,Kuijkse Stratenloop  15-01-2017,2017-01-15
+59,255,Peter  van Gemert,Drunen,MSEN,12,00:54:47,00:54:43,00:13:05,00:13:45,00:13:58,00:13:57,Kuijkse Stratenloop  15-01-2017,2017-01-15
+60,473,Ina van Otzel,Roosendaal,V35,9,00:54:57,00:54:54,00:13:33,00:13:52,00:13:58,00:13:33,Kuijkse Stratenloop  15-01-2017,2017-01-15
+61,382,Miriam van der Heijden,Drunen,V35,10,00:55:30,00:55:26,00:13:20,00:13:48,00:14:11,00:14:09,Kuijkse Stratenloop  15-01-2017,2017-01-15
+62,360,Ankie Leijten,Vlijmen,V35,11,00:55:38,00:55:33,00:13:36,00:13:50,00:14:00,00:14:08,Kuijkse Stratenloop  15-01-2017,2017-01-15
+63,447,Bianca de Laat,'s-Hertogenbosch,V35,12,00:55:51,00:55:48,00:13:43,00:13:51,00:14:03,00:14:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+64,493,Anita Klerx,Vlijmen,V35,13,00:59:08,00:59:03,00:15:02,00:14:55,00:14:46,00:14:21,Kuijkse Stratenloop  15-01-2017,2017-01-15
+65,487,Karin Bierkens-van Helden,Drunen,V35,14,00:59:53,00:59:48,00:15:02,00:14:55,00:14:54,00:14:59,Kuijkse Stratenloop  15-01-2017,2017-01-15
+66,212,Rob van der Zanden,Drunen,M45,16,01:02:18,01:02:13,00:14:49,00:15:33,00:16:08,00:15:45,Kuijkse Stratenloop  15-01-2017,2017-01-15

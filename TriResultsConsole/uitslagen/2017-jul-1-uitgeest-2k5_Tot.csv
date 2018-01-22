@@ -1,0 +1,69 @@
+Plts,Naam,Woonplaats,Cat,PltsCat,Bruto,Netto,race,date
+1,Maarten Post,Uitgeest,M,1,00:16:08,00:16:06,Kermisloop ,2017-07-01
+2,Marco Koning,Uitgeest,M,2,00:17:14,00:17:14,Kermisloop ,2017-07-01
+3,Erwin Tromp,Uitgeest,M,3,00:19:53,00:19:49,Kermisloop ,2017-07-01
+4,Vincent Bruinsma,Uitgeest,M,4,00:19:54,00:19:51,Kermisloop ,2017-07-01
+5,Ingmar Bruinsma,Uitgeest,M,5,00:19:55,00:19:53,Kermisloop ,2017-07-01
+6,Raymond Rijs,Uitgeest,M,6,00:20:09,00:20:06,Kermisloop ,2017-07-01
+7,David Demont,Uitgeest,M,7,00:20:38,00:20:34,Kermisloop ,2017-07-01
+8,Marit Heederik,Beverwijk,F,1,00:25:26,00:25:15,Kermisloop ,2017-07-01
+9,Floriene Beentjes,Uitgeest,F,2,00:25:54,00:25:51,Kermisloop ,2017-07-01
+10,Joost Goedhart,Uitgeest,M,8,00:25:55,00:25:51,Kermisloop ,2017-07-01
+11,Daphne Huyser,Uitgeest,F,3,00:27:03,00:27:01,Kermisloop ,2017-07-01
+12,Anneke Vaas,Uitgeest,F,4,00:27:14,00:27:12,Kermisloop ,2017-07-01
+13,Mariëlle Verhoeven,Uitgeest,F,5,00:27:14,00:27:12,Kermisloop ,2017-07-01
+14,Chantal Bartels,Uitgeest,F,6,00:27:33,00:27:26,Kermisloop ,2017-07-01
+15,Paul Wezepoel,Uitgeest,M,9,00:27:34,00:27:27,Kermisloop ,2017-07-01
+16,Marijke Jonker,Uitgeest,M,10,00:27:45,00:27:36,Kermisloop ,2017-07-01
+17,Kim Jonker,Uitgeest,F,7,00:27:45,00:27:35,Kermisloop ,2017-07-01
+18,Sanne Jonker,Uitgeest,F,8,00:27:45,00:27:36,Kermisloop ,2017-07-01
+19,Ellen Jonker,Uitgeest,F,9,00:27:45,00:27:35,Kermisloop ,2017-07-01
+20,Lonneke van der Meij,Uitgeest,F,10,00:28:06,00:27:54,Kermisloop ,2017-07-01
+21,Christel Overeem,Uitgeest,F,11,00:28:06,00:27:55,Kermisloop ,2017-07-01
+22,Ingrid Bytujlien,,F,12,00:28:40,00:28:36,Kermisloop ,2017-07-01
+23,Kai Bytujlien,,M,11,00:28:40,00:28:35,Kermisloop ,2017-07-01
+24,Kitty Brown,,F,13,00:28:41,00:28:37,Kermisloop ,2017-07-01
+25,Evelien Schouten,Uitgeest,F,14,00:29:03,00:28:55,Kermisloop ,2017-07-01
+26,Denise Jonker,Uitgeest,F,15,00:29:03,00:28:56,Kermisloop ,2017-07-01
+27,Danielle van der Eng,Akersloot,F,16,00:29:49,00:29:32,Kermisloop ,2017-07-01
+28,Hester Zomerdijk,Castricum,F,17,00:29:49,00:29:32,Kermisloop ,2017-07-01
+29,Linda Schipper,Heemskerk,F,18,00:30:21,00:30:03,Kermisloop ,2017-07-01
+30,Anouska van Tol,Uitgeest,F,19,00:30:24,00:30:07,Kermisloop ,2017-07-01
+31,Stefan Half,Uitgeest,M,12,00:30:45,00:30:34,Kermisloop ,2017-07-01
+32,Erica Eeltink,Uitgeest,F,20,00:31:10,00:31:05,Kermisloop ,2017-07-01
+33,Saskia Kortekaas,Uitgeest,F,21,00:31:11,00:31:05,Kermisloop ,2017-07-01
+34,Rianne Struijlaart,Uitgeest,F,22,00:31:12,00:31:06,Kermisloop ,2017-07-01
+35,Shane Webbe,Akersloot,M,13,00:31:25,00:31:25,Kermisloop ,2017-07-01
+36,Marielle De ruijter,Uitgeest,F,23,00:31:36,00:31:26,Kermisloop ,2017-07-01
+37,Tamara Vrouwe,Uitgeest,F,24,00:31:36,00:31:29,Kermisloop ,2017-07-01
+38,Louise Vonk,Castricum,F,25,00:31:36,00:31:28,Kermisloop ,2017-07-01
+39,Ineke Bakker,Uitgeest,F,26,00:31:37,00:31:28,Kermisloop ,2017-07-01
+40,Nathalie Vrouwe,Uitgeest,F,27,00:31:37,00:31:28,Kermisloop ,2017-07-01
+41,Diana De wit,Uitgeest,F,28,00:31:37,00:31:29,Kermisloop ,2017-07-01
+42,Heidi Krom,Uitgeest,F,29,00:31:37,00:31:30,Kermisloop ,2017-07-01
+43,Stefanie Verduin,Uitgeest,F,30,00:33:24,00:33:16,Kermisloop ,2017-07-01
+44,Michelle Verduin,Uitgeest,F,31,00:33:25,00:33:17,Kermisloop ,2017-07-01
+45,Elaine Bouhof,Heemskerk,F,32,00:33:25,00:33:15,Kermisloop ,2017-07-01
+46,Denise Verduin,Uitgeest,F,33,00:33:26,00:33:17,Kermisloop ,2017-07-01
+47,Leonie Wouters,Uitgeest,F,34,00:33:26,00:33:16,Kermisloop ,2017-07-01
+48,Stefanie Hand,Uitgeest,F,35,00:33:40,00:33:23,Kermisloop ,2017-07-01
+49,Vanessa Vendel,Uitgeest,F,36,00:34:03,00:33:52,Kermisloop ,2017-07-01
+50,Marit Nieboer,Uitgeest,F,37,00:34:06,00:33:56,Kermisloop ,2017-07-01
+51,Els Schaap,Uitgeest,F,38,00:34:14,00:34:09,Kermisloop ,2017-07-01
+52,Bas Cornelisse,Uitgeest,M,14,00:34:17,00:34:09,Kermisloop ,2017-07-01
+53,Maaike Putter,Uitgeest,F,39,00:35:35,00:35:16,Kermisloop ,2017-07-01
+54,Ester Huijg,Uitgeest,F,40,00:35:35,00:35:16,Kermisloop ,2017-07-01
+55,Carola Vuijk,Beverwijk,F,41,00:35:38,00:35:25,Kermisloop ,2017-07-01
+56,Sonja Krouwels,Haarlem,F,42,00:36:47,00:36:28,Kermisloop ,2017-07-01
+57,Ellen Krouwels,Uitgeest,F,43,00:36:48,00:36:28,Kermisloop ,2017-07-01
+58,Tanja Krouwels,Uitgeest,F,44,00:36:48,00:36:29,Kermisloop ,2017-07-01
+59,Sammy Does,Uitgeest,F,45,00:38:27,00:38:07,Kermisloop ,2017-07-01
+60,Joeri Wiedijk,Alkmaar,M,15,00:38:27,00:38:08,Kermisloop ,2017-07-01
+61,Cynthia Spoor,Uitgeest,F,46,00:39:56,00:39:43,Kermisloop ,2017-07-01
+62,Yvette Goossen,Uitgeest,F,47,00:39:58,00:39:44,Kermisloop ,2017-07-01
+63,Melanie Van der Wolf,Uitgeest,F,48,00:40:00,00:39:46,Kermisloop ,2017-07-01
+64,Kirsten Steur,Castricum,F,49,00:40:01,00:39:49,Kermisloop ,2017-07-01
+65,Carla van 't Hof,Heemskerk,F,50,00:40:03,00:39:49,Kermisloop ,2017-07-01
+66,Marjorie Mac Nack,Uitgeest,F,51,00:40:38,00:40:21,Kermisloop ,2017-07-01
+67,Nunes,,F,52,00:40:39,00:40:21,Kermisloop ,2017-07-01
+68,Laura Langendijk,Uitgeest,F,53,01:00:21,01:00:21,Kermisloop ,2017-07-01

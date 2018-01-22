@@ -1,0 +1,67 @@
+Plts,StNr,Naam,Woonplaats,Cat,PltsCat,Bruto,Netto,race,date
+1,263,Max Veerbeek,Nijmegen,M,1,00:03:38,00:03:38,Kramp Run ,2017-09-09
+2,202,Thom Berkelder,Aalten,M,2,00:03:40,00:03:40,Kramp Run ,2017-09-09
+3,280,Gijs Toebes,,M,3,00:03:43,00:03:43,Kramp Run ,2017-09-09
+4,267,Naell Huijsmans,,F,1,00:03:45,00:03:45,Kramp Run ,2017-09-09
+5,215,Lars Meinen,Aalten,M,4,00:03:46,00:03:46,Kramp Run ,2017-09-09
+6,221,Jurre de Jong,Heelweg,M,5,00:03:50,00:03:50,Kramp Run ,2017-09-09
+7,212,Age Eindhoven,Heelweg,M,6,00:03:55,00:03:54,Kramp Run ,2017-09-09
+8,272,Duke Peppelinkhausen,,M,7,00:03:56,00:03:56,Kramp Run ,2017-09-09
+9,229,Sterre Visser,Varsseveld,F,2,00:03:58,00:03:58,Kramp Run ,2017-09-09
+10,258,Koen Hoopman,Aalten,M,8,00:04:04,00:04:04,Kramp Run ,2017-09-09
+11,211,Lieke Ernst,Silvolde,F,3,00:04:06,00:04:06,Kramp Run ,2017-09-09
+12,257,Karlijn Heutinck,Beltrum,F,4,00:04:15,00:04:15,Kramp Run ,2017-09-09
+13,273,Martijn Piek,,M,9,00:04:16,00:04:16,Kramp Run ,2017-09-09
+14,206,Amber ter Horst,Aalten,F,5,00:04:16,00:04:16,Kramp Run ,2017-09-09
+15,270,Kyan Luijmes,Didam,M,10,00:04:18,00:04:16,Kramp Run ,2017-09-09
+16,281,Teun Toebes,,M,11,00:04:22,00:04:20,Kramp Run ,2017-09-09
+17,250,Jesse Hoenderboom,Aalten,M,12,00:04:25,00:04:25,Kramp Run ,2017-09-09
+18,274,Riley Praster,,M,13,00:04:29,00:04:29,Kramp Run ,2017-09-09
+19,223,Madelief van Erkelens,AVA'70,F,6,00:04:29,00:04:29,Kramp Run ,2017-09-09
+20,237,Lucas Boom,Doetinchem,M,14,00:04:35,00:04:30,Kramp Run ,2017-09-09
+21,256,Merle Vinkenvleugel,Varsseveld,F,7,00:04:37,00:04:33,Kramp Run ,2017-09-09
+22,203,Siem Piest,Varsseveld,M,15,00:04:38,00:04:38,Kramp Run ,2017-09-09
+23,204,Niek Jacobs,Doetinchem,M,16,00:04:39,00:04:38,Kramp Run ,2017-09-09
+24,266,Julynn Huijsmans,,F,8,00:04:42,00:04:42,Kramp Run ,2017-09-09
+25,222,Thomas van de Noort,Varsseveld,M,17,00:04:43,00:04:41,Kramp Run ,2017-09-09
+26,279,Bilal Krari,,M,18,00:04:44,00:04:44,Kramp Run ,2017-09-09
+27,247,Saar Beltman,Varsseveld,F,9,00:04:45,00:04:43,Kramp Run ,2017-09-09
+28,217,Naomi Masselink,Varsseveld,F,10,00:04:45,00:04:44,Kramp Run ,2017-09-09
+29,246,Gijs Beltman,Varsseveld,M,19,00:04:47,00:04:45,Kramp Run ,2017-09-09
+30,210,Fenna Ernst,Silvolde,F,11,00:04:51,00:04:51,Kramp Run ,2017-09-09
+31,251,Rozemarijn Hoenderboom,Aalten,F,12,00:04:52,00:04:52,Kramp Run ,2017-09-09
+32,240,Rene Verdirk,Borken,M,20,00:04:57,00:04:54,Kramp Run ,2017-09-09
+33,271,Willeke Schaaf,,F,13,00:04:58,00:04:58,Kramp Run ,2017-09-09
+34,214,Renske Nijeboer,,F,14,00:04:59,00:04:56,Kramp Run ,2017-09-09
+35,268,Jordy Wijkamp,Varsseveld,M,21,00:04:59,00:04:58,Kramp Run ,2017-09-09
+36,259,Jurre van Zuidam,Aalten,M,22,00:05:04,00:05:04,Kramp Run ,2017-09-09
+37,260,Doris Veenhuis,Varsseveld,F,15,00:05:06,00:05:06,Kramp Run ,2017-09-09
+38,264,Romée Ruesink,Aalten,F,16,00:05:17,00:05:15,Kramp Run ,2017-09-09
+39,277,Siebe de Jong,,M,23,00:05:24,00:05:24,Kramp Run ,2017-09-09
+40,209,Jesse Hiddink,Varsseveld,M,24,00:05:30,00:05:29,Kramp Run ,2017-09-09
+41,213,Lieke Wentink,Varsseveld,F,17,00:05:35,00:05:31,Kramp Run ,2017-09-09
+42,200,Lieke Visser,Aalten,F,18,00:05:37,00:05:33,Kramp Run ,2017-09-09
+43,269,Niels Wijkamp,Varsseveld,M,25,00:05:39,00:05:38,Kramp Run ,2017-09-09
+44,205,Wout Jacobs,Doetinchem,M,26,00:05:47,00:05:44,Kramp Run ,2017-09-09
+45,219,Anne REUTERINK,Varsseveld,F,19,00:05:48,00:05:46,Kramp Run ,2017-09-09
+46,265,Loueann Huijsmans,,F,20,00:05:54,00:05:52,Kramp Run ,2017-09-09
+47,278,Kenza Diks,,F,21,00:05:58,00:05:53,Kramp Run ,2017-09-09
+48,255,Doris Vinkenvleugel,Varsseveld,F,22,00:06:23,00:06:20,Kramp Run ,2017-09-09
+49,220,Suze Reuterink,Varsseveld,F,23,00:06:24,00:06:20,Kramp Run ,2017-09-09
+50,218,Vajèn Masselink,Varsseveld,F,24,00:06:25,00:06:21,Kramp Run ,2017-09-09
+51,242,Jens Kraan,Ulft,M,27,00:06:26,00:06:21,Kramp Run ,2017-09-09
+52,235,Tess Reimes,Varsseveld,F,25,00:06:29,00:06:24,Kramp Run ,2017-09-09
+53,248,Sam Klompenhouwer,Varsseveld,F,26,00:06:29,00:06:23,Kramp Run ,2017-09-09
+54,241,Theo ElsKamp,Borken,M,28,00:06:34,00:06:32,Kramp Run ,2017-09-09
+55,275,Lotte Vrieze,,F,27,00:06:38,00:06:37,Kramp Run ,2017-09-09
+56,243,Lars Kraan,Ulft,M,29,00:06:39,00:06:34,Kramp Run ,2017-09-09
+57,224,Lotte Schreurs,Rijssen,F,28,00:06:39,00:06:33,Kramp Run ,2017-09-09
+58,227,Kevin Lievers,Doetinchem,M,30,00:06:49,00:06:46,Kramp Run ,2017-09-09
+59,244,Jelle Rougoor,Breedenbroek,M,31,00:07:07,00:07:05,Kramp Run ,2017-09-09
+60,201,Daphne Visser,Aalten,F,29,00:07:14,00:07:10,Kramp Run ,2017-09-09
+61,207,Esmay ter Horst,Aalten,F,30,00:07:15,00:07:12,Kramp Run ,2017-09-09
+62,208,Bryan ter Horst,Aalten,M,32,00:07:18,00:07:16,Kramp Run ,2017-09-09
+63,226,Boaz Koper,Doetinchem,M,33,00:07:24,00:07:22,Kramp Run ,2017-09-09
+64,225,Anne Schreurs,Rijssen,F,31,00:08:05,00:07:58,Kramp Run ,2017-09-09
+65,238,Rens Boom,Doetinchem,M,34,00:08:07,00:08:00,Kramp Run ,2017-09-09
+66,236,Deen Reimes,Varsseveld,M,35,00:08:21,00:08:15,Kramp Run ,2017-09-09

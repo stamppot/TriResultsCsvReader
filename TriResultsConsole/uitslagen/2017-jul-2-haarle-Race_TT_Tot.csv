@@ -1,0 +1,534 @@
+Plts,StNr,Naam,Woonplaats,Km,Cat,PltsCat,Tijd,km/u,race,date
+1,797,Geert van Rijt,Zwolle,100,M,1,00:11:27.697,"40,83",Sallands Mooiste ,2017-07-02
+2,1083,Krosman,Raalte,100,M,2,00:11:42.500,"39,97",Sallands Mooiste ,2017-07-02
+3,1413,Vincent v/d Vegt,Raalte,100,M,3,00:11:43.897,"39,89",Sallands Mooiste ,2017-07-02
+4,1090,René Westenenk,Raalte,100,M,4,00:11:44.808,"39,84",Sallands Mooiste ,2017-07-02
+5,1091,Alfred van Essen,Raalte,100,M,5,00:11:45.243,"39,82",Sallands Mooiste ,2017-07-02
+6,617,John van den Berg,,100,M,6,00:11:46.978,"39,72",Sallands Mooiste ,2017-07-02
+7,700,Wouter Holterman,,100,M,7,00:11:48.697,"39,62",Sallands Mooiste ,2017-07-02
+8,1129,Norbert Mulder,Deventer,100,M,8,00:11:57.057,"39,16",Sallands Mooiste ,2017-07-02
+9,1136,Eibert Jongsma,Deventer,100,M,9,00:11:57.228,"39,15",Sallands Mooiste ,2017-07-02
+10,1199,Nico Engbers,Nijverdal,75,M,10,00:12:11.188,"38,40",Sallands Mooiste ,2017-07-02
+11,1421,Achterkamp,Nijverdal,100,M,11,00:12:18.064,"38,05",Sallands Mooiste ,2017-07-02
+12,1527,Eli Nahuis,Raalte,100,M,12,00:12:23.314,"37,78",Sallands Mooiste ,2017-07-02
+13,1432,Stegeman,Zwolle,100,M,13,00:12:26.670,"37,61",Sallands Mooiste ,2017-07-02
+14,865,Henk Waslander,Katlijk,140,M,14,00:12:30.905,"37,39",Sallands Mooiste ,2017-07-02
+15,1433,Jan van Anken,Zwolle,100,M,15,00:12:40.986,"36,90",Sallands Mooiste ,2017-07-02
+16,1528,Rick Hobert,Haarle,100,M,16,00:12:42.983,"36,80",Sallands Mooiste ,2017-07-02
+17,1521,M Kogelman,Zwolle,100,M,17,00:12:45.780,"36,67",Sallands Mooiste ,2017-07-02
+18,897,Udo Zwijnenberg,,100,M,18,00:12:52.062,"36,37",Sallands Mooiste ,2017-07-02
+19,659,Wouter Eekers,Bornr,100,M,19,00:12:55.283,"36,22",Sallands Mooiste ,2017-07-02
+20,1415,Mathijn Veldkamp,Luttenberg,100,M,20,00:12:55.398,"36,21",Sallands Mooiste ,2017-07-02
+21,866,Niek Wattel,Middelburg,100,M,21,00:12:56.596,"36,16",Sallands Mooiste ,2017-07-02
+22,1128,Hugo van Dijk,Zwolle,100,M,22,00:12:57.285,"36,13",Sallands Mooiste ,2017-07-02
+23,1127,Arnold Dekker,Zwolle,100,M,23,00:12:57.578,"36,11",Sallands Mooiste ,2017-07-02
+24,669,Hans Fransen,,140,M,24,00:12:59.095,"36,04",Sallands Mooiste ,2017-07-02
+25,896,Roland Zwiggelaar,Vriezenveen,100,M,25,00:13:02.299,"35,89",Sallands Mooiste ,2017-07-02
+26,825,Michel Springer,Lelystad,140,M,26,00:13:05.322,"35,76",Sallands Mooiste ,2017-07-02
+27,698,Huub Hollander,IJsselmuiden,140,M,27,00:13:06.163,"35,72",Sallands Mooiste ,2017-07-02
+28,788,Martin Posthoorn,,100,M,28,00:13:06.460,"35,70",Sallands Mooiste ,2017-07-02
+29,877,Sanne Wijermars,,100,V,1,00:13:06.844,"35,69",Sallands Mooiste ,2017-07-02
+30,1117,Martijn Schutte,Raalte,140,M,29,00:13:06.852,"35,69",Sallands Mooiste ,2017-07-02
+31,1092,Bouwhuis,Nijverdal,140,M,30,00:13:08.094,"35,63",Sallands Mooiste ,2017-07-02
+32,747,Laurens Legtenberg,Borne,100,M,31,00:13:10.686,"35,51",Sallands Mooiste ,2017-07-02
+33,823,Tom Spijker,Enschede,140,M,32,00:13:19.036,"35,14",Sallands Mooiste ,2017-07-02
+34,1144,Ram de Ram,Bedum,140,M,33,00:13:20.996,"35,06",Sallands Mooiste ,2017-07-02
+35,650,Olaf Dolstra,Meppel,100,M,34,00:13:21.442,"35,04",Sallands Mooiste ,2017-07-02
+36,708,Freo ten Hove,Lelystad,140,M,35,00:13:21.938,"35,02",Sallands Mooiste ,2017-07-02
+37,1138,Johan Visch,Lelystad,140,M,36,00:13:22.103,"35,01",Sallands Mooiste ,2017-07-02
+38,1145,Niels Bergevoet,Wijhe,140,M,37,00:13:23.955,"34,93",Sallands Mooiste ,2017-07-02
+39,1107,Albert Horsman,Dalmsholte,100,M,38,00:13:30.246,"34,66",Sallands Mooiste ,2017-07-02
+40,646,Iwan Dijk,Raalte,140,M,39,00:13:30.740,"34,64",Sallands Mooiste ,2017-07-02
+41,894,A.J Zuidhof,Dronten,140,M,40,00:13:30.913,"34,63",Sallands Mooiste ,2017-07-02
+42,1105,Dick Bennink,Broekland,140,M,41,00:13:30.926,"34,63",Sallands Mooiste ,2017-07-02
+43,768,Lars van Mook,Zwolle,100,M,42,00:13:31.173,"34,62",Sallands Mooiste ,2017-07-02
+44,869,Eric Weijers,Amsterdam,100,M,43,00:13:31.606,"34,60",Sallands Mooiste ,2017-07-02
+45,702,Pieter Hoogland,Nijmegen,100,M,44,00:13:32.163,"34,57",Sallands Mooiste ,2017-07-02
+46,679,Stijn Goritzlehner,Deventer,75,M,45,00:13:32.498,"34,56",Sallands Mooiste ,2017-07-02
+47,1187,Wieger van der Greft,Marum,100,M,46,00:13:32.723,"34,55",Sallands Mooiste ,2017-07-02
+48,1168,Nico Langereis,Lettele,100,M,47,00:13:41.120,"34,20",Sallands Mooiste ,2017-07-02
+49,1173,Pim Warntjes,Zwolle,100,M,48,00:13:42.014,"34,16",Sallands Mooiste ,2017-07-02
+50,642,Tom van Dam,Middenmeer,100,M,49,00:13:48.013,"33,91",Sallands Mooiste ,2017-07-02
+51,1518,Ellen-Jane van Straten,Zwolle,100,V,2,00:13:48.250,"33,90",Sallands Mooiste ,2017-07-02
+52,863,Sander Wagenmans,Ommen,100,M,50,00:13:48.670,"33,89",Sallands Mooiste ,2017-07-02
+53,1113,Gert-Jan van Huizen,Vriezenveen,75,M,51,00:13:48.783,"33,88",Sallands Mooiste ,2017-07-02
+54,1490,R Boringa,Heerenveen,140,M,52,00:13:53.690,"33,68",Sallands Mooiste ,2017-07-02
+55,1200,Gert Kramer,Assen,140,M,53,00:13:53.827,"33,68",Sallands Mooiste ,2017-07-02
+56,34,Jeroen Post,Zutphen,100,M,54,00:13:56.110,"33,58",Sallands Mooiste ,2017-07-02
+57,1444,R Zuijderduijn,Nijbroek,100,M,55,00:13:57.959,"33,51",Sallands Mooiste ,2017-07-02
+58,1179,Mark Oude Aarninkhof,Deurningen,100,M,56,00:13:58.614,"33,48",Sallands Mooiste ,2017-07-02
+59,1146,Rob Middelkamp,Zwolle,100,M,57,00:13:59.840,"33,43",Sallands Mooiste ,2017-07-02
+60,854,Frank van Vilsteren,Wijhe,100,M,58,00:14:01.200,"33,38",Sallands Mooiste ,2017-07-02
+61,1494,Albert de Weerd,Warnsveld,75,M,59,00:14:04.294,"33,26",Sallands Mooiste ,2017-07-02
+62,1088,Ton Schuiling,Diepenveen,100,M,60,00:14:05.746,"33,20",Sallands Mooiste ,2017-07-02
+63,1530,Tom Hobert,Haarle,100,M,61,00:14:06.147,"33,19",Sallands Mooiste ,2017-07-02
+64,690,Gerard Hendriks,Ruurlo,140,M,62,00:14:06.410,"33,18",Sallands Mooiste ,2017-07-02
+65,1477,A Jansman,Ommen,100,M,63,00:14:07.699,"33,12",Sallands Mooiste ,2017-07-02
+66,1100,Dolf Brok,Nijverdal,140,M,64,00:14:10.235,"33,03",Sallands Mooiste ,2017-07-02
+67,1098,Rudy Mulhof,Nijverdal,140,M,65,00:14:10.601,"33,01",Sallands Mooiste ,2017-07-02
+68,781,Laris Noordegraaf,Luttenberg,100,V,3,00:14:11.555,"32,97",Sallands Mooiste ,2017-07-02
+69,870,Jacob Wemerman,Apeldoorn,100,M,66,00:14:12.267,"32,95",Sallands Mooiste ,2017-07-02
+70,1229,Marco Dik,Zwolle,100,M,67,00:14:14.054,"32,88",Sallands Mooiste ,2017-07-02
+71,628,Bart Bosch,,100,M,68,00:14:14.904,"32,85",Sallands Mooiste ,2017-07-02
+72,1454,B Hoonhorst,Haarle,100,M,69,00:14:15.049,"32,84",Sallands Mooiste ,2017-07-02
+73,1170,Rene Kroeze,Wierden,75,M,70,00:14:15.228,"32,83",Sallands Mooiste ,2017-07-02
+74,812,Sander Schoorlemmer,Twello,75,M,71,00:14:16.566,"32,78",Sallands Mooiste ,2017-07-02
+75,867,Gerrit Weeren,Arnhem,100,M,72,00:14:18.839,"32,70",Sallands Mooiste ,2017-07-02
+76,1533,Daan Steenkamp,Heerde,75,M,73,00:14:20.209,"32,64",Sallands Mooiste ,2017-07-02
+77,1531,M Berkenbosch,Heerde,75,M,74,00:14:22.381,"32,56",Sallands Mooiste ,2017-07-02
+78,1423,Roel van Dijk,Raalte,100,M,75,00:14:22.569,"32,55",Sallands Mooiste ,2017-07-02
+79,1484,Jansen,Diepenveen,100,M,76,00:14:22.782,"32,55",Sallands Mooiste ,2017-07-02
+80,1478,R Hendriks,Diepenveen,100,M,77,00:14:22.797,"32,55",Sallands Mooiste ,2017-07-02
+81,695,Martin Hoekzema,Emmen,100,M,78,00:14:23.482,"32,52",Sallands Mooiste ,2017-07-02
+82,1183,Abel Schuitema,Odoornerveen,100,M,79,00:14:23.642,"32,51",Sallands Mooiste ,2017-07-02
+83,1414,de Goeij,Raalte,100,M,80,00:14:24.299,"32,49",Sallands Mooiste ,2017-07-02
+84,1099,Bert Roelofs,Lemelerveld,100,M,81,00:14:25.008,"32,46",Sallands Mooiste ,2017-07-02
+85,1437,M Spoolder,Nijverdal,100,M,82,00:14:28.346,"32,34",Sallands Mooiste ,2017-07-02
+86,1489,Bertjan Nijhuis,Holten,75,M,83,00:14:28.441,"32,33",Sallands Mooiste ,2017-07-02
+87,1483,Nico Arfman,Holten,75,M,84,00:14:29.069,"32,31",Sallands Mooiste ,2017-07-02
+88,1488,Ton Steenhuis,Holten,75,M,85,00:14:29.299,"32,30",Sallands Mooiste ,2017-07-02
+89,692,Gert Heslenfeld,Woudenberg,140,M,86,00:14:30.133,"32,27",Sallands Mooiste ,2017-07-02
+90,878,Rutger van Wijk,Enschede,140,M,87,00:14:30.984,"32,24",Sallands Mooiste ,2017-07-02
+91,1152,Martijn Knobben,Haarle,75,M,88,00:14:31.390,"32,22",Sallands Mooiste ,2017-07-02
+92,1428,S. ten Brinke,Raalte,100,M,89,00:14:32.330,"32,19",Sallands Mooiste ,2017-07-02
+93,1410,EC Veldhuis,Hoogeveen,100,M,90,00:14:35.754,"32,06",Sallands Mooiste ,2017-07-02
+94,51,Herald Kottink,Nijverdal,75,M,91,00:14:37.762,"31,99",Sallands Mooiste ,2017-07-02
+95,815,Gerard Schrijver,Raalte,100,M,92,00:14:38.283,"31,97",Sallands Mooiste ,2017-07-02
+96,752,Wilfred Loozeman,Raalte,100,M,93,00:14:38.470,"31,96",Sallands Mooiste ,2017-07-02
+97,841,Rens ten Tusscher,Raalte,75,M,94,00:14:39.335,"31,93",Sallands Mooiste ,2017-07-02
+98,653,Bart Donninger,Zwolle,100,M,95,00:14:39.980,"31,91",Sallands Mooiste ,2017-07-02
+99,1097,Dinand Mannessen,Hellendoorn,140,M,96,00:14:40.330,"31,90",Sallands Mooiste ,2017-07-02
+100,1101,Peter Schulkes,Raalte,100,M,97,00:14:44.967,"31,73",Sallands Mooiste ,2017-07-02
+101,56,Albrecht Baan,Rijssen,75,M,98,00:14:45.875,"31,70",Sallands Mooiste ,2017-07-02
+102,1104,Leo Vollenbroek,Heeten,100,M,99,00:14:46.101,"31,69",Sallands Mooiste ,2017-07-02
+103,661,Joost Eizema,Leeuwarden,140,M,100,00:14:46.857,"31,66",Sallands Mooiste ,2017-07-02
+104,1419,J.M. Bos,Vollenhove,140,M,101,00:14:48.617,"31,60",Sallands Mooiste ,2017-07-02
+105,876,Ronald Wierstra,Hurdegaryp,140,M,102,00:14:49.735,"31,56",Sallands Mooiste ,2017-07-02
+106,1430,,,,,,00:14:50.708,"31,53",Sallands Mooiste ,2017-07-02
+107,1148,Tim Karsten,Nunspeet,100,M,103,00:14:52.097,"31,48",Sallands Mooiste ,2017-07-02
+108,1197,Bart Fleer,Raalte,100,M,104,00:14:52.532,"31,46",Sallands Mooiste ,2017-07-02
+109,1412,Dick Nijenhuis,Raalte,100,M,105,00:14:52.544,"31,46",Sallands Mooiste ,2017-07-02
+110,637,Joost Bruggeman,Raalte,100,M,106,00:14:53.153,"31,44",Sallands Mooiste ,2017-07-02
+111,31,Maurice Tijs,Raalte,100,M,107,00:14:53.369,"31,43",Sallands Mooiste ,2017-07-02
+112,1196,Michel Varkevisser,Lelystad,140,M,108,00:14:53.392,"31,43",Sallands Mooiste ,2017-07-02
+113,813,Rob Schoot Uiterkamp,Deventer,75,M,109,00:14:54.919,"31,38",Sallands Mooiste ,2017-07-02
+114,32,Jurgen Reimert,Raalte,100,M,110,00:14:56.037,"31,34",Sallands Mooiste ,2017-07-02
+115,1130,Jelte Pieterman,Hengelo,100,M,111,00:14:59.122,"31,23",Sallands Mooiste ,2017-07-02
+116,1177,Luuc Bourgonje,Eerbeek,140,M,112,00:14:59.960,"31,20",Sallands Mooiste ,2017-07-02
+117,714,Jeroen Jacobs,Amsterdam,140,M,113,00:15:00.236,"31,19",Sallands Mooiste ,2017-07-02
+118,790,Bart Reijnders,Groningen,100,M,114,00:15:00.311,"31,19",Sallands Mooiste ,2017-07-02
+119,1137,Jan Kappert,Broekland,75,M,115,00:15:00.857,"31,17",Sallands Mooiste ,2017-07-02
+120,1135,Cindy Lammertink,Hengelo,100,V,4,00:15:01.022,"31,16",Sallands Mooiste ,2017-07-02
+121,1198,Otto Knappmann,Lelystad,140,M,116,00:15:01.251,"31,16",Sallands Mooiste ,2017-07-02
+122,862,David Wagemaker,Amsterdam,140,M,117,00:15:01.722,"31,14",Sallands Mooiste ,2017-07-02
+123,831,Henk Stevens,Holten,100,M,118,00:15:01.825,"31,14",Sallands Mooiste ,2017-07-02
+124,1094,Bart van Geenen,Ulft,140,M,119,00:15:02.980,"31,10",Sallands Mooiste ,2017-07-02
+125,1176,Henk-Jan Velthoen,Beekbergen,140,M,120,00:15:03.299,"31,09",Sallands Mooiste ,2017-07-02
+126,676,Dinant Getkate,Enter,140,M,121,00:15:03.907,"31,07",Sallands Mooiste ,2017-07-02
+127,1178,,,140,,,00:15:04.009,"31,06",Sallands Mooiste ,2017-07-02
+128,1219,Schutte,Raalte,75,M,122,00:15:06.358,"30,98",Sallands Mooiste ,2017-07-02
+129,1140,Joost Mekenkamp,Borne,100,M,123,00:15:06.868,"30,96",Sallands Mooiste ,2017-07-02
+130,1210,Anton Hofstede,Raalte,75,M,124,00:15:07.082,"30,96",Sallands Mooiste ,2017-07-02
+131,826,Maarten Stadhouders,Diepenveen,100,M,125,00:15:07.628,"30,94",Sallands Mooiste ,2017-07-02
+132,1482,H. Jonkman,Haarle,100,M,126,00:15:07.684,"30,94",Sallands Mooiste ,2017-07-02
+133,616,Rob Berends,Dalen,100,M,127,00:15:07.991,"30,93",Sallands Mooiste ,2017-07-02
+134,833,Doortje Swaters,,100,V,5,00:15:09.332,"30,88",Sallands Mooiste ,2017-07-02
+135,693,Walter Heuver,Koningsweg 11,100,M,128,00:15:09.520,"30,87",Sallands Mooiste ,2017-07-02
+136,787,Ineke van Pijkeren,,140,V,6,00:15:11.518,"30,81",Sallands Mooiste ,2017-07-02
+137,621,Gerhard Blomsma,Oosterwolde,140,M,129,00:15:11.544,"30,80",Sallands Mooiste ,2017-07-02
+138,778,René Nijkamp,Vriezenveen,100,M,130,00:15:11.632,"30,80",Sallands Mooiste ,2017-07-02
+139,846,Wouter van Veldhuizen,Scherpenzeel,140,M,131,00:15:12.630,"30,77",Sallands Mooiste ,2017-07-02
+140,1471,Jeroen Klunder,Arrien,100,M,132,00:15:12.908,"30,76",Sallands Mooiste ,2017-07-02
+141,814,Raymond Schrijver,Raalte,100,M,133,00:15:13.436,"30,74",Sallands Mooiste ,2017-07-02
+142,1472,Henri Timmerman,Ommen,100,M,134,00:15:13.453,"30,74",Sallands Mooiste ,2017-07-02
+143,1852,,,140,,,00:15:13.522,"30,74",Sallands Mooiste ,2017-07-02
+144,1446,Harrie Bloo,Raalte,75,M,135,00:15:14.090,"30,72",Sallands Mooiste ,2017-07-02
+145,1159,Hollewand,Raalte,75,M,136,00:15:15.019,"30,69",Sallands Mooiste ,2017-07-02
+146,1538,Jan Willem Rozema,Almelo,100,M,137,00:15:16.118,"30,65",Sallands Mooiste ,2017-07-02
+147,1147,Cora van Leeuwen,Nunspeet,100,V,7,00:15:16.146,"30,65",Sallands Mooiste ,2017-07-02
+148,855,Ellen van Vilsteren,Wijhe,100,V,8,00:15:16.640,"30,63",Sallands Mooiste ,2017-07-02
+149,1223,Sander Brouwer,Wierden,100,M,138,00:15:16.985,"30,62",Sallands Mooiste ,2017-07-02
+150,793,Arjan Reinders,Borne,100,M,139,00:15:17.518,"30,60",Sallands Mooiste ,2017-07-02
+151,1231,Gijs van Dam,Amsterdam,100,M,140,00:15:18.861,"30,56",Sallands Mooiste ,2017-07-02
+152,850,Peter Venneman,Raalte,140,M,141,00:15:19.374,"30,54",Sallands Mooiste ,2017-07-02
+153,1546,Kurt de Wijer,Amsterdam,100,M,142,00:15:19.384,"30,54",Sallands Mooiste ,2017-07-02
+154,1167,Tom Wiggers,Lettele,100,M,143,00:15:23.192,"30,42",Sallands Mooiste ,2017-07-02
+155,1481,M te Rijdt,Zwolle,100,V,9,00:15:23.590,"30,40",Sallands Mooiste ,2017-07-02
+156,735,Wessel Kremer,Amersfoort,140,M,144,00:15:25.068,"30,35",Sallands Mooiste ,2017-07-02
+157,1455,Harm Robben,Utrecht,75,M,145,00:15:25.700,"30,33",Sallands Mooiste ,2017-07-02
+158,685,Geke van Haar,Woudenberg,140,V,10,00:15:28.616,"30,24",Sallands Mooiste ,2017-07-02
+159,684,Jan van de Haar,Woudenberg,140,M,146,00:15:28.824,"30,23",Sallands Mooiste ,2017-07-02
+160,1529,Mark Westenenk,Haarle,100,M,147,00:15:30.302,"30,18",Sallands Mooiste ,2017-07-02
+161,1449,Hegeman,Nijverdal,75,M,148,00:15:30.555,"30,18",Sallands Mooiste ,2017-07-02
+162,1473,Pluym,Wierden,75,M,149,00:15:30.635,"30,17",Sallands Mooiste ,2017-07-02
+163,1164,Roland Koerhuis,Raalte,100,M,150,00:15:32.635,"30,11",Sallands Mooiste ,2017-07-02
+164,1459,Wijnand v/d Berg,Schoonrewoerd,140,M,151,00:15:33.844,"30,07",Sallands Mooiste ,2017-07-02
+165,1461,T v/d Ham,Zijderveld,140,M,152,00:15:34.456,"30,05",Sallands Mooiste ,2017-07-02
+166,1460,Joris van Schaik,Kamrik,140,M,153,00:15:34.672,"30,04",Sallands Mooiste ,2017-07-02
+167,1150,Wim Horsthuis,Enschede,75,M,154,00:15:34.862,"30,04",Sallands Mooiste ,2017-07-02
+168,828,Leon Stam,Nieuwerkerk Aan Den IJssel,100,M,155,00:15:36.162,"29,99",Sallands Mooiste ,2017-07-02
+169,1189,Rob Baars,Hengelo,100,M,156,00:15:36.381,"29,99",Sallands Mooiste ,2017-07-02
+170,745,Patrick de Leeuw,Meppel,100,M,157,00:15:36.551,"29,98",Sallands Mooiste ,2017-07-02
+171,1095,Wouter Versteeg,Nijverdal,140,M,158,00:15:39.157,"29,90",Sallands Mooiste ,2017-07-02
+172,835,Jeroen Tibben,Zwolle,140,M,159,00:15:39.613,"29,88",Sallands Mooiste ,2017-07-02
+173,1429,Roy van Egmond,Raalte,100,M,160,00:15:41.794,"29,82",Sallands Mooiste ,2017-07-02
+174,740,Bert van Laar,,75,M,161,00:15:42.065,"29,81",Sallands Mooiste ,2017-07-02
+175,780,Egbert Nijzing,Dalfsen,140,M,162,00:15:42.603,"29,79",Sallands Mooiste ,2017-07-02
+176,1508,Hofmeijer,Almelo,75,M,163,00:15:42.906,"29,78",Sallands Mooiste ,2017-07-02
+177,672,Ronald Geerts,Gouda,100,M,164,00:15:43.515,"29,76",Sallands Mooiste ,2017-07-02
+178,1215,Martin Meijer,Almelo,75,M,165,00:15:43.620,"29,76",Sallands Mooiste ,2017-07-02
+179,1182,Erik Bisschop,Heeten,100,M,166,00:15:43.961,"29,75",Sallands Mooiste ,2017-07-02
+180,1230,Frank Berting,Hoogeveen,75,M,167,00:15:48.111,"29,62",Sallands Mooiste ,2017-07-02
+181,670,Marijn Fransen,,140,V,11,00:15:48.412,"29,61",Sallands Mooiste ,2017-07-02
+182,1456,Alette Boersen,Utrecht,75,V,12,00:15:48.518,"29,60",Sallands Mooiste ,2017-07-02
+183,1154,Hans Broeksteeg,Winde,75,M,168,00:15:49.948,"29,56",Sallands Mooiste ,2017-07-02
+184,1169,Peter Heijink,Wierden,75,M,169,00:15:50.595,"29,54",Sallands Mooiste ,2017-07-02
+185,1466,Jeroen Machielsen,Nijverdal,140,M,170,00:15:51.017,"29,53",Sallands Mooiste ,2017-07-02
+186,1448,Olaf Nijenkamp,Raalte,100,M,171,00:15:52.505,"29,48",Sallands Mooiste ,2017-07-02
+187,1435,R Bannink,Lochem,100,M,172,00:15:52.874,"29,47",Sallands Mooiste ,2017-07-02
+188,26,Max Willekens,,140,M,173,00:15:53.783,"29,44",Sallands Mooiste ,2017-07-02
+189,691,Simon te Hennepe,Apeldoorn,100,M,174,00:15:59.506,"29,27",Sallands Mooiste ,2017-07-02
+190,1165,,,100,,,00:16:01.041,"29,22",Sallands Mooiste ,2017-07-02
+191,1180,Wicher Jansen,Westerhaar,140,M,175,00:16:01.682,"29,20",Sallands Mooiste ,2017-07-02
+192,1416,Henk v/d Kolk,Lemelerveld,100,M,176,00:16:01.994,"29,19",Sallands Mooiste ,2017-07-02
+193,800,Marcel Roeterdink,Almere,140,M,177,00:16:04.481,"29,11",Sallands Mooiste ,2017-07-02
+194,1218,Hans Hansen,Nijverdal,100,M,178,00:16:04.564,"29,11",Sallands Mooiste ,2017-07-02
+195,1470,Jan Spikker,Lettele,100,M,179,00:16:04.738,"29,11",Sallands Mooiste ,2017-07-02
+196,1131,Maria Ruiter,Heeten,75,V,13,00:16:05.934,"29,07",Sallands Mooiste ,2017-07-02
+197,631,Jack Bossaert,,140,M,180,00:16:06.757,"29,05",Sallands Mooiste ,2017-07-02
+198,1457,Rob Hoonhorst,Haarle,100,M,181,00:16:08.739,"28,99",Sallands Mooiste ,2017-07-02
+199,677,Pieter van Ginkel,,75,M,182,00:16:09.927,"28,95",Sallands Mooiste ,2017-07-02
+200,766,Henk Möhlmann,Emmen,100,M,183,00:16:09.944,"28,95",Sallands Mooiste ,2017-07-02
+201,1122,Annemarie van Wolfswinkel,Apeldoorn,140,V,14,00:16:11.998,"28,89",Sallands Mooiste ,2017-07-02
+202,1114,v.d. Hoorn,Barneveld,140,M,184,00:16:12.380,"28,88",Sallands Mooiste ,2017-07-02
+203,859,Sandra de Vries,Enschede,100,V,15,00:16:12.769,"28,87",Sallands Mooiste ,2017-07-02
+204,1497,Heuven,Luttenberg,75,M,185,00:16:13.012,"28,86",Sallands Mooiste ,2017-07-02
+205,1209,Rene Sturing,Nijverdal,75,M,186,00:16:13.283,"28,85",Sallands Mooiste ,2017-07-02
+206,858,Jörgen de Vries,Enschede,100,M,187,00:16:13.558,"28,84",Sallands Mooiste ,2017-07-02
+207,657,Joost Duivenvoorden,Haarlem,100,M,188,00:16:16.836,"28,75",Sallands Mooiste ,2017-07-02
+208,729,Joke Klink,Raalte,100,V,16,00:16:17.659,"28,72",Sallands Mooiste ,2017-07-02
+209,1116,Viscaal,Raalte,100,V,17,00:16:17.843,"28,72",Sallands Mooiste ,2017-07-02
+210,1188,Maarten van Manen,Nijverdal,100,M,189,00:16:18.436,"28,70",Sallands Mooiste ,2017-07-02
+211,622,Bloupot Bloupot,Hoogezand,75,M,190,00:16:20.868,"28,63",Sallands Mooiste ,2017-07-02
+212,1115,Judith Hulsman,Lemelerveld,100,V,18,00:16:20.901,"28,63",Sallands Mooiste ,2017-07-02
+213,1424,Helma Tielbeke,Lemelerveld,100,V,19,00:16:20.994,"28,62",Sallands Mooiste ,2017-07-02
+214,861,Wieger Waardenburg,Gouda,100,M,191,00:16:21.992,"28,59",Sallands Mooiste ,2017-07-02
+215,627,Daniel Bos,Bedum,75,M,192,00:16:22.228,"28,59",Sallands Mooiste ,2017-07-02
+216,1141,,,140,,,00:16:22.985,"28,57",Sallands Mooiste ,2017-07-02
+217,1458,Jan Nije Bijvank,Nijverdal,100,M,193,00:16:23.027,"28,56",Sallands Mooiste ,2017-07-02
+218,860,Meindert Jan Waardenburg,Zwolle,100,M,194,00:16:23.052,"28,56",Sallands Mooiste ,2017-07-02
+219,754,Jeroen Louwinger,Veendam,140,M,195,00:16:23.186,"28,56",Sallands Mooiste ,2017-07-02
+220,1151,Jeroen Ruiter,Nijverdal,100,M,196,00:16:23.718,"28,54",Sallands Mooiste ,2017-07-02
+221,1166,Ed Nije Bijvank,Holten,100,M,197,00:16:23.891,"28,54",Sallands Mooiste ,2017-07-02
+222,658,Francis Duteweerd,,100,V,20,00:16:27.375,"28,44",Sallands Mooiste ,2017-07-02
+223,1465,Wilco Jannink,Wierden,75,M,198,00:16:28.783,"28,40",Sallands Mooiste ,2017-07-02
+224,1081,van der Weegh,Raalte,100,M,199,00:16:30.045,"28,36",Sallands Mooiste ,2017-07-02
+225,689,Herwig Hendriks,Raalte,100,M,200,00:16:30.048,"28,36",Sallands Mooiste ,2017-07-02
+226,1089,Mulder,Raalte,100,M,201,00:16:30.614,"28,35",Sallands Mooiste ,2017-07-02
+227,1085,Jan Dijkstra,Raalte,100,M,202,00:16:30.670,"28,34",Sallands Mooiste ,2017-07-02
+228,1420,T ten Tusscher,Raalte,100,M,203,00:16:31.502,"28,32",Sallands Mooiste ,2017-07-02
+229,629,Els Bosch,Utrecht,100,V,21,00:16:31.508,"28,32",Sallands Mooiste ,2017-07-02
+230,1096,Jos Schillings,Raalte,100,M,204,00:16:31.572,"28,32",Sallands Mooiste ,2017-07-02
+231,1102,Patrick Hendriks,Raalte,100,M,205,00:16:31.700,"28,32",Sallands Mooiste ,2017-07-02
+232,1499,Tim v/d Assen,Wateringen,100,M,206,00:16:31.792,"28,31",Sallands Mooiste ,2017-07-02
+233,1119,Ben Nijboer,Raalte,75,M,207,00:16:31.935,"28,31",Sallands Mooiste ,2017-07-02
+234,1086,Plattel,Raalte,100,M,208,00:16:32.163,"28,30",Sallands Mooiste ,2017-07-02
+235,1110,Ted Kemper,Raalte,100,M,209,00:16:33.321,"28,27",Sallands Mooiste ,2017-07-02
+236,1132,Hein Hollegien,Heeten,75,M,210,00:16:34.001,"28,25",Sallands Mooiste ,2017-07-02
+237,1103,Laurens Buiting,Raalte,100,M,211,00:16:34.418,"28,24",Sallands Mooiste ,2017-07-02
+238,1516,Derksen,Hellendoorn,75,M,212,00:16:36.185,"28,19",Sallands Mooiste ,2017-07-02
+239,1504,H. in 't Hof,Schalkhaar,75,M,213,00:16:36.291,"28,18",Sallands Mooiste ,2017-07-02
+240,1520,F Hendriks,Hellendoorn,75,M,214,00:16:36.356,"28,18",Sallands Mooiste ,2017-07-02
+241,1193,Betty Groen,'T Harde,140,V,22,00:16:37.335,"28,16",Sallands Mooiste ,2017-07-02
+242,824,Jeroen Sprang,Meteren,75,M,215,00:16:37.769,"28,14",Sallands Mooiste ,2017-07-02
+243,839,Mark Tolboom,Amersfoort,100,M,216,00:16:38.248,"28,13",Sallands Mooiste ,2017-07-02
+244,807,Dennis Schiermann,Amersfoort,100,M,217,00:16:39.253,"28,10",Sallands Mooiste ,2017-07-02
+245,756,Tijmen Maas Geesteranus,Amersfoort,100,M,218,00:16:39.716,"28,09",Sallands Mooiste ,2017-07-02
+246,1220,Rodijk,Nijverdal,100,M,219,00:16:40.279,"28,07",Sallands Mooiste ,2017-07-02
+247,1093,Maartje Verhagen,Deventer,140,V,23,00:16:40.686,"28,06",Sallands Mooiste ,2017-07-02
+248,1192,Jan Broekhuis,Hengelo,100,M,220,00:16:40.747,"28,06",Sallands Mooiste ,2017-07-02
+249,1221,Carolien Rodijk,Nijverdal,100,V,24,00:16:41.012,"28,05",Sallands Mooiste ,2017-07-02
+250,1207,Laurien Flohil,Voorburg,100,V,25,00:16:42.128,"28,02",Sallands Mooiste ,2017-07-02
+251,1109,August Holtmaat,Mariënheem,140,M,221,00:16:43.352,"27,99",Sallands Mooiste ,2017-07-02
+252,838,Roberto Todde,Arnhem,100,M,222,00:16:44.062,"27,97",Sallands Mooiste ,2017-07-02
+253,1194,Judith ten Cate,Enschede,75,V,26,00:16:44.159,"27,96",Sallands Mooiste ,2017-07-02
+254,771,Leon Muller,Dedemsvaart,100,M,223,00:16:45.885,"27,92",Sallands Mooiste ,2017-07-02
+255,836,Ben Tielbeek,Raalte,100,M,224,00:16:46.508,"27,90",Sallands Mooiste ,2017-07-02
+256,1476,K ten Berge,Ommen,100,M,225,00:16:46.556,"27,90",Sallands Mooiste ,2017-07-02
+257,1217,Frans Doorn,Hasselt,100,M,226,00:16:46.631,"27,90",Sallands Mooiste ,2017-07-02
+258,706,Aldrik in 't Hout,Voorburg,100,M,227,00:16:46.871,"27,89",Sallands Mooiste ,2017-07-02
+259,1462,Roel de Vries,Almelo,75,M,228,00:16:50.244,"27,80",Sallands Mooiste ,2017-07-02
+260,852,Sander Verheij,Nijverdal,100,M,229,00:16:51.677,"27,76",Sallands Mooiste ,2017-07-02
+261,710,Rudy Hulsink,,100,M,230,00:16:52.292,"27,74",Sallands Mooiste ,2017-07-02
+262,821,Marcel Smit,,100,M,231,00:16:52.370,"27,74",Sallands Mooiste ,2017-07-02
+263,1519,Wim Ligtenberg,Nijverdal,75,M,232,00:16:52.380,"27,74",Sallands Mooiste ,2017-07-02
+264,792,Wim Reimert,Dalmsholte,100,M,233,00:16:53.140,"27,72",Sallands Mooiste ,2017-07-02
+265,709,Frank Huijsmans,,75,M,234,00:16:53.250,"27,71",Sallands Mooiste ,2017-07-02
+266,732,Rohald Koenjer,,75,M,235,00:16:53.706,"27,70",Sallands Mooiste ,2017-07-02
+267,1426,Cor Ton,Waskemeer,140,M,236,00:16:53.743,"27,70",Sallands Mooiste ,2017-07-02
+268,1425,Iris Ton,Waskemeer,140,V,27,00:16:53.815,"27,70",Sallands Mooiste ,2017-07-02
+269,1491,Johan Braakman,Den Ham,75,M,237,00:16:53.842,"27,70",Sallands Mooiste ,2017-07-02
+270,1205,René Remmink,Den Ham,75,M,238,00:16:53.879,"27,70",Sallands Mooiste ,2017-07-02
+271,820,Willem Simons,Lemelerveld,100,M,239,00:16:54.678,"27,67",Sallands Mooiste ,2017-07-02
+272,1139,Herman Mekenkamp,Albergen,100,M,240,00:16:55.100,"27,66",Sallands Mooiste ,2017-07-02
+273,1202,Rita Visschedijk-Schuurman,Gronau,75,V,28,00:16:55.532,"27,65",Sallands Mooiste ,2017-07-02
+274,1143,Gerrit Hoek,Almelo,100,M,241,00:16:58.439,"27,57",Sallands Mooiste ,2017-07-02
+275,1142,Hoek,Almelo,100,V,29,00:16:59.298,"27,55",Sallands Mooiste ,2017-07-02
+276,1149,Jan Goossink,Oldenzaal,75,M,242,00:17:00.281,"27,52",Sallands Mooiste ,2017-07-02
+277,827,Hennie Stam,Nieuwerkerk Aan Den IJssel,100,V,30,00:17:01.587,"27,49",Sallands Mooiste ,2017-07-02
+278,1417,Gerard v/d Vegte,Raalte,100,M,243,00:17:03.811,"27,43",Sallands Mooiste ,2017-07-02
+279,818,Marlous Siemelink-Amse,Diepenveen,100,V,31,00:17:04.377,"27,41",Sallands Mooiste ,2017-07-02
+280,1512,Mireille Janssen,Raalte,75,V,32,00:17:05.117,"27,39",Sallands Mooiste ,2017-07-02
+281,1536,M Bolster,Haaksbergen,75,M,244,00:17:05.500,"27,38",Sallands Mooiste ,2017-07-02
+282,14,Ad Vermolen,,100,M,245,00:17:05.671,"27,38",Sallands Mooiste ,2017-07-02
+283,1511,Frank Hofstede,Raalte,75,M,246,00:17:05.836,"27,37",Sallands Mooiste ,2017-07-02
+284,1440,Kortstee,,100,M,247,00:17:05.981,"27,37",Sallands Mooiste ,2017-07-02
+285,15,Arno van Dijk,,100,M,248,00:17:06.424,"27,36",Sallands Mooiste ,2017-07-02
+286,1439,Frank Kappert,Luttenberg,100,M,249,00:17:06.779,"27,35",Sallands Mooiste ,2017-07-02
+287,1438,Marcel Veldkamp,Luttenberg,100,M,250,00:17:07.028,"27,34",Sallands Mooiste ,2017-07-02
+288,1442,Udo Vloedgraven,Luttenberg,100,M,251,00:17:07.376,"27,33",Sallands Mooiste ,2017-07-02
+289,1443,Roy Schoorlemmer,Luttenberg,100,M,252,00:17:07.580,"27,33",Sallands Mooiste ,2017-07-02
+290,1163,van Leeuwen,Goor,100,M,253,00:17:07.770,"27,32",Sallands Mooiste ,2017-07-02
+291,1445,R Koster,Goor,100,M,254,00:17:08.086,"27,31",Sallands Mooiste ,2017-07-02
+292,1157,Eddy Temmink,Luttenberg,100,M,255,00:17:08.551,"27,30",Sallands Mooiste ,2017-07-02
+293,1160,Voorhorst,Raalte,75,M,256,00:17:08.678,"27,30",Sallands Mooiste ,2017-07-02
+294,881,Mareijn Willems,Amsterdam,100,M,257,00:17:09.081,"27,29",Sallands Mooiste ,2017-07-02
+295,761,Jan Peter Meijer,Lekkum,75,M,258,00:17:11.983,"27,21",Sallands Mooiste ,2017-07-02
+296,760,Richard Meijer,Leeuwarden,75,M,259,00:17:12.235,"27,20",Sallands Mooiste ,2017-07-02
+297,1544,Bas Marqering,Zwolle,100,M,260,00:17:14.358,"27,15",Sallands Mooiste ,2017-07-02
+298,751,Grielof Linde,Zwolle,100,M,261,00:17:14.586,"27,14",Sallands Mooiste ,2017-07-02
+299,1082,Gerard de Poel,Kollum,100,M,262,00:17:14.677,"27,14",Sallands Mooiste ,2017-07-02
+300,1153,Henri Kok,Gasteren,75,M,263,00:17:16.591,"27,09",Sallands Mooiste ,2017-07-02
+301,819,Ron Sieraad,Emmen,100,M,264,00:17:17.173,"27,07",Sallands Mooiste ,2017-07-02
+302,651,Jan van Domselaar,,75,M,265,00:17:19.121,"27,02",Sallands Mooiste ,2017-07-02
+303,1441,Ed Roos,Nieuw Leusen,75,M,266,00:17:22.135,"26,94",Sallands Mooiste ,2017-07-02
+304,1475,Albert ten Have,Zutphen,75,M,267,00:17:22.762,"26,93",Sallands Mooiste ,2017-07-02
+305,817,Jan Schumaat,Daarle,75,M,268,00:17:22.967,"26,92",Sallands Mooiste ,2017-07-02
+306,759,Elvire Mastboom,Utrecht,100,M,269,00:17:23.174,"26,92",Sallands Mooiste ,2017-07-02
+307,652,Marius van Donkelaar,Emmen,100,M,270,00:17:23.242,"26,92",Sallands Mooiste ,2017-07-02
+308,1422,A Horsman,Nijverdal,100,M,271,00:17:27.405,"26,81",Sallands Mooiste ,2017-07-02
+309,769,Andries Mulderij,,75,M,272,00:17:28.564,"26,78",Sallands Mooiste ,2017-07-02
+310,734,Paul van de Koot,Barneveld,75,M,273,00:17:29.451,"26,76",Sallands Mooiste ,2017-07-02
+311,891,Sanne Woudsma,Lemelerveld,75,V,33,00:17:30.279,"26,74",Sallands Mooiste ,2017-07-02
+312,1208,Esther Van Der Kolff,Wateringen,100,V,34,00:17:30.358,"26,73",Sallands Mooiste ,2017-07-02
+313,686,Joris Hanewinkel,Dalfsen,140,M,274,00:17:31.998,"26,69",Sallands Mooiste ,2017-07-02
+314,1106,Jan Morrenhof,Lemelerveld,100,M,275,00:17:32.156,"26,69",Sallands Mooiste ,2017-07-02
+315,1108,Henk Jan Endeman,Dalmsholte,100,M,276,00:17:32.672,"26,67",Sallands Mooiste ,2017-07-02
+316,1535,Veldman,Hellendoorn,75,M,277,00:17:33.148,"26,66",Sallands Mooiste ,2017-07-02
+317,1228,Bert Welink,Hellendoorn,75,M,278,00:17:33.661,"26,65",Sallands Mooiste ,2017-07-02
+318,1450,Gerrit Claessen,Nijverdal,75,M,279,00:17:33.964,"26,64",Sallands Mooiste ,2017-07-02
+319,731,Edgar Knol,Giethoorn,140,M,280,00:17:34.736,"26,62",Sallands Mooiste ,2017-07-02
+320,668,Niek Fransen,,140,M,281,00:17:38.253,"26,53",Sallands Mooiste ,2017-07-02
+321,773,Edwin Nab,Raalte,75,M,282,00:17:38.761,"26,52",Sallands Mooiste ,2017-07-02
+322,742,Ramon Lambert,Alkmaar,75,M,283,00:17:42.986,"26,42",Sallands Mooiste ,2017-07-02
+323,720,Dennis Kamphuis,Oldenzaal,75,M,284,00:17:43.679,"26,40",Sallands Mooiste ,2017-07-02
+324,704,Paul Hoonhorst,Haarle,100,M,285,00:17:45.291,"26,36",Sallands Mooiste ,2017-07-02
+325,718,José de Jonge,Vroomshoop,75,V,35,00:17:46.168,"26,34",Sallands Mooiste ,2017-07-02
+326,765,Janine Moes,Vroomshoop,75,V,36,00:17:46.337,"26,33",Sallands Mooiste ,2017-07-02
+327,1201,Antoinet Huisman,Enschede,75,V,37,00:17:46.650,"26,33",Sallands Mooiste ,2017-07-02
+328,789,Marleen Raterink,,75,V,38,00:17:50.690,"26,23",Sallands Mooiste ,2017-07-02
+329,796,Willemijn van Rijt,Groningen,100,V,39,00:17:51.592,"26,20",Sallands Mooiste ,2017-07-02
+330,1185,Aniek Harke,Nieuwleusen,75,V,40,00:17:53.133,"26,17",Sallands Mooiste ,2017-07-02
+331,681,Gerwin de Groot,,100,M,286,00:17:53.256,"26,16",Sallands Mooiste ,2017-07-02
+332,1184,Janneke Paasman,Nieuwleusen,75,V,41,00:17:53.315,"26,16",Sallands Mooiste ,2017-07-02
+333,1195,Annelies de Kok,Enschede,75,V,42,00:17:57.438,"26,06",Sallands Mooiste ,2017-07-02
+334,746,Bram van Leeuwen,Zwolle,75,M,287,00:17:57.638,"26,06",Sallands Mooiste ,2017-07-02
+335,837,Martine Tijs,Luttenberg,75,V,43,00:17:57.728,"26,05",Sallands Mooiste ,2017-07-02
+336,851,Dorine Verboom,,75,V,44,00:17:58.502,"26,04",Sallands Mooiste ,2017-07-02
+337,782,Bertine Olthof,Vroomshoop,75,V,45,00:17:59.173,"26,02",Sallands Mooiste ,2017-07-02
+338,1186,Roel Harke,Nieuwleusen,75,M,288,00:18:03.105,"25,93",Sallands Mooiste ,2017-07-02
+339,848,Robert Vels,,100,M,289,00:18:07.105,"25,83",Sallands Mooiste ,2017-07-02
+340,803,Mathijs Ronner,Nijverdal,100,M,290,00:18:07.187,"25,83",Sallands Mooiste ,2017-07-02
+341,1495,W Klein Gumossel,Beltrum,75,V,46,00:18:07.359,"25,82",Sallands Mooiste ,2017-07-02
+342,1524,Matthijs van der Kaaij,Emmen,100,M,291,00:18:08.060,"25,81",Sallands Mooiste ,2017-07-02
+343,649,Ron Dobbelaar,,100,M,292,00:18:08.179,"25,80",Sallands Mooiste ,2017-07-02
+344,842,Chris Vedder,,100,M,293,00:18:08.535,"25,80",Sallands Mooiste ,2017-07-02
+345,753,Leo Louwinger,Veendam,140,M,294,00:18:08.914,"25,79",Sallands Mooiste ,2017-07-02
+346,844,Maud Vedder,,100,V,47,00:18:09.102,"25,78",Sallands Mooiste ,2017-07-02
+347,36,Max Veldhuizen,Raalte,100,M,295,00:18:10.414,"25,75",Sallands Mooiste ,2017-07-02
+348,35,Sem Heethaar,Lemelerveld,100,M,296,00:18:11.105,"25,74",Sallands Mooiste ,2017-07-02
+349,1213,Rob Hegeman,Nijverdal,100,M,297,00:18:11.545,"25,73",Sallands Mooiste ,2017-07-02
+350,30,Joost Koolhof,Raalte,100,M,298,00:18:11.609,"25,72",Sallands Mooiste ,2017-07-02
+351,38,Rob Veldhuis,Luttenberg,100,M,299,00:18:11.722,"25,72",Sallands Mooiste ,2017-07-02
+352,50,Johan Middelkamp,Haarle,75,M,300,00:18:12.997,"25,69",Sallands Mooiste ,2017-07-02
+353,1451,Niek Dijkstra,Nijverdal,75,M,301,00:18:13.187,"25,69",Sallands Mooiste ,2017-07-02
+354,843,Theo Vedder,,100,M,302,00:18:13.505,"25,68",Sallands Mooiste ,2017-07-02
+355,1501,Alja Buseman,Kilder,100,V,48,00:18:13.553,"25,68",Sallands Mooiste ,2017-07-02
+356,1175,Willie Fikken,Heerde,140,M,303,00:18:14.626,"25,65",Sallands Mooiste ,2017-07-02
+357,1174,Gerlinde Niens,Heerde,140,V,49,00:18:14.767,"25,65",Sallands Mooiste ,2017-07-02
+358,52,Alwi Knobben,Haarle,75,M,304,00:18:15.042,"25,64",Sallands Mooiste ,2017-07-02
+359,1498,Patrick v/d Assen,Rijswijk,100,M,305,00:18:15.257,"25,64",Sallands Mooiste ,2017-07-02
+360,1506,van Buren,Nijverdal,75,M,306,00:18:17.085,"25,60",Sallands Mooiste ,2017-07-02
+361,770,Jeroen Mulderij,Apeldoorn,75,M,307,00:18:17.472,"25,59",Sallands Mooiste ,2017-07-02
+362,1123,Arnoud Rozendaal,Apeldoorn,140,M,308,00:18:19.686,"25,53",Sallands Mooiste ,2017-07-02
+363,779,Ewoud Nijkamp,Vriezenveen,140,M,309,00:18:20.351,"25,52",Sallands Mooiste ,2017-07-02
+364,715,Anne Jager,Schalkhaar,75,M,310,00:18:21.060,"25,50",Sallands Mooiste ,2017-07-02
+365,2086,Jorik Klein,Schalkhaar,75,M,311,00:18:22.072,"25,48",Sallands Mooiste ,2017-07-02
+366,1161,Henk Robben,Wierden,75,M,312,00:18:22.484,"25,47",Sallands Mooiste ,2017-07-02
+367,705,Huub Hoonhorst,Haarle,100,M,313,00:18:22.910,"25,46",Sallands Mooiste ,2017-07-02
+368,699,Petra Hollander,IJsselmuiden,100,V,50,00:18:23.938,"25,44",Sallands Mooiste ,2017-07-02
+369,832,Jacqueline Swart,IJsselmuiden,100,V,51,00:18:25.109,"25,41",Sallands Mooiste ,2017-07-02
+370,665,Ellis Fleer,Luttenberg,100,V,52,00:18:25.429,"25,40",Sallands Mooiste ,2017-07-02
+371,722,Jeanine Kappert,Luttenberg,100,V,53,00:18:25.434,"25,40",Sallands Mooiste ,2017-07-02
+372,1485,J v/d Bergh,Nieuw Leusen,75,M,314,00:18:25.597,"25,40",Sallands Mooiste ,2017-07-02
+373,39,Stefan Mijsters,Haarle,100,M,315,00:18:26.230,"25,38",Sallands Mooiste ,2017-07-02
+374,736,Rianne Kromhout,Rijnsburg,75,V,54,00:18:28.603,"25,33",Sallands Mooiste ,2017-07-02
+375,667,Theo Fokkema,,75,M,316,00:18:29.389,"25,31",Sallands Mooiste ,2017-07-02
+376,1537,Reinhard Braakman,Nijverdal,75,M,317,00:18:31.178,"25,27",Sallands Mooiste ,2017-07-02
+377,1126,Wim-Paul Donkers,Harderwijk,140,M,318,00:18:33.744,"25,21",Sallands Mooiste ,2017-07-02
+378,611,Andre Assink,Raalte,75,M,319,00:18:33.824,"25,21",Sallands Mooiste ,2017-07-02
+379,1502,Hjalmar de Ruiter,Wehl,100,M,320,00:18:34.260,"25,20",Sallands Mooiste ,2017-07-02
+380,758,Wesley Masman,Haarle,75,M,321,00:18:34.291,"25,20",Sallands Mooiste ,2017-07-02
+381,673,Mitchell Geerts,Gouda,100,M,322,00:18:34.337,"25,20",Sallands Mooiste ,2017-07-02
+382,725,Jeroen Kelderman,,75,M,323,00:18:37.820,"25,12",Sallands Mooiste ,2017-07-02
+383,834,Mats Tavenier,,75,M,324,00:18:38.078,"25,11",Sallands Mooiste ,2017-07-02
+384,1203,Marrianne van den Berg,Enschede,75,V,55,00:18:38.934,"25,10",Sallands Mooiste ,2017-07-02
+385,688,Joost Hemeltjen,Wijhe,75,M,325,00:18:40.052,"25,07",Sallands Mooiste ,2017-07-02
+386,1522,Jikke Bootsma,Emmen,100,V,56,00:18:40.300,"25,06",Sallands Mooiste ,2017-07-02
+387,33,Roy Klomp,Zwolle,100,M,326,00:18:43.216,"25,00",Sallands Mooiste ,2017-07-02
+388,1496,Marloes Veldkamp,Luttenberg,75,V,57,00:18:44.730,"24,97",Sallands Mooiste ,2017-07-02
+389,1534,K.A. Buitenhuis,Heerde,75,M,327,00:18:45.055,"24,96",Sallands Mooiste ,2017-07-02
+390,1532,B Steenkamp,Heerde,75,M,328,00:18:45.420,"24,95",Sallands Mooiste ,2017-07-02
+391,737,Eelco Kruisselbrink,Naarden,100,M,329,00:18:48.457,"24,88",Sallands Mooiste ,2017-07-02
+392,20,Lucas Jans,,140,M,330,00:18:49.179,"24,87",Sallands Mooiste ,2017-07-02
+393,774,Joep van Niekerk,,100,M,331,00:18:53.103,"24,78",Sallands Mooiste ,2017-07-02
+394,67,Leo Kleinherenbrink,,75,M,332,00:18:53.589,"24,77",Sallands Mooiste ,2017-07-02
+395,726,Joris Kemkens,Borculo,100,M,333,00:18:53.689,"24,77",Sallands Mooiste ,2017-07-02
+396,638,Johan de Bruijne,,100,M,334,00:18:55.076,"24,74",Sallands Mooiste ,2017-07-02
+397,1492,Vos,Hoogeveen,75,M,335,00:18:55.293,"24,73",Sallands Mooiste ,2017-07-02
+398,1515,Mieke van Keimpema,Groningen,75,V,58,00:18:55.851,"24,72",Sallands Mooiste ,2017-07-02
+399,893,Rutger Zuidberg,Apeldoorn,75,M,336,00:18:57.034,"24,70",Sallands Mooiste ,2017-07-02
+400,655,Jarne Draaijer,Zutphen,75,M,337,00:18:57.154,"24,69",Sallands Mooiste ,2017-07-02
+401,1493,Vos,Hoogeveen,75,M,338,00:18:57.936,"24,68",Sallands Mooiste ,2017-07-02
+402,739,Arno Kwint,Wageningen,100,M,339,00:18:59.158,"24,65",Sallands Mooiste ,2017-07-02
+403,1514,R Horlinas,Groningen,75,M,340,00:19:00.296,"24,63",Sallands Mooiste ,2017-07-02
+404,873,Irma Wichers Schreur - Reimert,Heeten,100,V,59,00:19:01.994,"24,59",Sallands Mooiste ,2017-07-02
+405,857,Gert-Jan van Voorst,Haarle,100,M,341,00:19:03.292,"24,56",Sallands Mooiste ,2017-07-02
+406,1181,Mieke Mantel,Raalte,75,V,60,00:19:07.678,"24,47",Sallands Mooiste ,2017-07-02
+407,1206,Carla Temming,Zieuwent,75,V,61,00:19:08.826,"24,44",Sallands Mooiste ,2017-07-02
+408,879,Jisk Wijma,Emmen,100,M,342,00:19:10.034,"24,42",Sallands Mooiste ,2017-07-02
+409,1225,Fransen,Nijverdal,100,M,343,00:19:10.056,"24,42",Sallands Mooiste ,2017-07-02
+410,694,Tony Hiemstra,Emmen,100,M,344,00:19:10.636,"24,40",Sallands Mooiste ,2017-07-02
+411,743,Saskia Lambrechts,Wijhe,100,V,62,00:19:12.143,"24,37",Sallands Mooiste ,2017-07-02
+412,721,Monique Kappert,Wijhe,100,V,63,00:19:13.421,"24,34",Sallands Mooiste ,2017-07-02
+413,856,Kim van de Vlekkert,Wijhe,100,V,64,00:19:13.428,"24,34",Sallands Mooiste ,2017-07-02
+414,1156,Ribberink,Hengelo,75,M,345,00:19:15.254,"24,31",Sallands Mooiste ,2017-07-02
+415,1464,H Schellekens,Zwolle,75,M,346,00:19:17.378,"24,26",Sallands Mooiste ,2017-07-02
+416,610,Anneke Altena,Deventer,100,V,65,00:19:18.591,"24,24",Sallands Mooiste ,2017-07-02
+417,619,Dick Bierman,Avenhorn,140,M,347,00:19:19.029,"24,23",Sallands Mooiste ,2017-07-02
+418,1434,A Groenewold,Nieuw Buinen,100,M,348,00:19:19.085,"24,23",Sallands Mooiste ,2017-07-02
+419,868,Hein Weerink,Coevorden,100,M,349,00:19:19.235,"24,22",Sallands Mooiste ,2017-07-02
+420,806,Christie Scheffer-Borg,Oosterwolde,140,V,66,00:19:19.587,"24,22",Sallands Mooiste ,2017-07-02
+421,875,Hedzer Wiersma,Zwolle,100,M,350,00:19:20.868,"24,19",Sallands Mooiste ,2017-07-02
+422,1162,Marc Mols,Zwolle,75,M,351,00:19:21.203,"24,18",Sallands Mooiste ,2017-07-02
+423,784,Steven Oude Alink,Den Haag,100,M,352,00:19:21.429,"24,18",Sallands Mooiste ,2017-07-02
+424,794,Roel Reuvers,Harderwijk,140,M,353,00:19:22.676,"24,15",Sallands Mooiste ,2017-07-02
+425,1118,Marcel Godefroy,Heemserveen,140,M,354,00:19:24.035,"24,12",Sallands Mooiste ,2017-07-02
+426,632,Roy Bossaert,Wieringerwerf,140,M,355,00:19:26.889,"24,06",Sallands Mooiste ,2017-07-02
+427,1517,Th. Wijnberg,Haarle,100,M,356,00:19:26.994,"24,06",Sallands Mooiste ,2017-07-02
+428,27,Ronald van Duuren,,140,M,357,00:19:27.845,"24,04",Sallands Mooiste ,2017-07-02
+429,17,Bart Pauwels,,100,M,358,00:19:28.304,"24,03",Sallands Mooiste ,2017-07-02
+430,1509,Tempelman,Almelo,75,M,359,00:19:28.710,"24,03",Sallands Mooiste ,2017-07-02
+431,612,Karin Bakker-Kramer,Oosterwolde,140,V,67,00:19:28.781,"24,03",Sallands Mooiste ,2017-07-02
+432,678,Marlon Goossens,Boxtel,100,V,68,00:19:31.218,"23,98",Sallands Mooiste ,2017-07-02
+433,1526,Alice van Tolij,Dalfsen,75,V,69,00:19:33.337,"23,93",Sallands Mooiste ,2017-07-02
+434,871,Marco Werkhoven,Menaldum,100,M,360,00:19:33.427,"23,93",Sallands Mooiste ,2017-07-02
+435,1525,Henry van Tolij,Dalfsen,75,M,361,00:19:33.787,"23,92",Sallands Mooiste ,2017-07-02
+436,1216,Erwin Meyer,Eefde,100,M,362,00:19:34.259,"23,91",Sallands Mooiste ,2017-07-02
+437,663,Guido Evertz,Nieuw-Roden,140,M,363,00:19:35.165,"23,89",Sallands Mooiste ,2017-07-02
+438,762,Poppo Meijer,Roden,140,M,364,00:19:38.552,"23,83",Sallands Mooiste ,2017-07-02
+439,647,Ebel Dijkhuis,Roden,140,M,365,00:19:39.677,"23,80",Sallands Mooiste ,2017-07-02
+440,645,Bas van Dijk,Roden,140,M,366,00:19:41.060,"23,78",Sallands Mooiste ,2017-07-02
+441,707,Freek van den Houten,Hellevoetsluis,140,M,367,00:19:42.684,"23,74",Sallands Mooiste ,2017-07-02
+442,882,Loes Willemse,Otterlo,100,V,70,00:19:43.279,"23,73",Sallands Mooiste ,2017-07-02
+443,1120,Bramer,Hoogeveen,100,M,368,00:19:43.421,"23,73",Sallands Mooiste ,2017-07-02
+444,719,Kor Kalfsbeek,,75,M,369,00:19:44.140,"23,71",Sallands Mooiste ,2017-07-02
+445,1510,Jannie Doorn,Hasselt,100,V,71,00:19:45.006,"23,70",Sallands Mooiste ,2017-07-02
+446,772,Bram van Munster,Nijverdal,100,M,370,00:19:45.619,"23,68",Sallands Mooiste ,2017-07-02
+447,1513,Kusters,Diepenveen,75,V,72,00:19:49.424,"23,61",Sallands Mooiste ,2017-07-02
+448,775,Tom Nijbroek,Amsterdam,140,M,371,00:19:49.772,"23,60",Sallands Mooiste ,2017-07-02
+449,872,Martin Westerhof,,100,M,372,00:19:51.111,"23,57",Sallands Mooiste ,2017-07-02
+450,880,Theo Willems,Apeldoorn,100,M,373,00:19:51.765,"23,56",Sallands Mooiste ,2017-07-02
+451,723,Bert Keijl,Zwolle,100,M,374,00:19:54.947,"23,50",Sallands Mooiste ,2017-07-02
+452,888,Vera Wolterink,Zwolle,75,V,73,00:19:55.217,"23,49",Sallands Mooiste ,2017-07-02
+453,671,Bente Geertman,Hellendoorn,75,V,74,00:19:55.314,"23,49",Sallands Mooiste ,2017-07-02
+454,1226,René Hennevelt,Leersum,100,M,375,00:19:55.496,"23,49",Sallands Mooiste ,2017-07-02
+455,1227,Mirjam Schennach,Amerongen,100,V,75,00:19:57.875,"23,44",Sallands Mooiste ,2017-07-02
+456,59,Geeske Teune,Heino,75,V,76,00:20:08.658,"23,23",Sallands Mooiste ,2017-07-02
+457,58,Gerrit Teune,Heino,75,M,376,00:20:08.891,"23,23",Sallands Mooiste ,2017-07-02
+458,889,Laurens Wolting,Zwolle,100,M,377,00:20:09.429,"23,22",Sallands Mooiste ,2017-07-02
+459,1507,Corné Mulder,Assen,100,M,378,00:20:15.475,"23,10",Sallands Mooiste ,2017-07-02
+460,623,Iris Boersbroek,Zwolle,100,V,77,00:20:19.148,"23,03",Sallands Mooiste ,2017-07-02
+461,1158,Eugene Gouma,Almelo,100,M,379,00:20:19.195,"23,03",Sallands Mooiste ,2017-07-02
+462,741,Sander Lahaise,,100,M,380,00:20:22.085,"22,98",Sallands Mooiste ,2017-07-02
+463,730,Mathilde Klomp,Hilversum,140,V,78,00:20:22.344,"22,97",Sallands Mooiste ,2017-07-02
+464,703,Ed Hooimeijer,Hilversum,140,M,381,00:20:23.268,"22,95",Sallands Mooiste ,2017-07-02
+465,724,Jos de Keijser,Leeuwarden,100,M,382,00:20:23.634,"22,95",Sallands Mooiste ,2017-07-02
+466,892,Henny Zomer-Te Velthuis,Raalte,75,V,79,00:20:23.860,"22,94",Sallands Mooiste ,2017-07-02
+467,1469,H.J. v Berm,Amsterdam,100,M,383,00:20:24.345,"22,93",Sallands Mooiste ,2017-07-02
+468,625,Chantal Bogaard,Meteren,75,V,80,00:20:24.395,"22,93",Sallands Mooiste ,2017-07-02
+469,620,Bernadette van Bleek,,100,V,81,00:20:25.195,"22,92",Sallands Mooiste ,2017-07-02
+470,749,Kitty de Leur,,100,V,82,00:20:27.080,"22,88",Sallands Mooiste ,2017-07-02
+471,1211,Alfred Bouw,Assen,100,M,384,00:20:27.341,"22,88",Sallands Mooiste ,2017-07-02
+472,750,Peter de Leur,Den Haag,100,M,385,00:20:27.987,"22,87",Sallands Mooiste ,2017-07-02
+473,1539,Bert v. Lingch,Nieuwleusen,100,M,386,00:20:32.137,"22,79",Sallands Mooiste ,2017-07-02
+474,1540,Vera Pauw,Nieuwleusen,100,V,83,00:20:32.756,"22,78",Sallands Mooiste ,2017-07-02
+475,840,René Triest,Den Helder,100,M,387,00:20:33.145,"22,77",Sallands Mooiste ,2017-07-02
+476,664,Simone Fiet,Nijverdal,100,V,84,00:20:33.976,"22,76",Sallands Mooiste ,2017-07-02
+477,635,Jorien Brinkers,Markelo,100,V,85,00:20:34.570,"22,74",Sallands Mooiste ,2017-07-02
+478,1212,Hilda Hoogeveen,Assen,100,V,86,00:20:34.606,"22,74",Sallands Mooiste ,2017-07-02
+479,1125,Dik Karssen,Harderwijk,140,M,388,00:20:35.962,"22,72",Sallands Mooiste ,2017-07-02
+480,801,Jeroen Ronner,,100,M,389,00:20:37.917,"22,68",Sallands Mooiste ,2017-07-02
+481,886,Frank Witteveen,Middenmeer,100,M,390,00:20:44.100,"22,57",Sallands Mooiste ,2017-07-02
+482,885,Ellen Witteveen,Middenmeer,100,V,87,00:20:44.552,"22,56",Sallands Mooiste ,2017-07-02
+483,727,Marian Kemper,Diepenveen,100,V,88,00:20:44.679,"22,56",Sallands Mooiste ,2017-07-02
+484,777,Rob Nijkamp,Barchem,100,M,391,00:20:45.342,"22,55",Sallands Mooiste ,2017-07-02
+485,776,Irma Nijenkamp,Raalte,100,V,89,00:20:46.316,"22,53",Sallands Mooiste ,2017-07-02
+486,757,Joanda en Maneschijn,Vroomshoop,75,V,90,00:20:47.396,"22,51",Sallands Mooiste ,2017-07-02
+487,802,Ewoud Ronner,,100,M,392,00:20:51.000,"22,45",Sallands Mooiste ,2017-07-02
+488,1523,Henk van Buren,Hellendoorn,75,M,393,00:20:52.639,"22,42",Sallands Mooiste ,2017-07-02
+489,711,Sonny Hulsman,Almelo,75,M,394,00:20:54.238,"22,39",Sallands Mooiste ,2017-07-02
+490,1318,Ben van Loenen,Elburg,100,M,395,00:20:55.508,"22,37",Sallands Mooiste ,2017-07-02
+491,624,Ellen Boersma,Den Helder,100,V,91,00:20:55.997,"22,36",Sallands Mooiste ,2017-07-02
+492,785,Ingrid Peperkamp,Renen,100,V,92,00:20:57.830,"22,32",Sallands Mooiste ,2017-07-02
+493,1319,Jaap Weerd,,100,M,396,00:21:01.758,"22,25",Sallands Mooiste ,2017-07-02
+494,1541,L. Migchelsen,Harderwijk,100,V,93,00:21:07.878,"22,15",Sallands Mooiste ,2017-07-02
+495,1500,Tom Hoiting,Zwolle,100,M,397,00:21:22.733,"21,89",Sallands Mooiste ,2017-07-02
+496,1204,Bianca Kuik,Ruinen,100,V,94,00:21:29.569,"21,77",Sallands Mooiste ,2017-07-02
+497,1334,B Post,Ruinen,100,V,95,00:21:29.998,"21,77",Sallands Mooiste ,2017-07-02
+498,1411,Gerrit Veldkamp,Lierderholthuis,75,M,398,00:21:35.640,"21,67",Sallands Mooiste ,2017-07-02
+499,654,Nick Doornekamp,,140,M,399,00:21:36.475,"21,66",Sallands Mooiste ,2017-07-02
+500,1479,Ellens,Olst,100,M,400,00:21:37.529,"21,64",Sallands Mooiste ,2017-07-02
+501,37,Marco Slettenhaar,Wierden,100,M,401,00:21:38.498,"21,62",Sallands Mooiste ,2017-07-02
+502,1171,Jaco Ellens,Olst,100,M,402,00:21:38.714,"21,62",Sallands Mooiste ,2017-07-02
+503,696,Hetty Hofstede,Utrecht,140,V,96,00:21:49.126,"21,45",Sallands Mooiste ,2017-07-02
+504,764,Evita Meyer,Almere,75,V,97,00:21:51.272,"21,41",Sallands Mooiste ,2017-07-02
+505,1474,Gerda Brinkhof,Heeten,75,V,98,00:22:02.946,"21,23",Sallands Mooiste ,2017-07-02
+506,1542,Ron vd Engel,Nootdorp,100,M,403,00:22:08.603,"21,13",Sallands Mooiste ,2017-07-02
+507,29,Maurits Kalf,,100,M,404,00:22:14.053,"21,05",Sallands Mooiste ,2017-07-02
+508,763,Robert Meyer,Oosthem,75,M,405,00:22:27.104,"20,84",Sallands Mooiste ,2017-07-02
+509,733,Anquelique Koldemeule,,100,V,99,00:23:02.850,"20,31",Sallands Mooiste ,2017-07-02
+510,883,Carmen Wispels,Borculo,100,V,100,00:23:55.956,"19,55",Sallands Mooiste ,2017-07-02
+511,2087,Jiska van der Wal,Zwolle,75,V,101,00:24:16.771,"19,28",Sallands Mooiste ,2017-07-02
+512,639,Anja de Bruin,Enkhuizen,75,V,102,00:24:20.287,"19,23",Sallands Mooiste ,2017-07-02
+513,887,Manon Wolfkamp,Heerhugowaard,100,V,103,00:24:27.639,"19,13",Sallands Mooiste ,2017-07-02
+514,618,Nienke Berkhout,Heerhugowaard,100,V,104,00:24:27.821,"19,13",Sallands Mooiste ,2017-07-02
+515,640,Bert de Bruin,Enkhuizen,75,M,406,00:24:28.106,"19,13",Sallands Mooiste ,2017-07-02
+516,847,Harry Veldman,Losser,75,M,407,00:24:29.030,"19,11",Sallands Mooiste ,2017-07-02
+517,1436,Linneman,Makkinga,100,M,408,00:25:01.546,"18,70",Sallands Mooiste ,2017-07-02
+518,884,Pascal Wispels,Hellendoorn,100,V,105,00:25:07.432,"18,63",Sallands Mooiste ,2017-07-02
+519,662,Arie-Jan van der Ende,Bemmel,100,M,409,00:25:16.161,"18,52",Sallands Mooiste ,2017-07-02
+520,615,Huib van Bennekom,Waddinxveen,100,M,410,00:25:16.194,"18,52",Sallands Mooiste ,2017-07-02
+521,1172,Henk van Bennekom,Veenendaal,100,M,411,00:25:16.962,"18,51",Sallands Mooiste ,2017-07-02
+522,1467,Harrie Wolterink,Haarle,75,M,412,00:26:01.437,"17,98",Sallands Mooiste ,2017-07-02
+523,1468,Bets Wolterink,Haarle,75,V,106,00:26:04.430,"17,95",Sallands Mooiste ,2017-07-02
+524,829,Henk Jan Stapelkamp,Kropswolde,75,M,413,00:26:05.061,"17,94",Sallands Mooiste ,2017-07-02
+525,809,Marijke Schmidt,Raalte,75,V,107,00:26:20.047,"17,77",Sallands Mooiste ,2017-07-02
+526,755,Marieke Lugt,Zwolle,75,V,108,00:26:22.282,"17,75",Sallands Mooiste ,2017-07-02
+527,808,Peter Schmidt,,75,M,414,00:26:39.384,"17,56",Sallands Mooiste ,2017-07-02
+528,738,Rob Kusters,,75,M,415,00:26:39.642,"17,55",Sallands Mooiste ,2017-07-02
+529,2088,Andre Paarhuis,Dalfsen,75,M,416,00:27:18.083,"17,14",Sallands Mooiste ,2017-07-02
+530,748,Yvonne de Leur,,100,V,109,00:27:35.325,"16,96",Sallands Mooiste ,2017-07-02
+531,895,Sander Zwart,Tucson,75,M,417,00:31:31.029,"14,85",Sallands Mooiste ,2017-07-02
+532,626,Okkie Boot,Amsterdam,75,M,418,00:31:32.268,"14,84",Sallands Mooiste ,2017-07-02
+533,1222,Frits Kleinheerenbrink,Vriezenveen,75,M,419,00:31:44.332,"14,75",Sallands Mooiste ,2017-07-02

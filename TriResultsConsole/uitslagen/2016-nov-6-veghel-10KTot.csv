@@ -1,0 +1,412 @@
+Plts,StartNr,Naam,Team/Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,1063,Hein de Groot,Lithoijen,MSR,1,00:34:53,00:34:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+2,1095,Peter Mijsberg,Veghel,M50,1,00:36:03,00:36:02,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+3,1241,Ralph Tilburgs,Eindhoven,M40,1,00:38:14,00:38:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+4,1031,Marc Heesbeen,Megen,M30,1,00:38:20,00:38:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+5,3086,Teun Teunis,Studio Springstof B01,MSR,2,00:39:53,00:39:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+6,1049,Rob Brekelmans,Vught,M40,2,00:40:02,00:40:00,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+7,1333,Niels Vander Burgt,Breda,M30,2,00:40:16,00:40:12,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+8,1372,René Braam,Veghel,M50,2,00:40:19,00:40:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+9,1228,Andre Arts,Erp,M40,3,00:40:21,00:40:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+10,1080,Denny Lucius,Voorschoten,M30,3,00:40:31,00:40:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+11,3089,Jelmar den Boer,Studio Springstof B01,M30,4,00:40:34,00:40:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+12,1292,Joost Bovee,Venray,M30,5,00:40:46,00:39:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+13,1341,Chantel Delange,Tilburg,V30,1,00:41:08,00:41:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+14,1342,Carlo Wouters,Tilburg,M40,4,00:41:09,00:41:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+15,3015,Jos van den Elzen,Ketelaars Auto's B01,M50,3,00:41:15,00:41:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+16,3087,Johan van den Berg,Studio Springstof B01,M30,6,00:41:22,00:41:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+17,1160,Jos Drewes,Breda,M30,7,00:41:25,00:41:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+18,1286,Peter Baaijens,Veghel,M50,4,00:41:26,00:41:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+19,1377,Niek de Groot,Veghel,MSR,3,00:41:28,00:41:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+20,1313,Theo vander loop,Zeeland,M50,5,00:41:37,00:41:34,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+21,1045,Etienne Vissers,Veghel,M40,5,00:41:52,00:41:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+22,1050,Carlo Muller,Oss,M40,6,00:42:34,00:42:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+23,3137,Jannick van Sleeuwen,Cor van Schie  B01,MSR,4,00:42:49,00:42:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+24,1360,Martijn van Maasacker,Veghel,M40,7,00:42:51,00:42:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+25,1315,Art Vissers,Sint-Oedenrode,M50,6,00:42:52,00:42:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+26,3150,Peter vd Ven,Bakkerij van Leur B01,M40,8,00:43:06,00:43:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+27,3134,Stijn van Stiphout,Cor van Schie  B01,MSR,5,00:43:21,00:43:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+28,1325,KAMIL Dybczynski,Kleve,M30,8,00:43:23,00:43:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+29,1271,Daan Hamers,Veghel,MSR,6,00:43:51,00:43:00,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+30,3028,Sander van Aar,Vakgarage v.d. Linden B.V. B01,M30,9,00:43:54,00:43:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+31,1405,Lieke van Dinter,De Mortel,VSR,1,00:43:56,00:43:11,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+32,1015,Roal Monsees,Veghel,MSR,7,00:43:58,00:42:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+33,1346,Harold Verkuijlen,Uden,M30,10,00:44:02,00:43:57,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+34,1302,Ferry Wonders,Veghel,M30,11,00:44:20,00:44:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+35,1331,Edward vande Weijer,Heeswijk-Dinther,M40,9,00:44:20,00:43:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+36,1379,Jeroen Jurriens,Veghel,M30,12,00:44:46,00:44:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+37,3135,Harrie van Etten,Cor van Schie  B01,MSR,8,00:44:46,00:44:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+38,1226,Nick Dekkers,Veghel,MSR,9,00:44:48,00:44:11,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+39,1086,Jeroen Van Zwieten,Veghel,M40,10,00:44:50,00:44:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+40,1044,Chiel Kanters,Veghel,M30,13,00:44:50,00:44:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+41,3133,Frank van Schie,Cor van Schie  B01,MSR,10,00:45:07,00:45:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+42,1141,Daan Dunk,Veghel,MSR,11,00:45:25,00:45:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+43,1336,Jurgen Van Mierlo,Heeswijk-Dinther,M30,14,00:45:28,00:44:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+44,3030,Jeroen Coolen,Vakgarage v.d. Linden B.V. B01,MSR,12,00:45:29,00:45:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+45,3052,Arthur Peeters,Jumbo Supermarkten C01,MSR,13,00:45:35,00:45:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+46,1252,Mathieu van Asperen,Veghel,MSR,14,00:45:36,00:44:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+47,1258,Lars Foolen,Veghel,MSR,15,00:45:37,00:44:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+48,1006,Maarten Korz,'s-Hertogenbosch,M40,11,00:45:39,00:45:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+49,1295,Jeroen Minneboo,Veghel,M30,15,00:45:45,00:45:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+50,1185,Stefan van Kollenburg,Helmond,M30,16,00:45:55,00:45:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+51,1169,Maarten Bosch,Schijndel,M50,7,00:45:59,00:45:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+52,1170,Stephanie Vander Heijden,Veghel,V30,2,00:46:00,00:45:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+53,3016,Tim van den Elzen,Ketelaars Auto's B01,MSR,16,00:46:00,00:45:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+54,1225,Yannick Jussen,Veghel,MSR,17,00:46:04,00:45:28,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+55,3029,Perly Verbrugge,Vakgarage v.d. Linden B.V. B01,MSR,18,00:46:07,00:46:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+56,1134,Ruud Hendriks,Veghel,MSR,19,00:46:22,00:45:57,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+57,1070,Edward Bos,Heeswijk-Dinther,M50,8,00:46:25,00:46:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+58,1076,Marleen Janson,Leiden,VSR,2,00:46:26,00:46:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+59,1008,Koen vanden Hurk,Sint-Oedenrode,M30,17,00:46:27,00:46:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+60,1347,Anja van Vliet,Oss,V50,1,00:46:30,00:46:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+61,1235,Bart vander Sanden,Veghel,M30,18,00:46:49,00:46:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+62,1240,Bart VanderAa,Veghel,M30,19,00:46:49,00:46:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+63,1148,Paul Verrijdt,Veghel,M50,9,00:46:51,00:46:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+64,1189,Marc Meulenbroeks,Nuenen,M30,20,00:46:53,00:46:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+65,1100,Wouter Verberk,Veghel,MSR,20,00:46:53,00:46:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+66,1374,Jubitana Genevieve,Veghel,V30,3,00:47:02,00:46:56,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+67,3080,JB Pot,De Koffieleut B01,M30,21,00:47:07,00:46:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+68,1118,Randy Deckers,Veghel,M40,12,00:47:16,00:47:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+69,1094,Susan Hendrikx,Veghel,V30,4,00:47:22,00:46:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+70,1348,Bart van Vliet,Oss,M50,10,00:47:26,00:47:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+71,3062,Jumbo miles,Jumbo Supermarkten C03,MSR,21,00:47:27,00:47:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+72,1244,Michiel Janssen,Veghel,M30,22,00:47:28,00:46:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+73,3136,Luc Lathouwers,Cor van Schie  B01,MSR,22,00:47:33,00:47:30,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+74,1312,Sjoerd Vande Wetering,Nistelrode,M30,23,00:47:36,00:47:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+75,1282,Martijn Kouwenberg,Vorstenbosch,M30,24,00:47:38,00:47:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+76,1375,Rob Pickhard,Veghel,M50,11,00:47:48,00:47:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+77,1239,Peter Van Zutphen,Veghel,M40,13,00:47:52,00:47:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+78,1142,Niels Krol,Hengstdijk,MSR,23,00:47:55,00:47:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+79,1011,Paul van Eldonk,Veghel,MSR,24,00:47:56,00:46:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+80,1183,Vic van Heeswijk,Veghel,M40,14,00:47:58,00:46:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+81,1072,Frank Lunenburg,Veghel,M30,25,00:47:58,00:47:00,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+82,1120,Rob Lunenburg,Veghel,M30,26,00:47:58,00:47:00,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+83,1236,Thijs van Lamoen,Veghel,M30,27,00:47:59,00:47:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+84,3155,Marsha van Doorn,Bakkerij van Leur B02,V30,5,00:48:03,00:47:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+85,1099,Ties Van Boekel,Veghel,M30,28,00:48:05,00:47:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+86,1344,Hans van son,Schijndel,M50,12,00:48:07,00:47:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+87,1318,John vande Ven,Berlicum Nb,M50,13,00:48:18,00:47:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+88,1200,Karin van Venrooij,Veghel,V40,1,00:48:19,00:48:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+89,1371,Dennis van Melis,Veghel,MSR,25,00:48:21,00:48:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+90,3099,Matthias Schotanus,Sligro Food Group B03,M30,29,00:48:23,00:48:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+91,1321,Wiel Donkers,Volkel,M40,15,00:48:32,00:47:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+92,1319,Joey Verhoeven,Veghel,M30,30,00:48:33,00:48:28,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+93,1221,Rob Verwegen,Volkel,M30,31,00:48:43,00:47:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+94,1340,Pieter Lever,Breda,M30,32,00:48:47,00:48:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+95,1307,Frank vande Wijgert,Veghel,M40,16,00:48:49,00:47:59,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+96,3097,Caro Vilier,Sligro Food Group B02,VSR,3,00:48:54,00:48:31,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+97,1152,Edwin Schoo,Veghel,M50,14,00:48:55,00:48:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+98,1037,Jeroen van Gemert,Veghel,M30,33,00:48:56,00:48:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+99,1164,Harm Van Dijk,Veghel,M40,17,00:49:19,00:49:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+100,1022,Richard Muijshondt,Veghel,M50,15,00:49:21,00:49:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+101,1091,Marc vanden Biggelaar,Veghel,M50,16,00:49:26,00:48:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+102,1349,Paul Schatorjé,Gemert,M30,34,00:49:29,00:49:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+103,1305,Ton vander Linden,Veghel,M40,18,00:49:31,00:48:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+104,3123,Stan Pijnenburg,Autobedrijf van den Udenhout  B01,MSR,26,00:49:43,00:48:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+105,3043,Mattie Stevens,Jumbo Supermarkten B02,M50,17,00:49:46,00:49:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+106,3013,Geert van Hoof,Ketelaars Auto's B01,M50,18,00:49:56,00:49:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+107,1215,Hennie Nouwen,Veghel,M50,19,00:49:58,00:49:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+108,1338,Niels de Lange,Veghel,M30,35,00:49:58,00:49:25,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+109,1327,Paul Vanschil,Essen,M50,20,00:49:59,00:49:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+110,1101,Marco Verberk,Veghel,M40,19,00:50:00,00:49:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+111,3095,Evert-Jan Boeijen,Sligro Food Group B02,M30,36,00:50:02,00:49:36,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+112,1227,Saskia Kivits,Schijndel,V40,2,00:50:04,00:49:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+113,3151,Stephan van Bruggen,Bakkerij van Leur B01,M30,37,00:50:04,00:49:57,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+114,1233,Roland vd Tillaart,Veghel,M40,20,00:50:06,00:49:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+115,3149,Wouter vd Linden,Bakkerij van Leur B01,M30,38,00:50:07,00:49:59,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+116,1253,Ad vanden Boogaard,Veghel,M50,21,00:50:15,00:50:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+117,1055,Sander Van Dooren,Erp,M30,39,00:50:21,00:48:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+118,1038,Lisette vander Kallen,Sint-Oedenrode,V40,3,00:50:24,00:49:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+119,1206,Gertjan Kok,'s-Hertogenbosch,M30,40,00:50:32,00:50:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+120,1257,Robin Verstralen,Veghel,MSR,27,00:50:34,00:49:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+121,3094,Dick Capelle,Sligro Food Group B01,M50,22,00:50:39,00:50:30,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+122,1131,Bram Donkers,Uden,M30,41,00:50:40,00:50:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+123,3081,Ronny de Haas,De Koffieleut B01,M30,42,00:50:43,00:50:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+124,3084,Stefanie van Berkel,De Koffieleut B01,VSR,4,00:50:43,00:50:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+125,1213,Anton Silletti,Hedel,M40,21,00:50:47,00:50:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+126,1222,Mark van Zutphen,Veghel,M50,23,00:50:49,00:50:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+127,1107,Martijn keetels,Oirschot,MSR,28,00:50:49,00:50:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+128,1334,Gaudens Verhoeven,Veghel,M50,24,00:50:55,00:50:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+129,1132,Antoine Van Blokland,Veghel,M40,22,00:50:55,00:50:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+130,1274,Vincent Dijsselbloem,Gemert,M30,43,00:51:02,00:50:36,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+131,1316,Frank Rijlaarsdam,Waalre,M50,25,00:51:05,00:50:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+132,1269,Eric van Horen,Veghel,M50,26,00:51:18,00:49:55,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+133,3085,Koen Kerkhof,Studio Springstof B01,M30,44,00:51:25,00:50:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+134,1249,Joram vander Heijden,Veghel,M40,23,00:51:30,00:50:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+135,1330,Jeroen vanden Bergh,Tilburg,M30,45,00:51:34,00:50:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+136,1224,Jantine Reijmers,'s-Hertogenbosch,V30,6,00:51:36,00:51:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+137,1191,Twan Verstralen,Veghel,M50,27,00:51:44,00:50:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+138,1230,Silvia Kastelijn,Schijndel,V40,4,00:51:48,00:51:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+139,1229,Jeroen van Waes,'s-Hertogenbosch,M40,24,00:51:51,00:51:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+140,1359,Harrie Verkuijlen,Veghel,M50,28,00:51:52,00:51:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+141,1010,Bastian Foerster,Veghel,M30,46,00:51:53,00:51:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+142,1117,Paul vanden Wittenboer,Veghel,M50,29,00:51:58,00:51:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+143,1090,Samantha Voogt,Rosmalen,VSR,5,00:52:04,00:51:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+144,1018,Joyce van Breemen,Rosmalen,V30,7,00:52:14,00:50:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+145,1220,Eugene van Kessel,Veghel,M40,25,00:52:18,00:52:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+146,1320,Lilianne Vande Scheur,Heesch,V30,8,00:52:27,00:51:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+147,1314,Lesley Vander Sanden,Veghel,V30,9,00:52:27,00:51:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+148,3100,Steffen Turksema,Sligro Food Group B03,M30,47,00:52:33,00:52:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+149,1279,Gonny van Zutven,Sint-Oedenrode,V50,2,00:52:45,00:51:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+150,1035,Michel Poels,Uden,M50,30,00:52:53,00:52:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+151,1211,Serge vander Meijden,Veghel,M40,26,00:53:03,00:52:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+152,1376,Lisette van de Hei,Veghel,VSR,6,00:53:04,00:52:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+153,1234,Anouk Geurts,Veghel,V30,10,00:53:08,00:52:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+154,3017,Casper de Vries,Ketelaars Auto's B01,MSR,29,00:53:10,00:52:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+155,3014,Alan de Vries,Ketelaars Auto's B01,M40,27,00:53:10,00:52:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+156,3083,Wouter van de Ven,De Koffieleut B01,M30,48,00:53:14,00:52:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+157,1133,Marcel van Venrooij,Heeswijk-Dinther,M40,28,00:53:21,00:52:14,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+158,1212,Susanne Hommen,Hedel,V40,5,00:53:21,00:53:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+159,3152,Paul Rombout,Bakkerij van Leur B01,M40,29,00:53:29,00:52:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+160,1214,Lau Specken,'s-Hertogenbosch,M50,31,00:53:30,00:53:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+161,1048,Bart Brugmans,Nijmegen,M30,49,00:53:33,00:53:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+162,60,Ger Houben,Schijndel,M50,32,00:53:35,00:53:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+163,1057,Dion van Alebeek,Grave,V30,11,00:53:38,00:52:30,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+164,1121,Minke Verstappen,Veghel,V30,12,00:53:41,00:53:12,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+165,1343,Anne vanden Berg,Veghel,V30,13,00:53:43,00:52:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+166,1004,Manon Reijnders,Heeswijk-Dinther,VSR,7,00:53:50,00:52:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+167,1365,Willem Raaijmakers,Veghel,M50,33,00:53:51,00:53:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+168,1116,Steven Doorduyn,Veghel,M40,30,00:53:51,00:52:41,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+169,1186,Jelske Janssen,Veghel,V30,14,00:53:52,00:52:25,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+170,1077,Joris Nieuwint,Veghel,M30,50,00:53:53,00:53:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+171,1171,Ines van Oort,Uden,V50,3,00:53:56,00:53:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+172,1176,Danny de Klijn,Zeeland,M40,31,00:54:00,00:53:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+173,1339,Niels Zaadnoordijk,Breda,M30,51,00:54:01,00:53:55,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+174,1355,Joost,Veghel,M30,52,00:54:01,00:53:55,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+175,1350,Twan van Eert,Erp,M40,32,00:54:01,00:52:31,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+176,1173,Marco van Houtum,Schijndel,M50,34,00:54:03,00:53:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+177,1172,Leo vander Pol,Loon op Zand,M50,35,00:54:03,00:53:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+178,1246,Daan Verweij,Nijmegen,M30,53,00:54:05,00:52:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+179,1357,Karien Blummel,Veghel,V40,6,00:54:09,00:53:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+180,1256,Charles Creemers,Schijndel,M40,33,00:54:11,00:53:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+181,1016,Marlou Siroen,Beek en Donk,VSR,8,00:54:13,00:53:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+182,1245,Bram vanLeur,'s-Hertogenbosch,M30,54,00:54:15,00:53:02,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+183,1358,Sandy Smits,Veghel,V30,15,00:54:17,00:53:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+184,1112,Ingrid Vander Heijden,Uden,V40,7,00:54:17,00:53:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+185,1088,Carlo Hulsen,Veghel,M40,34,00:54:21,00:53:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+186,1054,Sanne Kanters,Erp,VSR,9,00:54:21,00:52:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+187,1247,Barry van Houtum,Schijndel,M30,55,00:54:33,00:54:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+188,1092,Fred van Bussel,Veghel,M50,36,00:54:38,00:53:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+189,1203,Manon van Lith,Veghel,VSR,10,00:54:43,00:53:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+190,3064,Patrick de Jong,Koflexwerk B01,M40,35,00:54:47,00:53:14,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+191,3082,Nico van Rooij,De Koffieleut B01,M30,56,00:54:48,00:54:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+192,1137,Marjon Krol,Tilburg,V50,4,00:54:58,00:54:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+193,1147,Karlijn Krol,Hengstdijk,VSR,11,00:54:58,00:54:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+194,1237,Jelske Koolmees,Veghel,V30,16,00:55:02,00:53:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+195,1261,Mario Sigmans,Heeswijk-Dinther,M50,37,00:55:12,00:54:55,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+196,1290,Ingrid Aarts,Sint-Oedenrode,V50,5,00:55:14,00:54:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+197,1178,Miriam Meulenberg,Eindhoven,V40,8,00:55:21,00:55:03,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+198,1278,Yvon Aben,Eindhoven,V50,6,00:55:21,00:55:02,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+199,1007,Kurt Schlechtweg,Beek Lb,M40,36,00:55:26,00:54:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+200,1216,Babs Duynisveld,'s-Hertogenbosch,V50,7,00:55:32,00:55:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+201,1017,Rinie Terhaard,Wijchen,V50,8,00:55:34,00:54:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+202,3121,Peter van den Hout,Autobedrijf van den Udenhout  B01,M40,37,00:55:36,00:54:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+203,3125,Marissa Hos,Autobedrijf van den Udenhout  B02,VSR,12,00:55:36,00:54:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+204,1140,Lindi vander Steen,Veghel,VSR,13,00:55:40,00:54:35,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+205,3128,Ruud Hos,Autobedrijf van den Udenhout  B02,M50,38,00:55:41,00:54:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+206,3127,Yvonne Hos,Autobedrijf van den Udenhout  B02,V50,9,00:55:41,00:54:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+207,1114,Lizette vanDoorn,Veghel,V50,10,00:55:48,00:55:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+208,1277,Marcel Kremers,Veghel,M40,38,00:55:49,00:54:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+209,1053,Geesje Jansen,Veghel,V30,17,00:55:49,00:55:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+210,3090,Wilco Jansen,Sligro Food Group B01,M50,39,00:55:52,00:55:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+211,3091,John Sarbach,Sligro Food Group B01,M50,40,00:55:52,00:55:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+212,1194,Patty van Uden,Heeswijk-Dinther,V30,18,00:55:58,00:55:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+213,1242,Tim Herwig,Veghel,MSR,30,00:56:01,00:54:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+214,1368,Ollie Christiaans,Veghel,MSR,31,00:56:05,00:55:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+215,1366,Philip Christiaans,Veghel,MSR,32,00:56:05,00:55:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+216,1083,Ivo Verhoeven,Veghel,M30,57,00:56:06,00:55:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+217,1205,Shirley Jans-Wijkman,Veghel,V30,19,00:56:08,00:56:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+218,1060,Ivo Panhuijzen,Eindhoven,MSR,33,00:56:11,00:54:41,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+219,1014,Antoon vanden Acker,Veghel,M40,39,00:56:11,00:55:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+220,1158,Charles vanden Broek,Veghel,M50,41,00:56:12,00:56:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+221,1193,Marc Verhoeven,Veghel,M40,40,00:56:13,00:54:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+222,3063,Gerard de Kock,Koflexwerk B01,M50,42,00:56:15,00:54:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+223,1115,Henriette vanderVaart,Veghel,V40,9,00:56:16,00:55:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+224,1199,Hans Herwig,Veghel,M50,43,00:56:24,00:55:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+225,1073,Jonne Besselink,Eindhoven,VSR,14,00:56:28,00:54:59,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+226,1301,Anton van Lammeren,Ouderkerk aan de Amstel,M50,44,00:56:29,00:54:56,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+227,3122,Eveline Begijn,Autobedrijf van den Udenhout  B01,VSR,15,00:56:30,00:55:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+228,1362,Lars van der Wijst,Veghel,MSR,34,00:56:32,00:56:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+229,1005,Nanda van Raam,Erp,V40,10,00:56:32,00:55:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+230,3124,Peter Jochems,Autobedrijf van den Udenhout  B01,M40,41,00:56:35,00:55:30,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+231,1161,Nikki Peek,'s-Hertogenbosch,VSR,16,00:56:35,00:55:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+232,1201,Hans Bogers,Veghel,M50,45,00:56:35,00:55:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+233,1190,Annelies VanderJagt,Nuenen,VSR,17,00:56:40,00:55:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+234,1139,Marlies vander Steen,Veghel,V40,11,00:56:42,00:55:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+235,1108,Michael Moonen,Sint-Oedenrode,M50,46,00:56:45,00:56:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+236,3102,Rob van de Vossenberg,Sligro Food Group B03,M30,58,00:56:46,00:56:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+237,1179,Leon Janssen,Veghel,M50,47,00:56:48,00:55:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+238,1337,Loes vd Nieuwenhuizen,Veghel,V30,20,00:56:49,00:55:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+239,3065,John Janssen,Koflexwerk B01,M50,48,00:56:52,00:55:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+240,1293,Michael Leo,Eindhoven,M30,59,00:56:58,00:56:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+241,1136,Diana Langenhuizen,Veghel,V40,12,00:57:02,00:56:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+242,1027,Pleun vanden Biggelaar,Veghel,VSR,18,00:57:06,00:56:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+243,1361,Robert Thijssen,Veghel,M50,49,00:57:09,00:55:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+244,1175,Barbara Sol,Arnhem,V40,13,00:57:11,00:56:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+245,3070,Tine van Kessel,Koflexwerk B02,VSR,19,00:57:16,00:55:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+246,1125,Kees Van Corven,Veghel,M50,50,00:57:17,00:56:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+247,1002,Roos Vander Schoot,Eindhoven,V30,21,00:57:20,00:55:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+248,3069,Kelly Oosterom,Koflexwerk B02,V30,22,00:57:22,00:55:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+249,21,Pam vd Hurk,Sint-Oedenrode,V40,14,00:57:25,00:56:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+250,1188,Ron Bomelijn,Heeswijk-Dinther,M50,51,00:57:25,00:56:28,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+251,3096,Peti Vilier,Sligro Food Group B02,VSR,20,00:57:28,00:57:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+252,1284,Theo Vilier,Erp,MSR,35,00:57:29,00:57:04,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+253,1071,Ronald Bot,Vlaardingen,M50,52,00:57:31,00:57:11,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+254,1051,Jeanne Riswick,Berlicum Nb,V50,11,00:57:31,00:56:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+255,1268,Willeke vanden Nieuwenhuizen,Venhorst,VSR,21,00:57:36,00:56:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+256,1130,Frank Pepers,Veghel,M50,53,00:57:40,00:56:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+257,1332,Nancy Beem,Veghel,V30,23,00:57:40,00:56:52,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+258,3046,Vincent van der Mierden,Jumbo Supermarkten B02,M40,42,00:57:46,00:57:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+259,1370,Hetty Donkers,Veghel,V50,12,00:57:47,00:56:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+260,1326,Manon De Groot,Sint-Oedenrode,V30,24,00:57:53,00:56:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+261,1329,Martine Noordermeer,Erp,V30,25,00:57:53,00:56:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+262,1103,Bertil van Blokland,Veghel,M50,54,00:58:05,00:57:14,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+263,1259,Cornelis A Franssen,Veghel,M40,43,00:58:10,00:57:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+264,1378,Remy de Kort,Veghel,MSR,36,00:58:12,00:57:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+265,1283,Jolanda Gevers,Loosbroek,V40,15,00:58:17,00:57:32,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+266,69,Marjolein Bekkers,Sint-Oedenrode,V30,26,00:58:19,00:57:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+267,1157,Mieke van Lieshout,Helmond,V40,16,00:58:22,00:57:34,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+268,1128,Brigitte de Bie,Veghel,V40,17,00:58:22,00:56:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+269,1159,Monique vanden Broek,Veghel,V50,13,00:58:23,00:58:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+270,1373,José van de Crommert,Veghel,V50,14,00:58:24,00:57:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+271,1067,Esther Kuijten,Veghel,V30,27,00:58:25,00:57:07,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+272,1066,Loes van Berkel,Sint-Oedenrode,V30,28,00:58:25,00:57:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+273,1367,Leroy van Zeeland,Veghel,MSR,37,00:58:25,00:57:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+274,1294,Pieter-Jan van Hoof,Heeswijk-Dinther,M40,44,00:58:28,00:57:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+275,1310,Desiree Enters,Oss,VSR,22,00:58:29,00:57:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+276,1210,Anke Kanters,Veghel,V30,29,00:58:31,00:57:41,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+277,1153,Erik Janssen,Veghel,M40,45,00:58:32,00:57:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+278,1154,Marita Janssen,Veghel,V40,18,00:58:32,00:57:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+279,1323,Esther Opstal,Nistelrode,V40,19,00:58:32,00:57:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+280,1208,Robin Arts,Heesch,MSR,38,00:58:35,00:57:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+281,1209,Gemma van Casteren,Heesch,V40,20,00:58:36,00:57:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+282,1028,Mitchel Boer,Veghel,M40,46,00:58:36,00:57:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+283,1204,Lindsy van Hout,Veghel,V30,30,00:58:37,00:57:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+284,1356,Erwin Mathon,Veghel,MSR,39,00:58:44,00:57:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+285,1113,Arian Broeren,Schijndel,M50,55,00:58:45,00:58:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+286,1058,Jeroen Vander Velden,Veghel,M40,47,00:58:47,00:58:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+287,1248,Kim Koot,Sint-Oedenrode,V30,31,00:58:49,00:58:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+288,1317,Tosca Bannenberg,Uden,V50,15,00:58:51,00:58:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+289,1119,Jeroen Jonkers,Veghel,M40,48,00:58:52,00:57:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+290,1034,Christian Plompen,Veghel,M40,49,00:58:52,00:57:59,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+291,1029,Marlon vanKessel,Veghel,VSR,23,00:58:58,00:57:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+292,1299,Merel Bomelijn,s-Hertogenbosch,VSR,24,00:59:30,00:58:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+293,1181,Ronald Swevels,Veghel,M40,50,00:59:31,00:58:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+294,1180,Angela Swevels,Veghel,V40,21,00:59:31,00:58:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+295,1335,Ben Helmes,Veghel,M50,56,00:59:36,00:59:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+296,1104,Joost Gerrits,Veghel,M50,57,00:59:37,00:59:01,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+297,1075,Denise de Bont,Veghel,V40,22,00:59:37,00:59:12,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+298,1093,Joyce van Bussel,Veghel,VSR,25,00:59:40,00:58:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+299,1260,Verine Vissers,Veghel,VSR,26,00:59:40,00:58:09,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+300,1196,Sanne Lunenburg,Sint-Oedenrode,V30,32,00:59:43,00:59:21,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+301,1311,Ruben vander Velde,Eindhoven,MSR,40,00:59:56,00:58:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+302,1218,Sandra Raes,Veghel,V40,23,00:59:58,00:58:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+303,1062,Julian van Stratum,Driebergen-Rijsenburg,M40,51,01:00:02,00:58:31,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+304,1309,Olaf Beltman,Veghel,M40,52,01:00:04,00:58:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+305,1109,Hans Holdijk,Sint-Oedenrode,M50,58,01:00:04,00:59:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+306,1324,Myrtille van Hout,Uden,V40,24,01:00:07,00:59:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+307,1289,Karen Mol,Eindhoven,VSR,27,01:00:07,00:59:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+308,1232,Melanie Vanden Berg,Sint-Oedenrode,VSR,28,01:00:17,00:59:14,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+309,3172,Ine de Mol,Fitdans,V50,16,01:00:18,00:59:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+310,3068,Janny Pulles,Koflexwerk B02,V40,25,01:00:18,00:58:58,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+311,1306,Marianne Daandels,Veghel,V50,17,01:00:19,00:59:03,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+312,1276,Wilma vande Scheur,Veghel,V50,18,01:00:20,00:59:13,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+313,3045,Henri Coomans,Jumbo Supermarkten B02,M40,53,01:00:24,00:59:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+314,1025,Inge Heesakkers,Sint-Oedenrode,V30,33,01:00:24,00:59:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+315,1217,Mieke van Helvoirt,Veghel,V40,26,01:00:31,00:59:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+316,2245,Rens vander Pol,Heeswijk-Dinther,MSR,41,01:00:34,00:59:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+317,2246,Rianne vander Pol,Heeswijk-Dinther,V40,27,01:00:35,00:59:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+318,1363,Harriet Poels,Veghel,V40,28,01:00:50,00:59:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+319,3153,Judith van Erp,Bakkerij van Leur B01,V30,34,01:00:50,01:00:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+320,1369,Ans van Duijnhoven,Veghel,V50,19,01:00:52,00:59:44,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+321,1102,Marc Middelweerd,Veghel,M40,54,01:01:06,01:00:56,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+322,1105,Mario Kuppers,Nijmegen,M40,55,01:01:23,01:00:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+323,1106,Tinie Kuppers,Nijmegen,V40,29,01:01:23,01:00:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+324,1351,Ron van Zelst,Roem B01,M30,60,01:01:26,01:00:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+325,1353,Gé van Nistelrooij,Roem B01,M30,61,01:01:26,01:00:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+326,85,Esther Hanssen,Hoofddorp,V30,35,01:01:27,01:00:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+327,3071,Janneke van der Burgt,Koflexwerk B02,V30,36,01:01:33,01:00:08,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+328,1046,Ruud van Erp,Utrecht,MSR,42,01:01:35,01:00:25,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+329,1262,Annick Vissers,Veghel,V30,37,01:01:36,01:01:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+330,1145,Erik van Os,Schijndel,M40,56,01:01:37,01:00:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+331,1111,Eef Blom,Veghel,V40,30,01:01:47,01:01:17,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+332,3032,Wendy Verhoeven,Vakgarage v.d. Linden B.V. B01,V30,38,01:01:50,01:01:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+333,3031,Maud van Aar,Vakgarage v.d. Linden B.V. B01,V40,31,01:01:50,01:01:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+334,5,Walter Kuhn,Veghel,M40,57,01:01:50,01:00:37,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+335,1000,Jeanette Vander Heijden,Veghel,V50,20,01:01:51,01:00:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+336,1146,Jan Kint,Veghel,M50,59,01:02:14,01:01:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+337,3042,Patrick Wouters,Jumbo Supermarkten B01,M40,58,01:02:31,01:01:41,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+338,1265,Jos Hendriks,Son en Breugel,M50,60,01:02:34,01:01:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+339,1264,Astrid Hendriks,Son en Breugel,V50,21,01:02:34,01:01:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+340,1273,Gert Beuving,Veghel,M50,61,01:02:50,01:01:41,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+341,1267,Mieke Bosch,Veghel,V50,22,01:02:51,01:01:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+342,1026,Joan van Wershoven,Veghel,V40,32,01:02:51,01:01:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+343,1187,Anneke Bomelijn,Heeswijk-Dinther,V50,23,01:02:52,01:01:55,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+344,1135,Meike van Doorne,Veghel,V30,39,01:02:52,01:02:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+345,1042,Marieke Jacobs,Veghel,V30,40,01:02:53,01:01:42,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+346,1023,Janny Brusselers,Veghel,V30,41,01:02:57,01:01:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+347,1308,Marieke vander Wijst,Veghel,V40,33,01:03:00,01:01:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+348,1287,Marianne vanden Akker,Berlicum Nb,V40,34,01:03:04,01:02:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+349,1168,Helen Willemsen,Oss,V40,35,01:03:11,01:02:11,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+350,1197,Marjolijne Koomen,Uden,V40,36,01:03:23,01:02:16,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+351,1151,Tom Bergenhenegouwen,Uden,MSR,43,01:03:32,01:03:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+352,1163,Anton vander Linden,Veghel,M40,59,01:03:33,01:02:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+353,1162,Martie Doornvan,Veghel,M50,62,01:03:33,01:02:07,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+354,1150,Stan Verstegen,Uden,MSR,44,01:03:33,01:03:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+355,1065,Thea Bekkers,Erp,V50,24,01:03:44,01:02:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+356,1166,Monique Bechtold-Cremers,Veghel,V50,25,01:03:46,01:02:28,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+357,1280,Willem Van ede,Uden,M50,63,01:03:47,01:03:20,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+358,3093,Frank Punte,Sligro Food Group B01,M50,64,01:03:52,01:03:14,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+359,1174,Irene vander Velden,Sint-Oedenrode,VSR,29,01:03:57,01:02:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+360,1167,Linda vBakel,Veghel,VSR,30,01:03:57,01:02:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+361,1047,Sabina de Koster,Utrecht,VSR,31,01:03:58,01:02:47,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+362,1285,Mathieu Bosch,Loosbroek,M50,65,01:04:10,01:03:22,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+363,3044,Conny de Groot,Jumbo Supermarkten B02,V50,26,01:04:12,01:02:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+364,1059,Dave Voss,Veghel,M40,60,01:04:13,01:03:11,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+365,1165,Roos Kanters,Veghel,V30,42,01:04:15,01:03:06,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+366,1182,Lianne Wessels,Gemert,V40,37,01:04:15,01:03:34,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+367,1296,Janneke Bosch,Veghel,V30,43,01:04:28,01:03:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+368,145,Albert van Heijningen,Ammerzoden,M50,66,01:04:37,01:03:29,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+369,1082,Marc Nouwen,Veghel,M30,62,01:04:45,01:04:33,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+370,1364,Deborah van Ham,Veghel,V30,44,01:04:46,01:04:35,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+371,1024,Imke Donkers,'s-Hertogenbosch,V30,45,01:04:57,01:03:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+372,1129,Mylène van Kessel,Schijndel,VSR,32,01:05:05,01:04:53,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+373,1030,Brigitte Kooijman,Eindhoven,V40,38,01:05:10,01:03:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+374,1087,Marissa Hughes-Keijzer,Nootdorp,V40,39,01:05:23,01:04:19,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+375,1081,Lotte Sanders,Vorstenbosch,VSR,33,01:05:26,01:04:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+376,1061,Hanneke Panhuijzen,Alphen aan den Rijn,V30,46,01:05:34,01:04:03,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+377,1043,Twan Jacobs,Veghel,M40,61,01:05:39,01:04:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+378,1345,Lisanne Geurts,Veghel,VSR,34,01:05:49,01:04:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+379,1270,Sophie van Horen,Veghel,VSR,35,01:05:52,01:04:31,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+380,1089,Brenda vanden Bogaert,Veghel,V40,40,01:05:58,01:04:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+381,1032,Maikel Vande Waarsenburg,Veghel,M30,63,01:06:17,01:05:45,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+382,1033,Linda Leenders,Veghel,V30,47,01:06:18,01:05:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+383,1097,Els Vanden Berg,Veghel,V50,27,01:06:18,01:05:07,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+384,1064,Toon Swinkels,Uden,M50,67,01:06:19,01:05:35,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+385,1281,Annet Van ede,Uden,V50,28,01:06:26,01:06:00,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+386,3088,Peter Teunis,Studio Springstof B01,M50,68,01:07:06,01:06:05,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+387,1250,Anja van Houtum,Veghel,V50,29,01:07:35,01:06:27,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+388,1243,Joop Voets,Heeswijk-Dinther,M50,69,01:08:22,01:07:34,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+389,1138,Ilse Oosterlaar,Haps,V40,41,01:08:44,01:07:40,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+390,1272,Jannie Ophey,Erp,V50,30,01:09:56,01:08:36,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+391,1155,Anne-Marie Van Beek,Veghel,V30,48,01:10:29,01:09:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+392,1039,Nina Vervoort,Sint-Oedenrode,VSR,36,01:10:57,01:10:10,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+393,1223,Maartje vande Ven,Veghel,V30,49,01:11:36,01:11:02,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+394,1079,Wim Van Grunsven,Veghel,M50,70,01:11:42,01:11:24,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+395,1231,Heleen Dusseldorp,Erp,V40,42,01:12:17,01:10:48,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+396,1238,Melanie Vander Heijden,Erp,V40,43,01:12:17,01:10:49,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+397,1144,Dorian Peters,Schijndel,V40,44,01:12:54,01:12:26,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+398,1255,Suzanne vanden Berg,Veghel,V30,50,01:12:58,01:11:43,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+399,3038,Paul van den Broek,Jumbo Supermarkten B01,M50,71,01:13:42,01:12:25,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+400,1251,Marjan Goorts,Veghel,V30,51,01:13:54,01:12:39,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+401,1036,Tamara Vander Coer,Uden,V30,52,01:14:38,01:13:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+402,1056,Carla Ketelaars,Veghel,V30,53,01:15:08,01:13:54,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+403,1198,Ineke de Wild,Uden,V50,31,01:15:50,01:15:46,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+404,1085,Annelies Paur,Deventer,VSR,37,01:15:53,01:14:51,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+405,1068,Arno Gordijn,Eersel,M50,72,01:16:18,01:15:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+406,1069,Lex Kloppenburg,Vlaardingen,M50,73,01:16:19,01:15:23,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+407,1275,Rien vander Linden,Veghel,M50,74,01:18:34,01:17:15,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+408,1110,Ronnie Kastelijn,Schijndel,M40,62,01:18:39,01:17:50,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+409,1009,Kristel Brekelmans,Bilthoven,VSR,38,01:33:00,01:31:38,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+410,3040,Jumbo miles,Jumbo Supermarkten B01,MSR,45,01:39:39,01:38:31,3e Krollenloop   Veghel   06-11-2016,2016-11-06
+411,3047,Jumbo,Jumbo Supermarkten B02,MSR,46,01:48:59,01:48:18,3e Krollenloop   Veghel   06-11-2016,2016-11-06

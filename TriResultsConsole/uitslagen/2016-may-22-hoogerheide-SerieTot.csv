@@ -1,0 +1,70 @@
+Nr,StartNr,Cat,Naam,Team,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaaltijd,Status,race,date
+1,41,M,Tim van Hemel,Squadra - Eindhoven,00:08:32,1,00:00:36,00:09:07,00:35:14,5,00:43:40,00:00:41,00:44:20,00:16:31,1,01:00:51,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+2,70,M,Stein Posthuma,Unltd - Rotterdam,00:08:33,2,00:00:36,00:09:08,00:35:08,1,00:43:39,00:00:37,00:44:15,00:16:46,2,01:01:01,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+3,26,M,Alexander Picard,Keep-On-Running-Hammer - Tilburg,00:08:34,3,00:00:36,00:09:09,00:35:10,4,00:43:41,00:00:38,00:44:19,00:17:20,4,01:01:38,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+4,59,M,Thijs Wiggers,TTvW - Hof van Twente,00:08:34,4,00:00:36,00:09:10,00:35:09,3,00:43:40,00:00:38,00:44:18,00:18:04,6,01:02:21,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+5,44,M,Devi Wolthuizen,Squadra - Eindhoven,00:08:34,5,00:00:38,00:09:12,00:35:08,2,00:43:43,00:00:37,00:44:20,00:18:19,8,01:02:38,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+6,71,M,Joep Staps,Unltd - Rotterdam,00:08:48,9,00:00:39,00:09:27,00:36:26,9,00:45:13,00:00:40,00:45:52,00:17:31,5,01:03:23,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+7,45,M,Stijn Jansen,TC Twente - Enschede,00:09:19,22,00:00:39,00:09:57,00:35:48,6,00:45:04,00:00:40,00:45:44,00:18:40,14,01:04:24,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+8,19,M,Vincent Sokolowski,Hellas - Utrecht,00:08:47,6,00:00:49,00:09:36,00:36:30,11,00:45:17,00:00:49,00:46:06,00:18:26,10,01:04:32,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+9,60,M,Maikel Zuijderhoudt,TTvW - Hof van Twente,00:08:54,13,00:00:41,00:09:34,00:37:44,26,00:46:21,00:00:58,00:47:18,00:17:19,3,01:04:37,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+10,27,M,Armand van der Smissen,Keep-On-Running-Hammer - Tilburg,00:09:16,21,00:00:41,00:09:56,00:36:09,7,00:45:15,00:00:51,00:46:05,00:18:53,15,01:04:57,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+11,37,M,Gaby van Caulil,Team Run2day - Arnhem,00:08:48,7,00:00:39,00:09:26,00:37:24,21,00:46:13,00:00:38,00:46:50,00:18:17,7,01:05:07,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+12,57,M,Caimin Stevens,TTvW - Hof van Twente,00:08:53,12,00:00:39,00:09:32,00:37:07,16,00:45:56,00:00:43,00:46:38,00:18:34,12,01:05:12,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+13,12,M,Oscar Torres' Fernandez,Team Duurzaamsport - Vasse,00:08:48,8,00:00:38,00:09:25,00:37:30,22,00:46:14,00:00:41,00:46:55,00:18:25,9,01:05:20,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+14,15,M,Robert de Korte,EdoSports - Maastricht,00:09:03,14,00:00:39,00:09:41,00:37:13,18,00:45:53,00:01:00,00:46:53,00:18:33,11,01:05:26,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+15,58,M,Koen Wiggers,TTvW - Hof van Twente,00:09:10,18,00:00:40,00:09:50,00:36:13,8,00:45:15,00:00:48,00:46:03,00:19:34,25,01:05:36,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+16,35,M,Jan van der Meijs,Regiotraining RTC Tilburg,00:09:03,16,00:00:46,00:09:49,00:37:14,19,00:46:16,00:00:47,00:47:03,00:18:39,13,01:05:41,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+17,43,M,Youri Vaes,Squadra - Eindhoven,00:09:19,23,00:00:41,00:10:00,00:36:55,14,00:46:15,00:00:41,00:46:55,00:19:01,17,01:05:56,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+18,68,M,Juul van de Kruijs,TV Weert - Weert,00:08:49,11,00:00:42,00:09:31,00:36:28,10,00:44:59,00:01:00,00:45:59,00:20:23,32,01:06:21,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+19,42,M,Terrence Olaria,Squadra - Eindhoven,00:09:03,15,00:00:40,00:09:42,00:36:33,12,00:45:23,00:00:53,00:46:15,00:20:42,37,01:06:57,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+20,54,M,Wouter Kegge,T.I.A. (TeamIndividueleAtleten) - Nederland,00:09:09,17,00:00:39,00:09:48,00:38:21,43,00:47:27,00:00:41,00:48:08,00:18:55,16,01:07:02,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+21,8,M,Jarno Veldhoven,DSZ Wave - Delft,00:09:34,28,00:00:43,00:10:17,00:37:58,34,00:47:29,00:00:45,00:48:14,00:19:06,18,01:07:20,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+22,9,M,Bas van Beek,Team Duurzaamsport - Vasse,00:09:56,35,00:00:42,00:10:38,00:37:39,25,00:47:27,00:00:49,00:48:16,00:19:23,19,01:07:39,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+23,65,M,Pieter Adriaens,TV Weert - Weert,00:09:31,26,00:00:51,00:10:22,00:37:55,33,00:47:29,00:00:47,00:48:16,00:19:26,21,01:07:41,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+24,5,M,René Kleizen,DSZ Wave - Delft,00:09:34,27,00:00:42,00:10:16,00:38:05,37,00:47:29,00:00:53,00:48:21,00:19:26,22,01:07:46,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+25,38,M,Sjoerd Hermsen,Team Run2day - Arnhem,00:09:50,32,00:00:42,00:10:31,00:37:34,24,00:47:28,00:00:38,00:48:05,00:19:44,27,01:07:48,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+26,4,M,Chris Steenbergen,Atac - Amsterdam,00:09:51,33,00:00:42,00:10:33,00:37:45,27,00:47:30,00:00:47,00:48:17,00:19:35,26,01:07:52,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+27,47,V,Miriam van Reijen,TC Twente - Enschede,00:09:51,34,00:00:38,00:10:29,00:37:51,30,00:47:29,00:00:52,00:48:20,00:19:50,28,01:08:10,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+28,55,M,Wouter van Leeuwen,T.I.A. (TeamIndividueleAtleten) - Nederland,00:10:04,38,00:00:50,00:10:54,00:37:05,15,00:47:06,00:00:52,00:47:58,00:20:21,31,01:08:18,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+29,11,M,Harald Derks,Team Duurzaamsport - Vasse,00:09:47,29,00:00:50,00:10:37,00:37:11,17,00:47:07,00:00:41,00:47:47,00:20:34,35,01:08:20,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+30,48,V,Lesley Smit,TC Twente - Enschede,00:09:49,31,00:00:46,00:10:35,00:38:25,45,00:48:14,00:00:46,00:49:00,00:19:28,23,01:08:28,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+31,49,M,Antoine van Brummelen,TC Twente 2 - Enschede,00:10:24,48,00:00:50,00:11:13,00:36:47,13,00:47:07,00:00:53,00:48:00,00:20:29,34,01:08:28,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+32,46,M,Niels te Pas,TC Twente - Enschede,00:08:49,10,00:00:40,00:09:28,00:39:02,46,00:47:33,00:00:58,00:48:30,00:20:02,29,01:08:31,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+33,52,M,Bas Winters,TC Twente 2 - Enschede,00:10:09,40,00:00:40,00:10:49,00:38:09,39,00:48:14,00:00:44,00:48:57,00:20:08,30,01:09:05,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+34,6,M,Bouke Kooreman,DSZ Wave - Delft,00:09:20,24,00:00:45,00:10:04,00:38:11,40,00:47:27,00:00:48,00:48:15,00:21:07,40,01:09:22,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+35,23,M,Niels-Peter Foppen,Hellas 2 - Utrecht,00:09:25,25,00:00:46,00:10:10,00:39:59,51,00:49:12,00:00:57,00:50:08,00:19:25,20,01:09:32,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+36,14,V,Sophie van der Most,EdoSports - Maastricht,00:10:13,41,00:00:41,00:10:53,00:38:07,38,00:48:10,00:00:51,00:49:00,00:20:39,36,01:09:38,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+37,21,M,Ron Band,Hellas 2 - Utrecht,00:10:20,42,00:00:46,00:11:05,00:38:01,36,00:48:16,00:00:50,00:49:05,00:21:00,38,01:10:05,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+38,69,V,Jolanda Nell,Unltd - Rotterdam,00:10:23,46,00:00:48,00:11:10,00:37:52,31,00:48:10,00:00:52,00:49:02,00:21:18,41,01:10:19,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+39,53,M,Michiel Broeksma,T.I.A. (TeamIndividueleAtleten) - Nederland,00:09:48,30,00:00:49,00:10:37,00:37:45,28,00:47:29,00:00:53,00:48:22,00:22:22,56,01:10:43,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+40,31,M,Joris de Boers,Opdam Interim Solutions - Uitgeest,00:10:25,49,00:00:47,00:11:12,00:37:32,23,00:48:04,00:00:39,00:48:43,00:22:07,50,01:10:49,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+41,25,V,Marina van Dijk,Keep-On-Running-Hammer - Tilburg,00:10:50,59,00:00:48,00:11:38,00:37:24,20,00:48:11,00:00:51,00:49:01,00:21:59,47,01:11:00,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+42,28,M,Tjemme Stegenga,Keep-On-Running-Hammer - Tilburg,00:10:27,51,00:00:49,00:11:15,00:37:53,32,00:48:11,00:00:58,00:49:08,00:21:53,46,01:11:00,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+43,36,M,Joey van 't Verlaat,Regiotraining RTC Tilburg,00:09:14,20,00:00:39,00:09:53,00:41:41,58,00:50:46,00:00:47,00:51:33,00:19:31,24,01:11:03,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+44,33,V,Shirin van Anrooij,Regiotraining RTC Tilburg,00:10:26,50,00:00:47,00:11:13,00:37:47,29,00:48:16,00:00:45,00:49:00,00:22:30,58,01:11:30,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+45,63,M,Wilfred Vogd,Tv Triade - Zwolle,00:10:54,60,00:01:02,00:11:55,00:37:59,35,00:48:59,00:00:55,00:49:53,00:21:45,42,01:11:38,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+46,22,V,Linda van Bemmel,Hellas 2 - Utrecht,00:10:49,54,00:00:42,00:11:30,00:38:22,44,00:49:01,00:00:51,00:49:52,00:22:10,51,01:12:02,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+47,2,M,Joe Mcconnell,Atac - Amsterdam,00:10:49,55,00:01:04,00:11:52,00:39:47,47,00:50:48,00:00:51,00:51:38,00:21:07,39,01:12:45,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+48,13,M,Gaston Vogel,EdoSports - Maastricht,00:09:56,36,00:00:52,00:10:48,00:38:19,42,00:48:18,00:00:49,00:49:06,00:24:02,62,01:13:07,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+49,50,M,Mark Kleve,TC Twente 2 - Enschede,00:10:02,37,00:00:49,00:10:51,00:39:58,50,00:49:52,00:00:57,00:50:49,00:22:22,55,01:13:10,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+50,29,V,Talisa van der Fluit,Opdam Interim Solutions - Uitgeest,00:10:21,43,00:00:52,00:11:12,00:40:30,55,00:50:52,00:00:50,00:51:42,00:21:47,43,01:13:28,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+51,18,V,Channah Brandsema,Hellas - Utrecht,00:10:49,56,00:00:45,00:11:33,00:40:13,54,00:50:55,00:00:51,00:51:45,00:21:50,44,01:13:35,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+52,30,V,Laura Hak,Opdam Interim Solutions - Uitgeest,00:10:50,58,00:00:46,00:11:35,00:40:03,52,00:50:52,00:00:47,00:51:38,00:22:02,49,01:13:40,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+53,17,V,Chantal Berga,Hellas - Utrecht,00:11:03,62,00:00:43,00:11:46,00:39:52,48,00:50:50,00:00:47,00:51:37,00:22:20,53,01:13:57,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+54,20,V,Ann Schoot Uiterkamp,Hellas - Utrecht,00:10:21,44,00:00:46,00:11:07,00:41:16,56,00:51:38,00:00:45,00:52:23,00:21:52,45,01:14:14,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+55,39,V,Sandra de Jonge,Team Run2day - Arnhem,00:10:23,45,00:00:48,00:11:10,00:42:41,61,00:53:07,00:00:44,00:53:51,00:20:26,33,01:14:16,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+56,16,V,Heleen Zandstra,EdoSports - Maastricht,00:10:50,57,00:00:45,00:11:34,00:40:07,53,00:50:53,00:00:48,00:51:41,00:22:57,59,01:14:37,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+57,51,V,Karin Neutel,TC Twente 2 - Enschede,00:11:04,63,00:00:43,00:11:46,00:39:54,49,00:50:52,00:00:48,00:51:40,00:23:34,61,01:15:13,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+58,7,M,Chris van Trigt,DSZ Wave - Delft,00:10:57,61,00:00:54,00:11:50,00:38:14,41,00:49:00,00:01:05,00:50:04,00:25:15,65,01:15:19,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+59,24,M,Bert Streumer,Hellas 2 - Utrecht,00:10:48,53,00:00:49,00:11:36,00:41:56,59,00:52:48,00:00:45,00:53:32,00:22:11,52,01:15:43,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+60,61,M,Robert de Bruin,Tv Triade - Zwolle,00:11:05,64,00:01:01,00:12:05,00:41:29,57,00:52:38,00:00:56,00:53:34,00:22:21,54,01:15:54,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+61,1,M,Ed Bird,Atac - Amsterdam,00:10:23,47,00:01:25,00:11:48,00:42:13,60,00:52:42,00:01:19,00:54:00,00:22:02,48,01:16:02,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+62,67,M,Marc Haex,TV Weert - Weert,00:11:14,65,00:00:54,00:12:08,00:44:03,63,00:55:07,00:01:03,00:56:10,00:22:24,57,01:18:34,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+63,56,M,Niels Schepers,T.I.A. (TeamIndividueleAtleten) - Nederland,00:10:46,52,00:00:58,00:11:44,00:44:30,64,00:55:07,00:01:06,00:56:13,00:23:03,60,01:19:16,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+64,10,V,Saskia Bekhuis,Team Duurzaamsport - Vasse,00:11:59,69,00:00:52,00:12:50,00:43:35,62,00:55:13,00:01:11,00:56:24,00:24:57,64,01:21:21,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+65,62,M,Benny Everts,Tv Triade - Zwolle,00:11:40,66,00:01:21,00:13:00,00:46:15,65,00:57:25,00:01:50,00:59:14,00:24:19,63,01:23:32,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+66,66,M,Bryan Everaerts,TV Weert - Weert,00:11:43,67,00:01:04,00:12:46,00:47:58,66,00:59:23,00:01:21,01:00:43,00:25:25,66,01:26:08,,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+67,64,M,Jan Wullink,Tv Triade - Zwolle,00:11:44,68,00:01:07,00:12:51,00:44:14,0,00:55:03,00:02:02,00:57:04,,0,,DNF,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+68,34,M,Sietse de Jong,Regiotraining RTC Tilburg,00:09:14,19,00:00:41,00:09:55,,0,,,,,0,,DNF,Run Bike Run Hoogerheide 22-05-2016,2016-05-22
+69,72,M,Olaf Brouwers,Unltd - Rotterdam,00:10:08,39,00:00:47,00:10:55,00:46:44,0,00:48:12,00:09:27,00:57:38,,0,,DQ,Run Bike Run Hoogerheide 22-05-2016,2016-05-22

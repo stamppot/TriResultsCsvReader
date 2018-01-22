@@ -1,0 +1,624 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,race,date
+1,20,Arne Mulder,Zwolle,Msen,1,00:32:58,00:32:58,00:16:09,00:16:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+2,2457,Joep Emmen,Zwolle,Msen,2,00:34:04,00:34:03,00:16:35,00:17:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+3,2059,Falco Olivier,Zwolle,Msen,3,00:34:30,00:34:29,00:17:13,00:17:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+4,2152,Jan Schra,IJsselmuiden,Msen,4,00:34:47,00:34:45,00:17:15,00:17:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+5,2362,Maarten Nieuwenhuis,Zwolle,Mvet,1,00:34:50,00:34:49,00:17:16,00:17:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+6,2396,Mark Hakbijl,Zwolle,Mvet,2,00:34:57,00:34:56,00:17:16,00:17:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+7,2448,Bert de Boer,Staphorst,Msen,5,00:35:28,00:35:27,00:17:48,00:17:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+8,2144,Samuel Hofman,Ruinen,Msen,6,00:35:31,00:35:30,00:17:47,00:17:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+9,2012,Bas Boekema,Zwolle,Msen,7,00:35:36,00:35:36,00:17:30,00:18:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+10,2062,Marcel de Bats,Vaassen,Msen,8,00:36:26,00:36:24,00:17:49,00:18:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+11,2470,Martijn Schakelaar,Hattem,Mvet,3,00:36:40,00:36:39,00:18:05,00:18:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+12,2728,Han_Peter Lucas,Zwolle,Mvet,4,00:36:43,00:36:42,00:18:07,00:18:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+13,2766,Willem de Weerdt,Hattem,Mvet,5,00:36:45,00:36:45,00:18:05,00:18:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+14,2528,Maurits Hoonhorst,Zwolle,Mvet,6,00:37:19,00:37:18,00:18:50,00:18:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+15,2056,Retse van der Berg,Zwolle,Msen,9,00:37:27,00:37:26,00:18:47,00:18:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+16,2684,Dick Van Os,Zwolle,Mvet,7,00:37:33,00:37:32,00:18:44,00:18:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+17,2206,Tess Boekema,Zwolle,Vsen,1,00:37:34,00:37:33,00:18:49,00:18:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+18,2746,Joost Klaver,Zwolle,Mvet,8,00:37:37,00:37:18,00:18:32,00:18:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+19,2513,Arjen Sanderse,Zwolle,Mvet,9,00:37:42,00:37:41,00:18:51,00:18:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+20,2028,Rutger_Jan Lusseveld,Zwolle,Msen,10,00:37:44,00:37:42,00:18:40,00:19:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+21,2379,Michel Blaauwgeers,Zwolle,Mvet,10,00:38:11,00:38:10,00:18:56,00:19:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+22,2007,Juriaan Moonen,Zwolle,Msen,11,00:38:22,00:38:11,00:18:40,00:19:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+23,2468,Sjoerd van Westerop,Zwolle,Mvet,11,00:38:36,00:38:32,00:19:20,00:19:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+24,2849,Lieve Tollet,Zwolle,Vvet,1,00:38:41,00:38:39,00:19:12,00:19:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+25,2125,Joost Maaskant,Zwolle,Msen,12,00:39:04,00:38:59,00:19:23,00:19:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+26,2385,Bernard Dummer,Zwolle,Mvet,12,00:39:04,00:38:59,00:19:47,00:19:12,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+27,2689,Marcel de Ruiter,Zwolle,Mvet,13,00:39:13,00:39:11,00:19:13,00:19:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+28,2439,Michiel van Dellen,Zwolle,Mvet,14,00:39:13,00:39:08,00:19:17,00:19:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+29,2730,Remco Groot Beumer,Raalte,Mvet,15,00:39:17,00:39:13,00:19:49,00:19:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+30,2536,Nanno van Dijk,Zwolle,Mvet,16,00:39:19,00:39:14,00:19:45,00:19:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+31,2632,André Kramer,Zwolle,Mvet,17,00:39:21,00:39:19,00:19:27,00:19:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+32,2685,Arno Boekema,Zwolle,Mvet,18,00:39:23,00:39:21,00:19:50,00:19:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+33,2671,Frankwin Mussche,Zwolle,Mvet,19,00:39:30,00:39:27,00:19:42,00:19:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+34,2763,Tjibbe de Vries,Kampen,Mvet,20,00:39:35,00:39:33,00:19:33,00:20:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+35,2409,Borre de Gier,Zwolle,Mvet,21,00:39:41,00:39:39,00:19:36,00:20:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+36,2138,Sjoerd Rosema,Zwolle,Msen,13,00:39:50,00:39:48,00:19:50,00:19:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+37,2143,Khaled Haj,Utrecht,Msen,14,00:39:51,00:39:48,00:19:20,00:20:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+38,2478,Jeffrey ter Steege,Zwolle,Mvet,22,00:39:58,00:39:50,00:19:44,00:20:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+39,2428,Wouter van Gessel,Zwolle,Mvet,23,00:39:59,00:39:57,00:19:34,00:20:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+40,2761,Patrick Stastra,Amsterdam,Mvet,24,00:40:01,00:39:57,00:20:12,00:19:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+41,2130,Michiel Marsman,Zwolle,Msen,15,00:40:15,00:40:13,00:19:26,00:20:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+42,2042,Rolf van der Graaf,Hasselt,Msen,16,00:40:32,00:40:24,00:19:46,00:20:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+43,2370,Hans van den Berg,Genemuiden,Mvet,25,00:40:34,00:40:21,00:19:44,00:20:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+44,2147,Wilco Hermens,Zwolle,Msen,17,00:40:38,00:40:33,00:20:18,00:20:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+45,2093,Jarno Takens,Zwolle,Msen,18,00:40:39,00:40:32,00:19:53,00:20:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+46,2688,Gerrit van 't Ende,Zwolle,Mvet,26,00:40:47,00:40:39,00:20:39,00:20:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+47,2049,Maarten Zomer,Zwolle,Msen,19,00:40:47,00:40:43,00:20:04,00:20:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+48,2368,Theo Boekema,Zwolle,Mvet,27,00:40:48,00:40:46,00:20:20,00:20:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+49,2227,Marco van der Sluis,Zwolle,Msen,20,00:40:51,00:40:45,00:20:14,00:20:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+50,2168,Albert Lantink,Zwolle,Msen,21,00:40:55,00:40:49,00:20:23,00:20:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+51,2592,René Hulsman,Raalte,Mvet,28,00:40:58,00:40:54,00:20:05,00:20:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+52,2410,Bertus Mensink,Zwolle,Mvet,29,00:41:11,00:41:07,00:20:16,00:20:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+53,2005,Jurgen Moonen,Zwolle,Msen,22,00:41:14,00:41:02,00:20:25,00:20:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+54,2047,Mark Veldkamp,Wezep,Msen,23,00:41:15,00:41:10,00:19:47,00:21:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+55,2752,Paul IJmker,Woudenberg,Mvet,30,00:41:17,00:41:09,00:20:25,00:20:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+56,2128,Rob Hammenga,Harderwijk,Msen,24,00:41:22,00:41:21,00:20:19,00:21:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+57,1450,Heiko van Beek,Hattem,Mvet,31,00:41:23,00:41:20,00:20:29,00:20:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+58,2741,Lennaert Steen,Zwolle,Mvet,32,00:41:27,00:41:17,00:20:27,00:20:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+59,2101,Gerben van 't Slot,Genemuiden,Msen,25,00:41:30,00:41:15,00:20:25,00:20:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+60,2481,Iwan Brink,Zwolle,Mvet,33,00:41:33,00:41:27,00:20:25,00:21:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+61,2114,Joost Holterman,Zwolle,Msen,26,00:41:38,00:41:22,00:20:21,00:21:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+62,2369,Rudi Selhorst,Zwolle,Mvet,34,00:41:41,00:41:37,00:20:32,00:21:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+63,2510,Olaf Bos,Zwolle,Mvet,35,00:41:44,00:41:38,00:20:34,00:21:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+64,2496,Edwin Middelveld,Zwolle,Mvet,36,00:41:46,00:41:45,00:20:29,00:21:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+65,2026,Myròn Spoor,Zwolle,Msen,27,00:41:50,00:41:27,00:21:27,00:20:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+66,2074,Dennis Spijkerboer,Zwolle,Msen,28,00:41:56,00:41:53,00:20:52,00:21:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+67,2424,Johan van Hoorn,Hattem,Mvet,37,00:42:01,00:41:57,00:20:29,00:21:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+68,2405,Gerard Kroes,Oldebroek,Mvet,38,00:42:04,00:42:02,00:20:29,00:21:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+69,2086,Maiko van Putten,Zwolle,Msen,29,00:42:13,00:42:01,00:21:20,00:20:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+70,2167,Matthias Kruisselbrink,Zwolle,Msen,30,00:42:16,00:42:11,00:20:50,00:21:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+71,2512,Renze Zijlstra,Zwolle,Mvet,39,00:42:22,00:42:08,00:20:57,00:21:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+72,1730,Thijs Boddeus,Zwolle,Msen,31,00:42:28,00:42:22,00:19:32,00:22:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+73,2700,Rob Schuil,Zwolle,Mvet,40,00:42:29,00:42:23,00:20:33,00:21:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+74,2682,Johan van Dijk,IJsselmuiden,Mvet,41,00:42:33,00:42:28,00:21:12,00:21:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+75,2033,Frank van Bruggen,Zwolle,Msen,32,00:42:33,00:42:26,00:21:35,00:20:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+76,1775,Ernst Zwijnenberg,Heino,Mvet,42,00:42:39,00:42:35,00:20:57,00:21:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+77,2066,Gert Kloosterman,Genemuiden,Msen,33,00:42:43,00:42:27,00:20:59,00:21:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+78,2665,Bouke van der Veen,Zwolle,Mvet,43,00:42:46,00:42:37,00:21:08,00:21:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+79,2543,Dennis brandenburg,Steenwijk,Mvet,44,00:42:49,00:42:43,00:21:30,00:21:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+80,2153,Jan-Wim Kanis,Kampen,Msen,34,00:42:56,00:42:35,00:21:26,00:21:10,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+81,2703,Hans Wieltink,Zwolle,Mvet,45,00:42:57,00:42:54,00:21:06,00:21:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+82,2364,Marcel Wichers,Hattem,Mvet,46,00:43:08,00:43:04,00:21:08,00:21:56,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+83,2727,Wim van den Berg,Amersfoort,Mvet,47,00:43:10,00:43:01,00:21:30,00:21:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+84,2380,Huib Liefhebber,Zwolle,Mvet,48,00:43:15,00:43:09,00:21:40,00:21:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+85,2550,Jan_Willem Francke,Zwolle,Mvet,49,00:43:18,00:43:13,00:21:41,00:21:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+86,2505,Herwin Hasewinkel,Zwolle,Mvet,50,00:43:26,00:43:17,00:21:28,00:21:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+87,2235,Gert Tadema,Zwolle,Mvet,51,00:43:29,00:43:23,00:21:33,00:21:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+88,2544,Izak Hiemstra,Zwolle,Mvet,52,00:43:33,00:43:27,00:21:28,00:21:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+89,2886,Anja Esveldt,Zwolle,Vvet,2,00:43:34,00:43:32,00:21:18,00:22:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+90,2045,Lambert Abraham,Zwolle,Msen,35,00:43:44,00:43:41,00:21:58,00:21:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+91,2218,Miranda Reijnders,Zwolle,Vsen,2,00:43:47,00:43:44,00:21:43,00:22:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+92,2677,William Groothand,Zwolle,Mvet,53,00:43:48,00:43:27,00:21:34,00:21:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+93,2004,Kevin Feijth,Zwolle,Msen,36,00:43:50,00:43:39,00:21:36,00:22:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+94,1492,Martin van der Spek,Zwolle,Mvet,55,00:43:53,00:43:45,00:21:53,00:21:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+95,2808,Henriet Koornberg-Spronk,Zwolle,Vvet,3,00:43:54,00:43:47,00:21:54,00:21:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+96,1359,Rob Diender,Hattem,Mvet,56,00:43:56,00:43:52,00:21:21,00:22:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+97,2546,Wim knol,Zwolle,Mvet,57,00:43:58,00:43:39,00:21:26,00:22:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+98,2744,Maarten Vos,Zwolle,Mvet,58,00:44:02,00:43:59,00:22:00,00:21:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+99,2034,Wilco Blok,Zwolle,Msen,37,00:44:04,00:43:54,00:22:09,00:21:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+100,2165,Bert van de Beek,Wezep,Msen,38,00:44:07,00:43:59,00:21:21,00:22:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+101,2438,Guy Slikker,Zwolle,Mvet,59,00:44:18,00:44:12,00:21:47,00:22:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+102,2367,Martijn Pool,Zwolle,Mvet,60,00:44:19,00:43:24,00:21:32,00:21:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+103,2718,Patrick Gums,Zwolle,Mvet,61,00:44:23,00:44:20,00:21:32,00:22:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+104,2681,Patrick Eilander,Meppel,Mvet,62,00:44:27,00:44:21,00:21:59,00:22:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+105,2774,Gert Bartels,Zwolle,Mvet,63,00:44:29,00:44:18,00:22:37,00:21:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+106,2521,Lambert Put,Nieuwleusen,Mvet,64,00:44:40,00:44:29,00:22:43,00:21:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+107,2078,Rogier Vink,Lelystad,Msen,39,00:44:45,00:44:45,00:21:53,00:22:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+108,2562,Jeroen Elshof,Zwolle,Mvet,65,00:44:46,00:44:14,00:22:19,00:21:56,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+109,2559,Henry Bruins,Hattem,Mvet,66,00:44:56,00:44:32,00:22:28,00:22:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+110,2145,Fred Koningstein,Dalfsen,Mvet,67,00:45:04,00:44:52,00:22:14,00:22:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+111,2435,Martin van Ommen,Zwolle,Mvet,68,00:45:08,00:44:59,00:22:40,00:22:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+112,2020,Rick Jansen,Zwolle,Msen,40,00:45:12,00:44:52,00:22:16,00:22:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+113,2001,Erik Slomp,Zwolle,Msen,41,00:45:13,00:45:09,00:22:26,00:22:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+114,2043,Joas Treffers,Hasselt,Msen,42,00:45:18,00:45:10,00:22:19,00:22:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+115,2009,Tjeerd Lemstra,Zwolle,Msen,43,00:45:22,00:45:17,00:22:09,00:23:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+116,2833,Susanne Meijer-Schutte,Zwolle,Vvet,4,00:45:24,00:45:21,00:22:34,00:22:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+117,2444,Rudy van Leerzem,Zwolle,Mvet,69,00:45:25,00:45:13,00:22:37,00:22:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+118,2740,Bert Wijnhoud,Hattem,Mvet,70,00:45:27,00:45:05,00:22:27,00:22:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+119,2002,Rufus van den Berg,Zwolle,Msen,44,00:45:29,00:45:01,00:23:05,00:21:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+120,2695,Dick van den Pol,Zwolle,Mvet,71,00:45:29,00:45:26,00:22:04,00:23:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+121,2567,Dirk Veldkamp,Zwolle,Mvet,72,00:45:30,00:44:33,00:22:54,00:21:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+122,2420,Dennis Dekker,Zwolle,Mvet,73,00:45:31,00:45:14,00:22:48,00:22:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+123,2653,Hans van den Arend,Zwolle,Mvet,74,00:45:33,00:44:22,00:22:40,00:21:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+124,2716,Wiechert van Tongeren,Zwolle,Mvet,75,00:45:33,00:44:28,00:22:30,00:21:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+125,2561,Mathilde Kruize,Zwolle,Vvet,5,00:45:34,00:45:31,00:22:34,00:22:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+126,2466,Gert Peppelenbos,Zwolle,Mvet,76,00:45:34,00:44:53,00:23:04,00:21:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+127,2131,Bart Jeurnink,Zwolle,Msen,45,00:45:35,00:45:10,00:22:23,00:22:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+128,2869,Jan Wessel Beekman,Zwolle,Mvet,77,00:45:37,00:44:49,00:22:29,00:22:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+129,2123,John Boer,Overberg,Mvet,78,00:45:42,00:45:39,00:22:02,00:23:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+130,2406,Vincent Michielsen,Zwolle,Mvet,79,00:45:46,00:45:31,00:22:52,00:22:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+131,2090,Matthijs Van der graaf,Hasselt,Msen,46,00:45:50,00:45:41,00:23:04,00:22:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+132,2015,Johan Zuidema,Zwolle,Msen,47,00:45:53,00:45:30,00:23:02,00:22:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+133,2381,Bas van Luijk,Zwolle,Mvet,80,00:45:53,00:45:46,00:22:28,00:23:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+134,2725,Rob Streek,Zwolle,Mvet,81,00:45:55,00:45:48,00:22:29,00:23:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+135,2473,Johan Veuger,Zwolle,Mvet,82,00:45:57,00:45:49,00:22:15,00:23:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+136,2067,Ben van Balgoijen,Zwolle,Msen,48,00:46:02,00:45:49,00:22:25,00:23:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+137,2133,Albert Christerus,Dalfsen,Msen,49,00:46:08,00:45:41,00:22:49,00:22:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+138,2556,Jim Beerens,Zwolle,Mvet,83,00:46:13,00:45:43,00:22:51,00:22:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+139,2705,Louis Zandbergen,Zwolle,Mvet,84,00:46:17,00:46:02,00:23:10,00:22:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+140,2301,Nardie Mulder,Zwolle,Vsen,3,00:46:18,00:46:15,00:23:01,00:23:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+141,2044,Martijn Koolstra,Zwolle,Msen,50,00:46:18,00:45:31,00:23:16,00:22:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+142,2526,Gert Kerssies,Zwolle,Mvet,85,00:46:21,00:46:04,00:23:22,00:22:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+143,2040,Tom Odink,Zwolle,Msen,51,00:46:23,00:45:41,00:22:52,00:22:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+144,2434,Raymond Vredenburg,Zwolle,Mvet,86,00:46:30,00:46:14,00:23:21,00:22:54,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+145,2776,Michael Klappe,Zwolle,Mvet,87,00:46:31,00:45:32,00:23:26,00:22:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+146,2069,Erik_Jan Everts,Zwolle,Msen,52,00:46:31,00:46:31,00:23:31,00:23:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+147,2503,Frans van Delft,Zwolle,Mvet,88,00:46:31,00:46:11,00:23:14,00:22:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+148,2770,Arjan Kuiperij,Zwolle,Mvet,89,00:46:32,00:46:19,00:23:43,00:22:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+149,2024,Jörn Seuters,Zwolle,Msen,53,00:46:33,00:45:55,00:23:35,00:22:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+150,3503,Ralph Verheijen,,Msen,54,00:46:36,00:45:27,00:23:41,00:21:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+151,2080,Jeroen Andelbeek,Zwolle,Msen,55,00:46:36,00:46:08,00:23:22,00:22:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+152,2458,Wim Meijer,Zwolle,Mvet,90,00:46:38,00:46:28,00:22:56,00:23:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+153,2164,Hilbert Kok,Zwolle,Msen,56,00:46:38,00:45:56,00:22:57,00:23:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+154,2160,Marco Blokhuis,Zwolle,Msen,57,00:46:39,00:46:02,00:23:03,00:22:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+155,2694,Robert te Raa,Zwolle,Mvet,91,00:46:47,00:46:34,00:23:56,00:22:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+156,2600,Simon van de Laak,Zwolle,Mvet,92,00:46:47,00:46:39,00:23:47,00:22:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+157,2057,Jan Koele,Zwolle,Msen,58,00:46:47,00:46:34,00:23:00,00:23:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+158,2748,Jaap Otten,Zwolle,Mvet,93,00:46:49,00:46:34,00:23:33,00:23:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+159,2691,Dirk_Jan van Heiningen,Zwolle,Mvet,94,00:46:54,00:46:26,00:23:46,00:22:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+160,2135,Martin Boezelman,Hasselt,Msen,59,00:46:56,00:46:34,00:23:07,00:23:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+161,2488,Gerjan kanis,Zwolle,Mvet,95,00:46:57,00:46:50,00:23:06,00:23:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+162,2831,Fransisca van Schaik,Zwolle,Vvet,6,00:46:57,00:46:52,00:22:52,00:24:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+163,2839,Marjon Bijsterbosch,Zwolle,Vvet,7,00:47:06,00:46:57,00:23:08,00:23:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+164,2388,Michel Matteman,Zwolle,Mvet,96,00:47:08,00:46:51,00:23:13,00:23:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+165,2516,Sjon de Vries,Zwolle,Mvet,97,00:47:09,00:46:49,00:23:35,00:23:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+166,2672,Marcel Zeephat,Zwolle,Mvet,98,00:47:10,00:46:51,00:23:35,00:23:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+167,2472,Marnix de Vries,Zwolle,Msen,60,00:47:13,00:46:28,00:22:33,00:23:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+168,2402,Wouter Bos,Zwolle,Mvet,99,00:47:15,00:47:03,00:23:40,00:23:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+169,2840,Daniella Bastiaan,'t Loo Oldebroek,Vvet,8,00:47:17,00:47:13,00:23:17,00:23:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+170,2031,Adriaan van Dalfsen,Genemuiden,Msen,61,00:47:19,00:47:09,00:22:10,00:24:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+171,2597,Martin van Wagensveld,Zwolle,Mvet,100,00:47:20,00:46:41,00:23:31,00:23:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+172,2598,Erik_Wim de Vries,Zwolle,Mvet,101,00:47:22,00:46:55,00:23:14,00:23:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+173,2757,Richard Werkman,Zwolle,Mvet,102,00:47:26,00:47:08,00:23:01,00:24:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+174,3505,Dirk-Jan Kouwen,,Msen,62,00:47:27,00:46:22,00:22:28,00:23:54,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+175,2726,Arjan Bruins,Zwolle,Mvet,103,00:47:28,00:47:05,00:23:41,00:23:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+176,2658,Michiel van Amerongen,Zwolle,Mvet,104,00:47:29,00:46:57,00:23:32,00:23:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+177,2518,BerendJan Engels,Zwolle,Mvet,105,00:47:35,00:47:20,00:23:39,00:23:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+178,2098,Jeroen Beekhof,Zwolle,Msen,63,00:47:38,00:47:31,00:23:51,00:23:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+179,2360,Gerrit Hofstede,Zwolle,Mvet,106,00:47:41,00:47:19,00:23:52,00:23:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+180,2404,André Bosscha,Zwolle,Mvet,107,00:47:42,00:47:31,00:23:02,00:24:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+181,2450,Jan Kerssies,Zwolle,Mvet,108,00:47:45,00:47:33,00:23:38,00:23:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+182,2068,Thijs van der Molen,Gouda,Msen,64,00:47:45,00:47:31,00:24:07,00:23:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+183,2844,Amyke Veurink,Zwolle,Vvet,9,00:47:45,00:47:37,00:23:18,00:24:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+184,2377,Everhard van den Hoek,Zwolle,Mvet,109,00:47:45,00:47:23,00:23:25,00:23:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+185,2732,Tijmen Eikelboom,Zwolle,Mvet,110,00:47:46,00:47:38,00:23:30,00:24:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+186,2540,Jurian Meijntjes,Zwolle,Mvet,111,00:47:51,00:47:17,00:23:39,00:23:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+187,2115,Ronald van der Hulst,Zwolle,Msen,65,00:47:56,00:47:19,00:23:30,00:23:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+188,2132,Pim Kroes,Zwolle,Msen,66,00:47:58,00:47:22,00:24:03,00:23:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+189,2079,Henri vd klogt,Hasselt,Msen,67,00:47:59,00:47:49,00:23:58,00:23:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+190,2877,Johan van Popta,Zwolle,Mvet,112,00:47:59,00:47:45,00:23:45,00:24:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+191,2779,Kees Regelink,Vollenhove,Mvet,113,00:48:00,00:47:45,00:23:42,00:24:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+192,2157,Maurits Verstraten,Zwolle,Msen,68,00:48:00,00:47:57,00:23:08,00:24:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+193,2649,Arnoud Hettinga,Zwolle,Mvet,114,00:48:00,00:47:53,00:23:28,00:24:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+194,2670,Arnoud hoen,Zwolle,Mvet,115,00:48:03,00:47:28,00:23:38,00:23:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+195,3501,Simon van der Zaag,,Msen,69,00:48:03,00:46:58,00:23:36,00:23:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+196,2048,Quinten Meerveld,Zwolle,Msen,70,00:48:09,00:46:59,00:22:14,00:24:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+197,3506,Dennis Overweg,,Msen,71,00:48:09,00:47:01,00:22:54,00:24:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+198,2127,Jan_Wilem Hidding,Zwolle,Msen,72,00:48:10,00:47:47,00:23:46,00:24:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+199,2460,Eric Veldkamp,Zwolle,Mvet,116,00:48:11,00:47:27,00:24:08,00:23:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+200,2623,Kars van Tarel,Zwolle,Mvet,117,00:48:12,00:47:34,00:24:07,00:23:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+201,2036,Bas van der Hulst,Zwolle,Msen,73,00:48:13,00:47:36,00:23:30,00:24:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+202,2373,Jos Meijer,Zwolle,Mvet,118,00:48:14,00:47:54,00:23:51,00:24:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+203,2519,Frank Nusman,Zwolle,Mvet,119,00:48:15,00:47:32,00:24:13,00:23:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+204,2568,Bjorn Overdijk,Zwolle,Mvet,120,00:48:18,00:47:19,00:23:16,00:24:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+205,2154,Gerhard Jansen,Zwolle,Msen,74,00:48:20,00:48:05,00:23:19,00:24:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+206,2365,Freddy Mulder,Zwolle,Mvet,121,00:48:20,00:48:11,00:23:26,00:24:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+207,2371,Chris Knol,Zwolle,Mvet,123,00:48:21,00:48:09,00:23:58,00:24:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+208,2768,Erwin Scheve,Zwolle,Mvet,124,00:48:22,00:48:20,00:23:49,00:24:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+209,2601,Dennis Smit,Zwolle,Mvet,125,00:48:25,00:48:22,00:23:22,00:25:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+210,2134,Rutger Pierik,Zwolle,Msen,75,00:48:27,00:48:17,00:23:09,00:25:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+211,2570,Jeroen Nijhuis,Zwolle,Mvet,126,00:48:28,00:47:53,00:24:23,00:23:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+212,2756,Eric Jansen,Zwolle,Mvet,127,00:48:29,00:48:06,00:24:46,00:23:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+213,2375,Rento Belt,Zwolle,Mvet,128,00:48:31,00:47:30,00:23:00,00:24:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+214,2634,Jeroen van der Veer,Zwolle,Mvet,129,00:48:33,00:48:27,00:23:58,00:24:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+215,2471,Eric heitbrink,Zwolle,Mvet,130,00:48:39,00:48:18,00:23:43,00:24:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+216,2418,Bastiaan Koopman,Zwolle,Mvet,131,00:48:41,00:47:41,00:23:50,00:23:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+217,2411,Jeroen Van Beek,Zwolle,Mvet,132,00:48:42,00:48:32,00:23:59,00:24:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+218,2214,Sietske Boomsma,Zwolle,Vsen,4,00:48:43,00:48:04,00:23:52,00:24:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+219,2769,Fred van Dam,Zwolle,Mvet,133,00:48:45,00:48:14,00:24:12,00:24:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+220,2581,Andre Mars,Dalfsen,Mvet,134,00:48:47,00:48:22,00:23:32,00:24:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+221,2872,Hermien Meijer,Dalfsen,Vvet,10,00:48:48,00:48:22,00:23:31,00:24:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+222,2021,Henk van Dorp,Zwolle,Msen,76,00:48:50,00:48:19,00:23:42,00:24:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+223,2641,Andres Gieling,Zwolle,Mvet,135,00:48:52,00:48:38,00:23:54,00:24:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+224,2111,Arend Horst,Zwolle,Msen,77,00:48:52,00:48:45,00:24:34,00:24:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+225,2751,Pim Warntjes,Zwolle,Mvet,136,00:48:53,00:48:29,00:24:33,00:23:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+226,2355,Thies-Jan Jansen,Zwolle,Msen,78,00:48:54,00:48:43,00:24:19,00:24:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+227,2355,Ronald Raidt,Zwolle,Mvet,137,00:48:54,00:48:44,00:24:19,00:24:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+228,3504,Pieter de Boer,,Msen,79,00:48:57,00:47:48,00:24:06,00:23:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+229,2440,Jasper Honingh,Zwolle,Mvet,138,00:48:57,00:48:32,00:24:49,00:23:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+230,2777,Henk Norder,Zwolle,Mvet,139,00:49:01,00:48:32,00:24:13,00:24:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+231,3520,Jimmy Veldman,,Msen,80,00:49:02,00:48:29,00:24:12,00:24:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+232,2610,Suhat Bulutlar,Zwolle,Mvet,140,00:49:02,00:48:27,00:24:10,00:24:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+233,2627,Tonnie Mondria,Zwolle,Mvet,141,00:49:07,00:48:47,00:24:24,00:24:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+234,2504,Francis Arkes,Zwolle,Mvet,142,00:49:08,00:49:00,00:24:38,00:24:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+235,2520,Jeroen Visser,Geraardsbergen,Mvet,143,00:49:10,00:48:20,00:24:19,00:24:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+236,2905,Yvonne slendebroek,Kampen,Vvet,11,00:49:10,00:48:57,00:23:56,00:25:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+237,2759,Martijn verheule,Zwolle,Mvet,144,00:49:12,00:48:53,00:23:49,00:25:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+238,2868,Ellen bouwmeester,Zwolle,Vvet,12,00:49:14,00:48:21,00:24:14,00:24:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+239,2008,Jolanda Regout,Zwolle,Vvet,13,00:49:15,00:48:57,00:24:25,00:24:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+240,2061,Arend_Jan Poelarends,Zwolle,Msen,82,00:49:15,00:48:30,00:24:43,00:23:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+241,2209,Anne Zweers,Zwolle,Mvet,145,00:49:16,00:48:55,00:24:23,00:24:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+242,2555,Jan Koning,Zwolle,Mvet,146,00:49:22,00:49:18,00:23:14,00:26:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+243,2103,Mart van Ark,Zwolle,Msen,83,00:49:23,00:49:03,00:24:36,00:24:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+244,2350,Alexander Scheffer,Zwolle,Mvet,147,00:49:25,00:49:09,00:24:36,00:24:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+245,2615,Maarten de Jong,Kampen,Mvet,148,00:49:26,00:48:45,00:23:50,00:24:56,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+246,2119,Dirkjan de Groot,Zwolle,Msen,84,00:49:35,00:48:38,00:25:01,00:23:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+247,2446,Johan Fransen,Hardenberg,Mvet,149,00:49:35,00:49:19,00:23:42,00:25:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+248,2121,Thomas Fikken,Diepenveen,Msen,85,00:49:37,00:48:39,00:25:00,00:23:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+249,2771,Jan Tjeerdsma,Pesse,Mvet,150,00:49:39,00:48:56,00:24:28,00:24:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+250,2708,René Prins,Zwolle,Mvet,151,00:49:40,00:48:31,00:24:12,00:24:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+251,2303,Lianne van den Berg,Genemuiden,Vsen,5,00:49:42,00:49:30,00:24:43,00:24:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+252,2416,Ferry van Laar,Meppel,Msen,86,00:49:43,00:49:33,00:24:26,00:25:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+253,2832,Maressa Pouw,Zwolle,Vvet,14,00:49:46,00:49:30,00:24:26,00:25:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+254,2499,Vincent ten Voorde,Zwolle,Mvet,152,00:49:46,00:49:40,00:24:53,00:24:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+255,2554,Jeroen Schippers,Hasselt,Mvet,153,00:49:48,00:49:33,00:24:46,00:24:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+256,2431,Marcel de Groot,Zwolle,Mvet,154,00:49:48,00:49:22,00:24:56,00:24:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+257,2525,Henk Smeding,Zwolle,Mvet,155,00:49:50,00:49:43,00:23:46,00:25:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+258,2162,Jeroen Heerdink,Zwolle,Msen,87,00:49:50,00:49:42,00:24:16,00:25:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+259,2095,Frank de Jonge,Zwolle,Msen,88,00:49:50,00:48:31,00:23:50,00:24:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+260,2693,Gerhard van Dijkhuizen,Zwolle,Mvet,156,00:49:51,00:49:02,00:23:41,00:25:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+261,2542,FrankNico Hogeweg,Zwolle,Mvet,157,00:49:52,00:49:45,00:23:06,00:26:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+262,2300,Manon Schouten,Zwolle,Vsen,6,00:49:54,00:49:37,00:25:06,00:24:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+263,2509,Vunda Alexandre Lourenco,Hasselt,Mvet,158,00:49:54,00:49:32,00:24:13,00:25:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+264,2022,Martijn Gijsbers,Beilen,Msen,89,00:49:55,00:49:33,00:24:19,00:25:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+265,2006,Ralph van Dijk,Zwolle,Msen,90,00:49:56,00:49:40,00:24:27,00:25:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+266,2742,Nico Mijnheer,Hasselt,Mvet,159,00:49:57,00:49:42,00:24:58,00:24:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+267,2485,Henk Folkerts,Zwolle,Mvet,160,00:49:59,00:49:23,00:24:40,00:24:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+268,2463,Michiel Bruins,Zwolle,Mvet,161,00:50:00,00:49:42,00:24:03,00:25:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+269,2491,Richard van Gelder,Zwolle,Mvet,162,00:50:01,00:49:20,00:24:26,00:24:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+270,2909,Beata Bouwhuis,Deventer,Vvet,15,00:50:02,00:49:07,00:24:59,00:24:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+271,2548,Willem Groothedde,Zwolle,Mvet,163,00:50:02,00:49:57,00:24:58,00:25:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+272,2834,Ingrid Dekker,Zwolle,Vvet,16,00:50:03,00:49:58,00:24:54,00:25:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+273,3525,Karin Bakker,,Vvet,17,00:50:04,00:49:10,00:24:47,00:24:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+274,2686,Harold Neijenhuis,Hattem,Mvet,164,00:50:11,00:49:55,00:24:33,00:25:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+275,2743,Eddy heuten,Zwolle,Mvet,165,00:50:12,00:50:00,00:24:29,00:25:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+276,2739,Egbert Sluiter,Kampen,Mvet,166,00:50:15,00:49:44,00:25:08,00:24:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+277,2895,Hermie Drenth,Zwolle,Vvet,18,00:50:16,00:49:57,00:24:48,00:25:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+278,2642,Richard Zanen,Venhuizen,Mvet,167,00:50:17,00:49:59,00:24:27,00:25:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+279,2622,Joost Nunnink,Zwolle,Mvet,168,00:50:21,00:49:22,00:24:47,00:24:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+280,2500,Michel Bakker,Zwolle,Mvet,169,00:50:24,00:49:09,00:23:51,00:25:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+281,2220,Elisabeth van Ommen - Geertsem,Zwolle,Vsen,7,00:50:24,00:50:15,00:24:33,00:25:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+282,2713,Dick de Reus,Nunspeet,Mvet,170,00:50:29,00:49:42,00:25:17,00:24:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+283,2529,Tijn van den Hazel,Zwolle,Mvet,171,00:50:30,00:49:43,00:25:05,00:24:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+284,2140,Herman Geertsma,Zwolle,Msen,91,00:50:33,00:50:10,00:25:00,00:25:10,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+285,2921,Ingrid Lanjouw,Zwolle,Vvet,19,00:50:34,00:50:14,00:24:55,00:25:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+286,2580,Remco Daleman,Zwolle,Mvet,172,00:50:34,00:49:50,00:25:09,00:24:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+287,2588,Nico van Houten,Zwolle,Mvet,173,00:50:34,00:49:51,00:25:10,00:24:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+288,2630,Rob Kuiper,Zwolle,Mvet,174,00:50:36,00:49:47,00:25:27,00:24:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+289,2166,Henry Schuurman,Elburg,Msen,92,00:50:36,00:50:19,00:25:01,00:25:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+290,2735,Geert Christerus,Dalfsen,Mvet,175,00:50:37,00:49:54,00:25:35,00:24:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+291,2523,Marc Schonewille,Zwolle,Mvet,176,00:50:42,00:50:06,00:25:18,00:24:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+292,2480,Gertjan Halff,Zwolle,Mvet,177,00:50:46,00:50:41,00:25:05,00:25:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+293,2459,Gerard Buiter,Zwolle,Mvet,178,00:50:47,00:49:56,00:25:58,00:23:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+294,2035,Niek van Dijk,Utrecht,Msen,93,00:50:51,00:50:21,00:25:57,00:24:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+295,2674,Rolf van Pijkeren,Zwolle,Mvet,179,00:50:51,00:50:40,00:24:23,00:26:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+296,2618,Cordy Volkers,Zwolle,Mvet,180,00:50:52,00:50:25,00:25:00,00:25:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+297,2884,Natasja scholten,Kampen,Vvet,20,00:50:52,00:50:42,00:25:21,00:25:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+298,2607,Marthijn van Mossel,Zwolle,Mvet,181,00:50:54,00:50:28,00:25:07,00:25:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+299,2749,Rokus Plantinga,Zwolle,Mvet,182,00:50:55,00:50:18,00:24:32,00:25:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+300,2738,Marc Schrijver,Zwolle,Mvet,183,00:51:01,00:49:43,00:24:21,00:25:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+301,2150,René Kleijer,Zwolle,Msen,95,00:51:02,00:50:26,00:25:07,00:25:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+302,3502,Tim Hatzmann,,Msen,96,00:51:05,00:49:57,00:24:26,00:25:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+303,2495,Gertjan de Jong,Zwolle,Mvet,184,00:51:07,00:50:25,00:25:15,00:25:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+304,2400,Wim Slagter,Zwolle,Mvet,185,00:51:12,00:50:39,00:25:33,00:25:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+305,2211,Greetje Slingerland,Zwolle,Vsen,8,00:51:14,00:50:43,00:25:30,00:25:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+306,2129,Nick Tory,Zwolle,Msen,97,00:51:17,00:50:56,00:25:03,00:25:54,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+307,2807,Jacinta Deuling,Zwolle,Vvet,21,00:51:18,00:50:51,00:25:22,00:25:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+308,2635,Erik Raben,Zwolle,Mvet,186,00:51:19,00:50:55,00:25:35,00:25:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+309,2898,Ester Pronk,Zwolle,Vvet,22,00:51:20,00:51:08,00:24:50,00:26:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+310,2064,Mike Mekking,Zwolle,Msen,98,00:51:24,00:51:21,00:25:03,00:26:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+311,2678,Fred van boven,Zwolle,Mvet,187,00:51:26,00:51:02,00:25:21,00:25:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+312,3523,Jeffrey Hazeleger,,Mvet,188,00:51:28,00:50:34,00:25:23,00:25:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+313,2575,Frans Wiering,Zwolle,Mvet,189,00:51:31,00:51:09,00:24:39,00:26:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+314,2553,Gerben Kollen,Zwolle,Mvet,190,00:51:34,00:50:54,00:25:18,00:25:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+315,2259,Nelleke Barkmeijer,Zwolle,Vsen,9,00:51:34,00:51:26,00:25:20,00:26:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+316,2415,Frank Begemann,Zwolle,Mvet,191,00:51:44,00:51:29,00:25:57,00:25:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+317,2660,Arjan Schuurman,Genemuiden,Mvet,192,00:51:44,00:51:19,00:25:55,00:25:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+318,2142,Robert Hammer,Genemuiden,Msen,99,00:51:45,00:51:21,00:25:57,00:25:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+319,2231,Relinde van der Horst,Zwolle,Vsen,10,00:51:49,00:51:39,00:25:13,00:26:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+320,2037,Rieuwert de Haan,Zwolle,Msen,100,00:51:53,00:51:31,00:27:26,00:24:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+321,2620,Roelof Schoppers,Enschede,Mvet,193,00:51:54,00:51:20,00:24:32,00:26:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+322,2054,Hans Roman,Zwolle,Msen,101,00:51:54,00:51:19,00:24:37,00:26:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+323,2655,Robert Haitsma,Barneveld,Mvet,194,00:51:55,00:50:45,00:25:43,00:25:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+324,2586,Gerbert Hebbink,Zwolle,Mvet,195,00:51:55,00:51:42,00:22:37,00:29:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+325,2476,Remco Jacobs,Zwolle,Mvet,196,00:51:57,00:51:20,00:25:27,00:25:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+326,2284,Martine Bonnema,Zwolle,Vsen,11,00:51:58,00:51:43,00:25:50,00:25:54,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+327,2017,Max Kuiper,Zwolle,Msen,102,00:51:58,00:51:18,00:25:52,00:25:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+328,2566,Michel Hulsman,Zwolle,Mvet,197,00:52:00,00:51:43,00:24:44,00:27:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+329,2566,Willem Aalbers,Arnhem,Mvet,198,00:52:01,00:51:43,00:24:43,00:27:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+330,2628,Matthijs Brunink,Zwolle,Mvet,199,00:52:01,00:51:23,00:25:35,00:25:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+331,2629,Arjen van Noord,Zwolle,Mvet,200,00:52:02,00:51:21,00:25:38,00:25:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+332,2720,Robert Bakker,Wieringerwerf,Mvet,201,00:52:03,00:51:57,00:25:14,00:26:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+333,2576,Reino Rozendaal,Zwolle,Mvet,202,00:52:04,00:51:19,00:25:37,00:25:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+334,2549,Peter Verhagen,Amersfoort,Mvet,203,00:52:09,00:51:45,00:25:58,00:25:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+335,2838,Beate Balkestein,Zwolle,Vvet,23,00:52:15,00:52:07,00:24:59,00:27:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+336,2383,Sander van Dijk,Zwolle,Mvet,204,00:52:16,00:51:54,00:24:52,00:27:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+337,2479,Herman Reezigt,Zwolle,Mvet,205,00:52:19,00:51:40,00:26:06,00:25:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+338,2928,Gea Tiemens,Staphorst,Vvet,24,00:52:26,00:52:09,00:25:10,00:26:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+339,2706,Owe Loonstra,Zwolle,Mvet,206,00:52:27,00:52:21,00:24:08,00:28:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+340,2731,Gerrit Doornenbal,Zwolle,Mvet,207,00:52:34,00:52:02,00:25:34,00:26:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+341,2137,Eric Manders,Zwolle,Msen,103,00:52:44,00:51:46,00:29:34,00:22:12,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+342,2352,Martijn Dekker,Zwolle,Mvet,208,00:52:45,00:52:20,00:25:53,00:26:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+343,2820,Marije Neuteboom-Vogel,Zwolle,Vvet,25,00:52:46,00:52:29,00:26:26,00:26:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+344,2393,Jeroen Hollegien,Laar,Mvet,209,00:52:49,00:52:38,00:26:22,00:26:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+345,2539,Ruben Nijhuis,Zwolle,Mvet,210,00:52:49,00:52:00,00:26:36,00:25:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+346,2107,Ferdinand Schilder,Zwolle,Msen,104,00:52:53,00:52:21,00:26:42,00:25:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+347,2780,Peter van Heerde,Zwolle,Mvet,211,00:52:54,00:52:24,00:26:10,00:26:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+348,2587,Norbert Bosman,Zwolle,Mvet,212,00:52:55,00:52:24,00:26:05,00:26:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+349,2527,Jacco Teunis,Zwolle,Mvet,213,00:52:55,00:52:30,00:26:19,00:26:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+350,2298,Esther Veenstra,Zwolle,Vsen,12,00:52:55,00:52:36,00:26:21,00:26:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+351,2202,Inge Zwiers,Oldebroek,Vvet,26,00:52:56,00:52:43,00:26:06,00:26:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+352,2734,Ronald Harbrink,Zwolle,Mvet,214,00:52:58,00:52:23,00:26:32,00:25:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+353,2852,Eveliene van den Hazel,Zwolle,Vvet,27,00:52:59,00:52:13,00:26:06,00:26:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+354,2502,Wouter Drogt,Zwolle,Mvet,215,00:53:03,00:52:12,00:25:50,00:26:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+355,2675,Romke Romkes,Zwolle,Mvet,216,00:53:04,00:52:31,00:26:40,00:25:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+356,2538,Frank Herbrink,Zwolle,Mvet,217,00:53:05,00:52:35,00:25:30,00:27:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+357,2626,Jeroen ten Koppel,Zwolle,Mvet,218,00:53:06,00:52:48,00:25:43,00:27:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+358,2919,Kirstin de Bruijn,Zwolle,Vvet,28,00:53:06,00:52:49,00:26:46,00:26:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+359,2427,Henry Dijkman,Zwolle,Mvet,219,00:53:11,00:52:42,00:26:11,00:26:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+360,2071,Maarten van der Molen,Zwolle,Msen,105,00:53:12,00:52:58,00:25:57,00:27:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+361,2289,Anne-Marian Niphuis,Zwolle,Vsen,13,00:53:13,00:52:51,00:26:22,00:26:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+362,2155,Jornt Veldink,Zwolle,Msen,106,00:53:13,00:52:15,00:25:36,00:26:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+363,2126,Joost Bruggeman,Zwolle,Msen,107,00:53:18,00:52:28,00:26:21,00:26:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+364,2614,John Bakker,Hasselt,Mvet,220,00:53:20,00:52:54,00:26:47,00:26:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+365,2707,Gert Visser,Zwolle,Mvet,221,00:53:21,00:52:22,00:26:10,00:26:12,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+366,2879,Nienke Wormgoor,Zwolle,Vvet,29,00:53:22,00:52:40,00:26:10,00:26:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+367,2714,Henk Hokse,Staphorst,Mvet,222,00:53:22,00:52:25,00:26:44,00:25:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+368,2148,Albert_Jan van Olst,Nunspeet,Msen,108,00:53:22,00:52:26,00:26:45,00:25:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+369,2307,Sanne Kok,Zwolle,Vsen,14,00:53:23,00:52:44,00:26:29,00:26:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+370,2433,Remko Schultz,Zwolle,Mvet,224,00:53:23,00:52:57,00:25:51,00:27:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+371,2643,Wiebe Buter,Rouveen,Mvet,225,00:53:25,00:52:18,00:25:45,00:26:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+372,2754,Jurrie Hersevoort,Zwolle,Mvet,226,00:53:25,00:52:30,00:26:35,00:25:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+373,2639,Raymond Flierjans,Zwolle,Mvet,227,00:53:25,00:52:19,00:25:47,00:26:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+374,2640,Thijs oosterlaar,Zwolle,Mvet,228,00:53:25,00:52:18,00:25:46,00:26:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+375,2563,Arjan de Boer,Zwolle,Mvet,229,00:53:26,00:52:58,00:25:45,00:27:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+376,2442,Richard Lubbers,Zwolle,Mvet,230,00:53:30,00:52:49,00:26:51,00:25:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+377,2232,Romee Salverda,Zwolle,Vsen,15,00:53:47,00:51:59,00:26:14,00:25:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+378,2236,Kyra Dekker,Zwolle,Vsen,16,00:53:47,00:51:59,00:26:14,00:25:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+379,2903,Jeanet Louwrink,Zwolle,Vvet,30,00:53:48,00:52:36,00:25:56,00:26:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+380,2666,Paul Tijdeman,Meppel,Mvet,231,00:53:49,00:52:36,00:25:56,00:26:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+381,2560,Peter Zwiers,Zwolle,Mvet,232,00:53:49,00:53:05,00:26:31,00:26:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+382,2673,Gerben Koster,Zwolle,Mvet,233,00:53:49,00:52:52,00:26:48,00:26:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+383,1454,Sander van Dijk,Zwolle,Msen,111,00:53:50,00:53:19,00:26:29,00:26:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+384,2151,Peter Velthuis,Enschede,Msen,110,00:53:50,00:52:46,00:26:13,00:26:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+385,2280,Rebecca Beker,Zwolle,Vsen,17,00:53:52,00:53:21,00:27:03,00:26:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+386,2353,Gerrit Veldkamp,Oldebroek,Mvet,234,00:53:56,00:53:18,00:26:37,00:26:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+387,2663,Marco de Mooij,Zwolle,Mvet,235,00:53:59,00:53:12,00:27:16,00:25:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+388,2667,Mark Molhoek,Hasselt,Mvet,236,00:54:00,00:53:35,00:27:06,00:26:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+389,2081,Jim weertman,Zwolle,Msen,112,00:54:04,00:53:35,00:25:34,00:28:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+390,2453,Robert Meulman,Zwolle,Mvet,237,00:54:07,00:53:33,00:26:41,00:26:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+391,2594,Mirjam Engels,Zwolle,Vsen,18,00:54:09,00:53:55,00:26:40,00:27:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+392,2762,Hans de Regt,Zwolle,Mvet,238,00:54:15,00:53:30,00:27:34,00:25:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+393,2755,Marco Schouwstra,Zwolle,Mvet,239,00:54:21,00:54:01,00:26:45,00:27:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+394,2085,Jamy Jans,Zwolle,Msen,113,00:54:23,00:53:57,00:25:51,00:28:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+395,2118,Mark van Emmen,Zwolle,Msen,114,00:54:27,00:53:40,00:27:10,00:26:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+396,2391,Marco Delmte,Zwolle,Mvet,240,00:54:29,00:54:12,00:26:45,00:27:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+397,2272,Marieke voerman,Hasselt,Vsen,19,00:54:32,00:54:10,00:26:46,00:27:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+398,2828,Brigittte Hegeman,Zwolle,Vvet,31,00:54:35,00:53:52,00:26:49,00:27:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+399,2824,Rietje Klappe,Zwolle,Vvet,32,00:54:35,00:54:07,00:26:21,00:27:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+400,2124,Mike voor 't Hekke,Hattemerbroek,Msen,115,00:54:39,00:54:14,00:27:37,00:26:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+401,2696,Willem van Helden,Zwolle,Mvet,241,00:54:41,00:54:27,00:25:24,00:29:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+402,2698,Ashwin Letmaath,Zwolle,Mvet,242,00:54:42,00:53:47,00:26:07,00:27:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+403,2072,Paul van der Vinne,Hasselt,Msen,116,00:54:45,00:54:35,00:27:44,00:26:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+404,2356,Michiel Zeeman,Zwolle,Mvet,243,00:54:49,00:54:34,00:27:37,00:26:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+405,2827,Anouk Nijlant,Wijhe,Vvet,33,00:54:49,00:54:13,00:26:53,00:27:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+406,2281,Johan Hartholt,Amersfoort,Mvet,244,00:54:54,00:53:43,00:26:55,00:26:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+407,2041,Patrick Kouma,Zwolle,Msen,117,00:54:56,00:54:26,00:27:13,00:27:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+408,2577,Erwin weertman,Zwolle,Mvet,245,00:54:57,00:54:28,00:26:41,00:27:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+409,2117,Wilmer van der Ziel,Zwolle,Msen,118,00:54:58,00:54:25,00:27:20,00:27:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+410,2545,Klaas Haasjes,Zeewolde,Mvet,246,00:55:12,00:54:52,00:27:34,00:27:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+411,2141,Peter van den Oever,Emmeloord,Msen,119,00:55:17,00:54:30,00:27:10,00:27:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+412,2557,Johnny te Pas,Zwolle,Mvet,247,00:55:18,00:55:08,00:27:05,00:28:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+413,2894,Miranda Muller,Venhuizen,Vvet,34,00:55:22,00:55:03,00:27:32,00:27:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+414,1480,Marthin Anindjola,Apeldoorn,Mvet,248,00:55:22,00:54:43,00:26:36,00:28:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+415,2582,Niels van der Veen,Zwolle,Mvet,249,00:55:23,00:54:34,00:27:00,00:27:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+416,2930,Margriet Korterink,Rouveen,Vvet,35,00:55:25,00:55:09,00:27:39,00:27:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+417,2767,Herman Brunen,Zwolle,Mvet,250,00:55:28,00:54:13,00:27:07,00:27:06,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+418,2657,Harold Voerman,Hasselt,Mvet,251,00:55:28,00:55:07,00:26:53,00:28:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+419,2652,Caspar Duinkerken,Zwolle,Mvet,252,00:55:28,00:54:16,00:27:32,00:26:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+420,3520,Jimmy Veldman,,Mvet,253,00:55:30,00:55:00,00:26:15,00:28:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+421,2306,Arenda Westerveld,Zwolle,Vsen,20,00:55:32,00:55:13,00:28:07,00:27:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+422,2305,Jonne Lommerse,Zwolle,Vsen,21,00:55:33,00:55:13,00:28:06,00:27:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+423,1479,Lamberth Anindjola,Raalte,Mvet,254,00:55:35,00:54:55,00:27:19,00:27:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+424,2246,Inge Gelderloos,Rouveen,Vsen,22,00:55:35,00:55:19,00:27:38,00:27:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+425,2429,Jan Hornstra,Zwolle,Mvet,255,00:55:36,00:54:49,00:27:14,00:27:35,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+426,2219,Daniëlle van der Horst,Rouveen,Vsen,23,00:55:37,00:55:21,00:27:40,00:27:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+427,2573,Richard Rusman,Zwolle,Mvet,256,00:55:40,00:54:47,00:27:45,00:27:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+428,2515,Sarah Pruntel,Zwolle,Vsen,24,00:55:41,00:54:56,00:27:14,00:27:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+429,2422,Erik Pasman,Zwolle,Mvet,257,00:55:43,00:55:05,00:27:16,00:27:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+430,2401,Jan Mulder,Zwolle,Mvet,258,00:55:46,00:55:38,00:27:51,00:27:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+431,2261,Magdalena ten Brinke,Zwolle,Vsen,25,00:55:52,00:55:06,00:27:46,00:27:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+432,2859,Jantie Bloemhof,Staphorst,Vvet,36,00:55:54,00:55:42,00:27:26,00:28:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+433,2644,Edwin Versluijs,'s-Heerenbroek,Mvet,259,00:55:55,00:55:44,00:26:07,00:29:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+434,2096,Kars Heijstek,Zwolle,Msen,120,00:55:56,00:54:37,00:26:36,00:28:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+435,2651,Alex Bosma,Zwolle,Mvet,260,00:55:59,00:55:18,00:26:51,00:28:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+436,2290,Ellen Eikelboom,Groningen,Vsen,26,00:56:00,00:54:58,00:28:06,00:26:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+437,2223,Cindy Aalders,Zwolle,Vsen,27,00:56:13,00:55:36,00:26:31,00:29:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+438,2773,Pierre Blommers,Zwolle,Mvet,261,00:56:18,00:55:45,00:27:24,00:28:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+439,2242,Lieve Oosterlaan,Zwolle,Vsen,28,00:56:18,00:55:50,00:29:12,00:26:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+440,2906,Marie van boven,Zwolle,Vvet,37,00:56:20,00:55:55,00:26:54,00:29:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+441,2436,Martijn Siffels,Zwolle,Mvet,262,00:56:21,00:55:14,00:28:05,00:27:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+442,2514,Willem Bakker Schut,Zwolle,Mvet,263,00:56:24,00:55:42,00:27:51,00:27:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+443,2023,Luiz Mulder,Zwolle,Mvet,264,00:56:25,00:53:51,00:26:37,00:27:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+444,2611,Anne Bloem,Briltil,Mvet,265,00:56:27,00:55:31,00:27:49,00:27:42,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+445,2853,Wendy hendriks,Zwolle,Vvet,38,00:56:29,00:56:07,00:28:17,00:27:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+446,2837,Joke Lorist,Kampen,Vvet,39,00:56:32,00:56:04,00:27:04,00:29:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+447,2847,Ingrid van de Poll,Kampen,Vvet,40,00:56:32,00:56:04,00:27:18,00:28:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+448,3521,Rene Tuin,,Msen,121,00:56:43,00:56:11,00:26:44,00:29:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+449,2102,Pieter Koster,Zwolle,Msen,122,00:56:43,00:56:28,00:26:25,00:30:03,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+450,2858,Anouk Romkes,Zwolle,Vvet,41,00:56:43,00:56:10,00:27:52,00:28:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+451,2733,Arnaud Koning,Zwolle,Mvet,266,00:56:48,00:56:11,00:28:08,00:28:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+452,2612,Richard Olijve,Zwolle,Mvet,267,00:56:49,00:56:10,00:27:48,00:28:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+453,2690,Hendrik van Stralen,Lelystad,Mvet,268,00:56:52,00:55:40,00:28:14,00:27:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+454,2287,Nicolien Boxum,Zwolle,Vsen,30,00:56:52,00:56:06,00:27:40,00:28:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+455,2846,Frank Nieuwenkamp,Zwolle,Mvet,269,00:56:53,00:56:03,00:28:04,00:27:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+456,2003,Constant Lam,Zwolle,Msen,123,00:56:57,00:56:06,00:28:15,00:27:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+457,2414,Danny van dam,Zwolle,Mvet,270,00:56:57,00:56:12,00:28:27,00:27:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+458,2888,Sandra Otter,Zwolle,Vvet,42,00:56:59,00:56:16,00:27:46,00:28:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+459,2904,Thayenne Nederbiel,Zwolle,Vvet,43,00:57:01,00:56:07,00:29:02,00:27:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+460,2394,Bert Mannes,Zwolle,Mvet,271,00:57:01,00:56:16,00:28:21,00:27:56,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+461,2486,David Meijer,Rouveen,Mvet,272,00:57:02,00:56:20,00:27:13,00:29:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+462,2619,Abel Veenstra,Zwolle,Mvet,273,00:57:07,00:56:17,00:28:16,00:28:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+463,2669,Michiel Polman,Zwolle,Mvet,274,00:57:18,00:56:15,00:28:54,00:27:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+464,2668,Rik Koelma,Zwolle,Mvet,275,00:57:18,00:56:16,00:28:54,00:27:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+465,2697,Erik Wolters,Zwolle,Mvet,276,00:57:19,00:57:07,00:27:37,00:29:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+466,2602,Willem Klomp,Zwolle,Mvet,277,00:57:20,00:56:48,00:28:32,00:28:17,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+467,2775,Willem Klappe,Meppel,Mvet,278,00:57:21,00:56:04,00:28:14,00:27:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+468,2304,Martine Altena,Zwolle,Vsen,31,00:57:21,00:57:16,00:28:28,00:28:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+469,2874,Olga Stokvis,Dalfsen,Vvet,44,00:57:25,00:56:59,00:27:48,00:29:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+470,2817,Johan Riesebosch,Zwolle,Mvet,279,00:57:27,00:56:48,00:27:47,00:29:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+471,2813,Caroline Klootwijk,Zwolle,Vvet,45,00:57:28,00:57:10,00:28:32,00:28:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+472,2737,Rense Duursma,Bunschoten-Spakenburg,Mvet,280,00:57:33,00:57:22,00:27:33,00:29:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+473,2929,Andy Vissers,Zwolle,Vvet,46,00:57:35,00:57:19,00:29:06,00:28:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+474,2146,Renco Schoemaker,Zwolle,Msen,124,00:57:40,00:56:40,00:28:48,00:27:52,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+475,2647,Michel Quispel,Zwolle,Mvet,281,00:57:44,00:56:36,00:28:26,00:28:10,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+476,2856,Chantal Lokhorst,Zwolle,Vvet,47,00:57:47,00:56:51,00:28:28,00:28:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+477,2616,Peter de Jong,Apeldoorn,Mvet,282,00:57:48,00:57:07,00:28:22,00:28:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+478,2397,Sybrand Kramer,Zwolle,Mvet,283,00:57:50,00:57:24,00:27:59,00:29:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+479,2654,Danny Hogeboom,Zwolle,Mvet,284,00:57:59,00:57:18,00:29:01,00:28:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+480,2878,Janine Beuving,Zwolle,Vvet,48,00:58:08,00:57:32,00:29:06,00:28:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+481,2812,Marieke Schnoing-Gels,Zwolle,Vvet,49,00:58:09,00:57:37,00:28:53,00:28:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+482,2851,Helma Zwakenberg,Zwolle,Vvet,50,00:58:11,00:57:55,00:29:04,00:28:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+483,2398,Gerard Velthuis,Meppel,Mvet,285,00:58:23,00:57:18,00:28:42,00:28:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+484,2238,Jolanda Zwakenberg,Zwolle,Vsen,32,00:58:23,00:58:12,00:28:24,00:29:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+485,2717,Roel Beumer,Zwolle,Mvet,286,00:58:26,00:57:48,00:29:23,00:28:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+486,2933,Agnes Pol-Tuma,Hoogeveen,Vvet,51,00:58:30,00:58:22,00:29:10,00:29:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+487,2551,Marcel Nijmeijer,Zwolle,Mvet,287,00:58:33,00:58:02,00:28:52,00:29:10,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+488,2531,Pim Hovenga,'t Harde,Mvet,288,00:58:36,00:58:08,00:29:12,00:28:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+489,2661,Koen Bekker,Amersfoort,Mvet,289,00:58:38,00:58:03,00:29:19,00:28:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+490,2161,Lars Brouwer,Utrecht,Msen,125,00:58:39,00:58:06,00:28:20,00:29:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+491,2574,Menno Pot,Zwolle,Mvet,290,00:58:40,00:57:44,00:29:24,00:28:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+492,2848,Margreet Oosting,Zwolle,Vvet,52,00:58:42,00:57:59,00:28:57,00:29:02,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+493,2926,Bettie van Bruggen,Zwolle,Vvet,53,00:58:51,00:58:05,00:28:29,00:29:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+494,2257,Dirk-Jan Boekhold,Zwolle,Mvet,291,00:58:53,00:58:06,00:29:01,00:29:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+495,2722,Piet Hersevoort,Ommen,Mvet,292,00:58:55,00:57:54,00:29:16,00:28:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+496,2283,Jolien Mars,Zwolle,Vsen,33,00:58:56,00:58:10,00:29:10,00:29:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+497,2120,Rutger Boxum,Zwolle,Msen,126,00:58:59,00:58:15,00:28:29,00:29:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+498,3522,Willem Beens,,Msen,127,00:59:01,00:58:27,00:27:20,00:31:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+499,2432,Jan van der Meulen,Zwolle,Mvet,293,00:59:06,00:58:23,00:28:57,00:29:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+500,2621,Martin huls,Zwolle,Mvet,294,00:59:10,00:58:12,00:29:27,00:28:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+501,2437,Eddy Overink,Zwolle,Mvet,295,00:59:14,00:58:56,00:28:28,00:30:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+502,2606,Barend Voerman,Zwolle,Mvet,296,00:59:15,00:58:42,00:29:19,00:29:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+503,2683,Peter Runhaar,Zwolle,Mvet,297,00:59:17,00:58:40,00:29:57,00:28:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+504,2216,Jenneke Wijs,Zwolle,Vsen,34,00:59:18,00:58:22,00:29:34,00:28:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+505,2764,Elmond Sasso,Zwolle,Mvet,298,00:59:20,00:58:20,00:28:57,00:29:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+506,3543,Alem Teame Gherezgher,,Vsen,35,00:59:23,00:58:31,00:27:00,00:31:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+507,2830,Ellie Roetgerink,Zwolle,Vvet,54,00:59:24,00:59:20,00:28:58,00:30:23,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+508,2294,Annelies Koelma,Zwolle,Vsen,36,00:59:25,00:58:24,00:29:26,00:28:59,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+509,2826,Linda Hendriksen,Zwolle,Vvet,55,00:59:29,00:58:56,00:28:59,00:29:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+510,2816,Andrea Wilms,Zwolle,Vvet,56,00:59:30,00:58:26,00:29:27,00:29:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+511,2912,Karin Peterse,Zwolle,Vvet,57,00:59:33,00:58:30,00:29:15,00:29:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+512,2058,Robin Hassink,Zwolle,Msen,128,00:59:34,00:59:04,00:29:12,00:29:53,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+513,2084,Dennis ter Bruggen,Zwolle,Msen,129,00:59:34,00:59:16,00:29:01,00:30:15,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+514,2541,Brian Lokhorst,Zwolle,Mvet,299,00:59:37,00:58:42,00:28:48,00:29:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+515,2753,Martin Smith,Lelystad,Mvet,300,00:59:40,00:58:52,00:30:11,00:28:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+516,2275,Nathalie Witz,Zwolle,Vsen,37,00:59:48,00:59:14,00:29:50,00:29:25,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+517,2087,Jelmer Post,Zwolle,Msen,130,00:59:49,00:58:58,00:28:14,00:30:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+518,2913,Ingrid Kerkdijk,Zwolle,Vvet,58,00:59:54,00:58:59,00:29:14,00:29:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+519,2818,Marjolijn Enter,Zwolle,Vvet,59,00:59:54,00:59:38,00:30:09,00:29:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+520,2105,Anthonie de Ruiter,Genemuiden,Msen,131,00:59:56,00:58:49,00:29:05,00:29:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+521,2254,Willemijn Kooij,Zwolle,Vsen,38,00:59:56,00:58:56,00:30:09,00:28:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+522,2046,Martijn Reinders,Zwolle,Msen,132,00:59:57,00:59:35,00:28:55,00:30:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+523,2295,Irmi Masselink,Zwolle,Vsen,39,00:59:59,00:59:02,00:29:40,00:29:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+524,2819,Mieke Sellis,Staphorst,Vvet,60,01:00:02,00:59:45,00:28:13,00:31:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+525,2493,Arnoud Moed,Zwolle,Mvet,301,01:00:07,00:58:59,00:29:35,00:29:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+526,2212,Aukje van den Arend,Zwolle,Vsen,40,01:00:10,00:58:59,00:28:55,00:30:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+527,2207,Marleen Pathuis,Zwolle,Vsen,41,01:00:14,00:59:59,00:28:55,00:31:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+528,2881,Renate Blekkink,Zwolle,Vvet,61,01:00:15,00:59:40,00:29:40,00:30:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+529,3545,Marlies Leenhouts,,Vvet,62,01:00:25,01:00:07,00:28:34,00:31:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+530,2920,Nicole Salentijn,Zwolle,Vvet,63,01:00:28,00:59:52,00:30:01,00:29:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+531,2019,René Hoekstra,Zwolle,Msen,133,01:00:34,00:59:36,00:29:38,00:29:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+532,2917,Esther Gums,Zwolle,Vvet,64,01:00:47,01:00:42,00:30:17,00:30:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+533,2282,Noraly Timmermans,Zwolle,Vsen,42,01:00:56,00:59:48,00:28:52,00:30:57,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+534,2701,Ali Yildirim,Zwolle,Mvet,302,01:00:56,01:00:13,00:28:08,00:32:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+535,2454,Sascha Körber,Zwolle,Mvet,303,01:00:58,00:59:57,00:29:27,00:30:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+536,2354,Henk Gerrits,Zwolle,Mvet,304,01:00:58,01:00:43,00:28:57,00:31:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+537,2604,Eddy Agterhuis,Zwolle,Mvet,305,01:01:01,01:00:10,00:30:34,00:29:36,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+538,2407,Gera van der Meer,Zwolle,Vvet,65,01:01:04,01:00:52,00:30:10,00:30:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+539,2366,Jan Vulkers,Zwolle,Mvet,306,01:01:05,01:00:12,00:29:35,00:30:38,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+540,3544,Tebereh Dainom Haile,,Vsen,43,01:01:11,01:00:19,00:28:29,00:31:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+541,2110,Jort Hettinga,Zwolle,Msen,134,01:01:22,01:01:16,00:29:53,00:31:24,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+542,2804,Elly van der Spek,Zwolle,Vvet,66,01:01:23,01:00:29,00:30:22,00:30:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+543,2603,William ten Hoven,Zwolle,Mvet,307,01:01:23,01:00:30,00:30:21,00:30:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+544,2922,Elke Blekkenhorst,Zwolle,Vvet,67,01:01:35,01:00:38,00:30:32,00:30:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+545,2892,Esther Tiemessen,Zwolle,Vvet,68,01:01:38,01:01:18,00:30:32,00:30:47,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+546,2579,Pjotr Hilberink,Zwolle,Mvet,308,01:01:41,01:00:58,00:29:26,00:31:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+547,2229,Bente Jutten,Dalfsen,Vsen,44,01:02:11,01:01:22,00:29:55,00:31:27,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+548,2765,Michiel van Loenen,Zwolle,Mvet,309,01:02:12,01:01:25,00:29:57,00:31:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+549,2857,Judith Docter,Raalte,Vvet,69,01:02:14,01:01:11,00:29:51,00:31:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+550,2296,Kirsten Dekker,Zwolle,Vsen,45,01:02:19,01:01:58,00:30:50,00:31:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+551,2699,Rodger Dekker,Zwolle,Mvet,310,01:02:19,01:01:59,00:30:50,00:31:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+552,2932,Janine van der Meer,Hoogeveen,Vvet,70,01:02:19,01:02:14,00:30:35,00:31:40,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+553,2308,Esther Jonkman,Zwolle,Vsen,46,01:02:25,01:02:13,00:31:05,00:31:09,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+554,2625,Jeroen Herder - ten Koppe,Zwolle,Mvet,311,01:02:26,01:02:07,00:30:03,00:32:05,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+555,2489,Cees Naberman,Hasselt,Mvet,312,01:02:28,01:01:28,00:30:14,00:31:14,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+556,2239,Hilde Kooij,Zwolle,Vsen,47,01:02:29,01:01:56,00:30:48,00:31:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+557,2506,Martijn van der Gronden,Zwolle,Mvet,313,01:02:36,01:01:53,00:29:45,00:32:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+558,2018,Nick Jansen,Zwolle,Msen,135,01:02:40,01:01:59,00:30:12,00:31:48,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+559,2899,Sandra Schouten,Zwolle,Vvet,71,01:02:43,01:01:55,00:30:37,00:31:18,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+560,2896,Gerrianne Rook,Zwolle,Vvet,72,01:02:44,01:02:32,00:30:19,00:32:13,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+561,2517,Jules ten Berge,Zwolle,Mvet,314,01:02:45,01:01:52,00:31:02,00:30:50,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+562,2897,Marian van Egmond,Zwolle,Vvet,73,01:02:45,01:01:58,00:30:37,00:31:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+563,2200,Lianne Jutten,Zwolle,Vsen,48,01:03:00,01:02:11,00:30:26,00:31:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+564,2736,Harm_Jan Menkhorst,Zwolle,Mvet,315,01:03:05,01:02:13,00:31:18,00:30:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+565,2925,Janny bastiaan,Kampen,Vvet,74,01:03:22,01:03:01,00:31:36,00:31:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+566,2908,Lai_yuk Ip,Zwolle,Vvet,75,01:03:25,01:02:47,00:29:50,00:32:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+567,2656,Marc van Mossel,Zwolle,Mvet,316,01:03:27,01:02:22,00:30:14,00:32:08,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+568,2221,Clarissa Kleinhuis,Zwolle,Vsen,49,01:03:28,01:02:21,00:31:02,00:31:19,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+569,2490,Anne Meerveld,Zwolle,Mvet,317,01:03:37,01:02:27,00:29:21,00:33:07,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+570,2631,Jan Kroes,Zwolle,Mvet,318,01:03:39,01:03:10,00:30:55,00:32:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+571,2237,Margreet Bruins,Zwolle,Vsen,50,01:03:46,01:02:49,00:30:23,00:32:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+572,2564,Olaf Lageveen,Zwolle,Mvet,319,01:03:59,01:03:06,00:30:50,00:32:16,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+573,2484,Reint Smit,Zwolle,Mvet,320,01:04:07,01:03:28,00:31:51,00:31:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+574,2709,Frits de Vries,Zwolle,Mvet,321,01:04:11,01:03:17,00:32:45,00:30:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+575,2534,Jaap Zwiers,Kampen,Mvet,322,01:04:21,01:03:17,00:31:34,00:31:43,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+576,2890,Bettie de Jonge,Zwolle,Vvet,76,01:04:22,01:04:06,00:32:03,00:32:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+577,2535,Nico Kok,Zwolle,Mvet,323,01:04:27,01:03:23,00:31:34,00:31:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+578,2558,Hans de Jong,Eindhoven,Mvet,324,01:04:30,01:03:56,00:31:58,00:31:58,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+579,2927,Marleen Renshoff,Zwolle,Vvet,77,01:04:33,01:03:42,00:31:21,00:32:21,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+580,2494,Jan Gerner,Luttenberg,Mvet,325,01:04:37,01:03:34,00:31:00,00:32:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+581,2361,Björn Edelenbos,Zwolle,Mvet,326,01:04:39,01:03:26,00:31:58,00:31:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+582,2106,Harm Albers,Genemuiden,Msen,136,01:04:42,01:03:35,00:30:57,00:32:39,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+583,2867,Marjan Strijker,Zwolle,Vvet,78,01:04:46,01:04:33,00:32:03,00:32:31,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+584,2924,Annemieke Delnaay,Zwolle,Vvet,79,01:04:46,01:03:33,00:31:59,00:31:34,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+585,2276,Gerieke Hermse,Zwolle,Vsen,51,01:04:52,01:04:18,00:29:50,00:34:28,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+586,2113,Teun van Zwolle,Zwolle,Msen,138,01:04:59,01:04:14,00:30:28,00:33:46,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+587,2902,Janneke Boone,Zwolle,Vvet,80,01:05:22,01:04:46,00:31:58,00:32:49,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+588,2269,Sabine Lowik,Zwolle,Vsen,52,01:05:23,01:04:58,00:33:08,00:31:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+589,2810,Rosanne Wijnhoven,Zwolle,Vvet,81,01:05:25,01:04:23,00:31:55,00:32:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+590,2915,Miranda Breukelaar,Zwolle,Vvet,82,01:05:27,01:04:29,00:31:49,00:32:41,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+591,2883,Saskia Casteel,Zwolle,Vvet,83,01:05:37,01:04:48,00:31:48,00:33:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+592,2914,Esther van der Ploeg,Zwolle,Vvet,84,01:06:05,01:05:40,00:32:20,00:33:20,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+593,2918,Rob van der Ploeg,Zwolle,Mvet,327,01:06:08,01:05:42,00:32:20,00:33:22,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+594,2293,Marijne Steketee,Zwolle,Vsen,53,01:06:27,01:05:49,00:33:06,00:32:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+595,2285,Gerdien Kanis,Zwolle,Vsen,54,01:06:43,01:05:34,00:31:34,00:34:00,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+596,2931,Sandra van Noorloos,De Krim,Vvet,85,01:06:44,01:05:34,00:33:02,00:32:33,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+597,2662,Harold Wolf,Almelo,Mvet,328,01:06:44,01:05:34,00:31:34,00:34:01,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+598,2659,Arjan Dekker,Genemuiden,Mvet,329,01:06:54,01:06:29,00:31:26,00:35:04,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+599,2866,Trijnie de Boer,Zwolle,Vvet,86,01:07:12,01:06:42,00:32:06,00:34:37,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+600,2286,Jacquelien Bos,Zwolle,Vsen,55,01:07:16,01:06:53,00:32:24,00:34:29,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+601,2910,Inge Andriesse,Zwolle,Vvet,87,01:07:39,01:06:43,00:32:59,00:33:44,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+602,2841,Hilly Smit,Zwolle,Vvet,88,01:08:08,01:07:37,00:33:08,00:34:30,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+603,2482,Bert-Jan Kok,Zwolle,Mvet,330,01:08:15,01:07:12,00:32:01,00:35:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+604,2230,Lynda Kok,Zwolle,Vsen,56,01:08:18,01:07:16,00:31:50,00:35:26,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+605,2863,Julia Kat-Houtsma,Zwolle,Vvet,89,01:08:25,01:07:56,00:33:05,00:34:51,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+606,2244,Lianne Zunnebeld,Zwolle,Vsen,57,01:08:28,01:06:40,00:31:45,00:34:56,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+607,2291,Maaike Bloem,Zwolle,Vsen,58,01:08:38,01:08:01,00:33:07,00:34:55,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+608,2842,Deborah Klavert,Zwolle,Vvet,90,01:08:48,01:07:42,00:32:58,00:34:45,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+609,2860,Marjolijn den Hollander,Zwolle,Vvet,91,01:09:21,01:08:32,00:33:39,00:34:54,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+610,2507,Almer ten Klei,Zwolle,Mvet,331,01:10:47,01:10:15,00:33:05,00:37:11,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+611,2508,Erik Jansen op de Haar,Zwartsluis,Mvet,332,01:17:49,01:17:05,00:35:34,00:41:32,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+612,2923,Krista van Os,Zwolle,Vvet,,,,00:22:22,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+613,2077,John Berendsen,Zwolle,Msen,,,,00:23:32,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+614,2729,Gerrit Piek,Zwolle,Mvet,,,,00:24:57,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+615,2524,Herwin Jansen,Zwolle,Mvet,,,,00:25:42,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+616,2569,Johan Germs,Zwolle,Mvet,,,,00:26:56,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+617,2116,Harm de Jager,Zwolle,Msen,,,,00:27:22,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+618,2253,Thessa Petter,Rouveen,Vsen,,,,00:27:47,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+619,2646,Roland Pool,Zwolle,Mvet,,,,00:31:07,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+620,2445,Roy Kok,Zwolle,Mvet,,,,00:32:22,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+621,2870,Dikkie van Gijssel,Zwolle,Vvet,,,,00:32:50,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+622,2893,Bregje van de Lisdonk,Zwolle,Vvet,,,,00:34:45,,Stadshagen Run Zwolle 15-10-2016,2016-10-15
+623,1675,Jannet Loode,Zwolle,Vvet,,,,00:37:44,,Stadshagen Run Zwolle 15-10-2016,2016-10-15

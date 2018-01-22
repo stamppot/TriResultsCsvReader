@@ -1,0 +1,61 @@
+Pos,StNr,Naam,Woonplaats,Cat,Zwem,#Z,Wis1,#W1,Fiets,#F,NaFiets,#NaF,Wis2,#W2,Loop,#L,Totaal,DQ,race,date
+1,4,Mark Hamersma,Veenendaal,H24,00:19:17,4,00:01:10,1,00:58:55,2,01:19:21,1,00:01:07,2,00:40:08,1,02:00:35,,Rijntocht Crosstriathlon ,2017-08-26
+2,10,Diederik Scheltinga,Arnhem,H24,00:19:11,3,00:01:15,2,00:58:56,3,01:19:22,2,00:01:05,1,00:42:00,2,02:02:26,,Rijntocht Crosstriathlon ,2017-08-26
+3,36,Michael Krijnen,Spanbroek,H45,00:20:07,6,00:01:26,5,01:00:56,6,01:22:28,3,00:01:31,20,00:44:25,5,02:08:23,,Rijntocht Crosstriathlon ,2017-08-26
+4,13,Ferdinand Oldeman,Voorburg,H24,00:20:12,7,00:01:26,6,01:00:52,5,01:22:29,4,00:01:12,4,00:45:34,8,02:09:15,,Rijntocht Crosstriathlon ,2017-08-26
+5,30,Arie de Jong,Oosterwolde Fr,H45,00:21:45,21,00:02:18,45,00:58:29,1,01:22:31,5,00:01:54,41,00:45:19,6,02:09:43,,Rijntocht Crosstriathlon ,2017-08-26
+6,5,Joep Staps,Tilburg,H24,00:21:48,22,00:01:36,12,01:01:55,10,01:25:17,14,00:01:10,3,00:43:27,4,02:09:53,,Rijntocht Crosstriathlon ,2017-08-26
+7,15,Joost Christiaans,Wageningen,H24,00:22:15,25,00:01:31,9,01:00:31,4,01:24:16,9,00:01:24,13,00:45:45,9,02:11:25,,Rijntocht Crosstriathlon ,2017-08-26
+8,26,Lars Van der Eerden,Nieuwstadt,H40,00:19:41,5,00:01:33,10,01:02:02,11,01:23:15,6,00:01:20,7,00:47:14,13,02:11:48,,Rijntocht Crosstriathlon ,2017-08-26
+9,21,Martijn Keijsers,Arnhem,H24,00:20:41,13,00:02:13,39,01:03:46,19,01:26:40,15,00:01:46,33,00:43:26,3,02:11:51,,Rijntocht Crosstriathlon ,2017-08-26
+10,9,Christiaan Solleveld,Hoek van Holland,H24,00:20:39,12,00:01:25,4,01:02:16,12,01:24:19,13,00:01:22,9,00:46:33,11,02:12:12,,Rijntocht Crosstriathlon ,2017-08-26
+11,32,Jan Stehouwer,Leusden,H45,00:20:44,14,00:01:58,31,01:01:35,9,01:24:16,10,00:01:27,16,00:46:43,12,02:12:26,,Rijntocht Crosstriathlon ,2017-08-26
+12,62,Kool Cornee,,H40,00:21:38,18,00:01:25,3,01:01:16,7,01:24:18,11,00:01:20,8,00:47:21,15,02:12:59,,Rijntocht Crosstriathlon ,2017-08-26
+13,41,Marcel Molendijk,Bennekom,H50,00:19:10,2,00:01:39,14,01:02:28,14,01:23:17,7,00:01:30,18,00:48:29,18,02:13:16,,Rijntocht Crosstriathlon ,2017-08-26
+14,7,Cornelis Scheltinga,Arnhem,H24,00:20:29,8,00:01:26,7,01:04:46,21,01:26:40,17,00:01:17,5,00:45:34,7,02:13:30,,Rijntocht Crosstriathlon ,2017-08-26
+15,14,Paul Schermers,Gouda,H24,00:20:34,10,00:01:30,8,01:02:16,13,01:24:18,12,00:01:22,10,00:48:14,17,02:13:53,,Rijntocht Crosstriathlon ,2017-08-26
+16,28,Michel van Schie,Delft,H40,00:22:03,24,00:01:53,26,01:03:34,18,01:27:29,19,00:01:32,21,00:46:01,10,02:15:01,,Rijntocht Crosstriathlon ,2017-08-26
+17,2,Glenn Wesseling,Almere,H20,00:18:37,1,00:01:35,11,01:03:08,15,01:23:18,8,00:01:25,14,00:51:31,28,02:16:13,,Rijntocht Crosstriathlon ,2017-08-26
+18,23,Feike Loots,Renkum,H40,00:24:14,41,00:01:44,16,01:01:29,8,01:27:26,18,00:01:19,6,00:50:23,24,02:19:07,,Rijntocht Crosstriathlon ,2017-08-26
+19,44,Ron Band,Nieuwegein,H50,00:21:55,23,00:01:42,15,01:05:31,24,01:29:07,20,00:01:30,17,00:49:05,19,02:19:42,,Rijntocht Crosstriathlon ,2017-08-26
+20,40,Jos Broeren,'s-Hertogenbosch,H50,00:24:20,42,00:01:47,19,01:05:12,23,01:31:19,27,00:01:26,15,00:47:20,14,02:20:04,,Rijntocht Crosstriathlon ,2017-08-26
+21,17,Piet van der Zwaag,Rhenen,H24,00:21:08,15,00:02:11,38,01:03:21,16,01:26:40,16,00:01:41,28,00:52:17,29,02:20:37,,Rijntocht Crosstriathlon ,2017-08-26
+22,42,Manfred Boogaard,Ede Gld,H50,00:21:31,16,00:01:59,32,01:07:13,26,01:30:42,24,00:01:50,38,00:49:15,21,02:21:46,,Rijntocht Crosstriathlon ,2017-08-26
+23,54,Rob van Zanten,Rijswijk Zh,H60,00:21:44,20,00:01:51,24,01:09:00,33,01:32:34,29,00:01:45,31,00:48:08,16,02:22:27,,Rijntocht Crosstriathlon ,2017-08-26
+24,37,Frank Veltman,Almere,H45,00:21:41,19,00:01:48,20,01:07:20,28,01:30:48,26,00:01:36,24,00:50:37,26,02:23:00,,Rijntocht Crosstriathlon ,2017-08-26
+25,1,Mark Moesker,Schiedam,H20,00:23:45,35,00:01:48,21,01:07:29,30,01:33:01,30,00:01:35,23,00:49:56,22,02:24:31,,Rijntocht Crosstriathlon ,2017-08-26
+26,29,Ralph van Dijk,Apeldoorn,H40,00:20:37,11,00:01:37,13,01:07:14,27,01:29:27,22,00:01:33,22,00:54:15,33,02:25:14,,Rijntocht Crosstriathlon ,2017-08-26
+27,3,Karim Alders,Zoeterwoude,H24,00:20:29,9,00:01:50,22,01:10:12,36,01:32:30,28,00:01:40,26,00:51:17,27,02:25:26,,Rijntocht Crosstriathlon ,2017-08-26
+28,8,Peter Kuin,Utrecht,H24,00:23:31,33,00:01:54,27,01:08:59,32,01:34:23,31,00:01:23,12,00:50:36,25,02:26:21,,Rijntocht Crosstriathlon ,2017-08-26
+29,39,Mark Rietveld,Bennekom,H50,00:26:24,50,00:02:17,44,01:07:25,29,01:36:05,35,00:01:40,27,00:49:11,20,02:26:54,,Rijntocht Crosstriathlon ,2017-08-26
+30,35,Rens Sterk,Barsingerhorn,H45,00:29:41,57,00:01:45,17,01:03:57,20,01:35:22,34,00:01:56,42,00:50:15,23,02:27:32,,Rijntocht Crosstriathlon ,2017-08-26
+31,47,Keesjan Otto,Ede Gld,H55,00:21:36,17,00:01:46,18,01:06:05,25,01:29:26,21,00:01:56,43,00:56:40,42,02:28:01,,Rijntocht Crosstriathlon ,2017-08-26
+32,24,Bart van der Wal,Zeist,H40,00:23:43,34,00:02:01,34,01:10:31,38,01:36:14,36,00:01:58,45,00:52:28,30,02:30:38,,Rijntocht Crosstriathlon ,2017-08-26
+33,49,Mark Waaijenberg,Dieren,H50,00:23:13,30,00:01:55,28,01:10:13,37,01:35:21,33,00:01:43,30,00:55:28,38,02:32:31,,Rijntocht Crosstriathlon ,2017-08-26
+34,57,Ben Kok,Amsterdam,H65,00:23:21,32,00:02:36,52,01:13:05,45,01:39:01,41,00:01:50,37,00:53:48,31,02:34:38,,Rijntocht Crosstriathlon ,2017-08-26
+35,38,Jan Bot,Akersloot,H50,00:24:14,40,00:01:51,25,01:11:53,41,01:37:56,39,00:01:48,35,00:56:47,43,02:36:30,,Rijntocht Crosstriathlon ,2017-08-26
+36,50,Casper van de Kamp,Leeuwarden,H50,00:26:11,49,00:02:14,40,01:10:44,39,01:39:09,42,00:01:51,39,00:55:42,39,02:36:41,,Rijntocht Crosstriathlon ,2017-08-26
+37,11,Freek van den Wildenberg,Utrecht,H24,00:28:08,54,00:02:11,37,01:08:41,31,01:38:59,40,00:02:52,55,00:55:27,37,02:37:17,,Rijntocht Crosstriathlon ,2017-08-26
+38,48,Ger van Henten,Velserbroek,H55,00:23:12,29,00:02:15,41,01:09:07,34,01:34:33,32,00:01:38,25,01:01:23,50,02:37:33,,Rijntocht Crosstriathlon ,2017-08-26
+39,43,Peter van den Bent,Vlaardingen,H50,00:24:11,38,00:02:25,48,01:12:38,42,01:39:13,44,00:01:49,36,00:57:27,45,02:38:28,,Rijntocht Crosstriathlon ,2017-08-26
+40,34,John van Berne,Rosmalen,H45,00:23:51,36,00:02:33,50,01:13:05,46,01:39:28,45,00:02:45,54,00:56:29,41,02:38:41,,Rijntocht Crosstriathlon ,2017-08-26
+41,56,Tom Berkouwer,Vlaardingen,H60,00:25:23,46,00:02:20,46,01:15:11,48,01:42:53,47,00:02:00,46,00:55:14,36,02:40:06,,Rijntocht Crosstriathlon ,2017-08-26
+42,52,Frank Hamelink,'s-Gravenhage,H55,00:24:03,37,00:02:08,36,01:13:00,44,01:39:10,43,00:02:15,50,00:59:05,48,02:40:30,,Rijntocht Crosstriathlon ,2017-08-26
+43,20,Marco Wolbers,Harderwijk,H24,00:23:14,31,00:02:16,43,01:19:23,53,01:44:52,48,00:01:56,44,00:54:07,32,02:40:54,,Rijntocht Crosstriathlon ,2017-08-26
+44,53,Jac Derix,Waldfeucht,H55,00:24:13,39,00:02:31,49,01:09:36,35,01:36:19,37,00:02:08,48,01:04:36,52,02:43:02,,Rijntocht Crosstriathlon ,2017-08-26
+45,19,Merijn Mook,'s-Gravenhage,H24,00:27:20,53,00:02:45,55,01:12:44,43,01:42:48,46,00:01:41,29,00:58:56,47,02:43:24,,Rijntocht Crosstriathlon ,2017-08-26
+46,31,Hanc de Bokx,Delft,H45,00:26:50,52,00:03:11,58,01:16:31,49,01:46:31,50,00:02:12,49,00:54:42,34,02:43:25,,Rijntocht Crosstriathlon ,2017-08-26
+47,45,HenkJan Meier,Hardenberg,H50,00:24:30,44,00:02:35,51,01:17:52,50,01:44:56,49,00:01:45,32,00:57:05,44,02:43:45,,Rijntocht Crosstriathlon ,2017-08-26
+48,46,Erwin den Hoed,Heelsum,H50,00:28:32,55,00:04:36,60,01:13:54,47,01:47:01,52,00:02:21,51,00:57:29,46,02:46:51,,Rijntocht Crosstriathlon ,2017-08-26
+49,18,Van Nuland,Bunnik,H24,00:26:30,51,00:02:08,35,01:18:13,51,01:46:50,51,00:01:52,40,00:59:35,49,02:48:16,,Rijntocht Crosstriathlon ,2017-08-26
+50,33,Hans van Nispen,Breda,H45,00:31:08,58,00:02:52,56,01:20:10,54,01:54:09,55,00:01:22,11,00:56:11,40,02:51:41,,Rijntocht Crosstriathlon ,2017-08-26
+51,22,Dennis Jansen,Sassenheim,H24,00:25:15,45,00:01:50,23,01:37:48,58,02:04:52,57,00:02:24,52,00:54:43,35,03:01:58,,Rijntocht Crosstriathlon ,2017-08-26
+52,58,Hans van Wijk,Beneden-Leeuwen,H65,00:31:40,59,00:02:44,54,01:22:08,56,01:56:30,56,00:02:07,47,01:03:46,51,03:02:22,,Rijntocht Crosstriathlon ,2017-08-26
+53,60,Leo Meewisse,'s-Gravenhage,H70,00:29:39,56,00:02:42,53,01:19:05,52,01:51:25,54,00:02:59,56,01:08:48,53,03:03:11,,Rijntocht Crosstriathlon ,2017-08-26
+54,51,Kees Rekelhof,Leimuiden,H55,00:24:25,43,00:03:10,57,01:21:28,55,01:49:01,53,00:02:42,53,01:28:03,54,03:19:45,,Rijntocht Crosstriathlon ,2017-08-26
+55,61,Jan Stoop,Voorburg,H75,00:31:58,60,00:03:52,59,01:35:34,57,02:11:23,58,00:03:25,57,01:31:50,55,03:46:37,,Rijntocht Crosstriathlon ,2017-08-26
+56,25,Geert-Jan Meewisse,Delft,H40,00:23:08,28,00:02:00,33,01:05:01,22,01:30:08,23,00:01:46,34,,,,,Rijntocht Crosstriathlon ,2017-08-26
+57,12,Kevin Gideonse,Ooij,H24,00:25:25,47,00:01:56,29,01:03:24,17,01:30:44,25,00:01:31,19,,,,,Rijntocht Crosstriathlon ,2017-08-26
+58,16,Robin den Oudsten,Mierlo,H24,00:22:48,27,00:02:16,42,01:11:20,40,01:36:23,38,,,,,,,Rijntocht Crosstriathlon ,2017-08-26
+59,55,Ron Hendriks,Wijchen,H60,00:22:42,26,00:01:58,30,,,,,,,,,,,Rijntocht Crosstriathlon ,2017-08-26
+60,27,Danny van Dam,Leiden,H40,00:25:59,48,00:02:22,47,,,,,,,,,,,Rijntocht Crosstriathlon ,2017-08-26

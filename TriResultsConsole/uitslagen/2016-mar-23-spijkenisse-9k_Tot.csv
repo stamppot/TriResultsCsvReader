@@ -1,0 +1,774 @@
+Plts,StartNr,Naam,Gemeente,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Race,race,date
+1,401,Matthijs Künzel,Gemeente Amsterdam,M30,1,00:31:27,00:31:27,00:20:55,00:10:33,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+2,671,Vincent Anker,Gemeente Eindhoven,M30,2,00:32:22,00:32:21,00:21:31,00:10:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+3,924,Johannes Postma,Gemeente Leeuwarden,M40,1,00:33:07,00:33:07,00:22:04,00:11:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+4,1922,Ferdinand Oldeman,Omgevingsdienst Midden Holland,M30,3,00:33:07,00:33:07,00:22:09,00:10:59,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+5,1896,Gerjan De Ruiter,Olst-Wijhe,MSR,1,00:33:09,00:33:07,00:22:07,00:11:00,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+6,2143,Henk  Van Bentum,Team Houten,M50,1,00:33:28,00:33:28,00:22:03,00:11:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+7,763,Willem De Weerdt,Gemeente Hattem,M60,1,00:33:51,00:33:51,00:22:23,00:11:29,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+8,1444,Frans Deenen,Gemeente Venray,M50,2,00:34:14,00:34:14,00:22:32,00:11:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+9,2603,Diede Labots,Gemeente Den Haag,M30,4,00:34:47,00:34:45,00:23:02,00:11:43,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+10,2393,Robin Te Wierik,Wierden,M40,2,00:34:54,00:34:53,00:22:59,00:11:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+11,1615,Nico Vuurens,Gemeente Zederik,M40,3,00:34:57,00:34:57,00:22:58,00:12:00,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+12,1200,Freek Goedhart,Gemeente Nissewaard,M30,5,00:35:07,00:35:07,00:23:20,00:11:47,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+13,1845,Ronald Van Mil,MD Runners,M30,6,00:35:14,00:35:12,00:23:22,00:11:50,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+14,449,Ard Gerrits,Gemeente Best,MSR,2,00:35:17,00:35:08,00:23:27,00:11:42,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+15,587,Ad Buijs,Gemeente Den Haag,M60,2,00:35:26,00:35:25,00:23:39,00:11:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+16,512,Henk Bruijns,Gemeente Breda,M50,3,00:35:52,00:35:50,00:23:51,00:12:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+17,1395,Simon Den Heeten,Gemeente Utrecht,MSR,3,00:35:52,00:35:49,00:23:57,00:11:52,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+18,2171,Marcel Kuenen,Team Rheden,M40,4,00:36:04,00:36:04,00:23:53,00:12:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+19,60,Samuel Stollman,Avri,M30,7,00:36:07,00:36:02,00:24:12,00:11:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+20,463,Frank Hering,Gemeente Borne,M40,5,00:36:11,00:36:11,00:23:59,00:12:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+21,599,Richard  Van Der Ark,Gemeente Den Haag,MSR,4,00:36:17,00:36:15,00:23:52,00:12:24,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+22,2351,Andreas De Graaf,Werkorganisatie Duivenvoorde,M40,6,00:36:28,00:36:27,00:23:52,00:12:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+23,1247,Machiel Van Zutphen,Gemeente Oss,M40,7,00:36:42,00:36:41,00:24:25,00:12:17,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+24,1844,Dominik Van Lankeren,MD Runners,M30,8,00:36:52,00:36:49,00:24:28,00:12:21,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+25,902,Marcel Bregman,Gemeente Lansingerland,MSR,5,00:36:57,00:36:55,00:24:30,00:12:26,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+26,2060,Erik Dusseljee,Samenwerkingsorganisatie De Wolden Hoogeveen,M40,8,00:37:08,00:37:06,00:24:23,00:12:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+27,1485,Rob Van Zanten,Gemeente Vlaardingen,M50,4,00:37:15,00:37:13,00:24:34,00:12:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+28,874,Karel Uitterlinden,Gemeente Korendijk,M50,5,00:37:21,00:37:21,00:24:43,00:12:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+29,92,Klaas Pol,Barneveld,M50,6,00:37:22,00:37:19,00:24:46,00:12:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+30,2045,Vincent Bronkhorst,Running Team Arnhem,M40,9,00:37:23,00:37:21,00:24:58,00:12:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+31,142,Elbert Langerak,Blauwe bikkels,MSR,6,00:37:32,00:37:30,00:24:50,00:12:40,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+32,2601,Sebastiaan Huijgen,OSG de Ring van Putten,M30,9,00:37:32,00:37:25,00:24:45,00:12:40,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+33,1332,Andr'é Koolen,Gemeente Rucphen,M30,10,00:37:37,00:37:33,00:24:53,00:12:40,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+34,1504,Eddo Van Der Meulen,Gemeente Wageningen,M40,10,00:37:39,00:37:37,00:24:51,00:12:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+35,1720,Emiel Flart,Groningen,M30,11,00:37:42,00:37:39,00:24:59,00:12:41,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+36,596,Leo Nijs,Gemeente Den Haag,M50,7,00:37:51,00:37:42,00:25:07,00:12:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+37,1686,Jochem Uithoven,Giessenlanden,M30,12,00:38:02,00:38:00,00:25:19,00:12:41,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+38,2612,H.p. Duiven,Blauwe Bikkels,M30,13,00:38:07,00:38:05,00:25:09,00:12:57,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+39,1394,Peter Bosman,Gemeente Utrecht,M60,3,00:38:14,00:37:33,00:25:24,00:12:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+40,396,Jan Hendrikse,Gemeente Amsterdam,M40,11,00:38:17,00:38:15,00:25:01,00:13:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+41,2308,Wessel Hettema,Waddinxveen,MSR,7,00:38:17,00:38:16,00:25:23,00:12:54,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+42,452,Nicolai Van Der Heijden,Gemeente Best,M50,8,00:38:21,00:38:21,00:25:37,00:12:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+43,287,Addy Boll,Gastvrij en actief,M40,12,00:38:29,00:38:27,00:24:12,00:14:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+44,1826,Frank Nijholt,LG Heerlen,M50,9,00:38:29,00:38:17,00:25:38,00:12:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+45,1928,Coos Hoebe,Omgevingsdienst Zuid-Holland Zuid,M60,4,00:38:34,00:38:28,00:25:19,00:13:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+46,1512,Martin Doeve,Gemeente Wageningen,M40,13,00:38:41,00:38:38,00:25:30,00:13:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+47,2008,Ger Dam,roosendaal,M50,10,00:38:42,00:38:42,00:25:34,00:13:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+48,2088,Ronald Ruitenburg,SED-organisatie,M40,14,00:38:48,00:38:40,00:25:46,00:12:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+49,87,Patrick Fontijn,Barneveld,M30,14,00:38:52,00:38:48,00:25:52,00:12:56,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+50,2330,Gidion Van Dijk,Werkendam Voorop of Vooraan. In elk geval Vooruit,M30,15,00:38:54,00:38:04,00:25:45,00:12:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+51,1064,Ger De Jong,Gemeente Montferland,M50,11,00:38:55,00:38:53,00:25:50,00:13:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+52,769,Durk Polet,Gemeente Heerenveen,M40,15,00:38:59,00:38:55,00:26:04,00:12:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+53,2392,Gerard Sluiskes,Wierden,M40,16,00:39:02,00:38:58,00:25:57,00:13:01,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+54,127,Marijke Vreugdenhil,Bestuursdienst Ommen - Hardenberg,V30,1,00:39:04,00:39:01,00:26:02,00:13:00,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+55,718,Roderiek Gaakeer,Gemeente Goes,MSR,8,00:39:07,00:39:03,00:26:03,00:13:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+56,178,Ed Stijnen,Culemborg,M40,17,00:39:07,00:39:03,00:25:51,00:13:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+57,661,Roland Van Willegen,gemeente Dronten,M40,18,00:39:08,00:39:00,00:25:47,00:13:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+58,1656,Nico Ten Bokkel,Gemeente Zutphen,M50,12,00:39:14,00:39:08,00:25:49,00:13:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+59,900,Samir Amghar,Gemeente Lansingerland,M30,16,00:39:17,00:39:15,00:26:04,00:13:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+60,903,Martijn De Koning,Gemeente Lansingerland,M30,17,00:39:17,00:39:15,00:26:04,00:13:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+61,2061,Kees Kiestra,Samenwerkingsorganisatie De Wolden Hoogeveen,M50,13,00:39:24,00:39:16,00:26:03,00:13:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+62,1518,Niels Springeling,Gemeente Wageningen,M30,18,00:39:24,00:39:21,00:26:13,00:13:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+63,717,Pascal Gaakeer,Gemeente Goes,MSR,9,00:39:27,00:39:23,00:26:10,00:13:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+64,631,Paul Huls,gemeente Doetinchem,M50,14,00:39:31,00:39:29,00:26:09,00:13:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+65,24,Wietse Lolkema,Ameland,M40,19,00:39:32,00:39:28,00:26:15,00:13:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+66,432,Dirk Kropman,Gemeente Bergen,M30,19,00:39:33,00:39:23,00:26:23,00:13:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+67,768,Klaas Hoekstra,Gemeente Heerenveen,M40,20,00:39:40,00:39:38,00:25:44,00:13:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+68,1923,Christiaan Rodenburg,Omgevingsdienst Midden Holland,M30,20,00:39:42,00:39:42,00:26:24,00:13:18,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+69,1919,Adrian Boogaard,Omgevingsdienst Midden Holland,M30,21,00:39:47,00:39:38,00:26:25,00:13:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+70,909,John Van Gorp,Gemeente Lansingerland,M40,21,00:39:52,00:39:50,00:26:18,00:13:33,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+71,2106,Laura Hagebols,Sociale Dienst Drechtsteden,VSR,1,00:39:52,00:39:33,00:26:14,00:13:20,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+72,2294,Ton Romeijn,Voorst,M50,15,00:39:52,00:39:45,00:26:27,00:13:19,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+73,1939,Chris Frencken,Oost Gelre,MSR,10,00:39:53,00:39:49,00:26:16,00:13:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+74,1033,Caspar  Bolscher,Gemeente Leusden,M30,22,00:39:53,00:39:50,00:26:16,00:13:35,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+75,2336,Martien Coenen,Werkorganisatie CGM,M40,22,00:40:02,00:39:58,00:26:13,00:13:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+76,1319,Kees Dongen Van,Gemeente Rotterdam,M50,16,00:40:05,00:40:02,00:26:13,00:13:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+77,830,Henri  Koolhof,Gemeente Kampen,M50,17,00:40:06,00:39:59,00:26:31,00:13:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+78,1691,Ruud  Karsbergen,Goeree-Overflakkee,M50,18,00:40:09,00:40:06,00:26:37,00:13:30,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+79,205,Wiebe De Vries,De friese haasjes,M50,19,00:40:09,00:39:55,00:26:38,00:13:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+80,1959,Mark Bubberman,OSG de Ring van Putten,MSR,11,00:40:12,00:40:04,00:26:36,00:13:29,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+81,1042,Elis Van Veldhuizen,Gemeente Loon op Zand,M50,20,00:40:12,00:40:07,00:26:39,00:13:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+82,1737,Niek Heijboer,Harderwijk,M30,23,00:40:17,00:40:17,00:26:47,00:13:30,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+83,2200,Frank Van Os,Team Westervoort,M30,24,00:40:27,00:40:13,00:26:46,00:13:27,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+84,1374,Raymond Blaeser,Gemeente Súdwest Fryslân,M40,23,00:40:31,00:40:28,00:26:34,00:13:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+85,759,Marjon Bijsterbosch,Gemeente Hattem,V30,2,00:40:32,00:40:31,00:27:02,00:13:30,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+86,260,Harriet Van Sprang,Delft,V40,1,00:40:33,00:39:52,00:26:49,00:13:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+87,240,Martijn Van Dee,De Huchtenlopers,M30,25,00:40:34,00:40:22,00:26:27,00:13:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+88,2334,Astrid Castricum,Werkorganisatie CGM,V40,2,00:40:35,00:40:31,00:26:53,00:13:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+89,1348,Jan Miltenburg,gemeente Sittard-Geleen,M50,21,00:40:36,00:39:59,00:26:47,00:13:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+90,815,Henk Dekker,Gemeente Hoorn,M50,22,00:40:37,00:40:32,00:26:57,00:13:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+91,241,Walter Van Zwolgen - Kampman,De Huchtenlopers,M50,23,00:40:41,00:40:27,00:26:27,00:14:01,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+92,426,Jaap Groeneveld,gemeente Apeldoorn,M60,5,00:40:41,00:40:41,00:26:58,00:13:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+93,2329,Harold Scheepers,Werkendam Voorop of Vooraan. In elk geval Vooruit,M40,24,00:40:42,00:40:37,00:27:00,00:13:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+94,672,John Van Der Kleijn,Gemeente Eindhoven,M50,24,00:40:44,00:40:37,00:26:57,00:13:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+95,673,Ad Verbakel,Gemeente Eindhoven,M50,25,00:40:44,00:40:36,00:26:59,00:13:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+96,913,Douwe Wiebe Beek,Gemeente Leeuwarden,M30,26,00:40:47,00:40:43,00:26:58,00:13:46,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+97,1614,Barto Van Soelen,Gemeente Zederik,M30,27,00:40:47,00:40:44,00:26:55,00:13:49,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+98,1918,Ronald Bakker,Omgevingsdienst Midden Holland,M50,26,00:40:51,00:40:48,00:27:10,00:13:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+99,2310,Mark Van Zanten,Waddinxveen,MSR,12,00:40:52,00:40:47,00:27:13,00:13:35,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+100,61,Heleen Van Keulen,Avri,V40,3,00:40:53,00:40:50,00:26:53,00:13:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+101,590,Aad Gankema,Gemeente Den Haag,M60,6,00:40:53,00:40:52,00:26:59,00:13:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+102,1211,Rob Van Langen,Gemeente Nissewaard,M40,25,00:41:12,00:40:49,00:27:12,00:13:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+103,2313,Twan Zwaan,Waddinxveen,MSR,13,00:41:12,00:41:07,00:27:30,00:13:38,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+104,58,Ton Meuwissen,Avri,M40,26,00:41:14,00:41:04,00:27:19,00:13:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+105,1476,Kees De Jonge,Gemeente Vlaardingen,M50,27,00:41:14,00:41:11,00:27:24,00:13:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+106,2604,Willy Elshof,Gemeente Montferland,M60,7,00:41:28,00:41:26,00:27:21,00:14:06,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+107,1407,Laurens Van Buren,Gemeente Utrecht,M30,28,00:41:32,00:41:24,00:27:50,00:13:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+108,2296,Jan Wesseldijk,Voorst,M50,28,00:41:32,00:41:25,00:27:41,00:13:45,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+109,1895,Jos Custers,Olst-Wijhe,M40,27,00:41:33,00:41:12,00:27:52,00:13:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+110,1301,Jan Beuving,Gemeente Rijssen-Holten,M50,29,00:41:33,00:41:30,00:27:11,00:14:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+111,384,Anita Aleva,Gemeente Amsterdam,V30,3,00:41:34,00:41:33,00:27:33,00:14:00,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+112,2084,Maarten Dijk,SED-organisatie,M40,28,00:41:37,00:41:29,00:27:19,00:14:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+113,991,Edwin Van Putten,Gemeente Leidschendam-Voorburg,M30,29,00:41:37,00:41:33,00:27:36,00:13:57,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+114,1657,Bert Van Der Laan,Gemeente Zutphen,M50,30,00:41:40,00:41:35,00:27:28,00:14:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+115,1393,Florens Booij,Gemeente Utrecht,M30,30,00:41:42,00:41:17,00:27:32,00:13:45,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+116,1567,Alex Buitenhuis,Gemeente Wijdemeren,M40,29,00:41:43,00:41:30,00:27:38,00:13:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+117,1644,Erik Bruntink,Gemeente Zutphen,M50,31,00:41:48,00:41:43,00:27:50,00:13:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+118,764,Henk Huisman,Gemeente Hattem,M40,30,00:41:49,00:41:39,00:27:52,00:13:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+119,2064,Jan  Van Lubek,Samenwerkingsorganisatie De Wolden Hoogeveen,M60,8,00:41:50,00:41:47,00:27:15,00:14:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+120,1822,Robert Steijl,Krimpens team,M40,31,00:41:52,00:41:47,00:28:00,00:13:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+121,1609,Edwin  Kraaijeveld,Gemeente Zederik,M40,32,00:41:52,00:41:49,00:27:40,00:14:10,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+122,1333,Jan  Koolen,Gemeente Rucphen,M50,32,00:41:53,00:41:49,00:27:48,00:14:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+123,919,Alexander Edens,Gemeente Leeuwarden,M40,33,00:41:55,00:41:48,00:28:01,00:13:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+124,2216,Peter Oldenburg,TeamAlkmaar16,M50,33,00:41:56,00:41:50,00:27:43,00:14:07,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+125,2300,Hamid  Azzouzi,Waddinxveen,M30,31,00:42:02,00:41:57,00:27:57,00:14:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+126,1347,Paul Jansen,gemeente Sittard-Geleen,M40,34,00:42:03,00:41:15,00:27:44,00:13:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+127,2203,Gustave Pol,Team Zevenaar,M50,34,00:42:06,00:41:55,00:28:02,00:13:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+128,1999,Eelco Teesink,PV Gemeente Westland,M40,35,00:42:07,00:42:03,00:27:47,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+129,139,Ron De Jong,Blauwe bikkels,M30,33,00:42:07,00:41:54,00:27:53,00:14:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+130,390,Mohamed Chaibi,Gemeente Amsterdam,M30,32,00:42:07,00:41:51,00:27:55,00:13:57,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+131,1253,Martijn Van Der Veeken,Gemeente Oss,M40,36,00:42:16,00:42:09,00:28:16,00:13:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+132,2144,Mario Van Der Linden,Team Houten,M40,37,00:42:20,00:42:14,00:27:58,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+133,554,Erik Oomes,Gemeente De Bilt,M50,35,00:42:22,00:42:18,00:28:06,00:14:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+134,1436,Aron Van Esch,gemeente Veldhoven,M30,34,00:42:22,00:42:08,00:28:06,00:14:02,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+135,1422,Co De Feijter,Gemeente Veere,M50,36,00:42:27,00:42:16,00:28:03,00:14:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+136,91,Johan Kunz,Barneveld,M40,38,00:42:32,00:42:22,00:28:17,00:14:06,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+137,1400,Michel Kloeze,Gemeente Utrecht,MSR,14,00:42:32,00:42:07,00:27:58,00:14:09,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+138,2086,Rob Laan,SED-organisatie,M30,35,00:42:32,00:42:20,00:28:09,00:14:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+139,1302,Arie Van Eck,Gemeente Rijssen-Holten,M50,37,00:42:32,00:42:29,00:28:01,00:14:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+140,2607,Margreet van Kempen-Les,Goeree-Overflakkee,V50,1,00:42:34,00:42:32,00:28:01,00:14:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+141,177,Edward  Spithoven,Culemborg,M40,39,00:42:36,00:42:20,00:28:34,00:13:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+142,1502,Jeroen Wisse,gemeente vlissingen,M30,36,00:42:42,00:42:36,00:28:18,00:14:18,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+143,1643,Pieter Boumeester,Gemeente Zutphen,M50,38,00:42:49,00:42:41,00:28:33,00:14:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+144,398,Peter Jan Kannegieter,Gemeente Amsterdam,M50,39,00:42:50,00:42:40,00:28:36,00:14:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+145,921,Marijke Jousma,Gemeente Leeuwarden,V30,4,00:42:52,00:42:48,00:28:35,00:14:14,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+146,1323,Eline Van Weelden,Gemeente Rotterdam,VSR,2,00:42:53,00:42:42,00:28:27,00:14:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+147,1573,Kiram Kegel,Gemeente Woensdrecht,M30,37,00:42:54,00:42:51,00:28:29,00:14:23,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+148,1790,Karel Kok,Heuvelruglopers,M50,40,00:42:57,00:42:44,00:28:37,00:14:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+149,1501,Bertram Wezenberg,gemeente vlissingen,M30,38,00:42:57,00:42:51,00:28:44,00:14:08,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+150,563,Frederik  Van Weert,Gemeente Den Bosch,M30,39,00:43:02,00:42:41,00:28:28,00:14:14,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+151,1260,Arjan Van Der Velde,Gemeente Oud-Beijerland,M40,40,00:43:05,00:42:04,00:27:49,00:14:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+152,597,Misha Omlo,Gemeente Den Haag,M40,41,00:43:06,00:42:35,00:28:05,00:14:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+153,2018,Jeroen Schrauwen,roosendaal,M40,42,00:43:07,00:42:51,00:28:37,00:14:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+154,593,Rene Jutte,Gemeente Den Haag,M40,43,00:43:07,00:42:10,00:28:25,00:13:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+155,2356,Hester Van Leeuwen,Werkorganisatie Duivenvoorde,V40,4,00:43:09,00:43:07,00:28:50,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+156,2321,Iede Bakker,Werkendam Voorop of Vooraan. In elk geval Vooruit,M50,41,00:43:11,00:42:58,00:29:12,00:13:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+157,537,Bob Strasters,Gemeente Brielle,M30,40,00:43:17,00:42:58,00:28:38,00:14:21,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+158,2012,Wim  Glazenburg,roosendaal,M50,42,00:43:17,00:43:00,00:28:40,00:14:20,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+159,2041,Edwin  Robat,Running Team Arnhem,M40,44,00:43:20,00:43:09,00:28:51,00:14:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+160,1453,Coos Van Lith,Gemeente Vianen,M40,45,00:43:22,00:42:53,00:28:42,00:14:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+161,986,Michiel  Gorsse,Gemeente Leidschendam-Voorburg,M40,46,00:43:25,00:43:20,00:28:38,00:14:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+162,1610,Tino Meuwsen,Gemeente Zederik,M40,47,00:43:27,00:43:22,00:28:54,00:14:29,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+163,218,Anske Schotanus,De Fryske Marren,M40,48,00:43:28,00:43:23,00:28:04,00:15:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+164,1825,Roger Hameleers,LG Heerlen,M40,49,00:43:31,00:43:05,00:29:03,00:14:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+165,819,Nico Wenker,Gemeente Hoorn,M60,9,00:43:35,00:43:30,00:29:06,00:14:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+166,1331,Jac De Bruijn,Gemeente Rucphen,M50,43,00:43:37,00:43:12,00:28:55,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+167,1832,Mark Jacobs,LG Heerlen,M50,44,00:43:38,00:43:12,00:28:56,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+168,402,Hennie Loos,Gemeente Amsterdam,V40,5,00:43:44,00:43:39,00:28:57,00:14:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+169,217,Haije Loonstra,De Fryske Marren,M50,45,00:43:46,00:43:32,00:29:08,00:14:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+170,1951,Hans Vugts,Optimisd,M50,46,00:43:49,00:43:21,00:29:07,00:14:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+171,1649,Jeroen Kerkhof,Gemeente Zutphen,M40,50,00:43:49,00:43:16,00:29:31,00:13:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+172,1890,Herman Schultz,Oldenzaal,M50,47,00:43:49,00:42:45,00:28:59,00:13:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+173,2390,Marcel  Brinks,Wierden,M30,41,00:43:51,00:43:43,00:29:53,00:13:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+174,2287,Tivo Hoang,Veiligheidsregio Rotterdam Rijnmond Brandweer,M40,51,00:43:53,00:43:41,00:29:27,00:14:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+175,2189,Bram Zekveld,Team Rijswijk,M50,48,00:43:55,00:43:50,00:29:22,00:14:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+176,2188,Gert Van Voorn,Team Rijswijk,M60,10,00:43:56,00:43:51,00:28:57,00:14:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+177,910,Bart Waasdorp,Gemeente Lansingerland,M50,49,00:43:57,00:43:47,00:29:07,00:14:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+178,899,Ami Alhyane,Gemeente Lansingerland,M40,52,00:43:57,00:43:46,00:29:06,00:14:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+179,904,Eric Korteland,Gemeente Lansingerland,M40,53,00:43:58,00:43:48,00:29:07,00:14:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+180,1738,Cees Klaassen,Harderwijk,M40,54,00:44:02,00:43:33,00:28:42,00:14:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+181,2066,Jacob Willemsma,Samenwerkingsorganisatie De Wolden Hoogeveen,M60,11,00:44:06,00:44:02,00:29:20,00:14:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+182,239,Bart Brandenburg-Stroo,De Huchtenlopers,M30,42,00:44:08,00:43:55,00:29:16,00:14:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+183,589,Ramon Fehling,Gemeente Den Haag,M40,55,00:44:08,00:43:12,00:28:51,00:14:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+184,238,Hugo Bartelink,De Huchtenlopers,M40,56,00:44:09,00:43:56,00:29:17,00:14:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+185,618,Rik Joor,Gemeente Den Helder,M40,57,00:44:10,00:43:41,00:29:06,00:14:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+186,2104,Erwin Boer,Sociale Dienst Drechtsteden,M40,58,00:44:11,00:43:54,00:29:21,00:14:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+187,1920,René Dillisse,Omgevingsdienst Midden Holland,MSR,15,00:44:14,00:43:47,00:29:24,00:14:23,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+188,771,John Van De Wiel,Gemeente Heerenveen,M50,50,00:44:15,00:43:33,00:29:12,00:14:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+189,1254,Ronald Van De Geer,Gemeente Oud-Beijerland,M40,59,00:44:17,00:43:17,00:28:25,00:14:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+190,697,Kees  Vissers,gemeente Etten-Leur,M60,12,00:44:19,00:44:07,00:29:30,00:14:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+191,2108,Jos Teunissen,Sociale Dienst Drechtsteden,M40,60,00:44:19,00:44:03,00:29:14,00:14:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+192,1405,Leon Snoek,Gemeente Utrecht,M50,51,00:44:22,00:43:41,00:29:23,00:14:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+193,49,Denny Van Straaten,Avri,M30,43,00:44:27,00:44:18,00:28:30,00:15:49,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+194,1940,Lucienne Kant,Oost Gelre,V50,2,00:44:27,00:44:08,00:29:23,00:14:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+195,958,Jos Verwer,Gemeente Leidschendam-Voorburg,M60,13,00:44:28,00:43:04,00:29:08,00:13:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+196,522,Coen Vos,Gemeente Breda,M40,61,00:44:31,00:44:22,00:29:26,00:14:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+197,1750,Jan Duijm,Hardinxveld-Giessendam,M40,62,00:44:36,00:44:18,00:29:35,00:14:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+198,1201,Martijn Hamerslag,Gemeente Nissewaard,M30,44,00:44:38,00:44:33,00:29:26,00:15:07,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+199,2053,Leo Gooyen,Runningteam Brunssum,M60,14,00:44:41,00:43:53,00:29:08,00:14:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+200,2026,Harry Boerma,RUD-Utrecht,M50,52,00:44:44,00:44:09,00:29:12,00:14:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+201,1941,Barrie Span,Oost Gelre,M40,63,00:44:45,00:44:26,00:29:41,00:14:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+202,1401,Sjoerd Kooijmans,Gemeente Utrecht,M30,45,00:44:48,00:44:33,00:29:30,00:15:03,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+203,1274,Gertjan  Poleij,Gemeente Reimerswaal,M40,64,00:44:51,00:44:15,00:29:08,00:15:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+204,600,Jaco Weststrate,Gemeente Den Haag,M40,65,00:44:54,00:43:56,00:28:30,00:15:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+205,1399,Bas Jongmans,Gemeente Utrecht,MSR,16,00:44:54,00:44:30,00:28:50,00:15:40,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+206,1998,Simon Pleijsier,PV Gemeente Westland,M50,53,00:45:01,00:43:50,00:29:34,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+207,799,Huib  Raijmakers,Gemeente Helmond 2,M40,66,00:45:03,00:44:33,00:29:50,00:14:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+208,773,Leo Van Der Meulen,Gemeente Heerenveen,M60,15,00:45:04,00:44:57,00:29:54,00:15:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+209,822,Arjan Van Den Tempel,gemeente IJsselstein/Montfoort,M30,46,00:45:08,00:44:50,00:29:59,00:14:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+210,824,Jeroen Van Delden,gemeente IJsselstein/Montfoort,M50,54,00:45:08,00:44:50,00:29:59,00:14:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+211,953,Hans Smit,Gemeente Leiden,M50,55,00:45:08,00:45:00,00:29:42,00:15:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+212,197,Ed Schenk,DCMR Milieudienst Rijnmond,M60,16,00:45:09,00:44:17,00:29:30,00:14:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+213,528,Ghislaine Van Der Vlies,Gemeente Brielle,V30,5,00:45:10,00:44:52,00:29:56,00:14:56,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+214,1499,John Gillesse,gemeente vlissingen,M40,67,00:45:10,00:44:03,00:30:01,00:14:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+215,770,Sjoerd Talstra,Gemeente Heerenveen,M40,68,00:45:11,00:44:22,00:29:37,00:14:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+216,1197,Ed De Leest,Gemeente Nissewaard,M50,56,00:45:11,00:45:02,00:29:55,00:15:07,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+217,1800,Ans Van Veenendaal-Kocken,Heuvelruglopers,V60,1,00:45:12,00:45:02,00:30:10,00:14:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+218,624,Cors Van Kruining,Gemeente Den Helder,M50,57,00:45:13,00:44:43,00:29:33,00:15:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+219,1685,Maarten Schuur,Giessenlanden,M30,47,00:45:14,00:44:55,00:29:41,00:15:14,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+220,860,Vincent Van Straaten,Gemeente Kerkrade,M40,69,00:45:17,00:45:00,00:30:07,00:14:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+221,1756,Evelien  Hillen,Hardlopers Gemeente Aalten,V40,6,00:45:21,00:44:10,00:30:10,00:14:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+222,393,Maarten Dellebeke,Gemeente Amsterdam,M30,48,00:45:22,00:45:12,00:30:34,00:14:39,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+223,823,Paul Leijenaar,gemeente IJsselstein/Montfoort,M30,49,00:45:22,00:45:04,00:29:58,00:15:06,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+224,955,Anita Van Zeijl,Gemeente Leiden,V50,3,00:45:23,00:45:17,00:30:06,00:15:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+225,2097,Matthijs  Suijkerbuijk,Sliedrecht,M30,50,00:45:24,00:44:28,00:29:49,00:14:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+226,1593,Doby Van Den Eijkhof,Gemeente Zaanstad,M30,51,00:45:25,00:44:42,00:29:46,00:14:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+227,430,Ellen Arts,Gemeente Bergen,V40,7,00:45:26,00:45:17,00:30:04,00:15:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+228,1550,Henk  Valk,Gemeente Westvoorne,M50,58,00:45:27,00:44:41,00:29:48,00:14:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+229,801,Theo  Van De Broek,Gemeente Helmond 2,M50,59,00:45:29,00:45:23,00:30:11,00:15:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+230,392,Merijn De Vries,Gemeente Amsterdam,M40,70,00:45:32,00:45:22,00:31:05,00:14:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+231,311,Henk Jansen,Gemeente Almelo,M60,17,00:45:33,00:45:23,00:30:11,00:15:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+232,472,Jack Karelse,Gemeente Borsele,M40,71,00:45:33,00:44:58,00:30:22,00:14:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+233,1058,Jos Nijland,Gemeente Medemblik,M50,60,00:45:35,00:45:24,00:29:51,00:15:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+234,88,Parman Kasanredjo,Barneveld,M60,18,00:45:37,00:45:33,00:30:18,00:15:16,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+235,44,Rolf Bouwmeester,Amstelveen,M60,19,00:45:38,00:45:35,00:29:48,00:15:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+236,400,Peter Kroon,Gemeente Amsterdam,M60,20,00:45:41,00:45:32,00:30:14,00:15:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+237,2616,Serwin Van der Ven,Politie,MSR,17,00:45:45,00:45:43,00:29:34,00:16:09,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+238,1878,Ralf Bongaerts,Nederweert,M40,72,00:45:46,00:44:29,00:29:37,00:14:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+239,1551,Peter Van Der Wurff,Gemeente Westvoorne,M50,61,00:45:46,00:45:03,00:30:09,00:14:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+240,1548,Jolanda Groen,Gemeente Westvoorne,V40,8,00:45:47,00:45:01,00:30:13,00:14:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+241,772,Jeroen Van Der Laan,Gemeente Heerenveen,M40,73,00:45:51,00:45:03,00:29:44,00:15:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+242,395,Sas Hartman,Gemeente Amsterdam,V50,4,00:45:53,00:45:42,00:30:18,00:15:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+243,410,Marleen Van Den Heuvel,Gemeente Amsterdam,V30,6,00:45:59,00:45:50,00:30:30,00:15:21,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+244,1194,Margo Bakhuizen,Gemeente Nissewaard,V40,9,00:45:59,00:45:52,00:30:18,00:15:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+245,397,Caroline Huszti,Gemeente Amsterdam,V30,7,00:46:01,00:45:50,00:30:18,00:15:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+246,796,Hein Maas,Gemeente Helmond 2,M60,21,00:46:05,00:45:32,00:30:23,00:15:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+247,1376,Jan Leijstra,Gemeente Súdwest Fryslân,M50,62,00:46:06,00:45:21,00:30:18,00:15:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+248,983,Monique Broere,Gemeente Leidschendam-Voorburg,V50,5,00:46:07,00:46:01,00:30:25,00:15:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+249,513,Ruud Deckers,Gemeente Breda,M50,63,00:46:08,00:45:21,00:30:10,00:15:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+250,1613,Robert Van Opdorp,Gemeente Zederik,M30,52,00:46:10,00:46:03,00:30:03,00:16:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+251,1730,Tini Visker,Groningen,V50,6,00:46:12,00:46:06,00:30:30,00:15:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+252,1684,Judith Kooijman,Giessenlanden,V50,7,00:46:13,00:46:01,00:30:51,00:15:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+253,915,Kees Bunschoten,Gemeente Leeuwarden,M60,22,00:46:14,00:45:54,00:30:39,00:15:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+254,2211,Annet Hartnack,TeamAlkmaar16,V60,2,00:46:15,00:45:02,00:30:00,00:15:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+255,1668,Arthur Van De Ven,Gemert-Bakel,M50,64,00:46:15,00:45:37,00:30:35,00:15:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+256,1757,Rik Hulshof,Hardlopers Gemeente Aalten,M40,74,00:46:15,00:45:04,00:30:11,00:14:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+257,156,Lyda Van Der Linden,Bodegraven-Reeuwijk,V50,8,00:46:17,00:46:08,00:30:52,00:15:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+258,1736,Jaap Gernaat,Harderwijk,M40,75,00:46:20,00:45:51,00:30:32,00:15:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+259,2019,Anton Van Den Nieuwenhuijzen,roosendaal,M50,65,00:46:23,00:46:06,00:31:32,00:14:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+260,2005,Peter Aalderink,roosendaal,M50,66,00:46:23,00:46:06,00:31:31,00:14:35,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+261,1892,Lianne Arling,Olst-Wijhe,V40,10,00:46:25,00:45:21,00:30:17,00:15:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+262,1893,Lianne Arling,Olst-Wijhe,V40,11,00:46:26,00:45:21,00:30:16,00:15:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+263,126,Edwin  Munneke,Bestuursdienst Ommen - Hardenberg,M40,76,00:46:33,00:45:33,00:30:42,00:14:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+264,632,Dorien Weijers,gemeente Doetinchem,V50,9,00:46:35,00:46:24,00:30:22,00:16:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+265,1831,John  Gootzen,LG Heerlen,M50,67,00:46:38,00:45:56,00:30:36,00:15:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+266,617,Danny Joor,Gemeente Den Helder,M50,68,00:46:41,00:46:13,00:30:04,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+267,1335,Marij Manders,Gemeente Schijndel,V40,12,00:46:42,00:46:28,00:30:37,00:15:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+268,988,Arthur Snoek,Gemeente Leidschendam-Voorburg,M40,77,00:46:44,00:45:19,00:29:03,00:16:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+269,2209,Pieter Dijkman,TeamAlkmaar16,M50,69,00:46:44,00:45:33,00:30:18,00:15:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+270,1848,Marissa Diender,Metafoor,VSR,3,00:46:45,00:46:23,00:30:45,00:15:39,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+271,2346,Martijn  Meulenbroek,Werkorganisatie Duivenvoorde,M40,78,00:46:46,00:45:48,00:30:26,00:15:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+272,259,Cor Olsthoorn,Delft,M60,23,00:46:46,00:46:06,00:30:41,00:15:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+273,1371,Vincent Van Den Bosch,Gemeente Steenbergen,M40,79,00:46:47,00:45:49,00:30:41,00:15:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+274,516,Peter Snoeys,Gemeente Breda,M40,80,00:46:47,00:45:24,00:30:34,00:14:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+275,916,Jellie Corbee,Gemeente Leeuwarden,V30,8,00:46:48,00:46:39,00:30:34,00:16:06,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+276,2338,Raymond Jans,Werkorganisatie CGM,M40,81,00:46:48,00:46:26,00:31:16,00:15:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+277,552,Marco  Withagen,Gemeente Bronckhorst,M40,82,00:46:50,00:45:45,00:30:50,00:14:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+278,1996,Marco Bootsma,PV Gemeente Westland,M40,83,00:46:54,00:46:49,00:30:57,00:15:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+279,747,Mohamed Aznag,Gemeente Haarlem,M40,84,00:46:57,00:45:29,00:30:12,00:15:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+280,207,Wilma Huisman,De friese haasjes,V40,13,00:46:57,00:46:44,00:31:25,00:15:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+281,1921,Jan Geerling,Omgevingsdienst Midden Holland,M60,24,00:46:58,00:46:46,00:31:02,00:15:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+282,656,Chris Aa,gemeente Dronten,M30,53,00:47:00,00:46:39,00:31:07,00:15:32,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+283,1373,Klaas Tjibbe Knobbe,Gemeente Súdwest Fryslân,M40,85,00:47:01,00:46:16,00:30:58,00:15:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+284,797,Hein Mennen,Gemeente Helmond 2,M40,86,00:47:02,00:46:32,00:31:18,00:15:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+285,219,Theo Weidenaar,De Fryske Marren,M40,87,00:47:02,00:46:16,00:30:58,00:15:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+286,1298,Jan Rutjes,Gemeente Renkum,M50,70,00:47:03,00:45:49,00:30:57,00:14:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+287,1655,Luus Stoop,Gemeente Zutphen,V50,10,00:47:03,00:46:31,00:30:48,00:15:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+288,2400,Corné Humme,Winterswijk,M50,71,00:47:04,00:46:29,00:31:16,00:15:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+289,1549,"Ruud Halen, Van",Gemeente Westvoorne,M40,88,00:47:05,00:46:58,00:30:45,00:16:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+290,1433,Carst De Kock,gemeente Veldhoven,M50,72,00:47:06,00:46:51,00:31:14,00:15:38,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+291,5,Eric  Van Mierlo,ABG-Gemeenten,M40,89,00:47:08,00:46:46,00:30:49,00:15:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+292,1043,Lianne Van Wanrooij,Gemeente Loon op Zand,V40,14,00:47:08,00:46:56,00:31:28,00:15:29,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+293,2170,Nick Bloemen,Team Rheden,M30,54,00:47:09,00:46:52,00:31:20,00:15:32,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+294,451,Mark Stabel,Gemeente Best,MSR,18,00:47:10,00:47:01,00:31:01,00:16:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+295,1929,Edwin Tromp,Omgevingsdienst Zuid-Holland Zuid,M40,90,00:47:10,00:46:48,00:30:50,00:15:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+296,1927,Maarten De Beus,Omgevingsdienst Zuid-Holland Zuid,M50,73,00:47:11,00:46:48,00:30:50,00:15:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+297,199,Martijn Van Der Hoek,DCMR Milieudienst Rijnmond,M30,55,00:47:11,00:46:45,00:31:57,00:14:49,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+298,2150,Carine Vink,Team IZA,V50,11,00:47:13,00:46:17,00:30:55,00:15:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+299,1078,Marco Schermer,Gemeente Nieuwegein,M40,91,00:47:14,00:46:24,00:30:57,00:15:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+300,548,Marcel Lubbers,Gemeente Bronckhorst,M40,92,00:47:15,00:46:11,00:30:51,00:15:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+301,719,Evelyn Goetheer,Gemeente Goes,V30,9,00:47:17,00:47:11,00:31:03,00:16:09,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+302,412,Arnold Van Genderen,Gemeente Amsterdam,M30,56,00:47:17,00:47:04,00:30:49,00:16:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+303,1322,Daniel Lier,Gemeente Rotterdam,MSR,19,00:47:18,00:47:06,00:31:25,00:15:42,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+304,1498,Matthijs Bode,gemeente vlissingen,M40,93,00:47:18,00:46:11,00:31:25,00:14:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+305,140,Rimmer Genee,Blauwe bikkels,MSR,20,00:47:20,00:47:08,00:30:31,00:16:37,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+306,95,Jan Werkhoven,Barneveld,M50,74,00:47:23,00:47:13,00:31:13,00:16:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+307,1203,Iddo Ketel,Gemeente Nissewaard,M30,57,00:47:26,00:47:08,00:31:02,00:16:07,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+308,762,Marijn De Keijzer,Gemeente Hattem,M40,94,00:47:27,00:47:20,00:31:46,00:15:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+309,1060,Jan Hania,Gemeente Medemblik,M60,25,00:47:28,00:47:17,00:31:15,00:16:02,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+310,1652,Marcel  Lichtenbeld,Gemeente Zutphen,M50,75,00:47:29,00:46:51,00:31:16,00:15:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+311,767,Janine Does,Gemeente Heerenveen,V40,15,00:47:33,00:47:24,00:31:28,00:15:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+312,1696,Ger Cardinaal,Groepsdetacheringen Rotterdam,M50,76,00:47:37,00:47:04,00:31:25,00:15:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+313,141,Danny Kruisheer,Blauwe bikkels,M30,58,00:47:38,00:47:25,00:30:58,00:16:27,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+314,1793,Andre Stolvoort,Heuvelruglopers,M50,77,00:47:40,00:46:08,00:30:22,00:15:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+315,730,Jochem Van Loon,gemeente Gouda,M30,59,00:47:40,00:47:28,00:30:50,00:16:39,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+316,1722,John Kamstra,Groningen,M40,95,00:47:41,00:47:19,00:30:55,00:16:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+317,1673,Erwin Loff,GGD Flevoland,M40,96,00:47:42,00:47:27,00:31:34,00:15:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+318,2015,Corné Kriesels,roosendaal,M50,78,00:47:44,00:47:27,00:32:07,00:15:20,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+319,872,Petra Frieswijk,Gemeente Korendijk,V40,16,00:47:44,00:47:18,00:31:36,00:15:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+320,870,Martijn Bouman,Gemeente Korendijk,M30,60,00:47:44,00:47:30,00:32:08,00:15:23,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+321,137,Martin Tak,Binnenmaas,M50,79,00:47:47,00:46:44,00:31:25,00:15:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+322,134,Sascha Konijnenburg,Binnenmaas,V40,17,00:47:47,00:46:44,00:31:25,00:15:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+323,3,Jacqueline Stouten,ABG-Gemeenten,V50,12,00:47:48,00:47:39,00:31:29,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+324,990,Martijn Van Kooten,Gemeente Leidschendam-Voorburg,M30,61,00:47:52,00:46:58,00:30:09,00:16:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+325,1877,Winand  Bijlmakers,Nederweert,M40,97,00:47:55,00:46:37,00:31:04,00:15:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+326,2087,Piet Meissen,SED-organisatie,M50,80,00:47:56,00:47:48,00:31:49,00:16:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+327,1950,Simone Verbeek-Hulsbosch,Optimisd,V40,18,00:47:57,00:47:29,00:31:26,00:16:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+328,2070,Peter Verburg,Samenwerkingsverband Welzijnszorg Oosterscheldereg,M50,81,00:47:57,00:47:31,00:31:18,00:16:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+329,2602,A van Ark,Almere,M40,98,00:47:57,00:47:03,00:30:47,00:16:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+330,1917,Jimmy Baas,Omgevingsdienst Midden Holland,M30,62,00:47:57,00:47:30,00:30:53,00:16:38,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+331,176,Maarten Raes,Culemborg,M30,63,00:47:58,00:47:37,00:31:04,00:16:33,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+332,1369,Rob Bogers,Gemeente Steenbergen,M50,82,00:47:58,00:47:00,00:31:24,00:15:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+333,2124,Jaap Klok,Strijen,M60,26,00:48:02,00:47:49,00:30:45,00:17:04,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+334,1591,Gerrit Jan  Muijs,Gemeente Zaanstad,M50,83,00:48:02,00:47:23,00:31:25,00:15:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+335,1377,Wil Reuvers,Gemeente Uden,M60,27,00:48:03,00:47:12,00:31:38,00:15:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+336,2328,Suzanne Kuipers,Werkendam Voorop of Vooraan. In elk geval Vooruit,VSR,4,00:48:04,00:47:13,00:32:35,00:14:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+337,2609,Mart Kooy,Alphen aan den Rijn 2,M50,84,00:48:06,00:47:59,00:31:00,00:17:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+338,62,Anja Jongmans,Baanbrekers,V50,13,00:48:06,00:47:53,00:31:48,00:16:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+339,518,Paul Van Der Wolf,Gemeente Breda,M50,85,00:48:11,00:47:19,00:32:39,00:14:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+340,750,Arjen Limonard,Gemeente Haarlem,M30,64,00:48:14,00:47:58,00:31:54,00:16:04,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+341,1479,Kees Schrieks,Gemeente Vlaardingen,M50,86,00:48:14,00:48:04,00:32:06,00:15:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+342,2384,Robert Van Der Voort,West Holland,M40,99,00:48:15,00:47:23,00:31:32,00:15:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+343,1876,Marcel Tinnemans,Nederweert,M40,100,00:48:16,00:46:58,00:31:35,00:15:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+344,869,Martien Born,Gemeente Korendijk,M40,101,00:48:24,00:47:58,00:31:23,00:16:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+345,658,Bert Brink,gemeente Dronten,M60,28,00:48:25,00:48:08,00:32:00,00:16:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+346,417,Koos Zwiers,Gemeente Amsterdam,M50,87,00:48:25,00:48:17,00:31:59,00:16:18,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+347,1990,Wilko Heij,Provincie Zeeland,M30,65,00:48:26,00:48:13,00:31:56,00:16:18,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+348,901,Eduard Bouma,Gemeente Lansingerland,M40,102,00:48:27,00:47:02,00:31:55,00:15:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+349,2014,Angelo Kole,roosendaal,M40,103,00:48:29,00:48:12,00:32:25,00:15:48,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+350,1945,Toon Kerkhof,Optimisd,M50,88,00:48:31,00:48:04,00:31:28,00:16:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+351,1944,Marieke Cornelissen,Optimisd,V30,10,00:48:31,00:48:03,00:32:31,00:15:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+352,1409,Mariska Van Oeffelen,Gemeente Utrecht,VSR,5,00:48:35,00:48:11,00:32:56,00:15:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+353,1199,Jantien Fröling,Gemeente Nissewaard,V50,14,00:48:38,00:48:31,00:31:47,00:16:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+354,1739,Tim Van Den Brink,Harderwijk,M30,66,00:48:38,00:48:17,00:33:02,00:15:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+355,2007,John Coppens,roosendaal,M60,29,00:48:40,00:48:09,00:31:55,00:16:14,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+356,2169,René Arentshorst,Team Rheden,M50,89,00:48:40,00:47:20,00:31:51,00:15:29,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+357,521,Sjack Vissers,Gemeente Breda,M50,90,00:48:41,00:47:16,00:31:29,00:15:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+358,2002,Luc Verschueren,PV Gemeente Westland,M40,104,00:48:42,00:47:42,00:32:12,00:15:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+359,1719,Karin Danhof,Groningen,V50,15,00:48:42,00:48:35,00:32:24,00:16:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+360,175,Tom Delforterie,Culemborg,M30,67,00:48:45,00:48:24,00:32:17,00:16:07,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+361,1611,Barry Scherpenberg,Gemeente Zederik,M30,68,00:48:48,00:48:42,00:32:16,00:16:27,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+362,828,Elisabeth Dam,Gemeente Kampen,V40,19,00:48:50,00:48:06,00:32:15,00:15:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+363,1758,Bas Kruisselbrink,Hardlopers Gemeente Aalten,M50,91,00:48:52,00:47:40,00:31:52,00:15:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+364,1404,René Leppink,Gemeente Utrecht,M50,92,00:48:52,00:47:37,00:32:22,00:15:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+365,25,Gerlof Metz,Ameland,M50,93,00:48:52,00:48:47,00:31:38,00:17:09,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+366,765,Femmy Tuin,Gemeente Hattem,V60,3,00:48:52,00:48:47,00:32:36,00:16:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+367,1402,David Langerak,Gemeente Utrecht,MSR,21,00:48:52,00:48:27,00:33:12,00:15:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+368,1514,Sjaak Hendriks,Gemeente Wageningen,M50,94,00:48:53,00:48:06,00:32:03,00:16:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+369,1659,Monique Van 'T Erve,Gemeente Zutphen,V30,11,00:48:54,00:48:33,00:31:54,00:16:39,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+370,2382,Bodes De Vries,West Holland,M50,95,00:48:54,00:48:02,00:31:58,00:16:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+371,1500,Bert Van Den Berg,gemeente vlissingen,M50,96,00:48:56,00:47:48,00:31:44,00:16:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+372,1059,Esther De Vries,Gemeente Medemblik,V30,12,00:48:57,00:48:46,00:32:35,00:16:11,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+373,1805,Robin John Van Tol,IJsselgemeenten,M30,69,00:48:59,00:48:46,00:32:18,00:16:28,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+374,1117,Vera Rikken,Gemeente Nijmegen,V60,4,00:49:00,00:48:08,00:31:57,00:16:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+375,987,Jeske Gunterman,Gemeente Leidschendam-Voorburg,VSR,6,00:49:02,00:47:39,00:31:40,00:15:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+376,1924,Geert Van Roessel,Omgevingsdienst Midden Holland,M50,97,00:49:07,00:48:55,00:32:08,00:16:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+377,1229,Jan Dunning,Gemeente Noordoostpolder,M30,70,00:49:09,00:48:46,00:31:54,00:16:53,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+378,835,John Van Veen,Gemeente Kampen,M50,98,00:49:09,00:48:01,00:32:02,00:15:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+379,1677,Roos Van Dijk,GGD Flevoland,V40,20,00:49:09,00:48:54,00:33:08,00:15:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+380,519,Patrick Van Lunteren,Gemeente Breda,M40,105,00:49:12,00:49:03,00:32:39,00:16:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+381,926,Anton Wijkhuijs,Gemeente Leeuwarden,M40,106,00:49:16,00:47:54,00:31:19,00:16:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+382,834,James  Van Ommen,Gemeente Kampen,M60,30,00:49:20,00:48:54,00:32:29,00:16:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+383,464,Marco Moddejonge,Gemeente Borne,M40,107,00:49:21,00:48:50,00:32:40,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+384,2322,Jos Bleijlevens,Werkendam Voorop of Vooraan. In elk geval Vooruit,M50,99,00:49:22,00:48:32,00:32:20,00:16:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+385,2031,Marlous V.D. Meer,RUD-Utrecht,V40,21,00:49:22,00:47:53,00:31:58,00:15:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+386,273,Thom Van Aert,Dreamteam Oosterhout,M40,108,00:49:23,00:49:07,00:32:30,00:16:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+387,1016,Hotze Attema,Gemeente Lelystad,M60,31,00:49:25,00:49:04,00:32:32,00:16:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+388,1385,René De Vries,Gemeente Urk,M30,71,00:49:25,00:49:07,00:32:15,00:16:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+389,2614,Frank Witkam,Samenwerkingsverband Welzijnszorg Oosterscheldereg,M50,100,00:49:26,00:49:01,00:32:39,00:16:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+390,524,Erik Willemsen,Gemeente Breda,M40,109,00:49:28,00:48:00,00:33:26,00:14:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+391,22,Sjon De Haan,Ameland,M40,110,00:49:31,00:49:25,00:32:00,00:17:25,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+392,1367,Jan Breider,Gemeente Stadskanaal,M50,101,00:49:31,00:48:10,00:32:28,00:15:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+393,324,Ingrid Heetman,Gemeente Alphen aan den Rijn,V30,13,00:49:33,00:49:22,00:32:33,00:16:50,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+394,1900,Tonny  Holleboom,Olst-Wijhe,M60,32,00:49:36,00:48:05,00:32:45,00:15:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+395,550,Kirsten Remerie,Gemeente Bronckhorst,VSR,7,00:49:37,00:48:33,00:32:20,00:16:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+396,1904,Joop Kruize,Omgevingsdienst Groningen,M60,33,00:49:39,00:48:22,00:31:42,00:16:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+397,1592,Dirk Ronitz,Gemeente Zaanstad,M50,102,00:49:40,00:49:02,00:33:01,00:16:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+398,1594,Ben Wagenvoort,Gemeente Zaanstad,M50,103,00:49:40,00:49:01,00:32:51,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+399,1115,Antoon De Bekker,Gemeente Nijmegen,M60,34,00:49:40,00:48:38,00:32:36,00:16:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+400,2142,Marc Tammens,Team Houten,M30,72,00:49:42,00:49:29,00:33:15,00:16:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+401,659,Ellen Heeren,gemeente Dronten,V40,22,00:49:45,00:49:28,00:32:57,00:16:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+402,1321,Saskia Lansbergen,Gemeente Rotterdam,V30,14,00:49:45,00:49:34,00:32:51,00:16:43,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+403,725,Anne De Jong,Gemeente Gorinchem,M60,35,00:49:46,00:49:28,00:32:39,00:16:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+404,2009,Bianca Davidse,roosendaal,V30,15,00:49:47,00:49:29,00:32:59,00:16:31,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+405,2011,Frank De Haan,roosendaal,M50,104,00:49:47,00:49:29,00:32:59,00:16:31,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+406,1669,Niels Baaij,GGD Flevoland,M30,73,00:49:47,00:49:31,00:33:17,00:16:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+407,760,Eric Boerkamp,Gemeente Hattem,M50,105,00:49:48,00:48:20,00:32:10,00:16:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+408,1723,Harry Kruize,Groningen,M40,111,00:49:49,00:49:28,00:32:40,00:16:49,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+409,1118,André Roseboom,Gemeente Nijmegen,M40,112,00:49:53,00:49:29,00:33:06,00:16:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+410,196,Marc Groenenboom,DCMR Milieudienst Rijnmond,M40,113,00:49:55,00:49:00,00:32:35,00:16:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+411,539,Angelique Van Oers,Gemeente Brielle,V40,23,00:49:57,00:49:01,00:32:10,00:16:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+412,1318,Paul De Vriend,Gemeente Rotterdam,M50,106,00:49:57,00:49:24,00:33:04,00:16:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+413,2213,Aart Jonker,TeamAlkmaar16,M50,107,00:49:58,00:48:44,00:32:02,00:16:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+414,1797,Philip Kroon,Heuvelruglopers,M60,36,00:49:58,00:48:59,00:32:36,00:16:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+415,332,Kenneth Brammerloo,Gemeente Amsterdam,M50,108,00:49:59,00:49:31,00:33:01,00:16:30,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+416,829,Jan De Velde,Gemeente Kampen,M60,37,00:50:00,00:49:34,00:33:08,00:16:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+417,1645,Ben  Buiting,Gemeente Zutphen,M60,38,00:50:00,00:49:26,00:32:45,00:16:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+418,948,Peter De Vos,Gemeente Leiden,M60,39,00:50:00,00:49:49,00:32:54,00:16:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+419,394,Marise Ent,Gemeente Amsterdam,V40,24,00:50:00,00:49:50,00:32:54,00:16:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+420,1889,Mariska Wagenaar,Oldebroek Voor Mekaar,V30,16,00:50:00,00:49:52,00:32:18,00:17:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+421,1477,Jelle Gerritse,Gemeente Vlaardingen,M50,109,00:50:01,00:48:55,00:32:54,00:16:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+422,146,Lisanne  Van Boekel,BMC,VSR,8,00:50:02,00:49:46,00:33:11,00:16:35,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+423,108,Ton Van Beurden,Bernhezer running team,M50,110,00:50:02,00:49:18,00:33:41,00:15:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+424,408,Sytske Tjeerdema,Gemeente Amsterdam,V40,25,00:50:03,00:49:53,00:33:20,00:16:34,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+425,838,Gertrude Withaar,Gemeente Kampen,V40,26,00:50:05,00:49:21,00:33:20,00:16:01,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+426,470,Manon Holster,Gemeente Borsele,V30,17,00:50:05,00:49:52,00:33:07,00:16:46,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+427,1208,Ruud Van Der Klooster,Gemeente Nissewaard,M50,111,00:50:06,00:49:41,00:33:00,00:16:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+428,250,Wilma Ooms,De Ronde Venen,V40,27,00:50:07,00:48:57,00:32:57,00:16:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+429,1370,Ruud Peeters,Gemeente Steenbergen,M40,114,00:50:08,00:49:10,00:31:23,00:17:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+430,2205,Theo Sessink,Team Zevenaar,M50,112,00:50:09,00:49:25,00:32:52,00:16:34,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+431,1403,Marloes Lelieveld,Gemeente Utrecht,V50,16,00:50:09,00:49:40,00:33:13,00:16:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+432,45,Karin Heuvel Van Der,Amstelveen,V50,17,00:50:09,00:49:55,00:32:58,00:16:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+433,2341,Coen Oomens,Werkorganisatie CGM,M40,115,00:50:10,00:49:39,00:33:07,00:16:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+434,1804,Henk Kleinheerenbrink,IJsselgemeenten,M60,40,00:50:12,00:49:55,00:32:51,00:17:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+435,2218,Wendy Sanders,TeamAlkmaar16,V40,28,00:50:15,00:49:02,00:32:12,00:16:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+436,1521,Marian Van Der Stok,Gemeente Wageningen,V40,29,00:50:17,00:50:03,00:33:01,00:17:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+437,1094,Danny Van Den Boogert,Gemeente Nieuwkoop,M30,74,00:50:18,00:49:59,00:32:36,00:17:23,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+438,1408,Michiel Van Koningsbruggen,Gemeente Utrecht,M30,75,00:50:21,00:49:56,00:33:18,00:16:39,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+439,2016,André Mol,roosendaal,M50,113,00:50:22,00:49:19,00:33:47,00:15:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+440,1273,Leo Addink,Gemeente Reimerswaal,M50,114,00:50:23,00:49:29,00:32:28,00:17:01,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+441,1251,Matthee Fransen,Gemeente Oss,M40,116,00:50:28,00:50:21,00:33:53,00:16:28,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+442,1334,Marco Splinter,Gemeente Rucphen,M50,115,00:50:28,00:50:15,00:33:00,00:17:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+443,1721,Stien Hut,Groningen,V60,5,00:50:30,00:50:09,00:33:09,00:17:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+444,551,Patrick Roes,Gemeente Bronckhorst,M40,117,00:50:32,00:49:28,00:32:48,00:16:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+445,2202,Wim Geurts,Team Zevenaar,M50,116,00:50:33,00:49:13,00:33:16,00:15:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+446,2214,Marlies Koster,TeamAlkmaar16,V30,18,00:50:38,00:50:17,00:33:11,00:17:06,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+447,598,Tina Out-Hol,Gemeente Den Haag,V50,18,00:50:40,00:50:17,00:33:23,00:16:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+448,2198,Annemarie  Erinkveld,Team Westervoort,V50,19,00:50:42,00:49:56,00:33:18,00:16:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+449,1397,Con Hoogendoorn,Gemeente Utrecht,M40,118,00:50:44,00:50:01,00:33:13,00:16:49,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+450,1099,Lex Niekel,Gemeente Nieuwkoop,M50,117,00:50:48,00:50:09,00:33:19,00:16:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+451,1531,Mario Baartman,Gemeente Westvoorne,M40,119,00:50:50,00:50:02,00:33:52,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+452,89,Johan Kingma,Barneveld,M50,118,00:50:51,00:50:22,00:34:44,00:15:38,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+453,385,Marcel Arends,Gemeente Amsterdam,M40,120,00:50:52,00:50:24,00:33:23,00:17:02,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+454,562,Arlette Oosterholt,Gemeente Den Bosch,V30,19,00:50:56,00:49:28,00:33:12,00:16:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+455,1096,Marcel Duits,Gemeente Nieuwkoop,M50,119,00:51:02,00:50:45,00:33:16,00:17:30,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+456,1995,Mark Blokland,PV Gemeente Westland,M40,121,00:51:04,00:49:52,00:33:56,00:15:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+457,1547,Patricia Bonjer,Gemeente Westvoorne,V40,30,00:51:06,00:50:09,00:33:50,00:16:19,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+458,2212,Herman Hommen,TeamAlkmaar16,M60,41,00:51:07,00:49:57,00:32:25,00:17:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+459,1697,Kees Kooiman,Groepsdetacheringen Rotterdam,M60,42,00:51:09,00:50:34,00:33:41,00:16:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+460,1250,Trudy Bergers Dreesen,Gemeente Oss,V50,20,00:51:10,00:50:55,00:33:52,00:17:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+461,751,Donald Van Den Eijkhof,Gemeente Haarlem,M60,43,00:51:12,00:50:30,00:33:36,00:16:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+462,855,Bianca Schoeter-Sluis,Gemeente Kerkrade,V40,31,00:51:13,00:51:04,00:34:01,00:17:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+463,795,Roland  Koers,Gemeente Helmond 2,M50,120,00:51:14,00:50:41,00:34:16,00:16:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+464,1930,Ale Van Bergeijk,Omgevingsdienst Zuid-Holland Zuid,M60,44,00:51:17,00:50:59,00:33:33,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+465,2183,Anice Hagui,Team Rijswijk,M30,76,00:51:17,00:51:12,00:33:28,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+466,1798,Cor Radix,Heuvelruglopers,M50,121,00:51:19,00:50:20,00:32:54,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+467,1375,Peter Faber,Gemeente Súdwest Fryslân,M50,122,00:51:19,00:50:25,00:32:49,00:17:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+468,1725,Jan Rake,Groningen,M60,45,00:51:20,00:50:05,00:33:44,00:16:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+469,2160,Conny Huijskens,team Oude IJsselstreek,V50,21,00:51:20,00:50:43,00:34:41,00:16:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+470,1478,Peter Kooiman,Gemeente Vlaardingen,M50,123,00:51:22,00:50:56,00:33:58,00:16:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+471,1866,Peter Hellings,Mijngemeentedichtbij,M60,46,00:51:23,00:51:15,00:33:53,00:17:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+472,450,Hans Sellink,Gemeente Best,M50,124,00:51:23,00:50:04,00:32:48,00:17:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+473,1948,Ingrid Cuenen,Optimisd,V40,32,00:51:26,00:50:57,00:33:54,00:17:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+474,1949,Mariël Selten,Optimisd,V40,33,00:51:26,00:50:58,00:33:38,00:17:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+475,1300,Rolf Van Lit,Gemeente Renkum,M50,125,00:51:28,00:50:13,00:33:28,00:16:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+476,726,Hans Freije,Gemeente Gorinchem,M50,126,00:51:28,00:51:09,00:33:10,00:17:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+477,194,André De Jong,DCMR Milieudienst Rijnmond,M50,127,00:51:28,00:50:32,00:33:44,00:16:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+478,1515,Johan Homan,Gemeente Wageningen,M40,122,00:51:30,00:50:31,00:33:42,00:16:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+479,2090,Noortje Visser,SED-organisatie,V30,20,00:51:30,00:51:20,00:33:13,00:18:07,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+480,2001,Maryke Verheul,PV Gemeente Westland,V40,34,00:51:35,00:50:34,00:33:45,00:16:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+481,2325,Danielle Ernest,Werkendam Voorop of Vooraan. In elk geval Vooruit,V40,35,00:51:37,00:50:46,00:34:37,00:16:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+482,1209,Jeroen Van Der Velde,Gemeente Nissewaard,M40,123,00:51:42,00:51:17,00:34:07,00:17:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+483,1894,Anita Broeke Ten,Olst-Wijhe,V50,22,00:51:44,00:50:40,00:34:09,00:16:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+484,1873,Lidy  Dilling,Neder-Betuwe,V50,23,00:51:47,00:51:17,00:34:38,00:16:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+485,802,Ton  Van Hoof,Gemeente Helmond 2,M50,128,00:51:48,00:50:35,00:31:57,00:18:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+486,2324,Cor De Jong,Werkendam Voorop of Vooraan. In elk geval Vooruit,M50,129,00:51:49,00:50:58,00:33:31,00:17:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+487,1480,Anita Stolk,Gemeente Vlaardingen,V50,24,00:51:49,00:51:23,00:33:58,00:17:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+488,1275,Ralph Van Der Weele,Gemeente Reimerswaal,M40,124,00:51:51,00:51:13,00:34:46,00:16:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+489,2215,Piet Leijen,TeamAlkmaar16,M50,130,00:51:53,00:50:38,00:33:39,00:16:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+490,549,Gert-jan  Peppelman,Gemeente Bronckhorst,M40,125,00:51:59,00:50:56,00:34:18,00:16:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+491,21,Walter Van Coeverden,Almere,M40,126,00:51:59,00:51:06,00:33:52,00:17:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+492,46,Marianne Levenbach,Amstelveen,V40,36,00:52:01,00:51:46,00:34:23,00:17:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+493,232,Geerdien Van Der Hijden,De Heidelopers,V40,37,00:52:02,00:51:38,00:34:00,00:17:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+494,925,Jaap Vos,Gemeente Leeuwarden,M50,131,00:52:03,00:50:39,00:34:01,00:16:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+495,2158,Patricia De Vries,team Oude IJsselstreek,V50,25,00:52:03,00:51:27,00:34:41,00:16:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+496,23,Ronald Leijstra,Ameland,M30,77,00:52:05,00:51:59,00:33:34,00:18:25,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+497,951,Willeke Lekanne,Gemeente Leiden,V50,26,00:52:05,00:51:52,00:34:51,00:17:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+498,1660,Jane Voskamp,Gemeente Zutphen,V50,27,00:52:05,00:51:16,00:34:22,00:16:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+499,1675,Gerdien Oepts,GGD Flevoland,V50,28,00:52:05,00:51:49,00:34:25,00:17:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+500,1079,Kees Van Dorst,Gemeente Nieuwegein,M50,132,00:52:06,00:51:16,00:33:49,00:17:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+501,1097,Nel Duits,Gemeente Nieuwkoop,V50,29,00:52:07,00:51:28,00:34:17,00:17:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+502,912,Nadia Amah  Apedo,Gemeente Leeuwarden,V30,21,00:52:11,00:52:02,00:33:18,00:18:44,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+503,984,Bert Drenth,Gemeente Leidschendam-Voorburg,M60,47,00:52:11,00:50:50,00:34:43,00:16:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+504,18,Fred Dekker,Almere,M60,48,00:52:12,00:51:18,00:34:03,00:17:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+505,1451,Robin Duiker,Gemeente Vianen,M30,78,00:52:15,00:51:46,00:33:52,00:17:55,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+506,1101,Monika  Van Meerendonk,Gemeente Nieuwkoop,V40,38,00:52:16,00:51:37,00:35:07,00:16:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+507,911,Hanny Algra,Gemeente Leeuwarden,V40,39,00:52:17,00:50:57,00:34:34,00:16:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+508,920,Mettje Elzinga,Gemeente Leeuwarden,V50,30,00:52:18,00:51:46,00:35:22,00:16:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+509,1421,Jeffrey Alewijnse,Gemeente Veere,M30,79,00:52:18,00:52:00,00:35:14,00:16:47,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+510,954,Rien Van Es,Gemeente Leiden,M60,49,00:52:21,00:51:56,00:34:30,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+511,1503,Jos Francke,gemeente vlissingen,M60,50,00:52:21,00:51:16,00:34:00,00:17:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+512,2109,Roeland Westra,Sociale Dienst Drechtsteden,M30,80,00:52:23,00:52:04,00:33:38,00:18:27,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+513,1759,Hester Pennings,Hardlopers Gemeente Aalten,V40,40,00:52:25,00:51:14,00:34:06,00:17:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+514,2326,Sven Hambuckers,Werkendam Voorop of Vooraan. In elk geval Vooruit,M30,81,00:52:25,00:51:34,00:34:38,00:16:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+515,2323,Gerard Boss,Werkendam Voorop of Vooraan. In elk geval Vooruit,M50,133,00:52:25,00:51:34,00:34:34,00:17:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+516,2105,Monique Den Hartog,Sociale Dienst Drechtsteden,V30,22,00:52:27,00:52:07,00:35:13,00:16:54,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+517,2339,Ton Janssen,Werkorganisatie CGM,M60,51,00:52:31,00:51:58,00:34:28,00:17:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+518,157,Anja Van Klompenburg,Bodegraven-Reeuwijk,V40,41,00:52:31,00:52:21,00:34:38,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+519,1252,Gerard Van Druten,Gemeente Oss,M60,52,00:52:33,00:52:26,00:34:52,00:17:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+520,2293,Wouter Ijsseldijk,Voorst,MSR,22,00:52:34,00:52:26,00:33:59,00:18:28,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+521,861,Jo Widdershoven,Gemeente Kerkrade,V60,6,00:52:34,00:52:26,00:34:50,00:17:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+522,1608,Joop Koetsenruijter,Gemeente Zederik,M60,53,00:52:34,02:06:32,01:49:31,00:17:01,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+523,1517,Paul Quint,Gemeente Wageningen,M50,134,00:52:34,00:51:35,00:34:34,00:17:02,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+524,1100,Eva Van Der Kolk,Gemeente Nieuwkoop,VSR,9,00:52:35,00:52:15,00:34:08,00:18:08,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+525,94,Klaas Veldman,Barneveld,M50,135,00:52:36,00:52:09,00:34:59,00:17:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+526,59,Max Pijl,Avri,M50,136,00:52:37,00:52:06,00:35:23,00:16:43,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+527,109,Ad  Van Den Tillaart,Bernhezer running team,M50,137,00:52:38,00:51:55,00:34:41,00:17:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+528,1349,Jan  Van De Ven,gemeente Sittard-Geleen,M50,138,00:52:40,00:51:51,00:34:43,00:17:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+529,1807,Jos Meeuwsen,Jos Meeuwsen,M50,139,00:52:41,00:51:33,00:34:25,00:17:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+530,1345,Chrit  Savelkoul,gemeente Sittard-Geleen,M50,140,00:52:43,00:51:55,00:34:45,00:17:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+531,1612,Leon Stremler,Gemeente Zederik,MSR,23,00:52:45,00:52:24,00:33:37,00:18:47,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+532,1726,Arentze Ries,Groningen,M50,141,00:52:45,00:52:24,00:34:19,00:18:05,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+533,2261,Jos Over De Vest,ToppersMaassluis,M50,142,00:52:45,00:51:57,00:34:48,00:17:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+534,1806,Stijn Gijssel,Jos Meeuwsen,M50,143,00:52:46,00:51:38,00:34:02,00:17:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+535,623,Jan Van Herwijnen,Gemeente Den Helder,M60,54,00:52:46,00:52:38,00:34:55,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+536,1437,Jim Van Tol,gemeente Veldhoven,M50,144,00:52:48,00:52:32,00:34:47,00:17:46,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+537,1898,Alfons  Ganzevles,Olst-Wijhe,M50,145,00:52:51,00:51:47,00:34:41,00:17:06,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+538,852,Harry Brienen,Gemeente Kerkrade,M60,55,00:52:54,00:52:30,00:34:57,00:17:33,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+539,201,Aize Kramer,De friese haasjes,M40,127,00:52:54,00:51:38,00:34:16,00:17:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+540,209,Aly  Prins Olijve,De friese haasjes,V50,31,00:52:54,00:52:19,00:34:55,00:17:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+541,210,Petra Werkman,De friese haasjes,V50,32,00:52:54,00:52:18,00:34:55,00:17:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+542,476,Renate Kerckhoffs,Gemeente Breda,V30,23,00:52:56,00:52:41,00:35:16,00:17:25,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+543,258,José Bentvelzen,Delft,V50,33,00:52:57,00:52:16,00:35:36,00:16:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+544,2613,Sylvester Kreft,Blauwe Bikkels,M40,128,00:52:58,00:52:45,00:33:32,00:19:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+545,1867,Lenie Heyms,Mijngemeentedichtbij,V50,34,00:52:59,00:52:04,00:34:50,00:17:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+546,1869,Frank Van Rozendaal,Mijngemeentedichtbij,M50,146,00:52:59,00:52:04,00:34:43,00:17:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+547,503,Mariëlle Pieterse,Gemeente Breda,V40,42,00:53:01,00:51:34,00:34:46,00:16:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+548,93,Heidi Van De Grootevheen,Barneveld,V50,35,00:53:03,00:52:34,00:34:45,00:17:50,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+549,918,Lisette  Dijkstra,Gemeente Leeuwarden,V30,24,00:53:03,00:51:42,00:34:46,00:16:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+550,853,Nicole Gidding,Gemeente Kerkrade,V40,43,00:53:03,00:52:21,00:35:27,00:16:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+551,447,Toon Brouwers,Gemeente Best,M60,56,00:53:07,00:52:31,00:34:17,00:18:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+552,326,Jan Visser,Gemeente Alphen aan den Rijn,M50,147,00:53:08,00:51:42,00:34:29,00:17:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+553,1196,Marieke Boerma,Gemeente Nissewaard,VSR,10,00:53:10,00:52:53,00:34:33,00:18:21,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+554,793,Mieke Bex,Gemeente Helmond 2,V30,25,00:53:11,00:52:36,00:36:20,00:16:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+555,1874,Jan Stutvoet,Neder-Betuwe,M50,148,00:53:11,00:52:40,00:35:54,00:16:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+556,198,Marieke Schreuder,DCMR Milieudienst Rijnmond,V40,44,00:53:11,00:52:15,00:34:58,00:17:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+557,2024,Jan V.D. Heuvel,RUD-Utrecht,M50,149,00:53:12,00:52:33,00:35:00,00:17:34,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+558,1120,Marieke Selten,Gemeente Nijmegen,VSR,11,00:53:13,00:53:01,00:33:08,00:19:53,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+559,1728,Ed Van Der Graaf,Groningen,M60,57,00:53:13,00:52:19,00:34:56,00:17:24,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+560,1678,Caroline Voogd,GGD Flevoland,V40,45,00:53:15,00:52:59,00:35:00,00:17:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+561,832,Hans Pekaar,Gemeente Kampen,M60,58,00:53:16,00:52:05,00:34:40,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+562,1821,Arjan Bosker,Krimpens team,M50,150,00:53:20,00:51:50,00:34:30,00:17:21,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+563,1772,George De Jongste - Kobossen,Hellevoetsluis,M50,151,00:53:23,00:52:15,00:35:06,00:17:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+564,875,Simone Van Der Pols,Gemeente Korendijk,V30,26,00:53:24,00:53:10,00:35:06,00:18:04,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+565,619,Jan Klopstra,Gemeente Den Helder,M50,152,00:53:25,00:52:57,00:35:25,00:17:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+566,595,Wim Leenen,Gemeente Den Haag,M50,153,00:53:25,00:52:32,00:34:44,00:17:49,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+567,346,Jan Willem Pereboom,Gemeente Amsterdam,M40,129,00:53:28,00:53:20,00:35:44,00:17:36,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+568,704,Michel Bego,gemeente Etten-Leur,M60,59,00:53:28,00:52:56,00:35:16,00:17:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+569,2184,Evelien Huis,Team Rijswijk,V40,46,00:53:33,00:53:22,00:35:24,00:17:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+570,409,Margrita Van Den Akker,Gemeente Amsterdam,V30,27,00:53:33,00:53:07,00:35:47,00:17:21,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+571,1519,Dick Van Aalten,Gemeente Wageningen,M60,60,00:53:35,00:52:37,00:34:39,00:17:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+572,1295,Nelleke Brekelmans,Gemeente Renkum,V30,28,00:53:35,00:53:11,00:35:31,00:17:41,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+573,873,Gert-jan Stehouwer,Gemeente Korendijk,M40,130,00:53:37,00:53:23,00:35:06,00:18:17,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+574,133,Arthur Jongenotter,Binnenmaas,M40,131,00:53:38,00:52:31,00:35:06,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+575,136,Dirk Romijn,Binnenmaas,M50,154,00:53:38,00:52:32,00:35:07,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+576,1868,Dagmar Van Deurzen,Mijngemeentedichtbij,V40,47,00:53:39,00:52:44,00:35:09,00:17:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+577,132,Elize De Jongste,Binnenmaas,V40,48,00:53:41,00:52:32,00:35:06,00:17:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+578,536,Geradine Roskam,Gemeente Brielle,V40,49,00:53:41,00:52:46,00:36:11,00:16:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+579,1981,Richard De Ruijter,Pijnacker-Nootdorp loopt!,M50,155,00:53:41,00:52:38,00:35:07,00:17:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+580,2355,Suzan Penders,Werkorganisatie Duivenvoorde,VSR,12,00:53:41,00:53:20,00:34:55,00:18:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+581,2222,Trudy Vlaar,TeamAlkmaar16,V50,36,00:53:43,00:52:29,00:34:26,00:18:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+582,989,Ton Van Der Weele,Gemeente Leidschendam-Voorburg,M50,156,00:53:45,00:52:22,00:34:43,00:17:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+583,520,Yulia Van Wanrooy-Matyusheva,Gemeente Breda,VSR,13,00:53:45,00:53:30,00:34:27,00:19:04,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+584,1888,Marco  Koning,Oldebroek Voor Mekaar,M40,132,00:53:46,00:52:46,00:35:36,00:17:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+585,1368,Albert Lubberink,Gemeente Stadskanaal,M50,157,00:53:47,00:52:30,00:34:54,00:17:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+586,1398,Renate Janssen,Gemeente Utrecht,V50,37,00:53:47,00:52:32,00:34:44,00:17:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+587,1261,Monica Van Der Vlies,Gemeente Oud-Beijerland,V40,50,00:53:49,00:52:48,00:36:04,00:16:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+588,2006,Ibrahim Bahadin,roosendaal,M40,133,00:53:49,00:53:32,00:35:08,00:18:25,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+589,405,Wendy Regeer,Gemeente Amsterdam,V30,29,00:53:54,00:53:47,00:35:45,00:18:02,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+590,1259,Judith Leijten,Gemeente Oud-Beijerland,V30,30,00:53:55,00:52:54,00:36:04,00:16:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+591,155,Gretha Oosterveld-Huizing,Bodegraven-Reeuwijk,V40,51,00:54:05,00:53:54,00:35:40,00:18:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+592,1396,Wim Goedvolk,Gemeente Utrecht,M60,61,00:54:06,00:53:23,00:35:39,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+593,215,Luuk De Haan,De Fryske Marren,M50,158,00:54:13,00:52:39,00:34:42,00:17:58,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+594,1202,Ly Hoang,Gemeente Nissewaard,V30,31,00:54:13,00:54:01,00:34:50,00:19:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+595,1212,Yvonne Vorthoren - Schurink,Gemeente Nissewaard,V30,32,00:54:13,00:53:50,00:35:32,00:18:19,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+596,2295,Alexander Tuitert,Voorst,M30,82,00:54:16,00:54:09,00:34:55,00:19:14,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+597,837,Geke Vriezenga,Gemeente Kampen,V40,52,00:54:19,00:53:32,00:36:41,00:16:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+598,2391,Dick Roessink,Wierden,M40,134,00:54:22,00:53:12,00:35:43,00:17:30,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+599,1020,José  Steenge,Gemeente Lelystad,V60,7,00:54:26,00:54:06,00:36:33,00:17:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+600,857,Jos Smeets,Gemeente Kerkrade,M60,62,00:54:31,00:54:07,00:35:43,00:18:25,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+601,798,Ben Pauly,Gemeente Helmond 2,M50,159,00:54:31,00:53:56,00:36:21,00:17:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+602,800,Erna  Ten Have,Gemeente Helmond 2,V50,38,00:54:31,00:53:57,00:36:21,00:17:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+603,2350,Johann Boers,Werkorganisatie Duivenvoorde,M50,160,00:54:32,00:53:02,00:36:06,00:16:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+604,1061,Henk Post,Gemeente Medemblik,M50,161,00:54:34,00:54:12,00:35:40,00:18:33,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+605,1631,Chris Stam,Gemeente Zoetermeer,M50,162,00:54:39,00:53:22,00:36:13,00:17:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+606,2186,Him Sidhoe,Team Rijswijk,M50,163,00:54:40,00:54:34,00:34:48,00:19:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+607,591,Jacqueline Gelauf,Gemeente Den Haag,V40,53,00:54:41,00:54:17,00:35:46,00:18:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+608,858,Xandra Vaessen,Gemeente Kerkrade,V50,39,00:54:49,00:54:40,00:36:50,00:17:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+609,1586,Abdel Chekhchar,Gemeente Zaanstad,M50,164,00:54:51,00:54:11,00:36:03,00:18:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+610,1213,Angelika Waldraff,Gemeente Nissewaard,V50,40,00:54:52,00:54:28,00:36:20,00:18:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+611,1672,Anneke Keizer,GGD Flevoland,V50,41,00:54:55,00:54:36,00:36:42,00:17:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+612,1299,Hanneke Van Hulten,Gemeente Renkum,V40,54,00:55:00,00:54:36,00:36:20,00:18:17,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+613,885,Sylvia Been,Gemeente Krimpenerwaard,V30,33,00:55:02,00:54:15,00:35:25,00:18:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+614,889,Laurens Mourik,Gemeente Krimpenerwaard,M50,165,00:55:02,00:54:16,00:35:25,00:18:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+615,774,Stef  Kamphuis,Gemeente Helmond 2,M50,166,00:55:04,00:54:30,00:36:21,00:18:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+616,1879,Harold Van Der Haar,Nederweert,M40,135,00:55:05,00:53:46,00:36:03,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+617,2113,Kees Van Kooten,Stichtse Vecht,M60,63,00:55:07,00:54:39,00:35:54,00:18:46,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+618,1484,Siska Van Heerwaarden,Gemeente Vlaardingen,V50,42,00:55:07,00:54:02,00:35:29,00:18:34,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+619,833,Gerda Smith,Gemeente Kampen,V40,55,00:55:09,00:54:21,00:36:43,00:17:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+620,1629,Skitz Fijan,Gemeente Zoetermeer,M50,167,00:55:12,00:53:55,00:35:42,00:18:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+621,871,Marieke Faasen,Gemeente Korendijk,V40,56,00:55:13,00:54:47,00:35:54,00:18:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+622,433,Theo  Tebarts,Gemeente Bergen,M50,168,00:55:18,00:54:07,00:36:00,00:18:07,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+623,1658,Frits Van Schagen,Gemeente Zutphen,M60,64,00:55:18,00:54:41,00:36:26,00:18:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+624,2199,Nina  Fowkes,Team Westervoort,V40,57,00:55:18,00:54:02,00:36:16,00:17:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+625,2065,Gerard Velthuis,Samenwerkingsorganisatie De Wolden Hoogeveen,M50,169,00:55:19,00:54:44,00:36:41,00:18:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+626,1205,Lex Strijbos,Gemeente Nissewaard,M50,170,00:55:24,00:54:27,00:36:33,00:17:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+627,692,Wilma Donkers,Gemeente enschede,V50,43,00:55:28,00:54:46,00:36:21,00:18:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+628,592,Sophie Grootveld,Gemeente Den Haag,V50,44,00:55:29,00:55:04,00:36:11,00:18:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+629,2,Toon Capel,ABG-Gemeenten,M30,83,00:55:30,00:55:08,00:36:30,00:18:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+630,620,Fred Makker,Gemeente Den Helder,M50,171,00:55:31,00:55:01,00:37:25,00:17:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+631,2159,Martin Duking,team Oude IJsselstreek,M60,65,00:55:32,00:54:55,00:36:15,00:18:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+632,644,Kelly Bekers,Gemeente Drimmelen,V40,58,00:55:32,00:54:55,00:37:02,00:17:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+633,657,Huib Bliek,gemeente Dronten,M60,66,00:55:37,00:55:19,00:36:21,00:18:59,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+634,2389,Martin  Boswinkel,Wierden,M50,172,00:55:39,00:54:19,00:35:44,00:18:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+635,2608,Dinie Derks,Gemeente Wijchen,V50,45,00:55:39,00:54:55,00:36:49,00:18:06,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+636,1562,Lambert Van Beusekom,Gemeente Wijchen,M50,173,00:55:39,00:54:56,00:36:50,00:18:06,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+637,1106,Gijs Van Essen,Gemeente Nijkerk,M60,67,00:55:42,00:54:27,00:35:49,00:18:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+638,1435,Marjan Van Den Hoogenhoff,gemeente Veldhoven,V40,59,00:55:45,00:55:30,00:36:30,00:19:00,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+639,2023,André Lindenbergh,RUD Zeeland,M50,174,00:55:50,00:55:10,00:36:22,00:18:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+640,2096,Jan Dijkstra,Sliedrecht,M50,175,00:55:54,00:54:55,00:35:14,00:19:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+641,216,Tiny Driessen,De Fryske Marren,V30,34,00:55:54,00:55:44,00:36:48,00:18:57,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+642,2220,Wim Siemerink,TeamAlkmaar16,M60,68,00:55:56,00:54:43,00:36:19,00:18:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+643,2017,Orm Rijsdijk,roosendaal,M40,136,00:55:59,00:55:39,00:36:47,00:18:53,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+644,523,Ruud Vrolijk,Gemeente Breda,M30,84,00:56:06,00:55:36,00:37:27,00:18:10,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+645,952,Ted Onderwater,Gemeente Leiden,M60,69,00:56:11,00:55:47,00:35:57,00:19:51,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+646,1846,Marcel Versteeg,MD Runners,M50,176,00:56:11,00:54:46,00:36:21,00:18:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+647,1842,Jan De Ronde,MD Runners,M50,177,00:56:11,00:54:46,00:36:22,00:18:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+648,851,Anny Brienen,Gemeente Kerkrade,V60,8,00:56:16,00:55:48,00:36:32,00:19:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+649,1671,Dick Fleury,GGD Flevoland,M60,70,00:56:19,00:56:01,00:36:14,00:19:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+650,564,Nico Zeegers,Gemeente Den Bosch,M50,178,00:56:21,00:54:52,00:36:32,00:18:20,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+651,1529,Kees Siemensma,Gemeente West Maas en Waal,M60,71,00:56:23,00:56:02,00:36:27,00:19:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+652,816,Peter Koomen,Gemeente Hoorn,M60,72,00:56:26,00:55:27,00:36:37,00:18:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+653,1434,Francis Van Boxtel,gemeente Veldhoven,V30,35,00:56:29,00:56:14,00:37:02,00:19:12,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+654,1997,Monique Borne,PV Gemeente Westland,V30,36,00:56:30,00:56:16,00:37:26,00:18:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+655,1206,Irma Torres,Gemeente Nissewaard,V40,60,00:56:35,00:56:11,00:36:54,00:19:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+656,2000,Marieke Van Der Meer,PV Gemeente Westland,V30,37,00:56:38,00:56:24,00:36:57,00:19:27,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+657,2089,Judith Van Kwawegen,SED-organisatie,V30,38,00:56:40,00:56:29,00:36:54,00:19:36,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+658,2606,Marieke den Braven,Gemeente Alphen aan den Rijn,VSR,14,00:56:40,00:55:14,00:37:05,00:18:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+659,645,Liesbeth  Van Hees,Gemeente Drimmelen,V40,61,00:56:44,00:56:08,00:37:11,00:18:57,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+660,2201,Femke Aarnink,Team Zevenaar,V40,62,00:56:45,00:55:23,00:37:19,00:18:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+661,200,Yolanda Waas,DCMR Milieudienst Rijnmond,V40,63,00:56:48,00:55:53,00:37:03,00:18:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+662,1891,Gerard Maas,Oldenzaal,M60,73,00:56:49,00:56:31,00:36:20,00:20:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+663,2373,Gemma Klijs,werkplein hart van West-Brabant,VSR,15,00:56:52,00:56:41,00:39:24,00:17:18,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+664,1564,Theo Van Rooijen,Gemeente Wijdemeren,M30,85,00:56:52,00:55:33,00:37:39,00:17:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+665,1983,Anita Monshouwer,Pijnacker-Nootdorp loopt!,V50,46,00:57:03,00:56:01,00:37:30,00:18:32,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+666,261,Anita Zwart,Delft,V50,47,00:57:04,00:56:01,00:36:38,00:19:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+667,1741,Bauke Witteveen,Harderwijk,M30,86,00:57:07,00:56:45,00:37:32,00:19:13,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+668,179,Sjon Van Essen,Culemborg,M50,179,00:57:08,00:56:52,00:36:35,00:20:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+669,1588,Leendert Haak,Gemeente Zaanstad,M50,180,00:57:12,00:56:30,00:37:14,00:19:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+670,752,Robin Van Der Reep,Gemeente Haarlem,MSR,24,00:57:12,00:55:46,00:38:13,00:17:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+671,407,Boris Steeman,Gemeente Amsterdam,M40,137,00:57:14,00:55:43,00:37:58,00:17:45,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+672,389,Egon Bungert,Gemeente Amsterdam,M60,74,00:57:14,00:55:43,00:37:59,00:17:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+673,415,Ingeborg Wannags,Gemeente Amsterdam,V50,48,00:57:15,00:56:29,00:38:14,00:18:15,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+674,416,Brian Wolff,Gemeente Amsterdam,M40,138,00:57:18,00:56:50,00:36:50,00:20:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+675,1342,Henk Kortlever,Gemeente Schouwen-Duiveland,M50,181,00:57:22,00:57:04,00:37:49,00:19:16,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+676,431,Stefan Kerkhoff,Gemeente Bergen,M30,87,00:57:24,00:56:12,00:35:59,00:20:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+677,448,Geert Driessens,Gemeente Best,M50,182,00:57:35,00:56:56,00:37:02,00:19:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+678,1647,Henk Derksen,Gemeente Zutphen,M40,139,00:57:35,00:56:56,00:37:42,00:19:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+679,1596,Gerrit Halderman,Gemeente Zandvoort,M60,75,00:57:36,00:57:13,00:37:46,00:19:28,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+680,2013,Wim Hopmans,roosendaal,M60,76,00:57:36,00:57:02,00:37:51,00:19:11,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+681,1729,Kundien Van Loo,Groningen,V40,64,00:57:40,02:12:10,01:53:23,00:18:48,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+682,1599,Jacqueline Van Heeringen,Gemeente Zandvoort,V50,49,00:57:46,00:57:23,00:38:08,00:19:15,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+683,1516,Anneke Klop,Gemeente Wageningen,V40,65,00:57:49,00:56:47,00:37:54,00:18:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+684,2353,Richard Middelraad,Werkorganisatie Duivenvoorde,M40,140,00:58:00,00:56:29,00:37:48,00:18:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+685,465,Martien Weernink,Gemeente Borne,V50,50,00:58:07,00:57:36,00:37:50,00:19:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+686,297,André Breedveld,gemeente Alblasserdam,M50,183,00:58:14,00:57:59,00:37:46,00:20:13,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+687,2210,Retthy Groot,TeamAlkmaar16,V50,51,00:58:18,00:57:07,00:37:31,00:19:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+688,220,Klaas Ybema,De Fryske Marren,M60,77,00:58:22,00:56:49,00:37:09,00:19:40,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+689,817,Wendy  Nieuweboer - Laan,Gemeente Hoorn,V40,66,00:58:24,00:57:59,00:37:47,00:20:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+690,455,Jan Van Der Schrier,Gemeente Bloemendaal,M60,78,00:58:25,00:58:06,00:38:45,00:19:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+691,276,Ellen Janssen-Nijholt,eemsmond,V40,67,00:58:26,00:57:37,00:38:14,00:19:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+692,500,Erik Norbart,Gemeente Breda,M50,184,00:58:26,00:58:09,00:38:45,00:19:24,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+693,1667,Ad Geurts,Gemert-Bakel,M60,79,00:58:28,00:57:22,00:38:30,00:18:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+694,621,Joop Rein,Gemeente Den Helder,M60,80,00:58:29,00:58:00,00:38:12,00:19:49,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+695,2605,Dirk van zonderen,Gemeente Velsen,M60,81,00:58:30,00:57:06,00:38:21,00:18:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+696,1424,Lenny Van Lambalgen-De Visser,Gemeente Veere,V50,52,00:58:32,00:57:40,00:38:15,00:19:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+697,2332,Jan Venhuis,Werkendam Voorop of Vooraan. In elk geval Vooruit,M50,185,00:58:34,00:57:43,00:37:11,00:20:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+698,761,Nicole De Groot,Gemeente Hattem,V40,68,00:58:35,00:57:07,00:37:45,00:19:22,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+699,766,Hans Van Dijk,Gemeente Hattem,M50,186,00:58:35,00:57:06,00:37:41,00:19:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+700,905,Frans Loos,Gemeente Lansingerland,M60,82,00:58:36,00:57:18,00:38:09,00:19:09,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+701,1642,Kathleen  Willemsens,Gemeente Zutphen,V40,69,00:58:40,00:57:50,00:37:50,00:20:00,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+702,1481,José Van Den Bergh,Gemeente Vlaardingen,V50,53,00:58:42,00:57:37,00:38:52,00:18:46,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+703,2020,Christel Van Hoek,roosendaal,V40,70,00:58:45,00:57:43,00:39:05,00:18:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+704,2010,Jolien De Brabander,roosendaal,V40,71,00:58:46,00:57:44,00:39:05,00:18:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+705,1513,Mira Faber,Gemeente Wageningen,V50,54,00:58:46,00:57:44,00:38:07,00:19:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+706,818,Nimal  Van Tilburg,Gemeente Hoorn,M30,88,00:58:48,00:58:29,00:37:11,00:21:19,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+707,1796,Hellen Basari,Heuvelruglopers,V30,39,00:58:49,00:58:34,00:37:29,00:21:05,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+708,814,Nina  Bouwhuis,Gemeente Hoorn,VSR,16,00:58:51,00:58:25,00:39:20,00:19:05,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+709,403,Fred Plas,Gemeente Amsterdam,M40,141,00:58:54,00:58:41,00:37:41,00:21:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+710,2207,Roy Van Rhedenburg,Team Zevenaar,MSR,25,00:58:55,00:57:33,00:38:03,00:19:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+711,1707,Jeannet Bakema,Groningen,V60,9,00:58:57,00:58:37,00:38:50,00:19:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+712,1386,Aaltje Vink,Gemeente Urk,V40,72,00:58:57,00:58:39,00:39:46,00:18:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+713,1710,Benny Koopman,Groningen,M40,142,00:58:58,00:58:37,00:38:30,00:20:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+714,1735,Ben  De Zwaan,Harderwijk,M50,187,00:59:20,00:58:52,00:38:11,00:20:41,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+715,1740,Tharcisius Van Tol,Harderwijk,M50,188,00:59:20,00:58:51,00:38:09,00:20:42,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+716,208,Carel Luttje,De friese haasjes,M60,83,00:59:29,00:58:49,00:38:32,00:20:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+717,982,Ed Bloemendaal,Gemeente Leidschendam-Voorburg,M50,189,00:59:29,00:58:06,00:37:59,00:20:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+718,917,Gosse Dijkstra,Gemeente Leeuwarden,M60,84,00:59:30,00:58:08,00:38:44,00:19:25,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+719,1019,Marieke Post,Gemeente Lelystad,V40,73,00:59:34,00:58:51,00:40:43,00:18:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+720,2091,Hans Wammes,SED-organisatie,M40,143,00:59:44,00:59:35,00:37:51,00:21:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+721,2029,Cristine Marskamp,RUD-Utrecht,V40,74,00:59:48,00:58:18,00:38:26,00:19:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+722,2032,Jacob Sonneveld,RUD-Utrecht,M30,89,00:59:48,00:58:19,00:38:09,00:20:10,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+723,1289,Edo Van Leersum,Gemeente Renkum,M60,85,00:59:55,00:58:39,00:38:36,00:20:04,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+724,2003,Andre Westbroek,PV Gemeente Westland,M40,144,00:59:55,00:59:01,00:37:49,00:21:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+725,561,Martien Gerven Van,Gemeente Den Bosch,M60,86,01:00:01,00:58:39,00:38:44,00:19:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+726,404,Amanda Rahim,Gemeente Amsterdam,V30,40,01:00:08,01:00:01,00:39:16,00:20:45,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+727,413,Kenny Van Grootveld,Gemeente Amsterdam,M30,90,01:00:09,01:00:02,00:39:17,00:20:45,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+728,1296,Anoeska Gudden,Gemeente Renkum,V30,41,01:00:12,00:59:47,00:39:17,00:20:31,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+729,1383,Albert Brouwer,Gemeente Urk,M50,190,01:00:19,00:59:59,00:39:43,00:20:16,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+730,1382,Karin  Bakker,Gemeente Urk,V50,55,01:00:19,00:59:59,00:39:46,00:20:14,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+731,749,Barbara Haan,Gemeente Haarlem,VSR,17,01:00:20,00:58:54,00:38:16,00:20:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+732,748,Peter De Koning,Gemeente Haarlem,M50,191,01:00:20,00:58:53,00:38:14,00:20:39,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+733,616,Diana Goudswaardt,Gemeente Den Helder,V50,56,01:00:22,00:59:52,00:38:45,00:21:08,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+734,427,Ruud Ponjee,gemeente Apeldoorn,M60,87,01:00:30,00:59:30,00:38:53,00:20:37,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+735,1483,Werner Van Dorst,Gemeente Vlaardingen,M40,145,01:00:31,00:59:24,00:38:49,00:20:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+736,1482,Arie Van Den Bos,Gemeente Vlaardingen,M60,88,01:00:31,00:59:23,00:38:49,00:20:35,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+737,588,Trudy Edfdee Ruijgrok,Gemeente Den Haag,V50,57,01:00:33,00:59:40,00:39:37,00:20:03,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+738,2333,Peter Broekmans,Werkorganisatie CGM,M50,192,01:00:36,01:00:03,00:40:13,00:19:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+739,1452,Arjo Homburg,Gemeente Vianen,M50,193,01:00:38,01:00:08,00:39:04,00:21:04,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+740,2221,Cees Van Den Berg,TeamAlkmaar16,M60,89,01:00:38,00:59:23,00:38:57,00:20:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+741,2219,Hanneke Schrijen,TeamAlkmaar16,V50,58,01:00:39,00:59:28,00:39:03,00:20:26,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+742,414,Els Vleeshouwers,Gemeente Amsterdam,V50,59,01:00:40,01:00:13,00:39:23,00:20:51,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+743,985,Ineke Fokke-Olijhoek,Gemeente Leidschendam-Voorburg,V50,60,01:00:44,01:00:14,00:39:20,00:20:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+744,2371,Celeste Batenburg,werkplein hart van West-Brabant,VSR,18,01:00:44,01:00:34,00:39:33,00:21:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+745,678,Andre Assink,Gemeente enschede,M60,90,01:00:46,00:59:36,00:39:19,00:20:18,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+746,694,Harriët Groen,Gemeente enschede,V50,61,01:00:46,00:59:36,00:39:19,00:20:17,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+747,1780,Annelies Dekker,Hellevoetsluis,V40,75,01:00:56,00:59:43,00:39:49,00:19:54,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+748,1324,Annelies Verbeek,Gemeente Rotterdam,V50,62,01:01:14,01:00:29,00:39:36,00:20:53,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+749,1897,Erna Flierman,Olst-Wijhe,V50,63,01:01:29,01:00:26,00:39:43,00:20:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+750,2107,Laura Spoel,Sociale Dienst Drechtsteden,VSR,19,01:01:40,01:01:21,00:40:05,00:21:17,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+751,446,Thea Aerts,Gemeente Best,V60,10,01:01:52,01:01:13,00:40:46,00:20:27,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+752,1692,Jeanine Van Eerten,Goeree-Overflakkee,V40,76,01:01:57,01:01:34,00:40:39,00:20:55,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+753,1320,Valerie Feber Van Den Berg,Gemeente Rotterdam,V40,77,01:01:58,01:01:13,00:40:23,00:20:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+754,836,Theo Visscher,Gemeente Kampen,M50,194,01:02:05,01:00:47,00:40:17,00:20:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+755,1781,Arnold Mastenbroek,Hellevoetsluis,M60,91,01:02:14,01:01:01,00:39:28,00:21:33,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+756,1654,Gea Schuppert,Gemeente Zutphen,V50,64,01:02:14,01:01:23,00:40:34,00:20:50,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+757,517,Anita Steeman,Gemeente Breda,V30,42,01:02:28,01:01:58,00:40:04,00:21:55,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+758,1475,Eugène  Calmera,Gemeente Vlaardingen,M40,146,01:02:33,01:01:27,00:40:15,00:21:12,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+759,2062,Jouke Schat,Samenwerkingsorganisatie De Wolden Hoogeveen,M60,92,01:02:46,01:02:11,00:40:28,00:21:44,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+760,949,Toon Keijzer,Gemeente Leiden,M50,195,01:02:47,01:02:34,00:39:38,00:22:56,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+761,856,Sjef Senden,Gemeente Kerkrade,M60,93,01:03:07,01:02:41,00:41:39,00:21:03,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+762,1598,Willem Minkman,Gemeente Zandvoort,M60,94,01:03:17,01:02:55,00:41:45,00:21:10,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+763,820,Tessa  Ye,Gemeente Hoorn,V30,43,01:03:19,01:02:52,00:40:52,00:22:01,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+764,854,Ger Haegens,Gemeente Kerkrade,M60,95,01:03:35,01:03:10,00:41:40,00:21:31,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+765,859,Toon Van Hattum,Gemeente Kerkrade,M60,96,01:03:35,01:03:10,00:41:41,00:21:29,1,NK Veldloop Gemeenteambtenaren ,2016-03-23
+766,1946,Peter Van De Kamp,Optimisd,M50,196,01:03:41,01:03:14,00:41:51,00:21:23,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+767,691,Mehtap Celik-Cangir,Gemeente enschede,V40,78,01:04:54,01:04:12,00:42:21,00:21:52,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+768,1718,Barbara Albers,Groningen,V40,79,01:04:57,01:03:43,00:42:12,00:21:31,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+769,277,Marianne Waterman,eemsmond,V40,80,01:05:21,01:04:31,00:42:54,00:21:38,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+770,2311,Kees-jan Weber,Waddinxveen,M50,197,01:05:21,01:03:59,00:42:12,00:21:47,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+771,2233,Erna Stevens,Teylingen!,V50,65,01:06:43,01:05:57,00:43:22,00:22:36,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+772,1262,Tine Nuijsink,Gemeente Oud-Beijerland,V50,66,01:07:51,01:06:50,00:43:45,00:23:06,2,NK Veldloop Gemeenteambtenaren ,2016-03-23
+773,662,Femke  Wuijts,gemeente Dronten,V50,67,01:18:19,01:17:59,00:51:27,00:26:32,1,NK Veldloop Gemeenteambtenaren ,2016-03-23

@@ -1,0 +1,410 @@
+Nr,Startnr,Naam,Woonplaats,Cat,PltsCat,Heen,Terug,NettoTijd,BrutoTijd,Gemid,race,date
+1,382,Robbert de Nijs,Warmenhuizen,M18,1,00:31:40,00:30:20,01:02:00,01:02:00,"34,848","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+2,2,Ronan van Zandbeek,,M18,2,00:31:42,00:30:19,01:02:00,01:02:00,"34,839","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+3,10,Sem Huitema,,M18,3,00:31:43,00:30:19,01:02:02,01:02:02,"34,824","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+4,7,Jordy Buskermolen,,M18,4,00:31:41,00:30:31,01:02:11,01:02:11,"34,737","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+5,373,Stefan Vreugdenhil,Zwanenburg,M18,5,00:31:42,00:30:34,01:02:15,01:02:15,"34,703","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+6,92,Cees Snoek,Volendam,M40,1,00:31:43,00:30:59,01:02:41,01:02:41,"34,459","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+7,173,Henry Kes,Volendam,M50,1,00:31:43,00:31:10,01:02:52,01:02:52,"34,361","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+8,41,Michel Kreder,Zevenhuizen,M18,6,00:32:29,00:30:17,01:02:45,01:02:55,"34,423","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+9,1,Roy Beukers,,M18,7,00:32:41,00:30:16,01:02:57,01:02:57,"34,318","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+10,22,Giorgio D'Hoore,,M18,8,00:32:30,00:30:20,01:02:50,01:02:58,"34,386","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+11,229,Pascal Noort,Haarlem,M18,9,00:32:38,00:30:21,01:02:59,01:02:59,"34,299","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+12,8,Job de Ridder,,M18,10,00:32:40,00:30:17,01:02:56,01:03:00,"34,329","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+13,422,Arjan van der Niet,Katwijk Zh,M18,11,00:32:32,00:30:18,01:02:49,01:03:01,"34,386","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+14,472,Tino  Haarman,,M40,2,00:32:41,00:30:21,01:03:02,01:03:02,"34,271","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+15,430,Dennis Kulk,Noordwijk,M18,12,00:32:41,00:30:24,01:03:04,01:03:06,"34,257","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+16,443,Didier Boumans,Den Haag,M18,13,00:32:35,00:30:29,01:03:04,01:03:07,"34,256","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+17,424,Harm Bronkhorst,Voorhout,M18,14,00:32:34,00:30:28,01:03:02,01:03:09,"34,275","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+18,395,Martin Schuttert,Bergum,M40,3,00:32:41,00:30:29,01:03:09,01:03:09,"34,205","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+19,123,Laurens Snoek,Volendam,M40,4,00:32:43,00:30:29,01:03:12,01:03:12,"34,184","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+20,16,Sander Lormans,,M40,5,00:32:42,00:30:28,01:03:09,01:03:12,"34,207","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+21,423,Vincent van der Bent,Haarlem,M18,15,00:32:29,00:30:32,01:03:00,01:03:13,"34,286","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+22,334,Mats Buning,Alkmaar,M18,16,00:32:43,00:30:32,01:03:14,01:03:14,"34,165","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+23,11,Henk van Vuure,,M18,17,00:32:37,00:30:36,01:03:12,01:03:15,"34,179","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+24,261,Dirk-Jan van Reek,Voorhout,M50,2,00:32:37,00:30:37,01:03:13,01:03:17,"34,172","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+25,308,Michel Pannekeet,Alkmaar,M18,18,00:32:39,00:30:35,01:03:13,01:03:17,"34,174","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+26,165,Edwin Sierkstra,Hoogkarspel,M40,6,00:32:37,00:30:39,01:03:15,01:03:18,"34,153","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+27,18,Pim de Waard,,M50,3,00:32:44,00:30:36,01:03:20,01:03:20,"34,112","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+28,98,Jelle Maeyaert,Veurne,M18,19,00:32:34,00:30:42,01:03:15,01:03:21,"34,154","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+29,368,Sjoerd Brandt,Monnickendam,M18,20,00:32:33,00:30:43,01:03:16,01:03:22,"34,150","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+30,6,Robbie Gevers,,M18,21,00:32:37,00:30:40,01:03:16,01:03:22,"34,142","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+31,17,Jorn Teer,,M18,22,00:32:37,00:30:50,01:03:26,01:03:26,"34,055","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+32,244,Jarno Messing,Stein,M18,23,00:32:34,00:30:48,01:03:21,01:03:29,"34,103","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+33,169,André van Reek,Lisse,M50,4,00:32:33,00:30:57,01:03:30,01:03:39,"34,024","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+34,9,Sjors Handgraaf,,M18,24,00:32:34,00:31:02,01:03:35,01:03:40,"33,977","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+35,310,Hidde Bos,Haarlem,M18,26,00:32:47,00:30:56,01:03:42,01:03:42,"33,913","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+36,381,Melvin Bos,Sint Pancras,M18,27,00:32:40,00:31:05,01:03:45,01:03:45,"33,888","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+37,440,Berry Hollander,Sassenheim,M40,7,00:32:31,00:31:08,01:03:39,01:03:46,"33,944","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+38,166,kees kwakman,volendam,M50,5,00:32:38,00:31:44,01:04:21,01:04:26,"33,567","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+39,311,Arthur Rutte,Haarlem,M18,29,00:31:44,00:32:52,01:04:35,01:04:35,"33,447","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+40,14,Bram Imming,,M18,30,00:32:13,00:32:25,01:04:37,01:04:37,"33,429","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+41,21,Frederick Decaesteker,,M18,31,00:32:37,00:32:03,01:04:39,01:04:39,"33,413","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+42,93,Robin Hoekstra,Lisse,M18,32,00:32:38,00:31:55,01:04:33,01:04:40,"33,466","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+43,412,Daniël Langereis,Delft,M18,33,00:32:26,00:32:01,01:04:26,01:04:41,"33,524","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+44,121,Aad Honders,Monster,M40,8,00:33:00,00:31:41,01:04:41,01:04:44,"33,399","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+45,86,Mitchel steenman,amsterdam,M18,34,00:32:48,00:31:54,01:04:41,01:04:50,"33,395","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+46,171,Remy Zaagman,Haarlem,M18,35,00:32:52,00:31:54,01:04:46,01:04:55,"33,354","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+47,259,Leo Sluijs,Noordwijk aan Zee,M50,6,00:32:52,00:31:54,01:04:46,01:04:56,"33,356","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+48,134,Bas Kaptein,Noordwijkerhout,M18,36,00:32:55,00:31:55,01:04:50,01:04:58,"33,324","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+49,118,Thomas Steenvoorden,Noordwijk,M50,7,00:33:00,00:31:57,01:04:56,01:04:59,"33,266","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+50,363,Kees Pameijer,Den Haag,M18,37,00:32:52,00:32:03,01:04:55,01:05:01,"33,280","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+51,12,Marcel Beukers,,M40,9,00:32:59,00:32:06,01:05:05,01:05:07,"33,192","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+52,130,John Smit,Volendam,M18,38,00:32:53,00:32:11,01:05:04,01:05:11,"33,204","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+53,174,Sebastiaan ten Zeldam,Haarlem,M18,39,00:32:54,00:33:07,01:06:00,01:06:06,"32,729","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+54,458,Jesper Smorenberg,Noordwijkerhout,M18,40,00:35:04,00:31:29,01:06:32,01:06:32,"32,468","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+55,377,Martijn Van de kamp,Noordwijk,M40,10,00:35:02,00:31:35,01:06:36,01:06:40,"32,436","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+56,339,Maarten Nota,Andijk,M40,11,00:34:48,00:31:40,01:06:27,01:06:41,"32,508","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+57,318,Henk Verdonk,Egmond aan Den hoef,M18,41,00:35:02,00:31:40,01:06:42,01:06:42,"32,392","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+58,314,Ronald De Jong,Wassenaar,M40,12,00:35:02,00:31:43,01:06:45,01:06:45,"32,365","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+59,414,Stefan Van der werff,Egmond binnen,M18,42,00:34:58,00:31:46,01:06:44,01:06:46,"32,371","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+60,48,Ton Rob,,M18,43,00:34:50,00:31:46,01:06:35,01:06:48,"32,441","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+61,181,Ivo Punt,Limmen,M18,44,00:35:03,00:31:44,01:06:46,01:06:48,"32,351","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+62,427,Jisk Hoogervorst,Noordwijkerhout,M18,45,00:35:03,00:31:46,01:06:49,01:06:50,"32,333","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+63,402,Leon Burger,Amsterdam,M18,46,00:34:29,00:32:05,01:06:33,01:06:51,"32,461","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+64,366,Tom Bakkum,Limmen,M18,47,00:34:57,00:31:50,01:06:46,01:06:52,"32,354","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+65,400,Tijs van Beek,Heiloo,M40,13,00:35:06,00:31:50,01:06:55,01:06:55,"32,280","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+66,191,Joep Homma,Bergen NH,M40,14,00:35:01,00:31:55,01:06:56,01:06:56,"32,278","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+67,416,Ron boendermaker,egmond aan zee,M18,48,00:34:57,00:31:59,01:06:56,01:06:56,"32,276","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+68,218,Mark Stavenuiter,Andijk,M18,49,00:34:32,00:32:11,01:06:43,01:06:57,"32,383","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+69,425,Peter Res,Utrecht,M18,50,00:34:56,00:31:59,01:06:55,01:06:59,"32,285","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+70,152,Jeroen Oude Veldhuis,Sassenheim,M18,51,00:35:03,00:32:00,01:07:02,01:07:02,"32,225","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+71,204,Erwin Griekspoor,Driehuis,M18,52,00:35:01,00:31:59,01:07:00,01:07:03,"32,244","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+72,81,Sander van Stralen,Noord-Scharwoude,M18,53,00:35:00,00:31:57,01:06:57,01:07:04,"32,269","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+73,353,Bram de Vries,Andijk,M18,54,00:35:01,00:32:03,01:07:04,01:07:04,"32,214","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+74,200,Jordy Tromp,Egmond binnen,M18,55,00:34:58,00:32:08,01:07:06,01:07:06,"32,194","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+75,357,Martijn Knol,ZWOLLE,M18,56,00:34:34,00:32:18,01:06:51,01:07:08,"32,312","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+76,149,Sebastiaan Valenteijn,Hem,M18,57,00:34:57,00:32:13,01:07:09,01:07:11,"32,170","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+77,292,Jim Kes,Volendam,M18,58,00:33:39,00:33:24,01:07:03,01:07:13,"32,222","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+78,401,Rober Stroet,Wervershoof,M40,15,00:33:39,00:33:28,01:07:07,01:07:17,"32,188","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+79,448,Ben Visser,Heerhugowaard,M18,59,00:35:02,00:32:16,01:07:18,01:07:20,"32,099","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+80,468,Henk Bom,,M18,60,00:34:35,00:32:32,01:07:07,01:07:23,"32,191","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+81,210,Mike Kes,Volendam,M18,61,00:34:33,00:32:41,01:07:13,01:07:27,"32,138","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+82,439,Robert Winder,Zeist,M40,16,00:34:57,00:32:29,01:07:25,01:07:32,"32,045","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+83,201,Andre Uitterdijk,Bovenkarspel,M40,17,00:35:26,00:31:55,01:07:20,01:07:37,"32,080","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+84,329,Mickel Van der Burg,Den helder,M18,62,00:35:15,00:32:00,01:07:14,01:07:38,"32,127","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+85,107,Michael Ruska,Volendam,M40,18,00:34:37,00:32:58,01:07:35,01:07:42,"31,966","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+86,466,Bart Boonacker,,M18,63,00:35:25,00:32:03,01:07:27,01:07:42,"32,029","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+87,125,Jos Dohle,Wassenaar,M18,64,00:34:45,00:32:53,01:07:37,01:07:44,"31,945","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+88,451,Wim Smit,Bergen NH,M50,8,00:34:56,00:32:41,01:07:36,01:07:45,"31,958","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+89,273,john metz,zaandam,M50,9,00:35:03,00:32:39,01:07:42,01:07:46,"31,907","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+90,151,George Baars,Midwoud,M40,19,00:35:01,00:32:43,01:07:44,01:07:46,"31,893","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+91,206,Olof van der Steen,Egmond aan den Hoef,M18,65,00:35:26,00:32:10,01:07:35,01:07:47,"31,964","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+92,305,Jelle Vlasman,Alphen aan den Rijn,M18,66,00:35:18,00:32:10,01:07:27,01:07:52,"32,027","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+93,307,Mark Mondria,Den Haag,M18,67,00:35:23,00:32:13,01:07:36,01:07:54,"31,961","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+94,55,Joep van der Veer,,M40,20,00:33:43,00:34:05,01:07:48,01:07:55,"31,865","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+95,110,Erik Scholtens,Drachten,M18,68,00:35:04,00:32:52,01:07:55,01:07:55,"31,805","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+96,356,Patrick van Kampen,Apeldoorn,M40,21,00:35:22,00:32:19,01:07:41,01:07:57,"31,920","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+97,324,Robin Don,Naaldwijk,M18,69,00:35:20,00:32:21,01:07:40,01:07:58,"31,924","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+98,298,Pieter van der Eijk,Swifterbant,M18,70,00:35:10,00:32:22,01:07:31,01:07:58,"31,994","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+99,272,Hugo van der Lans,Naaldwijk,M40,22,00:35:27,00:32:19,01:07:45,01:07:58,"31,885","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+100,327,Nils Wolffenbuttel,NIGTEVECHT,M18,71,00:34:34,00:33:13,01:07:46,01:07:59,"31,875","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+101,383,Theo Laroo,Egmond-Binnen,M18,72,00:35:23,00:32:26,01:07:49,01:08:00,"31,856","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+102,384,Theo Tetteroo,Noordwijkerhout,M40,23,00:34:38,00:33:08,01:07:45,01:08:00,"31,884","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+103,208,Paul van den Enden,Kwintsheul,M50,10,00:35:00,00:32:56,01:07:55,01:08:01,"31,805","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+104,129,Frits Hallensleben,Schagen,M50,11,00:35:37,00:32:20,01:07:57,01:08:01,"31,791","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+105,65,Pascal Vergeer,,M40,24,00:34:39,00:33:13,01:07:51,01:08:03,"31,838","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+106,205,John van den Ende,Naaldwijk,M50,12,00:35:18,00:32:23,01:07:41,01:08:03,"31,921","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+107,296,Erik Ferrari,Rijnsburg,M18,73,00:35:28,00:32:28,01:07:55,01:08:05,"31,807","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+108,143,frank de bakker,wateringen,M40,25,00:35:30,00:32:31,01:08:00,01:08:06,"31,769","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+109,67,Ubbo Kuper,,M40,26,00:34:37,00:33:29,01:08:05,01:08:17,"31,727","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+110,476,Rob van de Nief,,M18,74,00:35:03,00:33:22,01:08:24,01:08:29,"31,582","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+111,155,Ferdi Frijters,Berkel-Enschot,M18,75,00:34:42,00:33:41,01:08:23,01:08:32,"31,594","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+112,108,peter buitendijk,Ottoland,M50,13,00:34:41,00:33:49,01:08:30,01:08:38,"31,534","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+113,420,Jan-Dick den Das,Landsmeer,M50,14,00:34:40,00:33:53,01:08:32,01:08:44,"31,519","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+114,364,Alexander Hagemann,purmerend,M40,27,00:33:40,00:34:58,01:08:37,01:08:45,"31,484","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+115,132,Sicco de Vos,Arnhem,M40,28,00:34:43,00:34:04,01:08:46,01:08:56,"31,411","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+116,409,Joost van Giesen,Naaldwijk,M50,15,00:34:58,00:34:01,01:08:59,01:09:03,"31,318","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+117,82,Martin Hoefakker,Middenmeer,M50,16,00:34:35,00:34:20,01:08:54,01:09:08,"31,350","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+118,45,Maurice de Bruijn,Amsterdam,M40,29,00:34:40,00:34:38,01:09:18,01:09:26,"31,170","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+119,3,Pauliena Rooijakkers,,V18,1,00:36:20,00:33:17,01:09:36,01:09:38,"31,039","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+120,183,Patrick Stam,Uitgeest,M18,76,00:35:23,00:34:06,01:09:28,01:09:42,"31,094","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+121,464,Nina Kessler,,V18,2,00:36:22,00:33:23,01:09:44,01:09:45,"30,980","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+122,58,Edwin van Emmerik,,M50,17,00:34:42,00:35:00,01:09:41,01:09:48,"31,002","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+123,242,Roy Olierook,Maasdijk,M18,77,00:35:23,00:34:24,01:09:46,01:10:01,"30,966","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+124,446,brian bruist,purmerend,M18,78,00:35:21,00:34:31,01:09:52,01:10:06,"30,921","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+125,54,Edwin van der Geest,,M50,19,00:35:28,00:34:30,01:09:57,01:10:06,"30,881","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+126,463,Esther van Veen,,V18,3,00:35:51,00:34:16,01:10:06,01:10:08,"30,814","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+127,475,Jan Teeling,,M18,79,00:36:19,00:33:49,01:10:08,01:10:14,"30,804","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+128,454,Arthur Turk,Voorhout,M50,20,00:34:37,00:35:26,01:10:03,01:10:17,"30,840","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+129,486,Johan Olsthoorn,,M18,80,00:36:42,00:33:24,01:10:06,01:10:22,"30,819","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+130,85,Gertjan Tolhoek,Assendelft,M40,30,00:35:28,00:34:47,01:10:14,01:10:25,"30,757","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+131,351,Menno Bregten,Heerhugowaard,M18,81,00:35:26,00:34:48,01:10:14,01:10:29,"30,760","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+132,61,Peter van Zuijlen,,M40,31,00:36:43,00:33:36,01:10:18,01:10:30,"30,728","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+133,455,Erik Broekhuizen,Oegstgeest,M18,82,00:35:44,00:34:25,01:10:09,01:10:32,"30,795","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+134,333,Pieter van Eijk,Ridderkerk,M18,83,00:36:37,00:33:38,01:10:14,01:10:34,"30,757","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+135,87,eelco van Wort,Haarlem,M40,32,00:35:27,00:34:58,01:10:24,01:10:35,"30,683","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+136,406,Nick Janssen,olen,M18,84,00:36:25,00:33:59,01:10:23,01:10:37,"30,690","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+137,276,johan lacroix,Rockanje,M50,21,00:36:41,00:33:40,01:10:20,01:10:38,"30,718","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+138,63,Rob van Veen,,M50,22,00:36:43,00:33:44,01:10:27,01:10:40,"30,662","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+139,403,Wim De Vries,Westerlo,M18,85,00:36:27,00:34:02,01:10:29,01:10:41,"30,652","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+140,343,Luijendijk Ronald,Berkel en Rodenrijs,M40,33,00:35:26,00:35:00,01:10:25,01:10:43,"30,675","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+141,315,Danique Braam,Veenwouden,V18,4,00:36:38,00:34:07,01:10:44,01:10:45,"30,543","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+142,4,Celine van Houtum,,V18,5,00:36:41,00:34:06,01:10:46,01:10:47,"30,524","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+143,97,Paul van Hattem,Noordwijk,M50,23,00:36:55,00:33:50,01:10:44,01:10:48,"30,539","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+144,62,Frank van den Berg,,M50,24,00:36:48,00:33:50,01:10:37,01:10:49,"30,591","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+145,230,Yvonne de Jong,Amsterdam,V18,6,00:36:38,00:34:10,01:10:48,01:10:49,"30,516","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+146,252,Rinke Koelewijn,Sint Pancras,M18,86,00:36:20,00:34:11,01:10:30,01:10:51,"30,645","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+147,491,Franck van Graas,,M50,25,00:36:34,00:34:12,01:10:46,01:10:52,"30,527","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+148,209,Hans Chialastri,Beverwijk,M50,26,00:35:29,00:35:13,01:10:42,01:10:53,"30,556","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+149,51,Ron Meeuwissen,,M40,34,00:36:49,00:33:57,01:10:46,01:10:57,"30,527","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+150,285,Rick de Kruijff,Barendrecht,M40,35,00:36:35,00:34:18,01:10:53,01:11:01,"30,480","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+151,309,jeffrey van der velden,egmond binnen,M18,87,00:34:55,00:35:56,01:10:51,01:11:04,"30,494","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+152,378,Mirjam de Bruijn,Alkmaar,V18,7,00:36:40,00:34:23,01:11:02,01:11:05,"30,410","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+153,226,Marcel Den Haan,Naaldwijk,M18,88,00:35:21,00:35:27,01:10:47,01:11:11,"30,521","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+154,437,Susan Verdegaal,Heiloo,V18,8,00:36:40,00:34:52,01:11:32,01:11:33,"30,201","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+155,188,Denny Verbaas,Lisse,M18,89,00:35:29,00:36:07,01:11:35,01:11:47,"30,181","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+156,355,Sjaak Aertssen,Bad Boll (Duitsland),M50,27,00:35:38,00:36:11,01:11:48,01:11:53,"30,086","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+157,241,Willem Kegge,Rockanje,M18,90,00:39:20,00:32:25,01:11:45,01:12:03,"30,107","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+158,389,Niels bras,egmond aan den hoef,M18,91,00:36:22,00:35:37,01:11:58,01:12:04,"30,020","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+159,247,Alexander van Leeuwen,Wateringen,M40,36,00:36:02,00:35:43,01:11:45,01:12:07,"30,111","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+160,386,Gerard van Bohemen,Noordwijkerhout,M40,37,00:36:12,00:35:40,01:11:52,01:12:09,"30,057","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+161,131,Jan Hartman,Beverwijk,M50,28,00:36:25,00:35:44,01:12:08,01:12:14,"29,950","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+162,160,Leo van Egmond,Alphen a/d Rijn,M50,29,00:36:19,00:35:49,01:12:08,01:12:16,"29,951","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+163,428,Pascal Valentijn,Ter Aar,M40,38,00:36:22,00:35:48,01:12:10,01:12:18,"29,936","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+164,279,Don Brandjes,Uitgeest,M40,39,00:39:57,00:32:27,01:12:23,01:12:28,"29,844","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+165,429,Arno van Emmerik,Roelofarendsveen,M18,92,00:37:31,00:34:54,01:12:24,01:12:29,"29,838","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+166,146,Cees Schep,Weesp,M18,93,00:36:23,00:36:03,01:12:25,01:12:30,"29,831","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+167,195,Emiel Zomerdijk,HEILOO,M18,94,00:36:46,00:35:41,01:12:26,01:12:39,"29,822","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+168,352,Tanja Ites,Den Helder,V18,9,00:37:32,00:35:18,01:12:50,01:12:53,"29,660","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+169,251,Marcel Breg,Wervershoof,M40,40,00:36:46,00:35:53,01:12:39,01:12:53,"29,738","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+170,460,Sam drunen van,petten,M50,30,00:36:44,00:35:55,01:12:39,01:12:54,"29,738","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+171,142,Remco Veerkamp,WATERINGEN,M40,41,00:36:16,00:36:30,01:12:46,01:12:55,"29,689","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+172,228,Dirk Bennen,Haarlem,M18,95,00:36:39,00:36:00,01:12:39,01:12:55,"29,736","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+173,148,Olga De Boer,Hazerswoude-Rijndijk,V40,1,00:37:19,00:35:38,01:12:56,01:12:59,"29,618","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+174,452,Ruud Jobst,Amsterdam,M18,96,00:36:49,00:36:15,01:13:04,01:13:15,"29,567","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+175,25,Roos Hoogeboom,,V18,10,00:36:41,00:36:33,01:13:14,01:13:17,"29,501","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+176,119,Teun van Rossum,Kortenhoef,M50,31,00:36:50,00:36:21,01:13:11,01:13:18,"29,519","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+177,299,Alex De vries,Hillegom,M18,97,00:36:47,00:36:20,01:13:07,01:13:22,"29,544","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+178,349,Jos van Doorn,Opperdoes,M50,32,00:37:59,00:35:28,01:13:26,01:13:51,"29,420","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+179,410,Edwin Van dulst,Rijsenhout,M40,42,00:37:44,00:35:54,01:13:38,01:13:51,"29,340","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+180,411,bas hoogland,Heiloo,M18,98,00:38:04,00:35:47,01:13:51,01:14:06,"29,253","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+181,450,jorge van vliet,Heemskerk,M40,43,00:38:07,00:35:45,01:13:51,01:14:10,"29,249","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+182,404,Roy van den Heuvel,Naaldwijk,M40,44,00:37:54,00:36:16,01:14:10,01:14:14,"29,125","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+183,456,Wilco van der Giessen,Rotterdam,M18,99,00:38:06,00:35:53,01:13:59,01:14:20,"29,201","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+184,336,Michel Dekker,Hellevoetsluis,M40,45,00:39:19,00:34:44,01:14:03,01:14:22,"29,174","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+185,275,Jan de Roon,Rockanje,M50,33,00:39:31,00:34:55,01:14:26,01:14:33,"29,022","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+186,133,Jeen Bouwmeester,Warten,M50,34,00:37:45,00:36:50,01:14:34,01:14:39,"28,968","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+187,467,Pat Wach,,M40,46,00:39:29,00:35:06,01:14:34,01:14:41,"28,971","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+188,258,Nick Brabander,Honselersdijk,M18,100,00:36:45,00:37:41,01:14:26,01:14:41,"29,023","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+189,347,Martin Verhoeven,Ridderkerk,M50,35,00:38:06,00:36:18,01:14:23,01:14:44,"29,040","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+190,248,Charles Loijens,Hilvarenbeek,M50,36,00:38:31,00:36:08,01:14:39,01:15:00,"28,936","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+191,122,Minke van Dongen,Oosterhout,V18,11,00:36:39,00:38:28,01:15:07,01:15:11,"28,761","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+192,223,Herman de Weerd,krommenie,M40,47,00:38:48,00:36:00,01:14:47,01:15:11,"28,886","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+193,192,Dennis Palfenier,Egmond-Binnen,M18,101,00:38:36,00:36:21,01:14:57,01:15:12,"28,824","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+194,235,Bram Sentveld,Egmond-Binnen,M18,102,00:39:04,00:36:00,01:15:04,01:15:15,"28,779","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+195,376,Kees Huiberts,Alkmaar,M40,48,00:39:16,00:35:52,01:15:08,01:15:27,"28,755","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+196,185,Patrick Steehouwer,Sneek,M40,49,00:39:05,00:36:09,01:15:14,01:15:29,"28,712","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+197,331,Julien Mouthaan,Berkel en Rodenrijs,M18,103,00:38:47,00:36:17,01:15:04,01:15:30,"28,779","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+198,360,Gerlof Haanraadts,Apeldoorn,M40,50,00:39:24,00:35:52,01:15:16,01:15:33,"28,701","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+199,237,Andre Kooij,Zuid Scharwoude,M40,51,00:38:59,00:36:18,01:15:16,01:15:35,"28,699","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+200,345,Jeroen Overeem,Arnhem,M40,52,00:39:52,00:35:27,01:15:19,01:15:36,"28,685","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+201,323,Peter Verstraate,Westkapelle,M40,53,00:38:37,00:36:56,01:15:32,01:15:49,"28,602","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+202,346,Tim van Duin,Poortugaal,M18,104,00:38:52,00:36:59,01:15:50,01:16:14,"28,489","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+203,34,Joop Lakeman,,M50,37,00:39:52,00:36:35,01:16:26,01:16:45,"28,261","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+204,449,Walter Makkinga,Alphen aan den Rijn,M50,38,00:40:21,00:36:18,01:16:38,01:16:50,"28,189","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+205,419,Jeroen Gijzen,Utrecht,M18,105,00:40:33,00:36:16,01:16:49,01:16:54,"28,123","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+206,115,Stephan Kraus,Geertruidenberg,M40,55,00:39:15,00:37:36,01:16:50,01:16:54,"28,117","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+207,217,jeroen spies,Naaldwijk,M18,106,00:40:23,00:36:14,01:16:36,01:16:57,"28,201","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+208,224,Jurn Bezemer,Den hoorn,M18,107,00:38:51,00:37:43,01:16:33,01:16:59,"28,219","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+209,190,martien verbeek,de lier,M50,39,00:39:11,00:37:43,01:16:54,01:17:01,"28,093","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+210,111,Peter Dhaene,Hoofddorp,M40,56,00:39:12,00:37:52,01:17:03,01:17:11,"28,036","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+211,485,Simon Gaarthuis,,M40,57,00:40:03,00:36:56,01:16:59,01:17:13,"28,064","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+212,197,Andrea van Loo,'t Harde,V40,2,00:40:12,00:37:00,01:17:11,01:17:14,"27,989","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+213,172,Ger van Mossel,Leiden,M50,40,00:40:24,00:36:43,01:17:07,01:17:14,"28,014","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+214,489,Sander Heemskerk,,M18,108,00:40:23,00:36:33,01:16:55,01:17:14,"28,086","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+215,198,Pascal Geursen,Beverwijk,M40,58,00:40:31,00:36:35,01:17:05,01:17:17,"28,025","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+216,350,Melissa Sernee,Heerhugowaard,V18,12,00:39:33,00:37:41,01:17:14,01:17:18,"27,969","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+217,354,Renate van Doorn-Lakeman,Opperdoes,V40,3,00:40:35,00:36:41,01:17:16,01:17:19,"27,961","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+218,405,remko haasnoot,Teteringen,M40,59,00:39:43,00:37:27,01:17:09,01:17:21,"27,999","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+219,317,martijn straver,oude-Wetering,M18,109,00:40:33,00:36:42,01:17:15,01:17:26,"27,964","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+220,477,Marco Schilder,,M50,41,00:40:19,00:37:08,01:17:26,01:17:43,"27,895","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+221,432,Peter Fuchs,Beverwijk,M40,60,00:40:24,00:37:10,01:17:33,01:17:46,"27,857","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+222,144,Michael Mom,Spijkenisse,M40,61,00:40:36,00:37:09,01:17:44,01:17:53,"27,787","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+223,302,Peter van der Zwet,Sassenheim,M50,42,00:40:11,00:37:20,01:17:31,01:17:58,"27,871","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+224,362,Pieter-Jan Jongen,Amsterdam,M40,62,00:40:14,00:37:34,01:17:47,01:18:10,"27,773","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+225,246,Cees Hofland,Scheveningen,M50,43,00:40:23,00:37:34,01:17:56,01:18:14,"27,718","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+226,214,Henry Bink,Waalwijk,M50,44,00:40:26,00:37:47,01:18:13,01:18:22,"27,621","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+227,141,Ad van Steen,Berkel en Rodenrijs,M50,45,00:40:30,00:37:49,01:18:19,01:18:26,"27,585","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+228,124,Joey Kerkvliet,Alkmaar,M18,110,00:40:36,00:38:02,01:18:38,01:18:44,"27,471","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+229,394,Niels Bakker,DEN BURG,M40,63,00:32:32,00:46:19,01:18:50,01:19:01,"27,400","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+230,444,Wilbert Mesman,Haarlem,M50,46,00:40:31,00:38:17,01:18:47,01:19:03,"27,418","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+231,426,Michelle Zacht,Sprang-Capelle,V18,13,00:40:11,00:38:54,01:19:05,01:19:09,"27,317","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+232,243,Danny Niekoop,Alkmaar,M18,111,00:42:12,00:36:41,01:18:53,01:19:19,"27,386","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+233,371,Aad Oliehoek,Wassenaar,M50,47,00:41:33,00:37:45,01:19:18,01:19:40,"27,242","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+234,338,Bas Smallegange,Vogelenzang,M18,112,00:41:27,00:37:52,01:19:19,01:19:44,"27,237","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+235,469,Leida Out,,V40,4,00:40:40,00:39:05,01:19:45,01:19:49,"27,090","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+236,499,Edwin de Jong,,M50,48,00:40:25,00:39:11,01:19:36,01:19:53,"27,138","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+237,433,Jeroen Fakkeldij,Leiden,M40,64,00:40:36,00:39:17,01:19:52,01:19:55,"27,047","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+238,385,Michiel de Mos,Monster,M40,65,00:40:22,00:39:20,01:19:41,01:20:00,"27,109","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+239,13,Jos van Dorp,,M50,49,00:46:27,00:33:37,01:20:03,01:20:08,"26,983","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+240,157,Jacco Van den Hogen,Volendam,M40,66,00:35:39,00:44:25,01:20:04,01:20:09,"26,982","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+241,325,Jacco Jansen,Delft,M50,50,00:40:17,00:39:40,01:19:57,01:20:21,"27,020","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+242,90,Richard Dwanna,Gemert,M18,113,00:41:16,00:39:07,01:20:22,01:20:31,"26,879","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+243,380,Ivan Bos,HEERHUGOWAARD,M18,114,00:41:36,00:38:33,01:20:08,01:20:32,"26,957","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+244,102,Dominique Grijze,Abbenes,M18,115,00:40:26,00:39:57,01:20:22,01:20:33,"26,879","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+245,222,Henk Hulspas,maasdijk,M50,51,00:41:30,00:38:48,01:20:17,01:20:38,"26,905","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+246,56,Peter van der Veer,,M40,67,00:41:48,00:38:52,01:20:40,01:20:55,"26,780","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+247,83,Ralph Matecki,Bochum,M50,52,00:41:12,00:39:34,01:20:46,01:21:03,"26,749","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+248,180,Peter Vaal,Leiden,M50,53,00:41:30,00:39:31,01:21:01,01:21:21,"26,666","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+249,359,Diederik Hol,Apeldoorn,M40,68,00:39:54,00:41:27,01:21:20,01:21:36,"26,560","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+250,164,Martijn Heemskerk,Noordwijkerhout,M18,116,00:45:25,00:36:25,01:21:50,01:22:10,"26,396","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+251,370,patrick van der knaap,wateringen,M18,117,00:42:10,00:39:49,01:21:59,01:22:16,"26,351","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+252,250,Sven Middelkoop,NOORDWIJK ZH,M18,118,00:45:19,00:36:32,01:21:51,01:22:18,"26,394","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+253,335,Sjef Kogels,Egmond aan zee,M50,54,00:42:26,00:39:34,01:21:59,01:22:22,"26,348","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+254,231,Erwin van Lier,KWINTSHEUL,M50,55,00:42:27,00:39:37,01:22:03,01:22:23,"26,330","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+255,332,Hans Verhoef,Koedijk,M50,56,00:43:42,00:38:34,01:22:16,01:22:30,"26,258","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+256,154,Remco Kers,Noordwijk,M40,69,00:42:26,00:39:48,01:22:13,01:22:33,"26,272","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+257,71,Kees Vermeer,,M18,119,00:42:44,00:39:36,01:22:20,01:22:40,"26,238","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+258,135,Dirk Goldebeld,Wormer,M50,57,00:43:50,00:38:56,01:22:45,01:22:56,"26,104","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+259,59,John van Haestregt,,M50,58,00:42:49,00:40:13,01:23:02,01:23:15,"26,016","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+260,461,jeroen pastijn,Egmond-Binnen,M18,120,00:41:34,00:41:42,01:23:16,01:23:33,"25,943","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+261,139,André Stappers,Dordrecht,M40,70,00:42:01,00:41:28,01:23:29,01:23:44,"25,876","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+262,436,leon aleman,Drimmelen,M40,71,00:43:47,00:39:43,01:23:29,01:23:47,"25,874","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+263,168,Bernd Klein,Breda,M50,59,00:43:45,00:39:47,01:23:32,01:23:51,"25,860","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+264,30,Jorik van 't Hof,,M40,72,00:44:12,00:39:34,01:23:45,01:23:57,"25,793","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+265,492,Dennis  Jansen,,M18,121,00:40:09,00:43:49,01:23:58,01:24:05,"25,727","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+266,116,Astrid de Lange,Noordwijkerhout,V40,5,00:44:00,00:40:09,01:24:08,01:24:12,"25,676","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+267,84,Hans Bleeker,Heemskerk,M18,122,00:42:58,00:41:12,01:24:09,01:24:15,"25,669","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+268,288,Ronald van Gilst,De Bilt,M40,73,00:43:55,00:40:15,01:24:09,01:24:22,"25,673","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+269,46,Renee Reijnders,,V40,6,00:43:50,00:40:30,01:24:19,01:24:27,"25,619","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+270,100,Marko Wolthuis,Biddinghuizen,M50,60,00:43:45,00:40:34,01:24:18,01:24:33,"25,625","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+271,267,Mark den Elzen,Noordwijkerhout,M18,123,00:43:54,00:40:36,01:24:29,01:24:36,"25,570","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+272,202,Marcel Rozing,Beverwijk,M50,61,00:44:31,00:40:00,01:24:31,01:24:51,"25,562","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+273,31,Stef Voermans,,M40,74,00:44:07,00:40:55,01:25:02,01:25:15,"25,404","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+274,199,Jasper Laroo,Egmond-Binnen,M18,124,00:48:08,00:37:18,01:25:26,01:25:26,"25,287","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+275,326,Ralph van der Meer,delft,M18,125,00:44:27,00:40:46,01:25:13,01:25:37,"25,351","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+276,495,Richard Gouw,,M50,62,00:44:45,00:40:55,01:25:39,01:25:48,"25,220","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+277,219,Pim Michel,Leidschen,M18,126,00:43:46,00:41:49,01:25:34,01:25:54,"25,244","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+278,36,Mart Bax,,M50,63,00:45:16,00:40:30,01:25:46,01:26:05,"25,188","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+279,60,Bram van der Poel,,M40,75,00:42:37,00:43:12,01:25:49,01:26:05,"25,172","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+280,37,Jeroen Burkse,,M40,76,00:45:18,00:40:32,01:25:49,01:26:09,"25,171","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+281,319,Mark Buijs,krimpen aan de ijssel,M40,77,00:44:29,00:41:14,01:25:43,01:26:11,"25,202","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+282,391,Martijn Jongste,Diemen,M40,78,00:43:32,00:42:22,01:25:54,01:26:19,"25,148","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+283,488,Martin Burgers,,M50,64,00:44:28,00:41:48,01:26:16,01:26:37,"25,039","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+284,103,kees machielsen,bavel,M50,65,00:41:40,00:44:47,01:26:26,01:26:40,"24,993","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+285,397,Dion van Nierop,Zoeterwoude,M18,127,00:41:24,00:45:14,01:26:37,01:26:54,"24,940","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+286,140,Ron van der Lans,Hillegom,M50,66,00:45:09,00:41:34,01:26:42,01:26:55,"24,914","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+287,337,Martin van Markus,Den Haag,M18,128,00:45:19,00:41:23,01:26:41,01:26:58,"24,919","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+288,193,Bart Middelhoven,VEENENDAAL,M18,129,00:45:22,00:41:27,01:26:49,01:27:00,"24,882","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+289,294,Willem Duindam,Noordwijk,M50,67,00:45:17,00:41:36,01:26:53,01:27:03,"24,866","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+290,320,Charles Bornebroek,Heerhugowaard,M50,68,00:45:16,00:41:33,01:26:49,01:27:04,"24,883","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+291,483,Cees Bontje,,M50,69,00:44:52,00:42:24,01:27:16,01:27:22,"24,755","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+292,120,Hennie van der Wilt,Maarssen,M50,70,00:45:25,00:41:44,01:27:08,01:27:28,"24,792","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+293,253,Karel Kleijn,Den Haag,M18,130,00:43:39,00:43:37,01:27:16,01:27:32,"24,754","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+294,147,Frank Steehouwer,Serooskerke,M50,71,00:43:51,00:43:31,01:27:22,01:27:32,"24,727","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+295,413,Alexander van den Berg van Saparoea,Leidschendam,M18,131,00:42:43,00:44:43,01:27:26,01:27:36,"24,707","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+296,438,Diana Ligthart,Alkmaar,V40,7,00:45:28,00:42:34,01:28:02,01:28:05,"24,539","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+297,249,Stefan Stooker,Marken,M40,79,00:46:11,00:42:04,01:28:14,01:28:38,"24,481","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+298,340,Jos Liefting,Heemskerk,M50,72,00:46:10,00:42:04,01:28:13,01:28:40,"24,486","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+299,303,dave van egmond,den haag,M40,80,00:45:23,00:43:15,01:28:38,01:28:45,"24,375","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+300,227,Pieter Verbeek,Naaldwijk,M50,73,00:45:01,00:43:34,01:28:35,01:28:57,"24,384","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+301,184,Rob visser,Bergschenhoek,M40,81,00:45:14,00:43:41,01:28:54,01:29:04,"24,298","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+302,316,René Schooltink,Noordwijk aan Zee,M18,132,00:45:02,00:44:38,01:29:40,01:30:03,"24,093","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+303,465,Roy Dolmans,,M50,74,00:48:03,00:42:34,01:30:36,01:30:45,"23,842","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+304,348,Willem van den Hoek,Spijkenisse,M50,75,00:47:51,00:42:30,01:30:21,01:30:49,"23,911","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+305,175,Frederieke Rutten,Amsterdam,V18,15,00:46:45,00:44:02,01:30:46,01:30:51,"23,798","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+306,322,Lucas Keuning,Sassenheim,M18,133,00:48:03,00:42:32,01:30:35,01:30:51,"23,849","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+307,478,Henk Blokland,,M40,82,00:46:24,00:44:11,01:30:35,01:30:52,"23,849","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+308,194,Johan Schoonhoven,Elst (utrecht),M40,83,00:46:27,00:44:16,01:30:42,01:30:53,"23,815","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+309,240,Erik Ruis,Dronten,M40,84,,,01:31:22,01:31:39,"23,642","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+310,484,Frans van Alphen,,M50,76,00:46:21,00:45:04,01:31:25,01:31:55,"23,632","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+311,32,Robbert van Roon,,M18,134,00:45:33,00:46:13,01:31:46,01:31:59,"23,542","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+312,262,Arie Kweekel,Spijkenisse,M50,77,00:48:03,00:43:33,01:31:36,01:32:01,"23,583","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+313,312,Alex Blom,Krimpen aan den IJssel,M18,135,00:47:58,00:43:49,01:31:46,01:32:11,"23,540","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+314,388,Theun Van Balveren,Den Haag,M18,136,00:48:28,00:43:23,01:31:50,01:32:19,"23,521","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+315,163,Arjan Boot,Breda,M40,85,00:46:48,00:45:15,01:32:02,01:32:19,"23,471","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+316,462,Chris Gino,x,M50,78,00:48:56,00:43:33,01:32:29,01:32:35,"23,358","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+317,239,Michel Roos,Scheveningen,M40,86,00:47:53,00:44:22,01:32:15,01:32:35,"23,417","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+318,94,Jan de Jong,Vreeland,M50,79,00:48:44,00:43:24,01:32:08,01:32:36,"23,447","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+319,321,Willem Pieter Keuning,Sassenheim,M40,87,00:48:06,00:44:33,01:32:39,01:32:57,"23,317","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+320,89,Marcel Pothof,Nieuwerkerk aan de ijssel,M40,88,00:48:08,00:44:30,01:32:38,01:32:57,"23,319","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+321,387,Henk van Aalten,Veenendaal,M50,80,00:48:03,00:44:45,01:32:47,01:33:01,"23,280","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+322,238,henk de bruin,S-Gravenzande,M40,89,00:48:18,00:44:22,01:32:39,01:33:01,"23,315","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+323,74,Daniël Tellekamp,,M40,90,00:48:22,00:44:53,01:33:15,01:33:39,"23,168","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+324,117,Ron Smorenberg,Noordwijkerhout,M50,81,00:34:43,00:59:02,01:33:45,01:33:51,"23,042","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+325,493,Edwin Graaff,,M18,137,00:47:59,00:45:48,01:33:46,01:34:05,"23,037","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+326,101,Nico vd Zwan,santpoort noord,M50,82,00:48:25,00:45:49,01:34:14,01:34:25,"22,926","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+327,457,David Drexhage,Dordrecht,M50,83,00:48:35,00:45:37,01:34:12,01:34:29,"22,933","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+328,15,Toon Imming,,M18,138,00:32:33,01:01:53,01:34:25,01:34:30,"22,878","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+329,72,Avi Baldewsing,,M18,139,00:48:28,00:45:46,01:34:14,01:34:35,"22,925","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+330,76,Jeffrey van der Kleij,,M18,140,00:48:31,00:46:08,01:34:39,01:34:56,"22,824","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+331,330,Loek Spuij,Den haag,M50,84,00:48:08,00:46:55,01:35:02,01:35:47,"22,730","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+332,136,Steven Nijweide,Dordrecht,M50,85,00:50:37,00:45:41,01:36:17,01:36:27,"22,435","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+333,396,Ruud Groeneweg,Den Haag,M50,86,00:48:29,00:47:50,01:36:18,01:36:33,"22,430","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+334,474,Danny Groenewegen,,M18,141,00:58:21,00:38:07,01:36:27,01:36:50,"22,395","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+335,270,Rob Van Rheenen,Nieuwegein,M18,142,00:48:32,00:47:57,01:36:29,01:36:56,"22,390","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+336,260,Daniel Vd leede,Alphen aan de rijn,M18,143,00:50:37,00:46:12,01:36:49,01:37:13,"22,314","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+337,487,Rene Bruinsma,,M50,87,00:48:25,00:48:29,01:36:54,01:37:19,"22,294","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+338,390,Bernard Duivenvoorde,Zoeterwoude,M40,92,00:50:48,00:46:07,01:36:54,01:37:24,"22,291","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+339,361,Eelco Van Eijck,Wassenaar,M50,88,00:51:06,00:45:56,01:37:02,01:37:25,"22,261","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+340,182,Tessa Mulder,Den Haag,V50,1,00:48:41,00:48:32,01:37:13,01:37:25,"22,221","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+341,342,Arnoud van Zuijlen,Rijnsburg,M40,93,00:48:24,00:48:53,01:37:16,01:37:34,"22,207","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+342,104,Kees-Jan Koppenaal,Middenbeemster,M40,94,00:48:21,00:49:29,01:37:49,01:38:12,"22,083","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+343,471,Marco Duson,,M50,89,,,01:38:07,01:38:15,"22,016","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+344,374,Peter Berry,The Hague,M40,95,00:50:48,00:47:33,01:38:21,01:38:53,"21,966","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+345,306,Leon van den Eijnden,Roosendaal,M40,96,00:50:42,00:47:50,01:38:31,01:38:57,"21,926","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+346,269,Jerome Schoenhentz,Rijswijk,M18,144,00:51:04,00:46:57,01:38:01,01:39:14,"22,041","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+347,470,Jolanda  Brabander,,V40,8,00:48:03,00:50:54,01:38:57,01:39:16,"21,832","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+348,344,Valerio Targon,Den Haag,M18,145,00:52:03,00:46:51,01:38:53,01:39:24,"21,847","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+349,281,Angelique Van veldhoven,Voorburg,V18,16,00:51:33,00:47:58,01:39:31,01:39:36,"21,708","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+350,257,Wouter Zuijderwijk,Naaldwijk,M18,146,00:49:09,00:51:17,01:40:25,01:40:40,"21,512","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+351,274,Chris Taal,'s-Gravenzande,M18,147,00:51:01,00:49:27,01:40:27,01:40:43,"21,504","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+352,245,Patrick De lange,Woerden,M18,148,,,01:40:49,01:41:14,"21,428","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+353,177,Piet Hans,Gouderak,M50,90,00:53:38,00:47:15,01:40:53,01:41:27,"21,414","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+354,70,Gerard van Santen,,M40,97,00:51:50,00:49:27,01:41:17,01:41:38,"21,328","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+355,431,Ben Meggelaars,Den Dolder,M50,91,00:50:53,00:50:22,01:41:14,01:41:39,"21,337","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+356,481,Henk  van Westen,,M50,92,00:52:18,00:49:42,01:41:59,01:42:23,"21,181","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+357,196,José Non,Den Haag,M40,98,00:53:11,00:49:46,01:42:57,01:43:07,"20,984","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+358,105,Cees van Waard,Koedijk,M50,93,00:52:00,00:51:15,01:43:15,01:43:29,"20,922","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+359,106,Eric Leeman,Amsterdam,M50,94,00:51:57,00:51:17,01:43:14,01:43:29,"20,924","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+360,284,Arthur Kolks,Amersfoort,M40,99,00:54:41,00:48:20,01:43:00,01:43:30,"20,972","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+361,282,Reinout Bootsman,Amersfoort,M40,100,00:54:40,00:48:18,01:42:57,01:43:30,"20,982","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+362,145,Laurens Seinhorst,Zeewolde,M18,149,00:51:00,00:52:26,01:43:26,01:43:34,"20,886","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+363,156,michiel verkuil,tienhoven,M50,95,00:52:14,00:51:14,01:43:27,01:43:36,"20,881","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+364,473,Rodger Hulsebos,,M40,101,00:54:33,00:49:29,01:44:01,01:44:16,"20,769","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+365,379,Hans Hillenaar,Leiderdorp,M50,96,00:53:38,00:50:10,01:43:48,01:44:20,"20,810","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+366,35,Perry van Gerven,,M40,102,00:49:17,00:55:16,01:44:33,01:44:53,"20,663","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+367,167,Sandra Kleine,Breda,V40,9,00:56:02,00:49:11,01:45:12,01:45:36,"20,534","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+368,399,Alex de Jong,Heemskerk,M50,97,00:53:07,00:52:13,01:45:20,01:45:47,"20,509","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+369,187,Joop de Jong,Purmerend,M50,98,00:55:49,00:50:01,01:45:50,01:46:03,"20,412","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+370,496,Ronald Strijker,,M50,99,00:55:57,00:50:05,01:46:02,01:46:15,"20,374","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+371,99,Maurice van den Berge,Den Haag,M40,103,00:58:23,00:47:50,01:46:13,01:46:22,"20,339","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+372,290,Dirk Van Tatenhove,Waalre,M40,104,00:53:47,00:53:09,01:46:56,01:47:18,"20,202","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+373,283,Jelle Huurnink,Amersfoort,M40,105,00:54:40,00:52:30,01:47:09,01:47:41,"20,160","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+374,286,maarten van dooren,Amersfoort,M40,106,00:54:13,00:52:59,01:47:12,01:47:44,"20,150","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+375,421,Liane van Egmond,Ter Aar,V40,10,00:51:45,00:56:53,01:48:38,01:48:56,"19,885","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+376,255,Maikel Brama,Noordwijkerhout,M18,150,00:57:21,00:51:50,01:49:11,01:49:19,"19,786","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+377,479,Astrid de Graaf,,V18,17,00:51:58,00:57:20,01:49:17,01:49:38,"19,765","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+378,328,Martijn Pattje,The Hague,M40,107,00:55:28,00:54:06,01:49:33,01:49:55,"19,718","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+379,497,Albert  Feuth,,M18,151,00:56:35,00:52:57,01:49:32,01:49:59,"19,722","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+380,418,Kevin Bank,Wormer,M18,152,00:57:34,00:53:10,01:50:43,01:50:52,"19,511","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+381,480,Edwin Roggeveen,,M40,108,00:56:11,00:54:48,01:50:59,01:51:23,"19,464","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+382,494,Wim Korpel,,M50,100,00:57:35,00:53:35,01:51:10,01:51:24,"19,433","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+383,313,Arjan van Veen,Nootdorp,M40,109,00:57:15,00:53:56,01:51:10,01:51:31,"19,430","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+384,266,Ad Elzen,Noordwijkerhout,M18,153,00:56:14,00:55:52,01:52:06,01:52:15,"19,271","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+385,213,Bert van Rheenen,Pijnacker,M50,101,00:57:05,00:55:27,01:52:31,01:52:47,"19,198","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+386,212,Lex Bruining,Utrecht,M50,102,00:57:08,00:55:24,01:52:32,01:52:48,"19,197","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+387,79,Chester van Proosdij,,M40,110,00:58:04,00:55:28,01:53:31,01:53:53,"19,031","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+388,170,Ronald Molenaar,Utrecht,M18,154,00:54:38,01:00:54,01:55:31,01:55:47,"18,699","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+389,126,Gert de Vries,Nieuwerbrug a/d Rijn,M50,103,01:00:33,00:56:47,01:57:20,01:57:37,"18,412","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+390,254,Berthold Krasenbrink,'s-Gravenhage,M40,111,00:58:22,00:59:56,01:58:18,01:58:47,"18,260","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+391,365,adrie nillesen,Amsterdam,M50,104,00:58:27,01:00:04,01:58:30,01:58:51,"18,228","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+392,393,Douwe Hoekstra,Hierden,M18,155,01:03:22,00:57:24,02:00:46,02:01:14,"17,886","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+393,236,Gerlof De Jong,Gouda,M18,156,01:03:12,00:58:53,02:02:04,02:02:30,"17,697","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+394,150,Bianca Bakker,Hoogkarspel,V18,18,01:03:00,00:59:19,02:02:18,02:02:46,"17,662","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+395,80,Leon van Asch,,M40,112,01:06:36,00:57:34,02:04:09,02:04:30,"17,399","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+396,73,Frank Beusekamp,,M50,105,01:06:25,01:00:13,02:06:37,02:06:59,"17,059","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+397,300,Charlie Zuidwijk,Den Haag,M50,106,01:05:22,01:02:54,02:08:15,02:08:27,"16,843","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+398,304,Robert van der Hoeven,rijwijk,M40,113,00:55:27,01:13:40,02:09:07,02:09:29,"16,729","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+399,137,Bas Aartsen,Den Haag,M40,114,01:10:52,01:01:16,02:12:08,02:12:20,"16,348","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+400,176,Guus Verhoeven,Helvoirt,M50,107,01:10:52,01:01:20,02:12:12,02:12:25,"16,341","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+401,498,Loek  ter Horst,,M50,108,01:07:01,01:05:13,02:12:13,02:12:40,"16,338","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+402,341,Rita Van der Linde,Alphen aan den Rijn,V40,11,01:09:35,01:03:55,02:13:29,02:13:43,"16,182","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+403,490,Cees Overes,,M18,157,01:09:56,01:04:54,02:14:50,02:15:08,"16,021","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+404,153,Trudy Koot,Alphen aan den Rijn,V40,12,01:09:43,01:05:39,02:15:22,02:15:27,"15,958","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+405,453,joost baalbergen,broek op langedijk,M18,158,00:35:03,01:42:29,02:17:31,02:17:34,"15,708","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+406,482,Gerrit van der Horst,,M50,109,01:07:35,01:12:52,02:20:27,02:20:45,"15,381","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+407,47,Adema Sybrand,,M50,110,01:13:40,01:12:24,02:26:04,02:26:17,"14,789","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+408,77,Eveline Kruisinga,,V40,13,01:28:05,01:21:35,02:49:39,02:50:03,"12,733","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03
+409,75,Peter Buys,,M50,111,01:28:06,01:21:44,02:49:50,02:50:14,"12,719","Beach Series 1, Kurhaus Scheveningen   3-12-2016",2016-12-03

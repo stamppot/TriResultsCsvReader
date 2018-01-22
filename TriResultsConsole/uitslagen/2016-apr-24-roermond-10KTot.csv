@@ -1,0 +1,817 @@
+Plts,StartNr,Naam,Team/Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,2750,Simon Dahl,Bergisch Gladbach,M,1,00:33:37,00:33:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+2,510,Thijs ten Berge,Atletiek Maastricht,M,2,00:34:16,00:34:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+3,3199,Tim van Herk,Brunssum,M,3,00:36:17,00:36:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+4,1934,Sebastien Lot,Smurfit Kappa Roermond Papier,M,4,00:36:26,00:36:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+5,1915,Robbert Thijssen,Crowe Horwath Foederer,M,5,00:36:26,00:36:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+6,1124,Marc Scheepers,Venlo,M,6,00:37:27,00:37:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+7,1877,Yves Rijchwalski,gemeente Roermond,M,7,00:37:58,00:37:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+8,666,Ivo Pinxten,Grathem,M,8,00:38:23,00:38:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+9,1883,Gijs Dohmen,Novotec BV,M,9,00:38:38,00:38:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+10,1078,Stijn Derks,Neer,M,10,00:38:41,00:38:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+11,1190,Robin Van der Stel,Herkenbosch,M,11,00:38:50,00:38:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+12,286,Jorin Slagmeulen,Baarlo Lb,M,12,00:38:50,00:38:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+13,2113,Onno de Boer,Kragten,M,13,00:38:57,00:38:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+14,410,Johan Karelse,AV '56,M,14,00:39:01,00:39:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+15,3169,Adriaan Tates,Haalderen,M,15,00:39:11,00:39:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+16,3132,Maurice Cleven,Nieuwstadt,M,16,00:39:13,00:39:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+17,1160,Mischa Jeschull,Roermond,M,17,00:39:16,00:39:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+18,2836,Daan Sliepen,Sittard,M,18,00:39:26,00:39:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+19,2752,Lisa Jaschke,Bergisch Gladbach,V,1,00:39:33,00:39:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+20,3232,Wil Pepels,Elsloo Lb,M,19,00:39:34,00:39:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+21,1875,Rob Rietbroek,gemeente Roermond,M,20,00:39:40,00:39:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+22,1651,Michiel Verspagen,Eindhoven,M,21,00:39:44,00:39:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+23,2112,Sander Sloove,Kragten,M,22,00:39:51,00:39:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+24,1916,Maurice Thijssen,Crowe Horwath Foederer,M,23,00:39:56,00:39:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+25,1874,Jack Mestrom,gemeente Roermond,M,24,00:40:12,00:40:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+26,2993,Joep Baetsen,Swalmen,M,25,00:40:17,00:40:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+27,1961,Frank Bod,Rockwool BV,M,26,00:40:44,00:40:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+28,629,Simon Verwijlen,AV Weert,M,27,00:40:44,00:40:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+29,1303,Dennis Meijer,Herten,M,28,00:40:59,00:40:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+30,2965,BjOrn Franssen,Beesel,M,29,00:41:07,00:40:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+31,1913,Ramon Thijssen,Crowe Horwath Foederer,M,30,00:41:16,00:41:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+32,1169,Peter van Zon,Weert,M,31,00:41:23,00:41:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+33,1955,Stefan Poels,Merpo Fashion Logistics BV,M,32,00:41:38,00:41:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+34,1954,Rene van Avesaath,Merpo Fashion Logistics BV,M,33,00:41:38,00:41:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+35,1118,Guido Heijnen,Herkenbosch,M,34,00:41:45,00:41:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+36,1230,Macel Schoenmakers,Echt,M,35,00:41:51,00:41:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+37,1932,Henk Hoevers,Smurfit Kappa Roermond Papier,M,36,00:41:57,00:41:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+38,867,Lisette Walter,Venlo,V,2,00:41:58,00:41:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+39,1884,Joep Dohmen,Novotec BV,M,37,00:42:18,00:42:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+40,2024,Paul Hamaekers,Kragten,M,38,00:42:18,00:42:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+41,2256,Irma van Rijswijck,Designer Outlet Roermond,V,3,00:42:20,00:42:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+42,1018,Dirk van Lier,Herten,M,39,00:42:33,00:42:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+43,1893,Danny Moerman,Het Rughuis,M,40,00:42:38,00:42:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+44,1982,Joyce Boersma,Schulinck (Wolters Kluwer),V,4,00:42:38,00:42:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+45,1344,Wouter Thommassen,Wessem,M,41,00:42:46,00:42:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+46,1914,Ralph Thijssen,Crowe Horwath Foederer,M,42,00:42:48,00:42:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+47,3041,Bart Tromp,Roermond,M,43,00:42:51,00:41:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+48,3230,Bryan Houdijk,Vroenhoven,M,44,00:42:56,00:42:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+49,2987,Mark Jansen,Maastricht,M,45,00:42:56,00:42:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+50,1093,Danique Cabooter,Swalmen,V,5,00:43:01,00:42:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+51,2260,Kelly Huijs,Designer Outlet Roermond,V,6,00:43:06,00:43:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+52,1080,Frank Rijks,Tegelen,M,46,00:43:22,00:42:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+53,1719,Floris Weerts,Kessel Lb,M,47,00:43:26,00:43:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+54,1904,Ron Knieps,LinK Finance,M,48,00:43:28,00:43:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+55,2988,Ruud Aan den Boom,Tegelen,M,49,00:43:31,00:43:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+56,1311,Edwin Mooijekind,Hillegom,M,50,00:43:32,00:43:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+57,1886,Robert Wanten,Novotec BV,M,51,00:43:40,00:43:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+58,312,Chris Eijkelhardt,Roermond,M,52,00:43:41,00:43:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+59,1876,Paul Lenaers,gemeente Roermond,M,53,00:43:43,00:43:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+60,3068,Daan Rampart,Roermond,M,54,00:43:43,00:43:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+61,1597,Lars Runnenberg,Sittard,M,55,00:43:44,00:43:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+62,448,John Atkinson,Roermond,M,56,00:43:47,00:43:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+63,2257,Kristel Schreurs,Designer Outlet Roermond,V,7,00:43:54,00:43:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+64,950,Iwan Zeelen,Herten,M,57,00:44:04,00:43:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+65,1880,Han Cuijper,gemeente Roermond,M,58,00:44:06,00:43:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+66,2011,Robert Loontjens,Rabobank Roermond-Echt,M,59,00:44:10,00:43:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+67,3123,Niedzwieolzki Jaroslouw,Echt,M,60,00:44:12,00:43:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+68,1553,Eric Zijp,Weert,M,61,00:44:14,00:43:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+69,2025,Karin Sloove,Kragten,V,8,00:44:15,00:44:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+70,868,Carsten MOllers,Viersen,M,62,00:44:15,00:44:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+71,385,Tim Roks,Herten,M,63,00:44:16,00:43:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+72,1894,Ralph Corbey,Het Rughuis,M,64,00:44:19,00:44:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+73,1939,Mark Nabuurs,Smurfit Kappa Roermond Papier,M,65,00:44:25,00:44:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+74,2729,Puck Huijs,Baarlo Lb,M,66,00:44:29,00:44:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+75,1526,Wouter Schiffer,Roermond,M,67,00:44:32,00:44:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+76,2990,Dominique Blom,Herten,M,68,00:44:32,00:42:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+77,505,Bram Geraedts,Herten,M,69,00:44:37,00:44:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+78,3100,Dick Mooren,Herten,M,70,00:44:40,00:43:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+79,2792,Wendel van Dalen,AAC '61,M,71,00:44:43,00:43:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+80,1649,Leon Corstjens,Heel,M,72,00:44:46,00:44:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+81,1971,Luc Smeets,Rockwool BV,M,73,00:44:50,00:44:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+82,141,Stijn Schambergen,Castenray,M,74,00:44:51,00:44:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+83,138,Magda Winiarska,Someren,V,9,00:44:51,00:44:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+84,1122,Job Derks,Atletiek Leudal,M,75,00:44:52,00:44:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+85,1200,Thijs van de Straat,Herten,M,76,00:44:54,00:44:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+86,2785,Dominique Dello,Venlo,M,77,00:44:55,00:43:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+87,1972,Arno Graef,Rockwool BV,M,78,00:44:57,00:44:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+88,1933,Lex Hoevers,Smurfit Kappa Roermond Papier,M,79,00:44:58,00:44:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+89,2902,Freek Hendrix,Roggel,M,80,00:44:58,00:44:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+90,916,AndrO Reinaerdts,Beek Lb,M,81,00:45:01,00:44:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+91,1957,Paul Hawinkels,Merpo Fashion Logistics BV,M,82,00:45:04,00:44:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+92,1109,Stefan Vossen,Belfeld,M,83,00:45:06,00:44:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+93,1016,Remy Sonnemans,Roermond,M,84,00:45:09,00:44:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+94,2829,Steph de Graaf,Eindhoven,M,85,00:45:10,00:45:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+95,1917,Wim Smeets,Crowe Horwath Foederer,M,86,00:45:11,00:45:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+96,1958,Sjuul Thomassen,Merpo Fashion Logistics BV,M,87,00:45:18,00:45:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+97,965,Pim Hennissen,Wessem,M,88,00:45:18,00:44:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+98,1599,Cindy Laumen,Sittard,V,10,00:45:20,00:45:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+99,2770,Roger Groteclaes,Roermond,M,89,00:45:21,00:43:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+100,235,Andrew Leenen,Roggel,M,90,00:45:25,00:45:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+101,937,Jean-Paul Robbertz,Nijmegen,M,91,00:45:26,00:45:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+102,1956,Thomas Poels,Merpo Fashion Logistics BV,M,92,00:45:28,00:45:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+103,741,Thijs Engels,Swift,M,93,00:45:34,00:45:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+104,961,Kay y h Meusen,Beesel,M,94,00:45:40,00:44:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+105,2191,Aikel Zeegers,WowDeal B.V.,M,95,00:45:42,00:45:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+106,2188,Jannie Bremmers,WowDeal B.V.,V,11,00:45:42,00:45:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+107,1413,Jan Parren,Wessem,M,96,00:45:45,00:45:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+108,303,Ingo Boochs,NiederkrOchten,M,97,00:45:48,00:45:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+109,1891,Jeffrey Tan,Het Rughuis,M,98,00:45:50,00:45:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+110,2851,Jesse de Leeuw,Ospel,M,99,00:45:51,00:45:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+111,264,Colette van Aalst,Roermond,V,12,00:45:58,00:45:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+112,311,Roland Linssen,Herten,M,100,00:46:01,00:45:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+113,1501,Job Hautus,Roermond,M,101,00:46:12,00:45:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+114,1902,Roel Seijkens,LinK Finance,M,102,00:46:16,00:46:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+115,860,Kevin Koch,Roermond,M,103,00:46:19,00:45:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+116,3018,Buck Derikx,Reuver,M,104,00:46:22,00:45:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+117,166,Hans Coumans,Heel,M,105,00:46:23,00:46:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+118,3195,Raffaelle Pellegrino,Geilenkirchen,M,106,00:46:27,00:44:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+119,3095,Pieter van Hout,Herkenbosch,M,107,00:46:28,00:45:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+120,1081,Kristie Allers,Venlo,V,13,00:46:30,00:46:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+121,816,Yarno Clabbers,Venlo,M,108,00:46:31,00:46:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+122,1926,Harm Cremer,Dennenmarken,M,109,00:46:34,00:46:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+123,477,Jelle Arema,Ulvenhout,M,110,00:46:34,00:46:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+124,1092,Ruud Cremers,Tegelen,M,111,00:46:35,00:46:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+125,1116,Jelle Mestrom,Sint Odilienberg,M,112,00:46:35,00:46:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+126,1506,Richard Janssen,Roermond,M,113,00:46:40,00:46:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+127,234,Ingo Windeln,Wassenberg,M,114,00:46:51,00:46:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+128,724,Hub Heynen,Echt,M,115,00:46:51,00:46:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+129,1318,Arthur Maessen,Roermond,M,116,00:46:53,00:46:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+130,2779,Roos van Haeff,Neer,V,14,00:46:54,00:46:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+131,1981,Erik Boersma,Schulinck (Wolters Kluwer),M,117,00:47:02,00:46:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+132,3210,Rene Camps,Venlo,M,118,00:47:06,00:45:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+133,307,Rene Nauts,Unitas,M,119,00:47:06,00:46:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+134,776,Leon de Bock,Herten,M,120,00:47:09,00:46:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+135,2912,Christiaan Hanekom,Herkenbosch,M,121,00:47:09,00:45:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+136,810,Rachid Schmitz,Herten,M,122,00:47:11,00:46:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+137,1433,Dirk Jennissen,Wassenberg,M,123,00:47:12,00:46:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+138,1936,Mees Vermeulen,Smurfit Kappa Roermond Papier,M,124,00:47:12,00:47:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+139,1516,Marcel Janssen,Posterholt,M,125,00:47:12,00:46:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+140,1999,Patrick Hubens,Rabobank Roermond-Echt,M,126,00:47:13,00:47:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+141,329,Gunter Nuyts,Heythuysen,M,127,00:47:16,00:46:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+142,1138,Richard Pisters.,Venlo,M,128,00:47:17,00:46:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+143,702,Joris Van Veen,Lent,M,129,00:47:17,00:46:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+144,3113,Theo van Hurson,Roermond,M,130,00:47:19,00:46:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+145,964,Marcel Hennissen,Wessem,M,131,00:47:20,00:46:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+146,925,Judith Creemers,Arnhem,V,15,00:47:21,00:47:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+147,3043,Koen Moors,Posterholt,M,132,00:47:21,00:46:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+148,1004,Annick Kellenaers,Venlo,V,16,00:47:22,00:47:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+149,870,Vincent van der Koelen,Heel,M,133,00:47:22,00:47:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+150,507,Michel Hulsman,Zwolle,M,134,00:47:22,00:47:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+151,1965,Rob Kooiker,Rockwool BV,M,135,00:47:25,00:47:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+152,1286,Erik Wijnoogst,Mierlo,M,136,00:47:25,00:46:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+153,383,Clint van der Maas,Herten,M,137,00:47:26,00:47:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+154,502,Sander Kengen,Herten,M,138,00:47:31,00:47:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+155,1998,Alex Velthuis,Rabobank Roermond-Echt,M,139,00:47:32,00:47:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+156,345,Erik van Genderen,Delft,M,140,00:47:33,00:46:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+157,3057,Stefan Smeets,Atletiek Leudal,M,141,00:47:33,00:46:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+158,1351,Henk van Gansewinkel,Roermond,M,142,00:47:33,00:46:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+159,1964,Bouke Braun,Rockwool BV,M,143,00:47:35,00:47:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+160,1888,Daniel Hamers,Novotec BV,M,144,00:47:36,00:47:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+161,2998,Peter Peeters,Kessel Lb,M,145,00:47:36,00:46:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+162,1746,Chris Frencken,Swift,M,146,00:47:37,00:47:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+163,705,Danielle Meuwissen,Linne,V,17,00:47:39,00:47:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+164,1250,Roel Bergs,Neeritter,M,147,00:47:40,00:47:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+165,1233,Jeroen Bollaart,Utrecht,M,148,00:47:40,00:47:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+166,1313,Francien Mooijekind,Suomi,V,18,00:47:40,00:47:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+167,1937,Joris Geboers,Smurfit Kappa Roermond Papier,M,149,00:47:42,00:47:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+168,424,Ellen Gentry,Melick,V,19,00:47:44,00:47:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+169,1455,RenO Schroemges,Baarlo Lb,M,150,00:47:45,00:47:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+170,908,Elvera Weusten,Roermond,V,20,00:47:45,00:47:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+171,1975,Hicham Akdim,Rockwool BV,M,151,00:47:46,00:47:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+172,1684,Dave Delissen,Roermond,M,152,00:47:48,00:47:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+173,963,Emanuel Rocha,Penafiel,M,153,00:47:51,00:47:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+174,139,Radek Winiarski,Someren,M,154,00:47:58,00:47:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+175,2819,Maurice Schwanen,Lemiers,M,155,00:48:01,00:47:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+176,1154,Johan Korste,Wessem,M,156,00:48:03,00:47:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+177,1523,Simon Boonen,Sint-Michielsgestel,M,157,00:48:05,00:47:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+178,1457,Caspar Lehnen,Roermond,M,158,00:48:06,00:47:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+179,686,Timo Rovers,Reuver,M,159,00:48:12,00:47:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+180,2267,Wim Oosse,CONTOUR Accountants,M,160,00:48:16,00:48:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+181,2818,Maurice Geerkens,Lemiers,M,161,00:48:17,00:47:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+182,1660,Luuk Loeff,Maarheeze,M,162,00:48:20,00:47:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+183,3114,Tuur van Iterson,Roermond,M,163,00:48:26,00:47:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+184,760,Martijn Silvertand,Culemborg,M,164,00:48:26,00:48:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+185,2003,Rens Beelen,Rabobank Roermond-Echt,M,165,00:48:30,00:48:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+186,1966,Angele Demarteau,Rockwool BV,V,21,00:48:30,00:48:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+187,2939,Angelika Kappenhagen,Grefrath,V,22,00:48:31,00:48:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+188,3188,Simone Rocca,Geilenkirchen,M,166,00:48:32,00:46:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+189,895,Rocky Nelissen,Roermond,M,167,00:48:33,00:48:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+190,1887,Hans Dohmen,Novotec BV,M,168,00:48:33,00:48:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+191,1275,Mark Mutter,Heerlen,M,169,00:48:37,00:47:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+192,522,Tom Rutten,Belfeld,M,170,00:48:38,00:48:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+193,1270,Patrick Houben,Herten,M,171,00:48:38,00:48:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+194,3234,Peter Pfennings,Sittard,M,172,00:48:40,00:47:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+195,1927,Wilbert Cremer,Dennenmarken,M,173,00:48:41,00:48:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+196,924,Stefan Granzier,Linne,M,174,00:48:48,00:48:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+197,3040,MJCM Houben,Roggel,M,175,00:48:54,00:47:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+198,1898,Ilse de Greef,Het Rughuis,V,23,00:48:59,00:48:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+199,1941,Julia Venner,Smurfit Kappa Roermond Papier,V,24,00:49:00,00:48:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+200,1196,Luuk Muijsert,Venlo,M,176,00:49:02,00:48:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+201,1398,Erik van Hoeijen,Venlo,M,177,00:49:02,00:48:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+202,1726,Dondi Bundel,Helmond,M,178,00:49:09,00:48:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+203,1992,Paul Heijmans,Team Roerdelta,M,179,00:49:16,00:48:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+204,1490,Guido Hopstaken,Roermond,M,180,00:49:16,00:48:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+205,1263,Sanne Groenen,Soerendonk,V,25,00:49:20,00:49:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+206,2036,Bob Sijben,gemeente Roermond,M,181,00:49:26,00:49:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+207,2110,Arjan Schmits,Neptunus B.V.,M,182,00:49:26,00:49:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+208,2755,Arjan Schmits,Dortmund,M,183,00:49:26,00:49:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+209,240,Arkadiusz Bogucki,Sittard,M,184,00:49:28,00:48:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+210,1068,Ric Reulen,Swift,M,185,00:49:28,00:48:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+211,3001,Peter SchroOn,Heythuysen,M,186,00:49:30,00:48:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+212,523,Leander Vranken,Sint Joost,M,187,00:49:30,00:48:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+213,1483,Lysanne Lampe,Roermond,V,26,00:49:30,00:49:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+214,704,Wouter Thonissen,Roermond,M,188,00:49:34,00:48:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+215,1918,Lex Hoefnagels,Dennenmarken,M,189,00:49:37,00:49:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+216,484,Niels Bessems,Swalmen,M,190,00:49:40,00:49:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+217,2742,Florentijn Ploum,Horn,M,191,00:49:40,00:48:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+218,2831,Jan Joosten,Baarlo Lb,M,192,00:49:41,00:48:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+219,2109,Pim van Vugt,Neptunus B.V.,M,193,00:49:42,00:49:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+220,1063,Danny Vitali,Dilsen-Stokkem,M,194,00:49:44,00:49:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+221,368,Djie Tjwan Thung,Nijmegen,M,195,00:49:44,00:49:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+222,1091,Myrthe Pex,Roermond,V,27,00:49:48,00:49:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+223,1343,Kim Thommassen - Emmah,Wessem,V,28,00:49:52,00:49:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+224,2734,Cindy Beenders,Beegden,V,29,00:49:52,00:48:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+225,881,Jeroen Arets,Roermond,M,196,00:49:53,00:49:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+226,1658,Robert Hanegraaf,Heel,M,197,00:49:54,00:49:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+227,882,Pedro Vaes,Roermond,M,198,00:49:55,00:49:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+228,983,Edwin Vogel,AV Weert,M,199,00:49:56,00:49:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+229,690,Tim van der Pol,Eindhoven,M,200,00:50:00,00:49:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+230,1560,Hans Tijhof,Tegelen,M,201,00:50:03,00:49:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+231,1705,Maikel Janssen,Linne,M,202,00:50:10,00:49:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+232,1012,Erwin Martens,Neer,M,203,00:50:13,00:49:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+233,1655,Arno Schreurs,Heel,M,204,00:50:13,00:49:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+234,1969,John Quicken,Rockwool BV,M,205,00:50:14,00:50:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+235,2741,Dylan Smeets,Roermond,M,206,00:50:14,00:48:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+236,1995,Femke Boonen,Team Roerdelta,V,30,00:50:17,00:49:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+237,327,Marc Stienen,Herten,M,207,00:50:19,00:49:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+238,1968,Serve Bours,Rockwool BV,M,208,00:50:20,00:50:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+239,2914,Martijn Veenman,Leiden,M,209,00:50:20,00:48:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+240,2823,Ben Peeters,Roermond,M,210,00:50:23,00:48:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+241,344,Eric Roosenboom,Vlissingen,M,211,00:50:24,00:50:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+242,946,Nick Lightfoot,Roermond,M,212,00:50:24,00:49:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+243,2895,Jasper Stevens,Linne,M,213,00:50:25,00:49:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+244,1173,Sjoerd Peters,Herten,M,214,00:50:25,00:49:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+245,1940,Joost van Bogget,Smurfit Kappa Roermond Papier,M,215,00:50:25,00:50:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+246,2828,Jelle Hummel,Assen,M,216,00:50:26,00:49:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+247,694,Alfons Lormans,Roermond,M,217,00:50:27,00:49:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+248,1963,Robin Marban,Rockwool BV,V,31,00:50:28,00:50:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+249,1962,Salba Marban,Rockwool BV,M,218,00:50:28,00:50:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+250,1994,Paul Pouls,Team Roerdelta,M,219,00:50:32,00:49:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+251,621,Bart van Veen,Herten,M,220,00:50:32,00:50:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+252,1073,Sylvana Van Deijck,Maastricht,V,32,00:50:33,00:50:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+253,1527,Cis Swinkels,Roermond,M,221,00:50:35,00:50:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+254,1052,Leon Kempen,Reuver,M,222,00:50:46,00:50:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+255,1730,Jan Lankes,Swalmen,M,223,00:50:49,00:50:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+256,1983,Remco Kranendonk,Schulinck (Wolters Kluwer),M,224,00:50:49,00:50:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+257,759,Carla Silvertandt,Culemborg,V,33,00:50:53,00:50:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+258,1945,Laurent Sellier,Smurfit Kappa Roermond Papier,M,225,00:50:58,00:50:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+259,1919,Mario Lomans,Dennenmarken,M,226,00:50:59,00:50:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+260,3187,Francesco Rocco,Geilenkirchen,V,34,00:51:00,00:49:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+261,1262,Lieke van Happen,Soerendonk,V,35,00:51:01,00:50:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+262,3240,B Reijners,Roermond,M,227,00:51:03,00:50:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+263,1953,Aschwin Nijssen,Mission Foods,M,228,00:51:04,00:50:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+264,2261,Ruud Peeters,Designer Outlet Roermond,M,229,00:51:06,00:50:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+265,2268,Kees op het Veld,CONTOUR Accountants,M,230,00:51:06,00:50:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+266,693,Bastian Oberfrank,Roermond,M,231,00:51:08,00:50:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+267,3226,Eric Thissen,Linne,M,232,00:51:09,00:50:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+268,315,Nicole Feyen,Roermond,V,36,00:51:15,00:50:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+269,692,Emmy Slabbers,Roermond,V,37,00:51:19,00:50:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+270,2187,Harm Derckx,WowDeal B.V.,M,233,00:51:20,00:51:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+271,3059,Mike Hos,Echt,M,234,00:51:23,00:49:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+272,1889,Anna Dubrova,Novotec BV,V,38,00:51:28,00:51:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+273,1978,Bjorn Meuwissen,Rockwool BV,M,235,00:51:28,00:50:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+274,113,Wilbert Luinge,Roermond,M,236,00:51:35,00:51:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+275,2884,Richard van Alphen,Weert,M,237,00:51:38,00:51:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+276,815,Esther Waeijen,Roggel,V,39,00:51:40,00:51:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+277,3133,Ivo Rook,Roermond,M,238,00:51:41,00:50:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+278,177,Veerle Fleuren,Melick,V,40,00:51:42,00:50:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+279,2004,Nicky Theunissen,Rabobank Roermond-Echt,V,41,00:51:49,00:51:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+280,1938,Frank Linge,Smurfit Kappa Roermond Papier,M,239,00:51:49,00:51:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+281,2769,Nicky Cox,Roermond,M,240,00:51:50,00:50:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+282,1979,Paul Jeukens,Schulinck (Wolters Kluwer),M,241,00:51:50,00:51:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+283,1547,Pieter van den Brink,Roermond,M,242,00:51:54,00:51:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+284,986,Robin Cox,Roermond,M,243,00:51:54,00:51:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+285,3035,Wim van Gestel,Tegelen,M,244,00:51:55,00:51:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+286,613,Eline Collombon,Heerlen,V,42,00:51:58,00:51:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+287,1107,Bart Verhaag,Horst,M,245,00:52:00,00:51:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+288,1980,Denise Last,Schulinck (Wolters Kluwer),V,43,00:52:02,00:51:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+289,3229,Jos de Vries,Swalmen,M,246,00:52:03,00:50:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+290,1383,Baer Nagelmakers,Venlo,M,247,00:52:09,00:51:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+291,1009,Dennis NottO,Roermond,M,248,00:52:10,00:51:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+292,1682,Mariska Engels,Herten,V,44,00:52:13,00:51:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+293,630,Wim Verwijlen,Weert,M,249,00:52:22,00:51:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+294,1693,Anjes Kurvers,Wessem,V,45,00:52:22,00:51:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+295,1711,Jeu van Eck,Herkenbosch,M,250,00:52:23,00:51:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+296,143,Sjoerd Lintjens,Horn,M,251,00:52:25,00:51:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+297,317,Roger Hendrix,Buggenum,M,252,00:52:30,00:51:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+298,672,Marloes Kessels,Beegden,V,46,00:52:30,00:51:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+299,445,Charles J Brotherston,Roermond,M,253,00:52:32,00:51:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+300,515,Flavio Silvaggi,Roermond,M,254,00:52:32,00:52:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+301,1088,Puck GObbels,Neptunus B.V.,M,255,00:52:33,00:52:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+302,175,Femke Bouwels,Kragten,V,47,00:52:37,00:51:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+303,575,Manon Van Keeken,Amsterdam,V,48,00:52:39,00:52:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+304,1666,Wim Waeijen,Heythuysen,M,256,00:52:41,00:52:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+305,2723,Joey Tullemans,Grathem,M,257,00:52:42,00:51:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+306,425,Richard GENTRY,Melick,M,258,00:52:42,00:51:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+307,3026,Emiel Veenstra,Roermond,M,259,00:52:44,00:51:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+308,1872,Henri Gubbels,gemeente Roermond,M,260,00:52:45,00:52:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+309,454,Cedrick Vergroesen,Breda,M,261,00:52:48,00:52:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+310,2992,Lindy Beurskens,Swalmen,V,49,00:52:48,00:52:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+311,453,Edwin Ransz,Swalmen,M,262,00:52:49,00:52:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+312,3048,Ruben Hekkens,Herten,M,263,00:52:49,00:52:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+313,1745,Niels de Koning,Roermond,M,264,00:52:50,00:52:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+314,1325,RenO van Mierlo,Roermond,M,265,00:52:54,00:52:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+315,2269,John Houben,Designer Outlet Roermond,M,266,00:52:55,00:52:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+316,865,Hellen Verheijen,Atletiek Helden,V,50,00:52:58,00:52:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+317,1899,Serana Reijnders,Het Rughuis,V,51,00:52:58,00:52:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+318,2817,Guido Kremer,Lemiers,M,267,00:53:04,00:52:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+319,549,Arjan Beunen,Kragten,M,268,00:53:04,00:52:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+320,1732,Anke Kurth,Wassenberg,V,52,00:53:07,00:52:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+321,1870,Sandra Amory,gemeente Roermond,V,53,00:53:08,00:51:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+322,1952,Vincent Van Buul,Mission Foods,M,269,00:53:10,00:52:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+323,3163,Maartje Jacobs,Steyl,V,54,00:53:10,00:51:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+324,2028,Chris Smeets,Kragten,M,270,00:53:11,00:52:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+325,1174,Thijs Janssen,Hunsel,M,271,00:53:12,00:52:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+326,2105,Bryan van den Boorn,Rabobank Roermond-Echt,M,272,00:53:14,00:52:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+327,1896,Saya Berkhout,Het Rughuis,V,55,00:53:16,00:52:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+328,1403,Tomislav Cupic,Roermond,M,273,00:53:18,00:52:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+329,216,Thomas van Beurden,Roermond,M,274,00:53:22,00:52:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+330,213,Dennis Van den Heuvel,Roermond,M,275,00:53:22,00:52:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+331,3218,Patrick Kunnen,Roermond,M,276,00:53:22,00:51:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+332,3020,Ralf Jenniskens,Beegden,M,277,00:53:23,00:52:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+333,1217,Ben Effing,Montfort,M,278,00:53:23,00:53:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+334,3044,Roel Niessen,Roermond,M,279,00:53:24,00:51:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+335,496,Danielle Willems,Maasbracht,V,56,00:53:25,00:53:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+336,2009,Han Gehlen,Rabobank Roermond-Echt,M,280,00:53:28,00:53:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+337,294,Fred Huskes,Tegelen,M,281,00:53:29,00:52:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+338,1106,Johan Simons,Heel,M,282,00:53:30,00:52:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+339,305,Frank Kuipers,Roermond,M,283,00:53:30,00:52:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+340,1500,Kees van Veen,Goirle,M,284,00:53:31,00:52:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+341,1908,Carlo van Erve,Kasteeltje Hattem,M,285,00:53:31,00:52:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+342,1909,Maurice Sijbers,Kasteeltje Hattem,M,286,00:53:31,00:52:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+343,1871,Ruud Hodzelmans,gemeente Roermond,M,287,00:53:33,00:52:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+344,128,Wesley Hurkmans,Weert,M,288,00:53:38,00:53:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+345,3235,Daan Reuhman,Waalre,M,289,00:53:39,00:51:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+346,3054,Pieter Boonen,Heythuysen,M,290,00:53:40,00:52:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+347,2772,Ton van Schaik,Roermond,M,291,00:53:41,00:52:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+348,2771,Mark Giebels,Roermond,M,292,00:53:42,00:52:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+349,830,Marco Vermeulen,Herkenbosch,M,293,00:53:48,00:52:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+350,1175,Eva Verheesen,Sint Odilienberg,V,57,00:53:49,00:53:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+351,2959,Maurice Deckers,Roermond,M,294,00:53:53,00:53:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+352,1210,Max Markusse,Venlo,M,295,00:53:54,00:53:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+353,2189,Wil Wijnands,WowDeal B.V.,M,296,00:53:56,00:53:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+354,650,Koos Eggels,Roermond,M,297,00:53:57,00:53:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+355,743,Marieke van Horck,Roermond,V,58,00:53:57,00:53:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+356,1435,Inge Florie,Herten,V,59,00:53:58,00:53:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+357,1444,Chantal Nies,Herten,V,60,00:53:58,00:53:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+358,2783,Ricardo Rey,Roermond,M,298,00:53:59,00:53:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+359,701,Frank Biermans,Roermond,M,299,00:53:59,00:53:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+360,1017,Mark Erdkamp,Linne,M,300,00:54:00,00:53:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+361,115,Laura Bremmers,Tegelen,V,61,00:54:04,00:53:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+362,1003,Bas Hein,Venlo,M,301,00:54:04,00:53:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+363,2008,Achmed Jamal,Rabobank Roermond-Echt,M,302,00:54:04,00:53:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+364,207,Joost Nijskens,'s-Hertogenbosch,M,303,00:54:05,00:53:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+365,2833,Mieke Deckers,Atletiek Leudal,V,62,00:54:06,00:52:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+366,3223,Ruud Corstjens,Thorn,M,304,00:54:06,00:52:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+367,1215,Martijn Noldus,Roermond,M,305,00:54:07,00:53:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+368,465,Pauline Kiggen,Ospel,V,63,00:54:08,00:53:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+369,1993,Gijs Olde Kalter,Team Roerdelta,M,306,00:54:08,00:53:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+370,156,Ronald van Kessel,Roermond,M,307,00:54:10,00:53:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+371,509,Ingrid Litjens,Bergen Lb,V,64,00:54:10,00:53:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+372,1216,Simone Broens,Roermond,V,65,00:54:12,00:53:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+373,1568,Yvette Clocquet,Roermond,V,66,00:54:14,00:53:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+374,108,Mel van Haren,Roermond,M,308,00:54:16,00:53:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+375,361,Christian Tullemans,Maasbracht,M,309,00:54:17,00:53:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+376,2726,Keyx Van Lierop,Veldhoven,M,310,00:54:22,00:52:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+377,1228,Astrid Toftkaer,Roermond,V,67,00:54:22,00:53:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+378,2790,Brigitte Henderickx,Atletiek Leudal,V,68,00:54:28,00:52:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+379,857,Geert Poels,Herten,M,311,00:54:28,00:53:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+380,2842,Leon Vestjens,Roggel,M,312,00:54:33,00:53:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+381,1669,Nick Stoks,Roermond,M,313,00:54:33,00:52:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+382,1083,Eef den Dekker,Venlo,V,69,00:54:33,00:54:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+383,1227,Janneke Melssen,Reuver,V,70,00:54:34,00:54:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+384,991,Ruud Jentjens,Reuver,M,314,00:54:35,00:54:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+385,1443,Mai Rey,Roermond,V,71,00:54:36,00:53:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+386,2001,Erik Brouwers,Rabobank Roermond-Echt,M,315,00:54:37,00:54:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+387,758,Ger Mevissen,Venlo,M,316,00:54:38,00:54:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+388,766,Benjamin de Fretes,Herten,M,317,00:54:39,00:54:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+389,590,Else van Lier,Herten,V,72,00:54:39,00:54:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+390,459,Carl Nollen,Swift,M,318,00:54:42,00:53:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+391,1110,Annika Voets,Helmond,V,73,00:54:43,00:53:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+392,1198,Kim Faassen,Reuver,V,74,00:54:43,00:53:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+393,553,Roger Moonen,Landgraaf,M,319,00:54:44,00:53:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+394,2801,Menno Weerepas,Wijchen,M,320,00:54:45,00:53:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+395,2131,Lisan Jacobs,LinK Finance,V,75,00:54:48,00:54:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+396,206,Robert Schaefer,Roermond,M,321,00:54:50,00:54:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+397,274,Dennis Hovens,Venlo,M,322,00:54:50,00:53:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+398,1208,Eric Deussen,Roermond,M,323,00:54:54,00:54:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+399,872,Roger Ramakers,Leveroy,M,324,00:54:57,00:53:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+400,1226,Jan Delissen,Venlo,M,325,00:54:57,00:53:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+401,1234,Joop Laarakkers,Horn,M,326,00:54:58,00:53:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+402,984,Michael Hoffmann,Swift,M,327,00:54:59,00:54:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+403,1943,Johannes ScholtenReintjes,Smurfit Kappa Roermond Papier,M,328,00:55:02,00:53:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+404,871,Pascalle Van den Bosch,Leveroy,V,76,00:55:02,00:53:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+405,1570,Jacqueline Cuypers,Sint Odilienberg,V,77,00:55:09,00:54:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+406,433,Esther Nijsen,Herten,V,78,00:55:09,00:54:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+407,2873,Claire Lambriex,Roermond,V,79,00:55:09,00:53:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+408,3049,Pascal FMG Baetsen,Reuver,M,329,00:55:11,00:53:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+409,3149,Paul Thijssen,Maasbree,M,330,00:55:12,00:53:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+410,985,Cindy Scheenen,Kessel Lb,V,80,00:55:12,00:54:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+411,564,Dirk Bouts,Roermond,M,331,00:55:12,00:54:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+412,546,Pasca Bastiaans,Nederweert,M,332,00:55:13,00:54:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+413,277,Henry Jaspers,Melick,M45,1,00:55:14,00:54:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+414,349,Jitske Slagmeulen,Nijmegen,V,81,00:55:15,00:54:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+415,1407,Erwin DOsterwald,Kerkrade,M,333,00:55:15,00:54:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+416,957,Esther van de Korput,Baarlo Lb,V,82,00:55:17,00:53:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+417,101,Rob van der Meeren,Roermond,M,334,00:55:18,00:54:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+418,858,Clemens Horbach,Roermond,M,335,00:55:21,00:54:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+419,1231,Jacco Hillenaar,Utrecht,M,336,00:55:23,00:54:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+420,883,Tom Peeters,Roermond,M,337,00:55:23,00:54:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+421,1373,Erik Ridderbeek,Posterholt,M,338,00:55:31,00:54:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+422,3030,Jan Palmen,Merkelbeek,M,339,00:55:33,00:53:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+423,973,Sicco van Nes,Roermond,M,340,00:55:33,00:53:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+424,2814,Ilse Clevers,Herten,V,83,00:55:35,00:53:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+425,1079,Loes Hanraets,Venlo,V,84,00:55:36,00:55:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+426,826,Marvin Deonisia,Herkenbosch,M,341,00:55:41,00:54:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+427,1710,Earl Chittick,Bergen Lb,M,342,00:55:41,00:54:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+428,306,Ralf Beckers,Wessem,M,343,00:55:42,00:54:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+429,1159,Lieke Mansvelt,Heythuysen,V,85,00:55:42,00:54:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+430,326,Winfred BeyersbergenvanHenegouwen,Leiden,M,344,00:55:44,00:54:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+431,3038,Loes Mahieu,Tilburg,V,86,00:55:45,00:54:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+432,1346,Janneke Verdonk,'s-Gravenhage,V,87,00:55:47,00:55:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+433,2005,Susan Janssen,Rabobank Roermond-Echt,V,88,00:55:47,00:55:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+434,1326,Marc Heijdt,Venlo,M,345,00:55:48,00:55:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+435,932,Etienne Hendrickx,Roermond,M,346,00:55:50,00:55:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+436,1637,Colin Koopmans,Reuver,M,347,00:55:50,00:54:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+437,1643,Jeroen Schreurs,Echt,M,348,00:55:51,00:54:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+438,2000,Yvonne Vilardell,Rabobank Roermond-Echt,V,89,00:55:53,00:55:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+439,1920,Ermie van Tiel,Dennenmarken,V,90,00:55:54,00:55:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+440,1130,Arnold Boekhoud,Loon op Zand,M,349,00:55:55,00:54:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+441,609,Huub JOris,Swift,M,350,00:55:55,00:55:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+442,200,JOrgen Braun,Bergisch Gladbach,M,351,00:55:56,00:55:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+443,1890,Danny Hendriks,Novotec BV,M,352,00:55:57,00:55:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+444,3236,Peter Bongers,Echt,M,353,00:56:01,00:54:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+445,1315,Ruud Vossen,Roermond,M,354,00:56:01,00:54:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+446,612,Ellen Ruiters,Heerlen,V,91,00:56:04,00:54:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+447,374,Ron Wilms,Reuver,M,355,00:56:05,00:55:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+448,2794,John Feijen,Nederweert-Eind,M,356,00:56:05,00:55:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+449,1158,Inge Vogels,Swift,V,92,00:56:06,00:55:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+450,854,Herman de Bruijn,Atletiek Helden,M,357,00:56:07,00:55:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+451,869,Mark Maessen,Roermond,M,358,00:56:08,00:55:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+452,3137,Oliver Jahn,Roermond,M,359,00:56:09,00:54:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+453,3217,Herm Geraedts,Swalmen,M,360,00:56:10,00:54:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+454,1509,Caroline Ververs,Herten,V,93,00:56:10,00:54:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+455,2258,Lisette Heynen,Designer Outlet Roermond,V,94,00:56:14,00:55:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+456,2262,Bas Hoekstra,Designer Outlet Roermond,M,361,00:56:14,00:55:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+457,1959,Marielle van Keulen,Rockwool BV,V,95,00:56:16,00:56:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+458,2017,Martijn van Hees,Holbox,M,362,00:56:19,00:56:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+459,1394,Luc Cox,Maasbracht,M,363,00:56:19,00:55:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+460,107,John Roemen,Swalmen,M,364,00:56:20,00:55:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+461,3237,Mathijs Bongers,Echt,M,365,00:56:21,00:54:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+462,751,TW Wong,Geldrop,M,366,00:56:23,00:55:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+463,1051,Jo Evers,Atletiek Helden,M,367,00:56:25,00:55:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+464,394,RenO Thomassen,Herten,M,368,00:56:25,00:55:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+465,660,Bart Bos,Venlo,M,369,00:56:26,00:55:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+466,2782,Paul de Rijk,Linne,M,370,00:56:28,00:54:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+467,2958,DaniOlle Waajen,Swift,V,96,00:56:28,00:55:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+468,1881,Patrick Bloem,gemeente Roermond,M,371,00:56:28,00:56:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+469,437,Bianca Hendrickx,Reuver,V,97,00:56:32,00:55:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+470,2938,RenO Franssen,Roermond,M,372,00:56:33,00:55:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+471,1879,Ingrid Cuenen,gemeente Roermond,V,98,00:56:34,00:56:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+472,673,Brigitte Ramakers,Roggel,V,99,00:56:34,00:55:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+473,706,Ad Lenaerts,Atletiek Leudal,M,373,00:56:34,00:55:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+474,566,Herbert Rosen,Leverkusen,M,374,00:56:35,00:55:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+475,748,Paula Odekerken,Geleen,V,100,00:56:35,00:55:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+476,2887,Karl van Emmerik,Linne,M,375,00:56:36,00:55:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+477,3193,Guiseppe Fusco,Geilenkirchen,M,376,00:56:40,00:54:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+478,1367,Gerard Kempkes,Grathem,M,377,00:56:41,00:55:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+479,2929,Elise Verhees,Swift,V,101,00:56:44,00:55:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+480,3009,Monique Deckers,Herten,V,102,00:56:46,00:56:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+481,3010,Roel Willems,Herten,M,378,00:56:46,00:56:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+482,3125,Claire van het Erve,Roermond,V,103,00:56:46,00:56:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+483,1036,Loek Christis,Reuver,M,379,00:56:48,00:55:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+484,182,Marjo Simons,Beesel,V,104,00:56:50,00:55:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+485,1000,Roel Manders,Herten,M,380,00:56:52,00:55:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+486,3012,Stefan Theunissen,Heerlen,M,381,00:56:54,00:55:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+487,500,Vivian Houben,Nijmegen,V,105,00:56:55,00:55:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+488,789,Janou Slabbers,Linne,V,106,00:56:56,00:55:59,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+489,2863,Peter Hannen,Linne,M,382,00:56:56,00:56:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+490,788,Moniek Peeters,Maasbracht,V,107,00:56:56,00:56:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+491,2266,Annemieke Spekking,CONTOUR Accountants,V,108,00:56:59,00:55:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+492,2822,Nellie Carrilho,Maastricht,V,109,00:57:01,00:55:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+493,3135,Marc Bonne,Echt,M,383,00:57:01,00:55:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+494,1692,Erwin Pieters,Gronsveld,M,384,00:57:04,00:56:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+495,2974,Ina van Haeff,Roermond,V,110,00:57:05,00:56:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+496,1374,Esther Lamboo,Roermond,V,111,00:57:06,00:55:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+497,1654,Rolf Moesker,Nijmegen,M,385,00:57:06,00:56:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+498,681,Bart Crombach,Tegelen,M,386,00:57:07,00:55:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+499,2968,Janske Schrijnemaekers,Rotterdam,V,112,00:57:10,00:55:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+500,377,Nunzio Napolitano,Reuver,M,387,00:57:10,00:56:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+501,514,Richard van Kessel,Herten,M,388,00:57:11,00:56:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+502,1224,Waltje Janssens,Haelen,M,389,00:57:13,00:56:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+503,622,Ron Verstappen,Haelen,M,390,00:57:15,00:56:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+504,624,Sanne Greve,Heel,V,113,00:57:16,00:56:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+505,1901,Thijs Seijkens,LinK Finance,M,391,00:57:17,00:56:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+506,1973,Dick Snellenberg,Rockwool BV,M,392,00:57:19,00:57:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+507,3046,Maud Boonen,Herten,V,114,00:57:20,00:56:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+508,2852,Martijn de Leeuw,Ospel,M,393,00:57:21,00:55:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+509,1935,Henri Vermeulen,Smurfit Kappa Roermond Papier,M,394,00:57:22,00:57:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+510,201,Dennis Hendrikx,Venlo,M,395,00:57:23,00:56:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+511,2936,Gert van Heuvelen,Herten,M,396,00:57:23,00:55:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+512,981,Joop van Doorn,Roermond,M,397,00:57:23,00:55:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+513,781,Guido Hennissen,Roermond,M,398,00:57:24,00:56:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+514,444,Peter van der Zander,Herten,M,399,00:57:24,00:56:35,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+515,1332,Ruud Lepsi,Reuver,M,400,00:57:25,00:56:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+516,851,Jules Verheesen,Roermond,M,401,00:57:25,00:55:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+517,1238,Bart Strang,Echt,M,402,00:57:30,00:56:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+518,2735,Aidan van Latestein,Roermond,M,403,00:57:30,00:55:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+519,2027,Joost Lenders,Kragten,M,404,00:57:33,00:57:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+520,2557,Steph de Graaf,Eindhoven,M,405,00:57:36,00:56:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+521,2830,Mariska de Graaf-Homan,GVAC,V,115,00:57:36,00:56:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+522,3058,Rianne Stams,Echt,V,116,00:57:36,00:56:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+523,517,Angele Geerlings,Swalmen,V,117,00:57:38,00:56:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+524,928,Renata de Jong,Breda,V,118,00:57:38,00:56:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+525,179,Danielle Bekkers,Melick,V,119,00:57:44,00:56:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+526,1924,Con Storm,Dennenmarken,M,406,00:57:45,00:57:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+527,381,Charlotte van Lieshout,Herten,V,120,00:57:45,00:56:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+528,992,Axel Hovestad,Linne,M,407,00:57:46,00:56:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+529,2014,Veerle Kloth,Rabobank Roermond-Echt,V,121,00:57:48,00:57:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+530,2013,Hans Franssen,Rabobank Roermond-Echt,M,408,00:57:49,00:57:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+531,2015,Gertje Rutten,Rabobank Roermond-Echt,V,122,00:57:49,00:57:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+532,2012,Simon Amkreutz,Rabobank Roermond-Echt,M,409,00:57:50,00:57:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+533,3206,Eric Eijckmans,laakdal,M,410,00:57:52,00:56:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+534,402,Monique Hoeijmakers,Roermond,V,123,00:57:55,00:57:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+535,2002,Ruud Schulpen,Rabobank Roermond-Echt,M,411,00:57:57,00:57:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+536,1689,Manon Verdonschot,Herten,V,124,00:57:57,00:57:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+537,3127,Veroni Barten,Horn,V,125,00:57:59,00:56:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+538,1368,Joost Jeurens,Roermond,M,412,00:57:59,00:56:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+539,652,Nick van Loon,Tilburg,M,413,00:58:02,00:57:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+540,246,Michael Schulz,Viersen,M,414,00:58:03,00:57:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+541,1873,RenO Mahieu,gemeente Roermond,M,415,00:58:06,00:57:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+542,3136,Tristan Snijder,Roermond,M,416,00:58:07,00:56:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+543,771,Huub Hautus,Roermond,M,417,00:58:09,00:57:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+544,732,Dominika Dankbaar,Wageningen,V,126,00:58:10,00:56:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+545,114,Frank van Kempen,Horn,M,418,00:58:10,00:56:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+546,1001,Joyce Snackers,Roermond,V,127,00:58:11,00:57:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+547,3242,Guido Beusen,Roermond,M,419,00:58:12,00:56:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+548,2815,Saskia Coolen,Eindhoven,V,128,00:58:16,00:56:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+549,1321,Di van Leerdam,Kessel Lb,M,420,00:58:16,00:58:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+550,1320,Fa van Leerdam,Kessel Lb,V,129,00:58:16,00:58:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+551,238,Lotje Cox,Swift,V,130,00:58:17,00:57:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+552,919,Maria Van Dam,Herten,V,131,00:58:18,00:57:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+553,918,Ron Diepstraten,Munstergeleen,M,421,00:58:21,00:57:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+554,1921,Bianca Mullenders,Dennenmarken,V,132,00:58:22,00:57:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+555,1218,Ruud Mullenders,Elsloo Lb,M,422,00:58:23,00:57:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+556,236,Chris Schmitz,Heythuysen,M,423,00:58:27,00:57:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+557,3098,Janneke Hintzen,Stevensweert,V,133,00:58:27,00:56:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+558,853,Marit van der Meulen,Roermond,V,134,00:58:28,00:57:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+559,657,Mirthe Kleinjans,Nieuwstadt,V,135,00:58:28,00:57:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+560,825,Marja de Klein,Roermond,V,136,00:58:29,00:57:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+561,1098,Sanya Koster,Venlo,V,137,00:58:30,00:57:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+562,1747,Leonie Paulis,Roermond,V,138,00:58:37,00:57:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+563,1928,Marlon Mussers,Dennenmarken,M,424,00:58:37,00:58:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+564,3079,Bart SchroOn,Haelen,M,425,00:58:38,00:57:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+565,637,Loek Arts,Haelen,M,426,00:58:38,00:57:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+566,1946,Erik van den Bos,Smurfit Kappa Roermond Papier,M,427,00:58:39,00:58:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+567,1108,Angelique Meuwissen,Banholt,V,139,00:58:39,00:58:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+568,308,Theolien Nauts,Unitas,V,140,00:58:40,00:57:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+569,586,Nicole Reintjens,Meerssen,V,141,00:58:42,00:57:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+570,577,Cristel Pepels,Caesar,V,142,00:58:42,00:57:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+571,1099,DaniOl Classen,Venlo,M,428,00:58:42,00:57:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+572,3213,Marcel Janssen,Posterholt,M,429,00:58:43,00:57:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+573,845,Tamaico Boers,Venlo,M,430,00:58:43,00:58:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+574,225,Charlot Koppen,Ospel,V,143,00:58:45,00:58:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+575,1930,Jill Wolters,Dennenmarken,V,144,00:58:48,00:58:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+576,1925,Kai van Hofwegen,Dennenmarken,V,145,00:58:48,00:58:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+577,999,Tom Danko,Stevensweert,M,431,00:58:48,00:57:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+578,1437,Chrit Nijskens,Maasbracht,M,432,00:58:51,00:57:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+579,2964,Marcel Sikkes,Wessem,M,433,00:58:53,00:57:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+580,874,John Tummers,Herten,M,434,00:58:56,00:57:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+581,2780,Anke van Willick,Reuver,V,146,00:58:57,00:57:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+582,2747,Ans Stoks,Herkenbosch,V,147,00:59:00,00:57:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+583,1334,Wim Vergoossen,Herten,M,435,00:59:06,00:57:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+584,958,Emilie Schroeten,Baexem,V,148,00:59:07,00:58:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+585,1044,Marcel Van den Heuvel,Haelen,M,436,00:59:07,00:58:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+586,739,Jan Willem BOschen,Stevensweert,M,437,00:59:08,00:58:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+587,1949,Marco HOngen,Smurfit Kappa Roermond Papier,M,438,00:59:11,00:59:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+588,856,Wim Slijpen,Roermond,M,439,00:59:13,00:58:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+589,1923,Joyce Neelen,Dennenmarken,V,149,00:59:21,00:59:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+590,2264,Yvonne Einig,Boels Zanders Advocaten,V,150,00:59:22,00:58:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+591,2265,Thomas Boontje,Boels Zanders Advocaten,M,440,00:59:22,00:58:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+592,2709,Sanne Teeuwen,Maasbree,V,151,00:59:23,00:57:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+593,2708,Sjoerd Teeuwen,Maasbree,M,441,00:59:23,00:57:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+594,1139,Rochelle Pijpers,Venlo,V,152,00:59:23,00:58:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+595,1014,Roswitha Verboeket,DOsseldorf,V,153,00:59:25,00:58:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+596,439,Marlieke Engelen,Loopsport Groningen,V,154,00:59:26,00:58:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+597,440,Jos Engelen,Haelen,M,442,00:59:26,00:58:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+598,188,Dirk van Deelen,Amsterdam,M,443,00:59:30,00:57:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+599,852,Ruurd Posthumus,Roermond,M,444,00:59:32,00:58:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+600,548,Roel Sonnemans,Roermond,M,445,00:59:32,00:58:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+601,3074,Wilbert Ties,Herten,M,446,00:59:34,00:58:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+602,556,Helga Smeets,Sint Odilienberg,V,155,00:59:35,00:58:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+603,998,Anita Dings,Herten,V,156,00:59:35,00:58:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+604,494,Koot Engel,Roermond,M,447,00:59:35,00:58:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+605,215,Edward van Cruchten,Herkenbosch,M,448,00:59:37,00:58:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+606,495,Annemarij Thijssen,Bunde,V,157,00:59:37,00:58:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+607,247,Klazien Geurts,Maastricht,V,158,00:59:38,00:58:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+608,753,Marlies Hilkens-Hamers,Unitas,V,159,00:59:38,00:58:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+609,325,Werner JoeriOen,Selfkant,M,449,00:59:39,00:58:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+610,1429,Chrissy Geraets,Reuver,V,160,00:59:40,00:58:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+611,711,Josine Tans,Ittervoort,V,161,00:59:42,00:58:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+612,1033,Arno Knapen,Deurne,M,450,00:59:43,00:58:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+613,831,Ben Sampers,Roermond,M,451,00:59:47,00:58:37,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+614,698,Jackie van Kimmenade,Ittervoort,V,162,00:59:48,00:58:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+615,1665,Kevin Moonen,Geleen,M,452,00:59:48,00:59:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+616,3017,Olaf Op den Camp,Aarle-Rixtel,M,453,00:59:49,00:58:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+617,2018,Jeanette Evers,Holbox,V,163,00:59:52,00:59:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+618,655,Joyce Vaessen,Ohe en Laak,V,164,00:59:52,00:58:43,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+619,189,Erwin Dekker,Zaandam,M,454,00:59:53,00:59:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+620,244,Paul Beek,Grathem,M,455,00:59:54,00:58:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+621,2850,Bram Brandsma,Maastricht,M,456,00:59:55,00:58:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+622,281,Reina Janssen,Melick,V,165,00:59:58,00:58:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+623,1165,Tom Korten,Roermond,M,457,01:00:04,00:59:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+624,592,Hein Timmermans,Herten,M,458,01:00:08,00:58:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+625,1706,Sjoerd Versteeg,Geleen,M,459,01:00:10,00:58:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+626,1428,Ellen Slenter,Geleen,V,166,01:00:10,00:58:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+627,3190,Luciano Di Sarno,Gangelt,M,460,01:00:12,00:58:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+628,1672,Mariette Hanssen,Roermond,V,167,01:00:18,00:59:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+629,2874,Tara Bonne,Herkenbosch,V,168,01:00:19,00:59:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+630,102,Rob Visser,Grathem,M,461,01:00:19,00:58:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+631,1432,Monica mager,Roermond,V,169,01:00:19,00:58:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+632,125,Yvon Tellekamp,Swalmen,V,170,01:00:20,00:59:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+633,1469,Tony Tonnaer,Roermond,M,462,01:00:21,00:58:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+634,2864,Maarten Chantrel,Roermond,M,463,01:00:23,00:58:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+635,2865,Marielle Walpot,Gorinchem,V,171,01:00:23,00:58:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+636,272,Lo van den Beuken,Sint Odilienberg,M,464,01:00:24,00:59:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+637,1119,Astrid Peusen-Feijts,Echt,V,172,01:00:25,00:58:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+638,174,Dirk Leijendeckers,Helmond,M,465,01:00:29,00:59:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+639,990,Freek Jetten,Dutch Runners,M,466,01:00:29,00:59:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+640,2725,Rudi Theuerzeit,Geleen,M,467,01:00:35,00:59:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+641,1181,Paul Slabbers,Linne,M,468,01:00:42,00:59:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+642,1944,Aline Potier,Smurfit Kappa Roermond Papier,V,173,01:00:49,01:00:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+643,1942,Remi Poirson,Smurfit Kappa Roermond Papier,M,469,01:00:49,01:00:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+644,735,Marcel Schoenmakers,Roermond,M,470,01:00:50,00:59:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+645,2797,Arkadiusz Blania,Tegelen,M,471,01:00:51,00:59:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+646,1554,Olav Braunbach-Bakhuijs,Sint Odilienberg,M,472,01:00:52,01:00:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+647,534,Ellen Wolters,Herkenbosch,V,174,01:00:54,00:59:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+648,1032,Chantal van den Beuken,Kessel Lb,V,175,01:00:55,01:00:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+649,1103,Judith Princen,Atletiek Leudal,V,176,01:00:59,00:59:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+650,1900,Hans Tenten,Het Rughuis,M,473,01:00:59,01:00:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+651,253,Christel Kierkels,Swift,V,177,01:00:59,01:00:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+652,535,Miranda Raemakers,Herkenbosch,V,178,01:01:02,01:00:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+653,2106,Leon Adams,Rabobank Roermond-Echt,M,474,01:01:05,01:00:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+654,422,Lydie Van Heel,Maastricht,V,179,01:01:06,00:59:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+655,2010,Ed Kroes,Rabobank Roermond-Echt,M,475,01:01:08,01:00:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+656,388,Judith Cranssen,Herten,V,180,01:01:09,01:00:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+657,905,Erno Van Nes,Roermond,M,476,01:01:10,00:59:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+658,725,Puk Dirkx,Herten,V,181,01:01:10,00:59:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+659,322,Eline Welling,'s-Hertogenbosch,V,182,01:01:12,01:00:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+660,3076,Iris Zwaan,Herten,V,183,01:01:15,00:59:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+661,232,Joke Coulen,Roermond,V,184,01:01:17,01:00:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+662,1470,Talitha Kunneman,Nijmegen,V,185,01:01:26,00:59:50,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+663,2840,Inge Tonnaer,Grubbenvorst,V,186,01:01:29,00:59:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+664,2016,Martine Winkelmolen,Holbox,V,187,01:01:30,01:01:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+665,573,Mark Ossen,Road Runners Zeist,M,477,01:01:30,01:00:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+666,572,Mo Otten,Road Runners Zeist,V,188,01:01:30,01:00:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+667,1069,Paul de Bijl,Venlo,M,478,01:01:32,00:59:46,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+668,3128,Guy Vaessen,Roermond,M,479,01:01:34,00:59:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+669,2841,Pascal Thiesen,Roermond,M,480,01:01:34,00:59:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+670,3022,Thei Schreurs,Herten,M,481,01:01:39,01:00:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+671,1392,Marco Melis,Breda,M,482,01:01:40,01:00:44,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+672,2712,Aggie Guffens,Herten,V,189,01:01:43,01:00:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+673,333,Huib Kruf,Eindhoven,M,483,01:01:43,01:00:41,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+674,2007,Frederique Grisnigt,Rabobank Roermond-Echt,V,190,01:01:44,01:01:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+675,442,Danielle Jennissen,Bergen Lb,V,191,01:01:46,01:00:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+676,1948,Lukas Burhart,Smurfit Kappa Roermond Papier,M,484,01:01:47,01:01:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+677,2190,Geert Tegelbeckers,WowDeal B.V.,M,485,01:01:48,01:01:09,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+678,417,Christel Knoops,Roermond,V,192,01:01:49,01:00:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+679,528,Rianne Little,Roermond,V,193,01:01:50,01:00:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+680,1882,Rob Verhey,gemeente Roermond,M,486,01:01:50,01:01:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+681,1350,Paul Wijnen,Reuver,M,487,01:01:51,01:00:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+682,1740,Hamoen Sezavar Shooshtari,Roermond,M,488,01:01:54,01:00:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+683,1251,Karin Mahieu,Swalmen,V,194,01:01:54,01:00:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+684,223,Renee Willems,Roermond,V,195,01:01:56,01:00:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+685,2781,Lesley Geerts,Roermond,M,489,01:01:56,01:00:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+686,1750,Susi Stemmler,Herkenbosch,V,196,01:01:59,01:01:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+687,210,Rob Gelders,Roermond,M,490,01:02:01,01:01:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+688,1043,Leon Linders,Horst,M,491,01:02:02,01:00:55,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+689,2997,John Tromp,Roermond,M,492,01:02:02,01:00:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+690,1042,Chanika Cauven,Venlo,V,197,01:02:07,01:01:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+691,1050,Diana Beiten,Herten,V,198,01:02:09,01:01:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+692,1903,Karel van Montfort,Swift,M,493,01:02:12,01:02:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+693,770,Michelle Mallie,Roermond,V,199,01:02:16,01:00:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+694,2775,Samantha Spiering,Amsterdam Zuidoost,V,200,01:02:17,01:00:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+695,1510,Tom Jacobs,Roermond,M,494,01:02:17,01:01:26,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+696,1271,Monique Smetsers,Venlo,V,201,01:02:20,01:01:06,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+697,1164,Alex Peters,Roermond,M,495,01:02:21,01:01:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+698,268,Monique Peerlings,Melick,V,202,01:02:28,01:01:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+699,140,AndrO Hekkenberg,Roermond,M,496,01:02:40,01:01:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+700,479,Kim Hilferink,Swift,V,203,01:02:44,01:01:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+701,697,Sanne Hendrikx,Roermond,V,204,01:02:45,01:01:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+702,1255,Vivianne Lauxen,Heel,V,205,01:02:46,01:01:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+703,1366,Danielle Kuijpers,Venlo,V,206,01:02:47,01:01:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+704,2022,Robin Nelissen,Intersport megastore,V,207,01:02:47,01:01:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+705,1491,Bianca Peters,Swift,V,208,01:02:48,01:02:00,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+706,3216,Patrick Craenen,Roermond,M,497,01:02:54,01:01:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+707,1897,Dominique van Melick,Het Rughuis,V,209,01:02:55,01:02:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+708,133,Har Nelissen,Roermond,M,498,01:02:58,01:00:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+709,328,Linda Dentener,Heythuysen,V,210,01:03:03,01:01:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+710,205,Anke Nijskens,Swalmen,V,211,01:03:04,01:01:57,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+711,563,Frank Bouts,Swift,M,499,01:03:07,01:02:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+712,636,Henny Rikers,Swift,M,500,01:03:13,01:02:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+713,1146,Jaroslaw Mamot,Panningen,M,501,01:03:18,01:01:42,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+714,2736,Jadranka Lekic,Roermond,V,212,01:03:28,01:01:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+715,1167,Paul Vogels,Haelen,M,502,01:03:29,01:01:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+716,839,Kris Baens,Neeritter,V,213,01:03:34,01:02:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+717,121,Hoa Ha,Weert,V,214,01:03:39,01:02:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+718,186,Luuk Dijkhuis,Utrecht,M,503,01:03:41,01:01:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+719,2793,Lilian Sniekers,Herten,V,215,01:03:45,01:02:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+720,3145,Juliette Vogels,Haelen,V,216,01:03:45,01:02:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+721,2263,Darrell Dundas,Designer Outlet Roermond,M,504,01:03:46,01:03:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+722,2019,Sander Aben,Holbox,M,505,01:03:47,01:03:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+723,1291,Wai-Mao Chung,Utrecht,M,506,01:03:48,01:02:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+724,2826,Jos van Rij,Weert,M,507,01:03:52,01:02:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+725,1996,Joost Peeters,Team Roerdelta,M,508,01:03:56,01:03:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+726,2006,Lejla Popara,Rabobank Roermond-Echt,V,217,01:04:07,01:03:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+727,762,John Masolijn,Roermond,M,509,01:04:09,01:03:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+728,3192,Kristel Wilms,Herten,V,218,01:04:11,01:02:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+729,423,Yvonne Eggels,Melick,V,219,01:04:15,01:02:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+730,419,Eefje Vogels,Melick,V,220,01:04:15,01:02:45,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+731,1290,Sammi Fung,Utrecht,V,221,01:04:18,01:02:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+732,795,Paul Pollux,Steyl,M,510,01:04:20,01:03:21,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+733,1427,Maaike Beijnvoort,Reuver,V,222,01:04:22,01:02:54,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+734,3231,Bart v Amstel,Roermond,M,511,01:04:24,01:02:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+735,267,Kim Houba,Sevenum,V,223,01:04:26,01:03:34,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+736,911,Esther Kloet,Amsterdam,V,224,01:04:50,01:03:08,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+737,1267,Gabrielle Janssen,Reuver,V,225,01:04:56,01:03:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+738,1266,RenO Van den Borst,Reuver,M,512,01:04:57,01:03:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+739,3239,Rolf Collombon,Heerlen,M,513,01:04:58,01:03:15,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+740,2866,Indra chantrel,Susteren,V,226,01:04:59,01:03:27,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+741,997,Rebecca Slabbers,Swalmen,V,227,01:04:59,01:03:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+742,996,Christa Jonk-Erbel,Swalmen,V,228,01:04:59,01:03:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+743,907,Charlotte Groven,Maastricht,V,229,01:05:00,01:03:16,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+744,1225,Sandra Schiffelers,Gronsveld,V,230,01:05:03,01:03:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+745,951,Larissa Jas,Thorn,V,231,01:05:03,01:03:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+746,952,Maud Corstjens,Thorn,V,232,01:05:04,01:03:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+747,3222,Henrico Janssen,Ittervoort,M,514,01:05:04,01:03:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+748,1677,Eric Cremers,Tegelen,M,515,01:05:05,01:03:36,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+749,351,Ines Becker,Herten,V,233,01:05:05,01:03:53,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+750,384,Rinse Elsinga,Herten,M,516,01:05:08,01:04:05,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+751,651,Nathalie Vermeulen,Ulestraten,V,234,01:05:09,01:03:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+752,850,Michelle Verheesen,Roermond,V,235,01:05:11,01:03:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+753,467,Resy Knapen,Roermond,V,236,01:05:13,01:03:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+754,803,Margret Wolfhagen,NiederkrOchten,V,237,01:05:29,01:04:07,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+755,1565,AdriOnne de Bock,Roermond,V,238,01:05:32,01:04:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+756,1644,Willemijn Eggels,Roermond,V,239,01:05:32,01:04:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+757,539,Weiwen Lau,Roermond,M,517,01:05:32,01:04:17,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+758,1976,Jolanda van Tuil,Rockwool BV,V,240,01:05:34,01:05:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+759,1977,Conny Bolderman,Rockwool BV,V,241,01:05:34,01:05:20,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+760,619,Lieke Kaldenhoven,Herten,V,242,01:05:49,01:04:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+761,3212,Marcel Emans,Reuver,M,518,01:05:51,01:04:01,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+762,340,Joke Wijn,Roermond,V,243,01:05:52,01:04:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+763,418,Anja Weck,Buggenum,V,244,01:05:56,01:04:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+764,147,Nicole Van der Burgt,Weert,V,245,01:06:11,01:04:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+765,1869,Betsie Lafleur,gemeente Roermond,V,246,01:06:15,01:06:04,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+766,653,Renske Boesten,Amsterdam,V,247,01:06:18,01:04:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+767,654,Caro Brouns,Amsterdam,V,248,01:06:18,01:04:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+768,1102,StOphanie van Beers-Vermeer,Generaal Michaelis,V,249,01:06:21,01:04:47,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+769,259,Jill peeters,Sevenum,V,250,01:06:26,01:05:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+770,153,Sherley Penders,Echt,V,251,01:06:32,01:05:24,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+771,319,Marc van Rijn,Horn,M,519,01:06:43,01:04:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+772,318,Will van Rijn,Horn,V,252,01:06:43,01:04:56,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+773,559,Monique Zegveld,Kessel Lb,V,253,01:06:47,01:05:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+774,338,Ingrid Tinnemans - van Pol,Roermond,V,254,01:06:50,01:05:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+775,343,Petra van Genderen,Delft,V,255,01:06:50,01:05:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+776,2731,Ilka Marx,Duesseldorf,V,256,01:06:57,01:05:30,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+777,745,Daisy Ramakers,Dilsen,V,257,01:07:01,01:06:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+778,744,Eric Kluitenberg,Dilsen,M,520,01:07:01,01:06:03,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+779,224,Lisa Ong-aban,Grathem,V,258,01:07:05,01:05:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+780,218,Rebecca van Egeraat,Roggel,V,259,01:07:05,01:05:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+781,2941,Jo Steffanie,Roermond,V,260,01:07:16,01:05:51,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+782,320,Tom Engelen,Melick,M,521,01:07:20,01:06:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+783,2718,Bo Poels,Geldrop,V,261,01:07:21,01:06:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+784,2023,Diede Nelissen,Intersport megastore,V,262,01:07:23,01:06:32,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+785,2021,Silvie Houwers,Intersport megastore,V,263,01:07:23,01:06:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+786,1950,Andreas Kunze,Smurfit Kappa Roermond Papier,M,522,01:07:27,01:07:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+787,1008,Linda Brentjens,Swalmen,V,264,01:07:29,01:06:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+788,1007,Loes Mennen,Linne,V,265,01:07:29,01:06:25,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+789,1645,Dia Pernot,Baexem,V,266,01:07:40,01:06:38,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+790,2259,Renee Hekers,Designer Outlet Roermond,V,267,01:07:47,01:07:31,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+791,285,Kitty Schouwenberg,Tegelen,V,268,01:07:48,01:06:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+792,219,Nicolette van Egeraat,Roggel,V,269,01:07:53,01:06:19,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+793,582,Angelique Limpens,Limbricht,V,270,01:07:55,01:06:29,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+794,906,Giles Gryseels,Maastricht,M,523,01:07:57,01:06:11,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+795,229,Petra Osinga,Wanssum,V,271,01:07:58,01:06:33,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+796,783,Lyan Kuijpers,Swift,V,272,01:08:02,01:07:10,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+797,130,Esther Engelen,Roermond,V,273,01:08:42,01:07:48,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+798,1922,MIranda Janssen,Dennenmarken,V,274,01:08:51,01:08:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+799,1534,Lieke op den Camp,Swalmen,V,275,01:09:07,01:07:28,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+800,1289,Winnie Fung,Utrecht,V,276,01:10:44,01:08:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+801,1288,Wai-Man Chung,Utrecht,M,524,01:10:45,01:08:58,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+802,3241,Daan Janssens,Sint Odilienberg,M,525,01:10:52,01:09:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+803,111,Manouk Janssens,Sint Odilienberg,V,277,01:10:52,01:09:02,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+804,2757,Pien Peeters,Rotterdam,V,278,01:10:53,01:09:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+805,580,Yvonne Janssen,Roermond,V,279,01:10:54,01:09:18,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+806,2963,Esther Brouns,Wessem,V,280,01:11:29,01:09:49,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+807,1484,Esther Pelsser,Heythuysen,V,281,01:12:18,01:10:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+808,1912,Nadine Zeelen,Kasteeltje Hattem,V,282,01:12:51,01:12:14,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+809,1910,Ricardo Huybrechts,Kasteeltje Hattem,M,526,01:13:00,01:12:22,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+810,1035,Lea Christis,Reuver,V,283,01:13:43,01:12:23,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+811,464,Jikke Claessen,Sittard,V,284,01:14:31,01:13:40,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+812,1453,Evelyn Welsing,Son en Breugel,V,285,01:14:42,01:12:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+813,1454,Fons Welsing,Roermond,M,527,01:14:43,01:12:39,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+814,2810,Farnad Nezhad,Steyl,M,528,01:15:23,01:15:13,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+815,2809,Yas Imani,Steyl,V,286,01:15:24,01:15:12,6e Rabobank Roermond City Run 24-04-2016,2016-04-24
+816,421,Tessa Van Heel,Heerlen,V,287,01:17:35,01:15:52,6e Rabobank Roermond City Run 24-04-2016,2016-04-24

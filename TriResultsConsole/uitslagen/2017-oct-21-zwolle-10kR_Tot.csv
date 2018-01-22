@@ -1,0 +1,481 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,race,date
+1,2006,Juriaan Moonen,Zwolle,Msen,1,00:38:28,00:38:22,00:19:02,00:19:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+2,2127,Joost Maaskant,Zwolle,Msen,2,00:38:53,00:38:44,00:19:17,00:19:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+3,2547,Nanno van Dijk,Zwolle,Mvet,1,00:39:02,00:38:47,00:19:27,00:19:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+4,2043,Remy Sijbom,Dalfsen,Msen,3,00:39:18,00:39:00,00:19:41,00:19:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+5,2589,Michiel van Dellen,Zwolle,Mvet,2,00:39:28,00:39:24,00:19:26,00:19:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+6,1460,Thijs van der Haar,Amersfoort,Mvet,3,00:39:29,00:39:23,00:19:44,00:19:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+7,900,R. Keizer,,Mvet,4,00:39:32,00:39:27,00:19:39,00:19:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+8,901,A. Sanderse,,Mvet,5,00:39:45,00:39:33,00:20:23,00:19:11,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+9,2510,Jarno Takens,Zwolle,Mvet,6,00:39:47,00:39:42,00:19:32,00:20:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+10,2616,Jeffrey ter Steege,Zwolle,Mvet,7,00:39:52,00:39:47,00:19:27,00:20:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+11,2285,Hinke Schokker,Groningen,Vsen,1,00:39:53,00:39:42,00:19:28,00:20:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+12,2469,Bernard Dummer,Zwolle,Mvet,8,00:39:57,00:39:54,00:20:18,00:19:36,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+13,2362,Renze Zijlstra,Zwolle,Mvet,9,00:39:59,00:39:55,00:19:35,00:20:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+14,2112,Robert van Kleef,Zwolle,Msen,4,00:40:07,00:40:03,00:20:08,00:19:55,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+15,2903,Remco Beumer,Raalte,Mvet,10,00:40:16,00:40:14,00:19:45,00:20:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+16,2575,Ronny Veldman,Zwolle,Mvet,11,00:40:29,00:40:26,00:19:48,00:20:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+17,2118,Michiel marsman,Zwolle,Msen,5,00:40:46,00:40:43,00:19:36,00:21:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+18,2610,Paul IJmker,Woudenberg,Mvet,12,00:40:58,00:40:53,00:20:31,00:20:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+19,2478,Jan Willem Francke,Zwolle,Mvet,13,00:41:01,00:40:57,00:20:23,00:20:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+20,2113,Matthias Kruisselbrink,Zwolle,Msen,6,00:41:28,00:41:22,00:20:50,00:20:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+21,2312,Marcel Wichers,Hattem,Mvet,14,00:41:29,00:41:26,00:20:10,00:21:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+22,903,Stefan Koopman,Zwolle,Msen,7,00:41:30,00:41:25,00:20:44,00:20:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+23,2559,Gerrit van 't Ende,Zwolle,Mvet,15,00:41:36,00:41:31,00:20:17,00:21:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+24,2356,Sarah-Lynn Reuver,,Vsen,2,00:41:40,00:41:34,00:20:21,00:21:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+25,2028,Niek Koppenaal,Zwolle,Msen,8,00:41:49,00:41:43,00:21:06,00:20:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+26,2021,Edwin Gerritsen,Zwolle,Msen,9,00:41:50,00:41:45,00:20:29,00:21:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+27,2414,Martin van der Spek,Zwolle,Mvet,16,00:41:53,00:41:45,00:20:39,00:21:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+28,2009,Hans van Berkum,Zwolle,Msen,10,00:41:55,00:41:49,00:21:08,00:20:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+29,2007,Robbert Veenstra,Zwolle,Msen,11,00:41:55,00:41:45,00:20:36,00:21:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+30,2617,Nico Kropman,Zwolle,Mvet,17,00:41:57,00:41:41,00:20:34,00:21:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+31,2612,Bouke van der Veen,Zwolle,Mvet,18,00:42:01,00:41:58,00:20:38,00:21:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+32,2447,Dennis Brandenburg,Steenwijk,Mvet,19,00:42:02,00:41:55,00:20:32,00:21:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+33,2487,Paul ter Maat,Zwolle,Mvet,20,00:42:14,00:42:06,00:20:49,00:21:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+34,2333,Herwin Hasewinkel,Zwolle,Mvet,21,00:42:23,00:42:17,00:20:44,00:21:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+35,2301,Huib Liefhebber,Zwolle,Mvet,22,00:42:33,00:42:29,00:20:43,00:21:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+36,2089,Jorn Spekschate,Olst,Msen,12,00:42:35,00:41:59,00:20:51,00:21:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+37,2594,Kurt van de Nes,Zwolle,Mvet,23,00:42:37,00:42:34,00:21:02,00:21:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+38,2492,Joris van Loon,Zwolle,Mvet,24,00:42:40,00:42:28,00:21:08,00:21:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+39,2344,Rudi Selhorst,Zwolle,Mvet,25,00:42:41,00:42:35,00:21:05,00:21:31,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+40,2337,Hans Wieltink,Zwolle,Mvet,26,00:42:44,00:42:40,00:21:13,00:21:27,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+41,2555,Marc Noorda,Zwolle,Mvet,27,00:42:47,00:42:40,00:21:09,00:21:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+42,2266,Wilma van der Geer,Zwolle,Vsen,3,00:42:49,00:42:42,00:21:42,00:21:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+43,2348,Van Weringh,Zwolle,Mvet,28,00:42:52,00:42:46,00:21:12,00:21:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+44,2789,Debora Messelink,Zwolle,Vvet,1,00:42:53,00:42:46,00:21:13,00:21:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+45,2003,Lambert Abraham,Zwolle,Msen,13,00:43:00,00:42:54,00:21:23,00:21:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+46,2972,Paul Talens,Laag Zuthem,Mvet,29,00:43:01,00:42:50,00:20:58,00:21:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+47,2552,Anne Pruim,Zwolle,Mvet,30,00:43:06,00:42:44,00:21:53,00:20:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+48,2094,Martin Boezelman,Hasselt,Msen,14,00:43:07,00:42:58,00:21:18,00:21:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+49,2024,Mike Mekking,Zwolle,Msen,15,00:43:17,00:43:03,00:20:52,00:22:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+50,2733,Patrick Gums,Zwolle,Mvet,31,00:43:17,00:43:13,00:21:09,00:22:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+51,2098,Jochem Emmen,Wageningen,Msen,16,00:43:20,00:43:07,00:21:26,00:21:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+52,2444,Berno van 't Hul,Zwolle,Mvet,32,00:43:22,00:42:50,00:21:17,00:21:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+53,2515,Henk Jan van Gerner,Zwolle,Mvet,33,00:43:26,00:43:24,00:21:11,00:22:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+54,2317,Jan Maarten Plaggenmarsch,Zwolle,Mvet,34,00:43:29,00:43:09,00:21:57,00:21:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+55,2110,Eddie van den Berg,Hasselt,Msen,17,00:43:32,00:43:20,00:21:38,00:21:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+56,2418,Bas van Luijk,Zwolle,Mvet,35,00:43:40,00:43:34,00:21:45,00:21:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+57,2330,Guy Slikker,Zwolle,Mvet,36,00:43:40,00:43:32,00:21:35,00:21:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+58,2572,Henry Bruins,Hattem,Mvet,37,00:43:42,00:43:29,00:22:01,00:21:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+59,2103,Johannes Kolkman,Zwolle,Msen,18,00:43:49,00:43:13,00:22:02,00:21:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+60,2082,Gert Kloosterman,Genemuiden,Msen,19,00:43:52,00:43:37,00:21:30,00:22:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+61,2248,Lianne Vlieger,Zwolle,Vsen,4,00:44:18,00:44:05,00:21:16,00:22:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+62,2459,Rufus van den Berg,Zwolle,Mvet,38,00:44:20,00:44:07,00:22:02,00:22:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+63,2564,Erwin Booy,Zwolle,Mvet,39,00:44:23,00:44:15,00:22:11,00:22:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+64,2508,Harold Wolf,Almelo,Mvet,40,00:44:24,00:44:00,00:22:44,00:21:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+65,2506,Bart Jeurnink,Zwolle,Mvet,41,00:44:28,00:44:25,00:21:11,00:23:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+66,2264,Iris Wessels,Dalen,Vsen,5,00:44:28,00:44:01,00:21:51,00:22:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+67,2060,Geert van der Veen,Zwolle,Msen,20,00:44:32,00:44:23,00:22:17,00:22:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+68,2066,Niels Barneveld,Zwolle,Msen,21,00:44:41,00:44:31,00:22:04,00:22:27,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+69,2050,Ronald Zwarts,Zwolle,Msen,22,00:44:44,00:44:32,00:22:02,00:22:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+70,2313,Iwan Brink,Zwolle,Mvet,42,00:44:45,00:44:40,00:21:37,00:23:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+71,2123,Jan Willem Hidding,Zwolle,Msen,23,00:44:48,00:44:39,00:22:04,00:22:36,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+72,2051,Stijn de Jong,Zwolle,Msen,24,00:44:53,00:44:13,00:22:12,00:22:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+73,2001,Kevin Feijth,Zwolle,Msen,25,00:44:56,00:44:49,00:21:37,00:23:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+74,2208,Ties-Jan Jansen,Zwolle,Msen,26,00:44:59,00:44:45,00:22:29,00:22:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+75,2095,Jeroen Tuin,Zwolle,Msen,27,00:45:00,00:44:56,00:22:40,00:22:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+76,2611,Paul van Snick,Groningen,Mvet,43,00:45:03,00:44:37,00:22:12,00:22:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+77,2025,Gerrald Beens,Hasselt,Msen,28,00:45:07,00:44:57,00:22:49,00:22:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+78,2304,Vincent Michielsen,Zwolle,Mvet,44,00:45:10,00:44:52,00:21:59,00:22:54,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+79,2425,Bulent Cobanoglu,Zwolle,Mvet,45,00:45:11,00:45:06,00:22:37,00:22:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+80,2260,Dirk van den Berg,IJsselmuiden,Msen,29,00:45:12,00:44:53,00:23:08,00:21:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+81,2117,Jorim den Hertog,Haarlem,Msen,30,00:45:14,00:45:10,00:23:00,00:22:11,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+82,2553,Maarten Vos,Zwolle,Mvet,46,00:45:22,00:45:17,00:22:30,00:22:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+83,2010,Joost Wolbink,Zwolle,Msen,31,00:45:24,00:45:09,00:22:46,00:22:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+84,2055,Vd klogt,Hasselt,Msen,32,00:45:29,00:45:19,00:22:35,00:22:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+85,2618,Mark Duinkerken,,Mvet,47,00:45:30,00:45:04,00:22:44,00:22:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+86,2854,Bert Sieben,,Mvet,48,00:45:31,00:45:24,00:22:33,00:22:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+87,2497,Hans van den Arend,Zwolle,Mvet,49,00:45:33,00:45:01,00:22:56,00:22:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+88,2033,Martijn Koolstra,Zwolle,Msen,33,00:45:36,00:44:55,00:23:37,00:21:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+89,2851,Robert de Goeij,,Msen,34,00:45:46,00:45:38,00:22:37,00:23:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+90,2399,Ramon van Enk,,Mvet,50,00:45:50,00:45:26,00:23:11,00:22:15,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+91,2588,Arjan Kuiperij,Zwolle,Mvet,51,00:45:50,00:45:37,00:23:09,00:22:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+92,2820,Sandra Dekker,Zwolle,Vvet,2,00:45:58,00:45:51,00:22:54,00:22:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+93,2543,Louis Zandbergen,Zwolle,Mvet,52,00:46:01,00:45:53,00:22:58,00:22:55,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+94,2608,Simon van Geest,Zwolle,Mvet,53,00:46:03,00:45:48,00:23:09,00:22:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+95,2030,Jan Eisse de Haan,Zwolle,Msen,35,00:46:06,00:46:00,00:22:43,00:23:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+96,2519,Jan Kieftenbeld,Zwolle,Mvet,54,00:46:07,00:45:51,00:23:19,00:22:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+97,2323,Martijn Pool,Zwolle,Mvet,55,00:46:09,00:45:42,00:22:44,00:22:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+98,2375,Arjan Kruise,Zwolle,Mvet,56,00:46:13,00:46:00,00:22:40,00:23:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+99,1517,Chris Reuvekamp,,Mvet,57,00:46:22,00:46:01,00:23:04,00:22:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+100,2129,Bart Maarse,Zwolle,Msen,37,00:46:24,00:45:49,00:22:32,00:23:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+101,911,Mohammad Formoli,,Msen,36,00:46:24,00:46:13,00:22:57,00:23:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+102,2354,Michel Matteman,Zwolle,Mvet,58,00:46:26,00:46:14,00:23:11,00:23:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+103,2374,Jeroen van Beek,Zwolle,Mvet,59,00:46:32,00:46:28,00:23:08,00:23:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+104,2345,Chris Knol,Zwolle,Mvet,60,00:46:33,00:46:24,00:23:01,00:23:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+105,2372,Eric Veldkamp,Zwolle,Mvet,61,00:46:37,00:46:27,00:23:11,00:23:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+106,2302,Johan Hukema,Zwolle,Mvet,62,00:46:42,00:46:37,00:22:57,00:23:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+107,2416,Jan Wessel Beekman,Zwolle,Mvet,64,00:46:49,00:46:20,00:23:17,00:23:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+108,2096,Dirkjan de Groot,Zwolle,Msen,38,00:46:50,00:46:16,00:23:03,00:23:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+109,2720,Wencke Beerens,Raalte,Vvet,3,00:46:51,00:46:45,00:23:19,00:23:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+110,2360,Arno van Breukelen,Zwolle,Mvet,65,00:46:55,00:46:44,00:23:24,00:23:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+111,2573,Ralph Haze,Zwolle,Mvet,66,00:46:58,00:46:31,00:23:20,00:23:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+112,2271,Nardie Mulder,Zwolle,Vsen,6,00:46:58,00:46:52,00:23:08,00:23:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+113,2035,Dennis Spijkerboer,Zwolle,Msen,39,00:46:59,00:46:54,00:22:58,00:23:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+114,2503,BerendJan Engels,Zwolle,Mvet,67,00:47:00,00:46:52,00:22:33,00:24:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+115,2346,Robin everaars,Zwolle,Mvet,68,00:47:00,00:46:52,00:23:03,00:23:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+116,2289,Tessa van den Berg,Vollenhove,Vsen,7,00:47:02,00:46:37,00:23:24,00:23:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+117,2850,Jimmy Veldman,,Mvet,69,00:47:06,00:47:02,00:22:30,00:24:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+118,2613,Bert Kleiboer,Zwolle,Mvet,70,00:47:10,00:46:36,00:23:32,00:23:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+119,2776,Amyke Veurink,Zwolle,Vvet,4,00:47:11,00:47:05,00:23:10,00:23:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+120,2338,Sjon de Vries,Zwolle,Mvet,71,00:47:22,00:47:00,00:23:52,00:23:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+121,2335,Ronald Arendsen,Zwolle,Mvet,72,00:47:24,00:46:53,00:23:11,00:23:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+122,2595,Marco de Boer,Kampen,Mvet,73,00:47:25,00:47:15,00:23:28,00:23:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+123,2607,Joost Bruggeman,Raalte,Mvet,74,00:47:25,00:47:08,00:23:35,00:23:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+124,2601,Pim Warntjes,Zwolle,Mvet,75,00:47:29,00:47:15,00:23:27,00:23:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+125,2037,Ronald van der Hulst,Zwolle,Msen,40,00:47:32,00:47:16,00:22:57,00:24:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+126,2540,Michiel Blankvoort,Zwolle,Mvet,76,00:47:33,00:47:25,00:23:11,00:24:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+127,2016,Henk van Dorp,Zwolle,Msen,41,00:47:44,00:47:26,00:23:08,00:24:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+128,2571,Willem te Vogt,Zwolle,Mvet,77,00:47:48,00:46:59,00:23:47,00:23:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+129,2496,Mark Pasman,Zwolle,Mvet,78,00:47:50,00:47:37,00:24:01,00:23:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+130,2318,Evert Brouwer,Zwolle,Mvet,79,00:47:52,00:47:47,00:23:18,00:24:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+131,2311,Gerrit Hofstede,Zwolle,Mvet,80,00:47:55,00:47:09,00:24:02,00:23:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+132,2556,Jan Bakker,Zwolle,Mvet,81,00:47:56,00:47:36,00:23:50,00:23:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+133,2364,Erik Rozeboom,Wezep,Mvet,82,00:47:58,00:47:42,00:22:53,00:24:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+134,2380,Jan Kerssies,Zwolle,Mvet,83,00:47:59,00:47:49,00:23:42,00:24:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+135,2369,Everhard van den Hoek,Zwolle,Mvet,84,00:48:00,00:47:39,00:23:56,00:23:44,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+136,2430,Dennis Smit,Zwolle,Mvet,85,00:48:05,00:48:01,00:23:29,00:24:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+137,2566,Jan Reuvekamp,Zwolle,Mvet,86,00:48:07,00:47:59,00:23:53,00:24:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+138,2954,Neimet Hehrabi,,Msen,42,00:48:08,00:48:06,00:23:09,00:24:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+139,2518,Bart Hofstede,Zwolle,Mvet,87,00:48:10,00:47:27,00:23:42,00:23:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+140,2525,Ton Roelofs,Zwolle,Mvet,89,00:48:11,00:47:41,00:24:02,00:23:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+141,2452,Martin van Wagensveld,Zwolle,Mvet,88,00:48:11,00:47:49,00:24:12,00:23:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+142,2615,Klaas Ophoff,Zwolle,Mvet,90,00:48:12,00:47:49,00:24:02,00:23:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+143,2288,Karin Ritsema,Utrecht,Vsen,8,00:48:12,00:48:06,00:24:12,00:23:54,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+144,2614,Kees Regelink,Vollenhove,Mvet,91,00:48:15,00:47:53,00:23:28,00:24:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+145,2108,Marco Blokhuis,Zwolle,Msen,43,00:48:15,00:47:58,00:23:13,00:24:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+146,2439,Bastiaan Koopman,Zwolle,Mvet,92,00:48:17,00:47:48,00:23:35,00:24:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+147,2521,Mathijs Brinkman,Dronten,Mvet,93,00:48:18,00:47:59,00:24:16,00:23:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+148,2350,Francis Arkes,Zwolle,Mvet,94,00:48:19,00:48:02,00:23:56,00:24:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+149,2603,Harold Neijenhuis,Hattem,Mvet,95,00:48:26,00:48:23,00:23:41,00:24:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+150,2465,Michiel van Amerongen,Zwolle,Mvet,96,00:48:27,00:48:07,00:24:16,00:23:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+151,2579,Vincent ten Voorde,Zwolle,Mvet,97,00:48:29,00:48:12,00:24:03,00:24:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+152,2569,Krijn Korver,Zwolle,Mvet,98,00:48:36,00:48:15,00:23:42,00:24:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+153,2384,Marcel de Groot,Zwolle,Mvet,100,00:48:46,00:48:32,00:24:29,00:24:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+154,2528,Harrie de Velde,Zwolle,Mvet,99,00:48:46,00:47:46,00:24:01,00:23:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+155,2101,Sean Keizer,Zwolle,Msen,44,00:48:49,00:48:41,00:22:56,00:25:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+156,2565,Raymond Wieten,Zwolle,Mvet,101,00:48:54,00:48:25,00:24:16,00:24:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+157,2426,Emile Spanhaak,Zwolle,Mvet,102,00:48:54,00:48:42,00:23:39,00:25:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+158,2597,Willem van Helden,Zwolle,Mvet,103,00:48:55,00:48:41,00:23:54,00:24:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+159,2777,Nettie Beldman,Zwolle,Vvet,5,00:48:57,00:48:53,00:24:13,00:24:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+160,2329,Roelof Schoppers,Enschede,Mvet,104,00:49:02,00:48:21,00:24:02,00:24:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+161,2483,Rene Prins,Zwolle,Mvet,105,00:49:02,00:48:13,00:23:58,00:24:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+162,2570,Jeroen Stuurwold,Hoofddorp,Mvet,106,00:49:05,00:48:42,00:24:14,00:24:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+163,2081,Jeroen Beekhof,Zwolle,Msen,45,00:49:07,00:48:50,00:24:28,00:24:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+164,2432,Henk Folkerts,Zwolle,Mvet,107,00:49:09,00:48:58,00:24:40,00:24:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+165,2352,Edwin Zaaijer,Zwolle,Mvet,108,00:49:11,00:48:55,00:24:12,00:24:44,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+166,2529,Niek Veenstra,Zwolle,Mvet,109,00:49:12,00:48:13,00:24:12,00:24:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+167,2235,Rianne Niewold,Punthorst,Vsen,9,00:49:13,00:49:06,00:24:35,00:24:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+168,2011,Hans Roman,Zwolle,Msen,46,00:49:16,00:48:34,00:24:41,00:23:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+169,2355,Wouter Drogt,Zwolle,Mvet,110,00:49:17,00:48:57,00:24:13,00:24:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+170,2473,Wiebe Buter,Rouveen,Mvet,112,00:49:18,00:48:55,00:23:54,00:25:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+171,2474,Arnoud Hettinga,Zwolle,Mvet,111,00:49:18,00:48:50,00:24:41,00:24:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+172,2027,Bas van der Hulst,Zwolle,Msen,47,00:49:18,00:49:04,00:23:54,00:25:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+173,2336,Henk Ruigrok,Zwolle,Mvet,113,00:49:19,00:49:08,00:24:11,00:24:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+174,2534,Jethro Kanbier,Zwolle,Mvet,114,00:49:24,00:49:13,00:25:37,00:23:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+175,2282,Stefanie Jansen,Zwolle,Vsen,10,00:49:26,00:49:21,00:24:29,00:24:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+176,2320,Thijs oosterlaar,Zwolle,Mvet,115,00:49:26,00:49:01,00:24:12,00:24:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+177,2034,Arjaan Trimpe,Nijmegen,Msen,48,00:49:26,00:48:34,00:24:31,00:24:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+178,2818,Olga Appelo,Zwolle,Vvet,6,00:49:29,00:49:23,00:24:17,00:25:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+179,2453,Nico van Houten,Zwolle,Mvet,116,00:49:29,00:49:10,00:24:13,00:24:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+180,2056,Mathijs Bouwhuis,Zwolle,Msen,49,00:49:31,00:48:36,00:25:13,00:23:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+181,2052,Michael Elders,Zwolle,Msen,50,00:49:33,00:48:31,00:23:58,00:24:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+182,2549,Tim ten Klooster,Zwolle,Mvet,117,00:49:43,00:49:36,00:24:40,00:24:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+183,2598,André Bosscha,Zwolle,Mvet,118,00:49:46,00:49:34,00:24:18,00:25:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+184,2106,Kevin Koobs,Zwolle,Msen,51,00:49:46,00:49:34,00:24:34,00:25:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+185,2048,Bob van der Veen,Zwolle,Msen,52,00:49:52,00:49:42,00:24:05,00:25:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+186,2757,Corine havinga,Zwolle,Vvet,7,00:49:54,00:49:37,00:24:29,00:25:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+187,2546,Marcel Heet,Zwolle,Mvet,119,00:49:57,00:49:40,00:24:43,00:24:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+188,2471,Tonnie Mondria,Zwolle,Mvet,120,00:49:57,00:49:22,00:24:49,00:24:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+189,2722,Maressa Pouw,Zwolle,Vvet,8,00:49:59,00:49:41,00:24:42,00:24:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+190,2490,Marcel Zeephat,Zwolle,Mvet,121,00:50:03,00:49:40,00:25:12,00:24:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+191,2498,Jim Beerens,Zwolle,Mvet,122,00:50:04,00:48:57,00:24:44,00:24:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+192,2379,Jeroen Hukema,Zwolle,Msen,53,00:50:05,00:49:41,00:23:04,00:26:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+193,2393,Oliver Drent,Zwolle,Mvet,123,00:50:07,00:49:50,00:24:35,00:25:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+194,2461,Erik Raben,Zwolle,Mvet,124,00:50:08,00:49:56,00:24:35,00:25:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+195,2580,John Snitjer,Zwolle,Mvet,125,00:50:08,00:49:51,00:24:03,00:25:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+196,2502,Bert Sieders,Zwolle,Mvet,126,00:50:10,00:50:00,00:24:19,00:25:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+197,2332,Willem Groothedde,Zwolle,Mvet,127,00:50:12,00:50:04,00:25:02,00:25:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+198,2562,Rob Kuiper,Zwolle,Mvet,128,00:50:15,00:49:41,00:24:43,00:24:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+199,2729,Natasja Scholten,Kampen,Vvet,9,00:50:18,00:50:12,00:25:13,00:24:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+200,2389,Robert van Dijk,Zwolle,Mvet,129,00:50:19,00:50:11,00:24:47,00:25:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+201,2802,Mariska Huijssoon,Nijverdal,Vvet,10,00:50:20,00:50:05,00:25:04,00:25:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+202,2077,Gerrit Veldman,Wezep,Msen,54,00:50:20,00:49:42,00:25:00,00:24:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+203,2409,Reino Rozendaal,Zwolle,Mvet,130,00:50:21,00:49:57,00:24:40,00:25:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+204,2385,Gerhard van Dijkhuizen,Zwolle,Mvet,131,00:50:22,00:49:29,00:24:45,00:24:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+205,2727,Saskia ogink,Zwolle,Vvet,11,00:50:23,00:50:02,00:24:26,00:25:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+206,2604,Anne Zweers,Zwolle,Mvet,132,00:50:26,00:50:01,00:24:46,00:25:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+207,2022,Gert-Jan van den Brink,Zwolle,Msen,55,00:50:27,00:49:39,00:25:42,00:23:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+208,2124,Nick Tory,Zwolle,Msen,56,00:50:35,00:50:05,00:25:10,00:24:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+209,2221,Esther Burgman,Zwolle,Vvet,12,00:50:40,00:50:30,00:25:31,00:25:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+210,2455,Arjan Schuurman,Genemuiden,Mvet,133,00:50:46,00:50:09,00:25:44,00:24:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+211,2466,Stef Hendriks,Zwolle,Mvet,134,00:50:47,00:50:10,00:26:19,00:23:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+212,2397,David Meijer,Zwolle,Mvet,135,00:50:50,00:49:57,00:24:37,00:25:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+213,2047,Jonatan Rojas Pabon,Zwolle,Msen,57,00:50:51,00:49:50,00:24:44,00:25:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+214,2446,Mecnun Gül,Zwolle,Mvet,136,00:50:53,00:50:01,00:25:31,00:24:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+215,2499,Martijn Schouw,Zwolle,Mvet,137,00:50:56,00:50:14,00:25:16,00:24:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+216,2462,Matthijs Braam,Zwolle,Mvet,138,00:50:58,00:50:22,00:26:19,00:24:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+217,2557,Dick de Reus,Nunspeet,Mvet,139,00:51:00,00:50:22,00:24:54,00:25:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+218,2316,Marinus Zandvoort,Zwolle,Mvet,140,00:51:01,00:50:50,00:25:26,00:25:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+219,2539,Paul Robert Borg,Zwolle,Mvet,141,00:51:02,00:50:11,00:25:26,00:24:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+220,2279,Anne-Marian Niphuis,Zwolle,Vsen,11,00:51:07,00:50:37,00:25:09,00:25:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+221,2403,Egbert Sluiter,Kampen,Mvet,142,00:51:08,00:50:50,00:25:44,00:25:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+222,2472,Uthayan Meas,Zwolle,Mvet,143,00:51:17,00:50:57,00:24:28,00:26:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+223,2046,Joost van Blanken,Zwolle,Msen,58,00:51:18,00:50:40,00:25:29,00:25:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+224,2341,Sander van Dijk,Zwolle,Mvet,144,00:51:20,00:51:12,00:24:12,00:27:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+225,2392,Nico Bosch,Zwolle,Mvet,145,00:51:23,00:50:56,00:24:57,00:25:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+226,2451,Norbert Bosman,Zwolle,Mvet,146,00:51:24,00:51:01,00:25:45,00:25:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+227,2306,Sjoerd Bouma,Wezep,Mvet,147,00:51:28,00:50:31,00:25:23,00:25:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+228,2326,Roland van Vilsteren,Zwolle,Mvet,148,00:51:29,00:50:40,00:25:31,00:25:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+229,2308,Sietse Derksen,Zwolle,Mvet,149,00:51:33,00:51:02,00:25:34,00:25:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+230,2520,Rebecca Beker,Zwolle,Vsen,12,00:51:36,00:51:17,00:26:00,00:25:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+231,2049,Kim Driessen,Hasselt,Msen,59,00:51:41,00:50:55,00:25:53,00:25:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+232,2431,Ronald Raidt,Zwolle,Mvet,150,00:51:44,00:50:58,00:25:57,00:25:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+233,2407,Remko Korthagen,Hasselt,Mvet,151,00:51:45,00:50:59,00:25:57,00:25:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+234,2013,Tjerk van der Ploeg,Zwolle,Msen,60,00:51:48,00:51:18,00:25:40,00:25:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+235,2002,Ralph van Dijk,Zwolle,Msen,61,00:51:48,00:51:16,00:25:38,00:25:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+236,2596,Gerben van Beek,Zwolle,Mvet,152,00:51:52,00:51:44,00:24:37,00:27:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+237,2224,Linda Dimmers,Zwolle,Vvet,13,00:51:53,00:51:18,00:25:19,00:25:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+238,2475,Henk Smeding,Zwolle,Mvet,153,00:51:54,00:51:25,00:25:00,00:26:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+239,2853,Björn Vroeijenstijn,,Mvet,154,00:51:55,00:51:42,00:25:43,00:25:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+240,2593,Dinand Telman,Nijverdal,Mvet,155,00:51:55,00:51:37,00:25:19,00:26:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+241,2421,Peter-Maarten Bijkerk,Zwolle,Mvet,156,00:51:57,00:51:45,00:25:03,00:26:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+242,2020,Jeroen Andelbeek,Zwolle,Msen,62,00:51:59,00:51:26,00:25:01,00:26:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+243,2088,Paul Stuurwold,Zwolle,Msen,63,00:52:08,00:51:44,00:24:59,00:26:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+244,2058,Nicolas Takken,Zwolle,Msen,64,00:52:09,00:51:07,00:25:37,00:25:31,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+245,2012,Martijn Gijsbers,Zwolle,Msen,65,00:52:10,00:51:30,00:25:53,00:25:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+246,2036,Jim Weertman,Zwolle,Msen,66,00:52:11,00:51:40,00:25:41,00:26:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+247,2488,Eddy heuten,Zwolle,Mvet,157,00:52:20,00:51:48,00:25:38,00:26:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+248,2343,Jos Meijer,Zwolle,Mvet,158,00:52:21,00:52:04,00:25:11,00:26:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+249,2255,Hanke van de Bunt,Zwolle,Vsen,13,00:52:22,00:52:05,00:26:30,00:25:35,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+250,2378,Gerrit Doornenbal,Zwolle,Mvet,159,00:52:25,00:52:06,00:25:42,00:26:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+251,2395,Ake Sikkema,Zwolle,Mvet,160,00:52:26,00:51:54,00:26:26,00:25:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+252,2794,Jolanda Sluiter,Zwolle,Vvet,14,00:52:26,00:52:02,00:26:01,00:26:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+253,2042,Bastiaan van Esch,Zwolle,Msen,67,00:52:28,00:52:18,00:24:46,00:27:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+254,2239,Floortje Plas,Zwolle,Vsen,14,00:52:31,00:52:23,00:26:21,00:26:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+255,2340,Marco Delmte,Zwolle,Mvet,161,00:52:34,00:52:24,00:25:49,00:26:36,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+256,2240,Esther Binnema,Zwolle,Vsen,15,00:52:35,00:51:43,00:26:11,00:25:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+257,2032,Harmen SLuiter,Zwolle,Msen,68,00:52:51,00:52:35,00:25:28,00:27:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+258,2322,Constant Lam,Zwolle,Mvet,162,00:52:52,00:52:19,00:25:47,00:26:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+259,2541,Michael de Vries,Zwolle,Mvet,163,00:52:53,00:52:15,00:25:28,00:26:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+260,2205,Greetje Slingerland,Zwolle,Vsen,16,00:52:59,00:52:09,00:26:48,00:25:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+261,2436,Gerjan Riezebosch,Zwolle,Mvet,164,00:53:00,00:52:54,00:26:33,00:26:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+262,2711,Renate Kroes,Oldebroek,Vvet,15,00:53:03,00:52:56,00:25:41,00:27:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+263,2069,Mark van Houdt,Zwolle,Msen,69,00:53:12,00:52:39,00:27:34,00:25:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+264,2128,Nick Welink,Zwolle,Msen,70,00:53:12,00:52:39,00:26:16,00:26:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+265,2238,Ankie Broeks,Zwolle,Vsen,17,00:53:14,00:52:59,00:25:43,00:27:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+266,2315,Björn Edelenbos,Zwolle,Mvet,165,00:53:17,00:52:14,00:26:13,00:26:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+267,2516,Reint Bergman,Zwolle,Mvet,166,00:53:20,00:52:55,00:26:23,00:26:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+268,2371,Reinbert Kleine,Zwolle,Mvet,167,00:53:22,00:52:35,00:26:44,00:25:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+269,2713,Marije Neuteboom,Zwolle,Vvet,16,00:53:23,00:53:07,00:26:20,00:26:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+270,2793,Agnes Anemaat,Zwolle,Vvet,17,00:53:24,00:52:37,00:26:42,00:25:55,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+271,2702,Angela Hofstede,Zwolle,Vvet,18,00:53:27,00:52:41,00:26:55,00:25:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+272,2517,Nico Mijnheer,Hasselt,Mvet,168,00:53:34,00:53:19,00:26:38,00:26:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+273,2116,Jordy Kone,Zwolle,Msen,71,00:53:36,00:53:17,00:27:25,00:25:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+274,2325,Jacco Teunis,Zwolle,Mvet,169,00:53:45,00:52:50,00:26:38,00:26:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+275,2751,Patricia schlosser,Zwolle,Vvet,19,00:53:47,00:53:10,00:26:55,00:26:15,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+276,2536,Jeroen Kok,Zwolle,Mvet,170,00:53:49,00:53:10,00:26:56,00:26:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+277,2819,Dina de Lange,Zwolle,Vvet,20,00:53:50,00:53:29,00:26:27,00:27:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+278,2068,Arend Horst,Zwolle,Msen,72,00:53:56,00:53:35,00:21:56,00:31:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+279,2577,Jeroen van de Nes,Zwolle,Mvet,171,00:53:59,00:53:27,00:26:16,00:27:11,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+280,2590,Erik Wolters,Zwolle,Mvet,172,00:53:59,00:53:43,00:26:07,00:27:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+281,2044,Gerralt Prins,Genemuiden,Msen,73,00:54:05,00:53:17,00:26:55,00:26:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+282,2427,Frank Herbrink,Zwolle,Mvet,173,00:54:07,00:53:45,00:26:22,00:27:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+283,2511,Alexander Roetman,Genemuiden,Mvet,174,00:54:08,00:53:54,00:27:24,00:26:31,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+284,2460,Marco Reuvers,Zwolle,Mvet,175,00:54:08,00:53:18,00:26:41,00:26:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+285,2038,Herman Geertsma,Zwolle,Msen,74,00:54:09,00:53:32,00:28:08,00:25:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+286,2464,Marko Nijmeijer,Hasselt,Mvet,176,00:54:11,00:53:23,00:26:56,00:26:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+287,2703,Jenneke van Doorn,Zwolle,Vvet,21,00:54:16,00:53:56,00:26:46,00:27:11,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+288,2747,Nienke Wormgoor,Zwolle,Vvet,22,00:54:17,00:54:00,00:26:47,00:27:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+289,2125,Willem Jan Scholte,Zwolle,Msen,75,00:54:22,00:53:39,00:27:24,00:26:15,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+290,2017,Marcel Van Ham,Apeldoorn,Msen,76,00:54:23,00:53:53,00:26:03,00:27:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+291,2449,Michiel Polman,Zwolle,Mvet,177,00:54:23,00:53:52,00:27:13,00:26:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+292,2229,Renate Oostra,Zwolle,Vsen,18,00:54:26,00:53:49,00:26:56,00:26:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+293,2394,Erwin Weertman,Zwolle,Mvet,178,00:54:29,00:53:58,00:26:14,00:27:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+294,2367,Marc Arendsen,Almelo,Mvet,179,00:54:30,00:54:00,00:26:35,00:27:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+295,2005,Martin Gerritsen,Zwolle,Msen,77,00:54:32,00:53:51,00:26:26,00:27:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+296,2405,Freddy Mulder,Zwolle,Mvet,180,00:54:33,00:54:13,00:26:44,00:27:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+297,2718,Marjolijn Enter,Zwolle,Vvet,23,00:54:34,00:54:14,00:26:44,00:27:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+298,2712,Anouk Nijlant,Wijhe,Vvet,24,00:54:35,00:54:20,00:26:43,00:27:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+299,2387,Marjan Meijerink,Nieuwleusen,Vvet,25,00:54:38,00:54:13,00:27:01,00:27:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+300,2445,Ale Pietersma,Zwolle,Mvet,181,00:54:40,00:54:12,00:27:10,00:27:02,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+301,2063,Koos Regelink,Vollenhove,Msen,78,00:54:41,00:54:18,00:27:37,00:26:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+302,2735,Jantie Bloemhof,Zwolle,Vvet,26,00:54:45,00:54:33,00:26:48,00:27:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+303,2724,Sandra Westemeijer,Zwolle,Vvet,27,00:54:46,00:54:33,00:27:09,00:27:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+304,2814,Femmie Tuin,Hasselt,Vvet,28,00:54:46,00:54:21,00:27:27,00:26:55,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+305,909,Joshua Tempelman,,Msen,79,00:54:48,00:54:33,00:25:38,00:28:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+306,2725,Stijntje Sabine Koster,Zwolle,Vvet,29,00:54:48,00:54:18,00:26:45,00:27:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+307,2477,Evert Pastoor,Uddel,Mvet,182,00:54:56,00:54:10,00:27:10,00:27:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+308,2386,Ilja Clabbers,Zwolle,Mvet,183,00:55:00,00:54:09,00:26:53,00:27:16,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+309,2274,Hannie van Dijk,Zwolle,Vsen,19,00:55:01,00:54:32,00:26:54,00:27:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+310,2544,Ben Wilbrink,Zwolle,Mvet,184,00:55:04,00:54:28,00:28:24,00:26:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+311,2600,Bernard Dijkhuizen,Zwolle,Mvet,185,00:55:13,00:54:29,00:27:20,00:27:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+312,2093,Joost Bouten,Zwolle,Msen,80,00:55:15,00:54:55,00:27:51,00:27:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+313,2479,Lamberth Anindjola,Raalte,Mvet,186,00:55:18,00:54:34,00:27:21,00:27:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+314,2120,Joost van Houdt,Zwolle,Msen,81,00:55:34,00:54:36,00:27:07,00:27:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+315,2227,Arenda Schimmel,Zwolle,Vsen,20,00:55:34,00:55:10,00:26:41,00:28:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+316,2442,Bas van Helden,Zwolle,Mvet,187,00:55:34,00:55:03,00:26:39,00:28:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+317,2072,Eelco Pastoor,Zwolle,Msen,82,00:55:35,00:54:50,00:27:11,00:27:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+318,2582,Peter van Heerde,Zwolle,Mvet,188,00:55:40,00:54:42,00:28:08,00:26:35,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+319,2382,Arnaud Koning,Zwolle,Mvet,189,00:55:40,00:55:27,00:27:14,00:28:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+320,2310,Raymond Flierjans,Zwolle,Mvet,190,00:55:47,00:55:23,00:26:37,00:28:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+321,2104,Anne-Jur Borg,Zwolle,Msen,83,00:55:50,00:55:01,00:26:37,00:28:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+322,2804,Wilma Bril,Zwolle,Vvet,30,00:55:51,00:55:39,00:28:01,00:27:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+323,2762,Harriët van Veen,Zwolle,Vvet,31,00:55:53,00:55:40,00:27:23,00:28:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+324,2245,Sara Schoemaker,Zwolle,Vsen,21,00:55:57,00:55:02,00:27:01,00:28:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+325,2019,René Hoekstra,Zwolle,Msen,84,00:56:00,00:55:49,00:27:27,00:28:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+326,2286,Susanne Bergman,Zwolle,Vsen,22,00:56:08,00:55:44,00:26:34,00:29:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+327,2767,Anneke Reuvers,Zwolle,Vvet,32,00:56:11,00:55:20,00:27:21,00:28:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+328,2321,Danny van dam,Zwolle,Mvet,191,00:56:14,00:55:24,00:28:15,00:27:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+329,2795,Trudy Postma,Zwolle,Vvet,33,00:56:17,00:55:57,00:26:49,00:29:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+330,2039,Jelmer Post,Zwolle,Msen,85,00:56:18,00:55:45,00:27:54,00:27:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+331,2241,Lianne van Esch,Zwolle,Vsen,23,00:56:21,00:56:08,00:27:05,00:29:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+332,2342,Martin ter Burg,Zwolle,Mvet,192,00:56:22,00:55:42,00:26:51,00:28:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+333,2470,Johnny te Pas,Zwolle,Mvet,193,00:56:23,00:56:13,00:27:49,00:28:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+334,2433,Herman Brunen,Zwolle,Mvet,194,00:56:27,00:55:27,00:27:53,00:27:35,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+335,2400,Pieter Koster,Zwolle,Mvet,195,00:56:28,00:56:03,00:27:43,00:28:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+336,2219,Marian Smit,Zwolle,Vsen,24,00:56:31,00:56:05,00:27:40,00:28:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+337,2523,Harm Jan Menkhorst,Zwolle,Mvet,196,00:56:41,00:55:59,00:28:25,00:27:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+338,2813,Bettie van Bruggen,Zwolle,Vvet,34,00:56:43,00:56:04,00:28:03,00:28:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+339,2583,Luiz Mulder,Zwolle,Mvet,197,00:56:43,00:55:47,00:27:35,00:28:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+340,2491,Willem Bakker Schut,Zwolle,Mvet,198,00:56:51,00:56:08,00:27:50,00:28:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+341,2609,Joost Kornet,Zwolle,Mvet,199,00:56:53,00:56:11,00:27:52,00:28:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+342,2742,Sietske Veuger-Bolt,Zwolle,Vvet,35,00:56:56,00:55:57,00:28:27,00:27:31,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+343,2563,Ferry Boschman,Zwolle,Mvet,200,00:57:02,00:56:13,00:28:13,00:28:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+344,2550,Marco Schouwstra,Zwolle,Mvet,201,00:57:05,00:56:16,00:26:54,00:29:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+345,2216,Mirjam Pool,Zwolle,Vsen,25,00:57:08,00:57:00,00:28:37,00:28:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+346,2254,Yvonne Pastoor,Zwolle,Vsen,26,00:57:09,00:56:48,00:28:19,00:28:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+347,2810,Ariena Hoogeveen,Zwolle,Vvet,36,00:57:09,00:56:49,00:28:20,00:28:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+348,2278,Wilma bertram,Wezep,Vsen,27,00:57:16,00:56:44,00:28:13,00:28:31,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+349,908,Thomas Steinebach,,Msen,86,00:57:27,00:57:11,00:28:31,00:28:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+350,2357,Frans Wiering,Zwolle,Mvet,202,00:57:28,00:56:58,00:27:05,00:29:54,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+351,2373,Jan van der Meulen,Zwolle,Mvet,203,00:57:29,00:57:14,00:28:25,00:28:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+352,2359,Jan Mulder,Zwolle,Mvet,204,00:57:29,00:57:18,00:29:20,00:27:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+353,2368,Roel Beumer,Zwolle,Mvet,205,00:57:29,00:57:18,00:28:14,00:29:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+354,2423,Remco Lootens,Hattem,Mvet,206,00:57:40,00:57:04,00:27:48,00:29:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+355,910,Babet Boswinkel,,Vsen,28,00:57:40,00:57:26,00:27:25,00:30:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+356,2361,Michel Fakkert,Zwolle,Mvet,207,00:57:42,00:56:57,00:28:01,00:28:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+357,2413,HendrikJan Vermeer,Zwolle,Mvet,208,00:57:44,00:56:58,00:29:12,00:27:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+358,2014,Glenn Vulkers,Zwolle,Msen,87,00:57:46,00:57:15,00:29:49,00:27:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+359,2792,Marleen Renshoff,Zwolle,Vvet,37,00:57:46,00:57:03,00:28:56,00:28:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+360,2057,Boudewijn van Rees,Hasselt,Msen,88,00:57:47,00:56:55,00:28:04,00:28:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+361,2716,Evelien Jansen,Genemuiden,Vvet,38,00:57:47,00:57:33,00:29:04,00:28:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+362,2243,Rosanne van den Berg,Groningen,Vsen,29,00:57:48,00:57:23,00:28:46,00:28:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+363,2242,Esther van den Berg,Zwolle,Vsen,30,00:57:48,00:57:23,00:28:57,00:28:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+364,2796,Jannie Katers,Zwolle,Vvet,39,00:57:52,00:57:14,00:28:54,00:28:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+365,2258,Ans Katers,Zwolle,Vsen,31,00:57:52,00:57:14,00:28:54,00:28:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+366,2351,Martin Huls,Zwolle,Mvet,209,00:57:53,00:56:58,00:28:53,00:28:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+367,2437,Brian Lokhorst,Zwolle,Mvet,210,00:57:56,00:57:01,00:28:19,00:28:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+368,2259,Marloes Snel,Genemuiden,Vsen,32,00:57:57,00:57:38,00:28:58,00:28:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+369,2339,Bert Mannes,Zwolle,Mvet,211,00:58:03,00:57:13,00:28:06,00:29:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+370,2538,Sander Boer,Zwolle,Mvet,212,00:58:06,00:57:49,00:28:31,00:29:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+371,2018,Roy Dijk,Kampen,Msen,89,00:58:06,00:57:13,00:28:13,00:29:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+372,2759,Tamar Kits,Zwolle,Vvet,40,00:58:13,00:57:55,00:28:58,00:28:57,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+373,2788,Ingrid Kerkdijk,Zwolle,Vvet,41,00:58:14,00:57:30,00:28:48,00:28:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+374,2760,Chantal Lokhorst,Zwolle,Vvet,42,00:58:15,00:57:20,00:28:19,00:29:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+375,2770,Joluca Mondria,Zwolle,Vvet,43,00:58:17,00:57:49,00:27:33,00:30:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+376,2283,Loïs Colijn,Zwolle,Vsen,33,00:58:17,00:57:40,00:28:53,00:28:47,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+377,2377,Richard Olijve,Zwolle,Mvet,213,00:58:27,00:57:51,00:28:41,00:29:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+378,2201,Laura Gerritsen,Zwolle,Vsen,34,00:58:28,00:57:46,00:29:01,00:28:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+379,2121,Ewoud Beumer,Zwolle,Msen,90,00:58:31,00:57:37,00:28:12,00:29:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+380,2314,Pim Hovenga,'t Harde,Mvet,214,00:58:38,00:57:41,00:28:52,00:28:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+381,2791,Jacqueline walvoort,Zwolle,Vvet,44,00:58:38,00:58:16,00:28:38,00:29:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+382,2234,Carine Rozeveld,Zwolle,Vsen,35,00:58:40,00:58:32,00:28:37,00:29:55,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+383,2084,Thomas Moorlag,Zwolle,Msen,91,00:58:41,00:57:57,00:28:54,00:29:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+384,2809,Van der Spek,Zwolle,Vvet,45,00:58:41,00:58:15,00:29:03,00:29:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+385,2531,Gerrit Rotman,Zwolle,Mvet,215,00:58:49,00:57:56,00:29:21,00:28:35,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+386,2530,Nick Rotman,Zwolle,Mvet,216,00:58:49,00:57:55,00:29:20,00:28:36,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+387,2119,René van Raalte,Zwolle,Msen,92,00:58:54,00:58:15,00:31:43,00:26:33,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+388,2558,Menno Pot,Zwolle,Mvet,217,00:58:56,00:57:58,00:29:27,00:28:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+389,2040,Aron Rotteveel,Zwolle,Msen,93,00:58:56,00:58:40,00:27:57,00:30:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+390,2246,Jalissa bultman,Elburg,Vsen,36,00:58:57,00:58:41,00:28:42,00:29:59,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+391,2798,Annet Bultman,Elburg,Vvet,46,00:58:57,00:58:41,00:28:42,00:30:00,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+392,2262,Jaimy Smith,Zwolle,Vsen,37,00:58:58,00:58:07,00:28:12,00:29:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+393,2085,Jeroen Kroeze,Zwolle,Msen,94,00:59:04,00:58:28,00:29:52,00:28:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+394,2086,Robert Beute,Zwolle,Msen,95,00:59:04,00:58:29,00:29:52,00:28:37,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+395,2287,Daphny ter Stege,Zwolle,Vsen,38,00:59:04,00:58:22,00:29:01,00:29:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+396,2253,Kirsten Dekker,Zwolle,Vsen,39,00:59:07,00:58:25,00:28:55,00:29:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+397,2507,Rodger Dekker,Zwolle,Mvet,218,00:59:07,00:58:24,00:28:55,00:29:30,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+398,2273,Geertje Aalbers,Zwolle,Vsen,40,00:59:09,00:58:48,00:29:10,00:29:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+399,2591,Mark van Emmen,Zwolle,Mvet,219,00:59:12,00:58:51,00:29:10,00:29:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+400,2091,Tiemen Timmerman,Genemuiden,Msen,96,00:59:15,00:58:29,00:30:18,00:28:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+401,2811,Sandra Otter,Zwolle,Vvet,47,00:59:15,00:58:47,00:29:03,00:29:44,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+402,2209,Nathalie Udo,Zwolle,Vsen,41,00:59:17,00:58:43,00:29:39,00:29:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+403,2422,Bert-Jan Kok,Zwolle,Mvet,220,00:59:17,00:58:41,00:29:40,00:29:01,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+404,2753,Martijn van Riele,,Mvet,221,00:59:22,00:58:30,00:29:04,00:29:26,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+405,2206,Valérie Koops-Donswijk,Zwolle,Vsen,42,00:59:23,00:58:30,00:29:03,00:29:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+406,2015,Wayne Smith,Zwolle,Msen,97,00:59:29,00:58:39,00:28:11,00:30:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+407,2706,Joyce Flierjans,Zwolle,Vvet,48,00:59:40,00:59:17,00:29:22,00:29:56,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+408,2269,Debora Wilbrink,Zwolle,Vsen,43,00:59:55,00:59:13,00:29:33,00:29:40,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+409,2252,Manon Huijssoon,Doornspijk,Vsen,44,01:00:02,00:59:46,00:30:28,00:29:19,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+410,2578,Frits de Vries,Zwolle,Mvet,222,01:00:09,00:59:41,00:30:35,00:29:07,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+411,2247,Laura Nomen,Zwolle,Vsen,45,01:00:10,00:59:56,00:28:45,00:31:12,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+412,2709,Hanneke Akse,Zwolle,Vvet,49,01:00:13,00:59:35,00:29:22,00:30:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+413,2115,Bas Alting,Zwolle,Msen,98,01:00:26,01:00:08,00:28:54,00:31:14,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+414,2765,Anke Kruithof,Hattem,Vvet,50,01:00:31,00:59:50,00:30:02,00:29:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+415,2807,Miriam Broeksema,Zwolle,Vvet,51,01:00:36,00:59:37,00:28:30,00:31:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+416,2587,Alex Moes,Enschede,Mvet,223,01:00:37,00:59:38,00:28:29,00:31:09,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+417,2485,Robert Stuut,Zwolle,Mvet,224,01:00:44,01:00:16,00:30:33,00:29:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+418,2408,Alex Bosma,Zwolle,Mvet,225,01:00:53,01:00:06,00:30:13,00:29:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+419,2280,Anne ten Brummelhuis,Zwolle,Vsen,46,01:01:02,01:00:28,00:30:37,00:29:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+420,2420,Eddy Agterhuis,Zwolle,Mvet,226,01:01:12,01:00:18,00:29:55,00:30:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+421,2812,Claudia Bruijs,Zwolle,Vvet,52,01:01:18,01:00:54,00:28:26,00:32:29,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+422,2277,Annemarie Stevens,Zwolle,Vsen,47,01:01:19,01:00:49,00:30:57,00:29:53,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+423,2554,Abel Veenstra,Zwolle,Mvet,227,01:01:23,01:00:54,00:28:33,00:32:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+424,2774,Ryanne Hooijer,Zwolle,Vvet,53,01:01:41,01:00:54,00:30:13,00:30:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+425,2070,Wouter Durenkamp,Zwolle,Msen,99,01:01:42,01:00:56,00:29:13,00:31:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+426,2256,Dorien Bouten,Zwolle,Vsen,48,01:01:43,01:01:22,00:29:01,00:32:21,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+427,2080,Nick Gijsberts,Duiven,Msen,100,01:01:46,01:00:58,00:30:36,00:30:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+428,2079,Brian Dieker,Duiven,Msen,101,01:01:46,01:00:58,00:30:36,00:30:22,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+429,2750,Lai yuk Ip-chan,Zwolle,Vvet,54,01:02:02,01:01:09,00:30:05,00:31:04,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+430,2222,Hilde Kooij,Zwolle,Vsen,49,01:02:05,01:01:15,00:30:24,00:30:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+431,2782,Patricia vd Linden,Zwolle,Vvet,55,01:02:06,01:01:06,00:30:43,00:30:23,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+432,2251,Sanne de Vries-Poels,Zwolle,Vsen,50,01:02:06,01:01:07,00:30:43,00:30:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+433,2376,Walter Stuifzand,Zwolle,Mvet,228,01:02:24,01:01:30,00:30:23,00:31:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+434,2581,Jeffrey de Haan,Zwolle,Mvet,229,01:02:31,01:01:56,00:30:24,00:31:32,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+435,2736,Marieke Schnoing,Zwolle,Vvet,56,01:02:36,01:01:55,00:31:05,00:30:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+436,2390,Reint Smit,Zwolle,Mvet,230,01:02:42,01:02:15,00:31:22,00:30:54,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+437,1752,Willemien Schuttenbelt,Vollenhove,Vvet,57,01:02:43,01:02:18,00:30:41,00:31:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+438,2236,Antoinette wagelaar,Zwolle,Vvet,58,01:02:52,01:02:08,00:31:30,00:30:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+439,2493,William ten Hoven,Zwolle,Mvet,231,01:02:53,01:02:04,00:30:45,00:31:20,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+440,2054,Hattum Hoekstra,Hilversum,Msen,102,01:02:54,01:02:31,00:30:51,00:31:41,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+441,2783,Annette van Dijk,Genemuiden,Vvet,59,01:03:10,01:02:56,00:30:43,00:32:13,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+442,2764,Wendy Wijsman,Zwolle,Vvet,60,01:03:24,01:02:51,00:31:00,00:31:52,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+443,2456,Arjan Dekker,Genemuiden,Mvet,232,01:03:24,01:02:46,00:30:48,00:31:58,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+444,2233,Jennienke Boersma,Assen,Vsen,51,01:03:25,01:03:03,00:30:15,00:32:48,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+445,2272,Kim van Raalte,Zwolle,Vsen,52,01:03:28,01:02:47,00:31:42,00:31:06,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+446,2781,Bettie de Jonge,Zwolle,Vvet,61,01:03:34,01:03:13,00:31:56,00:31:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+447,2228,Hester de Beer,Zwolle,Vsen,53,01:04:06,01:03:30,00:31:27,00:32:03,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+448,2281,Anne-Will Dekker,Zwolle,Vsen,54,01:04:09,01:03:34,00:31:06,00:32:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+449,2728,Marjan Strijker,Zwolle,Vvet,62,01:04:11,01:04:01,00:31:43,00:32:18,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+450,2551,Michiel van Loenen,Zwolle,Mvet,233,01:04:14,01:04:01,00:30:13,00:33:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+451,2719,Deanne Doornwaard,Genemuiden,Vvet,63,01:04:15,01:04:00,00:30:11,00:33:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+452,2856,Nathalie Witz,,Vsen,55,01:04:24,01:04:12,00:31:44,00:32:28,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+453,2855,Frans Oudt,,Mvet,234,01:04:39,01:03:47,00:29:03,00:34:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+454,2852,Gerieke Hermse,,Vsen,56,01:04:39,01:03:49,00:29:04,00:34:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+455,2071,Nick Jansen,Zwolle,Msen,103,01:04:40,01:04:01,00:31:18,00:32:43,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+456,2584,Pascal Speek,Zwolle,Mvet,235,01:05:20,01:04:24,00:31:35,00:32:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+457,2775,Marianne Knikker,Zalk,Vvet,64,01:05:20,01:04:25,00:31:35,00:32:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+458,2606,Harry van Dam,Zwolle,Mvet,236,01:05:20,01:04:24,00:31:35,00:32:50,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+459,2707,Jiska Kroes-Oosterhof,Zwolle,Vvet,65,01:05:23,01:04:50,00:32:05,00:32:46,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+460,2758,Gerritje Cornelosse,Zwolle,Vvet,66,01:05:27,01:04:47,00:31:14,00:33:34,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+461,2816,Sigrid van der Veer,Kampen,Vvet,67,01:05:34,01:04:55,00:31:46,00:33:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+462,2815,Auk Siefers,Kampen,Vvet,68,01:05:34,01:04:55,00:31:45,00:33:10,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+463,2203,Marieke Muskee-Oostland,Zwolle,Vsen,57,01:05:42,01:05:15,00:31:37,00:33:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+464,2773,Fébe Boerman,IJsselmuiden,Vvet,69,01:05:43,01:04:59,00:33:16,00:31:44,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+465,2779,Angelina Mannak,Zwolle,Vvet,70,01:05:45,01:05:07,00:31:50,00:33:17,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+466,2083,Mariska Brinkman,Dronten,Vsen,58,01:05:59,01:05:36,00:31:54,00:33:42,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+467,2806,Greet de Vries,Zwolle,Vvet,71,01:05:59,01:05:31,00:32:27,00:33:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+468,2231,Ilona Sloots,Zwolle,Vsen,59,01:06:12,01:05:35,00:32:11,00:33:24,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+469,2448,Eelco Mulder,Zwolle,Mvet,237,01:06:46,01:06:06,00:33:27,00:32:39,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+470,2257,Hilke Tuinman,Genemuiden,Vsen,60,01:06:55,01:06:09,00:33:19,00:32:51,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+471,2204,Hermina Bolt,Tollebeek,Vsen,61,01:07:14,01:06:15,00:31:11,00:35:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+472,2730,Abigail Fransen,Zwolle,Vvet,72,01:08:18,01:07:30,00:33:22,00:34:08,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+473,2752,Sandra Akkerman,Amsterdam,Vvet,73,01:09:51,01:09:11,00:33:22,00:35:49,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+474,2808,Elsa Bos-ter Waarbeek,Zwolle,Vvet,74,01:09:55,01:09:12,00:34:07,00:35:05,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+475,2786,Harma Moorlag,Zwolle,Vvet,75,01:11:22,01:10:38,00:34:13,00:36:25,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+476,2785,Bregje van de Lisdonk,Zwolle,Vvet,76,01:12:36,01:12:02,00:35:17,00:36:45,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+477,2732,Hilly Smit,Zwolle,Vvet,77,01:13:19,01:12:53,00:35:16,00:37:38,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+478,2327,Jan Vulkers,Zwolle,Mvet,,,,00:30:39,,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+479,2220,Laura Bos - de Wolde,Schoonebeek,Vsen,,,,00:34:02,,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21
+480,2441,Okke Harm Bouwman,Zwolle,Mvet,,,,00:36:00,,EP:Stadshagen Run Zwolle 21-10-2017,2017-10-21

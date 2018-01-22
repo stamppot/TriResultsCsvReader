@@ -1,0 +1,553 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,ZwemTijd,race,date
+1,1,Erik Schroder,GRONINGEN,M,1,00:06:29.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+2,3,Alex Schelvis,NOORDWIJK,M,2,00:06:47.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+3,5,Peter Deege,BUNNIK,M,3,00:07:10.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+4,8,Bjorn van Vliet,HEINENOORD,M,4,00:07:13.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+5,103,Fiona Meuffels,ECHT,V,1,00:07:14.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+6,49,Ben Muller,NIEUW-LEKKERLAND,M,5,00:07:23.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+7,15,Joost de Boer,ZWAANSHOEK,M,6,00:07:25.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+8,13,Freek de Boer,NIEUW-VENNEP,M,7,00:07:33.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+9,69,Max Muller,NIEUW-LEKKERLAND,M,8,00:07:34.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+10,2,Sjoerd Veltman,EDE,M,9,00:07:39.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+11,10,Jeroen Hutten,UTRECHT,M,10,00:07:40.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+12,43,Maarten van Dijk,DEN HELDER,M,11,00:07:41.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+13,51,Douwe Bijlard,ZAANDAM,M,12,00:07:46.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+14,17,Olaf Brouwers,ROTTERDAM,M,13,00:07:48.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+15,54,Bram Verbout,MAARSSEN,M,14,00:07:51.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+16,27,Bart Alberts,NIJMEGEN,M,15,00:07:51.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+17,12,Marco Vernooij,ENSCHEDE,M,16,00:07:53.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+18,7,Michael Dewilde,EEKLO,M,17,00:07:54.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+19,14,Vernon Steenkamp,AMSTERDAM,M,18,00:07:56.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+20,102,Rina Zijgers,APELDOORN,V,2,00:07:57.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+21,9,Johan Koolhaas,AMSTELVEEN,M,19,00:07:57.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+22,35,Ruud Edelman,BODEGRAVEN,M,20,00:07:57.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+23,24,Milo Janssen,WAALWIJK,M,21,00:07:57.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+24,627,Bas van der Zwan,UTRECHT,M,22,00:07:58.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+25,4,Piet van der Zwaag,RHENEN,M,23,00:07:59.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+26,30,Jeffrey van 't Schip,MIJDRECHT,M,24,00:07:59.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+27,21,Bas Habets,DEN HELDER,M,25,00:07:59.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+28,26,Niels De Gang,GRANOLLERS BARCELONA,M,26,00:08:02.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+29,47,Jorg Van Tongeren,ANKEVEEN,M,27,00:08:03.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+30,658,Rens van Eijk,UTRECHT,M,28,00:08:03.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+31,23,Jelle de Boer,ZAANDAM,M,29,00:08:04.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+32,111,Marinka Van der Zwet,UTRECHT,V,3,00:08:04.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+33,127,Sione Jongstra,UTRECHT,V,4,00:08:09.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+34,18,Micha Peters,VINKEVEEN,M,30,00:08:10.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+35,19,Michiel Land,AMSTERDAM,M,31,00:08:11.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+36,118,Judith van der Kruk,DEN HAAG,V,5,00:08:13.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+37,32,Coen Smiers,UTRECHT,M,32,00:08:17.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+38,420,Petra Pleunis,ROTTERDAM,V,6,00:08:18.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+39,38,Gert Hardeman,UTRECHT,M,33,00:08:18.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+40,41,Jeroen de Zinger,BAARN,M,34,00:08:19.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+41,150,Agnes van Brug,ALKMAAR,V,7,00:08:19.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+42,22,Pieter van der Meer,NIJMEGEN,M,35,00:08:20.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+43,11,Ferdinand Oldeman,VOORBURG,M,36,00:08:21.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+44,286,Ed Went,VOORHOUT,M,37,00:08:21.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+45,313,Marloes Nieberg,UTRECHT,V,8,00:08:21.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+46,436,Michel Wigbers,HAARLEM,M,38,00:08:23.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+47,79,Stefan De Laat,DIESSEN,M,39,00:08:24.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+48,115,Charlotte Groeneveld,UTRECHT,V,9,00:08:27.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+49,605,Danielle Stevens,OSS,V,10,00:08:27.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+50,40,Sven Duits,AMERSFOORT,M,40,00:08:28.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+51,107,Heleen van der Meijden,HERWIJNEN,V,11,00:08:28.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+52,46,Thijs Hekman,ENSCHEDE,M,41,00:08:29.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+53,120,Marianne Muijzer,PUTTERSHOEK,V,12,00:08:30.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+54,104,Birgit Berk,MEERSSEN,V,13,00:08:31.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+55,110,Hanneke Van den Berge,VEENENDAAL,V,14,00:08:31.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+56,25,Jim Rothweiler,HAARLEM,M,42,00:08:32.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+57,44,Ingmar Kooman,LEIDERDORP,M,43,00:08:33.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+58,106,Lenja Witlox,UTRECHT,V,15,00:08:34.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+59,28,Lennart Kleinjans,WOERDEN,M,44,00:08:35.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+60,108,Karin van Leersum,HARDERWIJK,V,16,00:08:35.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+61,42,Erik Visser,WOERDEN,M,45,00:08:37.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+62,114,Mandy Verbakel,WOERDEN,V,17,00:08:38.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+63,456,Mariska Winter,ENSCHEDE,V,18,00:08:38.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+64,60,Mark Heinis,ASSENDELFT,M,46,00:08:39.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+65,247,Tom Baas,UTRECHT,M,47,00:08:41.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+66,20,Jan Van Heteren,AALSMEER,M,48,00:08:41.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+67,37,Willem de Gouw,ALPHEN AAN DEN RIJN,M,49,00:08:41.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+68,239,Olav Wilke,LELYSTAD,M,50,00:08:43.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+69,65,Cas Krol,OEGSTGEEST,M,51,00:08:44.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+70,50,Martijn Meier,APPINGEDAM,M,52,00:08:45.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+71,484,Kim Hekman,BAAMBRUGGE,V,19,00:08:46.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+72,57,Peter Flietstra,VINKEVEEN,M,53,00:08:48.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+73,645,Amber Hogendorp,DEN HELDER,V,20,00:08:49.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+74,31,Jochen De Gang,HOFSTADE,M,54,00:08:51.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+75,80,Marco Davelaar,VEENENDAAL,M,55,00:08:53.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+76,275,Dennis Roeloffzen,WEESP,M,56,00:08:53.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+77,113,Ingrid Bank,AMSTERDAM,V,21,00:08:54.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+78,112,Jolien de Klein,VOORBURG,V,22,00:08:55.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+79,657,Rowan van Rooij,UTRECHT,M,57,00:08:56.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+80,70,Michel Boer,SASSENHEIM,M,58,00:08:56.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+81,34,Erik Coevert,LAMBERTSCHAAG,M,59,00:08:58.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+82,385,Silke Bink,BREEZAND,V,23,00:08:59.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+83,88,Elmer Jansen,DEN HAAG,M,60,00:08:59.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+84,130,Klaziena Politiek,GRONINGEN,V,24,00:09:00.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+85,122,Julia van der Burgt,UTRECHT,V,25,00:09:01.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+86,33,Marten Mosch,KROMMENIE,M,61,00:09:02.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+87,463,Martijn Giezen,,M,62,00:09:03.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+88,477,Liam Van Gool,DORDRECHT,M,63,00:09:05.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+89,258,Rene Miltenburg,UTRECHT,M,64,00:09:05.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+90,139,Ellen de Goeij,UTRECHT,V,26,00:09:06.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+91,134,Wendy van Dam,NIEUWKOOP,V,27,00:09:07.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+92,165,Carolin Eggert,LAHNE,V,28,00:09:08.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+93,637,Anne Siersema,ENSCHEDE,V,29,00:09:10.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+94,95,Andries Langendijk,APELDOORN,M,65,00:09:10.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+95,45,Hans-Peter Ligthart,AMSTERDAM,M,66,00:09:11.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+96,131,Anne Heinis,ZAANDAM,V,30,00:09:12.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+97,116,Shari Meynen,MECHELEN,V,31,00:09:15.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+98,56,Maarten Snel,KORTENHOEF,M,67,00:09:18.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+99,315,Mark Alan Eshuis,UTRECHT,M,68,00:09:18.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+100,468,Jannie Vennik,TJALLEBERD,V,32,00:09:19.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+101,36,Ruben Van Duren,HILVERSUM,M,69,00:09:19.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+102,656,Sarah Freytag,UTRECHT,V,33,00:09:19.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+103,135,Janine van Kooten,ANKEVEEN,V,34,00:09:20.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+104,356,Yldau de Lange,NIJMEGEN,V,35,00:09:20.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+105,58,Jan Eisse de Haan,ZWOLLE,M,70,00:09:21.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+106,644,Andor Van der meij,NIEUWEGEIN,M,71,00:09:21.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+107,317,Jitske Weersma,SPIJKENISSE,V,36,00:09:22.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+108,269,Jessica Pots,UTRECHT,V,37,00:09:23.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+109,405,Roderick van Zuylen,AMSTELVEEN,M,72,00:09:24.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+110,289,Bart Post,ALMERE,M,73,00:09:25.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+111,432,Naomi van Gool,NOORDWIJK,V,38,00:09:27.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+112,136,Annet Van der Veen,LEKKERKERK,V,39,00:09:28.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+113,391,Sanne Goosen,ALMERE,V,40,00:09:28.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+114,182,Johan van Wieringen,AMSTERDAM,M,74,00:09:31.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+115,177,Izak Hanse,ENSCHEDE,M,75,00:09:33.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+116,129,Zoe Van Gool,DORDRECHT,V,41,00:09:34.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+117,93,Mickey Peters,VINKEVEEN,M,76,00:09:35.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+118,300,Belinda van Alphen,ALPHEN AAN DEN RIJN,V,42,00:09:35.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+119,511,Jasper Pellekaan,HEEL,M,77,00:09:35.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+120,125,Anne Stoelhorst,RENKUM,V,43,00:09:36.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+121,337,Eline Overeem,UTRECHT,V,44,00:09:36.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+122,280,Edwin Petri,WEESP,M,78,00:09:36.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+123,611,Daan van der Meer,AMSTERDAM,M,79,00:09:36.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+124,128,Alinda ten Hoor,FOCHTELOO,V,45,00:09:38.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+125,483,L Helsper,BILTHOVEN,V,46,00:09:38.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+126,401,Ronlie Blufpand,ROTTERDAM,M,80,00:09:41.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+127,83,Wouter de Rijk,VEENENDAAL,M,81,00:09:43.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+128,394,Sam Van Rossom,HERENT,M,82,00:09:44.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+129,326,Jojanneke Beekhuizen,AMSTERDAM,V,47,00:09:44.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+130,215,Jeroen Hoogenboom,VINKEVEEN,M,83,00:09:46.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+131,61,Theo Bult,WAGENINGEN,M,84,00:09:47.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+132,246,Peter Verheijen,HILVARENBEEK,M,85,00:09:47.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+133,78,Robert van de Velde,WASSENAAR,M,86,00:09:47.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+134,607,Daatje de Wit,IJSSELSTEIN,V,48,00:09:48.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+135,132,Karen Van den Broeck,OVERIJSE,V,49,00:09:49.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+136,332,Marco Marsman,AMSTERDAM,M,87,00:09:51.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+137,167,Karel Schrijvers,LOENERSLOOT,M,88,00:09:51.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+138,64,Aaldert Mellema,UTRECHT,M,89,00:09:52.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+139,475,Lindy van Grieken,BREEZAND,V,50,00:09:52.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+140,651,Alain van Bielert,UTRECHT,M,90,00:09:52.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+141,121,Judith Feskens,DEN HELDER,V,51,00:09:53.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+142,98,Louis van Walsem,UTRECHT,M,91,00:09:53.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+143,276,Rianne van der Poel,VOORHOUT,V,52,00:09:53.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+144,85,Peter Raymaekers,MECHELEN,M,92,00:09:54.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+145,212,Petra Eckhardt,AMERSFOORT,V,53,00:09:54.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+146,82,Johan van de Weerd,VEENENDAAL,M,93,00:09:56.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+147,202,Jolanda Van de Merwe,PUTTERSHOEK,V,54,00:09:57.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+148,377,Stephen Vickery,AMSTERDAM,M,94,00:09:57.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+149,81,Pim van der Meer,WOERDEN,M,95,00:09:58.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+150,541,Gonne Golliard,DELFT,V,55,00:09:58.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+151,474,Lize Roosma,GRONINGEN,V,56,00:09:59.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+152,241,Peter Freriks,HOOFDDORP,M,96,00:09:59.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+153,166,Roy Roessink,ARNHEM,M,97,00:10:00.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+154,76,Paul Matthey,ECHT,M,98,00:10:00.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+155,604,Daphne Leeuwen,HEESCH,V,57,00:10:00.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+156,471,Lotte Timmermans,AMSTERDAM,V,58,00:10:00.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+157,163,Jeroen Jansen,DE MEERN,M,99,00:10:02.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+158,517,Jaap Anker,IJSSELSTEIN,M,100,00:10:03.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+159,512,Jan Willem van Kampen,HAARLEM,M,101,00:10:04.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+160,470,Maaike-Anne Boonstra,LEEUWARDEN,V,59,00:10:04.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+161,228,Lisette Spoelder,ABCOUDE,V,60,00:10:04.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+162,146,Claudia Jaring,ZAANDAM,V,61,00:10:06.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+163,170,Patrick Renard,TERVUREN,M,102,00:10:06.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+164,383,Stefan Baas,AALTEN,M,103,00:10:06.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+165,94,Erwin Van Roemburg,LOENEN AAN DE VECHT,M,104,00:10:08.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+166,97,Jakob Hartman,VEENENDAAL,M,105,00:10:08.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+167,55,Bert Wallet,AMERSFOORT,M,106,00:10:09.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+168,606,Damon Johnson,AMSTERDAM,M,107,00:10:10.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+169,67,Coen Dijkman,ABCOUDE,M,108,00:10:12.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+170,423,Paul Homan,ANNA PAULOWNA,M,109,00:10:12.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+171,164,Roderick Treskes,LEIDEN,M,110,00:10:13.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+172,542,Germ Anne Hooisma,LEEUWARDEN,M,111,00:10:14.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+173,193,Jeroen Zwetsloot,WAGENINGEN,M,112,00:10:15.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+174,411,Rick van der Klugt,DEN HAAG,M,113,00:10:15.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+175,572,Erik Pijnappels,RHEDEN,M,114,00:10:16.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+176,123,Alida Hagen,EDE,V,62,00:10:18.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+177,331,Marijn Engels,AMSTERDAM,M,115,00:10:18.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+178,201,Roelien de Wolf,AMERSFOORT,V,63,00:10:18.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+179,190,Olaf van Veen,VINKEVEEN,M,116,00:10:18.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+180,653,Aidan van Gool,DORDRECHT,M,117,00:10:20.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+181,68,Laurens Kersten,EDE,M,118,00:10:21.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+182,553,Frederik Eshuis,UTRECHT,M,119,00:10:22.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+183,438,Henk-Jan van Dijk,ALMERE,M,120,00:10:24.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+184,520,Ivo Bracco Gartner,ARNHEM,M,121,00:10:24.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+185,72,Guido Sala,WAGENINGEN,M,122,00:10:24.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+186,62,Michiel Hoff,KROMMENIE,M,123,00:10:24.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+187,298,Anne Wendrich,UTRECHT,V,64,00:10:26.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+188,413,Rianne Snel,IJSSELSTEIN,V,65,00:10:26.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+189,52,Ger Inberg,UTRECHT,M,124,00:10:26.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+190,292,Jannes Schreuders,HAARLEM,M,125,00:10:29.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+191,648,Quirijn Verbij,UTRECHT,M,126,00:10:30.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+192,445,Martijn Bergers,ASSENDELFT,M,127,00:10:30.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+193,66,Peter Van de Haar,EDE,M,128,00:10:30.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+194,351,Pia Van der Molen,NIEUWESCHOOT,V,66,00:10:31.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+195,265,Nannie van Toorenburg,,V,67,00:10:31.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+196,568,Marion Oudshoorn,UTRECHT,V,68,00:10:32.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+197,260,Maaike Rouw,DE MEERN,V,69,00:10:33.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+198,148,Linda de Boer,UTRECHT,V,70,00:10:33.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+199,206,Rik Vercauteren,MUIZEN,M,129,00:10:33.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+200,205,Onno van der Stelt,AMSTERDAM,M,130,00:10:35.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+201,284,Te Teunissen,WAGENINGEN,V,71,00:10:35.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+202,211,Rogier van Wagtendonk,BREDA,M,131,00:10:36.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+203,643,Andre De Weerdt,ONZE-LIEVE-VROUW WAVER,M,132,00:10:36.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+204,173,Pim Veldhuis,UTRECHT,M,133,00:10:37.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+205,595,Detlef de Groot,UTRECHT,M,134,00:10:37.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+206,525,Ilse Stecher,BERGEN OP ZOOM,V,72,00:10:38.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+207,610,Daan van der Wiel,EINDHOVEN,M,135,00:10:39.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+208,381,Stefan van der Zande,OSSENDRECHT,M,136,00:10:39.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+209,277,Leonie Brouwer,VLEUTEN,V,73,00:10:39.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+210,647,Almer Veenendaal,HAARLEM,M,137,00:10:42.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+211,533,Helene Heckman,HILVERSUM,V,74,00:10:42.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+212,186,Pieter van Tilburg,UTRECHT,M,138,00:10:42.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+213,151,Tatiana Lodder,UTRECHT,V,75,00:10:43.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+214,458,Inge Phernambucq,UTRECHT,V,76,00:10:44.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+215,53,Rene van Ravenzwaaij,AMSTERDAM,M,139,00:10:44.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+216,457,Marijke Abma,ENSCHEDE,V,77,00:10:45.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+217,347,Fenna Kamminga,GRONINGEN,V,78,00:10:45.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+218,661,Rob Kramer,ZOETERMEER,M,140,00:10:45.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+219,635,Annemarie van den Bos,AMSTERDAM,V,79,00:10:46.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+220,156,Sander van den Berg,NIEUWEGEIN,M,141,00:10:46.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+221,450,Marloes Voorhout,HARMELEN,V,80,00:10:46.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+222,63,Abel Hanse,ENSCHEDE,M,142,00:10:47.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+223,372,Thomas Moore,ANTWERPEN,M,143,00:10:47.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+224,523,Ineke Telgen-Visser,APELDOORN,V,81,00:10:47.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+225,73,Ronald Meier,GRONINGEN,M,144,00:10:48.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+226,336,Barbara van Maarschalkerweerd,SOEST,V,82,00:10:49.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+227,92,Erik de Vos,KROMMENIE,M,145,00:10:50.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+228,322,Pieter Deconinck,MECHELEN,M,146,00:10:50.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+229,442,Matthijs Pouwels,IJSSELSTEIN,M,147,00:10:51.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+230,133,Adrienne Evers,AMERSFOORT,V,83,00:10:52.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+231,339,Petra Schimmel,SOEST,V,84,00:10:52.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+232,584,Eileen Ke,NIJMEGEN,V,85,00:10:52.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+233,209,Camiel Hirschberg,TILBURG,M,148,00:10:53.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+234,282,Nicolien de Graaff,WEESP,V,86,00:10:54.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+235,143,Yvette Adams,POORTUGAAL,V,87,00:10:56.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+236,587,Dorine Versluis,PAPENDRECHT,V,88,00:10:56.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+237,626,Maurice Bos,MIJDRECHT,M,149,00:10:57.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+238,199,Ron Perdon,UTRECHT,M,150,00:10:57.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+239,235,Dick van Beuzekom,WOERDEN,M,151,00:10:57.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+240,629,Martijn de Vries,UITHOORN,M,152,00:10:57.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+241,480,Laurens Vercauteren,MUIZEN,M,153,00:10:58.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+242,641,Andre van Ruiten,NIEUW VENNEP,M,154,00:10:58.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+243,152,Mariska Albers,ABCOUDE,V,89,00:10:58.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+244,528,Hugo Van drie,NIEUWEGEIN,M,155,00:10:58.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+245,416,Remco de Weijer,HAARLEM,M,156,00:10:59.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+246,563,Felix Sammer,UTRECHT,M,157,00:10:59.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+247,198,Edwin de Koning,VINKEVEEN,M,158,00:11:00.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+248,410,Rinke Nijland,IJSSELSTEIN,M,159,00:11:00.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+249,175,Peter Van Eenoo,ONZE-LIEVE-VROUW-WAVER,M,160,00:11:00.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+250,404,Rojan van Jaarsveld,LISSE,M,161,00:11:00.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+251,162,Jan Posthumus,DIEMEN,M,162,00:11:01.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+252,554,Frank Korsmit,RAAMSDONKSVEER,M,163,00:11:02.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+253,91,Gert-Paul van der Beek,HOUTEN,M,164,00:11:02.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+254,443,Mathijs Bodde,DEN HAAG,M,165,00:11:05.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+255,357,Wouter van Onzenoort,DEN HELDER,M,166,00:11:05.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+256,238,Harry Schievink,VEENENDAAL,M,167,00:11:06.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+257,216,Hans van Lent,AMSTERDAM,M,168,00:11:06.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+258,149,Ilse Croes,KROMMENIE,V,90,00:11:07.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+259,467,Maarten Koudstaal,ROTTERDAM,M,169,00:11:07.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+260,197,Evi van Ekris,WOERDEN,V,91,00:11:08.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+261,192,Vincent Baak,HILLEGOM,M,170,00:11:08.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+262,462,Marianela Radaelli,BAARN,V,92,00:11:09.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+263,274,Cornelis Kes,WEESP,M,171,00:11:11.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+264,84,Bas Noorlander,OEGSTGEEST,M,172,00:11:11.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+265,546,Geart-Jan Buma,AMSTERDAM,M,173,00:11:12.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+266,220,Arie Huibers,EDE,M,174,00:11:12.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+267,434,Mirjam Van Donselaar,RIJSWIJK (ZH),V,93,00:11:12.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+268,582,Elisabeth Lorenzo Lorenzo,HAARLEM,V,94,00:11:13.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+269,214,Sander Biesma,UTRECHT,M,175,00:11:13.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+270,226,Renske Eilers,AMERSFOORT,V,95,00:11:13.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+271,642,Andre Knop,LEERSUM,M,176,00:11:13.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+272,171,Frank Aalten,SOEST,M,177,00:11:14.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+273,250,Ilona Heerdt,BUSSUM,V,96,00:11:15.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+274,142,Ida Oosterbroek,MIJDRECHT,V,97,00:11:15.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+275,169,Robert Noorlander,DEN HAAG,M,178,00:11:16.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+276,365,Willeke Teuwissen,HUIZEN,V,98,00:11:17.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+277,195,Gert van Zanten,VEENENDAAL,M,179,00:11:17.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+278,633,Anouck Hunck,,V,99,00:11:18.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+279,630,Maarten Bebelman,AMSTERDAM,M,180,00:11:18.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+280,176,Tom Beving,AMSTERDAM,M,181,00:11:18.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+281,490,Katinka Becker,AMERSFOORT,V,100,00:11:19.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+282,371,Tijs Rothweiler,HAARLEM,M,182,00:11:19.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+283,141,Annette Dales,BUSSUM,V,101,00:11:19.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+284,516,Jacob Visser,GRONINGEN,M,183,00:11:19.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+285,548,Marieke van Dijk,UTRECHT,V,102,00:11:21.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+286,257,John van Marrewijk,DE LIER,M,184,00:11:21.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+287,422,Paula Visser,KATWIJK,V,103,00:11:21.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+288,376,Susanne Gunning,BERGEN OP ZOOM,V,104,00:11:22.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+289,145,Janneke van Spijker,LEIDERDORP,V,105,00:11:22.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+290,237,Ludovic Derycke,MECHELEN,M,185,00:11:22.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+291,461,Marianne Purmer,DELFT,V,106,00:11:23.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+292,161,Henk van Spijker,LEIDERDORP,M,186,00:11:23.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+293,155,Leo de Hartog,LEERSUM,M,187,00:11:23.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+294,252,Loes Terwel,KORTENHOEF,V,107,00:11:25.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+295,236,Jacoline Zilverentant,BILTHOVEN,V,108,00:11:25.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+296,496,Jorick Quax,BREEZAND,M,188,00:11:25.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+297,178,Martijn Bulsink,ELST GLD,M,189,00:11:26.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+298,497,Jorgen Blankert,ROELOFARENDSVEEN,M,190,00:11:27.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+299,488,Jochem Reintjes,NIEUWEGEIN,M,191,00:11:27.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+300,255,Henri van Bodinckhuijsen,AMSTERDAM,M,192,00:11:28.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+301,154,Bas Van Gool,DORDRECHT,M,193,00:11:28.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+302,75,Wouter Andringa,ENSCHEDE,M,194,00:11:28.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+303,501,Johan Groenewold,KAMPEN,M,195,00:11:29.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+304,393,Sandra Kerstens,OEGSTGEEST,V,109,00:11:30.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+305,157,Kate Napier,UTRECHT,V,110,00:11:30.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+306,297,Marleen Groeneveld,VEENENDAAL,V,111,00:11:30.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+307,270,Steven de Lange,ZAANDAM,M,196,00:11:32.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+308,664,Terence McCartan,AMSTERDAM,M,197,00:11:33.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+309,593,Diana de Krom,RIJSWIJK,V,112,00:11:33.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+310,510,Javier Suarez Mier,IXELLEX BELGIUM,M,198,00:11:35.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+311,549,Frida Vos,UTRECHT,V,113,00:11:36.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+312,224,Jolanda Van de Haar,VEENENDAAL,V,114,00:11:36.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+313,213,Jef Meynen,MECHELEN,M,199,00:11:36.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+314,314,Lotte Pigmans,UTRECHT,V,115,00:11:36.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+315,482,Laura Mooij,HAARLEM,V,116,00:11:37.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+316,194,Julian Curtis,AMSTERDAM,M,200,00:11:37.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+317,608,Nick Currie,UTRECHT,M,201,00:11:37.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+318,180,Vincent Bloemen,ENSCHEDE,M,202,00:11:38.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+319,287,Denise Nio,VINKEVEEN,V,117,00:11:39.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+320,503,Joeri Vercauteren,BOECHOUT,M,203,00:11:39.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+321,502,Joey Timmer,HERWIJNEN,M,204,00:11:39.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+322,283,Saskia Elemans,WAGENINGEN,V,118,00:11:40.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+323,321,Andreas Arlt,MECHELEN,M,205,00:11:40.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+324,498,Katja schade,UTRECHT,V,119,00:11:40.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+325,453,Marjon van Paassen,NAALDWIJK,V,120,00:11:40.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+326,591,Do Vroom,DEN HAAG,V,121,00:11:40.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+327,207,Rene Vrosch,EDE,M,206,00:11:41.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+328,362,Wim De Jong,ABCOUDE,M,207,00:11:41.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+329,263,Tessa Bakker,ZWANENBURG,V,122,00:11:41.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+330,459,Barbara van Paassen,AMSTERDAM,V,123,00:11:41.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+331,172,Kees der Weduwe,COTHEN,M,208,00:11:41.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+332,574,Emma Vercauteren,MUIZEN,V,124,00:11:42.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+333,504,Joachim Golliard,DELFT,M,209,00:11:42.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+334,406,Robert Hardeman,AALSMEER,M,210,00:11:43.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+335,551,Freek Diephuis,UTRECHT,M,211,00:11:43.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+336,204,Joep van der Laan,WEESP,M,212,00:11:45.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+337,518,Laura Boudestein,UTRECHT,V,125,00:11:45.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+338,636,Annebel Keijzer,AMSTERDAM,V,126,00:11:46.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+339,222,Alexander van Sligtenhorst,ABCOUDE,M,213,00:11:46.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+340,87,Dennis Schipper,AMSTERDAM,M,214,00:11:46.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+341,454,Marjon Huibers,AMSTERDAM,V,127,00:11:47.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+342,240,Hans van Zalen,AMSTERDAM,M,215,00:11:47.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+343,138,Thirza Stiphout,VEENENDAAL,V,128,00:11:47.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+344,601,DC Musch,AMSTERDAM,V,129,00:11:48.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+345,89,Dave Waars,AMSTERDAM,M,216,00:11:48.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+346,455,Marjolein Zagers,AMSTERDAM,V,130,00:11:49.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+347,179,Nanouk Botman,AMSTERDAM,V,131,00:11:49.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+348,231,Heleen de Gouw,ALPHEN AAN DEN RIJN,V,132,00:11:49.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+349,261,Nico Padding,UTRECHT,M,217,00:11:49.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+350,537,Hanc de Bokx,DELFT,M,218,00:11:50.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+351,465,Marc Verheul,NIGTEVECHT,M,219,00:11:50.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+352,625,Bernard Vonck,,M,220,00:11:50.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+353,124,Erik Daems,MECHELEN,M,221,00:11:50.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+354,530,Henrik Sellies,MOLENACKER,M,222,00:11:50.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+355,296,Harry van Dijk,VEENENDAAL,M,223,00:11:51.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+356,623,Bram Stege,DORDRECHT,M,224,00:11:51.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+357,295,Laura Veerman,VELSERBROEK,V,133,00:11:51.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+358,622,Camilla de Jong,AMSTERDAM,V,134,00:11:51.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+359,493,Karin Wolvenne,HILVERSUM,V,135,00:11:52.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+360,583,Eline Heemskerk,HAARLEM,V,136,00:11:53.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+361,266,Ansgar Niehueser,IBBENBEUREN,M,225,00:11:53.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+362,388,Saskia Willers,LEIDEN,V,137,00:11:55.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+363,39,Casper De vries,ZAANDAM,M,226,00:11:55.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+364,418,Gerjanne van Gink,UTRECHT,V,138,00:11:56.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+365,291,Mette Timmermans,AMSTERDAM,V,139,00:11:57.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+366,380,Stephan Steetskamp,AMSTERDAM,M,227,00:11:57.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+367,210,Tim van der Horst,UTRECHT,M,228,00:11:58.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+368,140,Annelore van der Lint,AMSTERDAM,V,140,00:11:58.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+369,615,Christine Jonckers,HUMBEEK,V,141,00:12:00.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+370,374,Sybo de Geus,DE MEERN,M,229,00:12:00.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+371,340,Albert Oude Nijhuis,UTRECHT,M,230,00:12:00.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+372,387,Shirley Scheffel,MONSTER,V,142,00:12:01.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+373,290,Lotte van der Linden,HAARLEM,V,143,00:12:01.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+374,147,Hilda Brak,ZEGVELD,V,144,00:12:02.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+375,495,Judith Flipse,HILVERSUM,V,145,00:12:03.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+376,285,Inge Verhoeven,WAALWIJK,V,146,00:12:04.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+377,305,Cora Vermeer van Hunen,VEENENDAAL,V,147,00:12:05.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+378,466,Marc Hek,LOOSDRECHT,M,231,00:12:05.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+379,632,Aris Jan Van Ek,IJSSELSTEIN,M,232,00:12:06.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+380,96,Mario Blom,AMSTERDAM,M,233,00:12:06.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+381,417,Pie van der Wind,AMSTERDAM,V,148,00:12:07.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+382,437,Merijn Mook,NIJMEGEN,M,234,00:12:08.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+383,532,Hendrike Oosterhof,S-GRAVENHAGE,V,149,00:12:08.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+384,160,Jamie Chisholm,AMSTERDAM,M,235,00:12:08.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+385,425,Patricia Kleijn,AMSTERDAM,V,150,00:12:11.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+386,281,Marcel Van den Bovenkamp,WEESP,M,236,00:12:11.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+387,233,Laura Kervezee,AMSTERDAM,V,151,00:12:12.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+388,230,Anabel Botman,UTRECHT,V,152,00:12:13.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+389,570,Erwin Bakker,AMSTERDAM,M,237,00:12:13.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+390,421,Petra Muller,ASSENDELFT,V,153,00:12:13.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+391,505,Jitske Nijhuis,UTRECHT,V,154,00:12:13.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+392,221,Nikki Mulder,AMSTERDAM,V,155,00:12:14.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+393,646,Amarins Gjaltema,AMSTERDAM,V,156,00:12:14.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+394,586,Edward Nagel,AMSTERDAM,M,238,00:12:14.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+395,268,Michiel Satink,ZWOLLE,M,239,00:12:15.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+396,576,Ellen Maas,LEUVEN,V,157,00:12:15.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+397,478,Jessica Bakker,UTRECHT,V,158,00:12:16.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+398,481,Laura Spreeuw,HILLEGOM,V,159,00:12:16.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+399,427,Niels Hoedemaker,AMSTERDAM,M,240,00:12:17.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+400,540,Guus de Reus,HAARLEM,M,241,00:12:17.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+401,279,Ruut Schalij,UTRECHT,M,242,00:12:18.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+402,229,Wouter Verbree,ABCOUDE,M,243,00:12:18.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+403,621,Caro Baumeister,HILVERSUM,V,160,00:12:18.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+404,545,Gerben Hulsegge,UTRECHT,M,244,00:12:18.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+405,368,Tobias van Rijn,HAARLEM,M,245,00:12:19.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+406,665,Wouter Weerkamp,UTRECHT,M,246,00:12:19.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+407,373,Thilo Schoendienst,DEN HAAG,M,247,00:12:20.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+408,662,Roel Janssens,UTRECHT,M,248,00:12:21.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+409,600,Denise De beer,DOORN,V,161,00:12:22.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+410,256,Xander Soudant,DE MEERN,M,249,00:12:22.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+411,311,Roel Bemelman,VINKEVEEN,M,250,00:12:23.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+412,444,Martine Verweij,AMSTERDAM,V,162,00:12:23.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+413,598,Monique de Bie,TETERINGEN,V,163,00:12:24.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+414,327,Kristian van Hemert,AMSTERDAM,M,251,00:12:25.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+415,561,Fien Burg,HEVERLEE,V,164,00:12:25.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+416,414,Ria Perfors,ELST (UT),V,165,00:12:26.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+417,400,Rosa Veldhoen,HAARLEM,V,166,00:12:27.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+418,392,Sandra Seegers,DEN HELDER,V,167,00:12:27.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+419,203,Norbert Mollers,UTRECHT,M,252,00:12:28.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+420,560,Fleur Botman,AMSTERDAM,V,168,00:12:30.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+421,323,Aafje Van Dijk,MAASSLUIS,V,169,00:12:30.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+422,397,Ruben Pepping,ABCOUDE,M,253,00:12:31.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+423,355,Yolanda Evenblij,OEGSTGEEST,V,170,00:12:33.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+424,137,Mieke van Kollenburg,UTRECHT,V,171,00:12:34.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+425,668,Andre Hendriks,MIJDRECHT,M,254,00:12:36.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+426,567,Esther Bekkers,HERENT,V,172,00:12:36.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+427,218,Mathieu Steen,AMSTELVEEN,M,255,00:12:37.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+428,398,Fieke Kok,UTRECHT,V,173,00:12:38.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+429,492,Jorden van Luxemburg,UTRECHT,M,256,00:12:38.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+430,628,Bart Van Losenoord,UTRECHT,M,257,00:12:43.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+431,547,Gaston Loos,AMSTERDAM,M,258,00:12:43.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+432,278,Ellen de Ruiter,VLAARDINGEN,V,174,00:12:45.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+433,451,Marlies Piksen,HAARLEM,V,175,00:12:49.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+434,335,Annemarie Arkema,SOEST,V,176,00:12:49.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+435,613,Conor Striegel,HAARLEM,M,259,00:12:50.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+436,363,Willem Wolffgramm,AMSTELVEEN,M,260,00:12:52.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+437,249,Nathan Slingerland,VELSERBROEK,,,00:12:53.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+438,660,Rianne van Luxemburg,UTRECHT,V,177,00:12:53.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+439,245,Peter Slingerland,VELSERBROEK,M,261,00:12:54.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+440,386,Sibrecht Bouwstra,NIJMEGEN,V,178,00:12:55.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+441,303,Martine Roona,DE LIER,V,179,00:12:57.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+442,558,Mariette Mol,UTRECHT,V,180,00:12:57.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+443,617,Christiane Roesch,WAGENINGEN,V,181,00:12:58.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+444,590,Dominique Verzantvoort,ROSMALEN,V,182,00:12:58.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+445,99,Johan Vlastuin,DELFT,M,262,00:13:00.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+446,208,Rick Bogaard,LEERDAM,M,263,00:13:02.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+447,403,Rolf De Jong,ABCOUDE,M,264,00:13:02.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+448,538,Laura Derks,UTRECHT,V,183,00:13:06.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+449,435,Miranda Geurts,LEIDEN,V,184,00:13:07.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+450,631,Arjen Keijzer,MAASLAND,M,265,00:13:08.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+451,534,Harry Enninga,MUIDEN,M,266,00:13:10.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+452,544,Gerda Oostveen,MEERKERK,V,185,00:13:10.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+453,431,Nathalie van Hemert,LEIDEN,V,186,00:13:10.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+454,29,Jan Verbakel,LEIDEN,M,267,00:13:11.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+455,614,Cindy Poot,MAASLAND,V,187,00:13:13.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+456,333,Alexander Pot,NIJVERDAL,M,268,00:13:13.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+457,395,Ruud Klaare,LEERSUM,M,269,00:13:14.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+458,562,Femke Bekius,UTRECHT,V,188,00:13:16.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+459,565,Eva Juffermans,ENSCHEDE,V,189,00:13:17.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+460,334,Donna Perridon,SCHERPENZEEL,V,190,00:13:17.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+461,428,Nicolette Huibers,ARNHEM,V,191,00:13:17.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+462,491,Kathrin Poser,BENNEKOM,V,192,00:13:17.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+463,354,Youri Gerritse,UTRECHT,M,270,00:13:18.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+464,564,Henk van der Heide,UTRECHT,M,271,00:13:18.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+465,408,Frieke Boiten,UTRECHT,V,193,00:13:18.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+466,366,Wendela Wallenburg,HAARLEM,V,194,00:13:18.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+467,638,Anne Floor Lagerweij,UTRECHT,V,195,00:13:19.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+468,346,Roelof de Rooij,HILVERSUM,M,272,00:13:19.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+469,508,Kimberley Eshuis,UTRECHT,V,196,00:13:19.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+470,310,Jort Ligterink,VINKEVEEN,M,273,00:13:19.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+471,187,Raimo Haverink,VLEUTEN,M,274,00:13:22.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+472,452,Marlies Olthof,OUDERKERK AAN DE AMSTEL,V,197,00:13:23.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+473,506,Jeroen Freriks,LEIDEN,M,275,00:13:23.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+474,663,Brenden Jongman,AMSTERDAM,M,276,00:13:24.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+475,476,Lidia Bakker,ALMERE,V,198,00:13:25.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+476,330,Marijcke Toussaint,AMSTERDAM,V,199,00:13:25.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+477,259,Hannie Paul,ABCOUDE,V,200,00:13:26.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+478,460,Marieke ten Tusscher,AMSTERDAM,V,201,00:13:28.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+479,566,Esther van Leeuwen,MAASLAND,V,202,00:13:29.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+480,188,Rindert De Jong,WARTEN,M,277,00:13:29.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+481,189,Danny Martherus,ZEIST,M,278,00:13:32.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+482,521,Irene van der Lee,MAASLAND,V,203,00:13:33.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+483,527,Igor van den Akker,AMSTERDAM,M,279,00:13:35.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+484,573,Eric Bouton,DEN HAAG,M,280,00:13:35.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+485,603,Dave van Iersel,NIJMEGEN,M,281,00:13:37.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+486,264,Laura Wortman,ZOETERMEER,V,204,00:13:38.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+487,219,Bettine Schaap,GRONINGEN,V,205,00:13:40.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+488,350,Esther Zaat,TILBURG,V,206,00:13:40.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+489,396,Ruud Freeke,LEIDERDORP,M,282,00:13:42.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+490,242,Peter Korzelius,HUIZEN,M,283,00:13:43.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+491,168,Piet Berg,LEIDERDORP,M,284,00:13:44.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+492,448,Ineke Goosen,UTRECHT,V,207,00:13:44.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+493,486,Kees Legemaate,BURGH-HAAMSTEDE,M,285,00:13:45.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+494,426,Noortje van Petten,HAARLEM,V,208,00:13:48.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+495,248,Yvonne Hijdra,,V,209,00:13:49.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+496,318,Dewi Wakanno,UTRECHT,V,210,00:13:51.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+497,223,Joop Majoor,HUIZEN,M,286,00:13:52.00,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+498,306,Anno Kamphuis,BUSSUM,M,287,00:13:53.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+499,185,Els Gies,LANGBROEK,V,211,00:13:53.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+500,324,Rene Verkade,MAASSLUIS,M,288,00:13:54.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+501,302,Jasper Cornelissen,DELFT,M,289,00:13:56.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+502,299,Rob Bisseling,ABCOUDE,M,290,00:13:59.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+503,577,Ellen De Jong,ABCOUDE,V,212,00:14:00.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+504,316,Marleen Funneman,UTRECHT,V,213,00:14:01.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+505,634,Annet Metz,AMSTERDAM,V,214,00:14:02.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+506,424,Paul Gies,LANGBROEK,M,291,00:14:03.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+507,415,Rene Bakker,DEN HAAG,M,292,00:14:04.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+508,361,Wim van Vliet,KATWIJK (ZH),M,293,00:14:04.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+509,667,Ruud Hendriks,GROTENBROEK,M,294,00:14:06.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+510,304,Marja Dukker,DE LIER,V,215,00:14:06.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+511,449,Ruben van der Zwaan,UTRECHT,M,295,00:14:11.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+512,272,Teus Zelderen,WOERDEN,M,296,00:14:12.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+513,557,Floortje Steenhuis,AMSTERDAM,V,216,00:14:14.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+514,294,Rika Donkervoort,VINKEVEEN,V,217,00:14:18.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+515,473,Loes van Winden,LEIDEN,V,218,00:14:19.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+516,479,Desley Van den Dungen,ROTTERDAM,V,219,00:14:19.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+517,569,Ina Van Boven-de Heus,SLEEUWIJK,V,220,00:14:20.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+518,348,Ingrid Peters,DEN HAAG,V,221,00:14:20.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+519,159,Lars Wieringa,BUSSUM,M,297,00:14:28.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+520,485,Kevin Zuidwijk,DEN HAAG,M,298,00:14:34.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+521,325,Petra Sluijter,MAASLAND,V,222,00:14:39.40,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+522,515,Jacques Krol,OEGSTGEEST,M,299,00:14:39.45,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+523,225,Rolf Smid,AMSTERDAM,M,300,00:14:46.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+524,344,Cliff Piets,AMSTERDAM,M,301,00:14:46.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+525,301,Marlous de Waardt,DELFT,V,223,00:14:51.75,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+526,320,Pascal Blancquaert,MECHELEN,M,302,00:14:54.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+527,308,Irina Mak,UTRECHT,V,224,00:15:02.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+528,597,Dennis v Wel,AMSTERDAM,M,303,00:15:14.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+529,262,Sara Galle,UTRECHT,V,225,00:15:14.85,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+530,522,Ingrid Huiskamp,HILVERSUM,V,226,00:15:21.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+531,358,Brenda van Rijn,VINKEVEEN,V,227,00:15:26.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+532,359,Hester van Genderen,WAVERVEEN,V,228,00:15:29.35,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+533,669,Sandra Vreugdenhil,VINKEVEEN,V,229,00:15:34.25,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+534,599,Martien Borst,ALMERE,M,304,00:15:35.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+535,341,Stijn van den Hurk,UTRECHT,M,305,00:15:39.80,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+536,288,Sylvia Schreurs,VINKEVEEN,V,230,00:15:48.70,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+537,293,Ellie Van Senten,VINKEVEEN,V,231,00:15:53.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+538,596,Martijn Borst,LIJNDEN,M,306,00:16:12.55,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+539,345,Martien Lodder,CULEMBORG,M,307,00:16:12.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+540,592,Dion Philippo,HOOFDDORP,M,308,00:16:13.60,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+541,655,Wouter Klomp,ALKMAAR,M,309,00:16:17.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+542,659,Richard Frans,BERGEN,M,310,00:16:19.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+543,243,Peter Lauffer,WILNIS,M,311,00:16:37.50,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+544,487,Kees Haasnoot,KATWIJK AAN ZEE,M,312,00:16:43.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+545,602,David van Beveren,AMSTERDAM,M,313,00:16:50.15,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+546,575,Elly Majoor,LAREN NH,V,232,00:16:51.95,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+547,589,Erik Bakker,AMSTERDAM,M,314,00:16:52.05,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+548,550,Freya Verstraete,HOVE,V,233,00:17:20.10,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+549,253,Mary Langerak,HILVERSUM,V,234,00:18:17.90,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+550,556,Floris van Barneveld,UTRECHT,M,315,00:18:45.30,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+551,343,Joelle van de Nol,VLAARDINGEN,V,235,00:18:55.65,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30
+552,349,Anja van den Nol,VLAARDINGEN,V,236,00:18:56.20,5e Het Rondje Eilanden Vinkeveen 30-07-2016,2016-07-30

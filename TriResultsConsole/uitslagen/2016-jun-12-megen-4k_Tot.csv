@@ -1,0 +1,52 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,V1459,Jens nederpel,Lithoijen,M,1,00:22:56,00:22:56,Maasdijk Marathon ,2016-06-12
+2,V1448,Jim van Zon,Oss,M,2,00:23:38,00:23:38,Maasdijk Marathon ,2016-06-12
+3,V1445,Jesper Coeleveld,Oss,M,3,00:25:48,00:25:48,Maasdijk Marathon ,2016-06-12
+4,V1425,Frank van Ochten,Oss,M,4,00:26:24,00:26:23,Maasdijk Marathon ,2016-06-12
+5,V1441,Bijs Manders,Herpen,M,5,00:26:46,00:26:46,Maasdijk Marathon ,2016-06-12
+6,V1470,Paul Veldhuijsen,Ravenstein,M,6,00:30:17,00:30:09,Maasdijk Marathon ,2016-06-12
+7,V1443,Finn van Dongen,Herpen,M,7,00:30:18,00:30:18,Maasdijk Marathon ,2016-06-12
+8,V1471,Atto Brouwer,Oss,M,8,00:30:28,00:30:24,Maasdijk Marathon ,2016-06-12
+9,V1463,Renée Griede,Oss,V,1,00:30:31,00:30:28,Maasdijk Marathon ,2016-06-12
+10,V1438,Tycho de Haard,Oss,M,9,00:30:34,00:30:31,Maasdijk Marathon ,2016-06-12
+11,T1313,Ria van Breda,Heesch,V,2,00:31:29,00:31:28,Maasdijk Marathon ,2016-06-12
+12,T1355,Michelle van Gaal,Oss,V,3,00:32:31,00:32:29,Maasdijk Marathon ,2016-06-12
+13,V1473,Eva Konings,Malden,V,4,00:33:14,00:33:13,Maasdijk Marathon ,2016-06-12
+14,V1444,Pim Verwijst,Herpen,M,10,00:33:39,00:33:39,Maasdijk Marathon ,2016-06-12
+15,V1468,Yvonne Veens,Malden,V,5,00:34:01,00:34:00,Maasdijk Marathon ,2016-06-12
+16,V1462,Joan van den Hurk,Lithoijen,M,11,00:34:26,00:34:22,Maasdijk Marathon ,2016-06-12
+17,V1467,Suzanne Gijsen,Megen,V,6,00:34:34,00:34:31,Maasdijk Marathon ,2016-06-12
+18,V1485,,,,,00:35:05,00:35:00,Maasdijk Marathon ,2016-06-12
+19,V1456,Ferry Witsiers,Megen,M,12,00:35:05,00:35:01,Maasdijk Marathon ,2016-06-12
+20,V1434,Lis Princen,Ravenstein,V,7,00:35:14,00:35:12,Maasdijk Marathon ,2016-06-12
+21,V1466,Jeroen Kuijpers,Oss,M,13,00:35:18,00:35:14,Maasdijk Marathon ,2016-06-12
+22,V1442,Tim Dekkers,Herpen,M,14,00:35:29,00:35:29,Maasdijk Marathon ,2016-06-12
+23,V1427,Kim v Teeffelen,Veghel,V,8,00:35:35,00:35:33,Maasdijk Marathon ,2016-06-12
+24,V1433,Carin witsiers,Megen,V,9,00:35:36,00:35:32,Maasdijk Marathon ,2016-06-12
+25,V1426,Freda v teeffelen,Lith,V,10,00:35:42,00:35:40,Maasdijk Marathon ,2016-06-12
+26,V1465,Ric Maandag,Oss,M,15,00:35:42,00:35:40,Maasdijk Marathon ,2016-06-12
+27,V1440,Rianne Janssen,Berghem,V,11,00:35:47,00:35:41,Maasdijk Marathon ,2016-06-12
+28,V1454,Caroline Schouten,Oss,V,12,00:35:54,00:35:50,Maasdijk Marathon ,2016-06-12
+29,V1455,Wendy Bressers,Oss,V,13,00:35:54,00:35:50,Maasdijk Marathon ,2016-06-12
+30,V1450,Ada Oele - Egelmeer,Megen,V,14,00:36:10,00:36:04,Maasdijk Marathon ,2016-06-12
+31,V1476,Bernadette Benjamins,Megen,V,15,00:36:18,00:36:13,Maasdijk Marathon ,2016-06-12
+32,V1469,Ingrid Cornelius,Woudrichem,V,16,00:36:25,00:36:22,Maasdijk Marathon ,2016-06-12
+33,V1449,Senna Mols,Oss,V,17,00:36:25,00:36:22,Maasdijk Marathon ,2016-06-12
+34,V1482,,,,,00:36:27,00:36:24,Maasdijk Marathon ,2016-06-12
+35,V1464,Widel van Son,Arnhem,V,18,00:36:29,00:36:24,Maasdijk Marathon ,2016-06-12
+36,V1437,Marrigje de Haard,Oss,V,19,00:36:29,00:36:26,Maasdijk Marathon ,2016-06-12
+37,V1428,Rick van Alem,Oss,M,16,00:36:31,00:36:29,Maasdijk Marathon ,2016-06-12
+38,V1451,Laura Kriznaric,Oss,V,20,00:36:31,00:36:29,Maasdijk Marathon ,2016-06-12
+39,V1435,Terra Aarsman,Megen,V,21,00:36:39,00:36:32,Maasdijk Marathon ,2016-06-12
+40,V1429,Bianca Gordijn,Oss,V,22,00:38:32,00:38:30,Maasdijk Marathon ,2016-06-12
+41,V1461,Nienke Dekker,Zwolle,V,23,00:39:32,00:39:27,Maasdijk Marathon ,2016-06-12
+42,V1430,Anneloes Usleeber,Megen,V,24,00:39:32,00:39:27,Maasdijk Marathon ,2016-06-12
+43,V1481,Linda Pittens,Oss,V,25,00:39:33,00:39:32,Maasdijk Marathon ,2016-06-12
+44,V1432,Leonie Muis,Megen,V,26,00:39:37,00:39:34,Maasdijk Marathon ,2016-06-12
+45,V1446,Raymond Boeijen,Heesch,M,17,00:40:36,00:40:34,Maasdijk Marathon ,2016-06-12
+46,V1477,Marjolein Hogendorn,Megen,V,27,00:40:37,00:40:32,Maasdijk Marathon ,2016-06-12
+47,V1452,Jiska van der Heide,De Meern,V,28,00:40:38,00:40:32,Maasdijk Marathon ,2016-06-12
+48,V1479,Paula van Gurp,Oss,V,29,00:40:48,00:40:43,Maasdijk Marathon ,2016-06-12
+49,V1480,Norah van Gurp,Oss,V,30,00:41:11,00:41:05,Maasdijk Marathon ,2016-06-12
+50,V1478,Haske van Gurp,Oss,M,18,00:41:11,00:41:05,Maasdijk Marathon ,2016-06-12
+51,V1439,Els van Spijk,Oss,V,31,00:47:15,00:47:08,Maasdijk Marathon ,2016-06-12

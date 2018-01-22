@@ -1,0 +1,585 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,TotaalTijd,race,date
+1,1,Erik Schröder,GRONINGEN,M,1,00:39:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+2,4,Davy Heijsteeg,AALSMEER,M,2,00:42:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+3,56,Stefan van Thiel,ZEELAND,M,3,00:42:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+4,111,Jony Heerink,AMERSFOORT,V,1,00:43:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+5,3,Vincent Bohm,DE BILT,M,4,00:43:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+6,7,Marco Vernooij,ENSCHEDE,M,5,00:43:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+7,6,Bjorn van Vliet,HEINENOORD,M,6,00:43:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+8,10,Stefan de Laat,DIESSEN,M,7,00:44:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+9,11,Ben Muller,NIEUW-LEKKERLAND,M,8,00:44:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+10,40,Ruben Slot,DALFSEN,M,9,00:44:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+11,477,Jasmijn van der Burg,ALKMAAR,V,2,00:45:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+12,20,Stef de Boer,ZWAANSHOEK,M,10,00:45:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+13,85,Roland de Haan,EERSEL,M,11,00:45:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+14,72,Niels Grote Beverborg,GRONINGEN,M,12,00:45:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+15,58,Marlon 't Hart,DELFT,M,13,00:45:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+16,34,Thijs Hekman,ENSCHEDE,M,14,00:45:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+17,12,Freek de Boer,NIEUW-VENNEP,M,15,00:45:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+18,22,Milo Janssen,WAALWIJK,M,16,00:46:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+19,51,Rene Poppe,ZWOLLE,M,17,00:46:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+20,558,Leon van Doornik,UTRECHT,M,18,00:46:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+21,63,Matt Warnock,AMSTERDAM,M,19,00:46:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+22,81,Berry van Holland,HAREN,M,20,00:46:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+23,54,Marcel Bezemer,DORDRECHT,M,21,00:46:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+24,61,Corne Rosendaal,VEENENDAAL,M,22,00:46:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+25,245,Bas Habets-Feskens,DEN HELDER,M,23,00:47:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+26,32,Izak Hanse,ENSCHEDE,M,24,00:47:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+27,17,Rens van Eijk,UTRECHT,M,25,00:47:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+28,116,Deborah Wissink,HENGELO,V,3,00:47:36,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+29,27,Niels De Gang,Granollers Barcelona,M,26,00:47:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+30,9,Jeroen Hutten,UTRECHT,M,27,00:48:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+31,5,Piet van der Zwaag,RHENEN,M,28,00:48:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+32,13,Vernon Steenkamp,AMSTERDAM,M,29,00:48:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+33,106,Eva Janssen,HILVERSUM,V,4,00:48:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+34,593,Frank van Vugt,HEILOO,M,30,00:48:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+35,25,Jorg van Tongeren,ANKEVEEN,M,31,00:48:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+36,8,Johan Koolhaas,AMSTELVEEN,M,32,00:48:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+37,66,Javier Barrero Gomez,AMSTERDAM,M,33,00:48:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+38,26,Max Muller,NIEUW-LEKKERLAND,M,34,00:48:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+39,105,Birgit Berk,MEERSSEN,V,5,00:48:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+40,107,Jorieke Casteleijn,ZEEWOLDE,V,6,00:48:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+41,102,Germijn Heijnen,UTRECHT,V,7,00:48:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+42,73,Daan Jacobs,WEESP,M,35,00:48:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+43,103,Agnes van Brug,ALKMAAR,V,8,00:48:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+44,495,Jelle van de Veen,OEGSTGEEST,M,36,00:48:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+45,29,Michel Wigbers,HAARLEM,M,37,00:48:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+46,199,Ido Holtkuile,UTRECHT,M,38,00:48:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+47,163,Maaike Waaijer,ROTTERDAM,V,9,00:48:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+48,153,Wendan Poelstra,GRONINGEN,V,10,00:49:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+49,14,Sven Duits,AMERSFOORT,M,39,00:49:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+50,21,Bram Verbout,MAARSSEN,M,40,00:49:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+51,19,Jan van Heteren,AALSMEER,M,41,00:49:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+52,95,Bert Wallet,AMERSFOORT,M,42,00:49:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+53,16,Sjoerd Oosterbaan,ASSENDELFT,M,43,00:49:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+54,52,Jelmer Koekkoek,UTRECHT,M,44,00:49:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+55,74,Robert Parinussa,WEESP,M,45,00:49:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+56,108,Marloes Nieberg,UTRECHT,V,11,00:49:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+57,148,Maaike Vooren,ALKMAAR,V,12,00:49:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+58,23,Bart Alberts,NIJMEGEN,M,46,00:49:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+59,104,Lenja Witlox,UTRECHT,V,13,00:49:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+60,110,Chloe Scotchbrook,MAARSSEN,V,14,00:50:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+61,157,Lenneke van Schaik,EINDHOVEN,V,15,00:50:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+62,101,Fiona Meuffels,ECHT,V,16,00:50:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+63,193,Corne Kool,RHENEN,M,47,00:50:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+64,235,Kristian van Hemert,AMSTERDAM,M,48,00:50:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+65,59,Dirk Boelens,APELDOORN,M,49,00:50:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+66,50,Theo Bult,WAGENINGEN,M,50,00:50:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+67,96,Edwin Petri,NIGTEVECHT,M,51,00:51:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+68,172,Peter Flietstra,VINKEVEEN,M,52,00:51:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+69,62,Jelle Roks,VEENENDAAL,M,53,00:51:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+70,49,Erik Landman,AMSTERDAM,M,54,00:51:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+71,28,Ruud Edelman,BODEGRAVEN,M,55,00:51:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+72,366,Jeffrey van 't Schip,MIJDRECHT,M,56,00:51:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+73,145,Anne Duijst,AMERSFOORT,V,17,00:51:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+74,38,Mark Schram,CHICAGO US,M,57,00:51:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+75,140,Dieuwertje Bax,AMSTERDAM,V,18,00:51:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+76,93,Rene Miltenburg,UTRECHT,M,58,00:51:58,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+77,89,Michiel Timmers,UTRECHT,M,59,00:52:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+78,445,Robbert Waal,GOUDA,M,60,00:52:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+79,94,Abel Hanse,ENSCHEDE,M,61,00:52:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+80,664,Wim van Vliet,KATWIJK,M,62,00:52:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+81,48,Cas Krol,LEIDEN,M,63,00:52:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+82,77,Imro van Soest,UTRECHT,M,64,00:52:22,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+83,174,Rowan van Rooij,UTRECHT,M,65,00:52:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+84,171,Sam van Rossom,HERENT,M,66,00:52:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+85,109,Marianne Muijzer,PUTTERSHOEK,V,19,00:52:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+86,68,Tjibbe Veenema,AMSTERDAM,M,67,00:52:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+87,18,Micha Peters,VINKEVEEN,M,68,00:52:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+88,46,Ruben van Duren,HILVERSUM,M,69,00:52:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+89,115,Klaziena Politiek,GRONINGEN,V,20,00:52:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+90,87,Gerko Floor,MEERSTAD,M,70,00:52:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+91,663,Yldau de Lange,NIJMEGEN,V,21,00:53:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+92,92,KeesJan Otto,EDE GLD,M,71,00:53:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+93,79,Tom van Daalen,VEENENDAAL,M,72,00:53:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+94,453,Jaap de Raad,HAARLEM,M,73,00:53:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+95,547,Tom Beving,AMSTERDAM,M,74,00:53:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+96,211,Anton van Dijk,DEN HELDER,M,75,00:53:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+97,682,Frank Zaadnoordijk,ZEIST,M,76,00:53:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+98,30,Jochen de Gang,LEUVEN,M,77,00:53:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+99,161,Hinkelien Schreuder,AMSTERDAM,V,22,00:53:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+100,42,Erwin van Roemburg,LOENEN AAN DE VECHT,M,78,00:53:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+101,270,Liam van Gool,DORDRECHT,M,79,00:53:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+102,88,Hans-Peter Ligthart,AMSTERDAM,M,80,00:53:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+103,123,Julia van der Burgt,EINDHOVEN,V,23,00:53:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+104,491,Paul van Daalen,RHENEN,M,81,00:53:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+105,122,Jitske Weersma,SPIJKENISSE,V,24,00:53:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+106,36,Andries Langendijk,APELDOORN,M,82,00:53:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+107,406,Ingmar Kooman,LEIDEN,M,83,00:54:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+108,117,Silke Bink,BREEZAND,V,25,00:54:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+109,490,Niek Bouman,WAGENINGEN,M,84,00:54:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+110,517,Dennis Schipper,AMSTERDAM,M,85,00:54:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+111,566,Peter Freriks,HOOFDDORP,M,86,00:54:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+112,113,Mariska Winter,ENSCHEDE,V,26,00:54:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+113,175,Wouter de Rijk,VEENENDAAL,M,87,00:54:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+114,37,John Heijsteeg,AALSMEER,M,88,00:54:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+115,465,Jan Willem van Kampen,HAARLEM,M,89,00:54:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+116,206,Jorick Quax,BREEZAND,M,90,00:54:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+117,173,Jeroen Hijstek,NIEUW VENNEP,M,91,00:54:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+118,141,Nienke Wind,AMSTERDAM,V,27,00:54:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+119,47,Peter Ziekman,SPIJKENISSE,M,92,00:54:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+120,82,Ronald van Marissing,HILVERSUM,M,93,00:54:53,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+121,143,Carola Bremer,ARNHEM,V,28,00:54:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+122,119,Roelien de Wolf,AMERSFOORT,V,29,00:55:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+123,195,Andor van der Meij,NIEUWEGEIN,M,94,00:55:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+124,431,Paul van der Weijden,LOOSDRECHT,M,95,00:55:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+125,64,Armand Sol,AMSTERDAM,M,96,00:55:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+126,471,Daniel Claessen,ARNHEM,M,97,00:55:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+127,134,Sandra Somford-Pannekeet,HEERHUGOWAARD,V,30,00:55:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+128,250,Dirk Jan Moes,NIEUW-VENNEP,M,98,00:55:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+129,78,Terence McCartan,IRELAND,M,99,00:55:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+130,83,Koert van Mensvoort,AMSTERDAM,M,100,00:55:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+131,15,Joost de Boer,ZWAANSHOEK,M,101,00:55:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+132,41,Mickey Peters,VINKEVEEN,M,102,00:55:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+133,450,Jorden van Luxemburg,UTRECHT,M,103,00:55:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+134,132,Ilse Schram,LEIDEN,V,31,00:55:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+135,98,Robert van de Velde,WASSENAAR,M,104,00:55:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+136,687,Joep van der Laan,WEESP,M,105,00:55:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+137,722,Martijn de Vries,UITHOORN,M,106,00:55:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+138,496,Sipke Moes,AMSTERDAM,M,107,00:55:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+139,435,Roderick Treskes,LEIDEN,M,108,00:55:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+140,260,Irma Kolk,HILVERSUM,V,32,00:56:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+141,184,Marijn Engels,AMSTERDAM,M,109,00:56:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+142,144,Lara 't Hart,DELFT,V,33,00:56:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+143,313,Heleen van Keulen,GELDERMALSEN,V,34,00:56:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+144,75,Justin Heijsteeg,AALSMEER,M,110,00:56:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+145,483,Maarten Afschrift,"""UITBERGEN, BELGIE""",M,111,00:56:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+146,651,Peter van den Broek,WERKHOVEN,M,112,00:56:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+147,160,Lorna Wilson,AMSTERDAM,V,35,00:56:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+148,97,Marco Marsman,AMSTERDAM,M,113,00:56:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+149,683,Henrik Sellies,DIESSEN,M,114,00:56:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+150,494,Sanne Heymann,VEENENDAAL,V,36,00:56:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+151,679,Melle Eringa,AMSTERDAM,M,115,00:56:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+152,39,Emiel van Bugnum,KRIMPEN AAN DEN IJSSEL,M,116,00:56:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+153,300,Belinda van Alphen,ALPHEN AAN DEN RIJN,V,37,00:56:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+154,999,?,,M,117,00:56:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+155,182,Martijn Borst,LIJNDEN,M,118,00:56:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+156,177,Thijs Dijkman,WEESP,M,119,00:56:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+157,578,Niels van der Woude,ZEIST,M,120,00:56:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+158,178,Peter van de Haar,EDE,M,121,00:56:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+159,678,Barend van Balen,AMSTERDAM,M,122,00:57:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+160,180,Coen Dijkman,WEESP,M,123,00:57:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+161,192,Karel Schrijvers,LOENERSLOOT,M,124,00:57:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+162,191,Rianne Snel,IJSSELSTEIN,V,38,00:57:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+163,179,Erik Daems,-,M,125,00:57:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+164,329,Melvin Keppel,UTRECHT,M,126,00:57:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+165,187,Peter Verheijen,HILVARENBEEK,M,127,00:57:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+166,506,Thomas Moore,ANTWERPEN,M,128,00:57:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+167,590,Mark Schouten,UITHOORN,M,129,00:57:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+168,643,Marcel van den Bovenkamp,WEESP,M,130,00:57:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+169,257,Hilbert Weemstra,AMSTERDAM,M,131,00:57:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+170,717,S Dank,HEINENOORD,V,39,00:57:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+171,492,Peter van Eenoo,ONZE-LIEVE-VROUW-WAVER(BELGIE),M,132,00:57:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+172,688,Julian Curtis,AMSTERDAM,M,133,00:57:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+173,466,Almer Veenendaal,HAARLEM,M,134,00:57:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+174,164,Janneke Logtenberg,LOCHEM,V,40,00:57:50,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+175,481,Leon van der Meijden,ALPHEN AAN DEN RIJN,M,135,00:57:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+176,202,Denise van der Donk,GROENLO,V,41,00:57:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+177,135,Esther Hoezen,VEENENDAAL,V,42,00:57:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+178,189,Nick Currie,UTRECHT,M,136,00:57:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+179,439,Mathijs Bodde,DEN HAAG,M,137,00:57:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+180,253,Evelien Kip,UTRECHT,V,43,00:57:58,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+181,700,Edwin de Koning,VINKEVEEN,M,138,00:58:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+182,126,Zoe van Gool,DORDRECHT,V,44,00:58:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+183,267,Lize Roosma,GRONINGEN,V,45,00:58:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+184,544,Gaston Loos,AMSTERDAM,M,139,00:58:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+185,118,Rene van Ravenzwaaij,AMSTERDAM,M,140,00:58:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+186,152,Ynske Rodenhuis,AMSTERDAM,V,46,00:58:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+187,282,Mathew Olde Klieverik,UTRECHT,M,141,00:58:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+188,188,Jakob Hartman,VEENENDAAL,M,142,00:58:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+189,130,Ida Oosterbroek,MIJDRECHT,V,47,00:58:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+190,196,Linda de Boer,LEEUWARDEN,V,48,00:58:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+191,617,Hugo van Drie,NIEUWEGEIN,M,143,00:58:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+192,186,Louis van Walsem,UTRECHT,M,144,00:58:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+193,374,Maarten van Vulpen,ODIJK,M,145,00:58:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+194,523,Andre Knop,LEERSUM,M,146,00:58:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+195,272,Aiden van Gool,-,M,147,00:58:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+196,57,Joury Kuiper,DEN HAAG,M,148,00:58:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+197,715,Jolanda van de Merwe,PUTTERSHOEK,V,49,00:58:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+198,290,Sander Kelderman,AMSTERDAM,M,149,00:58:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+199,125,Marloes Voorhout,HARMELEN,V,50,00:58:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+200,213,Ben Lammerts,UTRECHT,M,150,00:58:50,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+201,613,Marijke Abma,ENSCHEDE,V,51,00:59:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+202,691,Laurens Vercauteren,MUIZEN,M,151,00:59:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+203,120,Sarah Freytag,UTRECHT,V,52,00:59:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+204,295,Wytze Lenstra,UTRECHT,M,152,00:59:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+205,686,Jasmin Siersema,ENSCHEDE,V,53,00:59:06,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+206,289,Camiel Hirschberg,TILBURG,M,153,00:59:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+207,696,Inge Phernambucq,UTRECHT,V,54,00:59:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+208,657,Rinke Nijland,IJSSELSTEIN,M,154,00:59:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+209,537,Ellen van Dijk,VEENENDAAL,V,55,00:59:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+210,158,Rianne Dekker,EINDHOVEN,V,56,00:59:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+211,707,Carina Speksnijder,STOLWIJK,V,57,00:59:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+212,723,Maurice bos,BUSSUM,M,155,00:59:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+213,231,Renske Eilers,AMERSFOORT,V,58,00:59:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+214,114,Anne Siersema,ENSCHEDE,V,59,00:59:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+215,190,Peter Raymaekers,MECHELEN,M,156,00:59:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+216,640,Joanne Maartense,RIJSWIJK,V,60,00:59:22,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+217,176,Hans Poulis,LEIDEN,M,157,00:59:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+218,384,Hanc de Bokx,DELFT,M,158,00:59:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+219,630,Alexander Androulakis,LEIDEN,M,159,00:59:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+220,224,Hiddo Prevo,CASTRICUM,M,160,00:59:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+221,310,John Lens,GELDERMALSEN,M,161,00:59:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+222,596,Liselot Goris,ENSCHEDE,V,61,00:59:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+223,501,Erik Beijaert,AMSTERDAM,M,162,00:59:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+224,214,Conny Kiffen,MEGEN,V,62,00:59:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+225,432,Peter Kooijman,VINKEVEEN,M,163,00:59:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+226,493,Rob Spuij,NIEUWEGEIN,M,164,00:59:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+227,390,Willeke Koers,UTRECHT,V,63,00:59:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+228,334,Daan van der Wiel,EINDHOVEN,M,165,00:59:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+229,350,Marc Verlaan,UITHOORN,M,166,00:59:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+230,539,Miranda Beatse,UTRECHT,V,64,00:59:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+231,713,Emilie de Boer,MIJNSHEERENLAND,V,65,00:59:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+232,611,Janneke van Spijker,LEIDERDORP,V,66,00:59:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+233,228,Heleen Hoogeveen,GRONINGEN,V,67,01:00:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+234,623,Conor Andrews,AMSTERDAM,M,167,01:00:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+235,444,Xander Tekelenburg,UTRECHT,M,168,01:00:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+236,44,Erik Coevert,LAMBERTSCHAAG,M,169,01:00:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+237,312,Janneke van Schijndel,BUURMALSEN,V,68,01:00:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+238,424,Matthijs Pouwels,IJSSELSTEIN,M,170,01:00:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+239,268,Lucy Overbeek,ARNHEM,V,69,01:00:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+240,212,Matthew Walker,CASTRICUM,M,171,01:00:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+241,128,Wietske Bogaerts,HORSSEN,V,70,01:00:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+242,255,Geart Buma,AMSTERDAM,M,172,01:00:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+243,521,A. Huibers,VEENENDAAL,M,173,01:00:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+244,271,Bas van Gool,DORDRECHT,M,174,01:00:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+245,53,Arnold Schoneveld,RIJNSBURG,M,175,01:00:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+246,367,Jorgen Hennekes,APELDOORN,M,176,01:00:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+247,200,Ron Perdon,UTRECHT,M,177,01:00:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+248,697,Helga Peters,AMSTERDAM,V,71,01:00:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+249,653,Rui-Peng Wang,UTRECHT,M,178,01:00:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+250,265,Anja Ciere,GOUDA,V,72,01:00:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+251,292,Skip Waccarie,GRONINGEN,M,179,01:00:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+252,299,Tessa Struis,ALMELO,V,73,01:00:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+253,258,Ineke Halve,MAASLAND,V,74,01:01:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+254,503,Joris Galle,AMSTERDAM,M,180,01:01:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+255,208,Daatje de Wit,IJSSELSTEIN,V,75,01:01:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+256,396,Rolien Duiven,ZWOLLE,V,76,01:01:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+257,86,Wander Toering,WESTERVOORT,M,181,01:01:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+258,438,Shiva Zanoli,HILVERSUM,V,77,01:01:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+259,522,Alex van der Vlugt,LEERSUM,M,182,01:01:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+260,71,Erwin Renkema,AMSTERDAM,M,183,01:01:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+261,393,Stefan van Wijk,VINKEVEEN,M,184,01:01:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+262,248,Danny Klinkien,NIEUWEGEIN,M,185,01:01:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+263,243,Amber Hogendorp,DEN HELDER,V,78,01:01:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+264,317,Fiona van der Burgt,UTRECHT,V,79,01:01:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+265,667,Wouter van Onzenoort,DEN HELDER,M,186,01:01:36,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+266,150,Kristel Kooij,AMSTERDAM,V,80,01:01:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+267,618,Henk van Spijker,LEIDERDORP,M,187,01:01:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+268,347,Esther Steltenpohl,HEERHUGOWAARD,V,81,01:01:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+269,620,Diana Kolenberg,VINKEVEEN,V,82,01:01:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+270,304,Dennis Appels,ALPHEN AAN DEN RIJN,M,188,01:01:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+271,524,Annelore van der Lint,AMSTERDAM,V,83,01:01:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+272,638,Jan Posthumus,DIEMEN,M,189,01:01:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+273,606,Hans Vermeer,MAASLAND,M,190,01:01:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+274,430,Jeroen Venlet,LEIDEN,M,191,01:01:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+275,380,Marcel Beentjes,PURMEREND,M,192,01:01:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+276,660,Rosa Veldhoen,HAARLEM,V,84,01:02:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+277,646,Jef Meynen,STUIVENBERGBAAN 202 2800 MECHELEN BELG├½,M,193,01:02:06,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+278,545,Hans van Lent,AMSTERDAM,M,194,01:02:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+279,336,Vincent Frans,ZAANWEG 18,M,195,01:02:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+280,714,Frank Hammer,MIJNSHEERENLAND,M,196,01:02:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+281,422,Mathieu Steen,AMSTELVEEN,M,197,01:02:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+282,252,Erwin de Witte,ROTTERDAM,M,198,01:02:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+283,704,Annelies Mudde,LEIDEN,V,85,01:02:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+284,648,Nienke Teunissen,UTRECHT,V,86,01:02:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+285,201,Wander van der Laan,NIEUW-VENNEP,M,199,01:02:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+286,614,Maaike van der Meulen,UTRECHT,V,87,01:02:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+287,584,Patty Kuiper,DEN HAAG,V,88,01:02:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+288,661,Silvia de Reus-Stoop,WAARLAND,V,89,01:02:34,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+289,512,Ineke Telgen,APELDOORN,V,90,01:02:36,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+290,410,Janne Lambermont,AMSTERDAM,V,91,01:02:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+291,335,Xander Soudant,DE MEERN,M,200,01:02:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+292,598,Jacoline Zilverentant,SOEST,V,92,01:02:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+293,599,Annemarie Arkema,SOEST,V,93,01:02:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+294,568,Ron Koomen,ENSCHEDE,M,201,01:02:48,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+295,210,Annet van der Veen,LEKKERKERK,V,94,01:02:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+296,625,Andrew Smith-Nederhand,HAARLEM,M,202,01:02:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+297,69,Sebastiaan Horn,DEN HELDER,M,203,01:02:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+298,594,Marijcke Toussaint,AMSTERDAM,V,95,01:03:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+299,90,Marcel Verweij,LOOSDRECHT,M,204,01:03:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+300,256,Hein Lagerweij,UTRECHT,M,205,01:03:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+301,721,Roelof van den Brink,MIJDRECHT,M,206,01:03:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+302,322,Astrid Vercauteren,MECHELEN,V,96,01:03:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+303,498,Tom Bekers,LEUVEN,M,207,01:03:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+304,197,Matt Fox,MATAKANA NEW ZEALAND,M,208,01:03:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+305,237,Annebel Keijzer,AMSTERDAM,V,97,01:03:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+306,386,Cora Vermeer van Hunen,VEENENDAAL,V,98,01:03:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+307,383,Gert van Zanten,VEENENDAAL,M,209,01:03:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+308,241,Jeroen Jansen,DE MEERN,M,210,01:03:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+309,407,Louise Douma,UTRECHT,V,99,01:03:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+310,720,Henk Langeveld,MIJDRECHT,M,211,01:03:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+311,205,Jannes Schreuders,HAARLEM,M,212,01:03:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+312,308,Ed Beekman,ZEEWOLDE,M,213,01:03:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+313,425,Michel Jochems,UTRECHT,M,214,01:03:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+314,405,Inge Verhoeven,WAALWIJK,V,100,01:03:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+315,634,Gerjanne van Gink,UTRECHT,V,101,01:03:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+316,218,Ecoo de Vries,MAARSSEN,M,215,01:03:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+317,242,Albert Oude Nijhuis,UTRECHT,M,216,01:03:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+318,207,John Tersteeg,DOORN,M,217,01:03:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+319,209,Marleen Prins,HOOFDDORP,V,102,01:03:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+320,194,Michiel Stapelkamp,UTRECHT,M,218,01:03:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+321,654,Stefan van der Zande,OSSENDRECHT,M,219,01:03:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+322,557,Karl Kastner,WAGENINGEN,M,220,01:03:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+323,624,Adriaan Oprins,UTRECHT,M,221,01:03:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+324,434,Rian Flikweert,MIDDELBURG,V,103,01:03:50,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+325,385,Henri van Bodinckhuijsen,AMSTERDAM,M,222,01:03:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+326,608,Anouk Tragter,GEESTEREN GLD,V,104,01:04:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+327,127,Fenna de Hollander,NEDERHORST DEN BERG,V,105,01:04:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+328,198,Bas Verbree,VINKEVEEN,M,223,01:04:06,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+329,677,Natasja Batenburg,ZOETERMEER,V,106,01:04:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+330,695,Patrick Voorbij,AMSTELVEEN,M,224,01:04:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+331,693,Jasper Bos,AMSTERDAM,M,225,01:04:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+332,418,Martijn Bulsink,ELST GLD,M,226,01:04:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+333,716,Jan Maarten Dank,HEINENOORD,M,227,01:04:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+334,564,Paul van der Horst,VEENENDAAL,M,228,01:04:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+335,269,Bram Raatjes,UTRECHT,M,229,01:04:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+336,719,Anouck Hunck,SCHIEDAM,V,107,01:04:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+337,581,Stefan Horn,BOVENKARSPEL,M,230,01:04:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+338,447,Peter Meijer,DEN HAAG,M,231,01:04:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+339,215,Esther Bekkers,HERENT,V,108,01:04:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+340,641,Julia Becker,AMSTERDAM,V,109,01:04:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+341,204,John van Marrewijk,DE LIER,M,232,01:04:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+342,650,Pepijn Paanen,AMSTERDAM,M,233,01:04:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+343,413,Lisette Spoelder,ABCOUDE,V,110,01:04:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+344,576,Simche Heringa,UTRECHT,V,111,01:04:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+345,360,Hermien Koers,IJSSELMUIDEN,V,112,01:04:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+346,474,Hinke Galle-Visser,AMSTERDAM,V,113,01:04:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+347,456,Tim van der Horst,UTRECHT,M,234,01:04:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+348,398,Piet Moes,AMSTERDAM,M,235,01:04:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+349,457,Sam van der horst,COTHEN,M,236,01:04:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+350,287,Paul Slot,DALFSEN,M,237,01:04:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+351,392,Theo van Vliet,MAASLAND,M,238,01:04:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+352,586,Mirjam van Donselaar-Hofman,RIJSWIJK ZH,V,114,01:04:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+353,698,Fred van den Breul,SOEST,M,239,01:04:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+354,534,Denise de Beer,DOORN,V,115,01:05:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+355,309,Wim Beeuwkes,HOUTEN,M,240,01:05:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+356,239,Amarins Gjaltema,AMSTERDAM,V,116,01:05:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+357,459,Eline Heemskerk,HAARLEM,V,117,01:05:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+358,428,Noor Smith-Nederhand,HAARLEM,V,118,01:05:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+359,575,Robert Hardeman,AALSMEER,M,241,01:05:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+360,482,Lotte Hobbelt,UTRECHT,V,119,01:05:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+361,301,Cora van Zwet-Bijl,HOEK VAN HOLLAND,V,120,01:05:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+362,473,Hans Becker,AMSTERDAM,M,242,01:05:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+363,293,Tatiana Lodder,UTRECHT,V,121,01:05:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+364,372,Loes van Winden,LEIDEN,V,122,01:05:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+365,680,Andrea Kohlrusch,APELDOORN,V,123,01:05:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+366,288,Rob Scheffers,ARNHEM,M,243,01:05:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+367,647,Nadia van Senten,VINKEVEEN,V,124,01:05:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+368,583,Paula Visser,KATWIJK ZH,V,125,01:05:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+369,454,Dieuwke van Barneveld,HAARLEM,V,126,01:05:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+370,378,Tamara van Wijk,UTRECHT,V,127,01:05:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+371,749,#N/A,#N/A,M,244,01:05:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+372,470,Alexander van Sligtenhorst,ABCOUDE,M,245,01:05:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+373,345,Diana de Krom,RIJSWIJK,V,128,01:05:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+374,553,Janneke Allaart,UTRECHT,V,129,01:05:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+375,602,Aranka Berends,LOENEN GLD,V,130,01:05:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+376,275,Annemarie van den Bos,AMSTERDAM,V,131,01:05:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+377,655,Teeuwes Middelbrink,ROTTERDAM,M,246,01:06:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+378,232,Dees Postma,AMERSFOORT,M,247,01:06:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+379,43,Tjeerd Popkema,URK,M,248,01:06:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+380,137,Roely Leijnse-Prenger,KAMPERLAND,V,132,01:06:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+381,472,Eva Juffermans,ENSCHEDE,V,133,01:06:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+382,580,Mirte Huisman,GRONINGEN,V,134,01:06:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+383,281,Lotte Pigmans,UTRECHT,V,135,01:06:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+384,236,Hans van Zalen,AMSTERDAM,M,249,01:06:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+385,636,Ilse Stecher,BERGEN OP ZOOM,V,136,01:06:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+386,296,Yvette van Rossen,AMSTELVEEN,V,137,01:06:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+387,387,Ria Perfors,ELST (UT),V,138,01:06:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+388,514,Rik Vercauteren,B-2812 MUIZEN,M,250,01:06:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+389,671,Tom Snel,PURMEREND,M,251,01:06:34,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+390,511,Mia Capel,APELDOORN,V,139,01:06:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+391,364,Jacqueline Valkenburg,AALSMEER,V,140,01:06:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+392,279,Paula Ijzerman,IJMUIDEN,V,141,01:06:46,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+393,612,Marianne Purmer,RIJSWIJK,V,142,01:06:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+394,480,Laura Brands,HOUTEN,V,143,01:06:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+395,644,Marlies Mulders,UTRECHT,V,144,01:07:02,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+396,131,Valerie Meijers,HILVERSUM,V,145,01:07:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+397,324,Christiane Rüsch,WAGENINGEN,V,146,01:07:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+398,303,Martine Roona,DE LIER,V,147,01:07:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+399,535,Do Vroom,DEN HAAG,V,148,01:07:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+400,529,Camilla de Jong,AMERSFOORT,V,149,01:07:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+401,518,Ellen van Wieren,WIERINGERWERF,V,150,01:07:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+402,314,Ellen Bink,BREEZAND,V,151,01:07:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+403,274,Allard Haarman,AMSTERDAM,M,252,01:07:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+404,262,Janneke van Meel,UTRECHT,V,152,01:07:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+405,515,Andreas Arlt,Mechelen,M,253,01:07:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+406,278,Jurgen Snijder,DEVENTER,M,254,01:08:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+407,251,Ellen Maas,LEUVEN (BE),V,153,01:08:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+408,600,Ilona Heerdt,BUSSUM,V,154,01:08:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+409,666,Edward Nagel,AMSTERDAM,M,255,01:08:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+410,294,Tjarko van der Pol,BEVERWIJK,M,256,01:08:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+411,311,Mirjam Hordijk,DEIL,V,155,01:08:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+412,414,Marc Verheul,NIGTEVECHT,M,257,01:08:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+413,605,Jack Crielaard,VEENENDAAL,M,258,01:08:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+414,519,Erwin Mulder,UTRECHT,M,259,01:08:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+415,357,Hans van Beijnen,AMSTERDAM,M,260,01:08:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+416,487,Juul Sam,HILVERSUM,M,261,01:08:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+417,302,Jasper Cornelissen,RIJSWIJK,M,262,01:08:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+418,266,Lieke Landre,HILVERSUM,V,156,01:08:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+419,541,Erwin Berendsen,UTRECHT,M,263,01:08:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+420,488,Natalie van der Weijden,LOOSDRECHT,V,157,01:08:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+421,500,Marieke ten Tusscher,AMSTERDAM,V,158,01:09:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+422,151,Evelien van der Meel,UTRECHT,V,159,01:09:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+423,595,Maaike Rouw,DE MEERN,V,160,01:09:06,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+424,363,Isabel van den Eelaart,DELFT,V,161,01:09:06,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+425,484,Marjolein Udo,HILVERSUM,V,162,01:09:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+426,342,Philip Huijts,ROTTERDAM,M,264,01:09:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+427,222,Wouter Verbree,ABCOUDE,M,265,01:09:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+428,379,Barbara van Paassen,AMSTERDAN,V,163,01:09:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+429,377,Marjon van Paassen,NAALDWIJK,V,164,01:09:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+430,448,Olav Baart,NIEUWEGEIN,M,266,01:09:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+431,708,Lichelle Zevenhoven,KOUDEKERK AAN DEN RIJN,V,165,01:09:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+432,395,Ruben Pepping,ABCOUDE,M,267,01:09:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+433,227,Dalva Hubert,ALMERE,V,166,01:09:49,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+434,263,Jiska de Wit,OOSTERHOUT,V,167,01:09:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+435,622,Christine Jonckers,HUMBEEK BELGI├½,V,168,01:09:53,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+436,426,Mirjam Minneboo,APELDOORN,V,169,01:09:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+437,376,Mariette Mol,UTRECHT,V,170,01:10:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+438,504,E. Elfferich,AMSTERDAM,V,171,01:10:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+439,320,Angelique Vrijdag,GROENLO,V,172,01:10:18,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+440,552,Jacques Krol,OEGSTGEEST,M,268,01:10:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+441,565,Peter de Rijke,UTRECHT,M,269,01:10:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+442,658,R. van de Leek,-,-,1,01:10:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+443,382,Marjolein Zagers,AMSTERDAM,V,173,01:10:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+444,277,Christina Ullrich,ENSCHEDE,V,174,01:10:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+445,505,Simone de Klerk,AMSTERDAM,V,175,01:10:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+446,408,Marianela Radaelli,DIEMEN,V,176,01:10:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+447,665,Sandra Seegers,DEN HELDER,V,177,01:10:54,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+448,361,Huub Zwart,UTRECHT,M,270,01:10:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+449,718,Astrid Buyk-Boumann,PUTTERSHOEK,V,178,01:11:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+450,705,Irene Ittmann,HILVERSUM,V,179,01:11:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+451,706,Petra Schimmel,SOEST,V,180,01:11:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+452,261,Leonie Meeldijk,ZOETERMEER,V,181,01:11:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+453,533,Inge Schaap,UTRECHT,V,182,01:11:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+454,538,Jacqueline de Jong,UTRECHT,V,183,01:11:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+455,458,Sjors van der Horst,UTRECHT,M,271,01:11:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+456,455,Nikki van de Klundert,UTRECHT,V,184,01:11:19,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+457,478,Johan de Visser,LEKKERKERK,M,272,01:11:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+458,621,Brenda van Rijn,VINKEVEEN,V,185,01:11:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+459,628,Pascal Kouwenhoven,VINKEVEEN,M,273,01:11:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+460,451,Ruben van der Zwaan,UTRECHT,M,274,01:11:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+461,170,Esther Horrevorts,AMSTERDAM,V,186,01:11:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+462,656,Ronald Elfferich,AMSTERDAM,M,275,01:11:38,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+463,632,Frank Suyker,DELFT,M,276,01:11:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+464,138,Sofie Meijer,WEESP,V,187,01:11:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+465,166,Jolien Meijer,WEESP,V,188,01:11:53,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+466,326,Danielle Eindhoven,LEIDEN,V,189,01:11:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+467,298,Shadi Ghandchi,DEN HAAG,V,190,01:12:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+468,359,Floor Nooitgedagt,AMSTERDAM,V,191,01:12:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+469,542,Esther Visser,AMSTERDAM,V,192,01:12:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+470,485,Britte Koppel,HILVERSUM,V,193,01:12:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+471,381,Marianne Groot,LEIDEN,V,194,01:12:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+472,354,Debby van Adrichem,AMSTERDAM,V,195,01:12:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+473,588,Martijn van Waes,BREDA,M,277,01:12:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+474,589,Suzanne Loijens,BREDA,V,196,01:12:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+475,670,Tim Duits,AMSTERDAM,M,278,01:12:28,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+476,460,Irina Mak,UTRECHT,V,197,01:12:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+477,560,Simon Verwer,AMSTERDAM,M,279,01:12:36,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+478,554,Jenny Verheijen,GOIRLE,V,198,01:12:36,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+479,375,Margriet de Hoop,UTRECHT,V,199,01:12:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+480,286,Marian van den Brink,MEERSTAD,V,200,01:12:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+481,673,Martijn Korremans,ARNHEM,M,280,01:12:50,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+482,548,irene Buijsman,SPIJKENISSE,V,201,01:12:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+483,403,Desley van den Dungen,ROTTERDAM,V,202,01:13:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+484,394,Saskia van de Haar,EDE,V,203,01:13:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+485,530,Igor van den Akker,AMSTERDAM,M,281,01:13:13,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+486,331,Marielle Bos,LOENERSLOOT,V,204,01:13:25,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+487,528,Bert van Asselt,AALTEN,M,282,01:13:32,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+488,427,Nathalie van Hemert,LEIDEN,V,205,01:13:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+489,273,Aafje van Dijk,MAASSLUIS,V,206,01:13:37,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+490,397,Rick Driessen,LELYSTAD,M,283,01:13:39,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+491,520,Annet Metz,AMSTERDAM,V,207,01:13:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+492,563,Neil Smith,AMSTERDAM,M,284,01:13:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+493,573,Piet Berg,LEIDERDORP,M,285,01:13:50,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+494,223,Wouter Klomp,ALKMAAR,M,286,01:13:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+495,217,Lisa Eekhof,-,V,208,01:14:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+496,216,Dennis Jansen,-,M,287,01:14:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+497,437,Sanne de Groot,ARNHEM,V,209,01:14:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+498,234,Willem Wolffgramm,AMSTELVEEN,M,288,01:14:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+499,285,Harry Boerma,UTRECHT,M,289,01:14:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+500,391,Youri Gerritse,UTRECHT,M,290,01:14:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+501,284,Esmee-Carlijn Kiffen,MEGEN,V,210,01:14:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+502,627,Eirlys Pijpers,UTRECHT,V,211,01:14:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+503,662,Suzanne Kluijt,ROTTERDAM,V,212,01:15:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+504,244,Annemiek van Riet,UTRECHT,V,213,01:15:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+505,346,Ellen Vreijling,ALPHEN AAN DEN RIJN,V,214,01:15:04,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+506,365,Janneke Stolk,BEVERWIJK,V,215,01:15:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+507,402,Corne van Gestel,DIESSEN,M,291,01:15:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+508,341,Sandra Middel,ROTTERDAM,V,216,01:15:20,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+509,340,Elly Maat,ROTTERDAM,V,217,01:15:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+510,694,jan van der Lee,MAASLAND,M,292,01:15:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+511,333,Christine Borst,AMSTERDAM,V,218,01:15:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+512,615,Lisa Vrijdag,AALTEN,V,219,01:16:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+513,532,Cindy Poot,MAASLAND,V,220,01:16:03,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+514,419,Herman-Jaap Lodder,BARENDRECHT,M,293,01:16:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+515,307,Deborah Musch,AMSTERDAM,V,221,01:16:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+516,562,Mike Laske,WORMERVEER,M,294,01:16:14,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+517,690,Maaike Reule,AMERSFOORT,V,222,01:16:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+518,351,Leonie Verlaan,UITHOORN,V,223,01:16:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+519,412,Laura Lodder-Buijs,BARENDRECHT,V,224,01:16:16,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+520,315,Eric van der Lugt,BERKEL EN RODENRIJS,M,295,01:16:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+521,219,Erik van Heck,WAMEL,M,296,01:16:30,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+522,452,Ineke Goosen,UTRECHT,V,225,01:16:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+523,574,Roselinda van der Vlugt,LEERSUM,V,226,01:16:43,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+524,702,Esther Zaat,TILBURG,V,227,01:17:12,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+525,318,Monique de Bie,BREDA,V,228,01:17:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+526,531,Carla Aalders,HEERHUGOWAARD,V,229,01:17:51,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+527,676,Miranda van Rijswijk,HILVARENBEEK,V,230,01:18:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+528,221,Heidi Rave,AALTEN,V,231,01:18:24,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+529,540,Rolf Smid,AMSTERDAM,M,297,01:18:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+530,352,Jordy Keimes,UITHOORN,M,298,01:18:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+531,337,Sanne Klaver,AMSTERDAM,V,232,01:18:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+532,401,Rudo Verhoef,BUNNICK,M,299,01:19:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+533,400,Guus Verhoef,WILNIS,M,300,01:19:09,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+534,332,Ingrid van Schaick,LOENERSLOOT,V,233,01:19:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+535,330,Anne Verweij,ABCOUDE,V,234,01:19:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+536,423,Martijn Roelen,BERCHEM,M,301,01:19:17,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+537,510,Pie van der Wind,AMSTERDAM,V,235,01:19:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+538,645,Martin van den Brink,HILVARENBEEK,M,302,01:19:41,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+539,368,Laura Beijn-van der Hout,MAASLAND,V,236,01:19:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+540,502,Maarten Elands,AMSTERDAM,M,303,01:19:57,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+541,254,Floor van der Wind,HEILOO,M,304,01:20:11,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+542,507,Frederik Vercauteren,ANTWERPEN,M,305,01:20:40,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+543,601,Farzana Shah,PURMEREND,V,237,01:20:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+544,725,Kai,UTRECHT,M,306,01:21:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+545,729,Stijn Rensen,UTRECHT,M,307,01:21:15,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+546,684,Irene Weening,ZOETERMEER,V,238,01:21:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+547,321,Anouk Bloembergen,HILVERSUM,V,239,01:21:23,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+548,417,Barbara Willemsen,HAARLEM,V,240,01:21:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+549,416,Milly Willemsen,HAARLEM,V,241,01:21:26,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+550,415,Suzanne van Rijn,UITHOORN,V,242,01:21:27,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+551,550,David van Beveren,AMSTERDAM,M,308,01:21:52,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+552,233,Ilse Speelman,NIJMEGEN,V,243,01:21:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+553,24,Jelle de Boer,ZAANDIJK,M,309,01:22:01,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+554,486,Melanie Rieback,DIEMEN,V,244,01:22:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+555,338,Rianne van Lambalgen,UTRECHT,V,245,01:22:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+556,668,Yvonne Hijdra,SPIJKENISSE,V,246,01:22:21,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+557,467,Maartje Brouwer,GRAAUW,V,247,01:22:22,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+558,468,Reinhoud de Blok,GRAAUW,M,310,01:22:22,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+559,348,Femke Vergeer,UTRECHT,M,311,01:22:29,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+560,229,Esther Daris,VALKENSWAARD,V,248,01:22:53,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+561,475,Irene van der Lee,MAASLAND,V,249,01:23:00,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+562,225,Els van der Kaaij,ALMERE,V,250,01:23:31,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+563,80,Kevin Flood,CHICAGO,M,312,01:23:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+564,328,Timo van Noort,UTRECHT,M,313,01:23:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+565,226,Anneke Anrochte,ALMERE,V,251,01:23:59,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+566,76,Sem Russchenberg,VINKEVEEN,M,314,01:24:56,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+567,526,Arjen Keijzer,MAASLAND,M,315,01:25:10,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+568,672,Martien Lodder,CULEMBORG,M,316,01:25:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+569,339,Arul Elangovan,UTRECHT,M,317,01:25:44,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+570,461,Jose Bakker,UTRECHT,V,252,01:25:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+571,463,Paul Brouwer,UTRECHT,M,318,01:25:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+572,464,Annemerie Bakker,UTRECHT,V,253,01:25:47,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+573,555,Jessica van der Aa,UTRECHT,V,254,01:26:55,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+574,508,Mary Langerak,HILVERSUM,V,255,01:27:35,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+575,446,Rene Bakker,DEN HAAG,M,319,01:29:08,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+576,356,Gert van Heck,BENEDEN LEEUWEN,M,320,01:29:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+577,711,Yvonne Poelman,NIEUW-VENNEP,V,256,01:30:22,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+578,371,Linda Vrijdag,AALTEN,V,257,01:30:42,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+579,712,Edwin van Dijk,NIEUW-VENNEP,M,321,01:31:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+580,710,Erik Bakker,AMSTERDAM,M,322,01:31:05,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+581,631,Cindy van Lieshout Eman,AMSTELVEEN,V,258,01:31:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+582,635,Joris van Lieshout,AMSTELVEEN,M,323,01:31:07,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+583,681,Charon van Buuren,UTRECHT,V,259,01:32:33,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29
+584,591,Lisette Smit,AMSTERDAM,V,260,01:36:45,6e Het Rondje Eilanden Vinkeveen 29-07-2017,2017-07-29

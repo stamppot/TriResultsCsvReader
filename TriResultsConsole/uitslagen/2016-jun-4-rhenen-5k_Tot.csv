@@ -1,0 +1,65 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,431,Demian Lith,Zeist,M-35,1,00:19:39,00:19:21,Cuneraloop ,2016-06-04
+2,364,Bart Verweij,Elst,M-35,2,00:20:00,00:19:50,Cuneraloop ,2016-06-04
+3,350,Roelof Kleis,Bennekom,M+35,1,00:20:31,00:20:30,Cuneraloop ,2016-06-04
+4,303,Wessel Flinterman,Tricht,M-35,3,00:20:50,00:20:45,Cuneraloop ,2016-06-04
+5,429,Wilco Wajer,,M-35,4,00:20:51,00:20:47,Cuneraloop ,2016-06-04
+6,362,Lucien Vermeulen,Tiel,M-35,5,00:21:11,00:21:08,Cuneraloop ,2016-06-04
+7,342,Martjan de Bruin,Opheusden,M-35,6,00:21:22,00:21:21,Cuneraloop ,2016-06-04
+8,309,Peter van de Haar,Ede,M+35,2,00:21:25,00:21:20,Cuneraloop ,2016-06-04
+9,365,Erwin Kuin,Barendrecht,M+35,3,00:21:28,00:21:22,Cuneraloop ,2016-06-04
+10,345,Jos van Kalkeren,Rhenen,M-35,7,00:21:32,00:21:29,Cuneraloop ,2016-06-04
+11,381,Henk Gerritsen,Elst Ut,M+35,4,00:21:55,00:21:49,Cuneraloop ,2016-06-04
+12,300,Diederik Heij,Oosterbeek,M+35,5,00:21:59,00:21:57,Cuneraloop ,2016-06-04
+13,336,Nathalie de Vries,Rhenen,V-35,1,00:22:24,00:22:20,Cuneraloop ,2016-06-04
+14,386,Hans Groot Wassink,Rhenen,M+35,6,00:22:53,00:22:48,Cuneraloop ,2016-06-04
+15,401,Mirit Hoek,Wageningen,V-35,2,00:23:02,00:22:56,Cuneraloop ,2016-06-04
+16,363,Rosaly Louws,Aagtekerke,V-35,3,00:23:04,00:22:54,Cuneraloop ,2016-06-04
+17,432,Julian Lith,Zeist,M-35,8,00:23:19,00:23:00,Cuneraloop ,2016-06-04
+18,366,Emma Bijnen,Oosterbeek,V+35,1,00:23:20,00:23:18,Cuneraloop ,2016-06-04
+19,358,Ria Hoksbergen,Rhenen,V+35,2,00:23:23,00:23:20,Cuneraloop ,2016-06-04
+20,361,Maarten Vermeulen,Tiel,M+35,7,00:23:47,00:23:43,Cuneraloop ,2016-06-04
+21,347,Richard van der Linden,Rhenen,M+35,8,00:24:33,00:24:29,Cuneraloop ,2016-06-04
+22,348,Frans Verkerk,Veenendaal,M+35,9,00:24:52,00:24:44,Cuneraloop ,2016-06-04
+23,428,Tim Heusschen,Wageningen,M-35,9,00:25:00,00:24:54,Cuneraloop ,2016-06-04
+24,385,Nico Cornelisse,Lienden,M+35,10,00:25:07,00:25:02,Cuneraloop ,2016-06-04
+25,337,Jari Nijenhuis,Rhenen,M-35,10,00:25:48,00:25:31,Cuneraloop ,2016-06-04
+26,341,Mujibur de Graaf,Rhenen,M+35,11,00:25:56,00:25:51,Cuneraloop ,2016-06-04
+27,430,Nino van den Bos,Utrecht,M-35,11,00:26:03,00:25:59,Cuneraloop ,2016-06-04
+28,382,Martijn Stip,Rhenen,M+35,12,00:26:10,00:26:03,Cuneraloop ,2016-06-04
+29,335,Dave de Haas,Rhenen,M+35,13,00:26:16,00:26:11,Cuneraloop ,2016-06-04
+30,406,Petra ter Wielen,Nijmegen,V-35,4,00:26:29,00:26:25,Cuneraloop ,2016-06-04
+31,356,Heleen de Groot,Hekendorp,V+35,3,00:28:04,00:28:01,Cuneraloop ,2016-06-04
+32,380,Rob van de Velde,Rhenen,M+35,14,00:28:13,00:28:08,Cuneraloop ,2016-06-04
+33,306,Berlinda van Maurik,Veenendaal,V+35,4,00:28:25,00:28:11,Cuneraloop ,2016-06-04
+34,354,Corina van Beest,Ophemert,V+35,5,00:28:32,00:28:14,Cuneraloop ,2016-06-04
+35,378,Evert-Jan de Boer,Rhenen,M+35,15,00:28:57,00:28:53,Cuneraloop ,2016-06-04
+36,359,Alice Leenhouts,Rhenen,V+35,6,00:29:16,00:29:09,Cuneraloop ,2016-06-04
+37,338,Inge van Hal,Rhenen,V+35,7,00:29:17,00:29:01,Cuneraloop ,2016-06-04
+38,402,Judith Mulder,Rhenen,V-35,5,00:29:36,00:29:20,Cuneraloop ,2016-06-04
+39,308,Saskia van de Haar,Ede,V+35,8,00:29:37,00:29:31,Cuneraloop ,2016-06-04
+40,346,Tom Duits,Amersfoort,M+35,16,00:29:41,00:29:37,Cuneraloop ,2016-06-04
+41,433,Niek van den Brink,Veenendaal,M-35,12,00:29:50,00:29:42,Cuneraloop ,2016-06-04
+42,310,Yvonne Kann,Rhenen,V+35,9,00:30:05,00:29:57,Cuneraloop ,2016-06-04
+43,343,Peter Tijssen,Wageningen,M-35,13,00:30:24,00:30:15,Cuneraloop ,2016-06-04
+44,379,Bart van de Kraats,Rhenen,M+35,17,00:30:31,00:30:23,Cuneraloop ,2016-06-04
+45,357,Charlotte van der Heijden,Rhenen,V+35,10,00:31:11,00:30:56,Cuneraloop ,2016-06-04
+46,384,Jaap Wisserhof,Randwijk,M+35,18,00:31:33,00:31:25,Cuneraloop ,2016-06-04
+47,344,Eelco Scheltjes,Rhenen,M+35,19,00:31:34,00:31:18,Cuneraloop ,2016-06-04
+48,408,Irene Duitscher,Rhenen,V-35,6,00:32:03,00:31:55,Cuneraloop ,2016-06-04
+49,305,Co van Jaarsveld,Veenendaal,M+35,20,00:32:03,00:31:46,Cuneraloop ,2016-06-04
+50,405,Brigitte Wagenmans,Rhenen,V-35,7,00:32:33,00:32:20,Cuneraloop ,2016-06-04
+51,339,Robert Mobach,Rhenen,M+35,21,00:32:47,00:32:44,Cuneraloop ,2016-06-04
+52,403,Jantine Stam,Veenendaal,V-35,8,00:32:58,00:32:43,Cuneraloop ,2016-06-04
+53,377,Remy Dijksterhuis,Veenendaal,M+35,22,00:32:58,00:32:42,Cuneraloop ,2016-06-04
+54,355,Pauline Oosterbroek,Rhenen,V+35,11,00:33:27,00:33:13,Cuneraloop ,2016-06-04
+55,407,Rianka van Binsbergen,Ochten,V-35,9,00:34:06,00:33:57,Cuneraloop ,2016-06-04
+56,427,Youri van Leeuwen,Leersum,M-35,14,00:34:45,00:34:38,Cuneraloop ,2016-06-04
+57,426,Tjerk Bakker,Amerongen,M-35,15,00:34:45,00:34:37,Cuneraloop ,2016-06-04
+58,404,Desirée Hendriksen,Tiel,V-35,10,00:35:08,00:35:00,Cuneraloop ,2016-06-04
+59,353,Anna Diepeveen,Veenendaal,V+35,12,00:35:16,00:35:02,Cuneraloop ,2016-06-04
+60,349,John v.d. Looy,Rhenen,M+35,23,00:36:00,00:35:45,Cuneraloop ,2016-06-04
+61,376,Karel Barkey,Wageningen,M+35,24,00:36:02,00:35:58,Cuneraloop ,2016-06-04
+62,383,Ed Melssen,Rhenen,M+35,25,00:36:12,00:36:04,Cuneraloop ,2016-06-04
+63,352,Lieke van Goethem-Budding,Rhenen,V+35,13,00:37:28,00:37:12,Cuneraloop ,2016-06-04
+64,223,Bas Schinkel,Ede,M-35,16,00:42:25,00:42:25,Cuneraloop ,2016-06-04

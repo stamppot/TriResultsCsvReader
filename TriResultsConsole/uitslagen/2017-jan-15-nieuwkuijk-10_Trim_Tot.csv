@@ -1,0 +1,72 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Ronde3,Ronde4,race,date
+1,29,Roy van Delft,Elshout,MTRIM,1,00:42:04,00:42:04,00:10:19,00:10:31,00:10:35,00:10:40,Kuijkse Stratenloop  15-01-2017,2017-01-15
+2,269,Stef Antonissen,Drunen,MTRIM,2,00:43:23,00:43:21,00:10:29,00:10:47,00:11:02,00:11:05,Kuijkse Stratenloop  15-01-2017,2017-01-15
+3,49,Huberto van der Schuit,Waalwijk,MTRIM,3,00:43:44,00:43:44,00:10:43,00:11:09,00:11:05,00:10:49,Kuijkse Stratenloop  15-01-2017,2017-01-15
+4,213,John van Mersbergen,Eethen,MTRIM,4,00:44:10,00:44:06,00:11:08,00:10:58,00:11:07,00:10:55,Kuijkse Stratenloop  15-01-2017,2017-01-15
+5,275,Robert Hagen,Waalwijk,MTRIM,5,00:44:16,00:44:11,00:10:57,00:11:08,00:11:09,00:10:59,Kuijkse Stratenloop  15-01-2017,2017-01-15
+6,11,Martijn van Lunteren,Bavel,MTRIM,6,00:44:27,00:44:26,00:11:10,00:11:02,00:11:07,00:11:09,Kuijkse Stratenloop  15-01-2017,2017-01-15
+7,41,Rob Stovers,Vlijmen,MTRIM,7,00:44:42,00:44:40,00:11:08,00:11:11,00:11:10,00:11:13,Kuijkse Stratenloop  15-01-2017,2017-01-15
+8,292,Corné Fijneman,Oosterhout,MTRIM,8,00:44:43,00:44:38,00:10:43,00:11:11,00:11:29,00:11:18,Kuijkse Stratenloop  15-01-2017,2017-01-15
+9,258,Ronald van Beurden,Vlijmen,MTRIM,9,00:45:27,00:45:25,00:11:49,00:11:05,00:11:16,00:11:18,Kuijkse Stratenloop  15-01-2017,2017-01-15
+10,13,Jeffrey Hazendonk,Nieuwkuijk,MTRIM,10,00:45:38,00:45:38,00:11:18,00:11:21,00:11:29,00:11:30,Kuijkse Stratenloop  15-01-2017,2017-01-15
+11,296,Edwin de Wilt,Vlijmen,MTRIM,11,00:45:47,00:45:47,00:11:16,00:11:20,00:11:41,00:11:31,Kuijkse Stratenloop  15-01-2017,2017-01-15
+12,276,Marco de Wit,Nieuwkuijk,MTRIM,12,00:45:48,00:45:47,00:11:15,00:11:20,00:11:39,00:11:33,Kuijkse Stratenloop  15-01-2017,2017-01-15
+13,60,Sander Beaard,'s-Hertogenbosch,MTRIM,13,00:46:05,00:46:00,00:10:41,00:11:06,00:12:01,00:12:13,Kuijkse Stratenloop  15-01-2017,2017-01-15
+14,30,Ronnie Van Bladel,Haarsteeg,MTRIM,14,00:46:50,00:46:42,00:11:42,00:11:32,00:11:33,00:11:56,Kuijkse Stratenloop  15-01-2017,2017-01-15
+15,446,Natasja Fitters,Drunen,VTRIM,1,00:47:34,00:47:29,00:11:48,00:11:56,00:12:06,00:11:41,Kuijkse Stratenloop  15-01-2017,2017-01-15
+16,43,Mark Lankhaar,Genderen,MTRIM,15,00:47:39,00:47:34,00:11:34,00:11:45,00:12:03,00:12:14,Kuijkse Stratenloop  15-01-2017,2017-01-15
+17,196,Arnoud van Dorst,Breda,MTRIM,16,00:47:39,00:47:39,00:11:38,00:11:58,00:12:09,00:11:56,Kuijkse Stratenloop  15-01-2017,2017-01-15
+18,68,Ruud Oosterlee,Vught,MTRIM,17,00:47:50,00:47:48,00:11:54,00:11:53,00:12:13,00:11:49,Kuijkse Stratenloop  15-01-2017,2017-01-15
+19,67,Erwin Vos,Vlijmen,MTRIM,18,00:48:06,00:48:02,00:12:14,00:11:45,00:11:50,00:12:14,Kuijkse Stratenloop  15-01-2017,2017-01-15
+20,17,Mark Roex,'s-Hertogenbosch,MTRIM,19,00:48:16,00:48:12,00:11:30,00:11:50,00:12:36,00:12:17,Kuijkse Stratenloop  15-01-2017,2017-01-15
+21,224,Cary Driessen,Nieuwkuijk,MTRIM,20,00:48:24,00:48:17,00:12:23,00:12:01,00:11:59,00:11:54,Kuijkse Stratenloop  15-01-2017,2017-01-15
+22,48,Rick Buijs,Tilburg,MTRIM,21,00:48:45,00:48:37,00:13:15,00:12:07,00:11:54,00:11:23,Kuijkse Stratenloop  15-01-2017,2017-01-15
+23,35,Giovanni Rijken,Vlijmen,MTRIM,22,00:49:14,00:49:06,00:12:24,00:12:15,00:12:16,00:12:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+24,279,Frans van Rooij,Haarsteeg,MTRIM,23,00:49:21,00:49:17,00:11:54,00:12:19,00:12:33,00:12:33,Kuijkse Stratenloop  15-01-2017,2017-01-15
+25,22,Aad van den Berg,Rotterdam,MTRIM,24,00:49:32,00:49:29,00:12:31,00:12:06,00:12:41,00:12:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+26,23,Jan van den Berg,Vlijmen,MTRIM,25,00:49:33,00:49:31,00:12:33,00:12:07,00:12:41,00:12:12,Kuijkse Stratenloop  15-01-2017,2017-01-15
+27,468,Hilde van Nes,Nieuwkuijk,VTRIM,2,00:50:28,00:50:21,00:12:24,00:12:21,00:12:47,00:12:51,Kuijkse Stratenloop  15-01-2017,2017-01-15
+28,451,Jeannette Ummenthun,Heusden,VTRIM,3,00:51:04,00:51:00,00:12:26,00:12:36,00:13:01,00:12:58,Kuijkse Stratenloop  15-01-2017,2017-01-15
+29,445,Brenda Timmermans,Sprang-Capelle,VTRIM,4,00:51:19,00:51:14,00:12:52,00:13:12,00:12:57,00:12:14,Kuijkse Stratenloop  15-01-2017,2017-01-15
+30,25,Johan Boom,Vlijmen,MTRIM,26,00:51:40,00:51:38,00:11:49,00:12:45,00:13:31,00:13:34,Kuijkse Stratenloop  15-01-2017,2017-01-15
+31,371,Petra van Gorcum,Sprang-Capelle,VTRIM,5,00:51:43,00:51:38,00:12:44,00:13:12,00:13:05,00:12:39,Kuijkse Stratenloop  15-01-2017,2017-01-15
+32,362,Anja Van den Brink,Nieuwkuijk,VTRIM,6,00:51:56,00:51:51,00:12:53,00:13:06,00:13:05,00:12:50,Kuijkse Stratenloop  15-01-2017,2017-01-15
+33,40,Gosse Bergsma,Vleuten,MTRIM,27,00:52:20,00:52:20,00:13:03,00:12:53,00:13:15,00:13:10,Kuijkse Stratenloop  15-01-2017,2017-01-15
+34,44,Ad Buijs,Haarsteeg,MTRIM,28,00:52:28,00:52:20,00:13:36,00:13:06,00:13:11,00:12:28,Kuijkse Stratenloop  15-01-2017,2017-01-15
+35,10,Bas Kruiderink,Tilburg,MTRIM,29,00:52:38,00:52:31,00:13:15,00:13:10,00:13:11,00:12:58,Kuijkse Stratenloop  15-01-2017,2017-01-15
+36,28,Leon Mommersteeg,Rosmalen,MTRIM,30,00:52:44,00:52:34,00:13:14,00:13:06,00:13:10,00:13:06,Kuijkse Stratenloop  15-01-2017,2017-01-15
+37,369,Monique Smits,Waspik,VTRIM,7,00:53:06,00:53:00,00:13:06,00:13:11,00:13:22,00:13:22,Kuijkse Stratenloop  15-01-2017,2017-01-15
+38,293,Mark Westerlaken,Almkerk,MTRIM,31,00:53:37,00:53:34,00:12:23,00:13:19,00:14:03,00:13:50,Kuijkse Stratenloop  15-01-2017,2017-01-15
+39,295,Frans Roex,Vlijmen,MTRIM,32,00:53:54,00:53:49,00:12:58,00:13:21,00:13:36,00:13:55,Kuijkse Stratenloop  15-01-2017,2017-01-15
+40,271,Martijn van de Beurcht,Nieuwkuijk,MTRIM,33,00:54:05,00:54:00,00:12:22,00:13:21,00:14:13,00:14:05,Kuijkse Stratenloop  15-01-2017,2017-01-15
+41,281,Rob van Veldhoven,Vlijmen,MTRIM,34,00:54:21,00:54:19,00:12:22,00:14:01,00:14:32,00:13:26,Kuijkse Stratenloop  15-01-2017,2017-01-15
+42,507,Desiré van Teeffeen,Geldermalsen,VTRIM,8,00:55:04,00:54:59,00:14:24,00:13:11,00:13:23,00:14:03,Kuijkse Stratenloop  15-01-2017,2017-01-15
+43,498,Arienne van Doremalen,Veldhoven,VTRIM,9,00:56:02,00:55:52,00:13:54,00:13:46,00:14:11,00:14:03,Kuijkse Stratenloop  15-01-2017,2017-01-15
+44,291,Frenk van de Voort,Vught,MTRIM,35,00:56:05,00:56:01,00:14:36,00:13:50,00:13:49,00:13:48,Kuijkse Stratenloop  15-01-2017,2017-01-15
+45,285,Bart Wijkmans,Engelen,MTRIM,36,00:57:02,00:56:58,00:14:36,00:14:06,00:14:14,00:14:03,Kuijkse Stratenloop  15-01-2017,2017-01-15
+46,244,Martin Carels,Nieuwkuijk,MTRIM,37,00:57:16,00:57:13,00:14:24,00:15:14,00:13:48,00:13:49,Kuijkse Stratenloop  15-01-2017,2017-01-15
+47,243,Niels Caron,Vlijmen,MTRIM,38,00:57:32,00:57:25,00:14:20,00:13:44,00:14:26,00:14:56,Kuijkse Stratenloop  15-01-2017,2017-01-15
+48,506,Graziella Kilian,Tricht,VTRIM,10,00:57:41,00:57:35,00:14:24,00:14:07,00:14:36,00:14:29,Kuijkse Stratenloop  15-01-2017,2017-01-15
+49,278,Ton van Doremalen,Veldhoven,MTRIM,39,00:57:44,00:57:33,00:14:01,00:14:16,00:14:43,00:14:35,Kuijkse Stratenloop  15-01-2017,2017-01-15
+50,39,Aron van Beurden,Vlijmen,MTRIM,40,00:57:48,00:57:41,00:14:09,00:14:24,00:14:40,00:14:29,Kuijkse Stratenloop  15-01-2017,2017-01-15
+51,63,Max Moonen,Nieuwkuijk,MTRIM,41,00:58:10,00:58:08,00:14:11,00:14:27,00:14:45,00:14:47,Kuijkse Stratenloop  15-01-2017,2017-01-15
+52,287,Sven Kasman,Vlijmen,MTRIM,42,00:58:40,00:58:34,00:15:10,00:14:41,00:14:27,00:14:18,Kuijkse Stratenloop  15-01-2017,2017-01-15
+53,508,Linda  de Gouw,Vlijmen,VTRIM,11,00:58:41,00:58:34,00:15:10,00:14:40,00:14:27,00:14:18,Kuijkse Stratenloop  15-01-2017,2017-01-15
+54,45,Michiel Buijs,Tilburg,MTRIM,43,00:58:41,00:58:33,00:15:10,00:14:41,00:14:28,00:14:16,Kuijkse Stratenloop  15-01-2017,2017-01-15
+55,15,Hans Smetsers,Drunen,MTRIM,44,00:58:56,00:58:53,00:14:27,00:14:35,00:15:12,00:14:39,Kuijkse Stratenloop  15-01-2017,2017-01-15
+56,413,Marjan Hurkmans,Drunen,VTRIM,12,00:58:58,00:58:45,00:15:11,00:14:49,00:14:45,00:14:02,Kuijkse Stratenloop  15-01-2017,2017-01-15
+57,288,Hans  Roelofs,Vlijmen,MTRIM,45,00:58:58,00:58:58,00:14:28,00:14:45,00:15:46,00:14:01,Kuijkse Stratenloop  15-01-2017,2017-01-15
+58,231,Gijs van Eggelen,Vlijmen,MTRIM,46,00:59:08,00:59:00,00:15:08,00:14:41,00:14:29,00:14:43,Kuijkse Stratenloop  15-01-2017,2017-01-15
+59,289,Wijnand van Delft,Vlijmen,MTRIM,47,00:59:10,00:58:56,00:14:10,00:14:31,00:15:11,00:15:05,Kuijkse Stratenloop  15-01-2017,2017-01-15
+60,459,Jill de Laat,Waalwijk,VTRIM,13,01:00:00,00:59:47,00:15:04,00:14:42,00:14:55,00:15:08,Kuijkse Stratenloop  15-01-2017,2017-01-15
+61,457,Lynn de Laat,Waalwijk,VTRIM,14,01:00:00,00:59:47,00:15:03,00:14:43,00:14:55,00:15:07,Kuijkse Stratenloop  15-01-2017,2017-01-15
+62,458,Margriet Kuijsters,Waalwijk,VTRIM,15,01:00:01,00:59:48,00:15:05,00:14:41,00:14:57,00:15:07,Kuijkse Stratenloop  15-01-2017,2017-01-15
+63,509,Marian Vissers,Oisterwijk,VTRIM,16,01:00:30,01:00:30,00:14:28,00:14:45,00:15:48,00:15:31,Kuijkse Stratenloop  15-01-2017,2017-01-15
+64,469,Marjon van Eggelen,Vlijmen,VTRIM,17,01:00:32,01:00:25,00:15:10,00:14:53,00:15:10,00:15:13,Kuijkse Stratenloop  15-01-2017,2017-01-15
+65,46,Henri Coomans,Vlijmen,MTRIM,48,01:00:33,01:00:25,00:14:23,00:15:01,00:15:31,00:15:30,Kuijkse Stratenloop  15-01-2017,2017-01-15
+66,476,Marita Beekmans,Drunen,VTRIM,18,01:01:17,01:01:11,00:14:48,00:14:54,00:15:39,00:15:51,Kuijkse Stratenloop  15-01-2017,2017-01-15
+67,274,Rik de Langen,Nieuwkuijk,MTRIM,49,01:01:35,01:01:21,00:15:50,00:16:03,00:15:19,00:14:10,Kuijkse Stratenloop  15-01-2017,2017-01-15
+68,282,Tiny Verhoeven,Haarsteeg,MTRIM,50,01:01:46,01:01:36,00:15:53,00:15:47,00:15:45,00:14:13,Kuijkse Stratenloop  15-01-2017,2017-01-15
+69,378,Ankie Moonen,Oisterwijk,VTRIM,19,01:03:10,01:03:07,00:15:13,00:15:45,00:16:09,00:16:01,Kuijkse Stratenloop  15-01-2017,2017-01-15
+70,454,Jenny Moonen,Tilburg,VTRIM,20,01:03:10,01:03:06,00:15:13,00:15:45,00:16:09,00:16:01,Kuijkse Stratenloop  15-01-2017,2017-01-15
+71,485,Gerry van Esch,Haarsteeg,VTRIM,21,01:03:48,01:03:39,00:15:54,00:16:03,00:16:17,00:15:25,Kuijkse Stratenloop  15-01-2017,2017-01-15

@@ -1,0 +1,997 @@
+Plts,Startnr,Naam,Woonplaats,Cat,PLtsCat,Race,10KM,BrutoTijd,NettoTijd,race,date
+1,1155,Michiel De Ruiter,,MSR,1,HM,00:33:17,01:12:12,01:12:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+2,6,Alwin Heijting,Nieuw-Amsterdam,MSR,2,HM,00:33:11,01:12:54,01:12:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+3,14,Christian Lie,Castricum,M40,1,HM,00:34:35,01:15:17,01:15:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+4,22,Pip Tesselaar,Heerhugowaard,M45,1,HM,00:34:35,01:15:56,01:15:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+5,23,Tim Tesselaar,Den Helder,MSR,3,HM,00:35:07,01:16:34,01:16:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+6,25,Jan Venhuizen,Appingedam,M45,2,HM,00:35:41,01:18:21,01:18:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+7,10,Cees Kersten,Schagen,M50,1,HM,00:36:01,01:18:25,01:18:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+8,11,Raymond Koen,Den Helder,M35,1,HM,00:36:01,01:19:50,01:19:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+9,1101,Han Wolsink,Amersfoot,,1,HM,00:38:58,01:23:45,01:23:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+10,851,Guido van Olffen,Borne,M45,3,HM,00:38:58,01:24:06,01:23:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+11,E3020,Jaap Bouwman,Haren,MSR,4,HM,00:39:36,01:24:10,01:23:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+12,9,Immy Auck Kersbergen,Wommels,VSR,1,HM,00:38:19,01:24:13,01:24:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+13,681,Peter Tas,'t Zand,M45,4,HM,00:38:19,01:24:14,01:24:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+14,2,Robert Bakker,Den Burg,M35,2,HM,00:37:24,01:24:20,01:24:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+15,13,Aad Portegijs,Breezand,M50,2,HM,00:39:07,01:25:04,01:24:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+16,E3186,Bert Wellens,Antwerpen,M50,3,HM,00:39:11,01:25:05,01:24:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+17,427,Allard Lambers,'s-Gravenhage,MSR,5,HM,00:39:34,01:25:24,01:25:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+18,E3029,Gerard de Heer,Utrecht,M45,5,HM,00:39:37,01:25:48,01:25:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+19,279,Niels Buijs,Heemskerk,M35,3,HM,00:39:33,01:25:48,01:25:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+20,941,Jos Wever,Alkmaar,MSR,6,HM,00:40:00,01:26:06,01:25:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+21,885,Hein Veldman,Callantsoog,M50,4,HM,00:40:45,01:26:31,01:26:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+22,365,Joram Kauwoh,Den Helder,M40,2,HM,00:40:02,01:26:42,01:26:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+23,18,Jan-Willem Schutte,Den Helder,M55,1,HM,00:39:19,01:27:18,01:27:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+24,792,Hinke Schokker,Alphen aan den Rijn,VSR,2,HM,00:40:09,01:27:58,01:27:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+25,E3079,Nathalie Klaassen,Alphen aan den Rijn,V45,1,HM,00:40:56,01:28:27,01:28:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+26,158,Bram Paassen,Naaldwijk,MSR,7,HM,00:42:04,01:28:30,01:28:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+27,E3107,Sander Menkveld,Anna Paulowna,M40,3,HM,00:42:25,01:28:37,01:28:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+28,15,Lutz Lohse,Den Burg,M50,5,HM,00:39:01,01:28:57,01:28:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+29,945,Thomas Wigger,Tubbergen,MSR,8,HM,00:42:55,01:29:02,01:27:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+30,2558,Gerwin Vos,Ter Aar,M35,4,HM,00:40:49,01:29:23,01:29:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+31,718,Tom Van Assche,Kessel-Lo,M35,5,HM,00:41:56,01:29:32,01:29:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+32,E3027,David Chivall,London,M35,6,HM,00:39:11,01:29:38,01:29:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+33,202,Tuan Do,'t Zand,M45,6,HM,00:41:48,01:29:52,01:29:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+34,352,Arie Jong,St.-Jacobiparochie,M40,4,HM,00:40:50,01:30:02,01:29:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+35,261,John Gombault,Alkmaar,M45,7,HM,00:41:21,01:30:05,01:29:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+36,E3060,Danny Hajos,Den Helder,M50,6,HM,00:41:56,01:30:20,01:30:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+37,12,Ylona Kruis,Ysbrechtum,V40,1,HM,00:40:50,01:30:23,01:30:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+38,565,Johan Quispel,Den Helder,M35,7,HM,00:42:17,01:31:09,01:30:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+39,909,Ingmar Vink,Den Helder,M40,5,HM,00:41:20,01:31:24,01:31:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+40,114,John Braham,Badhoevedorp,M45,8,HM,00:42:19,01:31:25,01:31:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+41,E3178,Milan Verheugen,Arnhem,MSR,9,HM,00:40:42,01:31:51,01:31:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+42,855,Stefan van Oosterwijk,Gemert,M40,6,HM,00:40:58,01:31:53,01:31:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+43,569,Albert Ramshorst,Scharnegoutum,M50,7,HM,00:43:32,01:32:09,01:31:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+44,E3159,Erik van der Velden,Den Burg,M45,9,HM,00:42:20,01:32:16,01:32:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+45,383,Jan Koelewijn,Bunschoten-Spakenburg,M55,2,HM,00:42:49,01:32:29,01:32:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+46,127,Gerrit Brommer,Breezand,M45,10,HM,00:42:55,01:32:42,01:32:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+47,252,André Gerth,Lelystad,M50,8,HM,00:42:57,01:32:43,01:32:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+48,19,Nancy Sieling,Hillegom,V40,2,HM,00:41:57,01:32:57,01:32:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+49,29,Dirk Abbink,Anna Paulowna,M55,3,HM,00:42:19,01:32:58,01:32:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+50,E3080,Jan Klein,Hippolytushoef,M50,9,HM,00:42:40,01:33:03,01:32:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+51,962,Martien Witte,Den Burg,M55,4,HM,00:42:28,01:33:08,01:32:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+52,767,Peter van der Meer,Amsterdam,MSR,10,HM,00:44:40,01:33:17,01:32:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+53,E3283,Kevin Rock,Arnhem,M35,8,HM,00:42:47,01:33:26,01:32:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+54,E3132,Coen Schoonheden,Den Burg,M45,11,HM,00:42:39,01:33:26,01:33:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+55,887,Pascal Vendel,Den Helder,M40,7,HM,00:42:22,01:33:35,01:33:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+56,901,Joey Vermeulen,Beusichem,MSR,11,HM,00:42:08,01:33:39,01:33:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+57,439,Rene Leek,Breezand,M40,8,HM,00:42:57,01:33:45,01:33:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+58,26,Pieter jan Vlaming,Nagele,M55,5,HM,00:43:18,01:34:05,01:33:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+59,938,Mark Wester,Wognum,M45,12,HM,00:42:28,01:34:11,01:33:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+60,E3153,Frits van der Gracht,Den Burg,M55,6,HM,00:42:29,01:34:13,01:33:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+61,E3046,Arnoud Ens,Utrecht,MSR,12,HM,00:42:58,01:34:31,01:34:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+62,366,Peter Keet,Anna Paulowna,M50,10,HM,00:43:19,01:34:40,01:34:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+63,E3069,Adrie Hoek,Den Hoorn,M55,7,HM,00:45:00,01:35:10,01:34:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+64,E3291,Marcel  Vredenburg,Koog aan de Zaan,M45,13,HM,00:44:53,01:35:13,01:34:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+65,748,Koen Van der Graaf,Limmen,M50,11,HM,00:43:56,01:35:14,01:34:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+66,394,John Koomen,Wervershoof,MSR,13,HM,00:45:14,01:35:14,01:34:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+67,E3127,Jasper Ritsema,Bunschoten-Spakenburg,M40,9,HM,00:43:55,01:35:27,01:35:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+68,441,Erik Leibbrand,Den Helder,M50,12,HM,00:43:04,01:35:32,01:35:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+69,E3083,Martijn Kooijman,Castricum,M35,9,HM,00:43:58,01:35:37,01:35:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+70,E3195,William Wolff,Houten,MSR,14,HM,00:46:40,01:35:54,01:35:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+71,16,Ton Meché,Julianadorp,M60,1,HM,00:43:42,01:36:05,01:35:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+72,511,Remko Nagtegaal,De Cocksdorp,M45,14,HM,00:41:35,01:36:09,01:35:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+73,E3236,David Klein Lenderink,Arnhem,MSR,15,HM,00:45:44,01:36:21,01:35:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+74,561,Marius Pruijs,Bunschoten-Spakenburg,M50,13,HM,00:43:55,01:36:33,01:36:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+75,585,Sander Rijs,Wormer,M35,10,HM,00:46:16,01:36:33,01:36:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+76,940,Harrie Wetterhahn,Leeuwarden,M45,15,HM,00:46:22,01:36:49,01:36:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+77,458,Ingrid Lubbers,Hilversum,V35,1,HM,00:44:37,01:36:50,01:36:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+78,E3262,Han Stegeman,Arnhem,M50,14,HM,00:43:05,01:36:52,01:36:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+79,900,Dimitri Vermeer,Haarlem,M35,11,HM,00:42:26,01:36:53,01:36:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+80,848,Michel van Moorselaar,Zuid-Scharwoude,M50,15,HM,00:44:16,01:36:54,01:36:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+81,464,Maikel Lust,Zaandam,MSR,16,HM,00:45:01,01:37:05,01:35:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+82,258,Wim Glas,Oudkarspel,M55,8,HM,00:44:48,01:37:30,01:37:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+83,411,Gerard Krusemeijer,Den Helder,M60,2,HM,00:45:15,01:37:58,01:37:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+84,5,Frans Dekker,Heerhugowaard,M60,3,HM,00:44:14,01:38:08,01:37:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+85,1026,Ronald Meijboom,Haren Gn,M40,10,HM,00:45:41,01:38:11,01:36:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+86,541,Sander Peters,Alphen aan den Rijn,M35,12,HM,00:46:23,01:38:17,01:37:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+87,626,Ronald Schoorlemmer,Vleuten,M45,16,HM,00:46:41,01:38:23,01:37:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+88,206,Nathalie Dragt,Den Helder,V45,2,HM,00:46:02,01:38:30,01:38:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+89,276,Frank Haazelager,Heiloo,M55,9,HM,00:44:55,01:38:40,01:38:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+90,317,Leon Hoogeveen,Alphen aan den Rijn,M35,13,HM,00:47:13,01:38:41,01:36:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+91,E3208,kenneth bouwman,Arnhem,M40,11,HM,00:46:03,01:38:42,01:38:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+92,E3203,John-Paul Becks,Arnhem,M40,12,HM,00:46:03,01:38:42,01:38:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+93,544,Hans Pijl,Assendelft,M40,13,HM,00:47:08,01:38:44,01:38:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+94,873,Robert Jan van Vliet,Den Helder,M45,17,HM,00:46:22,01:38:48,01:38:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+95,E3179,Henny Verheugen,Arnhem,M50,16,HM,00:46:02,01:38:54,01:38:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+96,E3057,Frank Groeskamp,Den Hoorn,M45,18,HM,00:47:01,01:38:55,01:38:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+97,E3152,Maikel Van der Gracht,Den Burg,MSR,17,HM,00:42:40,01:39:02,01:38:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+98,273,Richard Grootveld,IJsselstein,M35,14,HM,00:46:47,01:39:11,01:38:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+99,698,Mihai Tiripa,Düsseldorf,M50,17,HM,00:47:32,01:39:14,01:38:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+100,69,Arjen Benders,Schoorl,M50,18,HM,00:44:49,01:39:16,01:38:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+101,483,Jos Meeussen,Zaandam,MSR,18,HM,00:46:23,01:39:18,01:38:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+102,605,Daan Schagen,Huisduinen,MSR,19,HM,00:48:16,01:39:21,01:37:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+103,981,Paul Zonneveld,Beverwijk,M40,14,HM,00:46:01,01:39:21,01:38:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+104,910,Peter Visch,Den Burg,M40,15,HM,00:46:29,01:39:24,01:38:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+105,507,Frank Müller,Hagen,M50,19,HM,00:45:52,01:39:36,01:39:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+106,840,Gauke van Lingen,De Koog,M50,20,HM,00:46:39,01:39:42,01:38:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+107,E3147,Niels Vaars,Breezand,M35,15,HM,00:45:49,01:39:51,01:39:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+108,149,John de Boer,De Meern,M50,21,HM,00:48:22,01:39:55,01:37:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+109,396,Jan Koopman,Den Helder,M45,19,HM,00:46:48,01:39:57,01:39:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+110,269,Cock Groenendaal,Nieuw-Vennep,M50,22,HM,00:46:42,01:40:00,01:39:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+111,207,Jeroen Driehuis,Zwolle,MSR,20,HM,00:44:37,01:40:07,01:39:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+112,499,Guido Mols,Krimpen a/d IJssel,M40,16,HM,00:46:25,01:40:09,01:39:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+113,E3226,Peter Hoekendijk,Arnhem,M55,10,HM,00:46:00,01:40:14,01:39:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+114,2648,Adriaan Smits,Eindhoven,MSR,21,HM,00:46:39,01:40:16,01:39:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+115,833,Bas van Keulen,Uithoorn,M35,16,HM,00:46:23,01:40:16,01:39:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+116,857,Bertold van Ravenswaaij,Ede,M45,20,HM,00:47:50,01:40:26,01:38:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+117,190,Gertjan de Wit,De Waal,M50,23,HM,00:47:11,01:40:43,01:39:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+118,235,Wouter Nolet,Den Burg,MSR,22,HM,00:46:23,01:40:49,01:40:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+119,84,Jos Blankendaal,Waarland,M50,24,HM,00:47:41,01:41:00,01:39:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+120,368,Nico Kikkert,Den Burg,M50,25,HM,00:47:00,01:41:00,01:40:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+121,E3118,Ilona Ploeger,Anna Paulowna,V40,3,HM,00:45:33,01:41:04,01:40:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+122,1117,Ian Overduin,Den Burg,VSR,3,HM,00:44:25,01:41:25,01:41:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+123,796,Henk van Dijk,Almere,M45,21,HM,00:47:41,01:41:27,01:41:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+124,E3051,Sven Fremeijer,Vreeland,M45,22,HM,00:48:26,01:41:36,01:41:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+125,2054,Marcel Vonk,Wateringen,M45,23,HM,00:49:04,01:41:37,01:41:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+126,872,Paul van Veen,Amsterdam,MSR,23,HM,00:47:10,01:41:38,01:41:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+127,32,Pedro Afonso,Heemskerk,M40,17,HM,00:46:41,01:41:39,01:39:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+128,1015,Duncan Zwart,Heiloo,M35,17,HM,00:45:21,01:41:45,01:40:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+129,346,André Jellema,Leeuwarden,M45,24,HM,00:46:22,01:41:47,01:41:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+130,542,Ruud Peters,Den Helder,M50,26,HM,00:48:33,01:41:48,01:39:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+131,479,Jochem Marcus,Midwoud,M40,18,HM,00:48:20,01:41:49,01:40:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+132,665,Han Stiekema,Zwolle,M60,4,HM,00:47:12,01:41:53,01:41:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+133,932,Leon Vork,Zaltbommel,M55,11,HM,00:47:01,01:42:06,01:41:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+134,E3169,Benz van Heerwaarde,Assen,M45,25,HM,00:47:18,01:42:12,01:41:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+135,357,Jan J.J. Kaldenbach,Noord-Scharwoude,M35,18,HM,00:48:32,01:42:21,01:40:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+136,478,Remco Marchand,Noord-Scharwoude,M35,19,HM,00:48:32,01:42:22,01:40:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+137,1025,Michiel Dobber,Den Helder,M35,20,HM,00:45:49,01:42:24,01:41:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+138,3,Martin Baptist,Den Burg,M45,26,HM,00:42:32,01:42:24,01:42:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+139,1018,Marco Ehlhardt,Limmen,M50,27,HM,00:48:18,01:42:24,01:41:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+140,956,Job Wink,Muiden,MSR,24,HM,00:47:51,01:42:38,01:41:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+141,504,Gunther Mulder,Breda,M45,27,HM,00:49:01,01:42:41,01:42:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+142,839,Ron Van Lierop,Anna Paulowna,M40,19,HM,00:47:29,01:42:43,01:42:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+143,568,Louis Raes,Ekeren,MSR,25,HM,00:46:24,01:42:45,01:42:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+144,835,Mario Van Kooij,Amsterdam,MSR,26,HM,00:49:10,01:42:47,01:40:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+145,836,Dennis van Kooij,Amsterdam,MSR,27,HM,00:49:10,01:42:47,01:40:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+146,805,Erwin van Duinen,Epe,M50,28,HM,00:46:02,01:42:48,01:42:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+147,57,Ramon Knaap,Hellevoetsluis,M40,20,HM,00:47:29,01:42:50,01:42:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+148,66,Remco Beentjes,Castricum,M45,28,HM,00:48:18,01:42:53,01:41:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+149,854,Benno van Oosten,Medemblik,M40,21,HM,00:50:46,01:42:58,01:39:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+150,E3204,Raymond Berentsen,Arnhem,M50,29,HM,00:47:35,01:42:59,01:42:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+151,697,Peter Tilburg,Raamsdonksveer,M45,29,HM,00:46:53,01:43:00,01:41:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+152,189,Edwin de Wit,Den Helder,M45,30,HM,00:48:46,01:43:01,01:42:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+153,2175,Arnold Gerrritsen,Huisduinen,M45,31,HM,00:48:46,01:43:08,01:42:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+154,E3044,Rob Donker,Slootdorp,M45,32,HM,00:47:40,01:43:11,01:42:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+155,221,Alexander Elias,Hoogezand,M35,21,HM,00:50:28,01:43:12,01:41:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+156,E3196,Dennis Wolt,Elst,M40,22,HM,00:49:31,01:43:12,01:42:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+157,533,John Oudejans,Castricum,M45,33,HM,00:46:40,01:43:14,01:41:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+158,230,Timm Fanselow,Dortmnd,MSR,28,HM,00:47:43,01:43:17,01:42:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+159,424,Robert Lakeman,Alkmaar,M45,34,HM,00:46:57,01:43:22,01:42:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+160,438,Ivo Lechner,Delft,M45,35,HM,00:47:44,01:43:29,01:43:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+161,870,Denny Van Straaten,Culemborg,M35,22,HM,00:48:12,01:43:34,01:43:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+162,915,Jaap Vlaming,Lemmer,M60,5,HM,00:46:41,01:43:37,01:43:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+163,984,Remco Zwart,Heemskerk,M45,36,HM,00:46:43,01:43:38,01:43:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+164,2195,Henk Vermeulen,Den Helder,M35,23,HM,00:49:05,01:43:40,01:42:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+165,E3137,Rik Stender,Zaandam,MSR,29,HM,00:48:21,01:43:41,01:43:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+166,625,Silve Schoorl,Den Burg,VSR,4,HM,00:48:39,01:43:49,01:43:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+167,E3246,Bert Leijten,Arnhem,M35,24,HM,00:47:31,01:43:52,01:43:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+168,141,Dennis Curvers,Julianadorp,M35,25,HM,00:50:51,01:43:53,01:40:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+169,347,Ron Jimmink,Anna Paulowna,M40,23,HM,00:47:30,01:43:58,01:43:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+170,514,HANS Nederstigt,Alkmaar,M50,30,HM,00:47:29,01:43:59,01:43:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+171,200,Dolf Dijkstra,Alkmaar,M50,31,HM,00:47:28,01:43:59,01:43:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+172,E3138,Rick Sterenborg,Alkmaar,M35,26,HM,00:45:35,01:44:01,01:43:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+173,8,Casper van de Kamp Kamp,Leeuwarden,M50,32,HM,00:49:30,01:44:01,01:43:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+174,E3150,Rik van den Berg,Dronten,MSR,30,HM,00:45:48,01:44:01,01:43:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+175,307,Dylan Hoekzema,Amsterdam,MSR,31,HM,00:47:45,01:44:02,01:43:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+176,456,Sander Elfring,Diemen,M35,27,HM,00:49:23,01:44:05,01:42:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+177,1091,Richard Bousma,Den Burg,M40,24,HM,00:47:52,01:44:07,01:43:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+178,619,Frank Schmitz,Emsdetten,M40,25,HM,00:47:44,01:44:08,01:43:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+179,E3143,Erik te Brake,Eemnes,M40,26,HM,00:48:51,01:44:11,01:43:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+180,E3019,Sander Bouwknegt,Amsterdam,M35,28,HM,00:48:23,01:44:15,01:43:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+181,501,Willemieke Mudde,Groningen,VSR,5,HM,00:48:22,01:44:16,01:43:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+182,E3170,Ton van Hoof,Amerongen,M50,33,HM,00:48:20,01:44:18,01:43:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+183,2214,Robert Smit,Anna Paulowna,M35,29,HM,00:47:09,01:44:20,01:43:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+184,104,Luuk Bos,Callantsoog,M50,34,HM,00:49:35,01:44:25,01:43:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+185,E3111,Luuk Naarding,Oosthem,M50,35,HM,00:49:21,01:44:26,01:43:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+186,476,Arjan Maldegem,Oudeschild,MSR,32,HM,00:47:36,01:44:45,01:44:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+187,E3181,Joris Visser,Haarlem,M45,37,HM,00:49:20,01:45:03,01:44:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+188,811,Harry van Emmerik,Alkmaar,M45,38,HM,00:49:11,01:45:04,01:41:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+189,674,Johan Struijs,Vlaardingen,M55,12,HM,00:49:30,01:45:08,01:43:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+190,1006,Jacob Wulp,Anna Paulowna,M40,27,HM,00:47:29,01:45:16,01:44:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+191,804,Janey van Dorst,den helder,VSR,6,HM,00:50:14,01:45:17,01:44:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+192,1002,Arjen Milhous,Anna Paulowna,M40,28,HM,00:51:02,01:45:21,01:45:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+193,E3006,Richard Bakker,De Koog,M60,6,HM,00:47:19,01:45:21,01:45:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+194,741,Norbert van der Bilt,Alphen aan den Rijn,M40,29,HM,00:51:16,01:45:27,01:43:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+195,696,Rob Tijsen,Egmond-Binnen,M40,30,HM,00:50:43,01:45:34,01:43:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+196,183,Erik de Vos,Krommenie,M50,36,HM,00:47:58,01:45:40,01:45:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+197,172,Ron de Lange,Oud-Beijerland,M45,39,HM,00:51:03,01:45:44,01:43:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+198,558,Biem Onderwater,Breezand,MSR,33,HM,00:49:21,01:45:47,01:44:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+199,506,Robert Muller,Assendelft,M45,40,HM,00:48:45,01:45:47,01:45:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+200,37,Hans Andringa,Drachten,M50,37,HM,00:49:31,01:45:49,01:43:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+201,413,Robin Kuip,Heemskerk,M35,30,HM,00:49:02,01:45:53,01:45:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+202,989,Bas Hoeijmakers,Arnhem,MSR,34,HM,00:51:27,01:46:11,01:44:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+203,285,Frank Haze,Bruchem,M45,41,HM,00:50:14,01:46:14,01:44:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+204,63,Rainer Beckers,Rheda-Wiedenbrueck,M50,38,HM,00:49:03,01:46:15,01:45:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+205,157,Harald de Groot,Alphen aan den Rijn,M45,42,HM,00:51:16,01:46:23,01:44:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+206,884,Obe Veldman,Jirnsum,M50,39,HM,00:47:50,01:46:29,01:46:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+207,686,Paul Terpstra,Haren Gn,M50,40,HM,00:50:10,01:46:44,01:45:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+208,442,Arnold Leijstra,Den Burg,M40,31,HM,00:52:03,01:46:48,01:44:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+209,91,Wander Bod,Stokkum,M60,7,HM,00:50:21,01:46:48,01:46:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+210,784,Tom Van der Waal,Schoonhoven,MSR,35,HM,00:52:33,01:46:50,01:45:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+211,72,Mitchel Betsema,Oosterend,MSR,36,HM,00:51:22,01:46:54,01:44:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+212,290,Oliver Heidotting,Emsdetten,M45,43,HM,00:47:44,01:46:56,01:46:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+213,755,Jelte van der Kooi,Den Burg,M45,44,HM,00:46:52,01:46:58,01:45:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+214,703,Andries Tolman,Oldeholtpade,M60,8,HM,00:49:18,01:47:01,01:46:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+215,416,Jochen Kunze,Köln,M45,45,HM,00:48:35,01:47:07,01:46:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+216,407,Suzan Kroontje,Bolsward,VSR,7,HM,00:51:02,01:47:12,01:46:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+217,582,Gabriëlla Rietmeijer,Alphen aan den Rijn,VSR,8,HM,00:51:37,01:47:12,01:45:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+218,1,Anja Bakker,Heemskerk,V50,1,HM,00:49:20,01:47:13,01:46:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+219,49,Jan Bakker,Heemskerk,M50,41,HM,00:49:20,01:47:14,01:46:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+220,50,Bas Bakker,Den Hoorn,M35,31,HM,00:49:41,01:47:15,01:45:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+221,143,Johan Dantuma,Enkhuizen,M40,32,HM,00:48:51,01:47:17,01:46:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+222,121,Bart Briedé,Woerden,M55,13,HM,00:49:21,01:47:17,01:46:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+223,E3224,Arno Haverkamp,Arnhem,MSR,37,HM,00:50:49,01:47:20,01:46:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+224,E3053,Leon Geurtz,Apeldoorn,M35,32,HM,00:47:47,01:47:23,01:47:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+225,446,Robin Liefers,Hengelo,M40,33,HM,00:50:35,01:47:24,01:46:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+226,960,Ton Wisman,Amersfoort,M50,42,HM,00:50:17,01:47:24,01:46:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+227,E3193,Niels Witte,Enschede,MSR,38,HM,00:47:44,01:47:28,01:46:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+228,272,Frank Groot,Anna Paulowna,M50,43,HM,00:48:48,01:47:40,01:47:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+229,E3055,Jan Gremmen,Oudeschild,M55,14,HM,00:48:38,01:47:48,01:47:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+230,E3206,Jan Nico Blauw,Arnhem,M55,15,HM,00:48:19,01:47:52,01:47:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+231,E3280,Bart Zelst,Arnhem,M35,33,HM,00:48:19,01:47:53,01:47:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+232,928,Rinse Vreugdenhil,Amsterdam,M50,44,HM,00:48:48,01:47:58,01:46:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+233,459,Frens Lubberts,Hengelo,MSR,39,HM,00:51:18,01:47:58,01:47:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+234,590,Marco Roling,Zwammerdam,M50,45,HM,00:48:47,01:48:02,01:47:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+235,E3273,Arnold Wientjes,Arnhem,M35,34,HM,00:48:54,01:48:03,01:47:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+236,667,Dennis Stinenbosch,Amstelveen,M40,34,HM,00:48:49,01:48:04,01:47:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+237,807,Frederik van Duuren,Amsterdam,M35,35,HM,00:49:29,01:48:08,01:47:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+238,E3175,Michel van Velsen,Odijk,M45,46,HM,00:52:19,01:48:11,01:46:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+239,154,Matthieu de Bruijn,Nieuwerkerk aan den IJssel,MSR,40,HM,00:51:22,01:48:17,01:46:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+240,430,André Lanenga,Groningen,M45,47,HM,00:49:37,01:48:19,01:47:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+241,123,Bert Broekhuizen,Sliedrecht,M55,16,HM,00:52:34,01:48:24,01:47:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+242,421,John Labrie,IJsselstein,M55,17,HM,00:51:30,01:48:26,01:46:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+243,364,Dennis Kats,Uithoorn,M40,35,HM,00:51:31,01:48:26,01:47:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+244,935,Ad Warmerdam,Almere,M55,18,HM,00:51:38,01:48:27,01:47:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+245,E3034,Babette de Koning,Amsterdam,V35,2,HM,00:48:56,01:48:29,01:48:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+246,E3167,Stefan van Dieken,Alkmaar,M50,46,HM,00:47:39,01:48:31,01:48:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+247,33,Peter Akerboom,Uitgeest,M60,9,HM,00:52:20,01:48:33,01:46:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+248,177,Pieter de Ridder,Den Burg,M35,36,HM,00:50:00,01:48:36,01:47:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+249,961,Jody Wisman,Utrecht,M45,48,HM,00:49:28,01:48:38,01:47:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+250,785,Anita van der Wal,Harlingen,V45,3,HM,00:47:43,01:48:39,01:48:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+251,E3032,Gert-Jan de Jong,Volendam,M45,49,HM,00:49:40,01:48:39,01:48:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+252,E3087,Peter Kreeft,Den Burg,M45,50,HM,00:49:53,01:48:43,01:48:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+253,990,Henk Kroon,Arnhem,M55,19,HM,00:52:26,01:48:48,01:46:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+254,77,Willem Biemolt,Utrecht,M45,51,HM,00:52:34,01:48:51,01:46:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+255,530,Natalie Oram,Wageningen,VSR,9,HM,00:49:19,01:48:58,01:48:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+256,E3093,Ronald Langenus,Mechelen,M60,10,HM,00:48:33,01:49:04,01:48:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+257,107,Richard Bosman,Alphen aan den Rijn,M40,36,HM,00:53:22,01:49:07,01:47:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+258,247,Martin Geers,Boskoop,M40,37,HM,00:53:22,01:49:07,01:47:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+259,991,Jolanda Zweep,Arnhem,V55,1,HM,00:52:26,01:49:14,01:47:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+260,2638,Gerald Berg,Apeldoorn,MSR,41,HM,00:52:17,01:49:16,01:48:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+261,677,Monique Stuut-Goossen,Nijverdal,V45,4,HM,00:51:29,01:49:16,01:46:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+262,E3198,Gert Aanhaanen,Arnhem,M50,47,HM,00:52:27,01:49:17,01:48:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+263,E3122,Thomas Rath,Kerkrade,MSR,42,HM,00:49:15,01:49:17,01:48:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+264,564,Jorick Quax,Breezand,MSR,43,HM,00:50:44,01:49:20,01:48:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+265,83,Silke Bink,Breezand,VSR,10,HM,00:50:45,01:49:20,01:48:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+266,621,Steffen Schnitzler,Köln,MSR,44,HM,00:53:25,01:49:23,01:47:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+267,809,Claes van Ederen,Alkmaar,M60,11,HM,00:51:29,01:49:30,01:49:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+268,731,Gert Jan van den Berg,Breezand,M40,38,HM,00:51:43,01:49:33,01:48:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+269,331,Sjoerd Huisinga,Castricum,M50,48,HM,00:52:20,01:49:43,01:47:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+270,E3177,Berry vd Berg,Voorschoten,M50,49,HM,00:52:18,01:49:48,01:49:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+271,334,Siebe Huitema,'s-Gravenhage,M55,20,HM,00:52:19,01:49:48,01:47:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+272,883,Wietse Veenstra,Mantgum,MSR,45,HM,00:52:18,01:49:48,01:48:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+273,906,Jan-Hein Vet,Den Hoorn,M50,50,HM,00:48:31,01:49:49,01:49:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+274,E3144,Ids Terpstra,Mantgum,MSR,46,HM,00:52:17,01:49:49,01:48:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+275,E3110,Rien Mudde,Olst,M60,12,HM,00:48:04,01:49:54,01:49:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+276,1159,Steen Sorensen,Amsterdam,M50,51,HM,00:48:34,01:50:04,01:49:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+277,E3086,Sven Kordbarlag,Bielefeld,M40,39,HM,00:51:56,01:50:06,01:49:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+278,444,Tjeerd Lemstra,Zwolle,MSR,47,HM,00:50:45,01:50:08,01:49:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+279,296,Jan Hendriksen,Barneveld,M35,37,HM,00:53:16,01:50:14,01:48:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+280,1022,Bas Dorpmans,Schagen,M40,40,HM,00:49:40,01:50:18,01:49:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+281,680,Siegfried Szardien,Duisburg,M60,13,HM,00:51:06,01:50:23,01:49:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+282,973,Reinoud Wouters,Amstelveen,M55,21,HM,00:50:46,01:50:27,01:48:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+283,E3112,Karst Nieboer,Nijverdal,M50,52,HM,00:52:42,01:50:40,01:50:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+284,656,Marieke Loon,Delft,V45,5,HM,00:53:55,01:50:40,01:48:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+285,965,Mariska Witte,Oudeschild,VSR,11,HM,00:51:14,01:50:40,01:49:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+286,603,Aarnout Salwegter,Dordrecht,M55,22,HM,00:51:39,01:50:47,01:50:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+287,660,Bob Stemerdink,Breda,M45,52,HM,00:52:04,01:50:49,01:50:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+288,649,Willem Snel,Den Helder,M60,14,HM,00:51:27,01:50:51,01:49:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+289,725,Peter van de Plasse,Zaandam,M45,53,HM,00:51:32,01:50:57,01:49:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+290,174,Ron de Moel,Alkmaar,M40,41,HM,00:53:56,01:50:57,01:48:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+291,2269,Simone Kossen - de Wit,Den Burg,VSR,12,HM,00:51:43,01:51:00,01:50:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+292,610,Niels Schepers,Breezand,M35,38,HM,00:50:50,01:51:03,01:49:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+293,E3184,Gregor Weingarten,Köln,M50,53,HM,00:50:45,01:51:03,01:50:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+294,714,Michael Valk,Alphen aan den Rijn,M40,42,HM,00:52:37,01:51:05,01:49:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+295,E3156,Koen van der Meer,Den Burg,M50,54,HM,00:51:33,01:51:06,01:50:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+296,2462,Bauke Smidts,Julianadorp,M50,55,HM,00:50:50,01:51:06,01:50:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+297,311,Leo Holwerda,Badhoevedorp,M45,54,HM,00:53:35,01:51:08,01:48:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+298,355,Sander Kaandorp,Schoorl,M45,55,HM,00:52:15,01:51:15,01:50:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+299,758,Mario van der Linden,Vleuten,M45,56,HM,00:52:18,01:51:18,01:49:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+300,977,Dick Zeedijk,Hengelo,M60,15,HM,00:50:58,01:51:27,01:51:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+301,397,Oscar Koopmans,Assendelft,M45,57,HM,00:50:00,01:51:29,01:51:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+302,418,Martin Kwakkel,Heerhugowaard,M60,16,HM,00:53:09,01:51:35,01:50:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+303,333,Clara Huisinga-Fischer,Castricum,V45,6,HM,00:52:17,01:51:35,01:50:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+304,E3268,Les Vermeulen,Arnhem,M50,56,HM,00:53:35,01:51:36,01:50:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+305,E3117,Charlotte Pasteuning,Badhoevedorp,VSR,13,HM,00:49:30,01:51:44,01:51:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+306,489,Anne-Kathrin Mertens,Nordkirchen,V35,3,HM,00:51:52,01:51:44,01:49:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+307,298,Reinier Hensen,Zaandijk,M40,43,HM,00:52:33,01:51:49,01:49:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+308,325,Mark Horsthuis,Borne,M40,44,HM,00:51:49,01:51:51,01:51:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+309,606,Wenceslaus Scheepmaker,De Lier,M50,57,HM,00:54:01,01:51:54,01:49:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+310,788,Jacco van der Werff,'t Veld,M50,58,HM,00:53:30,01:51:57,01:48:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+311,611,David Schild,Den Burg,MSR,48,HM,00:52:32,01:51:59,01:51:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+312,463,Fabrice Luijten,Utrecht,MSR,49,HM,00:52:32,01:51:59,01:51:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+313,896,Rody Verhulst,Wateringen,MSR,50,HM,00:54:09,01:51:59,01:49:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+314,433,Marco Langendoen,Den Helder,M35,39,HM,00:49:43,01:52:02,01:51:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+315,E3102,Peter Mateman,Dronten,MSR,51,HM,00:47:30,01:52:05,01:51:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+316,340,Dina in 't Zandt,Nijmegen,VSR,14,HM,00:51:28,01:52:07,01:51:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+317,116,Symen Velde,Nederhorst den Berg,M60,17,HM,00:51:03,01:52:13,01:51:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+318,175,Cor De Moel,Beverwijk,M45,58,HM,00:52:15,01:52:14,01:51:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+319,484,Peter Meinen,Zaandijk,M40,45,HM,00:52:16,01:52:15,01:51:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+320,76,André Bieleman,Doetinchem,M50,59,HM,00:52:36,01:52:16,01:51:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+321,918,Esther Vlaming,Biddinghuizen,V50,2,HM,00:53:00,01:52:18,01:51:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+322,709,Suzan Tuinier,Haarlem,V35,4,HM,00:53:54,01:52:22,01:51:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+323,892,Anneke Verhagen,Haarlem,V40,4,HM,00:53:54,01:52:22,01:51:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+324,419,Arjen Kwint,Loppersum,M45,59,HM,00:53:49,01:52:32,01:51:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+325,67,Wim Beerman,Lelystad,M50,60,HM,00:48:55,01:52:34,01:52:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+326,E3002,Gerard Alberts,Zwolle,M45,60,HM,00:51:37,01:52:35,01:52:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+327,223,Jorn Engel,Groningen,MSR,52,HM,00:52:18,01:52:37,01:50:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+328,E4097,Gerard van Maurik,Baarn,M65,1,HM,00:51:29,01:52:40,01:52:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+329,863,Hans van Sluis,Alkmaar,M50,61,HM,00:51:44,01:52:42,01:51:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+330,E3182,Bas Vlaming,Den Hoorn,M35,40,HM,00:52:40,01:52:43,01:52:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+331,94,Bart Böing,Heiloo,M35,41,HM,00:53:25,01:52:45,01:51:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+332,951,Bernard Wilkens,Ureterp,M55,23,HM,00:53:55,01:52:46,01:51:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+333,661,Rene Steur,Avenhorn,M50,62,HM,00:52:32,01:52:47,01:52:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+334,816,Jan Willem van Groenigen,Hilversum,M45,61,HM,00:49:38,01:52:48,01:52:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+335,1356,Andre van der Iest,Groningen,M50,63,HM,00:52:33,01:52:52,01:50:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+336,262,Robin Gravestijn,IJsselstein,M45,62,HM,00:52:29,01:52:52,01:51:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+337,834,Hans van Keulen,Lekkerkerk,M60,18,HM,00:53:47,01:52:59,01:52:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+338,893,Hanneke Verheul,Assen,V60,1,HM,00:51:16,01:53:00,01:52:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+339,304,Arjan Hillebrand,Castricum,M40,46,HM,00:50:34,01:53:06,01:51:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+340,404,Ruben Kranenburg,Zaandam,M35,42,HM,00:51:33,01:53:13,01:52:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+341,E3272,Frank Wester,Arnhem,M45,63,HM,00:53:52,01:53:16,01:52:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+342,231,Karin Fischer,Schwerte,VSR,15,HM,00:51:17,01:53:18,01:52:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+343,1008,Coen Stapel,Anna Paulowna,MSR,53,HM,00:53:15,01:53:21,01:51:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+344,86,Eveline Blasius,Amsterdam,V35,5,HM,00:53:53,01:53:24,01:52:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+345,62,DANNY BATHS,Alkmaar,MSR,54,HM,00:53:24,01:53:24,01:51:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+346,85,Igor Blasius,Amsterdam,M35,43,HM,00:53:53,01:53:24,01:52:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+347,815,Glenn van Ginkel,Den Burg,M35,44,HM,00:48:11,01:53:30,01:53:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+348,998,Herman Ploeger,Den Burg,M55,24,HM,00:48:45,01:53:31,01:53:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+349,875,Bob van Waveren,Amsterdam,M55,25,HM,00:52:16,01:53:32,01:52:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+350,361,Dirk Kampmann,Vaals,M50,64,HM,00:53:25,01:53:32,01:51:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+351,644,Ron Slot,Zaltbommel,M50,65,HM,00:55:31,01:53:37,01:52:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+352,732,Niels Van den Berg,Zaltbommel,M40,47,HM,00:51:19,01:53:37,01:52:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+353,28,Liesbeth Abbenes,Amsterdam,V45,7,HM,00:51:37,01:53:41,01:52:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+354,E3088,Merel Krijn,Groet,V40,5,HM,00:50:55,01:53:43,01:53:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+355,1000,Andre Vendrig,Anna Paulowna,M45,64,HM,00:53:34,01:53:43,01:52:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+356,1005,Jeroen Zandstra,Anna Paulowna,M40,48,HM,00:53:34,01:53:43,01:52:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+357,622,Heinz Schnitzler,Heinsberg,M55,26,HM,00:53:59,01:53:45,01:51:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+358,330,Christiaan Huijg,Heerhugowaard,M45,65,HM,00:53:55,01:53:46,01:51:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+359,1023,Matthe Meer,Breezand,MSR,55,HM,00:50:26,01:53:48,01:53:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+360,359,Mike Kalksma,Alphen aan den Rijn,M45,66,HM,00:52:27,01:53:50,01:52:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+361,770,Kurt van der Plas,Anna Paulowna,M45,67,HM,00:47:45,01:53:51,01:53:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+362,831,Marco van Kesteren,Bunschoten-Spakenburg,M40,49,HM,00:51:15,01:53:51,01:53:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+363,E3258,Marien Ruppert,Arnhem,MSR,56,HM,00:54:54,01:53:52,01:53:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+364,101,Roland Borst,Vinkeveen,M40,50,HM,00:52:15,01:53:53,01:53:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+365,92,Femke Boekema,Harderwijk,V40,6,HM,,01:53:56,01:53:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+366,663,Mark Stevens,Amsterdam,MSR,57,HM,00:51:08,01:53:58,01:53:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+367,329,Jaap Hugen,Hoogeveen,M40,51,HM,00:51:04,01:54:02,01:53:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+368,323,Jan Hopman,Heemstede,M55,27,HM,00:51:04,01:54:04,01:53:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+369,E3082,Arnoud Koning,Santpoort-Noord,M45,68,HM,00:53:21,01:54:06,01:53:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+370,997,Rick Siersma,Den Burg,M45,69,HM,00:53:23,01:54:06,01:52:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+371,E3021,Pablo Brandenburg,Den Burg,M40,52,HM,00:50:52,01:54:06,01:53:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+372,634,Bas Selhorst,Purmerend,M50,66,HM,00:55:58,01:54:13,01:51:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+373,1013,Paul Krugers,Den Burg,M55,28,HM,00:53:18,01:54:14,01:52:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+374,573,Marcel Ravier,Alkmaar,M55,29,HM,00:48:15,01:54:24,01:54:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+375,666,Sander Stiekema,Zwolle,M40,53,HM,00:54:22,01:54:26,01:53:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+376,208,Hein Drost,Buitenpost,M45,70,HM,00:55:35,01:54:26,01:53:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+377,151,Lesley De Boer,Soest,MSR,58,HM,00:55:27,01:54:26,01:52:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+378,337,Edwin Huls,Hengelo,M50,67,HM,00:53:34,01:54:31,01:52:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+379,806,Johan van Duinen,IJsselstein,M45,71,HM,00:53:26,01:54:32,01:53:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+380,503,Erwin Mulder,Wildervank,M45,72,HM,00:52:16,01:54:40,01:53:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+381,295,Jeroen Hemelrijk,Oudeschild,M40,54,HM,00:55:08,01:54:41,01:52:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+382,575,Yvon Remers,Heiloo,V45,8,HM,00:53:10,01:54:43,01:54:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+383,96,Jörg Bongardt,Essen,M50,68,HM,00:53:00,01:54:44,01:53:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+384,226,Paul Ezendam,Goor,MSR,59,HM,00:50:43,01:54:45,01:54:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+385,138,Marnix Cornelisse,Leiden,M35,45,HM,00:51:28,01:54:49,01:54:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+386,225,Chris Everhardus,Julianadorp,M60,19,HM,00:54:18,01:54:53,01:52:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+387,597,Kevin Rooney,'s-Gravenhage,M45,73,HM,00:50:13,01:54:54,01:54:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+388,136,Jeroen Colpaar,Amstelveen,M40,55,HM,00:56:03,01:54:56,01:53:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+389,187,Wobe de Vries,Zuidlaren,M40,56,HM,00:52:43,01:55:02,01:54:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+390,738,Jorien van den Doel,Vlaardingen,V55,2,HM,00:55:06,01:55:04,01:53:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+391,481,Dave Mason,Utrecht,M35,46,HM,00:55:25,01:55:05,01:53:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+392,954,Ruud Wilner,Den Hoorn,M55,30,HM,00:53:55,01:55:06,01:53:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+393,265,Aus Grijpma,Helmond,M45,74,HM,00:53:48,01:55:10,01:54:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+394,447,Roy Lieshout,Helmond,M40,57,HM,00:53:49,01:55:11,01:54:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+395,723,Ron van Buuren,Julianadorp,M55,31,HM,00:54:18,01:55:12,01:52:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+396,E3497,Marcel Hendriks Boers,Nijverdal,M45,75,HM,00:52:42,01:55:12,01:54:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+397,425,Arjen Lakerveld,Amsterdam,M50,69,HM,00:52:03,01:55:13,01:54:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+398,886,Arjen Velzel,IJmuiden,M45,76,HM,00:55:32,01:55:13,01:52:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+399,E3003,Anneke Baak,Rijswijk,V55,3,HM,00:52:43,01:55:16,01:54:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+400,E3004,Evert Baak,Rijswijk,M55,32,HM,00:52:43,01:55:18,01:54:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+401,182,Jessica de Visser,Den Helder,VSR,16,HM,00:52:39,01:55:18,01:54:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+402,E3165,Iris van der Wal,Enschede,VSR,17,HM,00:53:25,01:55:21,01:54:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+403,294,David Helmink,Nijmegen,M40,58,HM,00:52:55,01:55:24,01:52:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+404,793,Willem-Jan van der Zwaag,Groningen,M35,47,HM,00:51:09,01:55:28,01:55:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+405,34,Jane Al,Beverwijk,V40,7,HM,00:55:53,01:55:28,01:53:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+406,E3068,Ab Hoek,Schagen,M60,20,HM,00:51:56,01:55:29,01:55:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+407,624,Johan Schoonheden,Den Helder,M55,33,HM,00:53:46,01:55:34,01:53:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+408,465,Hans-Bernhard Luters,Stadtlohn,M55,34,HM,00:53:35,01:55:36,01:54:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+409,664,Rob Stevens,Castricum,M50,70,HM,00:51:52,01:55:40,01:54:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+410,228,Rik Feenstra,Zeist,MSR,60,HM,00:55:32,01:55:42,01:53:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+411,864,Marnix van Smeden,Montfoort,M45,77,HM,00:54:49,01:55:42,01:54:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+412,810,Marion van Ederen,Alkmaar,V55,4,HM,00:53:37,01:55:46,01:55:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+413,431,Robert Langelaan,Naaldwijk,M50,71,HM,00:54:50,01:55:47,01:53:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+414,2595,Hans Zevenhoven,Ter Aar,M45,78,HM,00:56:40,01:55:49,01:53:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+415,676,Johan Stuut,Nijverdal,M50,72,HM,00:55:21,01:55:51,01:53:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+416,350,Kirsten Jochems,Zandvoort,V45,9,HM,00:55:31,01:55:52,01:54:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+417,309,Raymond Höhle,Almere,M45,79,HM,00:55:57,01:55:53,01:53:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+418,782,Jeroen van der Veer,Zwolle,M50,73,HM,00:51:55,01:55:54,01:55:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+419,715,Sjeik Valk,Noord-Scharwoude,M45,80,HM,00:55:57,01:55:54,01:53:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+420,822,Matthijs van Hekken,Amsterdam,MSR,61,HM,00:53:26,01:55:56,01:55:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+421,641,Joost Slabbekoorn,Amsterdam,MSR,62,HM,00:54:32,01:56:01,01:53:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+422,539,Kees Peijen,Gemonde,M45,81,HM,00:55:19,01:56:08,01:55:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+423,E3276,Willem Zomeren,Arnhem,MSR,63,HM,00:52:27,01:56:10,01:55:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+424,699,Inge Tishauser,Purmerend,VSR,18,HM,00:57:01,01:56:14,01:53:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+425,351,André Jong,Surhuisterveen,M45,82,HM,00:55:31,01:56:16,01:55:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+426,178,Michel de Roode,Zandvoort,M45,83,HM,00:55:32,01:56:18,01:55:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+427,550,Siem Pols,Heerhugowaard,M55,35,HM,00:53:44,01:56:31,01:55:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+428,850,Martin van Noort,Beverwijk,M55,36,HM,00:52:15,01:56:35,01:55:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+429,E3001,Barry Agterberg,Vleuten,M35,48,HM,00:53:30,01:56:35,01:56:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+430,2422,Carolien Slot,Den Helder,VSR,19,HM,00:56:16,01:56:36,01:55:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+431,820,Michiel van Harten,Den Hoorn,MSR,64,HM,00:57:12,01:56:38,01:54:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+432,E3289,Paul Lagendijk,Rotterdam,M55,37,HM,00:53:24,01:56:40,01:55:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+433,2528,Gert-Jan van 't Spijker,Huisduinen,M35,49,HM,00:53:00,01:56:44,01:55:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+434,437,Annemieke Lechner,Delft,V40,8,HM,00:53:11,01:56:47,01:56:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+435,519,Patrick Nichols,Den Burg,M45,84,HM,00:50:45,01:56:53,01:55:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+436,828,Kevin van Kempen,Voorhout,MSR,65,HM,00:53:10,01:56:55,01:55:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+437,78,Astrid Bierman,Heiloo,V45,10,HM,00:53:10,01:56:57,01:56:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+438,401,Klaus Kotlewski,Hagen,M45,85,HM,00:56:11,01:56:58,01:54:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+439,609,Toon Schenkeveld,De Lier,M55,38,HM,00:54:35,01:57:01,01:54:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+440,2643,Lindon Dashorst,Utrecht,MSR,66,HM,00:53:54,01:57:03,01:55:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+441,E3018,Tijmen Boumans,Amstelveen,M35,50,HM,00:54:34,01:57:09,01:56:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+442,277,Matthias Hamann,Ratingen,M40,59,HM,00:55:00,01:57:11,01:56:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+443,199,Dolf Dijkstra,Alkmaar,M50,74,HM,00:55:13,01:57:11,01:55:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+444,881,Sander Van Woudenberg,Arnhem,M35,51,HM,00:56:32,01:57:11,01:54:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+445,637,Niels Siebelink,Arnhem,M35,52,HM,00:56:32,01:57:11,01:54:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+446,218,Erik Eijgenraam,Ede,M45,86,HM,00:57:00,01:57:16,01:55:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+447,871,Tessa Van Tuil,Overberg,V40,9,HM,00:55:14,01:57:19,01:56:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+448,645,Roel Smit,Castricum,M60,21,HM,00:56:53,01:57:21,01:54:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+449,537,Oriane Pam,Amsterdam,VSR,20,HM,00:53:30,01:57:24,01:56:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+450,856,Kees van Paassen,De Lier,M60,22,HM,00:54:19,01:57:24,01:55:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+451,35,Wim Alta,Velserbroek,M50,75,HM,00:56:16,01:57:25,01:56:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+452,451,John Linting,Alphen aan den Rijn,M35,53,HM,00:53:18,01:57:26,01:55:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+453,341,Jos Jacobsen,Ter Aar,M45,87,HM,00:53:19,01:57:29,01:55:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+454,598,Peter Roos,Bunde,M45,88,HM,00:55:30,01:57:29,01:54:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+455,435,Erik Lassche,Nieuw-Vennep,M45,89,HM,00:50:05,01:57:34,01:57:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+456,E3219,Andre Gerritsen,Arnhem,M45,90,HM,00:56:53,01:57:34,01:56:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+457,436,Josef Laufenberg,Julianadorp,M50,76,HM,00:56:55,01:57:38,01:57:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+458,328,Clint Hove,Heerhugowaard,M40,60,HM,00:53:17,01:57:43,01:57:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+459,2205,Gerard Timmermans,Den Burg,M55,39,HM,00:55:13,01:57:55,01:56:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+460,529,Dirk Jan Oostra,Surhuisterveen,M45,91,HM,00:55:31,01:57:58,01:56:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+461,E3042,Jacqueline Dijkstra,Zwolle,V45,11,HM,00:54:58,01:57:58,01:57:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+462,607,Margot Scheeres,Velserbroek,V40,10,HM,00:54:11,01:58:01,01:57:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+463,E3041,Holger De wolf,Wijchen,M40,61,HM,00:53:36,01:58:11,01:57:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+464,566,Jan Jacob Rab,Den Burg,M55,40,HM,00:52:26,01:58:13,01:58:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+465,911,Monique Visch,Den Burg,V40,11,HM,00:54:13,01:58:15,01:56:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+466,E3209,Ron Bouwman,Arnhem,M50,77,HM,00:57:22,01:58:15,01:57:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+467,724,Peter van de Kamp,Amersfoort,M55,41,HM,00:55:32,01:58:19,01:57:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+468,837,Cors van Kruining,Julianadorp,M60,23,HM,00:56:24,01:58:19,01:55:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+469,318,Fred Hooghiemstra,Amstelveen,M50,78,HM,00:55:23,01:58:20,01:57:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+470,739,Wil van den Hoek,Alkmaar,V55,5,HM,00:54:43,01:58:28,01:56:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+471,150,Margriet de Boer,Abcoude,V40,12,HM,00:55:52,01:58:29,01:56:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+472,1031,Sjaak Kaandorp,Heiloo,M55,42,HM,00:54:28,01:58:31,01:57:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+473,986,Marlies Crommelin,Arnhem,VSR,21,HM,00:57:21,01:58:36,01:56:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+474,1028,Gert Henk Piksen,Amersfoort,M35,54,HM,00:55:18,01:58:40,01:57:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+475,1027,Daphne Klaasen Bos,Amersfoort,VSR,22,HM,00:55:18,01:58:41,01:57:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+476,671,Suzan Stougie-Jonkheer,Kortenhoef,V45,12,HM,00:54:39,01:58:45,01:58:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+477,185,Anne Willem de Vries,Amsterdam,M35,55,HM,00:54:05,01:58:49,01:55:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+478,E3271,Sander Weitkamp,Arnhem,MSR,67,HM,00:55:37,01:58:50,01:58:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+479,958,Saskia Winkel-Onrust,Purmerend,V50,3,HM,00:55:57,01:58:51,01:55:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+480,711,Simon Turner,GENT,M35,56,HM,00:56:44,01:58:57,01:57:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+481,105,Maarten Steen,Blaricum,M35,57,HM,00:56:44,01:58:58,01:57:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+482,963,Martin Witte,Bergschenhoek,M55,43,HM,00:55:36,01:59:02,01:56:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+483,936,Vincent Weijden,Lelystad,M35,58,HM,00:55:40,01:59:03,01:58:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+484,E3063,Menno Heetveld,Rotterdam,M50,79,HM,00:55:29,01:59:06,01:58:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+485,147,Piet de Boer,Beetsterzwaag,M55,44,HM,00:53:43,01:59:11,01:58:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+486,52,René Bakker,Badhoevedorp,M45,92,HM,00:57:00,01:59:16,01:56:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+487,825,Jelink van Huis,IJsselstein,VSR,23,HM,00:55:35,01:59:16,01:58:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+488,E3151,Johan van den Burg,Oegstgeest,M50,80,HM,00:56:17,01:59:18,01:58:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+489,229,Frank Feld,Hagen a.T.W.,M45,93,HM,00:58:23,01:59:22,01:56:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+490,635,Edwin Semp,Nieuw-Vennep,M45,94,HM,00:55:10,01:59:29,01:57:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+491,1090,Marcel Jansen,Utrecht,M45,95,HM,00:56:46,01:59:32,01:57:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+492,E3131,Toon Schoenmaker,Den Hoorn,M55,45,HM,00:55:30,01:59:34,01:58:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+493,E3173,John van Rooij,Gameren,M50,81,HM,00:55:29,01:59:34,01:58:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+494,E3121,Liana Pronk,Oosthuizen,V45,13,HM,00:54:46,01:59:38,01:59:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+495,E3113,Robert Nietfeld,Purmerend,M45,96,HM,00:52:50,01:59:38,01:59:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+496,195,Max Dertien,Epe,M45,97,HM,00:57:57,01:59:43,01:58:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+497,2124,Hans Siffels,Markenbinnen,M45,98,HM,00:55:29,01:59:44,01:58:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+498,972,Rutger Wolters,Julianadorp,M35,59,HM,00:58:31,01:59:44,01:58:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+499,821,Marc van Heerwaarden,De Waal,M45,99,HM,00:55:14,01:59:47,01:59:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+500,321,Jeroen Hooijer,Baarn,M50,82,HM,00:57:38,01:59:48,01:58:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+501,E3081,Hans Kok,Zaandam,M45,100,HM,00:52:14,01:59:49,01:59:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+502,952,Hans Willems,Dordrecht,M55,46,HM,00:55:38,01:59:51,01:58:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+503,1150,Ben Ommeren,Tiel,M45,101,HM,00:56:59,01:59:52,01:57:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+504,987,Irma Derksen,Arnhem,VSR,24,HM,00:55:33,01:59:53,01:57:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+505,314,Paul Homan,Anna Paulowna,MSR,68,HM,00:51:30,01:59:54,01:58:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+506,E3286,Damian Hudson,Arnhem,M40,62,HM,00:56:07,01:59:56,01:59:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+507,844,Marc Van Lubek,Meppel,M40,63,HM,00:56:40,01:59:57,01:58:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+508,210,Marcel Dubbeld,Purmerend,M45,102,HM,00:53:33,01:59:58,01:59:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+509,186,Roald de Vries,Meppel,M40,64,HM,00:56:40,01:59:58,01:58:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+510,348,Dirk Jimmink,Den Helder,M60,24,HM,00:53:51,02:00:08,01:59:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+511,623,Heiko Schober,Schwalbach am Taunus,M35,60,HM,00:58:06,02:00:08,01:59:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+512,159,Aaldert de Haan,Winschoten,M60,25,HM,00:56:41,02:00:09,01:57:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+513,600,Imme Ruarus,Den Burg,VSR,25,HM,00:54:15,02:00:09,01:59:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+514,523,Arjan Nouwen,Amsterdam,M50,83,HM,00:57:32,02:00:10,01:57:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+515,903,Roel Verschoor,Den Helder,M50,84,HM,00:56:10,02:00:17,01:58:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+516,287,Gerard Heckman,Zwaag,M50,85,HM,00:58:34,02:00:19,01:58:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+517,646,Ineke Smit,Den Helder,V50,4,HM,00:54:58,02:00:22,02:00:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+518,706,Eddy Tromp,Zaandijk,M40,65,HM,00:57:58,02:00:24,01:57:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+519,454,Robert Lodder,Amersfoort,M35,61,HM,00:51:53,02:00:40,01:58:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+520,209,Cees Dubbeld,Schagen,M60,26,HM,00:55:33,02:00:43,01:59:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+521,313,Ernst Holzmann,Barendrecht,M45,103,HM,00:58:49,02:00:45,01:59:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+522,450,Ronald Lindert,Vlaardingen,M50,86,HM,00:56:52,02:00:45,01:58:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+523,312,Jorgen Holzmann,Alkmaar,M40,66,HM,00:58:49,02:00:45,01:59:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+524,629,Danielle Schroder,Veenendaal,V45,14,HM,00:55:28,02:00:46,01:59:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+525,753,Remco van der Horst,Veenendaal,M40,67,HM,00:55:28,02:00:46,01:59:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+526,690,Pjotr Thibaudier,Amstelveen,MSR,69,HM,00:58:24,02:00:50,01:58:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+527,874,Kees van Vooren,Rotterdam,M60,27,HM,00:53:16,02:00:53,02:00:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+528,468,Femke Boersma,Leeuwarden,V40,13,HM,00:54:12,02:00:55,01:59:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+529,931,Andries Treffers,Zaltbommel,M55,47,HM,00:57:20,02:01:05,01:58:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+530,675,Jeroen Stuivenberg,Houten,M45,104,HM,00:56:51,02:01:11,01:59:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+531,2335,Marian Pruiksma,Amsterdam,V50,5,HM,00:56:16,02:01:16,01:58:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+532,E3026,Elsy Cartagena,Wezep,V45,15,HM,00:55:00,02:01:16,02:00:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+533,320,Henk Hoogveldt,Westervoort,M60,28,HM,00:55:48,02:01:20,01:59:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+534,608,Suzette Scheltinga,Groningen,V50,6,HM,00:55:17,02:01:21,01:59:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+535,826,Bob Van iersel,Aalsmeer,MSR,70,HM,00:55:19,02:01:23,02:00:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+536,982,Angela Zuidam,Alphen aan den Rijn,V40,14,HM,00:57:30,02:01:28,01:59:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+537,513,Corné Nederend,Hoofddorp,MSR,71,HM,00:59:26,02:01:30,01:58:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+538,480,Henk Martijn,Groningen,M45,105,HM,00:57:12,02:01:30,01:59:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+539,422,Melvin Lak,Zaandam,M40,68,HM,00:56:28,02:01:38,02:00:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+540,227,Henk Faas,Kwadijk,M50,87,HM,00:57:58,02:01:39,01:58:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+541,992,Koenraad Hasselt,Arnhem,M55,48,HM,00:58:43,02:01:42,01:59:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+542,39,Jeroen Anslijn,Dirkshorn,M45,106,HM,00:58:23,02:01:44,01:58:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+543,112,Martijn Braam,Heerhugowaard,M40,69,HM,00:51:55,02:01:48,02:01:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+544,445,Henk Leusink,Westervoort,M55,49,HM,00:56:52,02:01:48,02:00:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+545,1021,John Verhees,Hillegom,M50,88,HM,00:56:51,02:01:50,02:00:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+546,895,Niels Verhoeff,Culemborg,MSR,72,HM,00:56:50,02:01:50,02:00:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+547,250,Harry Gerritsma,Den Hoorn,M55,50,HM,00:54:02,02:01:58,02:01:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+548,774,Johannes van der Schaaf,Leeuwarden,M45,107,HM,00:57:59,02:02:01,02:00:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+549,775,Grietje van der Schaaf,Berltsum,V40,15,HM,00:57:59,02:02:03,02:00:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+550,455,Jaap Looijen,Almere,M55,51,HM,00:58:08,02:02:06,01:59:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+551,713,Carla Vaessen,Dokkum,V55,6,HM,00:58:58,02:02:11,02:00:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+552,372,Jan Leunis de Beij,Tubbergen,M55,52,HM,00:55:44,02:02:13,02:01:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+553,64,René Beelen,Harderwijk,M55,53,HM,00:56:51,02:02:16,02:00:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+554,1097,Erik Nauta,Amstelveen,M45,108,HM,00:53:58,02:02:20,02:01:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+555,679,Anouk Suilen,Arendonk,VSR,26,HM,00:58:26,02:02:27,02:00:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+556,601,Guus Ruigrok,Bergschenhoek,M50,89,HM,00:57:28,02:02:28,01:59:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+557,2523,Karina Willerup,Den Burg,V45,16,HM,00:58:26,02:02:29,02:00:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+558,82,Mendy Bilsen,Maastricht,V35,6,HM,00:56:35,02:02:30,02:00:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+559,E3220,Samuel Glismann,Arnhem,MSR,73,HM,00:55:57,02:02:30,02:01:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+560,2066,Lianne Boer,Sliedrecht,VSR,27,HM,00:57:20,02:02:32,02:02:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+561,975,Erik Wuis,Den Burg,M40,70,HM,00:59:53,02:02:32,02:00:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+562,87,Arnold Bloem,Marum,M45,109,HM,00:59:02,02:02:35,02:01:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+563,180,Sjaak de Ruiter,Haarlem,M60,29,HM,00:57:34,02:02:38,02:01:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+564,179,Leon de Ruijter,Castricum,M50,90,HM,00:57:24,02:02:40,02:00:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+565,160,Dirk J de Haas,De Lier,M50,91,HM,00:56:43,02:02:40,02:00:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+566,E4060,Mariëlle Nitzsche,Oosterend,V35,7,HM,00:55:13,02:02:42,02:02:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+567,E3050,Geert Fransen,Nijverdal,M55,54,HM,00:55:17,02:02:44,02:02:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+568,20,Riet Tas-Schilder,Schagen,V60,2,HM,00:56:20,02:02:45,02:02:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+569,880,Evert van Wonderen,Haarlem,M45,110,HM,00:51:10,02:02:47,02:02:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+570,471,Rob Magnee,Son en Breugel,M40,71,HM,00:58:36,02:02:56,02:02:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+571,41,Rob Arensman,Den Burg,M55,55,HM,00:57:08,02:03:13,02:00:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+572,E3257,Roel R�ttger,Arnhem,MSR,74,HM,00:57:24,02:03:17,02:02:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+573,E3098,Erik Lukkassen,Utrecht,M45,111,HM,00:57:21,02:03:19,02:01:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+574,500,Vincent Mosk,Noord-Scharwoude,MSR,75,HM,00:59:03,02:03:21,02:02:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+575,904,Danny Verswijveren,De Koog,M45,112,HM,00:56:07,02:03:36,02:01:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+576,580,Robert Riedstra,Eelderwolde,M40,72,HM,00:59:26,02:03:38,02:02:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+577,58,Paul Barel,Huizen,M50,92,HM,00:55:08,02:03:53,02:01:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+578,2579,Christian Müller,Mendig,MSR,76,HM,00:59:05,02:03:54,02:01:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+579,2578,Stefanie Müller,Mendig,VSR,28,HM,00:59:07,02:03:54,02:01:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+580,491,Sacha Miettinen,Castricum,V40,16,HM,00:59:53,02:04:00,02:02:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+581,591,Joop Rommets,Den Hoorn,M50,93,HM,00:59:53,02:04:01,02:01:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+582,2154,Piet Duineveld,Breezand,M45,113,HM,00:56:42,02:04:05,02:02:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+583,145,Peter de Beet,Almere,M50,94,HM,00:55:42,02:04:09,02:01:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+584,472,Steven Maijoor,Naarden,M50,95,HM,00:57:27,02:04:09,02:02:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+585,2429,Camillo Spratt,Rotterdam,M45,114,HM,00:56:57,02:04:17,02:03:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+586,E3095,Simon Lap,Den Burg,M45,115,HM,00:55:30,02:04:18,02:03:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+587,899,Tijmen Vermaas,Amsterdam,M55,56,HM,00:58:10,02:04:20,02:02:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+588,417,Sinem Kural,Amsterdam,VSR,29,HM,00:58:59,02:04:20,02:01:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+589,90,Jack Blok,Almere,M50,96,HM,00:58:27,02:04:21,02:03:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+590,560,Anneke Pronk,Den Burg,VSR,30,HM,00:58:58,02:04:21,02:02:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+591,E3237,Margo Klein Velderman,Arnhem,V40,17,HM,00:57:23,02:04:22,02:03:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+592,1109,Joost Van der Bijl,Maarssen,M40,73,HM,00:55:56,02:04:23,02:03:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+593,140,Priscilla Cornelissen,Amstelveen,V55,7,HM,00:57:52,02:04:23,02:03:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+594,627,Erwin Schoot,Den Helder,M35,62,HM,00:56:11,02:04:26,02:02:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+595,727,Berthe van de Weem,Nijmegen,V50,7,HM,01:00:20,02:04:28,02:01:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+596,46,Tim Assenbroek,Groet,M35,63,HM,00:58:51,02:04:32,02:01:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+597,E3278,Edwin Hensbergen,Arnhem,M45,116,HM,00:57:09,02:04:37,02:03:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+598,1151,Rudy van  Velsen,Julianadorp,MSR,77,HM,00:57:02,02:04:39,02:03:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+599,577,Annet Remmerswaal,Amsterdam,VSR,31,HM,00:53:32,02:04:39,02:04:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+600,563,Anneke Quartel-Koopman,Den Helder,V40,18,HM,00:57:02,02:04:39,02:02:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+601,964,Petra Witte,Den Burg,V35,8,HM,01:00:01,02:04:39,02:02:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+602,853,Peter van Ooijen,Haren Gn,M60,30,HM,00:59:11,02:04:40,02:02:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+603,386,Gerdien Kok,Alphen aan den Rijn,V35,9,HM,00:58:30,02:04:46,02:02:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+604,524,Melis Nugteren,Hendrik-Ido-Ambacht,M45,117,HM,00:58:31,02:04:46,02:03:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+605,551,Menno Poortinga,Oudehaske,M45,118,HM,00:57:55,02:04:48,02:04:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+606,469,Karin Machiela,Leeuwarden,V45,17,HM,00:57:05,02:04:50,02:04:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+607,429,Casper Landman,Den Burg,M50,97,HM,00:55:58,02:04:57,02:04:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+608,369,Marcel Kikkert,Heemstede,MSR,78,HM,00:59:30,02:04:57,02:03:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+609,E3214,Marcel Driessen,Arnhem,M50,98,HM,00:55:55,02:04:57,02:04:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+610,E3263,Miroslav Svraka,Arnhem,M40,74,HM,00:57:24,02:04:57,02:04:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+611,E3282,Marcel Kremer,Arnhem,M35,64,HM,00:55:55,02:04:58,02:04:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+612,983,Manja Zuiderveld,Leeuwarden,V35,10,HM,00:57:05,02:05:04,02:04:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+613,E3011,Iris Bergmann,Nottuln,V55,8,HM,00:59:05,02:05:14,02:04:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+614,812,Marc van Gaalen,Huizen,M60,31,HM,00:57:37,02:05:18,02:04:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+615,97,Hans Bonnema,Dronryp,M50,99,HM,00:57:49,02:05:19,02:04:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+616,E3061,Hester Hasenaar,Almere,V35,11,HM,00:57:05,02:05:20,02:04:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+617,554,Rob Post,IJsselstein,M50,100,HM,00:56:50,02:05:25,02:04:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+618,1020,Carla Tiggelen,Castricum,V55,9,HM,00:58:42,02:05:26,02:02:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+619,795,Jan van Dijk,Oosterend,M60,32,HM,00:57:19,02:05:30,02:05:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+620,2085,Annie Brouwer,Oosterend,VSR,32,HM,00:57:19,02:05:30,02:05:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+621,392,Minke Kooistra,Dokkum,V55,10,HM,00:59:05,02:05:35,02:03:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+622,980,Floortje Zijm,Den Burg,M35,65,HM,00:59:56,02:05:35,02:03:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+623,639,Broer Sijtsma,Dokkum,M50,101,HM,00:59:12,02:05:35,02:03:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+624,462,Steven Luijt,Alkmaar,MSR,79,HM,00:59:04,02:05:36,02:04:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+625,51,Jeroen Bakker,Delft,MSR,80,HM,00:58:12,02:05:39,02:03:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+626,475,Yvonne Makkinje,Huizen,V50,8,HM,00:57:38,02:05:40,02:05:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+627,736,Stefan van den Broek,Amstelveen,M45,119,HM,00:57:20,02:05:41,02:03:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+628,205,Elmert Visser,Alphen aan den Rijn,M45,120,HM,00:58:27,02:05:42,02:03:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+629,942,Harm Wevers,Oosterbeek,M35,66,HM,00:51:48,02:05:43,02:04:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+630,595,Margareth Rood-Overman,Obdam,V50,9,HM,00:52:33,02:05:48,02:05:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+631,293,Maaike Marsman,Rotterdam,VSR,33,HM,00:54:55,02:05:53,02:03:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+632,488,Andreas Mense,Wermelskirchen,M45,121,HM,00:56:08,02:05:54,02:04:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+633,E3275,Douwe Zijlstra,Arnhem,M45,122,HM,00:58:35,02:06:01,02:05:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+634,567,Gerard Radstaat,Meerkerk,M55,57,HM,00:57:00,02:06:01,02:03:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+635,969,Martin Witvliet,Oudeschild,M45,123,HM,00:52:26,02:06:02,02:05:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+636,E3109,Wim Moerbeek,Epe,M50,102,HM,00:57:09,02:06:03,02:05:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+637,776,Patricia van der Slikke,Oudeschild,VSR,34,HM,00:58:57,02:06:07,02:05:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+638,188,Josiena de Wijn-Broere,Zoutkamp,V35,12,HM,00:58:58,02:06:07,02:05:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+639,E3210,Casper Bremer,Arnhem,MSR,81,HM,00:58:23,02:06:07,02:05:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+640,744,Mirjam van der Eijk,Midwoud,V40,19,HM,00:58:12,02:06:14,02:05:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+641,E3265,Emma Veen,Arnhem,VSR,35,HM,00:59:52,02:06:16,02:05:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+642,730,Ton van den Berg,Heerhugowaard,M55,58,HM,00:55:12,02:06:16,02:04:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+643,E3119,Linda Polman-van der Ploeg,Assen,V45,18,HM,00:57:57,02:06:19,02:05:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+644,797,Hesther van Dijk,Wervershoof,V50,10,HM,00:56:50,02:06:19,02:04:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+645,449,Yuri Limmen,Schagen,M45,124,HM,00:56:49,02:06:19,02:04:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+646,297,Emile Hendriksze,Badhoevedorp,M45,125,HM,01:00:04,02:06:20,02:03:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+647,324,Jaap Hordijk,Haarlem,M40,75,HM,00:54:53,02:06:22,02:05:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+648,E3266,Leroy Vegt,Arnhem,MSR,82,HM,00:59:39,02:06:28,02:05:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+649,2309,Rosa Prosee,Amsterdam,V50,11,HM,00:57:08,02:06:34,02:05:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+650,306,Rhoman Hillen,Amsterdam,M35,67,HM,00:59:19,02:06:40,02:05:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+651,E3039,Marieke de Vries-Koorn,Den Burg,V35,13,HM,00:55:57,02:06:41,02:06:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+652,389,Sander Koning,Vlaardingen,M50,103,HM,00:55:54,02:06:43,02:05:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+653,100,Harrie Boonstra,Sneek,M40,76,HM,00:56:27,02:06:43,02:05:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+654,527,Hans Oostindiën,Baarn,M60,33,HM,00:57:37,02:06:43,02:05:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+655,E3155,Lois van der Linde,Houten,VSR,36,HM,00:55:10,02:06:44,02:06:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+656,461,Ewout Luijt,Alkmaar,MSR,83,HM,00:59:03,02:06:44,02:05:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+657,654,Marloes Springer,Ede,V35,14,HM,00:55:35,02:06:49,02:04:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+658,486,Tineke Mellema-Hoving,Julianadorp,V45,19,HM,00:59:49,02:06:49,02:04:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+659,21,Floor ter Burg,Wieringerwaard,VSR,37,HM,00:53:31,02:06:49,02:06:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+660,E3074,Theo Jansen,Almere,M50,104,HM,00:55:38,02:06:50,02:06:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+661,764,Albert van der Meer,Rotterdam,MSR,84,HM,01:00:37,02:06:50,02:05:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+662,772,Sanne van der Rijt,Almere,VSR,38,HM,01:00:25,02:06:53,02:04:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+663,E3247,Peter Leushuis,Arnhem,M50,105,HM,00:59:41,02:06:53,02:06:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+664,344,Michel Jansen,Veghel,M55,59,HM,00:59:01,02:06:55,02:05:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+665,E3197,Klaas-Pieter Zuidewind,Oudeschild,M50,106,HM,00:57:19,02:06:58,02:06:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+666,387,Wytske Kok,Joure,V45,20,HM,00:56:29,02:06:59,02:05:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+667,1001,Jilles Wit,Anna Paulowna,VSR,39,HM,00:54:33,02:07:04,02:05:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+668,299,Andre Herkenrath,Kaarst,M45,126,HM,00:58:35,02:07:06,02:05:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+669,708,Christiaan Tuin,Uitgeest,M35,68,HM,00:58:46,02:07:07,02:06:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+670,862,Robin Van Schaik,Amstelveen,VSR,40,HM,01:02:30,02:07:11,02:04:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+671,271,Eddy Groenewold,Peize,M50,107,HM,00:59:00,02:07:27,02:06:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+672,492,Berta Molen van der,Peize,V55,11,HM,00:59:00,02:07:28,02:06:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+673,184,Danny de Vreede,Utrecht,M45,127,HM,00:59:49,02:07:30,02:06:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+674,1032,Marjolein Niessen,Weesp,V45,21,HM,00:58:34,02:07:30,02:05:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+675,878,Bart van Wijk,Zeewolde,M55,60,HM,00:59:20,02:07:34,02:06:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+676,726,Marian Van de Venn,'s-Hertogenbosch,VSR,41,HM,00:59:20,02:07:34,02:06:45,Halve Marathon van Texel   24-09-2017,2017-09-24
+677,1004,Andre Weijde,Anna Paulowna,M50,108,HM,00:59:49,02:07:35,02:05:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+678,505,Rixte Mulder,Joure,V55,12,HM,00:59:07,02:07:40,02:05:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+679,842,Nick van Loon,Tilburg,M50,109,HM,00:57:18,02:07:42,02:07:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+680,434,Ria Lasker,Hoogezand,V50,12,HM,00:57:18,02:07:42,02:07:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+681,130,Jim Bruin,Warmenhuizen,M35,69,HM,01:02:31,02:07:48,02:04:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+682,93,Sander Boers,'s-Gravenhage,M35,70,HM,01:01:01,02:07:48,02:06:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+683,939,Jan Westerveld,Wormer,M50,110,HM,00:59:24,02:07:49,02:05:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+684,E3072,Alinda Houwink,Boksum,V40,20,HM,00:56:26,02:07:50,02:07:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+685,254,Ronald Geurtsen,Harderwijk,M40,77,HM,00:51:48,02:07:53,02:07:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+686,620,Daniel Schnitzler,Aachen,MSR,85,HM,00:57:26,02:07:56,02:06:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+687,508,Ricardo Munier,Middenbeemster,M50,111,HM,00:59:08,02:07:56,02:06:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+688,858,Marco van Rijn,Hoofddorp,M45,128,HM,00:59:27,02:07:57,02:06:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+689,525,Oktay Olgun,Hoofddorp,M45,129,HM,00:59:27,02:07:57,02:06:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+690,E3025,Dennis Buter,Hendrik-Ido-Ambacht,M35,71,HM,00:57:35,02:08:06,02:07:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+691,E3290,Jasper van Den Boogaart,Zwijndrecht,MSR,86,HM,00:57:35,02:08:06,02:07:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+692,587,Michiel Roelfsema,Amsterdam,MSR,87,HM,00:59:43,02:08:08,02:06:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+693,268,Stijn Groen,Groningen,MSR,88,HM,00:58:26,02:08:12,02:07:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+694,267,Peter Groen,Groningen,M45,130,HM,00:56:42,02:08:14,02:07:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+695,572,Emmeke Ran,De Koog,VSR,42,HM,01:00:45,02:08:17,02:05:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+696,944,Dick Wielenga,Leeuwarden,M55,61,HM,00:59:51,02:08:21,02:06:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+697,291,Wilko Heijmans,Zuidland,M50,112,HM,00:59:20,02:08:26,02:06:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+698,395,Seke Koonstra,Hurdegaryp,V60,3,HM,00:57:15,02:08:34,02:06:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+699,543,Jeffrey Pieterse,Nieuwegein,M45,131,HM,01:02:30,02:08:37,02:05:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+700,E3223,Martijn Haas,Arnhem,M35,72,HM,00:55:01,02:08:38,02:07:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+701,E3288,Rob Louws,Den Burg,M45,132,HM,00:58:29,02:08:39,02:07:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+702,E3270,Yvonne  Visser-Stam,Arnhem,V45,22,HM,00:58:48,02:08:41,02:07:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+703,985,Bert Zwart,Zaandijk,M45,133,HM,01:00:02,02:08:41,02:07:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+704,E3100,Dieuwertje Manten,Laren,V35,15,HM,00:58:33,02:08:42,02:08:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+705,E3142,Merel te Brake,Eemnes,V40,21,HM,00:59:51,02:08:42,02:08:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+706,E3274,Sara Zehenpfenning,Arnhem,V35,16,HM,00:59:57,02:08:43,02:07:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+707,868,Ria van Stoltz,Hoofddorp,V45,23,HM,00:59:26,02:08:45,02:07:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+708,111,Arco Bouwmeester,Hoofddorp,M45,134,HM,00:59:26,02:08:45,02:07:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+709,638,Arion Sijmens,'s-Hertogenbosch,V45,24,HM,00:59:08,02:08:47,02:08:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+710,38,Wilfried Annema,Maarssen,M45,135,HM,01:01:34,02:08:50,02:08:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+711,735,Sanne van den Brink,Julianadorp,VSR,43,HM,01:02:06,02:08:53,02:05:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+712,979,Rob Zijlmans,Den Helder,M50,113,HM,01:01:02,02:08:55,02:05:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+713,343,Eric Jansen,IJsselstein,M50,114,HM,01:01:02,02:08:55,02:05:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+714,E3073,Bertus Jansen,Nijverdal,M50,115,HM,00:57:20,02:09:00,02:08:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+715,167,Marian Klooster,Enkhuizen,V50,13,HM,00:57:11,02:09:05,02:08:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+716,163,Chris De jong,Enkhuizen,M45,136,HM,00:57:11,02:09:05,02:08:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+717,E3201,Mario Bammens,Arnhem,M50,116,HM,00:59:48,02:09:08,02:08:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+718,E3230,Liduine Jong,Arnhem,V50,14,HM,00:59:48,02:09:08,02:08:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+719,E3028,Ben de Berg,Rotterdam,M55,62,HM,00:58:49,02:09:08,02:08:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+720,242,Natsuki Fukuda,Amstelveen,V35,17,HM,,02:09:08,02:09:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+721,657,Pim Stam,Amstelveen,M55,63,HM,01:00:47,02:09:09,02:05:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+722,192,Christoph Deckstein,Frechen,M55,64,HM,00:59:42,02:09:11,02:08:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+723,E3166,Martijn van der Werf,Groningen,M45,137,HM,00:57:20,02:09:13,02:08:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+724,232,Margriet Fissering,Noord-Sleen,V50,15,HM,00:58:27,02:09:15,02:08:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+725,E3164,Mariette van der Vuurst,Eemnes,V40,22,HM,00:59:51,02:09:18,02:08:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+726,613,Kim Schintz,Julianadorp,M40,78,HM,00:59:54,02:09:20,02:08:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+727,937,Johan Weijdt,Den Burg,M35,73,HM,01:03:26,02:09:23,02:06:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+728,897,Ted Verhulst,Wateringen,M55,65,HM,01:01:01,02:09:26,02:06:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+729,E3077,Claudia Jong,Hilversum,V40,23,HM,00:59:23,02:09:37,02:09:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+730,640,David Sitanala,Amsterdam,M45,138,HM,01:00:45,02:09:41,02:06:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+731,E3012,Christel Blakborn-van der Made,Broek in Waterland,V35,18,HM,01:00:45,02:09:42,02:06:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+732,165,Edwin de Jong,Hoorn,M45,139,HM,01:00:44,02:09:42,02:06:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+733,759,Marcel van der Made,Hoorn,M40,79,HM,01:00:45,02:09:43,02:06:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+734,353,Tjeerd Jongsma,Oranjewoud,M55,66,HM,00:59:12,02:09:46,02:08:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+735,E3013,Martijn Blokland,Boxtel,M45,140,HM,00:53:03,02:09:49,02:09:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+736,921,Karen Vleugel,Heemskerk,V40,24,HM,01:01:26,02:09:57,02:07:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+737,509,Oliver Schuschel,Lünen,M50,117,HM,01:00:00,02:09:58,02:07:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+738,278,Martin Hamann,Koeln,M45,141,HM,00:59:36,02:10:20,02:09:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+739,E3211,marcel bruijn,Arnhem,M45,142,HM,01:01:01,02:10:25,02:09:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+740,440,Jose Legemaat,Overberg,V40,25,HM,00:58:50,02:10:25,02:09:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+741,161,Paul de Jong,Heemskerk,M45,143,HM,00:55:39,02:10:33,02:08:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+742,E3133,Astrid Schoot,Oegstgeest,V50,16,HM,01:00:15,02:10:39,02:10:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+743,995,Susan Berg,Arnhem,VSR,44,HM,00:59:39,02:10:44,02:08:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+744,203,Margret Does,Heerhugowaard,V45,25,HM,01:02:54,02:10:45,02:08:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+745,E3040,Kees de Waal,Den Burg,M60,34,HM,00:55:38,02:10:46,02:10:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+746,717,Anna van Aalst,Heerhugowaard,V60,4,HM,00:59:30,02:11:08,02:08:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+747,191,Clementine de Wit,Den Burg,V45,26,HM,00:59:21,02:11:14,02:09:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+748,662,Ed Steur,Spanbroek,M40,80,HM,00:59:21,02:11:14,02:09:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+749,968,Erik Witte,Oudeschild,M35,74,HM,01:03:22,02:11:15,02:08:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+750,354,Ernst Jonker,Heerhugowaard,M40,81,HM,00:58:57,02:11:16,02:09:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+751,122,Adri Briene,Doorn,M60,35,HM,00:59:22,02:11:17,02:09:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+752,E3009,Auke Barnhoorn,Zoetermeer,M40,82,HM,00:53:23,02:11:19,02:10:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+753,E3295,Jörg Sapauschke,Wetzlar Dutenhofen,M50,118,HM,01:00:33,02:11:20,02:10:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+754,845,Monique van Luenen,Biddinghuizen,V45,27,HM,01:00:44,02:11:28,02:10:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+755,495,Rob Molenaar,Schagen,M50,119,HM,00:57:58,02:11:28,02:10:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+756,497,Mieke Molenaar,Schagen,V45,28,HM,00:57:58,02:11:28,02:10:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+757,917,Rick Vlaming,Biddinghuizen,M50,120,HM,01:00:44,02:11:28,02:10:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+758,721,Bas van Binnendijk,Bergschenhoek,M45,144,HM,00:59:30,02:11:32,02:08:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+759,618,Bianca Schmand-Hannemann,Verl,V40,26,HM,01:00:27,02:11:39,02:10:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+760,808,H. van Duuren,Haarlem,V40,27,HM,01:00:59,02:11:39,02:10:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+761,126,Rene Broerse,Enkhuizen,M55,67,HM,00:59:29,02:11:40,02:10:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+762,125,Gerry Broerse,Enkhuizen,V55,13,HM,00:59:29,02:12:01,02:11:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+763,786,Ben van der Weiden,Heemstede,M60,36,HM,01:01:02,02:12:04,02:09:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+764,255,Hans Geus,Sint Pancras,M35,75,HM,01:04:33,02:12:07,02:11:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+765,E3254,Dianne Polman-Opgenoort,Arnhem,V45,29,HM,01:00:02,02:12:08,02:11:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+766,581,Karin Riemer,Düsseldorf,V50,17,HM,00:57:38,02:12:08,02:10:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+767,E3253,Frank Polman,Arnhem,M50,121,HM,01:00:02,02:12:08,02:11:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+768,631,Frits Schumacher,Veenendaal,M60,37,HM,01:00:38,02:12:13,02:10:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+769,655,Rogier Stam,Beverwijk,MSR,89,HM,01:00:58,02:12:14,02:09:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+770,556,Simone Prins,Zaandam,V40,28,HM,00:59:23,02:12:14,02:10:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+771,349,Marcel Jobse,Castricum,M55,68,HM,00:57:59,02:12:18,02:12:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+772,452,Jessica Linting,Alphen aan den Rijn,V35,19,HM,01:02:35,02:12:21,02:10:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+773,882,Peter Veenstra,Driebergen,M45,145,HM,01:02:37,02:12:27,02:09:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+774,148,Kasper de Boer,Naarden,MSR,90,HM,00:59:31,02:12:27,02:10:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+775,234,Eke Fonteijn,Zaandam,V55,14,HM,01:01:51,02:12:29,02:10:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+776,e4396,Stado Hamer,Obdam,M45,146,HM,01:03:14,02:12:33,02:11:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+777,E3232,Esther Keegstra,Arnhem,VSR,45,HM,01:01:03,02:12:34,02:11:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+778,865,Maarten van Soest,Maarssen,M40,83,HM,01:00:32,02:12:36,02:10:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+779,496,Linda Molenaar,Heemskerk,V40,29,HM,01:01:39,02:12:36,02:09:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+780,745,Daphne van der Geest,Alkmaar,V40,30,HM,00:58:46,02:12:36,02:12:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+781,743,Patrick van der Burg,Culemborg,M50,122,HM,00:54:45,02:12:43,02:12:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+782,924,Rob Voogt,Wijk aan Zee,M45,147,HM,01:05:25,02:13:00,02:10:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+783,339,Natascha in 't Groen,Ulvenhout,V40,31,HM,01:00:41,02:13:01,02:12:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+784,843,Nicole van Loon,Hoeven,VSR,46,HM,01:00:41,02:13:01,02:12:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+785,720,René van Bakel,Etten-Leur,M50,123,HM,01:00:41,02:13:01,02:12:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+786,742,Marc van der Burg,Vlaardingen,M45,148,HM,00:59:22,02:13:03,02:11:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+787,310,Walter Hollenkamp,Purmerend,M60,38,HM,01:07:51,02:13:03,02:12:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+788,630,Bastiaan Schultz,Badhoevedorp,MSR,91,HM,00:57:21,02:13:09,02:11:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+789,E3205,Monique  Berg,Arnhem,V45,30,HM,01:00:43,02:13:13,02:12:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+790,966,Eddy Witte,De Koog,MSR,92,HM,01:03:22,02:13:14,02:10:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+791,248,Diana Geers,Boskoop,V45,31,HM,01:01:22,02:13:22,02:11:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+792,889,Robert Verbeek,Utrecht,M40,84,HM,01:04:11,02:13:23,02:11:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+793,415,Edgar Kunst,Wermelskichen,M55,69,HM,01:00:52,02:13:28,02:12:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+794,336,Ivo Huizinga,Den Burg,M35,76,HM,00:59:19,02:13:36,02:12:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+795,406,Dennis Kroon,Hoofddorp,M35,77,HM,00:59:47,02:13:43,02:12:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+796,432,Martijn Langenbach,Zwolle,M45,149,HM,01:00:41,02:13:47,02:13:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+797,71,Wilbert Besseling,Apeldoorn,M45,150,HM,01:00:42,02:13:47,02:13:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+798,E3096,Petra Lenfers-Lücker,Drensteinfurt,V50,18,HM,01:00:00,02:13:57,02:13:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+799,925,Jacob Voogt,Meppel,M45,151,HM,01:00:50,02:13:59,02:12:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+800,E3207,Patrick Bleumink,Arnhem,M40,85,HM,00:59:54,02:14:00,02:13:14,Halve Marathon van Texel   24-09-2017,2017-09-24
+801,74,Hans Beusen,Zwolle,M55,70,HM,01:03:52,02:14:16,02:12:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+802,308,Bert Hoeve,Schagen,M40,86,HM,00:59:45,02:14:21,02:11:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+803,E3124,Max Reilman,Haren Gn,MSR,93,HM,01:03:08,02:14:23,02:13:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+804,E3114,Odette Olde Wolbers,Amsterdam,V40,32,HM,00:59:25,02:14:25,02:13:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+805,E3183,Nolly Vos,Rotterdam,V40,33,HM,00:59:25,02:14:25,02:13:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+806,170,Kees de Kooker,Nieuw-Vennep,M50,124,HM,01:01:02,02:14:28,02:11:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+807,737,Frank van den Burgt,Nieuw-Vennep,M50,125,HM,01:01:03,02:14:28,02:11:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+808,31,Hans Ader,Bunde,M50,126,HM,01:01:36,02:14:29,02:12:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+809,360,Patrick Kamping,Alphen aan den Rijn,MSR,94,HM,01:02:32,02:14:37,02:12:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+810,E3171,Sandra van Hove,Brielle,V45,32,HM,00:59:47,02:14:43,02:14:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+811,E3045,Evelyn Eelman,Utrecht,V45,33,HM,00:58:52,02:14:44,02:14:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+812,363,Alie Karman,Landsmeer,V55,15,HM,01:01:39,02:14:52,02:12:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+813,974,Ingeborg Wouters,Amstelveen,V50,19,HM,01:00:31,02:14:57,02:12:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+814,691,Peter Thibaudier,Amstelveen,M50,127,HM,01:05:02,02:14:57,02:12:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+815,80,Jeen Bijma,Den Helder,M50,128,HM,00:59:24,02:14:59,02:13:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+816,E3269,Fred Vermeulen,Arnhem,M45,152,HM,00:56:13,02:15:04,02:14:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+817,E3089,Dirk Kromberg,Wuppertal,M55,71,HM,00:59:24,02:15:04,02:14:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+818,289,Gerco Heemskerk,Abbenes,M45,153,HM,01:01:52,02:15:07,02:13:50,Halve Marathon van Texel   24-09-2017,2017-09-24
+819,E3227,Jeroen Huiskens,Arnhem,MSR,95,HM,01:03:12,02:15:08,02:14:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+820,832,Patrick van Kesteren,Oud-Beijerland,M45,154,HM,01:01:42,02:15:14,02:12:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+821,673,Hetty Struijs,Vlaardingen,V55,16,HM,01:03:29,02:15:17,02:12:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+822,E3116,Coop Ouden,Dordrecht,M60,39,HM,01:01:53,02:15:19,02:14:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+823,859,Nathalie Van rijn,Hoofddorp,V45,34,HM,01:05:00,02:15:24,02:13:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+824,934,Monique Waning,Zandvoort,V45,35,HM,01:05:00,02:15:24,02:13:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+825,976,Magda Wuytack,Amsterdam,V60,5,HM,01:03:52,02:15:29,02:12:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+826,521,Grietje Nijboer,Heerenveen,V50,20,HM,01:00:34,02:15:39,02:13:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+827,E3215,Gerjan Emsbroek,Arnhem,M45,155,HM,01:03:25,02:15:39,02:14:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+828,E3225,Monique Hennink,Arnhem,V45,36,HM,01:02:04,02:15:42,02:15:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+829,E3390,David Steudter,Muenster,M45,156,HM,00:59:54,02:15:45,02:15:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+830,393,Gerard Kool,Zijderveld,MSR,96,HM,01:02:33,02:16:04,02:14:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+831,385,Petra Kok,Culemborg,V55,17,HM,01:03:00,02:16:05,02:15:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+832,301,Richard Hes,Heerhugowaard,M40,87,HM,01:02:31,02:16:07,02:13:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+833,249,Jasmin Geijteman,Utrecht,V45,37,HM,01:01:57,02:16:10,02:15:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+834,E3248,Jurian Lier,Arnhem,MSR,97,HM,01:01:51,02:16:16,02:15:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+835,382,Kim Kodde,Almere,M60,40,HM,01:05:43,02:16:17,02:14:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+836,929,Josien Vrielink,Almelo,V35,20,HM,01:03:18,02:16:18,02:14:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+837,908,John Vijfschaft,Wijk aan Zee,M45,157,HM,01:05:24,02:16:30,02:13:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+838,517,René Neuman,Westzaan,M50,129,HM,01:04:32,02:16:34,02:14:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+839,852,Mark van Onna,Alkmaar,M45,158,HM,01:04:09,02:16:34,02:14:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+840,920,Brian Vleerlaag,Utrecht,M40,88,HM,01:04:03,02:16:40,02:13:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+841,E3199,Theo Albers,Arnhem,M55,72,HM,01:02:40,02:16:44,02:16:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+842,113,Carla Braber,Haarlem,V60,6,HM,01:04:53,02:16:44,02:13:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+843,768,Saskia van der Meij,Arnhem,V40,34,HM,01:04:53,02:16:45,02:13:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+844,682,Pascal ten Velde,Klazienaveen,M40,89,HM,00:59:03,02:16:48,02:16:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+845,522,Babet Nijhuis,Almelo,V40,35,HM,01:03:21,02:16:49,02:15:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+846,400,Suzanne Kortekaas,Almere,VSR,47,HM,00:59:24,02:16:59,02:16:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+847,E3054,Jeroen Graaf,Almere,M50,130,HM,01:01:39,02:17:10,02:16:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+848,919,Sylvia Vleerlaag,Utrecht,V40,36,HM,01:04:03,02:17:11,02:14:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+849,E3255,Ruben Rasing,Arnhem,M35,78,HM,01:00:47,02:17:14,02:16:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+850,E3235,Danny Klaar,Arnhem,M60,41,HM,01:02:19,02:17:14,02:16:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+851,E3043,Michaela Doering,Gelsenkirchen,V40,37,HM,01:04:24,02:17:16,02:16:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+852,233,Sirt Fissering,Noord-Sleen,M50,131,HM,01:01:07,02:17:17,02:16:42,Halve Marathon van Texel   24-09-2017,2017-09-24
+853,752,Jan-Aris Eelman,Den Burg,M55,73,HM,01:02:32,02:17:17,02:15:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+854,756,Annemieke van der Kooij,Vlaardingen,VSR,48,HM,01:05:34,02:17:30,02:15:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+855,316,Kyra Hoogendijk,Vlaardingen,VSR,49,HM,01:05:33,02:17:30,02:15:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+856,716,Piet Valkier,Sittard,M45,159,HM,01:00:21,02:17:31,02:16:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+857,891,Freya Vereeken,Gent,V35,21,HM,01:02:37,02:17:33,02:15:19,Halve Marathon van Texel   24-09-2017,2017-09-24
+858,701,Ginette Tjin-A-Djie,Loenen aan de Vecht,V45,38,HM,01:01:52,02:17:33,02:15:37,Halve Marathon van Texel   24-09-2017,2017-09-24
+859,E3259,Assia Sand,Arnhem,V35,22,HM,01:05:18,02:17:34,02:16:48,Halve Marathon van Texel   24-09-2017,2017-09-24
+860,1134,Cindy Uneken,Almere,V45,39,HM,01:00:10,02:17:34,02:17:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+861,814,Gijsbert van Gent,Eindhoven,M50,132,HM,01:02:59,02:17:35,02:15:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+862,515,Christoph Neubach,Gelsenkirchen,M50,133,HM,01:04:00,02:17:41,02:15:58,Halve Marathon van Texel   24-09-2017,2017-09-24
+863,596,Teun Rooks,Wieringerwerf,M45,160,HM,01:03:12,02:17:42,02:16:43,Halve Marathon van Texel   24-09-2017,2017-09-24
+864,689,Sharon Teunissen-Wijnschenk,Lelystad,V40,38,HM,01:02:13,02:17:50,02:16:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+865,847,Wendy van Maldegem,Lelystad,VSR,50,HM,01:02:13,02:17:50,02:16:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+866,948,Dorus Wijnker,Waarland,M55,74,HM,01:00:34,02:17:53,02:15:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+867,571,Ingrid Ran,'s-Gravenhage,VSR,51,HM,01:03:51,02:17:53,02:16:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+868,300,Maaike Hes,Heerhugowaard,V35,23,HM,01:04:56,02:17:53,02:14:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+869,570,Linda Ran,Voorhout,VSR,52,HM,01:03:51,02:17:53,02:16:17,Halve Marathon van Texel   24-09-2017,2017-09-24
+870,988,Cynthia Graaff,Arnhem,V45,40,HM,01:04:31,02:17:55,02:15:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+871,169,Irene de Kooker,Nieuw-Vennep,V50,21,HM,01:01:11,02:17:57,02:15:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+872,922,Monique Von Liebenstein,Nieuw-Vennep,V45,41,HM,01:01:12,02:17:57,02:15:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+873,288,Jilles Heemskerk,Alphen aan den Rijn,M40,90,HM,01:04:33,02:18:00,02:15:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+874,659,Saskia Statz,Rotterdam,V35,24,HM,00:59:52,02:18:15,02:17:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+875,704,Johannes Ton,Culemborg,MSR,98,HM,01:03:16,02:18:22,02:16:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+876,256,Kees Geutjes,Limmen,M55,75,HM,01:02:22,02:18:30,02:15:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+877,236,Audrey Franken-Coopmans,Wieringerwaard,V35,25,HM,01:04:58,02:18:32,02:15:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+878,238,Monique Frohn,Almere,V55,18,HM,01:02:47,02:18:38,02:18:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+879,670,Margret Stornebrink,Haarlem,V45,42,HM,01:04:55,02:18:50,02:15:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+880,791,Paul van der Zalm,Beesd,M45,161,HM,00:58:42,02:19:02,02:17:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+881,615,Sjaak Schipper,Groningen,M60,42,HM,01:04:04,02:19:02,02:16:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+882,E3033,Marko de Kleine,Nijverdal,M55,76,HM,00:58:26,02:19:07,02:18:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+883,E3299,Peter Gach,Mülheim an der Ruhr,M55,77,HM,01:03:04,02:19:28,02:18:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+884,576,Sandra Remijn-Helemigh,Heemskerk,V50,22,HM,01:02:23,02:19:42,02:18:07,Halve Marathon van Texel   24-09-2017,2017-09-24
+885,132,Andre Brusse,Vlaardingen,M50,134,HM,01:03:29,02:19:46,02:17:02,Halve Marathon van Texel   24-09-2017,2017-09-24
+886,133,Hellen Brusse,Vlaardingen,V50,23,HM,01:03:29,02:19:46,02:17:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+887,198,Wybrand Dijksterhuis,Zuidhorn,MSR,99,HM,01:01:53,02:19:46,02:18:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+888,362,Monique Kanters,Loosbroek,V35,26,HM,01:00:40,02:19:47,02:19:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+889,260,Anouska Golstein,Culemborg,VSR,53,HM,01:03:16,02:19:54,02:17:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+890,933,Vera Waardenburg,Wijk aan Zee,M45,162,HM,01:05:25,02:19:54,02:17:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+891,578,Melanie Rieback,Diemen,V35,27,HM,01:02:12,02:19:57,02:19:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+892,599,Yvette Rovekamp,Lelystad,VSR,54,HM,01:00:01,02:20:00,02:19:33,Halve Marathon van Texel   24-09-2017,2017-09-24
+893,E3101,Gerard Mast,Apeldoorn,M55,78,HM,01:00:09,02:20:03,02:19:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+894,927,René Vos,Klazienaveen,M50,135,HM,01:03:33,02:20:04,02:18:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+895,120,Marianne Bremer,Den Helder,V45,43,HM,01:00:52,02:20:08,02:18:15,Halve Marathon van Texel   24-09-2017,2017-09-24
+896,213,Remco Eering,Nieuwkoop,M45,163,HM,01:06:24,02:20:09,02:17:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+897,214,Tom Eering,Nieuwkoop,MSR,100,HM,01:06:24,02:20:09,02:17:35,Halve Marathon van Texel   24-09-2017,2017-09-24
+898,482,Frank Maurits,Zwolle,M50,136,HM,01:03:24,02:20:34,02:18:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+899,766,Jan Roeper,Amterdam,M60,43,HM,00:59:11,02:20:36,02:20:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+900,327,Alinda Houwink,Boksum,V40,39,HM,01:04:30,02:20:40,02:18:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+901,490,Esther Miedema Haagsma,Boksum,V40,40,HM,01:04:30,02:20:40,02:18:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+902,557,Benita Prins,Alkmaar,V45,44,HM,01:04:58,02:20:48,02:18:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+903,535,Christel Overwater,Alkmaar,V45,45,HM,01:04:58,02:20:48,02:18:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+904,818,Marjolein Van Haag,Alkmaar,V45,46,HM,01:04:58,02:20:49,02:18:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+905,692,Tore Tielemans,Enschede,M35,79,HM,01:04:17,02:20:51,02:18:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+906,E3149,Lieke Van den Berg,Dronten,VSR,55,HM,00:56:51,02:20:54,02:20:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+907,246,Ted Geel,Wijk aan Zee,M50,137,HM,01:05:24,02:21:01,02:18:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+908,E3217,Rick Fucht,Arnhem,M35,80,HM,01:00:43,02:21:06,02:20:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+909,117,Jean Brakenhoff,Castricum,M60,44,HM,01:06:23,02:21:16,02:18:10,Halve Marathon van Texel   24-09-2017,2017-09-24
+910,240,Ans Fromm,Lelystad,V45,47,HM,00:59:58,02:21:18,02:20:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+911,684,Paul ter Steege,Den Hoorn,MSR,101,HM,01:06:04,02:21:21,02:20:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+912,89,Sara Bloemers,Helmond,V35,28,HM,01:05:23,02:21:29,02:18:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+913,410,Martijn Kruithof,Alkmaar,M40,91,HM,01:02:02,02:21:46,02:21:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+914,1011,Susan Boon,Schagen,V40,41,HM,01:03:19,02:21:50,02:19:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+915,412,Jord Kuiken,Den Burg,M45,164,HM,01:00:01,02:21:52,02:20:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+916,813,Marc van Gelder,Leeuwarden,M45,165,HM,01:07:09,02:21:56,02:19:08,Halve Marathon van Texel   24-09-2017,2017-09-24
+917,734,Agniet van den Boer,Berkel-Enschot,V60,7,HM,01:05:41,02:22:07,02:21:44,Halve Marathon van Texel   24-09-2017,2017-09-24
+918,358,Paloma Kalf,Amsterdam,V60,8,HM,01:02:41,02:22:10,02:21:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+919,E3104,Jan Meijer,Nijverdal,M50,138,HM,00:59:59,02:22:14,02:21:46,Halve Marathon van Texel   24-09-2017,2017-09-24
+920,E3233,Monique Kempen,Arnhem,VSR,56,HM,01:06:21,02:22:14,02:21:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+921,729,Esther van den Berg,Haarlem,VSR,57,HM,,02:22:14,02:20:25,Halve Marathon van Texel   24-09-2017,2017-09-24
+922,E3218,Martin Gelling,Arnhem,M40,92,HM,01:06:21,02:22:14,02:21:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+923,993,Mel Kroon,Arnhem,M60,45,HM,01:06:08,02:22:27,02:20:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+924,994,Marcelline Kroon,Arnhem,VSR,58,HM,01:06:08,02:22:28,02:20:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+925,E3264,Marco  Teunissen,Arnhem,M35,81,HM,01:06:22,02:22:36,02:21:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+926,166,Winnie de Jong,Enkhuizen,V40,42,HM,01:01:10,02:22:41,02:22:22,Halve Marathon van Texel   24-09-2017,2017-09-24
+927,E3035,Alice Reinders,Den Burg,VSR,59,HM,01:02:39,02:23:02,02:22:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+928,253,Ron Gerven,Wijk aan Zee,M50,139,HM,01:05:24,02:23:03,02:20:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+929,42,Paul Aretz,Almelo,M40,93,HM,01:03:18,02:23:03,02:21:24,Halve Marathon van Texel   24-09-2017,2017-09-24
+930,283,Joost Haverman,Heemskerk,M45,166,HM,01:06:53,02:23:07,02:20:36,Halve Marathon van Texel   24-09-2017,2017-09-24
+931,650,Marijn Snels,Bergschenhoek,M55,79,HM,01:05:00,02:23:10,02:20:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+932,849,Chantal van Mourik,Vleuten,V45,48,HM,01:07:10,02:23:21,02:21:11,Halve Marathon van Texel   24-09-2017,2017-09-24
+933,653,Tanja Spijk,Bergschenhoek,V55,19,HM,01:04:57,02:23:25,02:20:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+934,196,Marinka Dijk,Bergschenhoek,V55,20,HM,01:04:57,02:23:25,02:20:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+935,453,Robert Jan Poot,Alphen aan den Rijn,M35,82,HM,01:02:22,02:23:29,02:21:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+936,552,Frouke Poot,Harmelen,V35,29,HM,01:02:22,02:23:29,02:21:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+937,443,Marian Lempers,Utrecht,V50,24,HM,01:07:10,02:23:31,02:21:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+938,E3037,Julie De Lange,Naarden,VSR,60,HM,01:00:24,02:23:35,02:23:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+939,E3036,Rob  De Lange,Naarden,M50,140,HM,01:00:24,02:23:35,02:23:03,Halve Marathon van Texel   24-09-2017,2017-09-24
+940,124,Eric Broekstra,Wieringerwerf,M50,141,HM,01:06:43,02:23:39,02:22:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+941,722,Joke van Brug,Landsmeer,V60,9,HM,01:06:58,02:23:49,02:21:29,Halve Marathon van Texel   24-09-2017,2017-09-24
+942,1323,Laura Eggink,Amsterdam,VSR,61,HM,01:02:54,02:24:06,02:22:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+943,215,Suurtje Eggink,Almere,VSR,62,HM,01:02:54,02:24:06,02:22:27,Halve Marathon van Texel   24-09-2017,2017-09-24
+944,502,Sjoerd Mulder,Eelderwolde,M35,83,HM,01:00:02,02:24:08,02:23:09,Halve Marathon van Texel   24-09-2017,2017-09-24
+945,E3251,Dick Minkema,Arnhem,M55,80,HM,01:03:03,02:24:14,02:23:31,Halve Marathon van Texel   24-09-2017,2017-09-24
+946,217,Wilma Eier,Westzaan,V50,25,HM,01:04:03,02:24:43,02:22:28,Halve Marathon van Texel   24-09-2017,2017-09-24
+947,99,Willeke Boone,Alphen aan den Rijn,V40,43,HM,01:08:02,02:24:44,02:22:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+948,E3064,Bernd Heinzel,Herford,M60,46,HM,01:01:34,02:25:06,02:24:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+949,E3146,Nico v Zelst,Naarden,M55,81,HM,00:59:28,02:25:20,02:24:55,Halve Marathon van Texel   24-09-2017,2017-09-24
+950,955,HPJ Wilstra,'s-Gravenhage,M50,142,HM,01:06:20,02:25:20,02:24:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+951,47,Marian Baarda,Wildervank,V55,21,HM,01:06:20,02:25:20,02:23:54,Halve Marathon van Texel   24-09-2017,2017-09-24
+952,E3134,Jørgen Smits,Naarden,M45,167,HM,00:59:28,02:25:23,02:24:59,Halve Marathon van Texel   24-09-2017,2017-09-24
+953,E3103,Lidy Medema,Oudeschild,V60,10,HM,01:05:04,02:26:09,02:25:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+954,E3192,Bianca Witte,Den Burg,V40,44,HM,01:06:55,02:26:11,02:25:39,Halve Marathon van Texel   24-09-2017,2017-09-24
+955,E3191,Jessica Witte,Den Burg,V35,30,HM,01:06:52,02:26:11,02:25:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+956,612,Hélène Schilder,Venhuizen,V45,49,HM,01:09:13,02:26:37,02:24:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+957,E3070,Naomi Hompes,Leidschendam,V35,31,HM,01:07:28,02:26:40,02:26:12,Halve Marathon van Texel   24-09-2017,2017-09-24
+958,171,Bert de Lange,Zwolle,M45,168,HM,01:06:42,02:26:58,02:25:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+959,270,Hetty Groeneveld,Barneveld,V45,50,HM,01:06:42,02:26:58,02:25:01,Halve Marathon van Texel   24-09-2017,2017-09-24
+960,773,Arie van der Sar,'s-Gravenzande,M60,47,HM,01:06:36,02:27:02,02:24:57,Halve Marathon van Texel   24-09-2017,2017-09-24
+961,E3240,Peter Koppel,Arnhem,M50,143,HM,01:06:57,02:27:21,02:26:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+962,275,Coby Haas,Velp,V55,22,HM,01:05:35,02:27:40,02:26:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+963,173,Marja de Maar,Hoorn,V55,23,HM,01:09:13,02:27:45,02:25:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+964,602,Sake Ruiter,Den Burg,M55,82,HM,01:03:02,02:27:47,02:26:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+965,926,Natasja Voordewind,Uitgeest,V45,51,HM,01:06:12,02:27:50,02:27:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+966,E3222,Niek Groot,Arnhem,MSR,102,HM,01:01:51,02:27:55,02:27:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+967,1014,Willem Kremer,Annerveenschekanaal,M45,169,HM,01:06:43,02:28:04,02:25:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+968,867,Joyce van Steenpaal,Harmelen,V35,32,HM,01:06:45,02:28:04,02:25:41,Halve Marathon van Texel   24-09-2017,2017-09-24
+969,538,Yvon Passe,Hilversum,V55,24,HM,01:10:47,02:28:20,02:26:13,Halve Marathon van Texel   24-09-2017,2017-09-24
+970,377,Alma Knegt-Bessembinders,Beilen,V40,45,HM,01:05:42,02:28:26,02:28:04,Halve Marathon van Texel   24-09-2017,2017-09-24
+971,757,Jan van der Laan,Weesp,M60,48,HM,01:08:02,02:28:34,02:25:49,Halve Marathon van Texel   24-09-2017,2017-09-24
+972,E3281,Walter Stouten,Arnhem,M35,84,HM,01:06:56,02:28:38,02:27:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+973,E3260,Hans Scheefhals,Arnhem,M50,144,HM,01:06:22,02:28:38,02:27:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+974,E3031,Anouk de Jong,Amstelveen,VSR,63,HM,01:07:28,02:28:51,02:28:23,Halve Marathon van Texel   24-09-2017,2017-09-24
+975,162,Pé de Jong,Workum,M60,49,HM,01:03:44,02:29:06,02:27:34,Halve Marathon van Texel   24-09-2017,2017-09-24
+976,617,Chris Schlag,Leipzig,M50,145,HM,01:06:35,02:29:13,02:27:05,Halve Marathon van Texel   24-09-2017,2017-09-24
+977,460,Klaus Lucke,Hamilton Hill,M50,146,HM,01:06:36,02:29:13,02:27:06,Halve Marathon van Texel   24-09-2017,2017-09-24
+978,E3115,Frans Opdam,Leiden,M40,94,HM,01:02:15,02:30:00,02:29:16,Halve Marathon van Texel   24-09-2017,2017-09-24
+979,119,Marina Brans,Amsterdam,V60,11,HM,,02:30:00,02:30:00,Halve Marathon van Texel   24-09-2017,2017-09-24
+980,902,Ronald Vermeulen,Utrecht,M45,170,HM,01:09:12,02:30:21,02:27:32,Halve Marathon van Texel   24-09-2017,2017-09-24
+981,241,Shigeru FUKUDA,Amstelveen,M35,85,HM,01:05:30,02:30:32,02:27:38,Halve Marathon van Texel   24-09-2017,2017-09-24
+982,E3062,Fred van Heerwaarden,Den Burg,M55,83,HM,01:09:49,02:30:34,02:29:56,Halve Marathon van Texel   24-09-2017,2017-09-24
+983,562,Bert Puik,Bergschenhoek,M45,171,HM,01:11:23,02:30:53,02:28:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+984,E3194,Marcel Witte,De Koog,M40,95,HM,01:03:32,02:31:23,02:30:51,Halve Marathon van Texel   24-09-2017,2017-09-24
+985,399,Henk Koper,Heemskerk,M60,50,HM,01:05:44,02:32:04,02:31:20,Halve Marathon van Texel   24-09-2017,2017-09-24
+986,E3048,Debby Fledderus,Soesterberg,V35,33,HM,01:09:24,02:32:17,02:31:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+987,588,Jelle Roeper,Joure,M50,147,HM,01:13:51,02:32:35,02:29:53,Halve Marathon van Texel   24-09-2017,2017-09-24
+988,E3190,Carla Willmes,Rotterdam,V55,25,HM,01:07:31,02:32:39,02:32:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+989,E3038,Anja de Vliegh,Barendrecht,V50,26,HM,01:07:32,02:32:39,02:32:18,Halve Marathon van Texel   24-09-2017,2017-09-24
+990,E3498,Karolien Hendriks Boers,Nijverdal,V45,52,HM,01:03:18,02:33:14,02:32:47,Halve Marathon van Texel   24-09-2017,2017-09-24
+991,1007,Jelle Westra,Anna Paulowna,M50,148,HM,01:04:16,02:33:32,02:31:21,Halve Marathon van Texel   24-09-2017,2017-09-24
+992,559,Marianne Pronk,Haarlem,V50,27,HM,01:08:02,02:33:49,02:30:52,Halve Marathon van Texel   24-09-2017,2017-09-24
+993,536,Michiel Pam,De Waal,M60,51,HM,01:07:23,02:34:03,02:33:30,Halve Marathon van Texel   24-09-2017,2017-09-24
+994,259,Angelique Godschalk,Rotterdam,V40,46,HM,01:10:48,02:34:06,02:32:26,Halve Marathon van Texel   24-09-2017,2017-09-24
+995,322,Rita Hooijmans,Grootebroek,V35,34,HM,01:09:15,02:34:20,02:32:40,Halve Marathon van Texel   24-09-2017,2017-09-24
+996,783,Jacqueline van der Vlist,Alphen aan den Rijn,V40,47,HM,01:08:20,02:37:42,02:34:51,Halve Marathon van Texel   24-09-2017,2017-09-24

@@ -1,0 +1,54 @@
+Plts,StNr,Naam,Vereniging / Woonplaats,Cat,PltsCat,Bruto,Netto,Ronde1,Ronde2,race,date
+1,207,Michael Beuwer,Asterix,Mtrim,1,00:18:05,00:18:05,00:09:03,00:09:02,Van Goghloop ,2017-06-03
+2,208,Tony Jacobs,Eindhoven,Mtrim,2,00:18:06,00:18:04,00:09:02,00:09:03,Van Goghloop ,2017-06-03
+3,235,Rick van Hooijdonk,Klein Zundert,Mtrim,3,00:18:42,00:18:39,00:09:10,00:09:30,Van Goghloop ,2017-06-03
+4,299,Jens van Geel,THOR,Mtrim,4,00:18:57,00:18:57,00:09:08,00:09:50,Van Goghloop ,2017-06-03
+5,206,Jaap thielen,Terheijden,Mtrim,5,00:18:59,00:18:58,00:09:24,00:09:34,Van Goghloop ,2017-06-03
+6,279,Vincent Eken,Etten-Leur,Mtrim,6,00:19:29,00:19:28,00:09:27,00:10:01,Van Goghloop ,2017-06-03
+7,346,Stijn Bogers,Oudenbosch,Mtrim,7,00:20:35,00:20:34,00:10:10,00:10:25,Van Goghloop ,2017-06-03
+8,228,Martijn Kools,Antwerpen,Mtrim,8,00:20:59,00:20:57,00:09:56,00:11:02,Van Goghloop ,2017-06-03
+9,248,Olek Stawicki,Alphen Nb,Mtrim,9,00:21:10,00:21:07,00:10:15,00:10:53,Van Goghloop ,2017-06-03
+10,300,Jelle van Geel,THOR,Mtrim,10,00:21:13,00:21:11,00:10:08,00:11:04,Van Goghloop ,2017-06-03
+11,260,Karsten Neus,Roosendaal,Mtrim,11,00:22:10,00:22:03,00:11:11,00:10:53,Van Goghloop ,2017-06-03
+12,292,Alex Goetschalckx,MEER,Mtrim,12,00:22:33,00:22:30,00:11:29,00:11:02,Van Goghloop ,2017-06-03
+13,226,Stephan Kapitein,Prinsenbeek,Mtrim,13,00:22:41,00:22:39,00:10:59,00:11:40,Van Goghloop ,2017-06-03
+14,286,Bcota Izban,Rijsbergen,Vtrim,1,00:22:52,00:22:51,00:11:15,00:11:36,Van Goghloop ,2017-06-03
+15,261,Kevin van Hooijdonk,Klein Zundert,Mtrim,14,00:22:57,00:22:54,00:11:32,00:11:22,Van Goghloop ,2017-06-03
+16,256,Edwin Bavoloop,Breda,Mtrim,15,00:23:13,00:23:09,00:11:54,00:11:16,Van Goghloop ,2017-06-03
+17,262,Jens Huijbregts,Wernhout,Mtrim,16,00:23:17,00:23:11,00:11:43,00:11:28,Van Goghloop ,2017-06-03
+18,205,Jeremey thielen,Terheijden,Mtrim,17,00:24:04,00:24:02,00:12:08,00:11:55,Van Goghloop ,2017-06-03
+19,220,Siebe van Tetering,Oosterhout Nb,Mtrim,18,00:24:39,00:24:34,00:11:27,00:13:07,Van Goghloop ,2017-06-03
+20,253,Robert Bavoloop,Rijsbergen,Mtrim,19,00:24:54,00:24:50,00:12:17,00:12:34,Van Goghloop ,2017-06-03
+21,257,Chris Bavoloop,Rijsbergen,Mtrim,20,00:24:57,00:24:52,00:12:27,00:12:25,Van Goghloop ,2017-06-03
+22,268,Jan Boomaars,Breda,Mtrim,21,00:25:23,00:25:17,00:12:16,00:13:01,Van Goghloop ,2017-06-03
+23,255,Robbert Bavoloop,Rijsbergen,Mtrim,22,00:25:27,00:25:22,00:12:27,00:12:55,Van Goghloop ,2017-06-03
+24,241,Eveline Hendrickx,Achtmaal,Vtrim,2,00:25:27,00:25:23,00:12:44,00:12:40,Van Goghloop ,2017-06-03
+25,231,Siebe Vergouwen,Essen,Mtrim,23,00:25:38,00:25:32,00:13:05,00:12:27,Van Goghloop ,2017-06-03
+26,266,Anne Koelewijn,Bunschoten-Spakenburg,Vtrim,3,00:25:58,00:25:53,00:12:33,00:13:21,Van Goghloop ,2017-06-03
+27,254,Peter Bavoloop,Bergen op Zoom,Mtrim,24,00:25:58,00:25:53,00:12:40,00:13:14,Van Goghloop ,2017-06-03
+28,259,Suzan van Hees,Klein Zundert,Vtrim,4,00:26:18,00:26:14,00:12:43,00:13:31,Van Goghloop ,2017-06-03
+29,251,Rene Bavoloop,Rijsbergen,Mtrim,25,00:26:44,00:26:40,00:12:46,00:13:54,Van Goghloop ,2017-06-03
+30,296,Nancy Bronk,Roosendaal,Vtrim,5,00:26:48,00:26:42,00:12:59,00:13:43,Van Goghloop ,2017-06-03
+31,295,Natasja Hassankhan,Eindhoven,Vtrim,6,00:26:59,00:26:56,00:12:59,00:13:57,Van Goghloop ,2017-06-03
+32,269,Yvette van de wouw,Zundert,Vtrim,7,00:27:50,00:27:46,00:14:00,00:13:47,Van Goghloop ,2017-06-03
+33,343,Bep Tielemans,Olympia Halsteren,Vtrim,8,00:27:57,00:27:54,00:13:47,00:14:07,Van Goghloop ,2017-06-03
+34,244,Wouter ten Wolde,Bavel,Mtrim,26,00:27:58,00:27:52,00:14:01,00:13:52,Van Goghloop ,2017-06-03
+35,221,Selena Kukler,Vlijmen,Vtrim,9,00:28:00,00:27:55,00:13:22,00:14:33,Van Goghloop ,2017-06-03
+36,297,Ruud Versluis,Papendrecht,Mtrim,27,00:28:00,00:27:57,00:13:26,00:14:32,Van Goghloop ,2017-06-03
+37,230,Xander Vergouwen,Essen,Mtrim,28,00:28:10,00:28:04,00:13:51,00:14:13,Van Goghloop ,2017-06-03
+38,277,Patricia van Gaal,Zundert,Vtrim,10,00:28:25,00:28:21,00:13:30,00:14:52,Van Goghloop ,2017-06-03
+39,213,Femke Bongers,Sprint,Vtrim,11,00:28:25,00:28:21,00:13:09,00:15:12,Van Goghloop ,2017-06-03
+40,238,Monique Frijters,Achtmaal,Vtrim,12,00:28:27,00:28:23,00:13:58,00:14:26,Van Goghloop ,2017-06-03
+41,290,Karien Musters,Breda,Vtrim,13,00:28:41,00:28:36,00:14:22,00:14:14,Van Goghloop ,2017-06-03
+42,288,Jos van Dijck,Klein Zundert,Mtrim,29,00:29:14,00:29:09,00:14:11,00:14:58,Van Goghloop ,2017-06-03
+43,289,Bart v.d. Bergh,Zundert,Mtrim,30,00:30:02,00:30:00,00:14:07,00:15:54,Van Goghloop ,2017-06-03
+44,215,Lieke Sweep,Sprint,Vtrim,14,00:30:26,00:30:20,00:14:23,00:15:58,Van Goghloop ,2017-06-03
+45,344,Rina Otto,Stampersgat,Vtrim,15,00:31:04,00:31:00,00:14:58,00:16:03,Van Goghloop ,2017-06-03
+46,233,Kim Donckers,Loenhout,Vtrim,16,00:31:27,00:31:22,00:15:13,00:16:10,Van Goghloop ,2017-06-03
+47,276,Vincent Oomen,Sprundel,Mtrim,31,00:31:34,00:31:29,00:15:27,00:16:02,Van Goghloop ,2017-06-03
+48,227,Mitch Kapitein,Prinsenbeek,Mtrim,32,00:31:57,00:31:51,00:14:53,00:16:58,Van Goghloop ,2017-06-03
+49,265,Anky Daamen,Rijsbergen,Vtrim,17,00:31:59,00:31:55,00:14:09,00:17:47,Van Goghloop ,2017-06-03
+50,229,Peter Bosch,Pernis Rotterdam,Mtrim,33,00:32:28,00:32:20,00:15:09,00:17:12,Van Goghloop ,2017-06-03
+51,245,Heidi ten Wolde,Bavel,Vtrim,18,00:32:50,00:32:45,00:16:18,00:16:27,Van Goghloop ,2017-06-03
+52,342,Lydio Theuns,Huijbergen,Vtrim,19,00:38:07,00:38:00,00:18:09,00:19:52,Van Goghloop ,2017-06-03
+53,232,Dymphy Goossens,Zundert,Vtrim,20,00:39:32,00:39:30,00:18:32,00:20:58,Van Goghloop ,2017-06-03

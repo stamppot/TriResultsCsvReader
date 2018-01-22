@@ -1,0 +1,651 @@
+Plts,StNr,Naam,Woonplaats,Cat,Wave,Netto50k,Netto78k,Netto100k,km/u,race,date
+1,1334,Jan Hekman,Norg,M,4,01:46:22,02:41:05,03:43:08,"26,89",De Veldslag om Norg ,2017-09-02
+2,1385,"Rick  Vries, De",Nijeholtpade,M,4,01:46:41,02:41:56,03:43:29,"26,85",De Veldslag om Norg ,2017-09-02
+3,351,Rene Finke,Laar,M,2,01:46:38,02:42:06,03:46:18,"26,51",De Veldslag om Norg ,2017-09-02
+4,330,Daniël  Elzinga,Opende,M,2,01:46:43,02:42:11,03:47:30,"26,38",De Veldslag om Norg ,2017-09-02
+5,1410,Arjen Buist,Assen,M,4,01:47:57,02:46:56,03:54:26,"25,59",De Veldslag om Norg ,2017-09-02
+6,1386,"Jan Vries, De",Nijeholtpade,M,4,01:47:57,02:49:20,03:54:45,"25,56",De Veldslag om Norg ,2017-09-02
+7,1356,Tristan Vos,Eelderwolde,M,4,01:49:36,02:49:30,03:54:55,"25,54",De Veldslag om Norg ,2017-09-02
+8,946,Harry Drevel,Winsum,M,3,01:49:55,02:48:05,03:55:15,"25,50",De Veldslag om Norg ,2017-09-02
+9,1093,Patrick Bottema,Muntendam,M,3,01:50:37,02:51:11,03:55:32,"25,47",De Veldslag om Norg ,2017-09-02
+10,1175,Bart Rijpma,Oldeholtpade,M,4,01:44:42,02:43:48,03:55:41,"25,46",De Veldslag om Norg ,2017-09-02
+11,720,"Stephan Straaten, Van",Diepenveen,M,3,01:50:39,02:51:26,03:55:42,"25,46",De Veldslag om Norg ,2017-09-02
+12,876,Mark Loots,Assen,M,3,01:49:39,02:48:22,03:55:45,"25,45",De Veldslag om Norg ,2017-09-02
+13,1073,Martin Hendriks,Fluitenberg,M,3,01:49:14,02:47:40,03:55:50,"25,44",De Veldslag om Norg ,2017-09-02
+14,1105,Jan Strijker,Emmen,M,4,01:49:34,02:49:29,03:56:33,"25,37",De Veldslag om Norg ,2017-09-02
+15,1171,Joost Bolt,Amsterdam,M,1,01:49:46,02:50:13,03:57:28,"25,27",De Veldslag om Norg ,2017-09-02
+16,1110,"Jan Velde, Van Der",Veenhuizen,M,4,01:52:23,02:50:15,03:58:13,"25,19",De Veldslag om Norg ,2017-09-02
+17,724,"Marcel Pol, Van De",Apeldoorn,M,3,01:50:42,02:51:22,03:58:26,"25,17",De Veldslag om Norg ,2017-09-02
+18,726,Martin Kempenaar,Apeldoorn,M,3,01:50:45,02:51:28,03:58:47,"25,13",De Veldslag om Norg ,2017-09-02
+19,1083,Thijs Hofstede,Zuidlaren,M,3,01:50:44,02:50:40,03:58:48,"25,13",De Veldslag om Norg ,2017-09-02
+20,1090,Eelke Raven,Groenlo,M,3,01:54:38,02:54:18,03:59:19,"25,07",De Veldslag om Norg ,2017-09-02
+21,550,Wim Kok,Noordlaren,M,2,01:52:35,02:52:04,03:59:20,"25,07",De Veldslag om Norg ,2017-09-02
+22,395,Stephan Gunnink,Drachten,M,2,01:50:25,02:52:23,03:59:36,"25,04",De Veldslag om Norg ,2017-09-02
+23,510,Henk Steenbergen,Zuidlaren,M,2,01:51:23,02:52:19,03:59:38,"25,04",De Veldslag om Norg ,2017-09-02
+24,367,Freddy Venema,Haren,M,2,01:52:32,02:51:56,04:00:17,"24,97",De Veldslag om Norg ,2017-09-02
+25,640,Martin Kuipers,Emmen,M,2,01:52:37,02:52:19,04:00:30,"24,95",De Veldslag om Norg ,2017-09-02
+26,1318,Rik Rijks,Zuidlaren,M,4,01:52:07,02:52:51,04:01:04,"24,89",De Veldslag om Norg ,2017-09-02
+27,1341,Klaas Buitenhuis,Rouveen,M,4,01:51:53,02:53:06,04:01:24,"24,86",De Veldslag om Norg ,2017-09-02
+28,528,Cock Verweij,Veenhuizen,M,2,01:51:20,02:52:19,04:01:32,"24,84",De Veldslag om Norg ,2017-09-02
+29,378,Geert Kruims,Een,M,2,01:51:19,02:52:20,04:01:33,"24,84",De Veldslag om Norg ,2017-09-02
+30,479,Sjermo Eenkhoorn,Gebemuiden,M,2,01:51:27,02:52:37,04:01:37,"24,83",De Veldslag om Norg ,2017-09-02
+31,930,Henk Bolhuis,Hengelo,M,3,01:55:36,02:56:25,04:02:01,"24,79",De Veldslag om Norg ,2017-09-02
+32,929,Herbert Vollenbroek,Hengelo,M,3,01:55:31,02:56:25,04:02:01,"24,79",De Veldslag om Norg ,2017-09-02
+33,1309,Rienk Douwes,Eastermar,M,4,01:54:06,02:54:48,04:02:12,"24,77",De Veldslag om Norg ,2017-09-02
+34,1362,Daan Spackler,Hoorn,M,4,01:54:03,02:54:43,04:02:13,"24,77",De Veldslag om Norg ,2017-09-02
+35,672,Rolf Hoekstra,Heerenveen,M,2,01:52:06,02:51:15,04:02:16,"24,77",De Veldslag om Norg ,2017-09-02
+36,647,Johan Ottens,Rolde,M,2,01:53:02,02:52:53,04:02:22,"24,76",De Veldslag om Norg ,2017-09-02
+37,1019,Rudy Pappot,Zwolle,M,3,01:53:53,02:55:32,04:02:31,"24,74",De Veldslag om Norg ,2017-09-02
+38,1018,Wilfrid Pappot,Dedemsvaart,M,3,01:53:51,02:55:32,04:02:33,"24,74",De Veldslag om Norg ,2017-09-02
+39,1066,"Jeroen Wolk, Van Der",Leusden,M,3,01:55:53,02:54:24,04:02:51,"24,71",De Veldslag om Norg ,2017-09-02
+40,1084,Marinus Pranger,Norg,M,3,01:50:40,02:48:40,04:03:03,"24,69",De Veldslag om Norg ,2017-09-02
+41,809,Raymon Nekeman,Oosterwolde,M,3,01:50:40,02:53:24,04:03:14,"24,67",De Veldslag om Norg ,2017-09-02
+42,810,Klaas - Jan Nekeman,Borger,M,3,01:50:40,02:53:25,04:03:15,"24,67",De Veldslag om Norg ,2017-09-02
+43,676,Michael Berkhout,Oudesluis,M,2,01:59:17,03:00:30,04:03:53,"24,60",De Veldslag om Norg ,2017-09-02
+44,337,Marcel  Pultrum,Surhuisterveen,M,2,01:50:13,02:51:23,04:04:00,"24,59",De Veldslag om Norg ,2017-09-02
+45,894,Huub Poppe,Haarle,M,3,01:56:28,02:57:31,04:04:17,"24,56",De Veldslag om Norg ,2017-09-02
+46,716,Jaroen Cazemier,Roden,M,3,01:57:10,03:02:15,04:04:50,"24,51",De Veldslag om Norg ,2017-09-02
+47,383,Bert Mensingh,Roden,M,2,01:53:42,02:55:39,04:04:52,"24,50",De Veldslag om Norg ,2017-09-02
+48,407,Eric Noorderijk,Nunspeet,M,2,01:51:50,02:53:24,04:05:37,"24,43",De Veldslag om Norg ,2017-09-02
+49,1072,Bert Seijen,Westerhaar,M,3,01:54:08,02:57:10,04:05:49,"24,41",De Veldslag om Norg ,2017-09-02
+50,1303,Erwin Rinsema,Stadskanaal,M,4,01:51:34,02:53:48,04:06:08,"24,38",De Veldslag om Norg ,2017-09-02
+51,1020,Henry Pappot,Dedemsvaart,M,3,01:54:02,02:55:36,04:06:11,"24,37",De Veldslag om Norg ,2017-09-02
+52,332,Auke  Veenbaas,Harkema,M,2,01:50:17,02:50:47,04:06:22,"24,35",De Veldslag om Norg ,2017-09-02
+53,890,"J. Heide, Ter",Ruinerwold,M,3,01:54:35,02:56:39,04:06:22,"24,35",De Veldslag om Norg ,2017-09-02
+54,1241,Bas Lemmens,Klimmen,M,4,01:56:21,02:55:24,04:06:53,"24,30",De Veldslag om Norg ,2017-09-02
+55,563,"Marten Dijk, Van",Elahuizen,M,2,01:59:59,03:00:36,04:07:14,"24,27",De Veldslag om Norg ,2017-09-02
+56,356,Matthijs Dankelman,Nijverdal,M,2,01:54:18,02:55:15,04:07:16,"24,27",De Veldslag om Norg ,2017-09-02
+57,547,Tonio Amaddeo,Zutphen,M,2,01:49:03,02:46:35,04:07:26,"24,25",De Veldslag om Norg ,2017-09-02
+58,1311,Sjoerd Couperus,Gytsjerk,M,4,01:54:10,02:54:48,04:07:55,"24,20",De Veldslag om Norg ,2017-09-02
+59,463,Tim Riemeijer,Borger,M,2,01:54:21,02:57:03,04:07:58,"24,20",De Veldslag om Norg ,2017-09-02
+60,450,Geert Hulshof,Nieuw-Buinen,M,2,01:53:29,02:55:47,04:08:03,"24,19",De Veldslag om Norg ,2017-09-02
+61,1324,Jan Mulder,Scheemda,M,4,01:58:08,02:59:56,04:08:29,"24,15",De Veldslag om Norg ,2017-09-02
+62,488,Sander Winkel,Zeewolde,M,2,01:58:03,02:57:47,04:08:31,"24,14",De Veldslag om Norg ,2017-09-02
+63,1183,Fokke Postma,Drachten,M,4,01:52:12,02:56:05,04:08:41,"24,13",De Veldslag om Norg ,2017-09-02
+64,451,"Jeroen Jong Posthumus, De",Peize,M,2,01:52:54,02:57:05,04:09:02,"24,09",De Veldslag om Norg ,2017-09-02
+65,820,René Bos,Ijsselham,M,3,01:51:37,02:55:29,04:09:07,"24,09",De Veldslag om Norg ,2017-09-02
+66,309,Hendrik  Timmer,Peize,M,2,01:54:00,02:58:39,04:09:25,"24,06",De Veldslag om Norg ,2017-09-02
+67,449,Bas Veenhuis,De Meern,M,2,01:52:51,02:57:04,04:09:28,"24,05",De Veldslag om Norg ,2017-09-02
+68,425,"Marc Steeg, Ter",Roden,M,2,01:53:29,02:55:18,04:09:31,"24,05",De Veldslag om Norg ,2017-09-02
+69,652,Robbin Drent,Oosterwolde,M,2,02:02:39,03:04:05,04:09:33,"24,04",De Veldslag om Norg ,2017-09-02
+70,1269,Marcel  Torensma,Nietap,M,4,01:47:41,02:52:26,04:09:36,"24,04",De Veldslag om Norg ,2017-09-02
+71,470,Martijn Groote,Rolde,M,2,01:53:33,02:56:18,04:09:42,"24,03",De Veldslag om Norg ,2017-09-02
+72,928,Harold  Ezinga,Annen,M,3,01:58:19,03:01:47,04:09:49,"24,02",De Veldslag om Norg ,2017-09-02
+73,1016,Bernhard Bouma,Oldeholtpade,M,3,01:56:45,02:58:29,04:10:18,"23,97",De Veldslag om Norg ,2017-09-02
+74,1342,Jasper  Vrielink,Dedemsvaart,M,4,01:54:23,02:59:30,04:10:18,"23,97",De Veldslag om Norg ,2017-09-02
+75,1172,"Tijs Olffen, Van",Amsterdam,M,1,01:49:58,02:54:44,04:10:50,"23,92",De Veldslag om Norg ,2017-09-02
+76,999,"Rob Eijck, Van",Hank,M,3,02:01:09,03:05:11,04:11:26,"23,86",De Veldslag om Norg ,2017-09-02
+77,903,Klaas Smit,Tynaarlo,M,3,01:59:13,03:04:11,04:11:33,"23,85",De Veldslag om Norg ,2017-09-02
+78,941,"Hilbrand Zee, Van Der",Groningen,M,3,01:56:21,03:03:42,04:11:34,"23,85",De Veldslag om Norg ,2017-09-02
+79,904,Patrick Woldinga,Groningen,M,3,01:59:13,03:04:12,04:11:34,"23,85",De Veldslag om Norg ,2017-09-02
+80,1140,Marco Hagemans,Nieuwegein,M,4,01:56:09,03:01:26,04:11:35,"23,85",De Veldslag om Norg ,2017-09-02
+81,1053,Jack Stam,Assen,M,3,01:57:24,03:00:58,04:11:40,"23,84",De Veldslag om Norg ,2017-09-02
+82,434,E. Brink,Norg,M,2,01:55:53,02:57:27,04:11:42,"23,84",De Veldslag om Norg ,2017-09-02
+83,513,Jarno  Geuzinge,Rolde,M,2,01:54:23,02:57:23,04:12:03,"23,80",De Veldslag om Norg ,2017-09-02
+84,534,Arjen Kraaijeveld,Emmeloord,M,2,01:51:31,02:52:39,04:12:04,"23,80",De Veldslag om Norg ,2017-09-02
+85,423,Gert Jan Krommendijk,Groningen,M,2,01:57:45,03:00:29,04:12:07,"23,80",De Veldslag om Norg ,2017-09-02
+86,1143,Johan Dijkstra,Assen,M,4,01:57:09,03:01:04,04:12:13,"23,79",De Veldslag om Norg ,2017-09-02
+87,917,Marcel Klarus,Zuidlaren,M,3,01:56:22,03:03:41,04:12:13,"23,79",De Veldslag om Norg ,2017-09-02
+88,473,Eddy Smid,Assen,M,2,01:58:01,03:01:02,04:12:20,"23,78",De Veldslag om Norg ,2017-09-02
+89,702,"Audri Giezen, Vd",Assen,M,3,01:57:06,03:01:03,04:12:21,"23,78",De Veldslag om Norg ,2017-09-02
+90,1132,Ronnie Jongman,Assen,M,4,01:57:01,03:00:59,04:12:23,"23,77",De Veldslag om Norg ,2017-09-02
+91,1112,Sjoerd-Wietse Leijenaar,Beetsterzwaag,M,4,01:59:18,03:04:21,04:12:29,"23,77",De Veldslag om Norg ,2017-09-02
+92,361,Demi-Esmee Halmingh,Meeden,V,2,02:00:27,03:01:59,04:12:40,"23,75",De Veldslag om Norg ,2017-09-02
+93,482,Jan Willem  Aman,Daarlerveen,M,2,01:53:47,02:58:01,04:12:46,"23,74",De Veldslag om Norg ,2017-09-02
+94,325,Nick  Bronsema,Bedum,M,2,01:52:31,02:54:10,04:13:16,"23,69",De Veldslag om Norg ,2017-09-02
+95,267,Anno  Sikkema,Oenkerk,M,2,01:57:04,03:01:57,04:13:24,"23,68",De Veldslag om Norg ,2017-09-02
+96,586,Henk Bergsma,Lochem,M,2,01:57:31,03:02:00,04:13:40,"23,65",De Veldslag om Norg ,2017-09-02
+97,1153,"Gerben Groot, De",Paterswolde,M,4,02:00:46,03:02:41,04:13:58,"23,63",De Veldslag om Norg ,2017-09-02
+98,1142,"Kees Vries, De",Gytsjerk,M,4,02:00:36,03:02:41,04:14:00,"23,62",De Veldslag om Norg ,2017-09-02
+99,1141,Johan Gielstra,Lippenhuizen,M,4,02:00:48,03:02:42,04:14:00,"23,62",De Veldslag om Norg ,2017-09-02
+100,514,Patrick Uiterwijk Winkel,Hoogeveen,M,2,01:59:16,03:02:17,04:14:40,"23,56",De Veldslag om Norg ,2017-09-02
+101,807,Willem Oosting,Exloo,M,3,02:06:52,03:11:37,04:16:02,"23,44",De Veldslag om Norg ,2017-09-02
+102,526,"Bas Lange, De",Haren Gn,M,2,02:01:55,03:05:36,04:16:10,"23,42",De Veldslag om Norg ,2017-09-02
+103,1306,"Marten Vries, De",Eastermar,M,4,02:02:58,03:08:24,04:16:13,"23,42",De Veldslag om Norg ,2017-09-02
+104,491,Bert Hoven,Roden,M,2,01:57:48,03:04:19,04:16:20,"23,41",De Veldslag om Norg ,2017-09-02
+105,924,Ronny Santing,Oude Pekela,M,3,02:07:18,03:09:03,04:16:39,"23,38",De Veldslag om Norg ,2017-09-02
+106,536,Jacob  Slenema,Roden,M,2,01:58:18,03:04:44,04:16:45,"23,37",De Veldslag om Norg ,2017-09-02
+107,649,Albert Meijer,Assen,M,2,01:53:40,02:58:45,04:16:48,"23,37",De Veldslag om Norg ,2017-09-02
+108,1331,"Gerrit Vries, de",Olderberkoop,M,4,02:08:00,03:12:49,04:16:59,"23,35",De Veldslag om Norg ,2017-09-02
+109,606,Arno Kruims,Een,M,2,01:50:47,02:51:12,04:17:02,"23,34",De Veldslag om Norg ,2017-09-02
+110,535,Herald Folkerts,Gieten,M,2,01:58:54,03:05:22,04:17:18,"23,32",De Veldslag om Norg ,2017-09-02
+111,1380,Marijn Edelenbosch,Groningen,M,4,01:59:41,03:03:39,04:17:22,"23,31",De Veldslag om Norg ,2017-09-02
+112,655,Otte Homan,Schipborg,M,2,01:59:14,03:04:35,04:17:43,"23,28",De Veldslag om Norg ,2017-09-02
+113,1067,"Eddy Vries, De",Buitenpost,M,3,02:01:28,03:04:37,04:17:50,"23,27",De Veldslag om Norg ,2017-09-02
+114,1002,Bas Ludemann,Ijlst,M,3,02:01:35,03:08:40,04:17:57,"23,26",De Veldslag om Norg ,2017-09-02
+115,564,Janco Donker,Marum,M,2,01:58:48,03:03:17,04:17:59,"23,26",De Veldslag om Norg ,2017-09-02
+116,1012,Radboud Poortvliet,Warten,M,3,02:00:56,03:03:16,04:18:00,"23,26",De Veldslag om Norg ,2017-09-02
+117,888,Peter Smale,Peize,M,3,01:57:23,03:06:55,04:18:03,"23,25",De Veldslag om Norg ,2017-09-02
+118,861,Jannes Paize,Groningen,M,3,02:01:10,03:09:03,04:18:08,"23,24",De Veldslag om Norg ,2017-09-02
+119,752,Sjoerd Westerling,Groningen,M,3,02:01:06,03:08:59,04:18:09,"23,24",De Veldslag om Norg ,2017-09-02
+120,431,B. Smits,Zuidvelde,M,2,01:55:09,02:56:42,04:18:13,"23,24",De Veldslag om Norg ,2017-09-02
+121,790,Willem Bouwman,Soest,M,3,01:57:48,03:06:40,04:18:20,"23,23",De Veldslag om Norg ,2017-09-02
+122,643,"Jaap Beek, Van Der",Marum,M,2,01:59:01,03:03:22,04:18:31,"23,21",De Veldslag om Norg ,2017-09-02
+123,695,Edwin Vegter,Nietap,M,2,01:59:58,03:06:05,04:18:36,"23,20",De Veldslag om Norg ,2017-09-02
+124,704,"Hans Kloo, Van Der",Rolde,M,3,02:07:32,03:07:24,04:18:52,"23,18",De Veldslag om Norg ,2017-09-02
+125,447,"Peter Huffelen, Van",Leek,M,2,01:59:36,03:05:00,04:19:04,"23,16",De Veldslag om Norg ,2017-09-02
+126,1281,Jasper Wagenaar,Oosterblokker,M,4,02:05:16,03:10:51,04:19:26,"23,13",De Veldslag om Norg ,2017-09-02
+127,1114,Stephan Ludolphy,Midwolde,M,4,01:59:38,03:05:10,04:19:36,"23,11",De Veldslag om Norg ,2017-09-02
+128,390,"Jelke Eeuwijk, Van",Groningen,M,2,01:56:18,03:02:11,04:19:44,"23,10",De Veldslag om Norg ,2017-09-02
+129,544,Joris Kaptein,Norg,M,2,01:56:00,03:02:11,04:19:45,"23,10",De Veldslag om Norg ,2017-09-02
+130,399,Marc Supèr,Meppel,M,2,01:57:13,02:57:07,04:19:46,"23,10",De Veldslag om Norg ,2017-09-02
+131,444,Hilco Bremer,Hoogeveen,M,2,02:01:37,03:06:25,04:19:54,"23,09",De Veldslag om Norg ,2017-09-02
+132,612,Ruurd Holwerda,Koog Aan De Zaan,M,2,02:02:18,03:08:02,04:20:18,"23,05",De Veldslag om Norg ,2017-09-02
+133,819,Peter Timmer,Haren,M,3,02:04:09,03:09:10,04:20:25,"23,04",De Veldslag om Norg ,2017-09-02
+134,349,Rene Liewes,Norg,M,2,01:55:51,02:59:24,04:20:26,"23,04",De Veldslag om Norg ,2017-09-02
+135,301,Simon Wekema,Peize,M,2,02:00:53,03:08:04,04:20:26,"23,04",De Veldslag om Norg ,2017-09-02
+136,1325,Jaap  Ekkels,Bakkeveen,M,4,02:00:44,03:08:13,04:20:27,"23,04",De Veldslag om Norg ,2017-09-02
+137,1279,André Kamminga,Drachten,M,4,02:00:43,03:08:14,04:20:27,"23,04",De Veldslag om Norg ,2017-09-02
+138,617,Sven Vintges,Groningen,M,2,02:00:06,03:04:58,04:20:32,"23,03",De Veldslag om Norg ,2017-09-02
+139,462,Hylke Nota,Oudesluis,M,2,02:04:43,03:10:35,04:20:32,"23,03",De Veldslag om Norg ,2017-09-02
+140,1057,Mark Feijen,Emmen,M,3,02:03:17,03:07:36,04:20:49,"23,00",De Veldslag om Norg ,2017-09-02
+141,1305,Jan Reinder Smeenge,Zeegse,M,4,02:02:21,03:08:13,04:20:55,"23,00",De Veldslag om Norg ,2017-09-02
+142,302,"Ate Veen, Van Der",Peize,M,2,02:01:03,03:08:12,04:21:07,"22,98",De Veldslag om Norg ,2017-09-02
+143,393,Sem Hobert,Bentelo,M,2,02:02:58,03:08:56,04:21:08,"22,98",De Veldslag om Norg ,2017-09-02
+144,835,"Sander Voorn, Van",Amsterdam,M,3,01:57:45,03:06:56,04:21:11,"22,97",De Veldslag om Norg ,2017-09-02
+145,734,Egbert Schuitema,Borgercompagnie,M,3,02:01:06,03:06:25,04:21:17,"22,96",De Veldslag om Norg ,2017-09-02
+146,1307,"Martijn Jong, De",Rottevalle,M,4,02:02:47,03:08:31,04:21:18,"22,96",De Veldslag om Norg ,2017-09-02
+147,397,Peter Selles,Assen,M,2,01:56:10,03:04:30,04:21:23,"22,96",De Veldslag om Norg ,2017-09-02
+148,651,T.J. Becker,Roden,M,2,01:56:36,03:01:50,04:21:32,"22,94",De Veldslag om Norg ,2017-09-02
+149,490,"Marien Os, Van",Amsterdam,M,2,01:53:27,03:00:49,04:21:33,"22,94",De Veldslag om Norg ,2017-09-02
+150,1201,Jan-Willem Waterweg,Hierden,M,4,01:57:20,03:00:23,04:21:51,"22,91",De Veldslag om Norg ,2017-09-02
+151,1028,"Iddo Jong, De",Beilen,M,3,02:09:27,03:14:03,04:22:16,"22,88",De Veldslag om Norg ,2017-09-02
+152,784,"Richard Leij, Van Der",Smilde,M,3,02:00:47,03:08:56,04:22:24,"22,87",De Veldslag om Norg ,2017-09-02
+153,478,Jeroen Grevink,Norg,M,2,02:00:34,03:06:05,04:22:35,"22,85",De Veldslag om Norg ,2017-09-02
+154,836,"Bastiaan Voorn, Van",Beuningen,M,3,02:00:37,03:06:55,04:22:42,"22,84",De Veldslag om Norg ,2017-09-02
+155,921,Edward Smit,Haulerwijk,M,3,01:57:53,03:05:02,04:22:46,"22,83",De Veldslag om Norg ,2017-09-02
+156,1414,"Rob Baak, Van",Roden,M,4,02:03:30,03:09:20,04:22:56,"22,82",De Veldslag om Norg ,2017-09-02
+157,1308,Sipke Hoekstra,Eastermar,M,4,02:02:54,03:08:29,04:22:59,"22,82",De Veldslag om Norg ,2017-09-02
+158,654,"Henk Vries, De",Noordwolde Fr,M,2,01:57:45,03:04:27,04:23:21,"22,78",De Veldslag om Norg ,2017-09-02
+159,1128,Gerk Dijkstra,Nij Beets,M,4,02:07:54,03:14:02,04:23:22,"22,78",De Veldslag om Norg ,2017-09-02
+160,1130,Wim Bos,Drachten,M,4,02:08:04,03:13:51,04:23:23,"22,78",De Veldslag om Norg ,2017-09-02
+161,464,Daniel Guichelaar,Zuidwolde,M,2,01:59:00,03:05:55,04:23:24,"22,78",De Veldslag om Norg ,2017-09-02
+162,1006,"Bert Jonge, De",Roden,M,3,02:02:26,03:09:17,04:24:08,"22,72",De Veldslag om Norg ,2017-09-02
+163,870,"Andre Vries, De",Oldeholtpade,M,3,02:01:20,03:10:19,04:24:28,"22,69",De Veldslag om Norg ,2017-09-02
+164,446,"Mark Blaauw, De",Norg,M,2,01:58:21,03:07:18,04:24:56,"22,65",De Veldslag om Norg ,2017-09-02
+165,633,K Post,Anderen,M,2,01:53:29,03:01:36,04:25:03,"22,64",De Veldslag om Norg ,2017-09-02
+166,608,Wilfred Ridder,Anderen,M,2,01:53:27,03:01:38,04:25:04,"22,64",De Veldslag om Norg ,2017-09-02
+167,964,Kaspert Eitens,Onnen,M,3,02:03:38,03:09:42,04:25:37,"22,59",De Veldslag om Norg ,2017-09-02
+168,1098,Sjakko Kuipers,Norg,M,3,02:05:00,03:09:54,04:25:56,"22,56",De Veldslag om Norg ,2017-09-02
+169,822,"Boris Wal, Van Der",Norg,M,3,02:04:39,03:09:33,04:26:02,"22,55",De Veldslag om Norg ,2017-09-02
+170,1267,René  Heirman,Hoogezand,M,4,02:02:05,03:13:34,04:26:19,"22,53",De Veldslag om Norg ,2017-09-02
+171,636,Aizo Betten,Assen,M,2,02:00:06,03:07:50,04:26:48,"22,49",De Veldslag om Norg ,2017-09-02
+172,1209,Richard Boomsma,Assen,M,4,02:03:19,03:09:58,04:27:05,"22,46",De Veldslag om Norg ,2017-09-02
+173,1208,"Thijs Starkenburg, Van",Assen,M,4,02:03:21,03:10:00,04:27:07,"22,46",De Veldslag om Norg ,2017-09-02
+174,664,Christiaan Kamphuis,Wildervank,M,2,02:02:43,03:08:26,04:27:15,"22,45",De Veldslag om Norg ,2017-09-02
+175,460,Wim Vos,Nieuw-Amsterdam,M,2,02:11:41,03:18:54,04:27:17,"22,45",De Veldslag om Norg ,2017-09-02
+176,1304,GH  Feringa,Klazienaveen,M,4,02:01:34,03:10:47,04:27:23,"22,44",De Veldslag om Norg ,2017-09-02
+177,1038,Kris Hogeling,Balkbrug,M,3,02:07:53,03:13:39,04:27:34,"22,42",De Veldslag om Norg ,2017-09-02
+178,1037,Danny Bouwhuis,Balkbrug,M,3,02:07:56,03:13:40,04:27:35,"22,42",De Veldslag om Norg ,2017-09-02
+179,1397,Erwin  Wijermars,Groningen,M,4,02:05:03,03:17:05,04:27:43,"22,41",De Veldslag om Norg ,2017-09-02
+180,394,Theo Lutke,Assen,M,2,02:06:52,03:19:11,04:27:47,"22,41",De Veldslag om Norg ,2017-09-02
+181,466,Marije Joling,Assen,V,2,02:06:37,03:19:11,04:27:48,"22,41",De Veldslag om Norg ,2017-09-02
+182,1075,Jos Van Loon,Hengelo,M,3,02:05:03,03:16:22,04:27:57,"22,39",De Veldslag om Norg ,2017-09-02
+183,1258,"Joep Velzen, Van",Westwoud,M,4,02:05:20,03:10:54,04:28:05,"22,38",De Veldslag om Norg ,2017-09-02
+184,699,Jan Jaap Potze,Peize,M,2,02:07:42,03:13:45,04:28:06,"22,38",De Veldslag om Norg ,2017-09-02
+185,433,David Wassenaar,Peize,M,2,02:08:13,03:13:48,04:28:08,"22,38",De Veldslag om Norg ,2017-09-02
+186,571,Benny Wagenaar,Marum,M,2,02:04:30,03:11:24,04:28:21,"22,36",De Veldslag om Norg ,2017-09-02
+187,579,Edwin Zinger,Beilen,M,2,02:00:43,03:06:48,04:28:26,"22,35",De Veldslag om Norg ,2017-09-02
+188,524,Mike Timmer,Barneveld,M,2,01:58:16,03:07:12,04:28:41,"22,33",De Veldslag om Norg ,2017-09-02
+189,487,Herman Teuben,Assen,M,2,02:00:25,03:12:39,04:28:57,"22,31",De Veldslag om Norg ,2017-09-02
+190,408,Dick Frans,Assen,M,2,01:56:25,03:05:16,04:29:26,"22,27",De Veldslag om Norg ,2017-09-02
+191,483,Mark-Jan Nijboer,Opende,M,2,02:00:11,03:09:07,04:29:29,"22,27",De Veldslag om Norg ,2017-09-02
+192,569,Jaap Kok,Zuidlaren,M,2,02:00:48,03:11:58,04:29:55,"22,23",De Veldslag om Norg ,2017-09-02
+193,1126,Jaap Stomphorst,Groningen,M,4,02:04:51,03:15:24,04:30:03,"22,22",De Veldslag om Norg ,2017-09-02
+194,1266,Bert Huitsing,Winsum,M,4,02:06:58,03:15:50,04:30:04,"22,22",De Veldslag om Norg ,2017-09-02
+195,847,René Wieling,Appelscha,M,3,02:06:53,03:10:30,04:30:07,"22,21",De Veldslag om Norg ,2017-09-02
+196,1010,Henri Kats,Roden,M,3,02:05:28,03:10:52,04:30:10,"22,21",De Veldslag om Norg ,2017-09-02
+197,873,Bennie Polet,Leeuwarden,M,3,02:00:32,03:17:06,04:30:11,"22,21",De Veldslag om Norg ,2017-09-02
+198,813,Johan Beuving,Roden,M,3,02:10:49,03:17:41,04:30:22,"22,19",De Veldslag om Norg ,2017-09-02
+199,582,Gerold Hartholt,Hengelo,M,2,01:57:08,03:08:51,04:30:28,"22,18",De Veldslag om Norg ,2017-09-02
+200,1357,Werner Peters,Nijmegen,M,4,02:03:19,03:19:09,04:30:58,"22,14",De Veldslag om Norg ,2017-09-02
+201,1117,Melchior Oldenburger,Glimmen,M,4,02:03:21,03:19:19,04:31:06,"22,13",De Veldslag om Norg ,2017-09-02
+202,1264,Erwin Meis,Scheemda,M,4,02:04:26,03:16:09,04:31:13,"22,12",De Veldslag om Norg ,2017-09-02
+203,538,Iwan Goorden,Hengevelde,M,2,01:59:55,03:13:18,04:31:17,"22,12",De Veldslag om Norg ,2017-09-02
+204,1407,Harm Hendrik Speelman,Alteveer,M,4,02:04:51,03:16:36,04:31:37,"22,09",De Veldslag om Norg ,2017-09-02
+205,529,René Kuipers,Annen,M,2,02:05:37,03:15:00,04:31:39,"22,09",De Veldslag om Norg ,2017-09-02
+206,1326,Hette Karst Dragtstra,Hoornsterzwaag,M,4,02:03:14,03:13:07,04:31:42,"22,08",De Veldslag om Norg ,2017-09-02
+207,897,Dennis Pot,Emmen,M,3,02:07:07,03:11:43,04:31:45,"22,08",De Veldslag om Norg ,2017-09-02
+208,877,Marcel Staphorst,Emmen,M,3,02:07:35,03:11:43,04:31:45,"22,08",De Veldslag om Norg ,2017-09-02
+209,637,Johnny Vos,Smilde,M,2,02:01:36,03:11:30,04:31:51,"22,07",De Veldslag om Norg ,2017-09-02
+210,531,Gerrit Trul,Hoogersmilde,M,2,02:01:27,03:11:31,04:31:52,"22,07",De Veldslag om Norg ,2017-09-02
+211,1240,"Freek Veld, Ter",Smilde,M,4,02:07:42,03:22:10,04:31:57,"22,06",De Veldslag om Norg ,2017-09-02
+212,1302,Jappie Storm,Kootstertille,M,4,02:03:16,03:09:52,04:32:20,"22,03",De Veldslag om Norg ,2017-09-02
+213,686,"Maarten Valk, Van Der",Gieten,M,2,02:00:19,03:10:19,04:33:02,"21,98",De Veldslag om Norg ,2017-09-02
+214,871,"Andre Vries, De",Oldeholtpade,M,3,02:05:40,03:16:17,04:33:10,"21,97",De Veldslag om Norg ,2017-09-02
+215,558,Wolter Huberts,Zuidhorn,M,2,02:04:13,03:15:41,04:33:21,"21,95",De Veldslag om Norg ,2017-09-02
+216,602,Jan Herman Teeninga,Tolbert,M,2,02:01:10,03:15:14,04:33:24,"21,95",De Veldslag om Norg ,2017-09-02
+217,678,Bas Wortelboer,Norg,M,2,02:04:57,03:13:01,04:33:34,"21,93",De Veldslag om Norg ,2017-09-02
+218,827,Sipke Rozema,Assen,M,3,02:08:31,03:18:55,04:33:37,"21,93",De Veldslag om Norg ,2017-09-02
+219,997,Jan Fridzema,Roden,M,3,02:00:56,03:09:07,04:33:39,"21,93",De Veldslag om Norg ,2017-09-02
+220,1230,Rick Suurd,Leek,M,4,02:07:28,03:22:38,04:33:45,"21,92",De Veldslag om Norg ,2017-09-02
+221,560,Johannes Wanders,Beilen,M,2,02:04:24,03:16:37,04:34:07,"21,89",De Veldslag om Norg ,2017-09-02
+222,441,John Okkes,De Blesse,M,2,02:04:03,03:16:00,04:34:09,"21,89",De Veldslag om Norg ,2017-09-02
+223,346,Benny Ridder,Peize,M,2,02:02:19,03:16:21,04:34:14,"21,88",De Veldslag om Norg ,2017-09-02
+224,364,"Karina Leeuw, De",Peize,V,2,02:02:44,03:16:23,04:34:16,"21,88",De Veldslag om Norg ,2017-09-02
+225,630,Robert Koops,Assen,M,2,02:07:14,03:16:58,04:34:29,"21,86",De Veldslag om Norg ,2017-09-02
+226,1202,Patrick De Haan,Smilde,M,4,02:07:49,03:22:11,04:34:42,"21,84",De Veldslag om Norg ,2017-09-02
+227,867,Gerard Korenblik,Diepenheim,M,3,02:12:50,03:24:09,04:35:03,"21,81",De Veldslag om Norg ,2017-09-02
+228,1297,Erik Vrielink,Goor,M,4,02:12:48,03:24:11,04:35:04,"21,81",De Veldslag om Norg ,2017-09-02
+229,863,Gertjan Leuvelink,Diepenheim,M,3,02:12:54,03:24:10,04:35:05,"21,81",De Veldslag om Norg ,2017-09-02
+230,859,Emiel Bekke,Goor,M,3,02:12:46,03:24:10,04:35:05,"21,81",De Veldslag om Norg ,2017-09-02
+231,1290,Danny  Bekkers,Apeldoorn,M,4,02:05:59,03:21:46,04:35:07,"21,81",De Veldslag om Norg ,2017-09-02
+232,412,Angela Hillenga,Assen,V,2,02:06:27,03:19:14,04:35:08,"21,81",De Veldslag om Norg ,2017-09-02
+233,389,Renate Groenewold,Assen,V,2,02:06:51,03:19:13,04:35:08,"21,81",De Veldslag om Norg ,2017-09-02
+234,852,Theo Boer,Paterswolde,M,3,02:03:51,03:14:47,04:35:08,"21,81",De Veldslag om Norg ,2017-09-02
+235,805,Raymond Huwae,Peize,M,3,02:04:16,03:14:54,04:35:10,"21,81",De Veldslag om Norg ,2017-09-02
+236,605,"Edwin Voorn, Van",Assen,M,2,01:58:59,03:11:39,04:35:16,"21,80",De Veldslag om Norg ,2017-09-02
+237,333,Pieter Siemen Spinder,Harkema,M,2,01:54:10,03:20:54,04:35:16,"21,80",De Veldslag om Norg ,2017-09-02
+238,1363,Michiel Fokkens,Groningen,M,4,02:07:18,03:14:30,04:35:24,"21,79",De Veldslag om Norg ,2017-09-02
+239,1111,Hedde Paulusma,Zuidwolde,M,4,02:06:52,03:19:52,04:35:30,"21,78",De Veldslag om Norg ,2017-09-02
+240,377,Jilco Meinema,Eelde,M,2,02:06:10,03:17:39,04:35:35,"21,77",De Veldslag om Norg ,2017-09-02
+241,476,Herald Veenstra,Leek,M,2,02:03:23,03:16:39,04:35:44,"21,76",De Veldslag om Norg ,2017-09-02
+242,1242,Vincent Meijer,Blesdijke,M,2,02:08:04,03:21:34,04:36:00,"21,74",De Veldslag om Norg ,2017-09-02
+243,347,Gert Hofsteenge,Een,M,2,02:06:52,03:18:53,04:36:09,"21,73",De Veldslag om Norg ,2017-09-02
+244,642,Klaas Vrieling,Annen,M,2,02:04:56,03:15:01,04:36:12,"21,72",De Veldslag om Norg ,2017-09-02
+245,756,"Johan Groot, De",Roden,M,3,02:11:07,03:23:39,04:36:32,"21,70",De Veldslag om Norg ,2017-09-02
+246,1268,Jan  Post,Leek,M,4,02:03:18,03:18:42,04:36:43,"21,68",De Veldslag om Norg ,2017-09-02
+247,424,Jan Lieben,Eelde,M,2,02:06:44,03:17:48,04:36:48,"21,68",De Veldslag om Norg ,2017-09-02
+248,1346,Marjolein  Dijkman,Delfzijl,V,4,02:07:32,03:19:58,04:36:58,"21,66",De Veldslag om Norg ,2017-09-02
+249,1345,Tamme Dijkman,Delfzijl,M,4,02:07:24,03:19:58,04:37:04,"21,66",De Veldslag om Norg ,2017-09-02
+250,682,Leon Boschman,Groningen,M,2,02:05:42,03:15:50,04:37:21,"21,63",De Veldslag om Norg ,2017-09-02
+251,891,Dolf Ottens,Sappemeer,M,3,02:13:29,03:27:06,04:37:34,"21,62",De Veldslag om Norg ,2017-09-02
+252,475,Rene Waalboer,Niebert,M,2,02:00:25,03:09:12,04:37:35,"21,62",De Veldslag om Norg ,2017-09-02
+253,303,Stefan Kappe,Peize,M,2,02:05:20,03:17:56,04:37:39,"21,61",De Veldslag om Norg ,2017-09-02
+254,1280,Jeroen  Druppers,Paterswolde,M,4,02:08:36,03:21:08,04:38:06,"21,58",De Veldslag om Norg ,2017-09-02
+255,307,Ronald Sloots,Peize,M,2,02:05:20,03:17:40,04:38:12,"21,57",De Veldslag om Norg ,2017-09-02
+256,416,Karel Pilon,Westervelde,M,2,02:08:32,03:18:48,04:38:28,"21,55",De Veldslag om Norg ,2017-09-02
+257,432,Arjan Schuiling,Norg,M,2,02:08:43,03:18:51,04:38:31,"21,54",De Veldslag om Norg ,2017-09-02
+258,445,Daniel Caljouw,Roden,M,2,02:08:47,03:18:53,04:38:31,"21,54",De Veldslag om Norg ,2017-09-02
+259,1330,Mark  Steenhuis,Groningen,M,4,02:09:20,03:23:19,04:38:35,"21,54",De Veldslag om Norg ,2017-09-02
+260,898,Arwin Buitenga,Norg,M,3,02:12:10,03:21:46,04:38:59,"21,51",De Veldslag om Norg ,2017-09-02
+261,427,Jeroen Slagter,Assen,M,2,02:05:59,03:18:07,04:39:07,"21,50",De Veldslag om Norg ,2017-09-02
+262,515,Arjan Korterink,Zwolle,M,2,02:09:04,03:20:25,04:39:08,"21,50",De Veldslag om Norg ,2017-09-02
+263,328,Andries Hoekstra,Harkema,M,2,01:52:53,03:21:07,04:39:23,"21,48",De Veldslag om Norg ,2017-09-02
+264,334,"Kris  Roo, De",Harkema,M,2,01:54:12,03:20:53,04:39:24,"21,48",De Veldslag om Norg ,2017-09-02
+265,826,Herrick Poelman,Glimmen,M,3,02:11:30,03:27:06,04:39:30,"21,47",De Veldslag om Norg ,2017-09-02
+266,777,"Iris Koningsveld, Van",Roosendaal,V,3,02:06:20,03:19:59,04:39:43,"21,45",De Veldslag om Norg ,2017-09-02
+267,776,"Etienne Koningsveld, Van",Roosendaal,M,3,02:06:26,03:19:58,04:39:45,"21,45",De Veldslag om Norg ,2017-09-02
+268,804,Rudie Leever,Rolde,M,3,02:08:11,03:18:10,04:39:46,"21,45",De Veldslag om Norg ,2017-09-02
+269,281,Yordi Wubkes,Barger-Compascuum,M,3,02:09:11,03:16:41,04:39:52,"21,44",De Veldslag om Norg ,2017-09-02
+270,474,Oldrik  Wilken,Meerstad,M,2,02:02:26,03:14:19,04:39:53,"21,44",De Veldslag om Norg ,2017-09-02
+271,1014,"Hillebrand Vries, De",St Jacobiparochie,M,3,02:09:21,03:22:49,04:40:10,"21,42",De Veldslag om Norg ,2017-09-02
+272,1013,"Andre Vries, De",Leeuwarden,M,3,02:09:24,03:22:51,04:40:11,"21,41",De Veldslag om Norg ,2017-09-02
+273,1005,Evert Koopmans,Heerenveen,M,3,02:09:15,03:22:46,04:40:13,"21,41",De Veldslag om Norg ,2017-09-02
+274,1054,Corazon  Tinkelenberg,Meteren,V,3,02:09:19,03:22:48,04:40:14,"21,41",De Veldslag om Norg ,2017-09-02
+275,768,Theo Visser,Hauwert,M,3,02:12:05,03:22:25,04:40:48,"21,37",De Veldslag om Norg ,2017-09-02
+276,1322,Chris Gjaltema,Marum,M,4,02:10:16,03:24:41,04:40:57,"21,36",De Veldslag om Norg ,2017-09-02
+277,1321,Chris Gjaltema,Marum,M,4,02:10:13,03:24:42,04:41:00,"21,35",De Veldslag om Norg ,2017-09-02
+278,1074,"Albert Dijken, Van",Buitenpost,M,3,02:04:33,03:17:47,04:41:05,"21,35",De Veldslag om Norg ,2017-09-02
+279,1071,Jan Ploegsma,Buitenpost,M,3,02:01:38,03:17:47,04:41:05,"21,35",De Veldslag om Norg ,2017-09-02
+280,841,Daan Groot,Zeist,M,3,02:13:47,03:26:48,04:41:19,"21,33",De Veldslag om Norg ,2017-09-02
+281,540,Joost Smeets,Heerde,M,2,02:13:19,03:26:48,04:41:20,"21,33",De Veldslag om Norg ,2017-09-02
+282,719,"Eric Berg, Van Den",Utrecht,M,3,02:13:19,03:26:49,04:41:20,"21,33",De Veldslag om Norg ,2017-09-02
+283,1025,Bas Bartholomeus,Assen,M,3,02:10:55,03:23:03,04:41:29,"21,32",De Veldslag om Norg ,2017-09-02
+284,329,Klaas Veenstra,Surhuisterveen,M,2,01:58:39,03:20:55,04:41:37,"21,31",De Veldslag om Norg ,2017-09-02
+285,842,Dirk-Jan Scheffers,Groningen,M,3,02:05:27,03:17:35,04:41:50,"21,29",De Veldslag om Norg ,2017-09-02
+286,1286,Robert Blokzijl,Almelo,M,4,02:07:09,03:23:22,04:41:54,"21,28",De Veldslag om Norg ,2017-09-02
+287,788,Willem Tjoelker,Leek,M,3,02:10:46,03:23:25,04:41:56,"21,28",De Veldslag om Norg ,2017-09-02
+288,782,Anton Tjoelker,Leek,M,3,02:10:35,03:23:25,04:41:57,"21,28",De Veldslag om Norg ,2017-09-02
+289,1104,Hans Buist,Roden,M,4,02:12:06,03:27:04,04:42:03,"21,27",De Veldslag om Norg ,2017-09-02
+290,1138,"Ron Laan, Van De",Utrecht,M,4,02:13:35,03:28:02,04:42:06,"21,27",De Veldslag om Norg ,2017-09-02
+291,305,Tim  Gefken,Assendelft,M,2,02:14:00,03:24:23,04:42:50,"21,21",De Veldslag om Norg ,2017-09-02
+292,304,Alex Schuttert,Oostzaan,M,2,02:13:59,03:24:23,04:42:51,"21,21",De Veldslag om Norg ,2017-09-02
+293,500,Ronnie Poelstra,Haren,M,2,01:52:40,03:26:17,04:42:53,"21,21",De Veldslag om Norg ,2017-09-02
+294,960,"Jeroen Berge, Van",Vlaardingen,M,3,02:11:29,03:25:24,04:43:05,"21,20",De Veldslag om Norg ,2017-09-02
+295,1157,Remon Modderman,Holten,M,4,02:15:05,03:30:17,04:43:07,"21,19",De Veldslag om Norg ,2017-09-02
+296,553,Jeroen Hendriksen,Boxtel,M,2,02:08:41,03:28:32,04:43:10,"21,19",De Veldslag om Norg ,2017-09-02
+297,658,Krista Droog,Groningen,V,2,02:11:10,03:24:34,04:43:17,"21,18",De Veldslag om Norg ,2017-09-02
+298,962,Theun Bouius,Metslawier,M,3,02:06:54,03:20:54,04:43:51,"21,14",De Veldslag om Norg ,2017-09-02
+299,565,"Wieger Greft, Van de",Marum,M,2,02:11:03,03:23:16,04:43:59,"21,13",De Veldslag om Norg ,2017-09-02
+300,465,"Paul Haring, Van Der",Assen,M,2,02:08:52,03:23:09,04:44:03,"21,12",De Veldslag om Norg ,2017-09-02
+301,764,Henk-Jan Luth,Leek,M,3,02:17:16,03:32:02,04:44:04,"21,12",De Veldslag om Norg ,2017-09-02
+302,1092,Marco Verkammen,'S-Heerenberg,M,3,02:15:48,03:30:47,04:44:05,"21,12",De Veldslag om Norg ,2017-09-02
+303,1210,Wubbe Roelfsema,Oude Pekela,M,4,02:15:47,03:32:02,04:44:09,"21,12",De Veldslag om Norg ,2017-09-02
+304,1082,"Peter Veen, Van Der",Groningen,M,3,02:07:01,03:22:31,04:44:13,"21,11",De Veldslag om Norg ,2017-09-02
+305,1089,Sanneke Maas,Markelo,V,3,02:17:54,03:30:30,04:44:22,"21,10",De Veldslag om Norg ,2017-09-02
+306,667,Roberto Simonides,Norg,M,2,02:07:09,03:23:22,04:44:32,"21,09",De Veldslag om Norg ,2017-09-02
+307,1353,Meine Jongschaap,Oldemarkt,M,4,02:03:24,03:21:08,04:44:33,"21,09",De Veldslag om Norg ,2017-09-02
+308,335,"Lieuwe Heide, Van Der",Harkema,M,2,02:03:29,03:20:59,04:44:34,"21,09",De Veldslag om Norg ,2017-09-02
+309,963,Klaas Snippe,Klazienaveen,M,3,02:12:44,03:24:47,04:44:38,"21,08",De Veldslag om Norg ,2017-09-02
+310,895,Diederik  Wolthof,Nieuw-Amsterdam,M,3,02:12:49,03:24:48,04:44:38,"21,08",De Veldslag om Norg ,2017-09-02
+311,855,Dennis Koning,Norg,M,3,02:15:36,03:31:10,04:44:55,"21,06",De Veldslag om Norg ,2017-09-02
+312,900,Jasper Revers,Castricum,M,3,02:15:22,03:29:07,04:45:08,"21,04",De Veldslag om Norg ,2017-09-02
+313,708,Bert Martini,Grijpskerk,M,3,02:09:29,03:24:28,04:45:17,"21,03",De Veldslag om Norg ,2017-09-02
+314,1284,Gosse Westra,Drachten,M,4,02:14:52,03:30:39,04:45:25,"21,02",De Veldslag om Norg ,2017-09-02
+315,1154,Jan Nieuwveld,Drachten,M,4,02:14:57,03:30:39,04:45:27,"21,02",De Veldslag om Norg ,2017-09-02
+316,823,Jamy Modderman,Oostwold,M,3,02:10:14,03:23:17,04:45:39,"21,01",De Veldslag om Norg ,2017-09-02
+317,981,Jan Egberts,Norg,M,3,02:08:24,03:22:47,04:45:48,"20,99",De Veldslag om Norg ,2017-09-02
+318,1343,Robert Kuijper,Alkmaar,M,4,02:09:38,03:26:32,04:46:24,"20,95",De Veldslag om Norg ,2017-09-02
+319,578,"Geert Dijk, Van",Zeewolde,M,2,02:07:41,03:23:05,04:46:25,"20,95",De Veldslag om Norg ,2017-09-02
+320,587,Jan-Jaap Peters,Oldebroek,M,2,02:07:47,03:21:35,04:46:35,"20,94",De Veldslag om Norg ,2017-09-02
+321,365,Mark Edens,Midwolda,M,2,02:18:23,03:28:00,04:47:01,"20,91",De Veldslag om Norg ,2017-09-02
+322,922,Marco Reitsma,Assen,M,3,02:16:33,03:30:27,04:47:16,"20,89",De Veldslag om Norg ,2017-09-02
+323,730,Rene Kootstra,Appelscha,M,3,02:13:45,03:28:56,04:47:20,"20,88",De Veldslag om Norg ,2017-09-02
+324,1315,Nick Quaink,Emmen,M,4,02:16:44,03:35:11,04:48:00,"20,83",De Veldslag om Norg ,2017-09-02
+325,1166,John Kerstholt,Beilen,M,4,02:12:35,03:33:46,04:48:01,"20,83",De Veldslag om Norg ,2017-09-02
+326,1168,"Ruud Abbema, Van",Hattem,M,4,02:12:34,03:33:49,04:48:02,"20,83",De Veldslag om Norg ,2017-09-02
+327,1314,Simon Kooistra,Drachten,M,4,02:14:53,03:30:41,04:48:27,"20,80",De Veldslag om Norg ,2017-09-02
+328,984,Peter Verhoef,Roden,M,3,02:12:15,03:31:32,04:48:28,"20,80",De Veldslag om Norg ,2017-09-02
+329,1296,Paul Dijkstra,St. Annaparochie,M,4,02:10:04,03:26:40,04:48:36,"20,79",De Veldslag om Norg ,2017-09-02
+330,948,Alex Uuldersma,Appingedam,M,3,02:08:30,03:32:00,04:48:49,"20,77",De Veldslag om Norg ,2017-09-02
+331,880,Alex  Uuldersma,Appingedam,M,3,02:08:30,03:32:00,04:48:49,"20,77",De Veldslag om Norg ,2017-09-02
+332,1239,Jos Medema,Assen,M,4,02:14:35,03:33:10,04:48:58,"20,76",De Veldslag om Norg ,2017-09-02
+333,1395,René  Koekoek,Nieuwlande,M,4,02:10:24,03:31:02,04:49:10,"20,75",De Veldslag om Norg ,2017-09-02
+334,733,"Bart Meer, De",Drachten,M,3,02:14:55,03:30:41,04:49:17,"20,74",De Veldslag om Norg ,2017-09-02
+335,381,Ard Hofman,Ten Post,M,2,02:11:37,03:26:25,04:49:33,"20,72",De Veldslag om Norg ,2017-09-02
+336,405,Gatze Wiersma,Giekerk,M,2,02:23:04,03:32:52,04:50:22,"20,66",De Veldslag om Norg ,2017-09-02
+337,1289,Karen Jonker,Groningen,M,4,02:08:54,03:31:48,04:50:24,"20,66",De Veldslag om Norg ,2017-09-02
+338,1287,Wiebe  Smid,Groningen,V,4,02:06:41,03:31:48,04:50:25,"20,66",De Veldslag om Norg ,2017-09-02
+339,406,Johan Greydanus,Wijnjewoude,M,2,02:14:48,03:30:01,04:50:28,"20,66",De Veldslag om Norg ,2017-09-02
+340,382,Radboud Kulsdom,Marum,M,2,02:17:55,03:30:02,04:50:32,"20,65",De Veldslag om Norg ,2017-09-02
+341,862,Bart Peterd,Zutphen,M,3,02:13:52,03:25:58,04:50:37,"20,65",De Veldslag om Norg ,2017-09-02
+342,306,Paul Splinter,Groningen,M,2,02:20:41,03:38:19,04:50:39,"20,64",De Veldslag om Norg ,2017-09-02
+343,308,Maarten  Dijkma,Peize,M,2,02:21:03,03:38:30,04:50:40,"20,64",De Veldslag om Norg ,2017-09-02
+344,1211,Gerhard Blomsma,Oosterwolde,M,4,02:12:34,03:34:32,04:50:57,"20,62",De Veldslag om Norg ,2017-09-02
+345,1391,Francine  Vooren,Gieterveen,V,4,02:12:51,03:34:28,04:51:01,"20,62",De Veldslag om Norg ,2017-09-02
+346,744,Richard Henstra,Leek,M,3,02:17:20,03:32:06,04:51:11,"20,61",De Veldslag om Norg ,2017-09-02
+347,770,Paul Huizenga,Roden,M,3,02:15:03,03:29:02,04:51:14,"20,60",De Veldslag om Norg ,2017-09-02
+348,418,Lammert Beukema,Veenhuizen,M,2,02:09:35,03:23:03,04:51:44,"20,57",De Veldslag om Norg ,2017-09-02
+349,522,Martin Bosma,Emmen,M,2,02:09:16,03:28:48,04:51:57,"20,55",De Veldslag om Norg ,2017-09-02
+350,1402,Menno  Cramer,Leeuwarden,M,4,02:17:39,03:38:56,04:52:01,"20,55",De Veldslag om Norg ,2017-09-02
+351,471,Jitse Raap,Altena,M,2,01:59:20,03:07:49,04:52:06,"20,54",De Veldslag om Norg ,2017-09-02
+352,1276,Reindert Eringa,Onnen,M,4,02:17:01,03:37:32,04:52:10,"20,54",De Veldslag om Norg ,2017-09-02
+353,1023,Wytze Stoker,Jubbega,M,3,02:21:20,03:38:48,04:52:20,"20,52",De Veldslag om Norg ,2017-09-02
+354,358,Peter Smit,Nieuw Roden,M,2,02:08:34,03:23:21,04:52:21,"20,52",De Veldslag om Norg ,2017-09-02
+355,843,Erwin Kremer,Assen,M,3,02:15:38,03:30:56,04:52:24,"20,52",De Veldslag om Norg ,2017-09-02
+356,1381,"Rinse Jong, De",Aldeboarn,M,4,02:16:01,03:36:08,04:52:46,"20,50",De Veldslag om Norg ,2017-09-02
+357,1136,Chris Stinkens,Vleuten,M,4,02:13:35,03:30:29,04:52:50,"20,49",De Veldslag om Norg ,2017-09-02
+358,1024,Joop Veenstra,Zandhuizen,M,3,02:21:32,03:38:48,04:52:51,"20,49",De Veldslag om Norg ,2017-09-02
+359,677,Roelof Luchies,Zuidlaren,M,2,02:09:18,03:27:16,04:53:17,"20,46",De Veldslag om Norg ,2017-09-02
+360,1404,Gerard Ploeg,Appelscha,M,4,02:12:41,03:34:37,04:53:30,"20,44",De Veldslag om Norg ,2017-09-02
+361,1275,Isaac  Terpstra,Beilen,M,4,02:19:22,03:40:40,04:53:31,"20,44",De Veldslag om Norg ,2017-09-02
+362,1320,Johan Knoppert,Emmeloord,M,4,02:17:15,03:35:43,04:53:37,"20,44",De Veldslag om Norg ,2017-09-02
+363,1088,Paul Oud,Groningen,M,3,02:18:39,03:32:23,04:53:46,"20,43",De Veldslag om Norg ,2017-09-02
+364,591,Edwin Heuving,Assen,M,2,02:04:57,03:26:16,04:54:08,"20,40",De Veldslag om Norg ,2017-09-02
+365,1408,Ronald Bergman,Assen,M,4,02:14:29,03:34:12,04:54:10,"20,40",De Veldslag om Norg ,2017-09-02
+366,635,Bouwe Ijtsma,Opende,M,2,02:16:31,03:35:37,04:54:14,"20,39",De Veldslag om Norg ,2017-09-02
+367,614,William Ytsma,Opende,M,2,02:16:29,03:35:38,04:54:16,"20,39",De Veldslag om Norg ,2017-09-02
+368,1180,J.W. Van Der Velde,Opende,M,4,02:16:30,03:35:35,04:54:17,"20,39",De Veldslag om Norg ,2017-09-02
+369,638,Wietze Karst,Opende,M,2,02:16:22,03:35:37,04:54:17,"20,39",De Veldslag om Norg ,2017-09-02
+370,912,Antonie Westerman,Ijhorst,M,3,02:22:25,03:39:22,04:54:17,"20,39",De Veldslag om Norg ,2017-09-02
+371,385,Johan Zijlstra,Leek,M,2,02:30:18,03:44:43,04:54:23,"20,38",De Veldslag om Norg ,2017-09-02
+372,374,Kees Hoevenaars,Leek,M,2,02:30:20,03:44:45,04:54:24,"20,38",De Veldslag om Norg ,2017-09-02
+373,766,Chris Luth,Zuidhorn,M,3,02:16:28,03:32:10,04:54:32,"20,37",De Veldslag om Norg ,2017-09-02
+374,366,Leon Halbersma,Leeuwarden,M,2,02:05:29,03:20:48,04:54:35,"20,37",De Veldslag om Norg ,2017-09-02
+375,872,Jeroen Suurd,Leek,M,3,02:17:26,03:32:12,04:54:35,"20,37",De Veldslag om Norg ,2017-09-02
+376,336,Wietze Tjoelker,Kornhorn,M,2,02:00:34,03:21:20,04:54:36,"20,37",De Veldslag om Norg ,2017-09-02
+377,404,Gert Dekker,Assen,M,2,02:14:22,03:33:14,04:54:48,"20,35",De Veldslag om Norg ,2017-09-02
+378,1022,Jaap Bartels,Groningen,M,3,02:10:46,03:28:32,04:55:02,"20,34",De Veldslag om Norg ,2017-09-02
+379,440,Willem Vierhouten,Emmen,M,2,02:18:46,03:35:53,04:55:05,"20,33",De Veldslag om Norg ,2017-09-02
+380,559,Richard Klaassen,Emmen,M,2,02:19:08,03:35:55,04:55:07,"20,33",De Veldslag om Norg ,2017-09-02
+381,1017,Martin jr Robben,Oldeholtapde,M,3,02:02:52,03:23:50,04:55:24,"20,31",De Veldslag om Norg ,2017-09-02
+382,469,Johan Warrink,Barger Compascuum,M,2,02:16:21,03:29:32,04:55:40,"20,29",De Veldslag om Norg ,2017-09-02
+383,1416,Bert Speelman,Assen,M,4,02:16:47,03:34:26,04:55:49,"20,28",De Veldslag om Norg ,2017-09-02
+384,495,Hans Hut,Veenhuizen,M,2,02:08:22,03:33:18,04:56:02,"20,27",De Veldslag om Norg ,2017-09-02
+385,1049,Gerard Van Unen,Roden,M,3,02:14:18,03:33:21,04:56:53,"20,21",De Veldslag om Norg ,2017-09-02
+386,373,Wim Lok,Roden,M,2,02:14:17,03:33:28,04:56:54,"20,21",De Veldslag om Norg ,2017-09-02
+387,1206,Richard Bijlholt,Muntendam,M,4,02:22:16,03:42:20,04:57:05,"20,20",De Veldslag om Norg ,2017-09-02
+388,806,Willem Barnas,Tynaarlo,M,3,02:18:56,03:35:54,04:57:08,"20,19",De Veldslag om Norg ,2017-09-02
+389,1273,Herman Scholte Albers,Klazienaveen,M,4,02:17:45,03:41:56,04:57:23,"20,18",De Veldslag om Norg ,2017-09-02
+390,1248,Geert Jagt,Klazienaveen,M,4,02:17:40,03:41:57,04:57:23,"20,18",De Veldslag om Norg ,2017-09-02
+391,1244,Raymon Peters,Emmen,M,4,02:17:44,03:41:56,04:57:25,"20,17",De Veldslag om Norg ,2017-09-02
+392,1243,Michiel  Hassing,Klazienaveen,M,4,02:17:33,03:41:59,04:57:27,"20,17",De Veldslag om Norg ,2017-09-02
+393,1383,Luc Hekman,Assen,M,4,02:14:50,03:36:35,04:58:28,"20,10",De Veldslag om Norg ,2017-09-02
+394,1001,Patrick Scheffer,Oosterwolde,M,3,02:17:45,03:34:23,04:58:39,"20,09",De Veldslag om Norg ,2017-09-02
+395,731,"Renzo Leeuwen, Van",Haarlem,M,3,02:21:05,03:44:42,04:58:44,"20,09",De Veldslag om Norg ,2017-09-02
+396,738,"Meine Boer, De",Oegstgeest,M,3,02:21:03,03:44:43,04:58:44,"20,09",De Veldslag om Norg ,2017-09-02
+397,974,"Tjarko Ridder, De",Zwolle,M,3,02:21:03,03:41:52,04:58:52,"20,08",De Veldslag om Norg ,2017-09-02
+398,754,Georg Dümmer,Drachten,M,3,02:19:26,03:41:27,04:58:54,"20,07",De Veldslag om Norg ,2017-09-02
+399,543,Anne-Jan De Boer,Drachten,M,2,02:18:43,03:41:22,04:58:55,"20,07",De Veldslag om Norg ,2017-09-02
+400,732,"Johan Wit, De",Drachten,M,3,02:19:16,03:41:22,04:58:55,"20,07",De Veldslag om Norg ,2017-09-02
+401,1261,"Paul Broek, Van Den",Norg,M,4,02:16:48,03:38:57,04:59:00,"20,07",De Veldslag om Norg ,2017-09-02
+402,1249,"Els Broek-Visser, Van den",Norg,V,4,02:16:26,03:38:58,04:59:01,"20,07",De Veldslag om Norg ,2017-09-02
+403,1189,Andre Knol,Koekange,M,4,02:18:16,03:42:22,04:59:13,"20,05",De Veldslag om Norg ,2017-09-02
+404,419,Rob Coenders,Veenendaal,M,2,02:09:49,03:26:02,04:59:23,"20,04",De Veldslag om Norg ,2017-09-02
+405,937,Ard Vrielink,Roden,M,3,02:20:08,03:40:45,04:59:29,"20,04",De Veldslag om Norg ,2017-09-02
+406,1255,Miriam Lassche,Marknesse,V,4,02:13:03,03:38:11,04:59:52,"20,01",De Veldslag om Norg ,2017-09-02
+407,496,"Martijn Laar, Van De",Noordbroek,M,2,02:16:15,03:33:33,05:00:11,"19,99",De Veldslag om Norg ,2017-09-02
+408,485,Aalzen Huizing,Veendam,M,2,02:14:54,03:34:48,05:00:17,"19,98",De Veldslag om Norg ,2017-09-02
+409,746,Kea Lootsma,Peize,V,3,02:18:46,03:37:50,05:00:31,"19,97",De Veldslag om Norg ,2017-09-02
+410,736,Harold Achterberg,Vleuten,M,3,02:26:59,03:44:59,05:00:34,"19,96",De Veldslag om Norg ,2017-09-02
+411,817,"Bas Groot, De",Drachten,M,3,02:14:52,03:30:34,05:00:40,"19,96",De Veldslag om Norg ,2017-09-02
+412,926,Sjaak Veldman,Harderwijk,M,3,02:10:58,03:29:34,05:00:49,"19,95",De Veldslag om Norg ,2017-09-02
+413,590,Bert Klok,Norg,M,2,02:27:25,03:41:56,05:00:52,"19,94",De Veldslag om Norg ,2017-09-02
+414,461,Gerhard Uneken,Een-West,M,2,02:18:25,03:37:48,05:00:56,"19,94",De Veldslag om Norg ,2017-09-02
+415,701,Peter Abee,Muntendam,M,3,02:15:19,03:39:21,05:00:58,"19,94",De Veldslag om Norg ,2017-09-02
+416,1212,Ronald Oldenburger,Veendam,M,4,02:16:26,03:40:21,05:01:10,"19,92",De Veldslag om Norg ,2017-09-02
+417,976,Marcel Kies,Roden,M,3,02:18:09,03:41:17,05:01:21,"19,91",De Veldslag om Norg ,2017-09-02
+418,492,Daniel Kemper,Blesdijke,M,2,02:05:53,03:30:27,05:01:23,"19,91",De Veldslag om Norg ,2017-09-02
+419,369,John Postma,Boerakker,M,2,02:30:17,03:44:45,05:01:38,"19,89",De Veldslag om Norg ,2017-09-02
+420,1163,Jeroen Westendorp,Roden,M,4,02:17:37,03:39:00,05:02:05,"19,86",De Veldslag om Norg ,2017-09-02
+421,1164,Marieke Westendorp,Roden,V,4,02:17:47,03:39:01,05:02:07,"19,86",De Veldslag om Norg ,2017-09-02
+422,1158,"Bert Beekhuizen, Van",Nunspeet,M,4,02:18:47,03:40:46,05:02:27,"19,84",De Veldslag om Norg ,2017-09-02
+423,1120,Mark Gorter,Roden,M,4,02:13:51,03:34:25,05:02:32,"19,83",De Veldslag om Norg ,2017-09-02
+424,753,Mark Ekhart,Norg,M,3,02:18:20,03:37:26,05:02:42,"19,82",De Veldslag om Norg ,2017-09-02
+425,757,Jacob Pantjes,Lutjegast,M,3,02:12:58,03:36:11,05:02:54,"19,81",De Veldslag om Norg ,2017-09-02
+426,978,"Peter Heuvel, Van Den",Zierikzee,M,3,02:12:33,03:32:31,05:02:59,"19,80",De Veldslag om Norg ,2017-09-02
+427,542,"Jan Bolhuis, Van",Appelscha,M,2,02:18:42,03:37:09,05:03:02,"19,80",De Veldslag om Norg ,2017-09-02
+428,740,Jan Slenema,Roden,M,3,02:16:32,03:46:51,05:03:24,"19,78",De Veldslag om Norg ,2017-09-02
+429,1109,Ruurd Huizenga,Valthe,M,4,02:12:41,03:31:17,05:03:26,"19,77",De Veldslag om Norg ,2017-09-02
+430,1207,"Antoon Wouw, Van",Zuidlaren,M,4,02:21:31,03:45:39,05:03:26,"19,77",De Veldslag om Norg ,2017-09-02
+431,990,Melvin Ten Klooster,Drachten,M,3,02:26:15,03:55:56,05:03:31,"19,77",De Veldslag om Norg ,2017-09-02
+432,986,Roelof Heeres,Drachten,M,3,02:26:12,03:55:57,05:03:32,"19,77",De Veldslag om Norg ,2017-09-02
+433,371,Geert Hogenberg,Zuidvelde,M,2,02:23:48,03:39:52,05:03:32,"19,77",De Veldslag om Norg ,2017-09-02
+434,837,Siert Pruis,Eelde,M,3,02:19:39,03:41:41,05:03:49,"19,75",De Veldslag om Norg ,2017-09-02
+435,532,Bas Gort,Utrecht,M,2,02:26:30,03:54:02,05:04:40,"19,69",De Veldslag om Norg ,2017-09-02
+436,965,Teake Veenstra,Fochteloo,M,3,02:14:06,03:35:22,05:04:40,"19,69",De Veldslag om Norg ,2017-09-02
+437,1145,Herald Schokker,Roden,M,4,02:19:20,03:47:32,05:04:42,"19,69",De Veldslag om Norg ,2017-09-02
+438,698,Gitty  Geertsma,Peize,V,2,02:17:08,03:38:38,05:05:06,"19,67",De Veldslag om Norg ,2017-09-02
+439,1256,Rob Popken,Groningen,M,4,02:10:45,03:32:09,05:05:13,"19,66",De Veldslag om Norg ,2017-09-02
+440,1364,Eddy Kuipers,Wijster,M,4,02:19:37,03:42:39,05:05:43,"19,63",De Veldslag om Norg ,2017-09-02
+441,519,Simon Last,Echten,M,2,02:22:56,03:41:41,05:06:05,"19,60",De Veldslag om Norg ,2017-09-02
+442,594,Jannes Barelds,Norg,M,2,02:27:47,03:47:38,05:06:42,"19,56",De Veldslag om Norg ,2017-09-02
+443,489,Hendrik Baving,Norg,M,2,02:34:52,03:49:01,05:06:44,"19,56",De Veldslag om Norg ,2017-09-02
+444,422,Susan Greydanus,Wijnjewoude,V,2,02:16:59,03:40:52,05:06:45,"19,56",De Veldslag om Norg ,2017-09-02
+445,486,Henk-Jan Kloosterman,Augustinusga,M,2,02:14:48,03:40:53,05:06:48,"19,56",De Veldslag om Norg ,2017-09-02
+446,354,Jack Wagena,Marum,M,2,02:15:16,03:38:12,05:06:48,"19,56",De Veldslag om Norg ,2017-09-02
+447,507,"Michiel Buuren, Van",Norg,M,2,02:15:59,03:41:05,05:06:50,"19,55",De Veldslag om Norg ,2017-09-02
+448,331,"André Kammen, Van",Harkema,M,2,02:25:29,03:53:12,05:07:23,"19,52",De Veldslag om Norg ,2017-09-02
+449,338,Arjan Bunt,Roden,M,2,02:19:20,03:35:50,05:07:28,"19,52",De Veldslag om Norg ,2017-09-02
+450,972,Bart Boerema,Annen,M,3,02:15:00,03:42:45,05:07:34,"19,51",De Veldslag om Norg ,2017-09-02
+451,893,Erik Ottens,Zwolle,M,3,02:13:03,03:37:58,05:07:35,"19,51",De Veldslag om Norg ,2017-09-02
+452,1026,Richard Terburg,Zuidlaren,M,3,02:17:32,03:41:06,05:07:44,"19,50",De Veldslag om Norg ,2017-09-02
+453,1282,Sjoerd Mulder,Opeinde,M,4,02:19:34,03:52:20,05:08:08,"19,47",De Veldslag om Norg ,2017-09-02
+454,645,Wolter Lalkens,Assen,M,2,02:20:02,03:46:37,05:08:28,"19,45",De Veldslag om Norg ,2017-09-02
+455,634,Jouke Velstra,Haulerwijk,M,2,02:28:18,03:46:28,05:08:40,"19,44",De Veldslag om Norg ,2017-09-02
+456,574,"P. Veen, Van Der",Haulerwijk,M,2,02:28:24,03:46:28,05:08:40,"19,44",De Veldslag om Norg ,2017-09-02
+457,1378,Niels Ruiter,Lemmer,M,4,02:22:54,03:53:27,05:08:52,"19,43",De Veldslag om Norg ,2017-09-02
+458,1036,Martijn Dallinga,Arnhem,M,3,02:26:17,03:53:38,05:09:02,"19,42",De Veldslag om Norg ,2017-09-02
+459,705,Ronald Sloot,Vries,M,3,02:24:46,03:44:02,05:09:12,"19,41",De Veldslag om Norg ,2017-09-02
+460,455,Egbert Mulder,Rolde,M,2,02:22:15,03:41:51,05:09:14,"19,40",De Veldslag om Norg ,2017-09-02
+461,421,Luuk Lesschen,Rolde,M,2,02:22:16,03:41:50,05:09:15,"19,40",De Veldslag om Norg ,2017-09-02
+462,603,Marco Dijkstra,Norg,M,2,02:13:35,03:34:45,05:09:46,"19,37",De Veldslag om Norg ,2017-09-02
+463,1359,Michael  Evers,S-Heerenberg,M,4,02:23:27,03:51:06,05:09:52,"19,36",De Veldslag om Norg ,2017-09-02
+464,541,Sake Stelpstra,Dokkum,M,2,02:12:06,03:33:21,05:10:05,"19,35",De Veldslag om Norg ,2017-09-02
+465,1148,Ronald Meier,Paterswolde,M,4,02:27:26,03:59:08,05:10:26,"19,33",De Veldslag om Norg ,2017-09-02
+466,627,Hendrik Oosting,Leeuwarden,M,2,02:20:58,03:45:59,05:10:37,"19,32",De Veldslag om Norg ,2017-09-02
+467,1340,"Herman Jong, De",Leek,M,4,02:21:37,03:46:17,05:10:49,"19,30",De Veldslag om Norg ,2017-09-02
+468,881,"Jan Velde, Van Der",Oosterwolde,M,3,02:19:00,03:47:34,05:10:52,"19,30",De Veldslag om Norg ,2017-09-02
+469,1247,Elisabeth Postma,Fiifhuzen,V,4,02:23:25,03:50:58,05:10:54,"19,30",De Veldslag om Norg ,2017-09-02
+470,1291,Gerard  Tiben,Ter Apel,M,4,02:19:28,03:51:12,05:10:55,"19,30",De Veldslag om Norg ,2017-09-02
+471,1285,Oscar Többen,Valthermond,M,4,02:18:43,03:51:13,05:10:55,"19,30",De Veldslag om Norg ,2017-09-02
+472,504,Ronald Wieringa,Assen,M,2,02:19:17,03:42:45,05:11:11,"19,28",De Veldslag om Norg ,2017-09-02
+473,1068,"G. Hove, Ten",Schoonebeek,M,3,02:18:51,03:41:38,05:11:18,"19,27",De Veldslag om Norg ,2017-09-02
+474,1097,Max Jorritsma,Leek,M,3,02:24:05,03:51:28,05:11:28,"19,26",De Veldslag om Norg ,2017-09-02
+475,811,Peter Dijkstra,Meerstad,M,3,02:19:41,03:43:27,05:11:36,"19,26",De Veldslag om Norg ,2017-09-02
+476,925,"Ico Slooten, Van",Assen,M,3,02:21:20,03:51:35,05:11:40,"19,25",De Veldslag om Norg ,2017-09-02
+477,947,Rolf Weerts,Noordwijk,M,3,02:21:03,03:44:54,05:11:54,"19,24",De Veldslag om Norg ,2017-09-02
+478,1185,Patrick Koskamp,Dinxperlo,M,4,02:21:52,03:51:43,05:12:34,"19,20",De Veldslag om Norg ,2017-09-02
+479,623,Jantinus Haaijer,De Groeve,M,2,02:21:22,03:48:17,05:12:35,"19,20",De Veldslag om Norg ,2017-09-02
+480,1190,Anjo Grakist,Roden,M,4,02:35:26,04:00:09,05:12:35,"19,20",De Veldslag om Norg ,2017-09-02
+481,537,Marcel Scholtens,Noordlaren,M,2,02:20:35,03:48:18,05:12:36,"19,19",De Veldslag om Norg ,2017-09-02
+482,439,Aschwin Kraeima,Beilen,M,2,02:16:55,03:40:12,05:12:40,"19,19",De Veldslag om Norg ,2017-09-02
+483,518,A. Pit,Oldemarkt,M,2,02:20:07,03:41:39,05:12:41,"19,19",De Veldslag om Norg ,2017-09-02
+484,907,Jack Van Der Velde,Noordwijk,M,3,02:11:16,03:38:34,05:12:54,"19,18",De Veldslag om Norg ,2017-09-02
+485,1059,Nicolaas Bruidegom,Meppel,M,3,02:22:29,03:46:32,05:13:02,"19,17",De Veldslag om Norg ,2017-09-02
+486,712,Jan Leiting,Tynaarlo,M,3,02:23:44,03:50:32,05:13:09,"19,16",De Veldslag om Norg ,2017-09-02
+487,713,Jan Venekamp,Vries,M,3,02:23:58,03:50:32,05:13:09,"19,16",De Veldslag om Norg ,2017-09-02
+488,858,Daniel Bosma,Drachten,M,3,02:26:51,03:50:27,05:13:19,"19,15",De Veldslag om Norg ,2017-09-02
+489,1127,Peter Schultinga,Zuidhorn,M,4,02:08:49,04:02:02,05:13:41,"19,13",De Veldslag om Norg ,2017-09-02
+490,787,"Bart Nes, Van",Peize,M,3,02:26:53,03:49:19,05:13:44,"19,12",De Veldslag om Norg ,2017-09-02
+491,1415,Vincent Meijer,Hengelo,M,4,02:19:37,03:46:24,05:14:04,"19,11",De Veldslag om Norg ,2017-09-02
+492,1195,Robbert Robbertsen,Zeist,M,4,02:19:46,03:46:25,05:14:04,"19,11",De Veldslag om Norg ,2017-09-02
+493,1167,Harmen Boelens,Emmen,M,4,02:19:49,03:50:24,05:14:24,"19,08",De Veldslag om Norg ,2017-09-02
+494,1165,Sape Braaksma,Oosterhesselen,M,4,02:19:48,03:50:25,05:14:24,"19,08",De Veldslag om Norg ,2017-09-02
+495,791,Anna Hendrikse,Assen,V,3,02:21:50,03:44:29,05:14:47,"19,06",De Veldslag om Norg ,2017-09-02
+496,765,R. Hoekstra,Assen,M,3,02:18:55,03:50:34,05:14:49,"19,06",De Veldslag om Norg ,2017-09-02
+497,801,"Peter Kampen, Van",Echten,M,3,02:33:06,03:58:22,05:14:58,"19,05",De Veldslag om Norg ,2017-09-02
+498,1056,John Van Kampen,Lemelerveld,M,3,02:32:59,03:58:22,05:14:58,"19,05",De Veldslag om Norg ,2017-09-02
+499,428,Patrick Boerkamp,Haarle,M,2,02:38:46,04:00:42,05:15:14,"19,03",De Veldslag om Norg ,2017-09-02
+500,1096,Eddy Kuiper,Tolbert,M,3,02:23:59,03:51:28,05:15:28,"19,02",De Veldslag om Norg ,2017-09-02
+501,1144,Bennie Meertens,Muntendam,M,4,02:22:19,03:46:36,05:15:53,"18,99",De Veldslag om Norg ,2017-09-02
+502,1365,Hendrik Hartlief,Norg,M,4,02:18:40,03:45:20,05:16:40,"18,95",De Veldslag om Norg ,2017-09-02
+503,1134,Rob Struik,Nijverdal,M,4,02:26:14,03:56:44,05:16:47,"18,94",De Veldslag om Norg ,2017-09-02
+504,1129,"Martijn Huffelen, Van",Nijverdal,M,4,02:26:15,03:56:44,05:16:50,"18,94",De Veldslag om Norg ,2017-09-02
+505,691,Andre Tammes,Muntendam,M,2,02:16:51,03:46:21,05:16:59,"18,93",De Veldslag om Norg ,2017-09-02
+506,561,Jaap Meijering,Roden,M,2,02:26:01,03:49:57,05:16:59,"18,93",De Veldslag om Norg ,2017-09-02
+507,1278,"Johan Beijeren, Van",Veendam,M,4,02:16:57,03:46:24,05:17:01,"18,93",De Veldslag om Norg ,2017-09-02
+508,1031,"Marijke Dijk, Van",Groningen,V,3,02:27:28,03:58:07,05:17:07,"18,92",De Veldslag om Norg ,2017-09-02
+509,1052,Gijs Kwak,Winterswijk,M,3,02:26:13,03:52:19,05:17:10,"18,92",De Veldslag om Norg ,2017-09-02
+510,1058,Henk  Fuite,Ureterp,M,3,02:26:27,03:52:21,05:17:11,"18,92",De Veldslag om Norg ,2017-09-02
+511,1403,"Pieter Vries, De",Sneek,M,4,02:26:50,03:55:50,05:17:29,"18,90",De Veldslag om Norg ,2017-09-02
+512,1252,Robert Oosterga,Assen,M,4,02:20:44,03:49:21,05:18:15,"18,85",De Veldslag om Norg ,2017-09-02
+513,340,Jeroen Snijders,Yde,M,2,02:27:15,03:47:43,05:18:20,"18,85",De Veldslag om Norg ,2017-09-02
+514,546,Andre Scheepstra,Yde,M,2,02:27:22,03:47:54,05:18:33,"18,84",De Veldslag om Norg ,2017-09-02
+515,1065,A.S. Riedstra,Haren,M,3,02:24:45,03:59:20,05:19:13,"18,80",De Veldslag om Norg ,2017-09-02
+516,430,"Alex Jong, De",Heemskerk,M,2,02:23:58,03:46:47,05:19:16,"18,79",De Veldslag om Norg ,2017-09-02
+517,812,Gerard Touw,Sint Pancras,M,3,02:23:55,03:46:48,05:19:16,"18,79",De Veldslag om Norg ,2017-09-02
+518,745,Mark Eijer,Oosterwolde,M,3,02:29:29,03:55:36,05:19:16,"18,79",De Veldslag om Norg ,2017-09-02
+519,545,Monique Voogt,Heiloo,V,2,02:27:00,03:52:47,05:19:17,"18,79",De Veldslag om Norg ,2017-09-02
+520,944,Martijn Leemhuis,Emmen,M,3,02:25:30,03:58:26,05:20:05,"18,75",De Veldslag om Norg ,2017-09-02
+521,1398,"Danny  Vliet, Van",Emmen,M,4,02:25:29,03:58:27,05:20:06,"18,75",De Veldslag om Norg ,2017-09-02
+522,620,Richard Tuinstra,Haulerwijk,M,2,02:23:30,03:49:08,05:20:25,"18,73",De Veldslag om Norg ,2017-09-02
+523,619,Danny Moltmaker,Veenhuizen,M,2,02:23:32,03:49:09,05:20:26,"18,73",De Veldslag om Norg ,2017-09-02
+524,618,Martijn Christerus,Oosterwolde,M,2,02:23:28,03:49:07,05:20:26,"18,72",De Veldslag om Norg ,2017-09-02
+525,327,Metske Kloppenburg,Sebaldeburen,M,2,02:26:34,03:49:37,05:20:32,"18,72",De Veldslag om Norg ,2017-09-02
+526,1044,Fred Daalhuizen,Utrecht,M,3,02:33:44,04:03:55,05:20:34,"18,72",De Veldslag om Norg ,2017-09-02
+527,1043,Marco Van Zuilen,Nieuwegein,M,3,02:33:51,04:03:55,05:20:37,"18,71",De Veldslag om Norg ,2017-09-02
+528,936,Yoeri Goorden,Diepenheim,M,3,02:35:17,04:02:40,05:20:43,"18,71",De Veldslag om Norg ,2017-09-02
+529,457,J. Brink,Norg,M,2,02:32:22,03:54:58,05:20:57,"18,70",De Veldslag om Norg ,2017-09-02
+530,604,Henk Weggemans,Tolbert,M,2,02:26:55,03:49:11,05:21:02,"18,69",De Veldslag om Norg ,2017-09-02
+531,955,"P. Winter, De",Noordwolde,M,3,02:28:08,04:01:44,05:21:10,"18,68",De Veldslag om Norg ,2017-09-02
+532,977,Joost Molenaar,Oosterstreek,M,3,02:28:16,04:01:46,05:21:11,"18,68",De Veldslag om Norg ,2017-09-02
+533,1147,Paul Meulman,Drachten,M,4,02:19:09,03:51:51,05:21:19,"18,67",De Veldslag om Norg ,2017-09-02
+534,987,Klaas Johannes Boonstra,Drachten,M,3,02:26:18,03:55:56,05:21:36,"18,66",De Veldslag om Norg ,2017-09-02
+535,994,Sjoerd Paulus,Ureterp,M,3,02:26:10,03:56:02,05:21:38,"18,65",De Veldslag om Norg ,2017-09-02
+536,609,Ernst-Jan Bakker,Roden,M,2,02:25:36,03:45:49,05:21:52,"18,64",De Veldslag om Norg ,2017-09-02
+537,598,"Rick Graaf, Van Der",Zevenhuizen Gn,M,2,02:22:46,03:45:57,05:22:00,"18,63",De Veldslag om Norg ,2017-09-02
+538,829,Jan Jans,Norg,M,3,02:24:20,03:51:57,05:22:17,"18,62",De Veldslag om Norg ,2017-09-02
+539,674,"Jaco Bosch, Van Den",Roderwolde,M,2,02:28:08,03:52:16,05:22:36,"18,60",De Veldslag om Norg ,2017-09-02
+540,1270,Marcel  Guns,Hoogezand,M,4,02:25:34,03:58:04,05:22:44,"18,59",De Veldslag om Norg ,2017-09-02
+541,660,Pieter Lenstra,Tjalleberd,M,2,02:29:12,04:04:26,05:23:31,"18,55",De Veldslag om Norg ,2017-09-02
+542,1119,Pieter Lubbert,Haren,M,4,02:24:28,03:59:23,05:23:40,"18,54",De Veldslag om Norg ,2017-09-02
+543,1133,"Wim Groeningen, Van",Hippolytushoef,M,4,02:18:31,03:47:48,05:23:58,"18,52",De Veldslag om Norg ,2017-09-02
+544,1312,Ronald Brugmans,De Bilt,M,4,02:26:56,04:03:39,05:24:55,"18,47",De Veldslag om Norg ,2017-09-02
+545,725,Kees Kreeft,Oude-Tonge,M,3,02:22:59,03:54:27,05:25:13,"18,45",De Veldslag om Norg ,2017-09-02
+546,735,"Marcel Heide, Van Der",Dirksland,M,3,02:22:13,03:54:29,05:25:13,"18,45",De Veldslag om Norg ,2017-09-02
+547,552,Cor Klevering,Roden,M,2,02:32:30,03:55:50,05:25:17,"18,45",De Veldslag om Norg ,2017-09-02
+548,1009,Erik Lubben,Nieuwe Pekela,M,3,02:25:38,04:02:39,05:25:32,"18,43",De Veldslag om Norg ,2017-09-02
+549,968,Edward Maris,Assen,M,3,02:27:13,04:01:42,05:25:43,"18,42",De Veldslag om Norg ,2017-09-02
+550,1192,Nicojan Dijkman,Roden,M,4,02:19:12,03:51:17,05:25:58,"18,41",De Veldslag om Norg ,2017-09-02
+551,849,Ben Groot,Hoorn,M,3,02:28:56,03:59:22,05:26:03,"18,40",De Veldslag om Norg ,2017-09-02
+552,1390,Gerard Sijpkens,Roden,M,4,02:27:03,03:59:46,05:26:15,"18,39",De Veldslag om Norg ,2017-09-02
+553,828,Jannes Aalders,Zevenhuizen,M,3,02:29:55,03:59:35,05:26:18,"18,39",De Veldslag om Norg ,2017-09-02
+554,1076,Albert Pater,Nieuw-Roden,M,3,02:30:10,03:59:37,05:26:19,"18,39",De Veldslag om Norg ,2017-09-02
+555,379,Mello Ruzius,Peize,M,2,02:28:57,03:46:17,05:26:26,"18,38",De Veldslag om Norg ,2017-09-02
+556,675,Jeroen Dries,Borger,M,2,02:25:00,03:55:31,05:26:37,"18,37",De Veldslag om Norg ,2017-09-02
+557,1061,Jan Kuiper,Lieveren,M,3,02:30:24,03:59:51,05:26:45,"18,36",De Veldslag om Norg ,2017-09-02
+558,750,Bert Moltmaker,Veenhuizen,M,3,02:25:48,03:55:15,05:26:46,"18,36",De Veldslag om Norg ,2017-09-02
+559,1042,Arjan Gritter,Stiens,M,3,02:22:40,03:57:41,05:26:54,"18,35",De Veldslag om Norg ,2017-09-02
+560,887,Paul Gritter,Roden,M,3,02:22:32,03:57:46,05:26:56,"18,35",De Veldslag om Norg ,2017-09-02
+561,1179,SP Dijkstra,Buitenpost,M,4,02:30:12,04:03:57,05:27:27,"18,32",De Veldslag om Norg ,2017-09-02
+562,1159,FD Postma,Buitenpost,M,4,02:30:13,04:03:53,05:27:28,"18,32",De Veldslag om Norg ,2017-09-02
+563,417,Jan Huizing,Norg,M,2,02:18:12,03:53:30,05:27:59,"18,29",De Veldslag om Norg ,2017-09-02
+564,314,Koen Helder,Groningen,M,2,02:16:10,03:37:33,05:28:31,"18,26",De Veldslag om Norg ,2017-09-02
+565,940,Erik Klooster,Assen,M,3,02:27:18,03:58:46,05:28:44,"18,25",De Veldslag om Norg ,2017-09-02
+566,690,Matthijs Kaspers,Drouwen,M,2,02:27:21,03:55:33,05:28:45,"18,25",De Veldslag om Norg ,2017-09-02
+567,562,"Ben  Ewijk, Van",Emmeloord,M,2,02:27:18,03:57:07,05:29:02,"18,24",De Veldslag om Norg ,2017-09-02
+568,800,Bas Prins,Westerbork,M,3,02:31:55,04:04:38,05:29:11,"18,23",De Veldslag om Norg ,2017-09-02
+569,520,Bert Everts,Assen,M,2,02:31:48,04:04:40,05:29:12,"18,23",De Veldslag om Norg ,2017-09-02
+570,1251,Adriaan Hollander,Klazienaveen,M,4,02:28:26,04:01:42,05:29:15,"18,22",De Veldslag om Norg ,2017-09-02
+571,1080,Jacco Poorte,Leeuwarden,M,3,02:28:00,04:03:33,05:29:15,"18,22",De Veldslag om Norg ,2017-09-02
+572,1081,E. Hoekstra,Leeuwarden,M,3,02:28:03,04:03:32,05:29:16,"18,22",De Veldslag om Norg ,2017-09-02
+573,1033,Willem Dolfing,Bovensmilde,M,3,02:31:53,04:04:43,05:29:16,"18,22",De Veldslag om Norg ,2017-09-02
+574,1079,Peter Liezenga,Leeuwarden,M,3,02:27:58,04:03:32,05:29:16,"18,22",De Veldslag om Norg ,2017-09-02
+575,1107,Piet Alkema,Hoogezand,M,4,02:24:12,04:01:29,05:29:23,"18,22",De Veldslag om Norg ,2017-09-02
+576,856,"Gerrit Velde, Van Der",Roden,M,3,02:30:58,03:59:44,05:29:34,"18,21",De Veldslag om Norg ,2017-09-02
+577,1354,"Walter Graaf, De",Barneveld,M,4,02:31:27,04:03:36,05:30:32,"18,15",De Veldslag om Norg ,2017-09-02
+578,621,Ronald Gomarus,Vries,M,2,02:26:28,03:56:08,05:30:40,"18,15",De Veldslag om Norg ,2017-09-02
+579,639,Gerard Koops,Assen,M,2,02:30:58,03:56:19,05:30:52,"18,13",De Veldslag om Norg ,2017-09-02
+580,1125,Gijsbert Raadgever,Amersfoort,M,4,02:35:55,04:04:32,05:31:34,"18,10",De Veldslag om Norg ,2017-09-02
+581,362,Tinus Geuzinge,Assen,M,2,02:37:16,04:03:31,05:31:38,"18,09",De Veldslag om Norg ,2017-09-02
+582,1124,Joost Hanny,West-Knollendam,M,4,02:35:55,04:04:39,05:31:41,"18,09",De Veldslag om Norg ,2017-09-02
+583,901,Rob Zwarts,Ureterp,M,3,02:37:41,04:05:29,05:33:19,"18,00",De Veldslag om Norg ,2017-09-02
+584,996,Mark Kok,Niebert,M,3,02:37:53,04:05:31,05:33:22,"18,00",De Veldslag om Norg ,2017-09-02
+585,1371,"Hans Brug, Van",Abcoude,M,4,02:26:51,04:01:20,05:33:47,"17,98",De Veldslag om Norg ,2017-09-02
+586,1078,Henk Van Der Laan,Groningen,M,3,02:37:51,04:08:24,05:34:05,"17,96",De Veldslag om Norg ,2017-09-02
+587,401,Henk Huitink,Bredevoort,M,2,02:41:56,04:13:20,05:34:10,"17,96",De Veldslag om Norg ,2017-09-02
+588,499,Johnny Piek,Aalten,M,2,02:41:52,04:13:21,05:34:10,"17,96",De Veldslag om Norg ,2017-09-02
+589,503,Tommy Hamelink,Scheveningen,M,2,02:33:40,04:07:23,05:34:36,"17,93",De Veldslag om Norg ,2017-09-02
+590,498,"Jolanda Dongen, Van",Middelharnis,V,2,02:33:39,04:05:00,05:35:39,"17,88",De Veldslag om Norg ,2017-09-02
+591,669,Justin Prinsen,Sommelsdijk,M,2,02:34:12,04:04:49,05:35:39,"17,88",De Veldslag om Norg ,2017-09-02
+592,1069,Ronnie Schuringa,Bedum,M,3,02:34:17,04:09:57,05:35:44,"17,87",De Veldslag om Norg ,2017-09-02
+593,670,Ebo Nieboer,Norg,M,2,02:27:59,03:55:38,05:35:56,"17,86",De Veldslag om Norg ,2017-09-02
+594,1087,Matthijs Barendse,Paterswolde,M,3,02:34:04,04:15:41,05:36:00,"17,86",De Veldslag om Norg ,2017-09-02
+595,477,John Veninga,Norg,M,2,02:28:05,03:51:16,05:36:00,"17,86",De Veldslag om Norg ,2017-09-02
+596,1086,John Smid,Eelde,M,3,02:34:36,04:16:01,05:36:01,"17,86",De Veldslag om Norg ,2017-09-02
+597,1399,Vincent Zwerink,Emmen,M,4,02:25:34,03:58:29,05:36:16,"17,84",De Veldslag om Norg ,2017-09-02
+598,1095,"Maarten Ijcken, Van",Assen,M,3,02:35:36,04:05:11,05:36:36,"17,83",De Veldslag om Norg ,2017-09-02
+599,1352,Frans Hollman,Gieten,M,4,02:34:36,04:05:10,05:36:36,"17,83",De Veldslag om Norg ,2017-09-02
+600,1384,Bart  Lenstra,Heerenveen,M,4,02:28:30,04:05:06,05:36:45,"17,82",De Veldslag om Norg ,2017-09-02
+601,1008,Richard Hulshof,Assen,M,3,02:25:21,04:02:41,05:36:50,"17,81",De Veldslag om Norg ,2017-09-02
+602,816,Jeroen Decossaux,Doorn,M,3,02:33:19,04:16:41,05:36:55,"17,81",De Veldslag om Norg ,2017-09-02
+603,814,Wybren Buijs,Wittelte,M,3,02:36:43,04:16:30,05:36:57,"17,81",De Veldslag om Norg ,2017-09-02
+604,792,"P. Veen, Van Der",Nieuw Roden,M,3,02:30:22,04:04:50,05:36:58,"17,81",De Veldslag om Norg ,2017-09-02
+605,363,Gert Verseput,Bennebroek,M,2,02:31:08,04:06:41,05:37:07,"17,80",De Veldslag om Norg ,2017-09-02
+606,420,"Jeroen Hulst, Van Der",Leiderdorp,M,2,02:31:50,04:06:43,05:37:08,"17,80",De Veldslag om Norg ,2017-09-02
+607,853,Erik Prins,Groningen,M,3,02:26:16,03:57:10,05:37:27,"17,78",De Veldslag om Norg ,2017-09-02
+608,448,"Klaas Heide, Van Der",Norg,M,2,02:29:06,04:04:28,05:37:36,"17,77",De Veldslag om Norg ,2017-09-02
+609,1299,"Klaas Wolde, Van",Stadskanaal,M,4,02:32:24,04:13:03,05:37:57,"17,75",De Veldslag om Norg ,2017-09-02
+610,1349,Andrew Rosser,Haren,M,4,02:35:48,04:06:51,05:38:37,"17,72",De Veldslag om Norg ,2017-09-02
+611,1350,Ard Louis,Haren,M,4,02:35:50,04:06:53,05:38:37,"17,72",De Veldslag om Norg ,2017-09-02
+612,1000,Freek Hebing,Barneveld,M,3,02:40:35,04:12:32,05:39:29,"17,67",De Veldslag om Norg ,2017-09-02
+613,1003,Wouter Burgerhart,Barneveld,M,3,02:40:29,04:12:38,05:39:30,"17,67",De Veldslag om Norg ,2017-09-02
+614,1004,"Gijsbert Beek, Van",Barneveld,M,3,02:40:37,04:12:36,05:39:30,"17,67",De Veldslag om Norg ,2017-09-02
+615,771,Peter Maarse,Noordbergum,M,3,02:34:14,04:10:00,05:39:57,"17,65",De Veldslag om Norg ,2017-09-02
+616,1115,"Edward Haan, De",Assen,M,4,02:30:47,04:05:49,05:40:50,"17,60",De Veldslag om Norg ,2017-09-02
+617,523,Erik Neelen,Eelde,M,2,02:28:12,04:06:49,05:41:50,"17,55",De Veldslag om Norg ,2017-09-02
+618,615,"Rinze Heide, Van Der",Roden,M,2,02:28:58,04:04:34,05:42:14,"17,53",De Veldslag om Norg ,2017-09-02
+619,521,E. Jongsma,Elsloo,M,2,02:23:04,04:07:43,05:42:14,"17,53",De Veldslag om Norg ,2017-09-02
+620,742,Henk Hofstede,Nijverdal,M,3,02:29:27,04:04:56,05:42:15,"17,53",De Veldslag om Norg ,2017-09-02
+621,1376,Arjan Wormmeester,Peest,M,4,02:27:37,04:05:06,05:43:10,"17,48",De Veldslag om Norg ,2017-09-02
+622,353,Bart Naaijer,Assen,M,2,02:45:53,04:19:29,05:43:26,"17,47",De Veldslag om Norg ,2017-09-02
+623,505,"Marcel Bruin, De",Nieuw Roden,M,2,02:46:06,04:19:29,05:43:27,"17,47",De Veldslag om Norg ,2017-09-02
+624,1361,Nick  Smit,Haren,M,4,02:15:45,03:52:58,05:43:35,"17,46",De Veldslag om Norg ,2017-09-02
+625,935,Anke Vreeman,Assen,V,3,02:35:34,04:10:28,05:44:08,"17,44",De Veldslag om Norg ,2017-09-02
+626,799,"Angelien Wal, Van Der",Assen,V,3,02:35:33,04:10:29,05:44:08,"17,44",De Veldslag om Norg ,2017-09-02
+627,1257,Jelmer Boetje,Zuidlaren,M,4,02:29:13,04:06:23,05:45:55,"17,35",De Veldslag om Norg ,2017-09-02
+628,1055,"Stefan Jong, De",Langezwaag,M,3,02:33:34,04:09:28,05:45:58,"17,34",De Veldslag om Norg ,2017-09-02
+629,572,Jan Meijer,Wijnjewoude,M,2,02:33:33,04:09:30,05:45:58,"17,34",De Veldslag om Norg ,2017-09-02
+630,360,"René Zonneveld, Van",Roden,M,2,02:35:59,04:11:22,05:46:16,"17,33",De Veldslag om Norg ,2017-09-02
+631,710,Sander Benjamins,Assen,M,3,02:43:30,04:14:06,05:47:07,"17,29",De Veldslag om Norg ,2017-09-02
+632,803,Christopher Zwier,Peize,M,3,02:37:52,04:15:01,05:47:25,"17,27",De Veldslag om Norg ,2017-09-02
+633,767,"Beja Linde- Batstra, Van Der",Assen,V,3,02:35:04,04:14:41,05:47:33,"17,26",De Veldslag om Norg ,2017-09-02
+634,851,Renaldo Soetevent,Assen,M,3,02:35:10,04:14:42,05:47:37,"17,26",De Veldslag om Norg ,2017-09-02
+635,769,"Ernst Linde, Van Der",Assen,M,3,02:35:07,04:14:40,05:49:22,"17,17",De Veldslag om Norg ,2017-09-02
+636,758,Willem Eefting,Zuidlaren,M,3,02:38:30,04:16:03,05:49:43,"17,16",De Veldslag om Norg ,2017-09-02
+637,949,Allard Smit,Groningen,M,3,02:43:35,04:16:36,05:50:12,"17,13",De Veldslag om Norg ,2017-09-02
+638,865,René Boonstra,Middelburg,M,3,02:30:16,04:15:29,05:50:53,"17,10",De Veldslag om Norg ,2017-09-02
+639,530,Harm Geert Arends,Norg,M,2,02:23:15,04:23:11,05:51:30,"17,07",De Veldslag om Norg ,2017-09-02
+640,815,Saskia Snip,Wittelte,V,3,02:36:39,04:16:29,05:52:55,"17,00",De Veldslag om Norg ,2017-09-02
+641,657,Michel Westerveld,Roden,M,2,02:35:14,04:18:09,05:53:00,"17,00",De Veldslag om Norg ,2017-09-02
+642,583,Stefan Poutsma,Peize,M,2,02:47:37,04:24:54,05:57:18,"16,79",De Veldslag om Norg ,2017-09-02
+643,641,Ivo Bleeker,Groningen,M,2,02:40:55,04:16:04,05:57:29,"16,78",De Veldslag om Norg ,2017-09-02
+644,352,Rick Ridder,Roden,M,2,02:19:09,04:19:55,06:00:35,"16,64",De Veldslag om Norg ,2017-09-02
+645,694,"Harry Boer, De",Groningen,M,2,02:40:55,04:25:23,06:00:47,"16,63",De Veldslag om Norg ,2017-09-02
+646,845,Haico Duin,Groningen,M,3,02:35:57,04:15:12,06:01:40,"16,59",De Veldslag om Norg ,2017-09-02
+647,456,Henk Boelens,Norg,M,2,02:42:10,04:24:11,06:03:20,"16,51",De Veldslag om Norg ,2017-09-02
+648,392,Herman Kuiper,Wildervank,M,2,02:36:15,04:13:15,06:03:52,"16,49",De Veldslag om Norg ,2017-09-02
+649,589,Henk Duin,Hoornsterzwaag,M,2,02:45:26,04:24:37,06:11:03,"16,17",De Veldslag om Norg ,2017-09-02
+650,512,"Tonny Jong, De",Zuidlaren,M,2,02:59:52,04:36:52,06:16:45,"15,93",De Veldslag om Norg ,2017-09-02
