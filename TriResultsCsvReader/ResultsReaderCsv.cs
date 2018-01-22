@@ -62,8 +62,14 @@ namespace TriResultsCsvReader
             {
                 var csvReaderConfig = new Configuration() { HeaderValidated = null, MissingFieldFound = null, SanitizeForInjection = true, TrimOptions = TrimOptions.Trim };
                 var csvReader = new CsvReader(sr, csvReaderConfig);
-                records = csvReader.GetRecords<ResultRow>().ToList();
-
+                try
+                {
+                    records = csvReader.GetRecords<ResultRow>().ToList();
+                } catch(Exception ex)
+                {
+                    Console.WriteLine("Error reading csv file: {0}: {1}", csvFilename, ex.Message);
+                    throw;
+                }
                 if (filter != null)
                 {
                     var compiledFilter = filter.Compile();

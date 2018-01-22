@@ -4,6 +4,7 @@
     <name>Pos</name>
     <mapfrom>
       <altname>Plts</altname>
+      <altname>Pl</altname>
     </mapfrom>
   </column>
   <column>
@@ -11,6 +12,7 @@
     <mapfrom>
       <altname>StNr</altname>
       <altname>RaceNr</altname>
+      <altname>#Bib</altname>
     </mapfrom>
   </column>
   <column>
@@ -52,6 +54,8 @@
     <name>Swim</name>
     <mapfrom>
       <altname>Zwem</altname>
+      <altname>Zwemmen</altname>
+      <altname>ZwemTijd</altname>
     </mapfrom>
   </column>
   <column>
@@ -64,6 +68,7 @@
       <altname>#Zw</altname>
       <altname>#Swim</altname>
       <altname>#Sw</altname>
+      <altname>#S</altname>
     </mapfrom>
   </column>
   <column>
@@ -94,6 +99,8 @@
     <name>Bike</name>
     <mapfrom>
       <altname>Fiets</altname>
+      <altname>Fietsen</altname>
+      <altname>FietsTijd</altname>
     </mapfrom>
   </column>
   <column>
@@ -106,6 +113,7 @@
       <altname>#Fie</altname>
       <altname>#Bike</altname>
       <altname>#Bk</altname>
+      <altname>#B</altname>
     </mapfrom>
   </column>
   <column>
@@ -127,6 +135,7 @@
       <altname>#NaF</altname>
       <altname>#NaFie</altname>
       <altname>#AftBk</altname>
+      <altname>#aftB</altname>
     </mapfrom>
   </column>
   <column>
@@ -157,6 +166,8 @@
     <name>Run</name>
     <mapfrom>
       <altname>Loop</altname>
+      <altname>Lopen</altname>
+      <altname>LoopTijd</altname>
     </mapfrom>
   </column>
   <column>
@@ -234,6 +245,8 @@
       <altname>NETTO</altname>
       <altname>Netto</altname>
       <altname>NettoTijd</altname>
+      <altname>FinishTijd</altname>
+      <altname>Finish</altname>
     </mapfrom>
   </column>
   <column>

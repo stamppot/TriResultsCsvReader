@@ -22,7 +22,7 @@ namespace TriResultsCsvReader.PipelineSteps
 
             foreach (var race in races)
             {
-                htmlBuilder.AppendLine(string.Format(@"<div class=""h3""><span class=""racename"">{0}</span><span class=""racedate"">{1}</span> </div>", race.Name, race.Date.ToString("dd-MMM-yyyy")));
+                htmlBuilder.AppendLine(string.Format(@"<div class=""h3""><span class=""racename"">{0}</span>  <span class=""racedate"">{1}</span> </div>", race.Name, race.Date.ToString("dd-MMM-yyyy")));
 
                 htmlBuilder.AppendLine("<table>");
 
@@ -34,10 +34,11 @@ namespace TriResultsCsvReader.PipelineSteps
                     //var properties = column.GetType().GetProperties();
                     //foreach (var prop in properties)
                     //{
-                    var isNotEmptyColumn = race.Results.Any(r => null != r.GetPropertyValue(column.Name));
-                    showColumns[column.Name] = isNotEmptyColumn;
+                    var isNotEmptyColumn = race.Results.Any(r => { var val = r.GetPropertyValue(column.Name); return ((val is String) && !string.IsNullOrEmpty((String)val) || (!(val is String) && val != null)); });
+                    if(!showColumns.ContainsKey(column.Name))
+                        showColumns[column.Name] = isNotEmptyColumn;
 
-                    if(isNotEmptyColumn) {
+                    if(isNotEmptyColumn && showColumns[column.Name]) {
                         htmlBuilder.Append(string.Format("<th>{0}</th>", column.Name));
                     }
                 }
