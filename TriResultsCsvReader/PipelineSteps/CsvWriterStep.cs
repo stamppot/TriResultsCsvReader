@@ -21,7 +21,7 @@ namespace TriResultsCsvReader
                 var raceDate = firstResult.RaceDate;
                 var raceName = firstResult.Race;
 
-                var destPath = step.OutputFile;
+                var destPath = step.OutputFolder;
                 var resultRows = step.RaceData.Results;
                 var raceType = step.RaceData.RaceType;
 
@@ -50,8 +50,8 @@ namespace TriResultsCsvReader
 
             var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
 
-            var filename = String.Format("{0}_{1}_{2}.csv", raceDate.ToString("yyyy-MM-dd"), raceType, raceName.Replace(" ", "_");
-            var destFile = Path.Combine(destFolder, filename);
+            var filename = String.Format("{0}_{1}_{2}.csv", raceDate.ToString("yyyy-MM-dd"), raceType, raceName.Replace(" ", "_"));
+            var destFile = Path.Combine(destFolder, FixDestFilename(filename));
             Console.WriteLine("destFile: " + destFile);
 
             using (TextWriter writer = new StreamWriter(destFile))
@@ -60,6 +60,11 @@ namespace TriResultsCsvReader
 
                 csvWriter.WriteRecords<ResultRow>(rows);
             }
+        }
+
+        protected string FixDestFilename(string filename)
+        {
+            return filename.Replace(" ", "_").Replace(":", "_").Replace("/", "_").Replace("\\", "");
         }
 
     }

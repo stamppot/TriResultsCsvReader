@@ -43,7 +43,7 @@
 
         private bool HasSwimData(ResultRow result)
         {
-            return !string.IsNullOrEmpty(result.Swim) || result.PosSwim.HasValue;
+            return !string.IsNullOrWhiteSpace(result.Swim) || result.PosSwim.HasValue;
         }
 
         private bool HasBikeData(ResultRow result)

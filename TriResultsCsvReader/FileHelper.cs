@@ -10,7 +10,7 @@ namespace TriResultsCsvReader
 {
     public class FileHelper
     {
-        public static string CreateDestFilePath(string destFolder, DateTime raceDate, string outputFilename)
+        public static string CreateDestFilePath(string destFolder, DateTime raceDate, string outputFilename, string extension = "csv")
         {
             var dir = new DirectoryInfo(destFolder);
             if (!Directory.Exists(dir.FullName))
@@ -21,7 +21,7 @@ namespace TriResultsCsvReader
 
             var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
 
-            var filename = String.Format("{0}_{1}.csv", raceDate.ToString("yyyy-MM-dd"), outputFilename);
+            var filename = String.Format("{0}_{1}.{2}", raceDate.ToString("yyyy-MM-dd"), outputFilename, extension);
             var destFile = Path.Combine(destFolder, filename);
 
             return destFile;

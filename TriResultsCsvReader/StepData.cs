@@ -21,7 +21,7 @@ namespace TriResultsCsvReader
 
         public List<string> OutputOptions { get; set; }
         
-        public string OutputFile { get; set; }
+        public string OutputFolder { get; set; }
 
         public Expression<Func<ResultRow, bool>> Filter { get; set; }
 

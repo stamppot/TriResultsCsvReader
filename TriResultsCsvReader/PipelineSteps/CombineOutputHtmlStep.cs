@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TriResultsCsvReader.PipelineSteps
 {
@@ -13,7 +12,7 @@ namespace TriResultsCsvReader.PipelineSteps
     {
         public string Process(string destFolder, string outputFilename, IEnumerable<Column> columns, IEnumerable<Race> races)
         {
-            var destFullPath = FileHelper.CreateDestFilePath(destFolder, DateTime.Now, outputFilename);
+            var destFullPath = FileHelper.CreateDestFilePath(destFolder, DateTime.Now, outputFilename, "html");
 
             var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
             Console.WriteLine("destFile: " + destFullPath);
@@ -23,11 +22,11 @@ namespace TriResultsCsvReader.PipelineSteps
 
             foreach (var race in races)
             {
-                htmlBuilder.AppendLine(string.Format(@"<div class=""h3""><span class=""racename"">{0}</span><span class=""racedate"">{0}</span> </div>", race.Name, race.Date.ToString("dd-MMM-yyyy")));
+                htmlBuilder.AppendLine(string.Format(@"<div class=""h3""><span class=""racename"">{0}</span><span class=""racedate"">{1}</span> </div>", race.Name, race.Date.ToString("dd-MMM-yyyy")));
 
                 htmlBuilder.AppendLine("<table>");
 
-                var showColumns = new Dictionary<string, bool>();
+                var showColumns = new Dictionary<string, bool>() { { "Race", false }, { "RaceDate", false } };
 
                 htmlBuilder.AppendLine("<tr>");
                 foreach (var column in columns) // headers
@@ -36,7 +35,7 @@ namespace TriResultsCsvReader.PipelineSteps
                     //foreach (var prop in properties)
                     //{
                     var isNotEmptyColumn = race.Results.Any(r => null != r.GetPropertyValue(column.Name));
-                    showColumns.Add(column.Name, isNotEmptyColumn);
+                    showColumns[column.Name] = isNotEmptyColumn;
 
                     if(isNotEmptyColumn) {
                         htmlBuilder.Append(string.Format("<th>{0}</th>", column.Name));
@@ -77,6 +76,7 @@ namespace TriResultsCsvReader.PipelineSteps
                 Console.WriteLine(string.Format("Skip columns: {0}", String.Join(", ", skippedColumnsStr)));
             }
 
+            File.WriteAllText(destFullPath, htmlBuilder.ToString());
             return htmlBuilder.ToString();
         }
     }

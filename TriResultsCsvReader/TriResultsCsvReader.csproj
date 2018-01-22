@@ -72,6 +72,7 @@
     <Compile Include="Exceptions\BadConfigurationException.cs" />
     <Compile Include="PipelineSteps\CombineOutputCsvStep.cs" />
     <Compile Include="PipelineSteps\CombineOutputHtmlStep.cs" />
+    <Compile Include="PipelineSteps\FilterStep.cs" />
     <Compile Include="PipelineSteps\IPipelineStep.cs" />
     <Compile Include="IWhitelistFilter.cs" />
     <Compile Include="MemberReaderCsv.cs" />

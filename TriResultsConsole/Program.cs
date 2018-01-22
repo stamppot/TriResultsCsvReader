@@ -31,6 +31,11 @@ namespace TriResultsConsole
 
                 if (string.IsNullOrEmpty(options.MemberFile)) { Console.WriteLine("Member file not given, cannot filter results."); }
 
+                if(null == options.InputFile)
+                {
+                    Console.WriteLine("No input folder given, using 'uitslagen'");
+                    options.InputFile = "uitslagen";
+                }
                 var inputFiles = GetAllFiles(options.InputFile);
 
                 if (!inputFiles.Any()) { Console.WriteLine("No input file or folder given, will do nothing."); }
@@ -38,7 +43,7 @@ namespace TriResultsConsole
                 if (options.Verbose) { Console.WriteLine("Files to process:\n"); inputFiles.ForEach(file => Console.WriteLine(file)); }
 
 
-                var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile);
+                var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml");
 
                 Expression<Func<ResultRow, bool>> filterExp = null;
                 if (string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords))
@@ -53,7 +58,7 @@ namespace TriResultsConsole
                 if (!string.IsNullOrEmpty(options.MemberFile) && !ExistsFile(options.MemberFile)) { var errorMessage = $"Member file for filtering not found: {options.MemberFile}"; Console.WriteLine(errorMessage); throw new FileNotFoundException(errorMessage); }
                 else
                 {
-                    var members = new MemberReaderCsv().Read(options.MemberFile);
+                    var members = new MemberReaderCsv().Read(options.MemberFile ?? "../../leden2017.csv");
                     var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
                     filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
                 }
@@ -85,11 +90,14 @@ namespace TriResultsConsole
 
                 var resultsReaderCsv = new ResultsReaderCsv(configFile, (str => Console.WriteLine(str)));
 
-                var outputDir = string.IsNullOrEmpty(options.OutputFolder) ? "output/" : options.OutputFolder + "/";
-                Console.WriteLine("Output dir: " + outputDir);
-                if (!Directory.Exists(outputDir))
+                if(string.IsNullOrEmpty(options.OutputFolder))
                 {
-                    Directory.CreateDirectory(outputDir);
+                    Console.WriteLine("No output folder given, using 'output'");
+                    options.OutputFolder = "output/";
+                }
+                if (!Directory.Exists(options.OutputFolder))
+                {
+                    Directory.CreateDirectory(options.OutputFolder);
                 }
 
                 
@@ -109,13 +117,15 @@ namespace TriResultsConsole
                     }
                     
 
-                    var stepData = new StepData {InputFile = filePath, ColumnConfigFile = options.ConfigFile, OutputOptions = new List<string> { "csv" } };
+                    var stepData = new StepData {InputFile = filePath,
+                        Filter = filterExp,
+                        ColumnConfigFile = options.ConfigFile, OutputOptions = new List<string> { "csv" } };
 
                     var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
                     
                     var nextStep = readAndFilterStep.Process(stepData);
 
-                    if(nextStep.RaceData != null)
+                    if(nextStep.RaceData.Results.Any())
                         filteredRaces.Add(nextStep);
                 }
  
@@ -127,7 +137,7 @@ namespace TriResultsConsole
                 foreach (var race in filteredRaces)
                 {
                     Console.WriteLine("outputfile: " + race.RaceData.ToFilename());
-                    race.OutputFile = Path.Combine(options.InputFile, options.OutputFolder, race.RaceData.ToFilename());
+                    race.OutputFolder = Path.Combine(options.InputFile, options.OutputFolder);
                     writeStep.Process(race);
                 }
 
@@ -137,8 +147,8 @@ namespace TriResultsConsole
                 var htmlOutputStep = new CombineOutputHtmlStep();
                 var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
 
-                var outputfile = string.Format("{0}_uitslagen.html", DateTime.Now.ToString("yyyyMMddhhmm"));
-                htmlOutputStep.Process("output", outputfile, columns, filteredRaces.Select(f => f.RaceData).ToList());
+                var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
+                var output = htmlOutputStep.Process("output", outputfile, columns, filteredRaces.Select(f => f.RaceData).ToList());
             }
         }
 
