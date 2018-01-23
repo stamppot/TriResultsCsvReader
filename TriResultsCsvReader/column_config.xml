@@ -61,12 +61,12 @@
   <column>
     <name>PosSwim</name>
     <mapfrom>
+      <altname>#Swim</altname>
       <altname>PltsZwem</altname>
       <altname>PltsZw</altname>
       <altname>#Zwem</altname>
       <altname>#Z</altname>
       <altname>#Zw</altname>
-      <altname>#Swim</altname>
       <altname>#Sw</altname>
       <altname>#S</altname>
     </mapfrom>
@@ -81,15 +81,17 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosT1</name>
+    <name>#T1</name>
     <mapfrom>
+      <altname>PosT1</altname>
       <altname>#W1</altname>
       <altname>PosWis1</altname>
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterT1</name>
+    <name>#AfterT1</name>
     <mapfrom>
+      <altname>PosAfterT1</altname>
       <altname>#NaW1</altname>
       <altname>PosNaWis1</altname>
       <!--<altname>AftChg1</altname>-->
@@ -106,12 +108,12 @@
   <column>
     <name>PosBike</name>
     <mapfrom>
+      <altname>#Bike</altname>
       <altname>PltsFiets</altname>
       <altname>PltsFie</altname>
       <altname>#Fiets</altname>
       <altname>#F</altname>
       <altname>#Fie</altname>
-      <altname>#Bike</altname>
       <altname>#Bk</altname>
       <altname>#B</altname>
     </mapfrom>
@@ -127,8 +129,9 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterBike</name>
+    <name>#AfterBike</name>
     <mapfrom>
+      <altname>PosAfterBike</altname>
       <altname>PltsNaFiets</altname>
       <altname>PltsNaFie</altname>
       <altname>#NaFiets</altname>
@@ -148,15 +151,17 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosT2</name>
+    <name>#T2</name>
     <mapfrom>
+      <altname>PosT2</altname>
       <altname>#W2</altname>
       <altname>PosWis2</altname>
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterT2</name>
+    <name>#AfterT2</name>
     <mapfrom>
+      <altname>PosAfterT2</altname>
       <altname>#NaW2</altname>
       <altname>PosNaWis2</altname>
       <!--<altname>AftChg2</altname>-->
@@ -173,11 +178,12 @@
   <column>
     <name>PosRun</name>
     <mapfrom>
+      <altname>#Run</altname>
       <altname>PltsLoop</altname>
       <altname>PltsRun</altname>
       <altname>#Loop</altname>
       <altname>#L</altname>
-      <altname>#Run</altname>
+      <altname>#R</altname>
     </mapfrom>
   </column>
   <!-- RBR -->

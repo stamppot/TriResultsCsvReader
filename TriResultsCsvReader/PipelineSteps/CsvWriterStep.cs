@@ -25,7 +25,7 @@ namespace TriResultsCsvReader
                 var resultRows = step.RaceData.Results;
                 var raceType = step.RaceData.RaceType;
 
-                if(raceName == "")
+                if(string.IsNullOrEmpty(raceName))
                 {
                     throw new Exception("no racename: " + step.FullPath);
                 }

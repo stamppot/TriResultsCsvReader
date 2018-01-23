@@ -2,6 +2,101 @@
 {
     public class RaceTypeGuesser
     {
+        public string GetRaceDistance(string name)
+        {
+            var str = name.ToLower();
+
+            if(str.Contains("achtste") || str.Contains("acht") || str.Contains("8e") || str.Contains("8ste") || str.Contains("1/8"))
+            {
+                return "Achtste";
+            }
+            if (str.Contains("sprint") )
+            {
+                return "Sprint";
+            }
+            if (str.Contains("kwart") || str.Contains("1/4"))
+            {
+                return "Kwart";
+            }
+
+            if (name.Contains("OD") || str.Contains("olymp"))
+            {
+                return "OD";
+            }
+
+            if (name.Contains("MD") || name.Contains("Mid") || str.Contains("halve") || str.Contains("half"))
+            {
+                return "Half";
+            }
+
+            if (name.Contains("LD") || str.Contains("full") || str.Contains("long"))
+            {
+                return "Long";
+            }
+            
+            // run
+            if (str.Contains("42k") || str.Contains("marathon") || str.Contains("42"))
+            {
+                return "Marathon";
+            }
+
+            if (str.Contains("21k") || str.Contains("21"))
+            {
+                return "Half Marathon";
+            }
+
+            if (str.Contains("5k"))
+            {
+                return "5km";
+            }
+            if (str.Contains("6k"))
+            {
+                return "6km";
+            }
+
+            if (str.Contains("9k"))
+            {
+                return "9km";
+            }
+
+            if (str.Contains("10k"))
+            {
+                return "10km";
+            }
+
+            if (str.Contains("12k"))
+            {
+                return "12km";
+            }
+
+            if (str.Contains("15k"))
+            {
+                return "15km";
+            }
+            if (str.Contains("16k"))
+            {
+                return "16km";
+            }
+
+            if (str.Contains("20k"))
+            {
+                return "20km";
+            }
+
+            if (str.Contains("4k"))
+            {
+                return "4km";
+            }
+
+
+            if (str.Contains("10em"))
+            {
+                return "10 Engelse Mijl";
+            }
+
+            return "";
+        }
+
         public string GetRaceType(ResultRow row)
         {
             if (row == null) return string.Empty;

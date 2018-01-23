@@ -14,6 +14,7 @@ namespace TriResultsCsvReader
 
         public string Name { get; set; }
         public DateTime Date { get; set; }
+        public string Distance { get; set; }
         public string RaceType { get; set; }
         public List<ResultRow> Results { get; set; }
 

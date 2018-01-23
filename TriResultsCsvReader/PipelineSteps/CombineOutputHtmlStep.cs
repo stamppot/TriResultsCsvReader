@@ -22,18 +22,20 @@ namespace TriResultsCsvReader.PipelineSteps
 
             foreach (var race in races)
             {
-                htmlBuilder.AppendLine(string.Format(@"<div class=""h3""><span class=""racename"">{0}</span>  <span class=""racedate"">{1}</span> </div>", race.Name, race.Date.ToString("dd-MMM-yyyy")));
+                var raceDateNumeric = race.Date.ToString("dd-MM-yyyy");
+                if (race.Name.Contains(raceDateNumeric))
+                {
+                    race.Name = race.Name.Replace(raceDateNumeric, ""); // remove what will be a double occurrence of the date
+                }
+                htmlBuilder.AppendLine(string.Format(@"<div class=""h3 race""><span class=""racename"">{0}</span>  <span class=""racedistance"">{1}</span>  <span class=""racedate"">{2}</span> </div>", race.Name, race.Distance, race.Date.ToString("dd-MMM-yyyy")));
 
-                htmlBuilder.AppendLine("<table>");
+                htmlBuilder.AppendLine(@"<table class=""raceresults"">");
 
                 var showColumns = new Dictionary<string, bool>() { { "Race", false }, { "RaceDate", false } };
 
                 htmlBuilder.AppendLine("<tr>");
                 foreach (var column in columns) // headers
                 {
-                    //var properties = column.GetType().GetProperties();
-                    //foreach (var prop in properties)
-                    //{
                     var isNotEmptyColumn = race.Results.Any(r => { var val = r.GetPropertyValue(column.Name); return ((val is String) && !string.IsNullOrEmpty((String)val) || (!(val is String) && val != null)); });
                     if(!showColumns.ContainsKey(column.Name))
                         showColumns[column.Name] = isNotEmptyColumn;

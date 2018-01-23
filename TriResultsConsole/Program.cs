@@ -146,7 +146,7 @@ namespace TriResultsConsole
 
                 var htmlOutputStep = new CombineOutputHtmlStep();
                 var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
-
+                
                 var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
                 var output = htmlOutputStep.Process("output", outputfile, columns, filteredRaces.Select(f => f.RaceData).ToList());
             }
@@ -235,7 +235,7 @@ namespace TriResultsConsole
             {
                 Console.WriteLine($"Is a folder {inputFileOrFolder}");
                 // a directory is given
-                files.AddRange(dirInfo.GetFiles("*.csv", SearchOption.AllDirectories).Select(f => f.FullName).Where(f => !f.EndsWith("_output.csv")));
+                files.AddRange(dirInfo.GetFiles("*.csv", SearchOption.TopDirectoryOnly).Select(f => f.FullName).Where(f => !f.EndsWith("_output.csv")));
             }
             else
             {

@@ -14,6 +14,7 @@ namespace TriResultsCsvReader
         private string _readerConfigXml;
         private bool _skipEmptyResults;
         private readonly IEnumerable<Column> _columns;
+        private readonly RaceTypeGuesser _raceGuesser = new RaceTypeGuesser();
 
         public StandardizeHeadersAndFilterStep(IEnumerable<Column> columns, bool skipEmptyResults = true)
         {
@@ -30,9 +31,12 @@ namespace TriResultsCsvReader
         {
             var reader = new ResultsReaderCsv(GetColumns(), WriteOutput);
 
+            // filtering happens here
             var resultRows = reader.ReadFile(step.InputFile, step.Filter).ToList();
 
+            step.RaceData.Distance = _raceGuesser.GetRaceDistance(step.InputFile);
             var raceType = SetRaceType(resultRows);
+            step.RaceData.RaceType = raceType;
 
             WriteOutput($"Read {resultRows.Count()} rows of {raceType}\n");
 
@@ -44,35 +48,32 @@ namespace TriResultsCsvReader
                 step.RaceData.RaceType = firstResult.RaceType;
                 step.RaceData.Results = resultRows;
                 WriteOutput($"From race {step.RaceData.Name}  {firstResult.Race}\n");
-
             }
 
             return step;
         }
 
-        public void StandardizeCsv(string raceName, string srcFile, string destPath, Expression<Func<ResultRow, bool>> filterExpression = null)
-        {
-            var reader = new ResultsReaderCsv(_readerConfigXml, WriteOutput);
+        //public void StandardizeCsv(string raceName, string srcFile, string destPath, Expression<Func<ResultRow, bool>> filterExpression = null)
+        //{
+        //    var reader = new ResultsReaderCsv(_readerConfigXml, WriteOutput);
 
-            var resultRows = reader.ReadFile(srcFile, filterExpression).ToList();
+        //    var resultRows = reader.ReadFile(srcFile, filterExpression).ToList();
 
-            var raceType = SetRaceType(resultRows);
+        //    var raceType = SetRaceType(resultRows);
 
-            WriteOutput($"Read {resultRows.Count()} rows of {raceType}\n");
+        //    WriteOutput($"Read {resultRows.Count()} rows of {raceType}\n");
 
-            if (_skipEmptyResults && resultRows.Any())
-            {
-                var raceDate = resultRows.First().RaceDate;
-                Write(destPath, raceDate, raceName, resultRows, raceType);
-            }
-        }
+        //    if (_skipEmptyResults && resultRows.Any())
+        //    {
+        //        var raceDate = resultRows.First().RaceDate;
+        //        Write(destPath, raceDate, raceName, resultRows, raceType);
+        //    }
+        //}
 
         public string SetRaceType(List<ResultRow> results)
         {
-            var guesser = new RaceTypeGuesser();
-
             var firstResult = results.FirstOrDefault();
-            var raceType = guesser.GetRaceType(firstResult);
+            var raceType = _raceGuesser.GetRaceType(firstResult);
 
             foreach(var result in results)
             {
@@ -82,35 +83,35 @@ namespace TriResultsCsvReader
             return raceType;
         }
 
-        [Obsolete("Is done in another step")]
-        public void Write(string destFolder, DateTime raceDate, string raceName, IEnumerable<ResultRow> rows, string raceType)
-        {
-            foreach (var row in rows)
-            {
-                if (string.IsNullOrEmpty(row.Race)) {
-                    row.Race = raceName;
-                }
-            }
+        //[Obsolete("Is done in another step")]
+        //public void Write(string destFolder, DateTime raceDate, string raceName, IEnumerable<ResultRow> rows, string raceType)
+        //{
+        //    foreach (var row in rows)
+        //    {
+        //        if (string.IsNullOrEmpty(row.Race)) {
+        //            row.Race = raceName;
+        //        }
+        //    }
 
-            var dir = new DirectoryInfo(destFolder);
-            if(!Directory.Exists(dir.FullName))
-            {
-                Console.WriteLine("Creating dir: " + dir.FullName);
-                Directory.CreateDirectory(dir.FullName);
-            }
+        //    var dir = new DirectoryInfo(destFolder);
+        //    if(!Directory.Exists(dir.FullName))
+        //    {
+        //        Console.WriteLine("Creating dir: " + dir.FullName);
+        //        Directory.CreateDirectory(dir.FullName);
+        //    }
 
-            var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
+        //    var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
 
-            var filename = String.Format("{0}_{1}_{2}.csv", raceDate.ToString("yyyy-MM-dd"), raceType, raceName); 
-            var destFile = Path.Combine(destFolder, filename);
-            Console.WriteLine("destFile: " + destFile);
+        //    var filename = String.Format("{0}_{1}_{2}.csv", raceDate.ToString("yyyy-MM-dd"), raceType, raceName); 
+        //    var destFile = Path.Combine(destFolder, filename);
+        //    Console.WriteLine("destFile: " + destFile);
 
-            using (TextWriter writer = new StreamWriter(destFile))
-            {
-                var csvWriter = new CsvWriter(writer);
+        //    using (TextWriter writer = new StreamWriter(destFile))
+        //    {
+        //        var csvWriter = new CsvWriter(writer);
 
-                csvWriter.WriteRecords<ResultRow>(rows);
-            }
-        }
+        //        csvWriter.WriteRecords<ResultRow>(rows);
+        //    }
+        //}
     }
 }

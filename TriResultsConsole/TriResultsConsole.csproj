@@ -61,6 +61,7 @@
     <None Include="uitslagen\2015-jun-7-Speedman-Groningen_kwart_M.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2015-jun-7-Speedman_3eDiv_M_OD_3.csv" />
     <None Include="uitslagen\2016-apr-16-nijmegen-Kort_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -736,9 +737,7 @@
     <None Include="uitslagen\2016-jun-29-amsterdam-5K_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2016-jun-30-Holten_ereM.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <None Include="uitslagen\2016-jun-30-Holten_ereM_OD.csv" />
     <None Include="uitslagen\2016-jun-4-almere-TotM.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -2245,34 +2244,16 @@
     <None Include="uitslagen\2017-oct-8-spijkenisse-Duo_Tus.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_NK_D.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_NK_H.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_TotD.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_TotH.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_TusD.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jeugd_TusH.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Jun_NK_D.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jun_NK_H.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Jun_TotD.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Jun_TotH.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Jun_TusD.csv">
@@ -2285,12 +2266,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Kwart_TotH.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Kwart_TusD.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2017-oct-8-spijkenisse-Kwart_TusH.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-oct-8-spijkenisse-Recr_Tot.csv">
