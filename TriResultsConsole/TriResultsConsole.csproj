@@ -55,13 +55,36 @@
     <None Include="uitslagen\2014-jun-15-Speedman-Groningen-achtste.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2014-jun-15-Speedman-Groningen-kwart.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-01-Alpe_DHuez.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-02-IronmanMaastricht_2015.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2015-jun-7-Speedman-Groningen_kwart_D.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2015-jun-7-Speedman-Groningen_kwart_M.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2015-jun-7-Speedman_3eDiv_M_OD_3.csv" />
+    <None Include="uitslagen\2015-jun-7-Speedman_3eDiv_M_OD_3.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2016-07-31-IronmanMaastricht_2016.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-aug-06-IronmanMaastricht_2017.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2016-08-07-Aabenraa_tri_2016_Achtste_D.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2016-08-07-Aabenraa_tri_2016_OD_M.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2016-apr-16-nijmegen-Kort_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -437,9 +460,6 @@
     <None Include="uitslagen\2016-jul-3-noordwijkerhout-TotKwartWeds.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2016-jul-30-Holten_achtste.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2016-jul-30-Holten_ereD.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -668,6 +688,9 @@
     <None Include="uitslagen\2016-jun-25-oud-gastel-TrioTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2016-jun-25-Zeewolde-2eDiv_H_OD.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2016-jun-25-zeewolde-8TotIND.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -737,7 +760,9 @@
     <None Include="uitslagen\2016-jun-29-amsterdam-5K_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2016-jun-30-Holten_ereM_OD.csv" />
+    <None Include="uitslagen\2016-jun-30-Holten_ereM_OD.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2016-jun-4-almere-TotM.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -1285,6 +1310,27 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2016-sep-9-almere-BBTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-jul-02-Salland-Mooiste_MTB_tocht.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-jul-02-Sallands_Mooiste_MTB.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-jul-29-Ulrum_halve_marathon.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-jul-8-Frysman-Long.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-jul-28-Alpe_DHuez_tri.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-aug-20-IronmanCopenhagen_2017.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-sep-24-Monstertijdrit_2017.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-aug-13-leiderdorp-M_Tot.csv">

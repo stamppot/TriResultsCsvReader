@@ -26,6 +26,8 @@ namespace TriResultsCsvReader
 
         public string Swim { get; set; }
 
+        public string SwimPace { get; set; }
+
         public int? PosSwim { get; set; }
 
         public string T1 { get; set; }
@@ -33,6 +35,8 @@ namespace TriResultsCsvReader
         public int? PosAfterT1 { get; set; }
 
         public string Bike { get; set; }
+
+        public string BikePace { get; set; }
 
         public int? PosBike { get; set; }
 
@@ -45,6 +49,8 @@ namespace TriResultsCsvReader
         public int? PosAfterT2 { get; set; }
 
         public string Run { get; set; }
+
+        public string RunPace { get; set; }
 
         public int? PosRun { get; set; }
 
@@ -61,6 +67,7 @@ namespace TriResultsCsvReader
 
         //<!-- end RBR -->
 
+        public string Distance { get; set; }
         /*** Team fields ***/
         public int? TeamPoints { get; set; }
 

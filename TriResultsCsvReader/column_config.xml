@@ -59,6 +59,10 @@
     </mapfrom>
   </column>
   <column>
+    <name>SwimPace</name>
+    <mapfrom>    </mapfrom>
+  </column>
+  <column>
     <name>PosSwim</name>
     <mapfrom>
       <altname>#Swim</altname>
@@ -104,6 +108,10 @@
       <altname>Fietsen</altname>
       <altname>FietsTijd</altname>
     </mapfrom>
+  </column>
+  <column>
+    <name>BikePace</name>
+    <mapfrom>    </mapfrom>
   </column>
   <column>
     <name>PosBike</name>
@@ -174,6 +182,10 @@
       <altname>Lopen</altname>
       <altname>LoopTijd</altname>
     </mapfrom>
+  </column>
+  <column>
+    <name>RunPace</name>
+    <mapfrom>    </mapfrom>
   </column>
   <column>
     <name>PosRun</name>

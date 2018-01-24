@@ -55,7 +55,7 @@ namespace TriResultsCsvReader.PipelineSteps
                         if (showColumns[column.Name])
                         {
                             var columnValue = result.GetPropertyValue(column.Name);
-                            htmlBuilder.Append(string.Format("<td>{0}</td>", columnValue));
+                            htmlBuilder.Append(string.Format(@"<td class=""{1}"">{0}</td>", columnValue, column.Name.ToLower()));
                         }
                         else
                         {
