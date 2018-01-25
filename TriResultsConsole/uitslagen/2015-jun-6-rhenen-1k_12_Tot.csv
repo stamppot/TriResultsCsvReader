@@ -1,0 +1,57 @@
+Plts,StartNr,Naam,School,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,360,Finn Jacobs,Cuneraschool,M,1,00:03:34,00:03:34,Cuneraloop ,2015-06-06
+2,364,Floor de Moel,Cuneraschool,V,1,00:03:35,00:03:35,Cuneraloop ,2015-06-06
+3,368,Ties Rijnsburger,Cuneraschool,M,2,00:03:45,00:03:43,Cuneraloop ,2015-06-06
+4,392,Lika Beumer,Montessori,V,2,00:03:53,00:03:50,Cuneraloop ,2015-06-06
+5,555,Merle Baars,Hoeven,V,3,00:03:53,00:03:52,Cuneraloop ,2015-06-06
+6,365,Kick Pallada,Cuneraschool,M,3,00:03:54,00:03:52,Cuneraloop ,2015-06-06
+7,408,Merijn Stuijt,Paradijsvogel Den Haag,M,4,00:03:58,00:03:55,Cuneraloop ,2015-06-06
+8,390,Ruben van Beek,Montessori,M,5,00:03:58,00:03:57,Cuneraloop ,2015-06-06
+9,403,Rifka de Jager,Springplank,V,4,00:04:00,00:04:00,Cuneraloop ,2015-06-06
+10,361,Xander Kragting,Cuneraschool,M,6,00:04:01,00:04:00,Cuneraloop ,2015-06-06
+11,356,Britt Fukkink,Cuneraschool,V,5,00:04:02,00:04:02,Cuneraloop ,2015-06-06
+12,352,Olivier Blommers,Cuneraschool,M,7,00:04:04,00:04:03,Cuneraloop ,2015-06-06
+13,388,Isabelle Baardman,Montessori,V,6,00:04:04,00:04:02,Cuneraloop ,2015-06-06
+14,336,Vigo Bolderman,Cunera,M,8,00:04:07,00:04:05,Cuneraloop ,2015-06-06
+15,383,Rijk Uitterhoeve,Ericaschool,M,9,00:04:11,00:04:07,Cuneraloop ,2015-06-06
+16,387,Tilia van Apeldoorn,Montessori,V,7,00:04:14,00:04:11,Cuneraloop ,2015-06-06
+17,553,Luuk Greive,Ede Gld,M,10,00:04:17,00:04:16,Cuneraloop ,2015-06-06
+18,354,Floor Dominicus,Cuneraschool,V,8,00:04:19,00:04:18,Cuneraloop ,2015-06-06
+19,357,Evelien Hoefsloot,Cuneraschool,V,9,00:04:19,00:04:18,Cuneraloop ,2015-06-06
+20,359,Hugo Huibers,Cuneraschool,M,11,00:04:21,00:04:18,Cuneraloop ,2015-06-06
+21,380,Gioya van de Burg,Ericaschool,V,10,00:04:24,00:04:21,Cuneraloop ,2015-06-06
+22,366,Bram Pinkster,Cuneraschool,M,12,00:04:28,00:04:25,Cuneraloop ,2015-06-06
+23,362,Mack Lukkien,Cuneraschool,M,13,00:04:30,00:04:26,Cuneraloop ,2015-06-06
+24,369,Dynthe Rouleau,Cuneraschool,V,11,00:04:30,00:04:29,Cuneraloop ,2015-06-06
+25,337,Karsten Smit,Cunera,M,14,00:04:32,00:04:26,Cuneraloop ,2015-06-06
+26,374,Jules Suurmond,Cuneraschool,M,15,00:04:32,00:04:32,Cuneraloop ,2015-06-06
+27,353,Marit van den Bovenkamp,Cuneraschool,V,12,00:04:33,00:04:28,Cuneraloop ,2015-06-06
+28,395,Mila Petersen,Montessori,V,13,00:04:33,00:04:29,Cuneraloop ,2015-06-06
+29,406,Vieve Smits,Springplank,V,14,00:04:35,00:04:31,Cuneraloop ,2015-06-06
+30,384,Anke Uitterhoeve,Ericaschool,V,15,00:04:35,00:04:32,Cuneraloop ,2015-06-06
+31,377,Mike Zonderland,Cuneraschool,M,16,00:04:36,00:04:34,Cuneraloop ,2015-06-06
+32,375,Jurre van der Vinne,Cuneraschool,M,17,00:04:36,00:04:32,Cuneraloop ,2015-06-06
+33,382,Bart van Grootheest,Ericaschool,M,18,00:04:36,00:04:33,Cuneraloop ,2015-06-06
+34,401,Haley Bade,Springplank,V,16,00:04:37,00:04:36,Cuneraloop ,2015-06-06
+35,350,Ruby van Beem,Cuneraschool,V,17,00:04:40,00:04:38,Cuneraloop ,2015-06-06
+36,379,Daan Bouman,Ericaschool,M,19,00:04:44,00:04:39,Cuneraloop ,2015-06-06
+37,396,Tijn de Ruiter,Montessori,M,20,00:04:44,00:04:40,Cuneraloop ,2015-06-06
+38,559,Ryan Brouwers,Ericaschool,M,21,00:04:45,00:04:42,Cuneraloop ,2015-06-06
+39,398,Tjebbe Stieltjes,Montessori,M,22,00:04:47,00:04:47,Cuneraloop ,2015-06-06
+40,389,Mila van Bavel,Montessori,V,18,00:04:53,00:04:48,Cuneraloop ,2015-06-06
+41,399,Sarah El Abbadi,Springplank,V,19,00:04:59,00:04:57,Cuneraloop ,2015-06-06
+42,372,Tara Seijkens,Cuneraschool,V,20,00:05:01,00:05:00,Cuneraloop ,2015-06-06
+43,393,Roos Kerstholt,Montessori,V,21,00:05:04,00:05:00,Cuneraloop ,2015-06-06
+44,402,Alyssa Geurtsen,Springplank,V,22,00:05:18,00:05:16,Cuneraloop ,2015-06-06
+45,566,Sterre Schrikkema,Montessori,V,23,00:05:19,00:05:10,Cuneraloop ,2015-06-06
+46,567,Merlijn Schrikkema,Montessori,M,23,00:05:19,00:05:10,Cuneraloop ,2015-06-06
+47,351,Anne van Beurden,Cuneraschool,V,24,00:05:20,00:05:15,Cuneraloop ,2015-06-06
+48,338,Raisa van Eupen,Cunera,V,25,00:05:26,00:05:24,Cuneraloop ,2015-06-06
+49,405,Linde Smits,Springplank,V,26,00:05:31,00:05:28,Cuneraloop ,2015-06-06
+50,381,Antonios Danial,Ericaschool,M,24,00:05:33,00:05:29,Cuneraloop ,2015-06-06
+51,367,Vere Pronk,Cuneraschool,V,27,00:05:34,00:05:32,Cuneraloop ,2015-06-06
+52,391,Bodey Belgraver,Montessori,M,25,00:05:58,00:05:54,Cuneraloop ,2015-06-06
+53,386,Mees Wijnen,Ericaschool,M,26,00:05:59,00:05:54,Cuneraloop ,2015-06-06
+54,355,Julia van Erven,Cuneraschool,V,28,00:06:51,00:06:51,Cuneraloop ,2015-06-06
+55,376,Bjorn de Winter,Cuneraschool,M,27,00:06:51,00:06:42,Cuneraloop ,2015-06-06
+56,574,Mats Hamers,Cunera,M,28,00:07:06,00:07:06,Cuneraloop ,2015-06-06

@@ -1,0 +1,781 @@
+Nr,Startnr,Naam,Woonplaats,Cat,PltsCat,Deel1,Deel2,NettoTijd,BrutoTijd,Gemid,AgeGrp,race,date
+1,6,Ramses Bekkenk,NIEUWVEEN,MLIC,1,02:01:24,02:03:12,04:04:35,04:04:35,31.892,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+2,2,Ronan van Zandbeek,SCHIJNDEL,MLIC,2,02:01:23,02:04:05,04:05:28,04:05:29,31.777,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+3,1,Bram Rood,Broek op Langedijk,MLIC,3,02:01:21,02:04:09,04:05:30,04:05:33,31.774,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+4,5,Stefan Vreugdenhil,NAALDWIJK,MLIC,4,02:01:25,02:04:25,04:05:50,04:05:50,31.730,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+5,191,Arthur Rutte,HAARLEM,MLIC,5,02:01:16,02:04:26,04:05:42,04:05:51,31.748,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+6,27,Sven Broekaart,JULIANADORP,MLIC,6,02:01:22,02:04:28,04:05:49,04:05:51,31.732,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+7,37,Bram Imming,Egmond Binnen,MLIC,7,02:06:03,02:03:22,04:09:25,04:09:30,31.275,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+8,31,Maarten Himpens,OOSTDUINKERKE,MLIC,8,02:06:00,02:03:39,04:09:38,04:09:43,31.246,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+9,143,Patrick Kos,ZUID SCHARWOUDE,MLIC,9,02:05:38,02:04:17,04:09:55,04:10:20,31.212,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+10,82,Frederik Decaesteker,DIKSMUIDE,MLIC,10,02:09:18,02:02:19,04:11:37,04:12:04,31.001,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+11,11,Melvin Bos,SINT PANCRAS,MLIC,11,02:06:05,02:06:11,04:12:15,04:12:15,30.922,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+12,80,Bart Classens,LINDEN,MLIC,12,02:09:30,02:02:56,04:12:25,04:12:40,30.902,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+13,34,Tino Haakman,ENKHUIZEN,MLIC,13,02:06:03,02:07:01,04:13:03,04:13:06,30.825,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+14,4,Bram de Waard,PETTEN,MLIC,14,02:06:03,02:07:20,04:13:23,04:13:24,30.785,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+15,246,Piotr Havik,BERGAMBACHT,MLIC,15,02:09:13,02:04:28,04:13:40,04:14:11,30.750,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+16,207,Cees Snoek,VOLENDAM,MLIC,16,02:09:37,02:04:26,04:14:03,04:14:12,30.703,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+17,29,Sander Lormans,HEEMSKERK,MLIC,17,02:04:20,02:09:49,04:14:08,04:14:12,30.693,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+18,35,Roy Beukers,PETTEN,MLIC,18,02:06:02,02:08:33,04:14:34,04:14:37,30.641,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+19,52,Thijs Al,HAARLEM,MLIC,19,02:06:03,02:08:44,04:14:46,04:14:53,30.617,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+20,7,Henk van Vuure,AVENHORN,MLIC,20,02:09:46,02:05:50,04:15:35,04:15:35,30.519,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+21,113,Nick Hansen,VOLENDAM,MLIC,21,02:09:35,02:07:59,04:17:34,04:17:45,30.285,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+22,40,Job de Ridder,NOORDWIJKERHOUT,MLIC,22,02:06:00,02:12:14,04:18:14,04:18:18,30.207,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+23,43,Jan Weevers,Vorden,MLIC,23,02:06:03,02:13:13,04:19:15,04:19:21,30.089,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+24,77,Leon Burger,Amsterdam,MLIC,24,02:09:18,02:10:29,04:19:47,04:20:13,30.027,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+25,112,Sjors Handgraaf,LEIDEN,MLIC,25,02:09:18,02:10:27,04:19:45,04:20:14,30.029,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+26,766,Henri Delheye,KNOKKE-HEIST,MCYC,1,02:08:37,02:10:56,04:19:32,04:20:16,30.055,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+27,8,Henry Kes,VOLENDAM,MLIC,26,02:09:46,02:11:14,04:20:59,04:20:59,29.888,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+28,70,Didier Boumans,DEN HAAG,MLIC,27,02:06:07,02:15:53,04:22:00,04:22:12,29.773,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+29,234,Pim de Waard,HEILOO,MLIC,28,02:12:23,02:09:53,04:22:15,04:22:24,29.743,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+30,211,Michel Pannekeet,ALKMAAR,MLIC,29,02:13:26,02:08:57,04:22:22,04:22:43,29.730,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+31,136,Marc Kivits,SCHIJNDEL,MLIC,30,02:09:32,02:13:10,04:22:41,04:22:53,29.694,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+32,3,Thijs Zonneveld,AMSTERDAM,MLIC,31,02:06:08,02:17:15,04:23:23,04:23:23,29.616,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+33,78,Jordy Buskermolen,KUDELSTAART,MLIC,32,02:12:00,02:11:03,04:23:02,04:23:32,29.654,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+34,200,Edwin Sierkstra,HOOGKARSPEL,MLIC,33,02:12:22,02:12:06,04:24:28,04:24:37,29.494,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+35,208,Laurens Snoek,VOLENDAM,MLIC,34,02:12:23,02:12:06,04:24:29,04:24:37,29.492,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+36,229,Jorne Videler,BADHOEVEDORP,MLIC,35,02:13:32,02:10:54,04:24:26,04:24:38,29.499,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+37,175,Jaco Paauw,RIJNSBURG,MLIC,36,02:11:57,02:12:30,04:24:26,04:25:00,29.497,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+38,157,Sven De Meydts,ZEEBRUGGE,MLIC,37,02:13:29,02:11:17,04:24:45,04:25:00,29.462,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+39,471,Ronald de Jong,ZOETERMEER,MBAS,1,02:13:46,02:11:16,04:25:01,04:25:08,29.433,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+40,625,Edwin Veerman,VOLENDAM,MBAS,2,02:13:45,02:12:38,04:26:23,04:26:38,29.282,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+41,218,Joost Tetteroo,NOORDWIJKERHOUT,MLIC,38,02:13:41,02:13:20,04:27:00,04:27:08,29.215,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+42,152,Tom Van Loon,GIERLE,MLIC,39,02:17:33,02:09:05,04:26:38,04:27:08,29.255,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+43,387,Dany Dalle,BLANKENBERGE,MBAS,3,02:15:12,02:11:38,04:26:50,04:27:09,29.233,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+44,66,Henk Bom,NAALDWIJK,MLIC,40,02:13:30,02:13:24,04:26:54,04:27:10,29.226,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+45,102,Emiel van de Geer,Jisp,MLIC,41,02:13:19,02:13:43,04:27:02,04:27:29,29.210,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+46,168,Rembert Noldes,VREDEN (D),MLIC,42,02:13:11,02:14:57,04:28:07,04:28:41,29.093,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+47,58,Edwin van Beek,HOORN,MLIC,43,02:13:44,02:15:10,04:28:53,04:28:53,29.009,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+48,223,Gerard Ursem,HOOGWOUD,MLIC,44,02:13:17,02:16:05,04:29:22,04:29:50,28.959,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+49,23,Mickel van der Burg,DEN HELDER,MLIC,45,02:12:28,02:17:28,04:29:55,04:29:58,28.898,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+50,305,Vincent Groot,HEERHUGOWAARD,MBAS,4,02:16:14,02:14:07,04:30:21,04:30:23,28.853,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+51,69,Wim Botman,AVENHORN,MLIC,46,02:05:59,02:24:19,04:30:17,04:30:24,28.859,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+52,105,Hugo Gootjes,ALKMAAR,MLIC,47,02:12:24,02:17:53,04:30:17,04:30:25,28.860,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+53,57,Niels Bakker,DEN BURG,MLIC,48,02:18:00,02:12:15,04:30:14,04:30:29,28.865,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+54,13,Hidde Bos,HAARLEM,MLIC,49,02:06:04,02:24:21,04:30:25,04:30:30,28.846,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+55,214,Jorn Teer,ASSENDELFT,MLIC,50,02:12:21,02:18:00,04:30:21,04:30:31,28.852,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+56,660,Robert Werkhoven,ANDIJK,MBAS,5,02:14:54,02:15:29,04:30:23,04:30:32,28.848,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+57,15,Sjoerd Brandt,MONNICKENDAM,MLIC,51,02:16:33,02:13:59,04:30:31,04:30:33,28.834,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+58,56,Raymond Bakker,DEN HELDER,MLIC,52,02:16:22,02:13:52,04:30:14,04:30:34,28.865,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+59,417,Leen Fokker,BERGEN NH,MBAS,6,02:16:09,02:14:22,04:30:30,04:30:36,28.837,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+60,242,Remy Zaagman,HAARLEM,MLIC,53,02:17:46,02:12:25,04:30:11,04:30:37,28.871,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+61,169,Pascal Noort,Amsterdam,MLIC,54,02:11:02,02:19:23,04:30:24,04:30:41,28.846,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+62,73,Harm Bronkhorst,VOORHOUT,MLIC,55,02:16:34,02:14:06,04:30:39,04:30:48,28.821,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+63,215,Stefan Teeuwen,DE ZILK,MLIC,56,02:16:29,02:14:08,04:30:36,04:30:49,28.826,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+64,21,Rober Stroet,WERVERSHOOF,MLIC,57,02:16:36,02:14:12,04:30:47,04:30:50,28.806,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+65,96,Jos van Dorp,WIERINGERWAARD,MLIC,58,02:16:26,02:14:15,04:30:40,04:30:54,28.818,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+66,18,Elwin van der Niet,Warmond,MLIC,59,02:18:05,02:12:44,04:30:49,04:30:58,28.803,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+67,111,Leander Hamelink,TERNEUZEN,MLIC,60,02:17:45,02:12:47,04:30:31,04:31:02,28.835,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+68,118,Caspar Hermans,AMSTERDAM,MLIC,61,02:16:30,02:14:39,04:31:09,04:31:19,28.768,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+69,19,Alexander Hagemann,PURMEREND,MLIC,62,02:16:38,02:14:52,04:31:30,04:31:32,28.730,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+70,971,Ed Scholte,DEN HELDER,MCYC,2,02:15:21,02:14:06,04:29:26,04:32:09,28.950,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+71,912,Willem Mulder,ANNA PAULOWNA,MCYC,3,02:15:19,02:14:06,04:29:25,04:32:09,28.952,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+72,123,Patrick IJpelaan,ALKMAAR,MLIC,63,02:14:10,02:18:05,04:32:14,04:32:38,28.654,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+73,33,Jurgen Vanden Bon,OOSTENDE,MLIC,64,02:21:42,02:11:01,04:32:43,04:32:48,28.602,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+74,245,Frank Timmermans,OOSTKAMP,MLIC,65,02:16:15,02:16:06,04:32:21,04:32:48,28.641,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+75,150,Milan Levecke,OOSTENDE,MLIC,66,02:16:08,02:16:08,04:32:15,04:32:49,28.650,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+76,424,Joost van Giesen,NAALDWIJK,MBAS,7,02:18:45,02:14:03,04:32:47,04:32:53,28.594,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+77,513,Anne van Leeuwen,RHEDEN,MBAS,8,02:18:42,02:13:57,04:32:38,04:32:54,28.610,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+78,25,Bas Rijs,ALKMAAR,MLIC,67,02:18:11,02:14:55,04:33:05,04:33:09,28.563,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+79,204,Ton Slippens,SCHAGEN,MLIC,68,02:17:59,02:14:55,04:32:53,04:33:10,28.584,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+80,626,John Veerman,VOLENDAM,MBAS,9,02:15:04,02:18:15,04:33:19,04:33:26,28.540,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+81,190,Michael Ruska,VOLENDAM,MLIC,69,02:18:18,02:15:21,04:33:39,04:33:50,28.504,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+82,28,Kees Kwakman,VOLENDAM,MLIC,70,02:18:10,02:15:35,04:33:45,04:33:50,28.495,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+83,342,Marcel van Beek,EGMOND AAN ZEE,MBAS,10,02:19:39,02:13:17,04:32:56,04:34:01,28.580,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+84,176,Kees Pameijer,DEN HAAG,MLIC,71,02:16:06,02:18:12,04:34:17,04:34:50,28.439,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+85,124,Toon Imming,Egmond Binnen,MLIC,72,02:06:00,02:28:45,04:34:44,04:34:54,28.391,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+86,544,Arjan van der Niet,Katwijk,MBAS,11,02:18:02,02:16:12,04:34:14,04:35:04,28.445,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+87,55,Bjrn Bakker,WIJNJEWOUDE,MLIC,73,02:16:27,02:18:32,04:34:58,04:35:06,28.368,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+88,36,Sem Huitema,OUDKARSPEL,MLIC,74,02:16:37,02:18:41,04:35:18,04:35:21,28.334,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+89,121,Paul Hoogenboom,ROELOFARENDSVEEN,MLIC,75,02:18:29,02:16:25,04:34:53,04:35:22,28.376,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+90,206,Leo Sluijs,NOORDWIJK ZH,MLIC,76,02:16:27,02:18:43,04:35:10,04:35:23,28.348,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+91,553,Johan Olsthoorn,DEN HAAG,MBAS,12,02:16:14,02:19:06,04:35:20,04:35:26,28.330,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+92,568,Peter Res,UTRECHT,MBAS,13,02:18:38,02:16:34,04:35:11,04:35:28,28.345,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+93,506,Dennis Kulk,Noordwijk,MBAS,14,02:18:26,02:16:58,04:35:24,04:35:54,28.323,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+94,457,Remko van Hove,ALKMAAR,MBAS,15,02:18:30,02:17:02,04:35:32,04:35:56,28.310,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+95,668,Cees Zentveld,CASTRICUM,MBAS,16,02:20:22,02:15:10,04:35:31,04:35:56,28.311,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+96,446,Marcel Hink,HEILOO,MBAS,17,02:18:47,02:17:02,04:35:48,04:35:58,28.282,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+97,651,Bas Vriend,SCHAGERBRUG,MBAS,18,02:18:47,02:17:07,04:35:53,04:36:01,28.273,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+98,237,Bart Van De Water,KASTERLEE,MLIC,77,02:19:04,02:16:51,04:35:54,04:36:24,28.271,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+99,314,Martijn van de Kamp,NOORDWIJK,MBAS,19,02:18:52,02:18:07,04:36:59,04:37:02,28.162,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+100,81,Carlos Cuvelier,Zwanenburg,MLIC,78,02:13:31,02:23:29,04:37:00,04:37:13,28.160,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+101,68,Niels Jeroen Bos,DEN BURG,MLIC,79,02:20:29,02:16:35,04:37:04,04:37:22,28.153,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+102,219,Gertjan Tolhoek,ASSENDELFT,MLIC,80,02:20:44,02:16:28,04:37:11,04:37:28,28.141,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+103,193,Robbert Schaap,VOORBURG,MLIC,81,02:17:42,02:19:20,04:37:02,04:37:32,28.157,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+104,83,Juul van Loon,CUIJK,MLIC,82,02:16:27,02:21:08,04:37:34,04:37:49,28.102,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+105,171,Duncan Oudshoorn,VELSERBROEK,MLIC,83,02:16:19,02:21:18,04:37:37,04:37:57,28.098,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+106,79,Jeroen Buter,LIMMEN,MLIC,84,02:18:56,02:18:47,04:37:42,04:37:58,28.089,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+107,313,John van den Ende,Naaldwijk,MBAS,20,02:15:24,02:22:39,04:38:02,04:38:06,28.055,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+108,181,Filip Recour,HOUTHULST,MLIC,85,02:16:17,02:21:34,04:37:51,04:38:17,28.074,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+109,120,Aad Honders,MOSTER,MLIC,86,02:26:08,02:12:13,04:38:20,04:38:27,28.024,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+110,375,Hidde Brugman,CASTRICUM,MBAS,21,02:20:12,02:17:51,04:38:02,04:38:31,28.055,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+111,128,Theo Joosten,SPAARNDAM,MLIC,87,02:20:49,02:17:28,04:38:16,04:38:31,28.031,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+112,889,Lars Lindemann,HAVIXBECK (D),MCYC,4,02:17:04,02:21:48,04:38:52,04:38:59,27.972,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+113,220,Michel Toonen,LISSE,MLIC,88,02:20:37,02:18:04,04:38:41,04:39:02,27.990,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+114,247,Sjoerd Kouwenhoven,HONSELERSDIJK,MLIC,89,02:24:19,02:14:34,04:38:52,04:39:02,27.972,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+115,308,Tom Bakkum,LIMMEN,MBAS,22,02:16:17,02:22:48,04:39:05,04:39:07,27.950,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+116,761,JOHAN DESCHEPPER,OOSTENDE,MCYC,5,02:17:48,02:21:13,04:39:01,04:39:17,27.956,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+117,24,Michiel Duim,ALKMAAR,MLIC,90,02:20:58,02:18:34,04:39:32,04:39:38,27.904,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+118,304,Dennis Komen,SCHAGEN,MBAS,23,02:18:57,02:20:45,04:39:41,04:39:43,27.889,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+119,428,Rob Grift,HOUTEN,MBAS,24,02:21:02,02:18:30,04:39:31,04:39:45,27.906,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+120,12,Dick Teeling,SCHAGEN,MLIC,91,02:16:42,02:23:08,04:39:49,04:39:52,27.875,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+121,174,Rutger Overstegen,DEN HAAG,MLIC,92,02:21:31,02:18:11,04:39:42,04:40:01,27.888,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+122,550,Maarten Nota,ANDIJK,MBAS,25,02:15:11,02:24:46,04:39:56,04:40:14,27.864,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+123,816,Ben van Haastrecht,ROELOFARENDSVEEN,MCYC,6,02:19:16,02:20:45,04:40:00,04:40:15,27.858,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+124,960,Bryan Ryelandt,KNOKKE-HEIST,MCYC,7,02:22:55,02:16:59,04:39:53,04:40:45,27.870,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+125,955,Kurt Roels,MALDEGEM,MCYC,8,02:22:26,02:16:59,04:39:25,04:40:46,27.916,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+126,154,Christian de Meijer,PHILIPPINE,MLIC,93,02:13:23,02:27:09,04:40:32,04:40:56,27.806,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+127,170,Rik Opsomer,OOSTENDE,MLIC,94,02:20:25,02:20:00,04:40:24,04:41:01,27.818,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+128,367,Don Brandjes,UITGEEST,MBAS,26,02:22:37,02:18:24,04:41:01,04:41:12,27.758,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+129,802,Dave Geurts,TUITJENHORN,MCYC,9,02:19:32,02:20:39,04:40:11,04:41:20,27.840,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+130,233,Aart van Vuure,AvenHORN,MLIC,95,02:13:23,02:27:50,04:41:13,04:41:34,27.738,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+131,41,Chris Kool,EGMOND-BINNEN,MLIC,96,02:20:53,02:20:35,04:41:27,04:41:36,27.714,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+132,203,Sjer Slijkerman,ANNA PAULOWNA,MLIC,97,02:21:31,02:19:44,04:41:14,04:41:37,27.735,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+133,361,Bart Boonacker,DEN HOORN,MBAS,27,02:20:29,02:20:56,04:41:25,04:41:40,27.718,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+134,26,Ramon Heistek,WARMENHUIZEN,MLIC,98,02:20:56,02:20:59,04:41:54,04:41:58,27.670,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+135,20,Nico Vlaming,ANNA PAULOWNA,MLIC,99,02:18:13,02:23:47,04:41:59,04:42:01,27.663,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+136,386,Renzo Cruiming,DEN HELDER,MBAS,28,02:24:06,02:17:25,04:41:30,04:42:03,27.709,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+137,791,Edwin van Emmerik,ROELOFARENDSVEEN,MCYC,10,02:18:59,02:23:06,04:42:05,04:42:11,27.653,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+138,641,Ben Visser,HEERHUGOWAARD,MBAS,29,02:23:45,02:18:00,04:41:44,04:42:15,27.686,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+139,612,Arjan Tetteroo,NOORDWIJKERHOUT,MBAS,30,02:20:34,02:21:36,04:42:09,04:42:15,27.646,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+140,541,Peter van Niekerk,PURMEREND,MBAS,31,02:18:07,02:23:30,04:41:36,04:42:21,27.699,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+141,510,Hugo van der Lans,Naaldwijk,MBAS,32,02:24:08,02:18:21,04:42:28,04:42:36,27.615,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+142,873,Rico Kuiper,HEILOO,MCYC,11,02:19:28,02:21:41,04:41:08,04:42:44,27.745,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+143,445,Fred Heijn,JISP,MBAS,33,02:16:10,02:26:45,04:42:54,04:43:04,27.573,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+144,396,Alexander Diekema,BEVERWIJK,MBAS,34,02:18:19,02:24:11,04:42:30,04:43:05,27.612,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+145,432,Robert-Jan van Haagen,Roelofarendsveen,MBAS,35,02:20:11,02:22:33,04:42:43,04:43:16,27.590,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+146,307,Sander van Stralen,BROEK OP LANGEDIJK,MBAS,36,02:20:42,02:22:49,04:43:31,04:43:34,27.513,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+147,142,Pascal De Kort,BEERSE,MLIC,100,02:17:46,02:25:43,04:43:29,04:43:59,27.516,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+148,141,Jacco van Kooten,BREEZAND,MLIC,101,02:19:42,02:24:35,04:44:16,04:44:31,27.440,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+149,201,Roel Simoons,EGMOND AAN ZEE,MLIC,102,02:24:14,02:20:09,04:44:22,04:44:32,27.430,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+150,594,Wouter Sloog,LIMMEN,MBAS,37,02:23:07,02:21:00,04:44:07,04:45:14,27.454,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+151,72,Robert van den Brink,BIDDINGHUIZEN,MLIC,103,02:19:01,02:26:06,04:45:07,04:45:18,27.359,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+152,706,Rob van Andel,ROELOFARENDSVEEN,MCYC,12,02:24:45,02:20:29,04:45:13,04:45:24,27.348,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+153,635,Arjan Verhage,GOEDEREEDE,MBAS,38,02:23:24,02:20:51,04:44:15,04:45:25,27.441,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+154,1001,Erwin Vanderschaeghe,KNOKKE-HEIST,MCYC,13,02:23:26,02:20:39,04:44:04,04:45:27,27.459,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+155,624,Dick Veerman,VOLENDAM,MBAS,39,02:18:21,02:26:58,04:45:19,04:45:36,27.340,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+156,777,Niklas Domberg,HAVIXBECK (D),MCYC,14,02:18:53,02:26:39,04:45:31,04:45:44,27.320,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+157,343,Tijs van Beek,HEILOO,MBAS,40,02:23:42,02:21:49,04:45:31,04:46:04,27.320,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+158,758,Marc Stouten,VOORHOUT,MCYC,15,02:17:51,02:28:09,04:46:00,04:46:14,27.273,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+159,225,Martijn van Vechgel,HOORN,MLIC,104,02:21:14,02:25:20,04:46:34,04:46:38,27.220,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+160,633,Mark Verbeek,MONSTER,MBAS,41,02:23:48,02:22:01,04:45:48,04:46:39,27.292,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+161,357,Marcel Boerrigter,BERGEN,MBAS,42,02:23:58,02:21:35,04:45:32,04:46:43,27.318,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+162,595,David Sloog,CASTRICUM,MBAS,43,02:23:34,02:21:48,04:45:21,04:46:47,27.336,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+163,456,Marco Houdijk,ANNA PAULOWNA,MBAS,44,02:20:43,02:25:31,04:46:13,04:46:48,27.252,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+164,45,Henk Bos,DRACHTEN,MLIC,105,02:20:38,02:26:11,04:46:48,04:46:55,27.197,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+165,90,Rikkie Dijkhuizen,SCHEVENINGEN,MLIC,106,02:17:49,02:28:55,04:46:44,04:47:07,27.203,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+166,418,Simon Gaarthuis,Alkmaar,MBAS,45,02:23:04,02:22:55,04:45:58,04:47:10,27.276,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+167,532,Peter van der Meulen,NOORDWIJK,MBAS,46,02:22:15,02:24:26,04:46:41,04:47:11,27.209,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+168,439,Willy Heeneman,DEN HAAG,MBAS,47,02:15:59,02:31:00,04:46:58,04:47:20,27.182,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+169,14,Theo Tetteroo,NOORDWIJKERHOUT,MLIC,107,02:13:43,02:33:33,04:47:16,04:47:22,27.153,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+170,384,Hans Chialastri,Beverwijk,MBAS,48,02:20:17,02:26:59,04:47:15,04:47:39,27.155,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+171,315,Marcel den Haan,NAALDWIJK,MBAS,49,02:20:39,02:26:59,04:47:37,04:47:41,27.120,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+172,85,John Deschilder,LO-RENINGE,MLIC,108,02:20:41,02:26:41,04:47:21,04:47:52,27.145,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+173,720,Johan van den Beemd,SINT WILLEBRORD,MCYC,16,02:22:32,02:25:16,04:47:47,04:48:02,27.104,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+174,243,Franck Zandvliet,VOORSCHOTEN,MLIC,109,02:24:05,02:23:47,04:47:52,04:48:14,27.096,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+175,67,Davey Bonamie,BEERNEM,MLIC,110,02:20:45,02:27:05,04:47:50,04:48:17,27.101,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+176,1066,Charlie Leidel,SCHWABACH,MCYC,17,02:23:01,02:24:24,04:47:24,04:48:26,27.141,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+177,42,Rob Deijle,UITGEEST,MLIC,111,02:26:10,02:22:11,04:48:21,04:48:28,27.051,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+178,100,Ferdi Frijters,BERKEL-ENSCHOT,MLIC,112,02:18:40,02:29:39,04:48:18,04:48:51,27.055,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+179,91,Jos Dohle,WASSENAAR,MLIC,113,02:21:29,02:26:58,04:48:26,04:48:56,27.044,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+180,647,Ron van der Voort,Naaldwijk,MBAS,50,02:23:32,02:24:05,04:47:37,04:49:00,27.120,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+181,303,Andre Uitterdijk,BOVENKARSPEL,MBAS,51,02:32:12,02:17:01,04:49:13,04:49:13,26.971,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+182,1015,Maurits Vermeij,ALKMAAR,MCYC,18,02:23:30,02:23:47,04:47:17,04:49:17,27.152,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+183,188,Teun van Rossum,KORTENHOEF,MLIC,114,02:26:10,02:22:54,04:49:04,04:49:18,26.985,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+184,805,Kollin Goetynck,MALDEGEM,MCYC,19,02:23:40,02:24:38,04:48:17,04:49:27,27.058,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+185,569,Michel Revet,GOUDA,MBAS,52,02:25:07,02:23:37,04:48:44,04:50:17,27.015,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+186,476,Bart Kalshoven,CASTRICUM,MBAS,53,02:22:09,02:27:50,04:49:59,04:50:18,26.899,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+187,509,Jan Langeveld,CASTRICUM,MBAS,54,02:22:42,02:27:17,04:49:58,04:50:19,26.900,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+188,395,Leon Detiger,SCHOORL,MBAS,55,02:24:37,02:25:32,04:50:09,04:50:27,26.883,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+189,338,Ron Band,NIEUWEGEIN,MBAS,56,02:22:46,02:27:26,04:50:12,04:50:27,26.879,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+190,460,Martin Huisman,UITGEEST,MBAS,57,02:25:36,02:24:37,04:50:13,04:50:32,26.877,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+191,1034,Erwin de Vries,HEEMSKERK,MCYC,20,02:25:58,02:23:18,04:49:15,04:50:49,26.967,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+192,516,Peter Potter,HEERHUGOWAARD,MBAS,58,02:25:32,02:24:56,04:50:28,04:50:50,26.854,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+193,75,Collin Bruul,HIPPOLYTUSHOEF,MLIC,115,02:20:41,02:29:57,04:50:38,04:50:58,26.839,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+194,240,Peter Woestenberg,ST. WILLEBRORD,MLIC,116,02:34:05,02:16:30,04:50:34,04:51:01,26.845,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+195,84,Barend Derriks,HEERHUGOWAARD,MLIC,117,02:24:03,02:26:54,04:50:56,04:51:22,26.811,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+196,62,Arie Blaauboer,ANNA PAULOWNA,MLIC,118,02:28:24,02:22:53,04:51:16,04:51:28,26.780,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+197,127,Job Janssen,AMSTERDAM,MLIC,119,02:20:47,02:30:31,04:51:18,04:51:31,26.777,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+198,99,Pieter van der Eijk,Swifterbant,MLIC,120,02:27:00,02:24:06,04:51:05,04:51:45,26.797,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+199,504,Bart Kuipers,HEILOO,MBAS,59,02:28:25,02:23:26,04:51:50,04:52:05,26.728,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+200,51,Ron Aardenburg,Heemskerk,MLIC,121,02:26:24,02:25:23,04:51:46,04:52:12,26.734,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+201,39,Arno Vos,HEERHUGOWAARD,MLIC,122,02:26:07,02:25:59,04:52:06,04:52:13,26.704,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+202,226,Nico Verbruggen,BREEZAND,MLIC,123,02:26:02,02:26:02,04:52:03,04:52:18,26.708,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+203,63,Barry Markus,HOOFDDORP,MLIC,124,02:24:16,02:28:23,04:52:39,04:52:52,26.654,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+204,221,Vincent Tuls,SCHOONHOVEN,MLIC,125,02:22:09,02:30:15,04:52:24,04:52:53,26.677,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+205,187,Jan Wouter Roos,STAD AAN 'T HARINGVLIET,MLIC,126,02:25:40,02:27:10,04:52:50,04:53:02,26.637,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+206,1024,Matthieu Visser,ROELOFARENDSVEEN,MCYC,21,02:25:27,02:27:46,04:53:12,04:53:20,26.603,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+207,340,Maurice Barendse,Naaldwijk,MBAS,60,02:26:49,02:26:34,04:53:22,04:53:30,26.588,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+208,902,Ron Meeuwissen,ROELOFARENDSVEEN,MCYC,22,02:25:57,02:27:33,04:53:30,04:53:37,26.577,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+209,533,Mario Modder,ANNA PAULOWNA,MBAS,61,02:28:38,02:24:28,04:53:06,04:53:46,26.613,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+210,320,George Baars,MIDWOUD,MBAS,62,02:24:19,02:29:30,04:53:49,04:53:54,26.547,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+211,390,Peter van Dam,Voorhout,MBAS,63,02:27:13,02:26:47,04:54:00,04:54:08,26.532,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+212,198,Paul Schoone,Assendelft,MLIC,127,02:28:23,02:26:02,04:54:25,04:54:48,26.494,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+213,408,Walter Eggers,CASTRICUM,MBAS,64,02:22:34,02:32:11,04:54:44,04:54:56,26.465,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+214,185,Raymond Rol,ALKMAAR,MLIC,128,02:26:07,02:28:54,04:55:01,04:55:10,26.440,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+215,589,Joep Schut,HEERHUGOWAARD,MBAS,65,02:32:53,02:21:14,04:54:07,04:55:36,26.522,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+216,209,Michael van Son,VELSERBROEK,MLIC,129,02:13:27,02:41:53,04:55:20,04:55:39,26.412,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+217,110,Gerlof Haanraadts,APELDOORN,MLIC,130,02:25:48,02:29:46,04:55:33,04:55:58,26.393,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+218,372,Menno Bregten,WORMER,MBAS,66,02:27:08,02:27:25,04:54:33,04:56:05,26.483,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+219,416,Jan Fhijnbeen,ALMERE,MBAS,67,02:27:33,02:27:18,04:54:51,04:56:19,26.455,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+220,493,Arie van der Kraan,PETTEN,MBAS,68,02:28:06,02:27:39,04:55:45,04:56:20,26.375,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+221,640,Edwin Vijverberg,NAALDWIJK,MBAS,69,02:28:18,02:28:03,04:56:20,04:56:29,26.322,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+222,341,Frank van Beek,HEERHUGOWAARD,MBAS,70,02:33:14,02:21:50,04:55:04,04:56:31,26.435,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+223,317,Ivo Punt,LIMMEN,MBAS,71,02:20:41,02:36:31,04:57:12,04:57:16,26.245,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+224,808,Erik Groen,EGMOND BINNEN,MCYC,23,02:29:19,02:26:06,04:55:24,04:57:17,26.405,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+225,1040,Peter Wayper,KROMMENIE,MCYC,24,02:28:59,02:28:20,04:57:18,04:57:39,26.236,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+226,599,Ron Smorenberg,NOORDWIJKERHOUT,MBAS,72,02:30:45,02:26:11,04:56:55,04:57:41,26.270,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+227,164,Roel Munster,HEERHUGOWAARD,MLIC,131,02:26:39,02:30:59,04:57:38,04:57:48,26.207,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+228,183,Pascal Remmers,Castricum,MLIC,132,02:19:01,02:38:56,04:57:56,04:58:07,26.181,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+229,64,Mark Boks,BREEZAND,MLIC,133,02:27:19,02:30:28,04:57:46,04:58:07,26.195,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+230,496,Ronald Kremers,KOOG AAN DE ZAAN,MBAS,73,02:27:44,02:29:34,04:57:17,04:58:11,26.239,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+231,621,Erwin Veen,KOOG A/D ZAAN,MBAS,74,02:27:45,02:29:31,04:57:16,04:58:11,26.240,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+232,464,Richard Ippel,WIERINGERWERF,MBAS,75,02:23:37,02:33:54,04:57:30,04:58:11,26.219,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+233,381,Peter Buitendijk,Ottoland,MBAS,76,02:33:01,02:24:23,04:57:24,04:58:48,26.227,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+234,332,Edwin Aardenburg,HEEMSKERK,MBAS,77,02:24:07,02:34:38,04:58:44,04:58:53,26.111,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+235,106,Ronald Greep,MAASLAND,MLIC,134,02:29:18,02:29:37,04:58:55,04:59:08,26.095,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+236,10,Berry Hollander,SASSENHEIM,MLIC,135,02:35:08,02:24:05,04:59:12,04:59:18,26.070,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+237,347,Ronald van de Belt,ALMERE,MBAS,78,02:24:35,02:33:24,04:57:58,04:59:33,26.178,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+238,311,Robert Winder,ZEIST,MBAS,79,02:21:57,02:37:43,04:59:40,04:59:43,26.030,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+239,348,Dirk Bennen,Haarlem,MBAS,80,02:26:37,02:32:54,04:59:30,05:00:26,26.043,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+240,657,Bob van Walsum,HEERHUGOWAARD,MBAS,81,02:22:02,02:37:44,04:59:46,05:00:30,26.021,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+241,331,Charles Aangenendt,NOOTDORP,MBAS,82,02:32:25,02:27:35,05:00:00,05:00:43,26.001,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+242,554,Peter Oosterman,PIJNACKER,MBAS,83,02:27:58,02:32:05,05:00:02,05:00:43,25.998,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+243,530,John Metz,ZAANDAM,MBAS,84,02:27:43,02:32:30,05:00:13,05:01:09,25.983,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+244,316,Jan Hartman,BEVERWIJK,MBAS,85,02:25:51,02:35:20,05:01:11,05:01:15,25.898,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+245,512,Alexander van Leeuwen,WATERINGEN,MBAS,86,02:28:44,02:31:40,05:00:24,05:01:15,25.966,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+246,321,Emiel Schilder,ALKMAAR,MBAS,87,02:25:13,02:35:05,05:00:17,05:01:16,25.976,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+247,406,Marcel van Echtelt,HOUTEN,MBAS,88,02:29:03,02:32:00,05:01:03,05:01:17,25.910,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+248,654,T Vrolijk,ALPHEN A/D RIJN,MBAS,89,02:28:59,02:32:08,05:01:07,05:01:19,25.905,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+249,95,Marcel Doornebos,Zaandam,MLIC,136,02:28:34,02:31:53,05:00:26,05:01:21,25.963,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+250,797,Rene Fransen,PIJNACKER,MCYC,25,02:27:55,02:32:47,05:00:41,05:01:24,25.941,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+251,548,Dennis Nol,HEEMSKERK,MBAS,90,02:28:22,02:31:54,05:00:15,05:01:32,25.979,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+252,745,Johnny de Bruijne,WOENSDRECHT,MCYC,26,02:24:47,02:36:42,05:01:28,05:01:35,25.874,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+253,438,Gerdo Hazeleger,RENSWOUDE,MBAS,91,02:32:22,02:28:30,05:00:51,05:01:36,25.927,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+254,101,Peter Fuchs,BEVERWIJK,MLIC,137,02:34:24,02:26:46,05:01:10,05:01:38,25.901,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+255,984,Jos Sneijders,KATWIJK AAN ZEE,MCYC,27,02:29:14,02:32:07,05:01:20,05:01:49,25.885,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+256,600,Jan Snoek,VOLENDAM,MBAS,92,02:29:14,02:32:16,05:01:29,05:01:51,25.873,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+257,828,Johan van Hoesel,WORMER,MCYC,28,02:27:16,02:34:05,05:01:20,05:01:51,25.886,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+258,558,Erik Pater,HEERHUGOWAARD,MBAS,93,02:25:18,02:36:08,05:01:25,05:02:01,25.879,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+259,17,Arthur Turk,VOORHOUT,MLIC,138,02:31:10,02:30:52,05:02:02,05:02:09,25.825,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+260,325,Jasper Laroo,EGMOND BINNEN,MBAS,94,02:31:34,02:30:57,05:02:30,05:02:34,25.785,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+261,224,Stefan Vaes,ZONHOVEN,MLIC,139,02:21:15,02:40:45,05:02:00,05:02:39,25.829,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+262,402,Sam van Drunen,PETTEN,MBAS,95,02:24:53,02:37:45,05:02:37,05:02:53,25.776,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+263,631,Denny Verbaas,LISSE,MBAS,96,02:28:23,02:33:48,05:02:11,05:03:00,25.813,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+264,1043,Bernd Wenning,VREDEN (D),MCYC,29,02:31:49,02:29:58,05:01:47,05:03:32,25.847,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+265,593,Wilfried Slieker,Monster,MBAS,97,02:28:22,02:35:08,05:03:30,05:03:38,25.701,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+266,134,Maurits Buist,DRACHTEN,MLIC,140,02:22:12,02:41:11,05:03:23,05:03:45,25.711,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+267,479,Lasse Kerssens,SINT MAARTEN,MBAS,98,02:30:11,02:32:55,05:03:06,05:04:05,25.735,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+268,400,Henk-Jan Dozeman,WAGENINGEN,MBAS,99,02:29:50,02:34:03,05:03:53,05:04:06,25.668,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+269,528,Jan Masteling,KOEDIJK,MBAS,100,02:34:07,02:29:49,05:03:55,05:04:25,25.665,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+270,1049,Ton Willemse,Zaandam,MCYC,30,02:34:05,02:29:50,05:03:54,05:04:25,25.667,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+271,391,Dick Deneer,DIEMEN,MBAS,101,02:29:01,02:34:35,05:03:36,05:04:28,25.692,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+272,939,Jan Vander Plaetse,BRUGGE,MCYC,31,02:29:59,02:34:35,05:04:34,05:04:40,25.611,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+273,119,Martien Hink,OUDKARSPEL,MLIC,141,02:32:03,02:32:20,05:04:22,05:04:45,25.628,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+274,173,Erwin Overstegen,DEN HAAG,MLIC,142,02:31:27,02:33:14,05:04:40,05:04:59,25.602,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+275,787,Sybe Edens,NUMANSDORP,MCYC,32,02:29:57,02:34:32,05:04:29,05:05:00,25.618,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+276,988,Joeri Stadeus,MALDEGEM,MCYC,33,02:32:35,02:31:47,05:04:22,05:05:20,25.628,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+277,363,Leon Borst,MONNICKENDAM,MBAS,102,02:33:24,02:30:59,05:04:22,05:05:21,25.627,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+278,172,Rinse v.d. Ouweelen,MONNICKENDAM,MLIC,143,02:26:30,02:38:42,05:05:11,05:05:35,25.559,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+279,1061,Geert de Ruiter,KATWIJK,MCYC,34,02:31:18,02:34:17,05:05:34,05:05:43,25.527,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+280,359,Wiebe Boersma,SINT-PANCRAS,MBAS,103,02:32:03,02:33:33,05:05:35,05:05:46,25.525,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+281,543,Jos Niesten,HEEMSKERK,MBAS,104,02:28:58,02:36:16,05:05:14,05:05:48,25.555,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+282,447,Erwin Hoekstra,BEVERWIJK,MBAS,105,02:31:31,02:33:50,05:05:20,05:05:48,25.546,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+283,442,Matti Hegeman,HEERHUGOWAARD,MBAS,106,02:31:15,02:33:37,05:04:52,05:06:03,25.586,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+284,587,Robbert Schreuder,DEN HELDER,MBAS,107,02:34:00,02:31:17,05:05:17,05:06:07,25.551,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+285,1027,Cees Vliegenthart,RIJNSBURG,MCYC,35,02:31:01,02:34:13,05:05:14,05:06:24,25.555,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+286,429,George A Groeliker,GROET,MBAS,108,02:24:05,02:41:23,05:05:28,05:06:47,25.535,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+287,474,Henk Kalkman,MAASSLUIS,MBAS,109,02:33:55,02:32:10,05:06:04,05:06:47,25.486,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+288,380,Jack Buddingh,ZAANDAM,MBAS,110,02:30:30,02:35:38,05:06:07,05:06:49,25.481,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+289,671,Arnold de Boer,DEN HELDER,MBAS,111,02:29:09,02:37:31,05:06:39,05:06:50,25.437,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+290,650,Jeroen Vreugdenhil,S'-Gravenzande,MBAS,112,02:31:30,02:34:39,05:06:09,05:06:53,25.478,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+291,871,Harry Kruithof,ANDIJK,MCYC,36,02:31:49,02:34:32,05:06:21,05:06:53,25.462,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+292,680,Kees Caspers,NOORDWIJK,MBAS,113,02:29:25,02:37:40,05:07:05,05:07:11,25.402,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+293,549,Ren Noordover,CASTRICUM,MBAS,114,02:34:00,02:32:32,05:06:32,05:07:13,25.447,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+294,522,Wesley van Loon,WERKENDAM,MBAS,115,02:33:38,02:33:08,05:06:46,05:07:14,25.427,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+295,523,Ludie van Loon,WERKENDAM,MBAS,116,02:33:37,02:33:08,05:06:45,05:07:14,25.428,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+296,149,Misael van Leeuwen,BOVENKARSPEL,MLIC,144,02:32:18,02:34:13,05:06:31,05:07:21,25.448,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+297,489,Aaldrik Koops,ZAANDAM,MBAS,117,02:33:51,02:32:38,05:06:29,05:07:27,25.451,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+298,365,Jeen Bouwmeester,WARTENA,MBAS,118,02:34:42,02:32:22,05:07:04,05:07:36,25.403,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+299,437,Robbert den Hartog,HOOGLAND,MBAS,119,02:28:54,02:37:18,05:06:11,05:07:41,25.476,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+300,216,Tjerk Terpstra,DEN HELDER,MLIC,145,02:24:12,02:43:14,05:07:26,05:07:45,25.372,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+301,213,Jan Teeling,SCHAGEN,MLIC,146,02:32:11,02:35:54,05:08:04,05:08:19,25.320,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+302,162,Dimitri Mulder,HEINKENSZAND,MLIC,147,02:23:59,02:44:05,05:08:03,05:08:35,25.321,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+303,108,Cor de Groot,MIDDENBEEMSTER,MLIC,148,02:32:37,02:35:24,05:08:00,05:08:38,25.325,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+304,398,Robin Don,NAALDWIJK,MBAS,120,02:40:21,02:27:56,05:08:16,05:09:32,25.303,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+305,1002,Frederiek Vandewiele,ZEEBRUGGE,MCYC,37,02:23:32,02:44:55,05:08:26,05:09:46,25.290,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+306,382,Jack Burgering,LIMMEN,MBAS,121,02:27:06,02:42:16,05:09:21,05:09:46,25.214,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+307,977,Barry Sey,KNOKKE,MCYC,38,02:23:30,02:44:56,05:08:25,05:09:46,25.291,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+308,497,Bouk Kriek,KOOG AAN DE ZAAN,MBAS,122,02:26:03,02:42:51,05:08:54,05:09:48,25.252,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+309,639,Frans Versterre,HEILOO,MBAS,123,02:32:37,02:37:03,05:09:40,05:09:51,25.189,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+310,443,Pascal Heij,Heerhugowaard,MBAS,124,02:38:02,02:30:58,05:09:00,05:09:51,25.244,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+311,54,Mike Appelman,Beverwijk,MLIC,149,02:30:17,02:39:20,05:09:36,05:09:52,25.194,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+312,1017,Johan Vermorgen,HAMME,MCYC,39,02:33:13,02:36:17,05:09:30,05:10:13,25.203,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+313,620,Thimo van der Vaart,EGMOND AAN DEN HOEF,MBAS,125,02:34:22,02:35:28,05:09:50,05:10:49,25.176,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+314,490,Maarten Koorn,DEN HAAG,MBAS,126,02:34:52,02:35:45,05:10:37,05:10:52,25.112,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+315,674,Hein Zwinkels,MONSTER,MBAS,127,02:32:59,02:38:10,05:11:09,05:11:16,25.070,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+316,65,Marc de Bokx,AMSTERDAM,MLIC,150,02:32:03,02:38:45,05:10:48,05:11:23,25.097,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+317,333,Dave Adrichem,HEILOO,MBAS,128,02:34:37,02:36:20,05:10:57,05:11:25,25.086,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+318,629,Koen van de Ven,HEEMSKERK,MBAS,129,02:31:02,02:40:12,05:11:13,05:11:34,25.063,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+319,403,Mike Duijn,CASTRICUM,MBAS,130,02:34:02,02:37:26,05:11:27,05:11:54,25.044,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+320,611,Adriaan Tanis,GOEDEREEDE,MBAS,131,02:28:18,02:43:45,05:12:02,05:12:24,24.998,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+321,736,Brent-Jan Bot,AMSTERDAM,MCYC,40,02:33:32,02:36:34,05:10:06,05:12:25,25.153,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+322,768,Bernd Depenbrock,VREDEN,MCYC,41,02:35:27,02:34:39,05:10:05,05:12:25,25.155,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+323,197,Juergen Schnellmann,HATTINGEN,MLIC,151,02:37:05,02:35:10,05:12:14,05:12:32,24.982,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+324,450,Aart Hondius,ALKMAAR,MBAS,132,02:37:00,02:34:24,05:11:24,05:12:43,25.049,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+325,166,Robin Nieuwenhuizen,DEN OEVER,MLIC,152,02:28:23,02:44:28,05:12:51,05:13:14,24.933,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+326,716,Ewout Bakker,HEILOO,MCYC,42,02:27:45,02:45:02,05:12:46,05:13:21,24.939,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+327,368,John Brands,Castricum,MBAS,133,02:42:10,02:30:50,05:12:59,05:13:26,24.921,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+328,800,Kees van der Geest,ROELOFARENDSVEEN,MCYC,43,02:30:39,02:42:43,05:13:21,05:13:33,24.893,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+329,454,Bas Hoogland,Heiloo,MBAS,134,02:34:04,02:39:11,05:13:15,05:13:39,24.901,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+330,539,Gijs Mulder,Rotterdam,MBAS,135,02:35:16,02:37:49,05:13:04,05:13:45,24.916,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+331,122,Toon Houtekamer,NOORDWIJK ZH,MLIC,153,02:35:59,02:37:36,05:13:35,05:13:59,24.875,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+332,97,Theo van Duijvenvoorde,KATWIJK,MLIC,154,02:29:17,02:44:08,05:13:24,05:13:59,24.888,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+333,739,Niels Bras,EGMOND AAN DEN HOEF,MCYC,44,02:31:07,02:43:34,05:14:40,05:14:58,24.789,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+334,655,Peter van Vuuren,HEEMSKERK,MBAS,136,02:32:15,02:42:36,05:14:51,05:15:01,24.775,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+335,235,Ronald de Waal,AMSTELVEEN,MLIC,155,02:45:32,02:29:21,05:14:52,05:15:04,24.773,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+336,742,Oliver Brieger,AURICH,MCYC,45,02:30:29,02:44:23,05:14:51,05:15:05,24.774,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+337,793,Ken Eygenraam,AARTSELAAR,MCYC,46,02:35:28,02:38:56,05:14:24,05:15:05,24.810,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+338,419,Patrick Gardien,Naaldwijk,MBAS,137,02:32:30,02:42:28,05:14:57,05:15:06,24.766,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+339,440,Gert-Jan Heere,CASTRICUM,MBAS,138,02:33:13,02:40:43,05:13:56,05:15:19,24.847,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+340,383,Nico Castricum,CASTRICUM,MBAS,139,02:33:20,02:40:43,05:14:02,05:15:19,24.838,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+341,614,Ralf Timmer,Amersfoort,MBAS,140,02:38:11,02:37:13,05:15:24,05:15:33,24.732,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+342,205,Stephan Slootweg,RIJNSBURG,MLIC,156,02:36:01,02:39:17,05:15:18,05:15:40,24.739,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+343,943,Bram van der Poel,ROELOFARENDSVEEN,MCYC,47,02:33:38,02:41:54,05:15:32,05:15:45,24.721,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+344,707,Mark Andringa,UITGEEST,MCYC,48,02:32:31,02:42:59,05:15:29,05:16:05,24.725,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+345,603,Bram Spetter,Utrecht,MBAS,141,02:27:34,02:47:58,05:15:32,05:16:18,24.721,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+346,511,Theo Laroo,EGMOND-BINNEN,MBAS,142,02:39:39,02:36:21,05:15:59,05:16:24,24.686,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+347,155,Volkert Meinsma,OUDKARSPEL,MLIC,157,02:45:14,02:31:13,05:16:26,05:16:49,24.650,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+348,1009,Ruud van Velzen,ROELOFARENDSVEEN,MCYC,49,02:38:18,02:36:12,05:14:30,05:16:52,24.802,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+349,491,Sander Korenstra,ZWAAGDIJK-OOST,MBAS,143,02:35:31,02:41:06,05:16:37,05:16:58,24.637,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+350,581,Rick Salman,NOORDWIJK,MBAS,144,02:36:38,02:40:15,05:16:52,05:17:12,24.616,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+351,364,Richard Boterbloem,HILLEGOM,MBAS,145,02:35:18,02:41:47,05:17:04,05:17:20,24.601,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+352,618,Jeroen Ulle,ZAANDAM,MBAS,146,02:37:21,02:39:20,05:16:41,05:17:34,24.631,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+353,319,Luuk Kooij,CASTRICUM,MBAS,147,02:35:40,02:41:49,05:17:28,05:17:34,24.570,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+354,1051,Bart Wolkenfelt,RENKUM,MCYC,50,02:29:03,02:47:22,05:16:24,05:18:04,24.653,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+355,741,Marc van Breugel,WOUDRICHEM,MCYC,51,02:37:16,02:39:53,05:17:08,05:19:03,24.596,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+356,934,Arjan van Pelt,WOUDRICHEM,MCYC,52,02:37:11,02:39:54,05:17:05,05:19:03,24.600,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+357,940,Arie van der Plas,KATWIJK,MCYC,53,02:38:54,02:39:55,05:18:48,05:19:04,24.467,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+358,104,Michiel van Goor,NIJEVEEN,MLIC,158,02:37:55,02:40:45,05:18:40,05:19:11,24.478,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+359,922,Hein Olijhoek,BENTHUIZEN,MCYC,54,02:38:21,02:39:30,05:17:50,05:19:21,24.541,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+360,853,Pascal Jonkman,Velserbroek,MCYC,55,02:28:42,02:50:10,05:18:52,05:19:30,24.463,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+361,608,Andr Stormbroek,MOORDRECHT,MBAS,148,02:32:41,02:46:27,05:19:07,05:19:34,24.443,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+362,377,Robin Bruin,ZUID-SCHARWOUDE,MBAS,149,02:27:18,02:51:09,05:18:26,05:19:34,24.496,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+363,505,Martin Kuiters,AMSTERDAM,MBAS,150,02:42:23,02:36:18,05:18:40,05:19:42,24.477,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+364,515,Patrick Legierse,ROTTERDAM,MBAS,151,02:42:20,02:36:17,05:18:36,05:19:43,24.482,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+365,540,Mark Neeleman,EDE,MBAS,152,02:34:11,02:45:24,05:19:34,05:19:53,24.408,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+366,534,Matthieu Moerman,LEIDEN,MBAS,153,02:42:25,02:36:40,05:19:05,05:20:06,24.445,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+367,770,Peter Dhaene,HOOFDDORP,MCYC,56,02:32:07,02:47:47,05:19:53,05:20:08,24.384,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+368,1065,Sergej Isbrecht,HILPOLTSTEIN,MCYC,57,02:43:00,02:36:06,05:19:06,05:20:21,24.445,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+369,517,Ed Lengers,ALKMAAR,MBAS,154,02:41:53,02:37:44,05:19:37,05:20:32,24.405,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+370,379,Hans de Bruin,Leerbroek,MBAS,155,02:33:16,02:46:54,05:20:10,05:20:35,24.363,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+371,399,Marco Doorn,MELISSANT,MBAS,156,02:24:45,02:55:28,05:20:13,05:20:36,24.360,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+372,585,Erwin Scholtes,Honselersdijk,MBAS,157,02:38:36,02:41:24,05:19:59,05:20:36,24.376,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+373,322,Pascal Geursen,Beverwijk,MBAS,158,02:32:04,02:48:30,05:20:33,05:20:39,24.334,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+374,560,Bas Peperkoorn,HAARLEM,MBAS,159,02:35:08,02:44:48,05:19:55,05:20:43,24.382,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+375,627,Sander van der Velde,OUDE TONGE,MBAS,160,02:33:16,02:47:13,05:20:28,05:20:54,24.340,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+376,163,Theo Mulder,AMERSFOORT,MLIC,159,02:37:07,02:43:13,05:20:19,05:20:57,24.351,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+377,1039,Mathijs Wansink,HAARLEM,MCYC,58,02:40:42,02:40:21,05:21:02,05:21:19,24.297,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+378,109,Joram Grootveld,DELFT,MLIC,160,02:42:13,02:38:34,05:20:46,05:21:20,24.317,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+379,140,Damian Kooreman,AALSMEER,MLIC,161,02:43:25,02:38:43,05:22:08,05:22:25,24.215,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+380,459,Kees Huiberts,ALKMAAR,MBAS,161,02:36:54,02:44:27,05:21:20,05:22:27,24.274,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+381,763,Jacco Dekker,EGMOND BINNEN,MCYC,59,02:38:48,02:42:04,05:20:51,05:22:30,24.311,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+382,222,Hartmut Tunder,AURICH,MLIC,162,02:41:39,02:40:23,05:22:02,05:22:33,24.222,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+383,750,Richard van den Burg,VELSERBROEK,MCYC,60,02:31:30,02:50:29,05:21:58,05:22:37,24.227,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+384,834,Carl Hoogervorst,ROEFARENDSVEEN,MCYC,61,02:37:30,02:44:52,05:22:22,05:22:42,24.197,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+385,470,Niels de Jong,BROEK OP LANGEDIJK,MBAS,162,02:34:54,02:46:41,05:21:34,05:22:50,24.256,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+386,869,Raymond Krijgsman,JULIANADORP,MCYC,62,02:42:21,02:40:19,05:22:39,05:22:51,24.176,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+387,318,Aldo Groot,ALKMAAR,MBAS,163,02:36:22,02:46:39,05:23:00,05:23:04,24.149,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+388,520,Theo van Lieshout,BEVERWIJK,MBAS,164,02:40:23,02:41:17,05:21:40,05:23:04,24.250,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+389,473,Jan Jonker,SCHOORL,MBAS,165,02:38:58,02:42:42,05:21:40,05:23:05,24.250,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+390,987,Luc Spysschaert,KNOKKE-HEIST,MCYC,63,02:35:07,02:47:01,05:22:07,05:23:30,24.215,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+391,1046,Rene Wienholts,EDE,MCYC,64,02:32:52,02:49:11,05:22:02,05:23:42,24.221,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+392,663,Piet Wijnker,NOORD SCHARWOUDE,MBAS,166,02:35:17,02:48:04,05:23:21,05:23:45,24.123,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+393,236,Erik Wallinga,ZUTPHEN,MLIC,163,02:40:19,02:43:13,05:23:32,05:23:51,24.110,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+394,503,Ramon Kuipers,MONNICKENDAM,MBAS,167,02:33:18,02:49:39,05:22:57,05:24:01,24.153,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+395,483,Jan-Pieter Koeleman,MONNICKENDAM,MBAS,168,02:37:22,02:45:40,05:23:02,05:24:01,24.147,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+396,1004,Peter van der Veer,ROELOFARENDSVEEN,MCYC,65,02:41:42,02:41:21,05:23:02,05:24:02,24.146,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+397,486,Jordy Kooijman,HEILOO,MBAS,169,02:40:44,02:42:23,05:23:07,05:24:04,24.140,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+398,371,Michael Bregman,DEN HELDER,MBAS,170,02:39:19,02:44:02,05:23:21,05:24:09,24.123,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+399,501,Rick van der Kroon,KUDELSTAART,MBAS,171,02:48:50,02:34:11,05:23:01,05:24:10,24.148,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+400,946,Michiel van Ramselaar,ZEEWOLDE,MCYC,66,02:32:26,02:50:04,05:22:29,05:24:14,24.187,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+401,964,Frank Scheffer,SOEST,MCYC,67,02:32:26,02:50:05,05:22:30,05:24:14,24.186,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+402,944,Richard Poiesz,Sneek,MCYC,68,02:41:24,02:42:28,05:23:52,05:24:19,24.085,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+403,87,Erin Diekstra,SNEEK,MLIC,164,02:41:37,02:42:16,05:23:52,05:24:19,24.085,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+404,615,Yarno van de Tonnekreek,SLOOTDORP,MBAS,172,02:41:43,02:41:28,05:23:11,05:24:32,24.136,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+405,327,Marcel Koekkoek,LIMMEN,MBAS,173,02:40:01,02:44:33,05:24:34,05:24:40,24.032,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+406,1053,Marko Wolthuis,BIDDINGHUIZEN,MCYC,69,02:37:50,02:45:43,05:23:33,05:24:55,24.108,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+407,355,Peter Bestebreurtje,OUD-BEIJERLAND,MBAS,174,02:37:25,02:46:17,05:23:41,05:25:00,24.099,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+408,779,Willem Doorenbos,BOLSWARD,MCYC,70,02:41:22,02:43:28,05:24:49,05:25:19,24.014,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+409,831,Bas van Holten,REEUWIJK,MCYC,71,02:38:11,02:47:38,05:25:48,05:26:05,23.942,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+410,580,Arjan Ruiter,DE RIJP,MBAS,175,02:40:17,02:44:58,05:25:15,05:26:38,23.983,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+411,484,Bouke Kok,DEN HELDER,MBAS,176,02:42:04,02:43:45,05:25:49,05:26:38,23.940,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+412,411,Paul van den Enden,Kwintsheul,MBAS,177,02:38:15,02:48:12,05:26:27,05:26:39,23.894,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+413,749,Christopf Buning,VREDEN (D),MCYC,72,02:35:28,02:48:53,05:24:20,05:26:40,24.050,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+414,838,Jan Houtenbos,EGMOND BINNEN,MCYC,73,02:38:49,02:46:33,05:25:21,05:27:00,23.975,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+415,518,Dennis Licht,HOORN,MBAS,178,02:37:34,02:49:18,05:26:52,05:27:37,23.864,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+416,116,Paul Helderman,NAALDWIJK,MLIC,165,02:24:13,03:03:39,05:27:51,05:28:08,23.792,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+417,463,Ruud IJsendijk,CASTRICUM,MBAS,179,02:36:10,02:51:32,05:27:42,05:28:08,23.803,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+418,324,Rob Timmer,LIMMEN,MBAS,180,02:38:36,02:49:42,05:28:17,05:28:24,23.760,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+419,664,John Wijnker,LIMMEN,MBAS,181,02:39:46,02:48:16,05:28:02,05:28:25,23.779,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+420,1011,Pieter Verbeek,NAALDWIJK,MCYC,74,02:40:48,02:47:05,05:27:52,05:28:39,23.791,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+421,634,Martien Verbeek,DE LIER,MBAS,182,02:37:06,02:50:56,05:28:02,05:28:43,23.779,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+422,646,Rob Vollebregt,'S-GRAVENZANDE,MBAS,183,02:40:07,02:46:57,05:27:04,05:28:51,23.849,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+423,502,Walter Kuipers,SNEEK,MBAS,184,02:41:38,02:47:28,05:29:06,05:29:17,23.702,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+424,145,Ruud Kuikstra,Brielle,MLIC,166,02:36:26,02:52:35,05:29:00,05:29:37,23.708,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+425,350,Arwin van den Berg,Spijkenisse,MBAS,185,02:36:30,02:52:35,05:29:04,05:29:37,23.704,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+426,508,Tom Lagerburg,EDAM,MBAS,186,02:47:13,02:41:03,05:28:16,05:29:46,23.762,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+427,950,Niels Reijgersberg,DEN HAAG,MCYC,75,02:31:21,02:57:47,05:29:08,05:30:07,23.699,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+428,652,Paul de Vries,DE WEERE,MBAS,187,02:47:24,02:41:49,05:29:13,05:30:10,23.693,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+429,762,Jeroen Dam,WIERINGERWERF,MCYC,76,02:47:21,02:41:49,05:29:09,05:30:10,23.698,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+430,661,Tim Westphal,EGMOND AAN ZEE,MBAS,188,02:44:40,02:45:17,05:29:57,05:30:10,23.641,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+431,500,Henk de Ruiter,HEEMSKERK,MBAS,189,02:40:33,02:49:15,05:29:47,05:31:02,23.652,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+432,976,Erwin De Schuyter,OOSTENDE,MCYC,77,02:43:05,02:47:43,05:30:47,05:31:05,23.581,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+433,344,Jan Beekhoven,AMSTERDAM,MBAS,190,02:40:53,02:49:45,05:30:37,05:31:25,23.592,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+434,146,Jan Kweekel,GOEDEREEDE,MLIC,167,02:41:55,02:48:57,05:30:51,05:31:31,23.576,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+435,751,Guido Burssens,KNOKKE HEIST,MCYC,78,02:39:37,02:50:12,05:29:48,05:31:40,23.652,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+436,133,Mike Kes,VOLENDAM,MLIC,168,02:48:26,02:43:06,05:31:32,05:31:43,23.528,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+437,178,Tom Prins,AMSTERDAM,MLIC,169,02:45:16,02:45:58,05:31:13,05:31:52,23.550,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+438,675,Casper Koopmans,HOORN,MBAS,191,02:43:27,02:47:59,05:31:25,05:32:09,23.536,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+439,678,Hugo Sinke,HOORN,MBAS,192,02:43:29,02:47:58,05:31:27,05:32:12,23.534,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+440,61,Jurn Bezemer,DEN HOORN,MLIC,170,02:46:42,02:44:57,05:31:39,05:32:15,23.520,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+441,159,Jacco Minor,AMSTERDAM,MLIC,171,02:43:24,02:48:37,05:32:01,05:32:17,23.494,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+442,578,Bart van Ruiten,NOORDWIJKERHOUT,MBAS,193,02:39:56,02:51:58,05:31:53,05:32:39,23.503,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+443,973,David Schouppe,AALST,MCYC,79,02:46:05,02:45:53,05:31:57,05:32:53,23.498,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+444,394,Chris Derriks,CASTRICUM,MBAS,194,02:37:51,02:54:49,05:32:40,05:33:01,23.448,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+445,619,Peter de Vaal,LEIDEN,MBAS,195,02:41:18,02:51:23,05:32:41,05:33:13,23.447,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+446,857,Arjan Klein,NUMANSDORP,MCYC,80,02:46:26,02:46:27,05:32:53,05:33:26,23.433,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+447,786,Ruud Duinmeijer,SCHOORL,MCYC,81,02:41:26,02:51:53,05:33:18,05:33:37,23.403,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+448,727,Peter Bil,SNEEK,MCYC,82,02:41:33,02:51:51,05:33:24,05:33:48,23.396,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+449,1059,Jaap Zwaan,Valkenburg ZH,MCYC,83,02:52:58,02:40:24,05:33:22,05:34:06,23.398,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+450,196,Sander Schipper,KOLHORN,MLIC,172,02:43:23,02:50:30,05:33:52,05:34:09,23.363,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+451,941,Teun van der Plas,RIJNSBURG,MCYC,84,02:52:53,02:40:29,05:33:21,05:34:10,23.400,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+452,968,Janco Schiphorst,NIJEVEEN,MCYC,85,02:37:55,02:55:51,05:33:46,05:34:17,23.371,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+453,952,Wim Riechelmann,MONNICKENDAM,MCYC,86,02:46:05,02:47:57,05:34:01,05:34:20,23.353,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+454,729,Robert Blokker,HOOFDDORP,MCYC,87,02:43:07,02:50:00,05:33:06,05:34:42,23.417,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+455,921,Rob van den Oever,RIJNSBURG,MCYC,88,02:52:58,02:41:02,05:33:59,05:34:44,23.355,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+456,451,Martin de Hoog,Pijnacker,MBAS,196,02:46:06,02:47:28,05:33:34,05:35:00,23.384,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+457,630,Ralph van Venrooij,PIJNACKER,MBAS,197,02:46:02,02:47:30,05:33:32,05:35:00,23.387,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+458,738,Holger Brandt,BUENDE,MCYC,89,02:45:58,02:47:22,05:33:20,05:35:14,23.401,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+459,916,Arthur Niekoop,HEILOO,MCYC,90,02:46:20,02:48:46,05:35:06,05:35:15,23.278,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+460,156,Christian Metzlar,MEDEMBLIK,MLIC,173,02:28:32,03:06:30,05:35:02,05:35:16,23.282,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+461,1019,Tijmen Verver,HEILOO,MCYC,91,02:38:57,02:54:56,05:33:53,05:35:18,23.363,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+462,667,Arjan de Zeeuw,LIMMEN,MBAS,198,02:38:58,02:54:56,05:33:53,05:35:18,23.362,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+463,448,Erik van Hof,LIMMEN,MBAS,199,02:38:54,02:54:57,05:33:50,05:35:19,23.365,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+464,461,Thijs Huisman,UITGEEST,MBAS,200,02:41:51,02:52:03,05:33:54,05:35:23,23.361,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+465,601,Jos van Someren,HEEMSKERK,MBAS,201,02:38:54,02:55:29,05:34:23,05:35:29,23.328,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+466,422,Martin Gerritsen,ZAANDIJK,MBAS,202,02:48:35,02:45:58,05:34:32,05:35:53,23.316,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+467,433,Wilbert de Haas,HAZERSWOUDE-RIJNDIJK,MBAS,203,02:43:09,02:51:15,05:34:23,05:35:53,23.327,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+468,582,Paul Schalke,Naaldwijk,MBAS,204,02:41:15,02:54:26,05:35:40,05:36:03,23.238,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+469,917,Dirk Nijgh,KATWIJK,MCYC,92,02:52:42,02:42:20,05:35:01,05:36:04,23.283,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+470,373,Bart Brinkman,Den Helder,MBAS,205,02:54:15,02:40:24,05:34:38,05:36:08,23.310,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+471,901,Peter Meester,KATWIJK,MCYC,93,02:52:40,02:42:27,05:35:06,05:36:10,23.277,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+472,948,Max Rebel,DEN HAAG,MCYC,94,02:50:42,02:44:05,05:34:47,05:36:15,23.299,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+473,366,Frank Brandhoff,ALKMAAR,MBAS,206,02:41:44,02:54:45,05:36:29,05:36:39,23.181,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+474,455,Richard van Horik,Hoofddorp,MBAS,207,02:40:04,02:56:18,05:36:22,05:36:58,23.190,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+475,815,John van Haastert,ROELOFARENDSVEEN,MCYC,95,02:35:56,03:01:22,05:37:18,05:37:30,23.126,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+476,715,Nico Bakker,LIMMEN,MCYC,96,02:29:32,03:06:27,05:35:59,05:37:36,23.216,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+477,907,Marco Moes,URSEM,MCYC,97,02:47:18,02:49:09,05:36:26,05:37:37,23.185,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+478,926,Henk Oostwouder,ZWANENBURG,MCYC,98,02:46:15,02:51:13,05:37:28,05:37:41,23.114,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+479,1031,Nico van der Voort,DEN HOORN,MCYC,99,02:46:55,02:49:05,05:36:00,05:37:43,23.215,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+480,928,Bart van den Outenaar,ASSENDELFT,MCYC,100,02:42:03,02:55:06,05:37:09,05:37:47,23.136,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+481,526,Walter Makkinga,ALPHEN AAN DEN RIJN,MBAS,208,02:43:19,02:54:40,05:37:59,05:38:13,23.079,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+482,415,Erik Ferrari,RIJNSBURG,MBAS,209,02:43:11,02:54:33,05:37:43,05:39:11,23.097,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+483,1005,Alexander Veerman,ZEEWOLDE,MCYC,101,02:42:34,02:55:27,05:38:00,05:39:46,23.077,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+484,712,Marco Bakker,MONNICKENDAM,MCYC,102,02:46:47,02:51:17,05:38:04,05:39:52,23.073,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+485,74,Marc de Bruin,GRONINGEN,MLIC,174,03:09:29,02:29:55,05:39:24,05:40:00,22.982,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+486,238,Jan van der Wel,AUSTERLITZ,MLIC,175,02:53:20,02:46:10,05:39:30,05:40:07,22.975,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+487,98,Jim Duijvesteijn,HONSELERSDIJK,MLIC,176,02:42:22,02:57:33,05:39:55,05:40:15,22.948,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+488,458,Sean Howell,NIEUW VENNEP,MBAS,210,02:42:41,02:56:55,05:39:35,05:40:47,22.970,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+489,596,Kevin Sluimer,BORGER,MBAS,211,02:39:50,02:59:32,05:39:21,05:40:57,22.985,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+490,756,Jeroen Claassen,Ursem,MCYC,103,02:47:27,02:52:39,05:40:06,05:41:16,22.935,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+491,662,Bart van Wijk,MAASTRICHT,MBAS,212,02:52:33,02:47:45,05:40:18,05:41:17,22.921,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+492,353,Barry Berghuis,HEILOO,MBAS,213,02:51:22,02:49:09,05:40:31,05:41:24,22.907,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+493,475,Erik Kalmeijer,Honselersdijk,MBAS,214,02:42:27,02:58:28,05:40:54,05:41:40,22.881,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+494,632,Carl Verbeek,NAALDWIJK,MBAS,215,02:51:54,02:48:35,05:40:29,05:41:41,22.910,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+495,930,Gerard Overtoom,HEERHUGOWAARD,MCYC,104,02:46:05,02:55:50,05:41:54,05:42:14,22.814,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+496,809,Rob Groenendijk,BLEISWIJK,MCYC,105,02:36:49,03:05:02,05:41:50,05:43:03,22.818,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+497,592,Remco Sinnige,BEVERWIJK,MBAS,216,02:50:44,02:51:27,05:42:10,05:43:18,22.796,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+498,536,Ron Mosterd,VELSERBROEK,MBAS,217,02:43:06,02:59:19,05:42:24,05:43:40,22.781,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+499,991,Leo Steijn,AMERSFOORT,MCYC,106,02:42:12,02:59:42,05:41:53,05:43:40,22.815,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+500,806,Jurrien Goudsblom,HEERHUGOWAARD,MCYC,107,02:48:16,02:55:30,05:43:45,05:44:03,22.691,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+501,644,Gerco Vlieland,KATWIJK,MBAS,218,02:52:35,02:50:20,05:42:55,05:44:03,22.747,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+502,588,Harrie Schulze,PURMEREND,MBAS,219,02:47:24,02:55:21,05:42:45,05:44:07,22.758,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+503,899,Cliff Massop,NEEDE,MCYC,108,02:46:53,02:55:59,05:42:52,05:44:37,22.750,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+504,356,Jacob Blokker,HEERHUGOWAARD,MBAS,220,02:54:47,02:48:56,05:43:43,05:44:46,22.694,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+505,351,Johan Berga,ANDIJK,MBAS,221,03:02:43,02:41:16,05:43:58,05:44:59,22.678,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+506,847,Pelle Jaspers,SCHOORL,MCYC,109,02:53:03,02:51:08,05:44:10,05:45:33,22.664,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+507,986,Maarten Souverijn,RIJNSBURG,MCYC,110,02:49:48,02:54:32,05:44:19,05:46:22,22.654,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+508,557,Floor Paesens,SCHOORL,MBAS,222,02:45:54,02:59:07,05:45:00,05:46:26,22.609,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+509,158,Jaco Minke,Hellevoetsluis,MLIC,177,02:48:30,02:57:24,05:45:54,05:46:30,22.550,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+510,227,Marcel Verkleij,ROZENBURG,MLIC,178,02:48:33,02:57:17,05:45:50,05:46:30,22.555,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+511,628,Niels Veldhoven,LISSE,MBAS,223,02:59:34,02:46:14,05:45:47,05:46:34,22.558,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+512,555,Niels Opdam,LISSE,MBAS,224,02:59:30,02:46:14,05:45:44,05:46:34,22.562,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+513,362,Charles Bornebroek,HEERHUGOWAARD,MBAS,225,02:49:32,02:56:03,05:45:34,05:46:36,22.572,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+514,821,Bert Hegeman,ALPHEN AAN DEN RIJN,MCYC,111,02:49:39,02:56:50,05:46:28,05:46:40,22.513,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+515,334,Dave Alders,AMERSFOORT,MBAS,226,02:46:25,02:59:39,05:46:03,05:47:08,22.541,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+516,525,Rodie van Mackelenbergh,HIL,MBAS,227,02:46:27,02:59:37,05:46:03,05:47:08,22.540,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+517,410,Tim van der Elst,ZEVENHUIZEN,MBAS,228,02:47:05,02:58:42,05:45:46,05:47:22,22.559,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+518,412,Per Eriks,APELDOORN,MBAS,229,02:53:53,02:52:34,05:46:26,05:47:30,22.516,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+519,881,Deni Lankhuijzen,HOOGE ZWALUWE,MCYC,112,02:48:59,02:56:46,05:45:45,05:47:31,22.560,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+520,967,Bart Schijf,WILLEMSTAD,MCYC,113,02:46:27,03:00:49,05:47:16,05:47:48,22.462,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+521,679,Louis Pelgrom,VOORST,MBAS,230,02:47:50,02:59:45,05:47:34,05:48:24,22.442,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+522,851,Kay Jonker,SCHOORL,MCYC,114,02:48:58,02:58:52,05:47:49,05:48:44,22.426,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+523,713,Jan Bakker,HEILOO,MCYC,115,02:47:30,03:01:10,05:48:39,05:48:51,22.372,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+524,882,Willem Leek,HEILOO,MCYC,116,02:47:25,03:01:10,05:48:34,05:48:51,22.377,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+525,1055,Lars de Zeeuw,HEILOO,MCYC,117,02:47:30,03:01:06,05:48:36,05:48:51,22.376,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+526,760,Roel van Cromvoirt,RIJSWIJK,MCYC,118,02:48:42,02:58:42,05:47:23,05:48:52,22.454,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+527,919,Bram Nugteren,ROELOFARENDSVEEN,MCYC,119,02:54:12,02:53:40,05:47:51,05:49:09,22.424,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+528,617,Jeroen Ulfman,STELLENDAM,MBAS,231,02:55:13,02:53:27,05:48:39,05:49:11,22.372,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+529,485,Hans Kooij,DEN HAAG,MBAS,232,02:49:12,02:59:18,05:48:29,05:49:12,22.383,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+530,753,Ruud Hofstede,SCHIPLUIDEN,MCYC,120,02:56:01,02:51:38,05:47:38,05:49:26,22.438,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+531,1057,Alexander van Zuylen,RIJNSBURG,MCYC,121,02:52:39,02:55:52,05:48:31,05:49:36,22.381,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+532,746,Marc Bruins Slot,LEIDEN,MCYC,122,02:55:23,02:53:19,05:48:41,05:49:56,22.370,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+533,385,Paul Coebergh,HEILOO,MBAS,233,02:43:55,03:05:09,05:49:04,05:50:00,22.346,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+534,1044,Roeland Wentholt,VOORBURG,MCYC,123,02:58:58,02:49:42,05:48:39,05:50:06,22.372,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+535,1048,Harold Willems,LEIDSCHENDAM,MCYC,124,02:58:55,02:49:41,05:48:35,05:50:07,22.377,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+536,199,Bart Seynaeve,ROESELARE,MLIC,179,02:50:18,02:59:32,05:49:50,05:50:09,22.297,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+537,734,Alex Boshuizen,BEVERWIJK,MCYC,125,02:59:37,02:49:11,05:48:48,05:50:28,22.363,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+538,954,Sander Rijken,KROMMENIE,MCYC,126,02:43:35,03:06:34,05:50:09,05:50:31,22.277,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+539,1008,Rob van Velzen,ROELOFARENDSVEEN,MCYC,127,02:50:04,02:58:36,05:48:39,05:51:00,22.372,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+540,983,Hildo Kolen,ZAANDAM,MCYC,128,02:47:53,03:02:33,05:50:25,05:51:02,22.260,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+541,434,Ton van Haastregt,HILLEGOM,MBAS,234,02:48:36,03:01:59,05:50:34,05:51:12,22.250,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+542,547,Paul Nijveldt,ALMERE,MBAS,235,02:49:06,03:00:45,05:49:50,05:51:17,22.297,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+543,862,Ad Kokshoorn,DE LIER,MCYC,129,02:55:08,02:55:31,05:50:39,05:51:46,22.245,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+544,466,Jordy Jak,WEST-GRAFTDIJK,MBAS,236,02:46:19,03:05:03,05:51:22,05:52:15,22.200,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+545,409,Gerard van Egmond,RIJNSBURG,MBAS,237,02:46:59,03:04:45,05:51:44,05:52:22,22.177,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+546,71,Wim Branderhorst,UTRECHT,MLIC,180,02:43:23,03:08:43,05:52:05,05:52:25,22.154,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+547,638,Bernd Vermeulen,ZOETERMEER,MBAS,238,02:56:50,02:55:13,05:52:03,05:53:37,22.157,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+548,616,Emiel Zomerdijk,EGMOND,MBAS,239,03:02:39,02:50:33,05:53:11,05:53:39,22.085,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+549,524,Imre Lrinc,UITGEEST,MBAS,240,03:08:01,02:43:42,05:51:43,05:53:40,22.177,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+550,559,Ron Peereboom,HEEMSKERK,MBAS,241,03:08:01,02:43:42,05:51:43,05:53:40,22.177,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+551,572,Wim van Rijnswou,OEGSTGEEST,MBAS,242,02:53:17,03:00:24,05:53:41,05:53:53,22.054,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+552,444,R van der Heijden,Avenhorn,MBAS,243,02:47:14,03:06:17,05:53:31,05:54:46,22.065,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+553,884,Sjoerd Lengers,URSEM,MCYC,130,02:47:05,03:06:18,05:53:22,05:54:46,22.074,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+554,604,Marcel van Splunter,URSEM,MBAS,244,02:47:05,03:06:18,05:53:22,05:54:47,22.074,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+555,981,Peter Sluijter,MAASLAND,MCYC,131,02:52:49,03:00:34,05:53:23,05:54:59,22.073,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+556,892,Duco Luijt,BEVERWIJK,MCYC,132,02:34:43,03:19:11,05:53:54,05:55:03,22.041,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+557,1003,Joep van der Veer,ROELOFARENDSVEEN,MCYC,133,02:56:10,02:56:32,05:52:41,05:55:03,22.116,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+558,863,Sander van der Kolk,HEEMSKERK,MCYC,134,02:48:00,03:06:43,05:54:42,05:55:15,21.991,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+559,426,Antoine Glasius,WARMENHUIZEN,MBAS,245,02:56:23,02:57:56,05:54:18,05:55:21,22.015,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+560,908,Peter de Mol,NOORDWIJK,MCYC,135,02:52:50,03:01:51,05:54:41,05:55:32,21.992,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+561,431,Rob Groen,ALKMAAR,MBAS,246,03:03:59,02:50:46,05:54:44,05:55:59,21.989,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+562,335,Dick van Baar,ALKMAAR,MBAS,247,03:04:04,02:50:47,05:54:50,05:55:59,21.983,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+563,586,Bart Schouten,ALKMAAR,MBAS,248,03:03:57,02:50:45,05:54:41,05:55:59,21.991,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+564,376,Tammo Bruin,NOORD-SCHARWOUDE,MBAS,249,03:01:02,02:53:53,05:54:54,05:56:02,21.978,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+565,708,Rjan Anema,SCHOORL,MCYC,136,03:04:29,02:50:41,05:55:10,05:56:55,21.962,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+566,405,Thomans van Dun,TILBURG,MBAS,250,03:06:53,02:48:47,05:55:39,05:57:00,21.932,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+567,722,Alex van de Berg,UITGEEST,MCYC,137,03:04:18,02:53:20,05:57:37,05:57:53,21.812,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+568,1025,Theo Visser,HAUWERT,MCYC,138,02:54:00,03:03:42,05:57:42,05:58:19,21.806,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+569,545,Gert van Nieuwpoort,NIEUWERKERK AD IJSSEL,MBAS,251,02:55:18,03:01:37,05:56:54,05:58:31,21.855,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+570,573,Jeroen Robbers,LEIDEN,MBAS,252,02:50:13,03:07:38,05:57:50,05:58:37,21.798,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+571,436,Jeroen Half,UITGEEST,MBAS,253,02:50:26,03:08:02,05:58:27,05:58:57,21.761,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+572,870,Daan Kroone,OUDERKERK AD AMSTEL,MCYC,139,02:57:03,03:01:03,05:58:05,05:59:40,21.783,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+573,565,Patrick Putter,UITGEEST,MBAS,254,02:57:07,03:01:04,05:58:10,05:59:42,21.778,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+574,407,Frans van den Eeckhout,CASTRICUM,MBAS,255,02:57:09,03:01:05,05:58:13,05:59:43,21.775,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+575,836,Johan ter Horst,HENGELO,MCYC,140,02:57:46,03:01:07,05:58:52,05:59:48,21.735,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+576,959,Jan Rus,OOSTZAAN,MCYC,141,02:45:56,03:13:26,05:59:21,05:59:49,21.706,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+577,956,Maurice de Roode,ROZENBURG,MCYC,142,02:45:01,03:12:19,05:57:20,05:59:50,21.829,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+578,837,Piet-Hein Horstmeier,ROCKANJE,MCYC,143,02:48:20,03:09:05,05:57:24,05:59:50,21.825,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+579,996,Ronald Tijsseling,VIERPOLDERS,MCYC,144,02:45:03,03:12:20,05:57:22,05:59:50,21.827,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+580,1021,Ruud Vette,ROZENBURG,MCYC,145,02:45:04,03:12:19,05:57:23,05:59:51,21.825,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+581,925,Pieter Oosterlee,MAASSLUIS,MCYC,146,02:58:02,03:01:33,05:59:34,05:59:59,21.693,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+582,648,Eric Voschezang,ST. PANCRAS,MBAS,256,03:18:22,02:41:52,06:00:13,06:00:31,21.654,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+583,637,Dirk Verkuil,ST. PANCRAS,MBAS,257,03:18:23,02:41:53,06:00:15,06:00:32,21.652,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+584,709,Oscar Baas,ZEVENHUIZEN,MCYC,147,03:01:06,02:59:10,06:00:16,06:00:49,21.651,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+585,1018,Klaas Versloot,ZEVENHUIZEN,MCYC,148,03:01:01,02:59:10,06:00:11,06:00:49,21.656,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+586,918,Jack Noest,ROELOFARENDSVEEN,MCYC,149,02:56:04,03:02:29,05:58:33,06:00:59,21.755,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+587,832,Edwin Holwerda,Zeewolde,MCYC,150,03:00:03,02:59:22,05:59:25,06:01:14,21.703,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+588,953,Teun Rijke,DEN OEVER,MCYC,151,02:37:54,03:23:03,06:00:57,06:01:31,21.611,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+589,835,Rene Hoogervorst,ROEFARENDSVEEN,MCYC,152,02:54:49,03:06:58,06:01:46,06:02:10,21.561,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+590,894,Kees Machielsen,BAVEL,MCYC,153,02:59:41,03:00:53,06:00:33,06:02:47,21.634,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+591,748,Eric Buddelmeijer,OOSTZAAN,MCYC,154,02:54:44,03:08:13,06:02:57,06:03:31,21.491,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+592,420,Eric van der Geest,LEIDEN,MBAS,258,03:18:51,02:44:44,06:03:35,06:03:35,21.454,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+593,465,Gerard van Jaarsveld,ZUTPHEN,MBAS,259,02:56:06,03:07:11,06:03:16,06:03:36,21.472,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+594,1045,Wouter van Wielink,ALKMAAR,MCYC,155,02:57:12,03:07:10,06:04:21,06:05:23,21.408,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+595,957,Stany De Roos,HAMME,MCYC,156,02:48:34,03:16:09,06:04:43,06:05:23,21.387,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+596,676,Julien Mouthaan,BERKEL EN RODENRIJS,MBAS,260,02:45:23,03:17:23,06:02:46,06:05:24,21.502,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+597,949,Pascal Recoert,DELFT,MCYC,157,02:45:23,03:17:23,06:02:46,06:05:24,21.502,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+598,885,John Lennartz,MAARSSEN,MCYC,158,02:56:15,03:07:15,06:03:29,06:05:30,21.459,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+599,999,Jochem van Tongeren,UITGEEST,MCYC,159,02:51:16,03:14:34,06:05:50,06:07:07,21.322,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+600,670,Marcel Zonneveld,HEILOO,MBAS,261,02:56:39,03:09:09,06:05:47,06:07:09,21.325,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+601,656,Gertjan de Waard,HEILOO,MBAS,262,03:01:44,03:04:00,06:05:44,06:07:09,21.328,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+602,1062,wolfgang kroeger,vreden (D),MCYC,160,02:56:25,03:09:02,06:05:26,06:07:14,21.345,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+603,938,Arie Peursem,HARDINXVELD GIESSENDAM,MCYC,161,02:54:29,03:12:24,06:06:53,06:07:20,21.261,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+604,937,Jos Peursem,HARDINXVELD - GIESSENDAM,MCYC,162,02:54:27,03:12:25,06:06:51,06:07:20,21.262,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+605,1041,Leen Wegman,ZWAAG,MCYC,163,03:04:49,03:00:52,06:05:40,06:07:21,21.331,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+606,893,Gerco van Maanen,DE BILT,MCYC,164,02:59:06,03:08:15,06:07:20,06:07:33,21.234,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+607,978,Joop Sinnige,CASTRICUM,MCYC,165,02:52:00,03:15:18,06:07:18,06:07:41,21.237,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+608,814,Wouter Haak,CASTRICUM,MCYC,166,02:51:58,03:15:18,06:07:16,06:07:41,21.239,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+609,859,Willem Kok,LUTJEWINKEL,MCYC,167,03:09:04,02:58:07,06:07:10,06:08:06,21.244,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+610,813,Jan-Willem Te Gussinklo Ohmann,ZANDVOORT AAN ZEE,MCYC,168,02:59:14,03:07:49,06:07:03,06:09:07,21.251,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+611,820,Aart van Hecke,DEN HAAG,MCYC,169,02:59:13,03:07:50,06:07:02,06:09:07,21.252,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+612,724,Henny Bergman,COTHEN,MCYC,170,03:08:16,03:00:10,06:08:25,06:09:08,21.172,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+613,811,Bert Groenestege,KUINRE,MCYC,171,03:01:46,03:06:08,06:07:54,06:09:10,21.202,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+614,852,Roelof Jonkers,KUINRE,MCYC,172,03:01:45,03:06:08,06:07:53,06:09:10,21.203,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+615,843,Jan Jagtenberg,Monster,MCYC,173,02:55:03,03:14:56,06:09:59,06:09:59,21.082,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+616,970,Jerome Schoenhentz,RIJSWIJK,MCYC,174,03:01:54,03:07:43,06:09:37,06:10:18,21.103,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+617,519,Dave de Liefde,ALKMAAR,MBAS,263,03:01:34,03:09:06,06:10:40,06:11:20,21.044,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+618,888,Peter van Lieshout,UITGEEST,MCYC,175,03:03:07,03:07:14,06:10:21,06:11:32,21.061,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+619,865,Dennes Konijn,UITGEEST,MCYC,176,03:02:59,03:07:16,06:10:15,06:11:33,21.068,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+620,903,Leon Meewezen,Heemskerk,MCYC,177,03:03:12,03:06:42,06:09:54,06:11:33,21.087,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+621,1030,Stef Voermans,VOORBURG,MCYC,178,03:10:44,03:00:38,06:11:22,06:11:43,21.004,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+622,969,Jan-Willem Schlotter,ZEEWOLDE,MCYC,179,02:47:41,03:22:17,06:09:57,06:11:44,21.084,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+623,704,Peter van Ammers,CALLANTSOOG,MCYC,180,03:08:43,03:02:06,06:10:49,06:11:44,21.035,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+624,705,Niek van Ammers,CALLANTSOOG,MCYC,181,03:08:47,03:02:05,06:10:52,06:11:44,21.032,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+625,743,Goof van den Brink,HARDERWIJK,MCYC,182,03:00:05,03:10:08,06:10:12,06:12:00,21.070,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+626,94,Jos van Doorn,OPPERDOES,MLIC,181,03:08:38,03:03:11,06:11:49,06:12:27,20.979,MLIC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+627,719,John van Beek,HOUTEN,MCYC,183,02:45:25,03:26:15,06:11:39,06:12:42,20.988,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+628,610,Erik Strooper,'T ZAND  (N-H),MBAS,264,03:15:46,02:58:31,06:14:16,06:14:29,20.841,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+629,807,Roland Groen,BRIELLE,MCYC,184,03:07:25,03:05:41,06:13:06,06:14:30,20.906,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+630,812,Jacques Groenewegen,VOORBURG,MCYC,185,02:58:50,03:14:23,06:13:13,06:14:45,20.900,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+631,210,Jaap Spoor,RIJSWIJK ZH,MLIC,182,03:10:25,03:03:45,06:14:09,06:14:47,20.848,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+632,498,Jelle-Jan Kroese,IJLST,MBAS,265,02:55:37,03:19:02,06:14:38,06:15:00,20.821,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+633,546,Paul Nijdam,SNEEK,MBAS,266,02:55:49,03:19:02,06:14:51,06:15:01,20.809,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+634,701,Theo Aalbers,VEENENDAAL,MCYC,186,03:04:24,03:10:00,06:14:23,06:15:06,20.834,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+635,732,Peter Boon,ZAANDAM,MCYC,187,03:04:24,03:10:00,06:14:24,06:15:06,20.834,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+636,757,Pat Clemen,WOLUWE,MCYC,188,02:48:57,03:25:18,06:14:15,06:15:29,20.842,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+637,1038,Rene Wagter,HEILOO,MCYC,189,03:00:50,03:14:16,06:15:05,06:15:52,20.796,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+638,972,GertJaap Schoppink,HEILOO,MCYC,190,03:00:49,03:14:17,06:15:06,06:15:52,20.795,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+639,1037,Mark Wagter,HEILOO,MCYC,191,03:00:46,03:14:18,06:15:04,06:15:53,20.797,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+640,669,Marcel Zonneveld,HEEMSKERK,MBAS,267,02:57:31,03:17:44,06:15:15,06:15:53,20.787,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+641,1067,Sjef Kogels,EGMOND AAN ZEE,MCYC,192,03:00:54,03:14:20,06:15:14,06:15:55,20.788,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+642,911,Bart Mul,UITGEEST,MCYC,193,03:08:00,03:05:58,06:13:58,06:15:56,20.858,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+643,360,Wilbert Boon,LIMMEN,MBAS,268,02:43:21,03:32:17,06:15:37,06:16:11,20.767,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+644,887,Laurent Liemance,DUISBURG,MCYC,194,02:58:56,03:16:26,06:15:22,06:16:30,20.780,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+645,1026,Joost Vlek,NOORDWIJK,MCYC,195,02:58:59,03:16:26,06:15:25,06:16:30,20.778,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+646,144,Frank van Krimpen,AMSTERDAM,MLIC,183,03:24:25,02:52:09,06:16:33,06:16:33,20.715,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+647,117,Johan Hendrikse,NOORDWELLE,MLIC,184,03:03:34,03:12:39,06:16:13,06:16:47,20.734,MLIC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+648,1056,Paul van Zuijlen,SCHOORL,MCYC,196,02:59:39,03:17:42,06:17:21,06:17:40,20.671,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+649,933,Jeroen van der Pauw Kraan,SCHOORL,MCYC,197,02:59:41,03:17:42,06:17:22,06:17:40,20.670,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+650,352,Rutger Berghout,ALKMAAR,MBAS,269,02:56:22,03:20:51,06:17:12,06:18:03,20.679,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+651,942,Andre Plug,ROELOFARENDSVEEN,MCYC,198,03:04:26,03:13:16,06:17:42,06:18:05,20.652,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+652,728,Robin Bleeker,ROELOFARENDSVEEN,MCYC,199,03:04:25,03:13:19,06:17:43,06:18:08,20.651,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+653,784,Dirk van Duijvenbode,ROEFARENDSVEEN,MCYC,200,02:40:30,03:37:29,06:17:58,06:18:09,20.637,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+654,823,Emke van Heijningen,HAARLEM,MCYC,201,03:02:06,03:13:58,06:16:04,06:18:10,20.742,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+655,772,Ger van Dijk,PURMEREND,MCYC,202,02:58:01,03:18:58,06:16:58,06:18:15,20.692,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+656,906,Milko van der Meulen,PURMEREND,MCYC,203,02:57:59,03:18:58,06:16:57,06:18:15,20.693,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+657,874,Harry Kussendrager,DRACHTEN,MCYC,204,02:55:28,03:22:03,06:17:30,06:18:24,20.663,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+658,980,Jan Slootweg,AMERSFOORT,MCYC,205,03:00:03,03:18:14,06:18:16,06:18:26,20.621,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+659,765,Paul Dekker,Westzaan,MCYC,206,03:08:00,03:10:08,06:18:08,06:20:07,20.628,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+660,404,Edwin van Dulst,Rjsenhout,MBAS,270,03:14:40,03:04:20,06:19:00,06:20:22,20.581,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+661,645,Jorge van Vliet,HEEMSKERK,MBAS,271,02:49:20,03:30:54,06:20:14,06:20:48,20.514,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+662,492,Edwin Korver,Heemskerk,MBAS,272,02:49:15,03:30:54,06:20:09,06:20:48,20.519,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+663,575,Marcel Rozing,BEVERWIJK,MBAS,273,02:49:25,03:30:50,06:20:14,06:20:48,20.514,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+664,775,Mark Dobbe,JULIANADORP,MCYC,207,03:00:02,03:20:57,06:20:58,06:21:10,20.474,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+665,726,Johan de Bie,ALKMAAR,MCYC,208,03:13:29,03:05:39,06:19:07,06:21:18,20.575,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+666,1063,Harry Grimm,THALMSSING (D),MCYC,209,03:05:34,03:17:32,06:23:06,06:24:10,20.361,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+667,994,Willem Thijsse,DE LUTTE,MCYC,210,03:19:10,03:05:16,06:24:26,06:24:34,20.290,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+668,850,Jan de Jong,VREELAND,MCYC,211,03:05:38,03:17:58,06:23:36,06:24:37,20.335,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+669,795,Steven Le Fevre,HAARLEM,MCYC,212,03:03:37,03:19:27,06:23:04,06:24:41,20.363,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+670,744,Niels Broekhuizen,DEN HAAG,MCYC,213,03:03:44,03:19:27,06:23:11,06:24:41,20.356,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+671,796,Frans Le Fevre,SANTPOORT ZUID,MCYC,214,03:03:47,03:19:28,06:23:14,06:24:41,20.353,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+672,839,Yuri Hummel,DEN HAAG,MCYC,215,03:03:52,03:19:26,06:23:18,06:24:42,20.350,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+673,868,Hans Kranendonk,ZEEWOLDE,MCYC,216,03:09:24,03:13:29,06:22:52,06:24:43,20.373,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+674,1054,Roelof Woudsma,Kuinre,MCYC,217,03:02:58,03:20:46,06:23:43,06:25:03,20.328,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+675,542,Danny Niekoop,ALKMAAR,MBAS,274,02:59:38,03:24:38,06:24:15,06:25:25,20.299,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+676,1033,Harm Vos,KATWIJK,MCYC,218,02:58:31,03:27:26,06:25:56,06:26:53,20.211,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+677,1032,Roland van der Voort,KATWIJK,MCYC,219,02:58:27,03:27:28,06:25:54,06:26:53,20.213,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+678,613,Gert Tigchelhoff,ROTTERDAM,MBAS,275,03:03:29,03:22:56,06:26:25,06:27:22,20.186,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+679,449,Dimitri Holtman,EGMOND AAN ZEE,MBAS,277,03:10:36,03:15:22,06:25:57,06:27:37,20.210,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+680,563,Jeffrey Pfaff,ALKMAAR,MBAS,276,03:10:37,03:15:22,06:25:58,06:27:37,20.209,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+681,358,Harry Boers,HOEK VAN HOLLAND,MBAS,278,03:09:15,03:17:43,06:26:57,06:27:46,20.158,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+682,817,Patrick van der Ham,MOORDRECHT,MCYC,220,03:01:07,03:26:04,06:27:10,06:27:46,20.147,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+683,556,Rob Oudejans,ALKMAAR,MBAS,279,03:11:54,03:14:57,06:26:51,06:28:04,20.163,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+684,915,Leonard Nater,WEST-TERSCHELLING,MCYC,221,03:17:16,03:10:26,06:27:42,06:28:21,20.120,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+685,1013,Dominique Vergauwe,ROELOFARENDSVEEN,MCYC,222,03:13:57,03:12:30,06:26:26,06:28:24,20.185,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+686,711,Maarten Bakker,ROELOFARENDSVEEN,MCYC,223,03:13:29,03:12:31,06:25:59,06:28:25,20.208,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+687,895,Joop Majoor,HUIZEN,MCYC,224,03:16:12,03:11:08,06:27:19,06:28:26,20.139,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+688,846,Daniel Jaspers,SCHOORL,MCYC,225,03:04:27,03:22:30,06:26:56,06:28:43,20.159,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+689,897,Paul Manuel,DELFT,MCYC,226,03:14:23,03:13:07,06:27:30,06:28:58,20.130,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+690,499,Gerard van der Krogt,ROTTERDAM,MBAS,280,03:30:22,02:57:38,06:28:00,06:29:24,20.104,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+691,923,Marc Oonincx,BREDA,MCYC,227,03:12:54,03:15:41,06:28:35,06:29:43,20.073,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+692,993,Maurice de Theije,BREDA,MCYC,228,03:12:47,03:15:44,06:28:30,06:29:43,20.078,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+693,737,Frank Bouwkamp,Breda,MCYC,229,03:12:50,03:15:41,06:28:31,06:29:43,20.077,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+694,792,Wil van 't Erve,WIJK BIJ DUURSTEDE,MCYC,230,03:08:11,03:20:49,06:29:00,06:29:48,20.052,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+695,861,Menno Kokshoorn,DE LIER,MCYC,231,03:00:13,03:28:49,06:29:01,06:30:05,20.051,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+696,785,Arjen Duineveld,BREEZAND,MCYC,232,02:57:00,03:32:45,06:29:45,06:30:33,20.014,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+697,1050,Jeroen Wilms,BREEZAND,MCYC,233,02:57:03,03:32:50,06:29:52,06:30:37,20.008,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+698,803,Christophe Gino,DEN HAAG,MCYC,234,03:01:53,03:28:24,06:30:17,06:30:58,19.986,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+699,886,Gerben Lepolder,MAASSLUIS,MCYC,235,03:13:12,03:17:20,06:30:32,06:31:08,19.974,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+700,740,Niels Braspenning,BREDA,MCYC,236,03:12:48,03:18:42,06:31:29,06:32:42,19.924,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+701,180,Jesper Rasch,ZANDVOORT,MLIC,185,03:22:07,03:10:47,06:32:54,06:33:27,19.853,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+702,179,Mark Rasch,ZANDVOORT,MLIC,186,03:22:08,03:10:47,06:32:55,06:33:27,19.852,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+703,718,Bas van Barneveld,WAGENINGEN,MCYC,237,02:57:14,03:34:58,06:32:12,06:33:27,19.888,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+704,478,Pieter van Katwijk,OUDDORP ZH,MBAS,281,03:07:58,03:24:33,06:32:30,06:33:52,19.873,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+705,636,Hans Verhoef,KOEDIJK,MBAS,282,03:10:09,03:23:17,06:33:25,06:34:21,19.827,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+706,1029,Kees Vlot,BERKENWOUDE,MCYC,238,03:00:33,03:34:35,06:35:08,06:35:17,19.741,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+707,721,Frans Beentjes,LIMMEN,MCYC,239,02:54:37,03:39:48,06:34:24,06:35:34,19.777,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+708,717,Robert Balm,Den Haag,MCYC,240,02:44:02,03:51:53,06:35:54,06:35:54,19.702,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+709,703,Richard Ammerlaan,MONSTER,MCYC,241,02:37:57,03:59:35,06:37:31,06:38:47,19.622,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+710,570,Ivan Dirk Rietdijk,s'-Gravenzande,MBAS,283,03:10:39,03:26:49,06:37:28,06:38:47,19.625,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+711,602,Paul Sosef,HONSELERSDIJK,MBAS,284,03:11:22,03:26:48,06:38:09,06:38:47,19.591,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+712,537,Nico Mulder,S GRAVENZANDE,MBAS,285,03:10:44,03:26:47,06:37:30,06:38:47,19.623,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+713,799,Norbert Geels,ZWOLLE,MCYC,242,03:07:24,03:31:28,06:38:52,06:39:14,19.556,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+714,665,Marco Winkelaar,VOLENDAM,MBAS,286,03:25:50,03:12:06,06:37:55,06:39:30,19.602,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+715,423,Sander Gerritsen,PURMEREND,MBAS,287,03:34:08,03:05:25,06:39:32,06:39:32,19.523,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+716,488,Edwin Koopmans,PURMEREND,MBAS,288,03:34:07,03:05:26,06:39:33,06:39:33,19.523,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+717,789,Fred van Egmond,RIJNSBURG,MCYC,243,02:58:30,03:40:11,06:38:40,06:39:38,19.565,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+718,389,Bram ten Dam,MIDDENBEEMSTER,MBAS,289,03:12:38,03:26:57,06:39:34,06:40:05,19.522,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+719,855,Gerard Kiewiet,COTHEN,MCYC,244,03:08:13,03:31:19,06:39:32,06:40:19,19.523,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+720,825,Bikezone Herbrink,ROELOFARENDSVEEN,MCYC,245,03:14:52,03:25:09,06:40:01,06:42:25,19.500,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+721,339,Kevin Bank,WORMER,MBAS,290,03:19:45,03:21:30,06:41:14,06:42:55,19.440,MBAS18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+722,677,Ron Keus,NAALDWIJK,MBAS,291,03:16:02,03:26:28,06:42:29,06:43:13,19.380,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+723,854,Lucien Keijser,LUTJEWINKEL,MCYC,246,03:17:17,03:25:32,06:42:49,06:43:29,19.364,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+724,579,Henk de Ruiter,HEEMSKERK,MBAS,292,03:15:04,03:29:24,06:44:28,06:45:45,19.285,MBAS60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+725,929,Maxim den Outer,AMEIDE,MCYC,247,03:15:58,03:28:09,06:44:06,06:46:06,19.303,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+726,177,Gaatze Postma,MUNEIN,MLIC,187,03:31:44,03:16:28,06:48:11,06:48:48,19.110,MLIC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+727,900,Darren McGarry,HEILOO,MCYC,248,03:31:46,03:16:11,06:47:57,06:49:23,19.121,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+728,818,Freek Harskamp,BERGEN-NH,MCYC,250,03:31:47,03:16:10,06:47:57,06:49:23,19.120,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+729,864,Jaap van den Kommer,HEILOO,MCYC,249,03:31:46,03:16:10,06:47:56,06:49:23,19.121,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+730,354,Marco Besselink,Noordwijk,MBAS,293,03:10:38,03:39:00,06:49:38,06:50:38,19.042,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+731,904,Gerard Meijaard,MEDEMBLIK,MCYC,251,03:13:01,03:37:50,06:50:50,06:51:53,18.986,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+732,974,Lex Schut,WIERINGERWERF,MCYC,252,03:18:59,03:31:54,06:50:53,06:51:53,18.984,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+733,822,Wijnand Heijnen,Den Haag,MCYC,253,03:20:20,03:29:50,06:50:10,06:52:19,19.017,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+734,990,Leo van Steen,DEN HAAG,MCYC,254,03:21:27,03:29:50,06:51:16,06:52:19,18.966,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+735,801,Miguel Van Genechten,ST MICHIELS,MCYC,255,03:27:43,03:23:05,06:50:47,06:53:02,18.989,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+736,1014,Kevin Verlinde,KNOKKE-HEIST,MCYC,256,03:27:39,03:23:04,06:50:43,06:53:02,18.992,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+737,755,Ivan Casteleyn,KNOKKE-HEIST,MCYC,257,03:27:39,03:23:05,06:50:44,06:53:02,18.991,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+738,1022,Philippe Victor,KNOKKE-HEIST,MCYC,258,03:28:08,03:23:03,06:51:11,06:53:02,18.970,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+739,767,Sven Demunter,ZEEBRUGGE,MCYC,259,03:27:42,03:23:05,06:50:46,06:53:02,18.990,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+740,754,Christophe Casteleyn,KNOKKE-HEIST,MCYC,260,03:27:45,03:23:06,06:50:51,06:53:02,18.986,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+741,982,Frank Smal,SCHAGERBRUG,MCYC,261,03:30:42,03:21:08,06:51:49,06:53:49,18.941,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+742,714,Peter Bakker,SCHAGERBRUG,MCYC,262,03:30:49,03:21:08,06:51:56,06:53:49,18.936,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+743,764,Vincent Dekker,SCHAGERBRUG,MCYC,263,03:30:41,03:21:07,06:51:48,06:53:49,18.942,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+744,936,Marco Mooij,SCHAGEN,MCYC,264,03:30:39,03:21:07,06:51:45,06:53:49,18.944,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+745,1000,Niels Vaars,BREEZAND,MCYC,265,03:26:59,03:27:27,06:54:25,06:55:14,18.822,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+746,876,Arie Kweekel,SPIJKENISSE,MCYC,266,03:07:23,03:45:47,06:53:10,06:55:15,18.879,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+747,702,Georg Albers,MUENSTER,MCYC,267,03:29:43,03:24:59,06:54:41,06:55:16,18.810,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+748,804,Maarten Glasbergen,KATWIJK,MCYC,268,03:12:24,03:44:02,06:56:25,06:57:24,18.731,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+749,913,Lex Muller,CASTRICUM,MCYC,269,02:53:31,04:02:55,06:56:26,06:57:57,18.731,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+750,898,Mats Marcker,CASTRICUM,MCYC,270,03:23:32,03:32:46,06:56:17,06:57:59,18.737,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+751,642,Alfred Visser,WIERINGERWERF,MBAS,294,03:27:37,03:29:37,06:57:14,06:58:26,18.695,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+752,673,Maarten Zuidema,WIERINGERWERF,MBAS,295,03:18:05,03:39:21,06:57:25,06:58:26,18.687,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+753,590,Ed Schut,MEDEMBLIK,MBAS,296,03:16:13,03:41:10,06:57:22,06:58:26,18.689,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+754,672,Arjen Zuidema,WIERINGERWERF,MBAS,297,03:16:07,03:41:10,06:57:17,06:58:27,18.693,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+755,605,Christiaan van Splunter,WESTERLAND,MBAS,298,03:27:36,03:29:41,06:57:16,06:58:29,18.693,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+756,833,Marco van den Hoogen,VLEUTEN,MCYC,271,03:28:35,03:30:21,06:58:56,07:00:31,18.619,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+757,583,Ronald van Scheijndel,EGMOND AAN DEN HOEF,MBAS,299,03:24:12,03:35:57,07:00:08,07:01:41,18.566,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+758,576,Erik Ruigewaard,HEILOO,MBAS,300,03:24:05,03:37:49,07:01:54,07:02:23,18.488,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+759,844,Huub Janse,BEUSICHEM,MCYC,272,03:26:01,03:37:17,07:03:18,07:04:14,18.427,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+760,1052,Eric Woltheus,ZEEWOLDE,MCYC,273,03:26:02,03:37:17,07:03:19,07:04:14,18.427,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+761,480,Jos Kerssens,EENIGENBURG,MBAS,301,03:21:54,03:42:52,07:04:46,07:06:15,18.363,MBAS50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+762,735,Age Boskma,BOLSWARD,MCYC,274,03:23:44,03:43:05,07:06:48,07:07:21,18.276,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+763,830,Bas Hollenberg,IJLST,MCYC,275,03:23:57,03:43:06,07:07:02,07:07:21,18.266,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+764,788,Claes van Ederen,ALKM,MCYC,276,03:31:07,03:36:02,07:07:09,07:09:19,18.261,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+765,824,Dim Hendriksen,Egmond aan Zee,MCYC,277,03:31:06,03:36:03,07:07:08,07:09:19,18.262,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+766,441,Peter Heeremans,IJMUIDEN,MBAS,302,03:43:17,03:27:39,07:10:55,07:11:35,18.101,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+767,132,Rob Karels,CASTRICUM,MLIC,188,03:40:17,03:32:47,07:13:03,07:13:03,18.012,MLIC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+768,658,Joram van Weerdhuizen,ALPHEN AAN DEN RIJN,MBAS,303,03:25:04,03:47:22,07:12:25,07:14:06,18.038,MBAS40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+769,752,Raymond van Capelleveen,DEN HAAG,MCYC,278,03:36:32,03:41:41,07:18:13,07:19:11,17.800,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+770,867,Jos Kraakman,SCHOORL,MCYC,279,03:31:22,03:46:58,07:18:20,07:20:28,17.795,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+771,774,Edwin Dijkshoorn,VLAARDINGEN,MCYC,280,03:28:50,03:50:03,07:18:52,07:20:32,17.773,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+772,1036,Stan van Vugt,ROTTERDAM,MCYC,281,03:28:53,03:50:03,07:18:55,07:20:32,17.771,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+773,841,Ton de Jager,UTRECHT,MCYC,282,03:36:42,03:51:47,07:28:29,07:28:59,17.392,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+774,880,Fons Langedijk,HEILOO,MCYC,283,03:38:27,03:50:56,07:29:23,07:31:52,17.358,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+775,1028,Rob Vliegenthart,BERGEN,MCYC,284,03:38:26,03:50:57,07:29:22,07:31:52,17.358,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+776,891,Ben Luijckx,Beverwijk,MCYC,285,03:43:45,03:47:47,07:31:31,07:33:29,17.275,MCYC60,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+777,794,Jan-Kees Feijen,Beverwijk,MCYC,286,03:43:59,03:47:35,07:31:34,07:33:30,17.273,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+778,951,Herve Riboni,HEEMSKERK,MCYC,287,03:43:53,03:47:47,07:31:39,07:33:30,17.270,MCYC40,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+779,927,Jeroen Oudakker,HILLEGOM,MCYC,288,03:33:21,04:00:09,07:33:30,07:33:44,17.200,MCYC18,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01
+780,776,Roy Dolmans,DEN HAAG,MCYC,289,03:29:17,04:06:04,07:35:20,07:36:04,17.131,MCYC50,KMC Beachclassic Hoek van Holland - Den Helder   01-11-2015,2015-11-01

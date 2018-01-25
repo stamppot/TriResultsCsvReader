@@ -1,0 +1,55 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,race,date
+1,143,Bart Bierens,Roan,MTRIM,1,00:24:05,00:23:56,00:12:27,00:11:29,Kuijkse Stratenloop  14-01-2018,2018-01-14
+2,488,Lisa Dekkers,Nieuwkuijk,VTRIM,1,00:24:36,00:24:33,00:11:51,00:12:43,Kuijkse Stratenloop  14-01-2018,2018-01-14
+3,327,Mark Westerlaken,Nieuwendijk,MTRIM,2,00:24:41,00:24:39,00:12:14,00:12:25,Kuijkse Stratenloop  14-01-2018,2018-01-14
+4,148,Niek Berkel,Roan,MTRIM,3,00:25:21,00:25:11,00:12:25,00:12:46,Kuijkse Stratenloop  14-01-2018,2018-01-14
+5,493,Maike Deijkers,'s-Hertogenbosch,VTRIM,2,00:25:32,00:25:24,00:12:31,00:12:54,Kuijkse Stratenloop  14-01-2018,2018-01-14
+6,467,Dianne Nes,Vlijmen,VTRIM,3,00:26:25,00:26:15,00:13:11,00:13:04,Kuijkse Stratenloop  14-01-2018,2018-01-14
+7,476,Ilse Buijs,Drunen,VTRIM,4,00:26:58,00:26:52,00:13:52,00:13:00,Kuijkse Stratenloop  14-01-2018,2018-01-14
+8,252,Lucas Sanden,Drunen,MTRIM,4,00:27:09,00:27:02,00:12:03,00:15:00,Kuijkse Stratenloop  14-01-2018,2018-01-14
+9,302,Joris de Groot,Rosmalen,MTRIM,5,00:27:26,00:27:23,00:13:35,00:13:48,Kuijkse Stratenloop  14-01-2018,2018-01-14
+10,416,Carolien Krugten,Drunen,VTRIM,5,00:27:33,00:27:22,00:14:00,00:13:23,Kuijkse Stratenloop  14-01-2018,2018-01-14
+11,418,Catharina Peekstok,Waalwijk,VTRIM,6,00:27:41,00:27:39,00:13:40,00:14:00,Kuijkse Stratenloop  14-01-2018,2018-01-14
+12,221,Sjors Aalst,Nieuwkuijk,MTRIM,6,00:28:20,00:28:06,00:14:13,00:13:53,Kuijkse Stratenloop  14-01-2018,2018-01-14
+13,475,Nicole Damen,Drunen,VTRIM,7,00:28:20,00:28:13,00:13:52,00:14:22,Kuijkse Stratenloop  14-01-2018,2018-01-14
+14,25,John Oosterom,'s-Hertogenbosch,MTRIM,7,00:28:37,00:28:29,00:13:55,00:14:35,Kuijkse Stratenloop  14-01-2018,2018-01-14
+15,135,Rowin Venus,Van Bijnen Logistic,MTRIM,8,00:28:41,00:28:35,00:14:19,00:14:17,Kuijkse Stratenloop  14-01-2018,2018-01-14
+16,253,Jasper Water,Vlijmen,MTRIM,9,00:28:47,00:28:45,00:13:40,00:15:05,Kuijkse Stratenloop  14-01-2018,2018-01-14
+17,301,Erwin de Groot,Nieuwkuijk,MTRIM,10,00:29:19,00:29:15,00:14:23,00:14:53,Kuijkse Stratenloop  14-01-2018,2018-01-14
+18,254,Theo Pullen,Nieuwkuijk,MTRIM,11,00:29:32,00:29:25,00:14:52,00:14:34,Kuijkse Stratenloop  14-01-2018,2018-01-14
+19,466,Suzan Pullen,Nieuwkuijk,VTRIM,8,00:29:33,00:29:25,00:14:52,00:14:34,Kuijkse Stratenloop  14-01-2018,2018-01-14
+20,273,Erik van Hensbergen,Nieuwkuijk,MTRIM,12,00:30:16,00:30:10,00:14:44,00:15:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+21,497,Loes Tausch,Nieuwkuijk,VTRIM,9,00:30:19,00:30:12,00:14:44,00:15:28,Kuijkse Stratenloop  14-01-2018,2018-01-14
+22,131,Ruud Bijnen,Van Bijnen Logistic,MTRIM,13,00:30:25,00:30:20,00:14:53,00:15:28,Kuijkse Stratenloop  14-01-2018,2018-01-14
+23,132,Marco Brouwer,Van Bijnen Logistic,MTRIM,14,00:30:26,00:30:20,00:14:53,00:15:28,Kuijkse Stratenloop  14-01-2018,2018-01-14
+24,425,Malonie Ramakers,Van Bijnen Logistic,VTRIM,10,00:31:03,00:30:57,00:15:37,00:15:21,Kuijkse Stratenloop  14-01-2018,2018-01-14
+25,432,Annette Jonker,Roan,VTRIM,11,00:31:10,00:30:57,00:15:46,00:15:12,Kuijkse Stratenloop  14-01-2018,2018-01-14
+26,376,Keetje Rees Vellinga,Waalwijk,VTRIM,12,00:31:44,00:31:39,00:15:04,00:16:35,Kuijkse Stratenloop  14-01-2018,2018-01-14
+27,61,Nick Rees Vellinga,Waalwijk,MTRIM,15,00:31:45,00:31:39,00:15:04,00:16:36,Kuijkse Stratenloop  14-01-2018,2018-01-14
+28,461,Vivian Dank,Dussen,VTRIM,13,00:31:51,00:31:38,00:15:43,00:15:56,Kuijkse Stratenloop  14-01-2018,2018-01-14
+29,359,Anne Loon-Vesters,Drunen,VTRIM,14,00:31:52,00:31:39,00:16:14,00:15:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+30,486,Angelique van Kessel,Nieuwkuijk,VTRIM,15,00:32:05,00:31:51,00:16:20,00:15:31,Kuijkse Stratenloop  14-01-2018,2018-01-14
+31,58,Arno Meer,'s-Hertogenbosch,MTRIM,16,00:32:13,00:32:01,00:16:23,00:15:38,Kuijkse Stratenloop  14-01-2018,2018-01-14
+32,145,Leon Velden,Roan,MTRIM,17,00:32:39,00:32:27,00:15:05,00:17:22,Kuijkse Stratenloop  14-01-2018,2018-01-14
+33,439,Robin Ban,Roan,VTRIM,16,00:32:40,00:32:28,00:19:20,00:13:08,Kuijkse Stratenloop  14-01-2018,2018-01-14
+34,438,Zoe Schippers,Roan,VTRIM,17,00:32:43,00:32:31,00:16:10,00:16:21,Kuijkse Stratenloop  14-01-2018,2018-01-14
+35,437,Karin Noltus,Roan,VTRIM,18,00:32:46,00:32:34,00:16:23,00:16:12,Kuijkse Stratenloop  14-01-2018,2018-01-14
+36,440,Karine Drunen,Roan,VTRIM,19,00:32:57,00:32:44,00:16:31,00:16:13,Kuijkse Stratenloop  14-01-2018,2018-01-14
+37,118,Robin Schalken,Waalwijk,MTRIM,18,00:33:12,00:33:07,00:16:29,00:16:39,Kuijkse Stratenloop  14-01-2018,2018-01-14
+38,415,Lindsay Schalken,Drunen,VTRIM,20,00:33:13,00:33:08,00:16:29,00:16:40,Kuijkse Stratenloop  14-01-2018,2018-01-14
+39,431,Carla Borgonjen,Roan,VTRIM,21,00:33:20,00:33:11,00:16:36,00:16:35,Kuijkse Stratenloop  14-01-2018,2018-01-14
+40,381,Sanne Sikkers,Vlijmen,VTRIM,22,00:33:30,00:33:16,00:16:54,00:16:23,Kuijkse Stratenloop  14-01-2018,2018-01-14
+41,144,Pascal Schippers,Roan,MTRIM,19,00:33:30,00:33:17,00:16:20,00:16:57,Kuijkse Stratenloop  14-01-2018,2018-01-14
+42,473,Natasja Doesburg,Waspik,VTRIM,23,00:33:39,00:33:28,00:16:53,00:16:35,Kuijkse Stratenloop  14-01-2018,2018-01-14
+43,430,Joyce Vrolijk,Roan,VTRIM,24,00:34:04,00:33:51,00:16:57,00:16:54,Kuijkse Stratenloop  14-01-2018,2018-01-14
+44,452,Janinne Bragt,Nieuwkuijk,VTRIM,25,00:34:14,00:34:03,00:16:53,00:17:10,Kuijkse Stratenloop  14-01-2018,2018-01-14
+45,411,Marjon Gouw,Drunen,VTRIM,26,00:34:15,00:34:03,00:16:59,00:17:05,Kuijkse Stratenloop  14-01-2018,2018-01-14
+46,407,Wieke Heijmans,Drunen,VTRIM,27,00:34:57,00:34:47,00:17:06,00:17:41,Kuijkse Stratenloop  14-01-2018,2018-01-14
+47,385,Linda Drunen-Kersten,Helvoirt,VTRIM,28,00:35:56,00:35:53,00:17:13,00:18:40,Kuijkse Stratenloop  14-01-2018,2018-01-14
+48,453,Bianca Wouters,Drunen,VTRIM,29,00:36:51,00:36:39,00:18:14,00:18:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+49,357,Ingrid de Wit,Nieuwkuijk,VTRIM,30,00:36:51,00:36:39,00:18:14,00:18:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+50,251,Jan Plasman,Vlijmen,MTRIM,20,00:36:51,00:36:41,00:18:00,00:18:41,Kuijkse Stratenloop  14-01-2018,2018-01-14
+51,26,Marcel Oosterom,'s-Hertogenbosch,MTRIM,21,00:38:55,00:38:48,00:18:38,00:20:11,Kuijkse Stratenloop  14-01-2018,2018-01-14
+52,11,Christian Peters,Kaatsheuvel,MTRIM,22,00:39:02,00:38:52,00:18:32,00:20:20,Kuijkse Stratenloop  14-01-2018,2018-01-14
+53,454,Lenie Stempher,Eindhoven,VTRIM,31,00:40:03,00:39:53,00:19:35,00:20:18,Kuijkse Stratenloop  14-01-2018,2018-01-14
+54,457,Corry Huffels,Amersfoort,VTRIM,32,00:40:03,00:39:53,00:19:34,00:20:20,Kuijkse Stratenloop  14-01-2018,2018-01-14

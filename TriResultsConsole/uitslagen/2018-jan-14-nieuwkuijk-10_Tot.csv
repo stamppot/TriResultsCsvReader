@@ -1,0 +1,59 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,Ronde1,Ronde2,Ronde3,Ronde4,race,date
+1,267,Lauran Beijens,Tilburg,MSEN,1,00:33:12,00:33:12,00:08:16,00:08:19,00:08:24,00:08:14,Kuijkse Stratenloop  14-01-2018,2018-01-14
+2,125,Koos Verweij,Drunen,M45,1,00:33:23,00:33:23,00:08:16,00:08:20,00:08:24,00:08:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+3,116,Boris Feber,'s-Hertogenbosch,MSEN,2,00:33:40,00:33:40,00:08:17,00:08:22,00:08:37,00:08:26,Kuijkse Stratenloop  14-01-2018,2018-01-14
+4,243,Alexander Picard,Rijen,MSEN,3,00:35:18,00:35:18,00:08:29,00:08:49,00:08:59,00:09:03,Kuijkse Stratenloop  14-01-2018,2018-01-14
+5,306,Corné van Oirschot,Oisterwijk,M45,2,00:36:11,00:36:11,00:08:54,00:09:07,00:09:07,00:09:05,Kuijkse Stratenloop  14-01-2018,2018-01-14
+6,122,Marc Janssen,Oosterhout,MSEN,4,00:36:33,00:36:32,00:09:05,00:09:12,00:09:06,00:09:10,Kuijkse Stratenloop  14-01-2018,2018-01-14
+7,310,Sander Demmers,Kaatsheuvel,MSEN,5,00:36:44,00:36:44,00:09:07,00:09:13,00:09:23,00:09:03,Kuijkse Stratenloop  14-01-2018,2018-01-14
+8,307,Rob Snoeren,Waalwijk,M45,3,00:37:04,00:37:04,00:09:13,00:09:20,00:09:15,00:09:17,Kuijkse Stratenloop  14-01-2018,2018-01-14
+9,255,Tim Rooij,Wageningen,MSEN,6,00:37:21,00:37:20,00:09:06,00:09:18,00:09:32,00:09:25,Kuijkse Stratenloop  14-01-2018,2018-01-14
+10,126,John Heeswijk,Drunen,M35,1,00:37:36,00:37:36,00:09:13,00:09:21,00:09:26,00:09:38,Kuijkse Stratenloop  14-01-2018,2018-01-14
+11,120,Gerard Lensvelt,Dussen,M45,4,00:38:15,00:38:15,00:09:19,00:09:31,00:09:41,00:09:46,Kuijkse Stratenloop  14-01-2018,2018-01-14
+12,109,Bart Balemans,Raamsdonksveer,M35,2,00:38:29,00:38:28,00:09:23,00:09:29,00:09:48,00:09:49,Kuijkse Stratenloop  14-01-2018,2018-01-14
+13,124,Ron Vaan,Drunen,M45,5,00:39:01,00:39:00,00:09:23,00:09:52,00:09:52,00:09:54,Kuijkse Stratenloop  14-01-2018,2018-01-14
+14,70,Erwin Van arendonk,Drunen,M35,3,00:39:51,00:39:50,00:09:54,00:10:00,00:10:01,00:09:57,Kuijkse Stratenloop  14-01-2018,2018-01-14
+15,300,Maarten van Wijk,Boxtel,MSEN,7,00:39:58,00:39:56,00:09:53,00:09:57,00:10:02,00:10:06,Kuijkse Stratenloop  14-01-2018,2018-01-14
+16,213,Jurgen Lootens,Drunen,M35,4,00:40:02,00:40:01,00:09:45,00:09:59,00:10:10,00:10:09,Kuijkse Stratenloop  14-01-2018,2018-01-14
+17,89,Jeffrey Hazendonk,Nieuwkuijk,MSEN,8,00:40:04,00:40:04,00:09:57,00:10:03,00:10:05,00:10:00,Kuijkse Stratenloop  14-01-2018,2018-01-14
+18,420,Marjon Oudenaarden,Etten Leur,VSEN,1,00:40:07,00:40:06,00:09:50,00:10:01,00:10:09,00:10:08,Kuijkse Stratenloop  14-01-2018,2018-01-14
+19,29,Patrick van Gurp,Drunen,M35,5,00:40:12,00:40:12,00:09:50,00:10:02,00:10:09,00:10:12,Kuijkse Stratenloop  14-01-2018,2018-01-14
+20,312,Thijs van Houten,Drunen,M35,6,00:41:08,00:41:08,00:10:06,00:10:19,00:10:22,00:10:22,Kuijkse Stratenloop  14-01-2018,2018-01-14
+21,460,Dyanne Verpaalen,Rijen,VSEN,2,00:41:25,00:41:24,00:10:06,00:10:19,00:10:29,00:10:31,Kuijkse Stratenloop  14-01-2018,2018-01-14
+22,23,Antoine Sanden,Drunen,MSEN,9,00:41:29,00:41:29,00:09:57,00:10:11,00:10:45,00:10:37,Kuijkse Stratenloop  14-01-2018,2018-01-14
+23,121,Sjaak Hofmans,Dussen,M55,1,00:41:42,00:41:42,00:10:13,00:10:29,00:10:31,00:10:31,Kuijkse Stratenloop  14-01-2018,2018-01-14
+24,305,Jan van Stigt,Giessen,M45,6,00:41:42,00:41:40,00:10:30,00:10:11,00:10:30,00:10:31,Kuijkse Stratenloop  14-01-2018,2018-01-14
+25,234,Wiet Hagelaars,Vlijmen,M55,2,00:42:11,00:42:11,00:10:20,00:10:25,00:10:44,00:10:42,Kuijkse Stratenloop  14-01-2018,2018-01-14
+26,239,Johan Herpen,Well,M45,7,00:42:56,00:42:56,00:10:44,00:10:52,00:10:54,00:10:27,Kuijkse Stratenloop  14-01-2018,2018-01-14
+27,107,Dion Leemans,Waalwijk,M45,8,00:43:11,00:43:07,00:10:17,00:10:32,00:10:52,00:11:27,Kuijkse Stratenloop  14-01-2018,2018-01-14
+28,459,Emmy Vink,Well,V35,1,00:43:21,00:43:20,00:10:44,00:10:52,00:10:54,00:10:52,Kuijkse Stratenloop  14-01-2018,2018-01-14
+29,270,Ronald van de Sande,Nieuwkuijk,M35,7,00:43:31,00:43:31,00:10:35,00:11:04,00:11:03,00:10:51,Kuijkse Stratenloop  14-01-2018,2018-01-14
+30,24,Erik van der Lee,Drunen,M35,8,00:43:33,00:43:31,00:10:40,00:10:50,00:11:07,00:10:56,Kuijkse Stratenloop  14-01-2018,2018-01-14
+31,277,Kees Klerx,Vlijmen,M55,3,00:44:06,00:44:02,00:10:58,00:11:04,00:11:03,00:10:59,Kuijkse Stratenloop  14-01-2018,2018-01-14
+32,60,Hans Boelen,Hedikhuizen,M45,9,00:44:07,00:44:02,00:10:59,00:11:04,00:11:05,00:10:56,Kuijkse Stratenloop  14-01-2018,2018-01-14
+33,222,Arno Winkelmolen,Waalwijk,M45,10,00:44:18,00:44:14,00:10:17,00:10:49,00:11:31,00:11:39,Kuijkse Stratenloop  14-01-2018,2018-01-14
+34,220,Erik Muskens,Drunen,M35,9,00:44:28,00:44:25,00:11:21,00:11:24,00:11:14,00:10:28,Kuijkse Stratenloop  14-01-2018,2018-01-14
+35,308,Roy van Delft,Elshout,M35,10,00:44:28,00:44:25,00:11:22,00:11:25,00:11:12,00:10:28,Kuijkse Stratenloop  14-01-2018,2018-01-14
+36,13,Ronnie Van Bladel,Haarsteeg,M45,11,00:44:39,00:44:36,00:10:41,00:11:05,00:11:18,00:11:33,Kuijkse Stratenloop  14-01-2018,2018-01-14
+37,256,Fred van Tilborg,Drunen,M55,4,00:44:47,00:44:45,00:10:43,00:11:10,00:11:26,00:11:27,Kuijkse Stratenloop  14-01-2018,2018-01-14
+38,299,Willem Schuurmans,Drunen,M55,5,00:45:20,00:45:18,00:10:48,00:11:14,00:11:37,00:11:40,Kuijkse Stratenloop  14-01-2018,2018-01-14
+39,196,Noud Veer,Boxtel,M35,11,00:45:54,00:45:51,00:10:54,00:11:33,00:11:43,00:11:42,Kuijkse Stratenloop  14-01-2018,2018-01-14
+40,249,Walter van Gurp,Drunen,M45,12,00:46:19,00:46:16,00:11:24,00:11:30,00:11:33,00:11:51,Kuijkse Stratenloop  14-01-2018,2018-01-14
+41,224,Jason Smits,Waalwijk,MSEN,10,00:46:36,00:46:34,00:11:11,00:11:56,00:12:07,00:11:23,Kuijkse Stratenloop  14-01-2018,2018-01-14
+42,419,Nikki Bagchus,Loon op Zand,VSEN,3,00:46:40,00:46:38,00:11:23,00:11:31,00:11:51,00:11:55,Kuijkse Stratenloop  14-01-2018,2018-01-14
+43,9,Richard Sanden,Drunen,MSEN,11,00:46:43,00:46:41,00:11:00,00:11:45,00:12:00,00:11:58,Kuijkse Stratenloop  14-01-2018,2018-01-14
+44,64,Peter Pechtold,Haarsteeg,M45,13,00:46:46,00:46:41,00:11:20,00:11:36,00:11:56,00:11:50,Kuijkse Stratenloop  14-01-2018,2018-01-14
+45,303,Hans van Wijk,Veen,M45,14,00:47:13,00:47:11,00:11:23,00:11:34,00:12:04,00:12:10,Kuijkse Stratenloop  14-01-2018,2018-01-14
+46,269,Rob Nieuwenhuis,Drunen,M35,12,00:48:37,00:48:34,00:12:03,00:12:15,00:12:18,00:12:00,Kuijkse Stratenloop  14-01-2018,2018-01-14
+47,69,Ismail Vurel,Nieuwkuijk,M35,13,00:49:03,00:49:00,00:11:53,00:12:32,00:12:30,00:12:07,Kuijkse Stratenloop  14-01-2018,2018-01-14
+48,225,Mark Lankhaar,Genderen,M45,15,00:49:09,00:49:06,00:11:23,00:12:22,00:12:46,00:12:36,Kuijkse Stratenloop  14-01-2018,2018-01-14
+49,22,Corné Wezel,Drunen,MSEN,12,00:49:39,00:49:36,00:11:06,00:12:18,00:12:50,00:13:22,Kuijkse Stratenloop  14-01-2018,2018-01-14
+50,179,Peter Gemert,Drunen,MSEN,13,00:49:55,00:49:52,00:12:12,00:12:31,00:12:36,00:12:34,Kuijkse Stratenloop  14-01-2018,2018-01-14
+51,226,Ton Gils,'s-Hertogenbosch,M55,6,00:50:41,00:50:38,00:12:35,00:12:39,00:12:38,00:12:48,Kuijkse Stratenloop  14-01-2018,2018-01-14
+52,380,Willian Smits,Drunen,V35,2,00:50:52,00:50:50,00:12:35,00:12:40,00:12:51,00:12:46,Kuijkse Stratenloop  14-01-2018,2018-01-14
+53,304,Hans Brok,Nuenen,M55,7,00:51:06,00:51:04,00:12:01,00:12:38,00:13:07,00:13:20,Kuijkse Stratenloop  14-01-2018,2018-01-14
+54,487,Gidie van Bijnen,Drunen,V35,3,00:55:42,00:55:40,00:13:11,00:13:51,00:14:11,00:14:29,Kuijkse Stratenloop  14-01-2018,2018-01-14
+55,474,Miriam Heijden,Drunen,V35,4,00:56:07,00:56:05,00:13:19,00:14:02,00:14:21,00:14:24,Kuijkse Stratenloop  14-01-2018,2018-01-14
+56,309,Jan  Haverhals,Drunen,M45,0,00:24:13,00:24:10,00:12:05,00:12:06, , ,Kuijkse Stratenloop  14-01-2018,2018-01-14
+57,216,Robert Hagen,Waalwijk,M35,0,00:10:50,00:10:48,00:10:48, , , ,Kuijkse Stratenloop  14-01-2018,2018-01-14
+58,290,Niels Caron,Vlijmen,MSEN,0,00:11:58,00:11:56,00:11:56, , , ,Kuijkse Stratenloop  14-01-2018,2018-01-14

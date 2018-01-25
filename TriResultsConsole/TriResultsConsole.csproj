@@ -58,10 +58,406 @@
     <None Include="uitslagen\2014-jun-15-Speedman-Groningen-kwart.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2015-apr-11-reeuwijk-Tot - Copy.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-apr-11-reeuwijk-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-apr-26-roermond-10KTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2015-aug-01-Alpe_DHuez.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2015-aug-02-IronmanMaastricht_2015.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-rotterdam-Alles_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Combi_TotM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Combi_TotV.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Loop_Tot - Copy.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Loop_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Tijdrit_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-1-vinkeveen-Zwem_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-15-urk-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-15-wierden-10_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-15-wierden-2k5_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-15-wierden-5k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-16-workum-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsAchtsteRecTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsKwartTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsNKEreDTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsNKEreHTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsODOpenTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsZestiendeNKTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-22-veenendaal-UitsZestiendeSchTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-23-klazienaveen-Halve_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-23-klazienaveen-IndAcht_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-23-klazienaveen-IndOD_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-23-klazienaveen-NKHalve_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-borne-IndTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-borne-JeuTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-borne-TeamTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-dieren-B_UitslagTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-dieren-I_UitslagTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-29-dieren-V_UitslagTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-30-doetinchem-AchtsteTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-30-doetinchem-KwartTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-30-doetinchem-MiniTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-30-hem-10K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-30-hem-6K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-1D_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-1D_Tussen.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-1H_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-1H_Tussen.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-M_Tot - Copy.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-M_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-M_Tussen.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-O_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-O_Tussen.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-S_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-aug-9-leiderdorp-S_Tussen.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-haarlem-3k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-haarlem-6k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-nijmegen-10_Duo_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-nijmegen-10_Ind_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-nijmegen-20_Est_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-11-nijmegen-20_Ind_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-groesbeek-DuoMiddenTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-groesbeek-KortTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-groesbeek-MiddenTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-noordwijk-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-noordwijk-TotM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-13-noordwijk-TotV.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-19-castricum-FinishTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-dec-27-nijmegen-UitslagTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-feb-21-nijmegen-UitsIndividueel.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-18-amsterdam-10Trim_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-18-amsterdam-10Weds_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-18-amsterdam-3k5_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-18-amsterdam-6k7_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-24-almere-haven-10K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-24-almere-haven-1K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-24-almere-haven-2K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-24-almere-haven-5K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-25-scharendijke-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-25-scharendijke-TotM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jan-25-scharendijke-TotV.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-12-utrecht-Achtste_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-12-utrecht-OD_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-12-utrecht-RBR_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-19-hengeloov-15K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-19-hengeloov-7K5_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-19-hengeloov-Kids_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-heemstede-K1214Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-heemstede-K68Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-heemstede-K911Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-kijkduin-Long_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-kijkduin-Short_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-4-kijkduin-Swim_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-5-noordwijkerhout-TotAchtRecr.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-5-noordwijkerhout-TotKwartRecr.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jul-5-noordwijkerhout-TotKwartWeds.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-13-surhuisterveen-Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-A_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-A_Tus.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-H_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-H_Tus.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-K_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-14-terheijden-K_Tus.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-17-westzaan-TotInd.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-20-rijssen-Ind4_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-20-rijssen-Ind8_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-20-rijssen-JAR_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-20-rijssen-Trio4_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-26-doorwerth-KlimTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-amsterdam-RBRM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-amsterdam-RBRV.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-delutte-10k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-oud-gastel-AchtTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-oud-gastel-DerdeTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-oud-gastel-KwartTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-27-oud-gastel-ParaTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-deurningen-IndTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-deurningen-Kid1Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-deurningen-Kid2Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-deurningen-KopTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-deurningen-KopTotAll.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-gendt-Rep04_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-merelbeke%28b%29-10k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-28-merelbeke%28b%29-42k_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-3-hoogstraten%28b%29-Uitslag10KTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-lelystad-Uitslag10KTotaal.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-lelystad-Uitslag1KTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-lelystad-Uitslag21KTotaal.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-lelystad-Uitslag5KTotaal.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-nijkerk-EstaTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-nijkerk-TijdTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-rhenen-1k_12_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-rhenen-1k_34_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-rhenen-1k_56_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-6-rhenen-1k_78_Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-7-amsterdam-Uitslag8Tot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-7-amsterdam-Uitslag8TrioTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-7-amsterdam-UitslagODTot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2015-jun-7-amsterdam-UitslagODTrioTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2015-jun-7-Speedman-Groningen_kwart_D.csv">

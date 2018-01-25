@@ -1,0 +1,106 @@
+Nr,StartNr,Naam,Woonplaats/Club/Bedrijf,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,13,Frank Eikenaar,Loopgroep PK,MSEN,1,01:20:11,01:20:09,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+2,126,Dennis de Knijff,Almere,REC21,1,01:21:28,01:21:27,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+3,21,Petrus Lenes,Almere,M45,1,01:25:34,01:25:31,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+4,75,Matthijs de Groot,Lelystad,REC21,2,01:26:50,01:26:49,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+5,97,Bram Wamelink,Zevenaar,REC21,3,01:28:55,01:28:50,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+6,127,Butterman,Lelystad,REC21,4,01:29:32,01:29:29,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+7,82,Johan Postma,Almere,REC21,5,01:29:36,01:29:33,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+8,110,Marwan van Heugten,Arnhem,REC21,6,01:31:22,01:31:20,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+9,123,Klaas van Pijkeren,Dronten,REC21,7,01:32:07,01:32:02,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+10,12,Drikus Haalboom,avVN,M55,1,01:32:07,01:32:05,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+11,104,Ramon Bulkens,Boxmeer,REC21,8,01:33:23,01:33:22,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+12,116,Korn van den Belt,Woudenberg,REC21,9,01:34:03,01:34:01,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+13,99,Barry Schouten,Amsterdam,REC21,10,01:34:30,01:34:26,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+14,20,Robin Kroon,Flevo Delta,M35,1,01:35:52,01:35:50,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+15,7,Willem de Vries,NOP,M55,2,01:36:05,01:36:00,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+16,100,Tim Meijer,Almere,REC21,11,01:36:27,01:36:23,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+17,128,Ruud Fokker,avVN,M45,2,01:36:45,01:36:41,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+18,101,Joram Hobo,Lelystad,REC21,12,01:36:59,01:36:50,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+19,2,Erik Bezema,Spirit Lelystad,M45,3,01:38:11,01:38:08,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+20,19,Ralph Smits,Sparta,M35,2,01:38:23,01:38:21,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+21,79,Sander de Waard,Lelystad,REC21,13,01:39:32,01:39:26,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+22,1,Dennis van den Belt,Flevo Delta,M35,3,01:40:06,01:40:05,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+23,129,Lars Brouwer,Amsterdam Zuidoost,REC21,14,01:40:11,01:40:07,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+24,112,Gerrit Zwep,Dronten,REC21,15,01:40:43,01:40:37,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+25,78,Simon Hazeleger,Zwolle,REC21,16,01:40:44,01:40:33,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+26,95,Jimmy van Lambalgen,Maarn,REC21,17,01:40:44,01:40:43,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+27,132,Dave van de Velde,Lelystad,REC21,18,01:40:47,01:40:46,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+28,61,Maarten Delhez,Amstelveen,REC21,19,01:41:19,01:41:09,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+29,124,Robert Hoogland,Nijmegen,REC21,20,01:42:15,01:42:14,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+30,92,Ryan Robinson,Uden,REC21,21,01:42:16,01:42:08,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+31,136,Peter van den Berg,Lelystad,REC21,22,01:42:20,01:42:13,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+32,106,Noah Bohm,De Meern,REC21,23,01:42:32,01:42:29,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+33,94,Konstantin Bodrov,Arnhem,REC21,24,01:42:39,01:42:38,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+34,185,Anko de Jong,Leeuwarden,REC21,25,01:43:08,01:43:03,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+35,120,Christian Agricola,Lelystad,REC21,26,01:43:29,01:43:26,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+36,115,Erik Reinders,Ede Gld,REC21,27,01:43:58,01:43:56,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+37,111,Remy Ravenhorst,Veenendaal,REC21,28,01:43:59,01:43:57,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+38,69,Wim Jochems,Lieren,REC21,29,01:44:25,01:44:17,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+39,14,Joop de Zwaan,Loopgroep PK,M55,3,01:44:51,01:44:44,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+40,139,Peter Wijnands,Lelystad,REC21,30,01:44:52,01:44:48,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+41,134,E Doeser,Lelystad,REC21,31,01:44:55,01:44:49,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+42,6,Wouter Halberstadt,Flevo Delta,MSEN,2,01:45:46,01:45:44,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+43,90,Stephen Marchant,Lelystad,REC21,32,01:45:53,01:45:43,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+44,60,Erwin Saelens,Woerden,REC21,33,01:45:56,01:45:50,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+45,52,David Morales,Amstelveen,REC21,34,01:46:43,01:46:40,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+46,51,Wouter Somer,Lelystad,REC21,35,01:46:43,01:46:40,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+47,80,Arjen Vollebregt,Lelystad,REC21,36,01:47:10,01:47:06,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+48,135,Krist,AV Zeewolde,REC21,37,01:47:41,01:47:33,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+49,9,Wouter Kooij,Athlos,M35,4,01:48:14,01:48:02,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+50,130,Albert van Vulpen,Marknesse,REC21,38,01:49:28,01:49:13,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+51,103,John van den Engel,Maarssen,REC21,39,01:49:38,01:49:34,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+52,109,Rico de Boer,Beekbergen,REC21,40,01:49:39,01:49:32,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+53,122,Eline Peterse,IJsselstein Ut,REC21,41,01:50:13,01:50:08,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+54,65,Peter Bouma,Lelystad,REC21,42,01:50:17,01:50:07,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+55,81,Maarten van Dorp,Lelystad,REC21,43,01:51:28,01:51:16,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+56,83,Carlien Craj,Lelystad,REC21,44,01:51:36,01:51:30,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+57,67,Michel Jansen,Veghel,REC21,45,01:51:44,01:51:36,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+58,72,Bart van Gog,Lelystad,REC21,46,01:51:51,01:51:41,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+59,96,Femke Brinkhorst,Doesburg,REC21,47,01:51:58,01:51:51,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+60,4,Matthias Huisman,Groene Ster,MSEN,3,01:52:20,01:52:18,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+61,183,Lars van Kammen,Lelystad,REC21,48,01:52:25,01:52:13,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+62,73,Mario Riegman,Lelystad,REC21,49,01:52:42,01:52:31,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+63,11,Bas Duynstee,Spirit Lelystad,M35,5,01:52:50,01:52:46,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+64,66,Kelly de Klerk,Lelystad,REC21,50,01:53:05,01:52:55,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+65,107,Ben Bohm,De Meern,REC21,51,01:53:13,01:53:11,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+66,121,Martin van der Ploeg,Lelystad,REC21,52,01:53:41,01:53:37,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+67,77,Pieter 't Hoen,Dronten,REC21,53,01:53:50,01:53:36,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+68,17,Janny Jongejan,De Gemzen,V45,1,01:53:58,01:53:45,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+69,15,Willem Landman,Spirit Lelystad,M55,4,01:54:19,01:54:15,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+70,113,Peter de Vries,Zeewolde,REC21,54,01:54:46,01:54:38,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+71,89,Yu Xiang,Amsterdam,REC21,55,01:55:25,01:55:24,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+72,16,Ria van Weezep,Spirit Lelystad,V55,1,01:55:44,01:55:42,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+73,86,Adrienne Ekering,Rijswijk Zh,REC21,56,01:55:55,01:55:49,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+74,88,Marijn Koelemij,Nieuwkoop,REC21,57,01:55:56,01:55:50,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+75,87,Andre de Zwaan,Loopgroep PK,REC21,58,01:56:05,01:55:59,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+76,184,Franc Linders,Lelystad,REC21,59,01:57:53,01:57:45,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+77,3,Joris van Solt,Spirit Lelystad,M35,6,01:58:07,01:57:56,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+78,181,Hans van Solt,Lelystad,REC21,60,01:58:45,01:58:34,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+79,54,Quirina Blokker,Lelystad,REC21,61,01:58:53,01:58:44,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+80,186,Dorien van den Bovenkamp,Almere,REC21,62,01:59:07,01:59:00,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+81,187,Henk van Bovenkamp,Almere,REC21,63,01:59:43,01:59:36,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+82,68,Edwin de Vries,Lelystad,REC21,64,02:00:15,02:00:04,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+83,74,Marta Blom,Harderwijk,REC21,65,02:01:33,02:01:22,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+84,119,Riekelt Brouwer,NOP,REC21,66,02:01:52,02:01:43,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+85,102,Michelle Willems,Bemmel,REC21,67,02:02:05,02:01:59,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+86,70,Marieke Jochems,Lieren,REC21,68,02:03:26,02:03:18,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+87,85,Laura Hartog,Lelystad,REC21,69,02:04:13,02:04:08,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+88,10,Marjoleine Jansen,Zaanland,V45,2,02:04:20,02:04:11,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+89,8,Els Rijkhoff,Zaanland,V55,2,02:04:20,02:04:12,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+90,131,Herman van Dalen,Lelystad,REC21,70,02:05:49,02:05:39,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+91,108,Desteny van Verseveld,Rhenen,REC21,71,02:07:14,02:07:07,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+92,84,Joyce Deen,PEC 1910,REC21,72,02:09:31,02:09:18,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+93,58,Henk Gijzen,Spirit Lelystad,REC21,73,02:10:15,02:10:02,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+94,182,C van Mourik,Lelystad,REC21,74,02:12:16,02:12:03,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+95,125,RAJ van Riel,Lelystad,REC21,75,02:12:56,02:12:43,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+96,53,Ingrid Thomas Hayer,Groningen,REC21,76,02:14:38,02:14:28,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+97,133,A Schuurman,Amsterdam,REC21,77,02:15:37,02:15:25,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+98,62,Margreet van Davelaar,Putten,REC21,78,02:15:37,02:15:23,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+99,71,Jolita Jochems,Lieren,REC21,79,02:16:38,02:16:30,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+100,138,Kevin Zwarts,Elim,REC21,80,02:16:38,02:16:24,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+101,114,Johan Mulder,Lelystad,REC21,81,02:18:48,02:18:39,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+102,137,Brouwer-Brands,Urk,REC21,82,02:27:42,02:27:32,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+103,117,Marijn Demarteau,Uithoorn,REC21,83,02:28:29,02:28:13,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+104,59,Chrisjan Pol,Dronten,REC21,84,02:29:35,02:29:15,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06
+105,98,Chanine Velthuizen,IJsselstein Ut,REC21,85,02:31:57,02:31:43,35e Zeebodemloop Lelystad 06-06-2015,2015-06-06

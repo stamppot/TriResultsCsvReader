@@ -1,0 +1,325 @@
+Plts,StartNr,Naam,Club / Plaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,A715,Mike Foppen,Nijmegen,M,1,00:22:02,00:22:01,10e Bruggenloop ,2015-09-06
+2,A588,Ruud van der Meulen,Nijmegen,M,2,00:24:17,00:24:16,10e Bruggenloop ,2015-09-06
+3,A874,Tim Verbeek,Nijmegen,M,3,00:24:34,00:24:34,10e Bruggenloop ,2015-09-06
+4,A784,Pim van Deurzen,Nijmegen,M,4,00:25:30,00:25:29,10e Bruggenloop ,2015-09-06
+5,A119,Gerard van Heerde,Nijmegen,M,5,00:25:34,00:25:33,10e Bruggenloop ,2015-09-06
+6,A813,Remco Wieskamp,Nijmegen,M,6,00:25:59,00:25:59,10e Bruggenloop ,2015-09-06
+7,A287,Nico Broeder,Nijmegen,M,7,00:26:07,00:26:07,10e Bruggenloop ,2015-09-06
+8,A728,Edo Dijkman,Nijmegen,M,8,00:26:49,00:26:48,10e Bruggenloop ,2015-09-06
+9,A828,Lars van der Meulen,Utrecht,M,9,00:26:54,00:26:53,10e Bruggenloop ,2015-09-06
+10,A378,Philip de Bruijn,Beuningen Gld,M,10,00:27:10,00:27:08,10e Bruggenloop ,2015-09-06
+11,A314,Rik Wenting,Ottersum,M,11,00:27:24,00:27:24,10e Bruggenloop ,2015-09-06
+12,A233,Yannick van Kastel,Nijmegen,M,12,00:27:42,00:27:38,10e Bruggenloop ,2015-09-06
+13,A307,Jim van Putten,Nijmegen,M,13,00:27:53,00:27:52,10e Bruggenloop ,2015-09-06
+14,A754,Jaap Dubbers,Nijmegen,M,14,00:27:58,00:27:57,10e Bruggenloop ,2015-09-06
+15,A81,Monique Nijkamp,Nijmegen,V,1,00:28:03,00:28:02,10e Bruggenloop ,2015-09-06
+16,A532,Thomas Rutten,Lent,M,15,00:28:10,00:28:04,10e Bruggenloop ,2015-09-06
+17,A297,Bastiaan Cijsouw,Nijmegen,M,16,00:28:19,00:28:13,10e Bruggenloop ,2015-09-06
+18,A290,Stijn Voets,Nijmegen,M,17,00:28:29,00:28:25,10e Bruggenloop ,2015-09-06
+19,A359,Mitchel Voets,Nuland,M,18,00:28:29,00:28:26,10e Bruggenloop ,2015-09-06
+20,A62,Thom Manders,Oss,M,19,00:28:39,00:28:35,10e Bruggenloop ,2015-09-06
+21,A63,Irene Alers,Nijmegen,V,2,00:28:40,00:28:36,10e Bruggenloop ,2015-09-06
+22,A827,Pascal Zoetbrood,Utrecht,M,20,00:28:43,00:28:42,10e Bruggenloop ,2015-09-06
+23,A761,Hans Nicolai, ,M,21,00:28:44,00:28:32,10e Bruggenloop ,2015-09-06
+24,A294,Jasper Bons,Groesbeek,M,22,00:29:06,00:29:00,10e Bruggenloop ,2015-09-06
+25,A894,Harm van Hal,Millingen aan de Rijn,M,23,00:29:20,00:29:06,10e Bruggenloop ,2015-09-06
+26,A872,Bart Verberkt,Nijmegen,M,24,00:29:40,00:29:38,10e Bruggenloop ,2015-09-06
+27,A626,Melchior Esser,Doesburg,M,25,00:29:45,00:29:42,10e Bruggenloop ,2015-09-06
+28,A229,Sjoerd Slagman,Beek-Ubbergen,M,26,00:29:54,00:29:50,10e Bruggenloop ,2015-09-06
+29,A906,Drazen Simic,Nijmegen,M,27,00:30:00,00:29:39,10e Bruggenloop ,2015-09-06
+30,A643,Daan Huizer,Lent,M,28,00:30:21,00:30:14,10e Bruggenloop ,2015-09-06
+31,A501,Frans de Bruijn,Druten,M,29,00:30:27,00:30:24,10e Bruggenloop ,2015-09-06
+32,A833,Ryan van Baal,Malden,V,3,00:30:31,00:30:29,10e Bruggenloop ,2015-09-06
+33,A895,Geert Rutten, ,M,30,00:30:31,00:30:25,10e Bruggenloop ,2015-09-06
+34,A649,Evelien te Rietstap,Schimmert,V,4,00:30:57,00:30:55,10e Bruggenloop ,2015-09-06
+35,A862,Vincent Wanne,Berg en Dal,M,31,00:31:07,00:30:50,10e Bruggenloop ,2015-09-06
+36,A465,Joost van den Biggelaar,Malden,M,32,00:31:08,00:30:57,10e Bruggenloop ,2015-09-06
+37,A771,Lisanne Richard,Nijmegen,V,5,00:31:09,00:31:04,10e Bruggenloop ,2015-09-06
+38,A710,Vera Claassen,Malden,V,6,00:31:12,00:31:03,10e Bruggenloop ,2015-09-06
+39,A729,Onno Geenen,Beuningen Gld,M,33,00:31:13,00:30:58,10e Bruggenloop ,2015-09-06
+40,A928,Rick Gal, ,M,34,00:31:14,00:31:05,10e Bruggenloop ,2015-09-06
+41,A645,Jeffrey Nagel,Nijmegen,M,35,00:31:17,00:31:12,10e Bruggenloop ,2015-09-06
+42,A706,Ben Semmekrot,Ooij,M,36,00:31:20,00:31:12,10e Bruggenloop ,2015-09-06
+43,A598,Maike Thijssen,Cuijk,V,7,00:31:20,00:31:18,10e Bruggenloop ,2015-09-06
+44,A996,Daan lub,Nijmegen,M,37,00:31:21,00:31:18,10e Bruggenloop ,2015-09-06
+45,A49,Jos Wijnakker,Nijmegen,M,38,00:31:27,00:31:20,10e Bruggenloop ,2015-09-06
+46,A837,Rosa Hamann,Bergharen,V,8,00:31:32,00:31:16,10e Bruggenloop ,2015-09-06
+47,A826,Rene van Diest,Nijmegen,M,39,00:31:37,00:31:29,10e Bruggenloop ,2015-09-06
+48,A659,Joep Payens,Nijmegen,M,40,00:31:57,00:31:48,10e Bruggenloop ,2015-09-06
+49,A476,Rob Burow,Nijmegen,M,41,00:32:01,00:31:47,10e Bruggenloop ,2015-09-06
+50,A870,Ruud Berkers,Nijmegen,M,42,00:32:05,00:31:52,10e Bruggenloop ,2015-09-06
+51,A503,Jaap ten Oever,Nijmegen,M,43,00:32:07,00:31:50,10e Bruggenloop ,2015-09-06
+52,A739,Vincent Broedelet,Lent,M,44,00:32:17,00:32:01,10e Bruggenloop ,2015-09-06
+53,A190,Kiki Hendriks,Nijmegen,V,9,00:32:22,00:32:18,10e Bruggenloop ,2015-09-06
+54,A736,Erik ten Broeke,Lent,M,45,00:32:23,00:32:07,10e Bruggenloop ,2015-09-06
+55,A819,Stefan van der Kolk,Arnhem,M,46,00:32:35,00:32:25,10e Bruggenloop ,2015-09-06
+56,A395,Bram Verbaas,Nijmegen,M,47,00:32:37,00:32:29,10e Bruggenloop ,2015-09-06
+57,A731,Rosemarie Smit,Nijmegen,V,10,00:32:38,00:32:33,10e Bruggenloop ,2015-09-06
+58,A721,Jeroen Roelofs,Nijmegen,M,48,00:32:43,00:32:31,10e Bruggenloop ,2015-09-06
+59,A421,Taco Frielink,Groesbeek,M,49,00:32:44,00:32:41,10e Bruggenloop ,2015-09-06
+60,A487,Fraukje Jansen,Nijmegen,V,11,00:32:46,00:32:37,10e Bruggenloop ,2015-09-06
+61,A266,Aymen Ben Guirat,Nijmegen,M,50,00:32:47,00:32:36,10e Bruggenloop ,2015-09-06
+62,A804,Toni van Dinter, ,V,12,00:32:47,00:32:36,10e Bruggenloop ,2015-09-06
+63,A479,Martin Oome,Nijmegen,M,51,00:33:00,00:32:50,10e Bruggenloop ,2015-09-06
+64,A680,Bas van de Weerdt,Nijmegen,M,52,00:33:04,00:32:49,10e Bruggenloop ,2015-09-06
+65,A328,Antoinette Rutten-Leen,Lent,V,13,00:33:06,00:32:51,10e Bruggenloop ,2015-09-06
+66,A580,Bastiaan Schuur,Nijmegen,M,53,00:33:06,00:32:48,10e Bruggenloop ,2015-09-06
+67,A308,Andy Neyman,Nijmegen,M,54,00:33:07,00:32:57,10e Bruggenloop ,2015-09-06
+68,A811,Aafke Maltha,Nijmegen,V,14,00:33:19,00:33:06,10e Bruggenloop ,2015-09-06
+69,A144,Johan Calis,Uithoorn,M,55,00:33:21,00:32:15,10e Bruggenloop ,2015-09-06
+70,A546,Martijn Smits,Nijmegen,M,56,00:33:25,00:33:03,10e Bruggenloop ,2015-09-06
+71,A466,Bart Wannet,Weurt,M,57,00:33:32,00:32:59,10e Bruggenloop ,2015-09-06
+72,A579,Jesca Brouwer,Nijmegen,V,15,00:33:37,00:33:19,10e Bruggenloop ,2015-09-06
+73,A576,Mark Holland,Lent,M,58,00:33:39,00:33:21,10e Bruggenloop ,2015-09-06
+74,A600,Ivo Schaap,Nijmegen,M,59,00:33:44,00:33:28,10e Bruggenloop ,2015-09-06
+75,A206,Gene Madlon,Nijmegen,M,60,00:33:46,00:33:33,10e Bruggenloop ,2015-09-06
+76,A752,Thedo Boer,Nijmegen,M,61,00:33:53,00:33:45,10e Bruggenloop ,2015-09-06
+77,A384,Henk van Well,Malden,M,62,00:33:55,00:33:41,10e Bruggenloop ,2015-09-06
+78,A664,Perry Maselaman,Cuijk,M,63,00:34:15,00:34:06,10e Bruggenloop ,2015-09-06
+79,A363,Bram Eeren,Nijmegen,M,64,00:34:16,00:33:46,10e Bruggenloop ,2015-09-06
+80,A458,Patricia Croonen,Nijmegen,V,16,00:34:21,00:34:12,10e Bruggenloop ,2015-09-06
+81,A424,Ida van Mazijk,Nijmegen,V,17,00:34:34,00:34:09,10e Bruggenloop ,2015-09-06
+82,A373,Maarten van Berlo,Nijmegen,M,65,00:34:34,00:33:57,10e Bruggenloop ,2015-09-06
+83,A587,Bas van der Heiden,Nijmegen,M,66,00:34:38,00:34:30,10e Bruggenloop ,2015-09-06
+84,A929,Kimberley Braam, ,V,18,00:34:45,00:34:38,10e Bruggenloop ,2015-09-06
+85,A861,Merian Sengers,Wijchen,V,19,00:34:46,00:34:19,10e Bruggenloop ,2015-09-06
+86,A248,Theo Tuinte,Wijchen,M,67,00:34:50,00:34:33,10e Bruggenloop ,2015-09-06
+87,A856,David de Munnik,Nijmegen,M,68,00:34:56,00:34:39,10e Bruggenloop ,2015-09-06
+88,A727,Stefan Kuhlmann,Nijmegen,M,69,00:35:02,00:34:49,10e Bruggenloop ,2015-09-06
+89,A570,San van Deijzen,Beuningen Gld,M,70,00:35:14,00:34:41,10e Bruggenloop ,2015-09-06
+90,A331,Maarten Kessels,Wijchen,M,71,00:35:16,00:34:43,10e Bruggenloop ,2015-09-06
+91,A462,Stijn Lintsen,Nijmegen,M,72,00:35:28,00:34:56,10e Bruggenloop ,2015-09-06
+92,A632,Martin Tassche,Bemmel,M,73,00:35:31,00:34:47,10e Bruggenloop ,2015-09-06
+93,A217,Marc Jeuken,Lent,M,74,00:35:31,00:35:07,10e Bruggenloop ,2015-09-06
+94,A738,Vincent van Raaij,Nijmegen,M,75,00:35:35,00:34:50,10e Bruggenloop ,2015-09-06
+95,A886,Ernst MErks,Groesbeek,M,76,00:35:35,00:35:06,10e Bruggenloop ,2015-09-06
+96,A663,Robert Kerkhoven,Nijmegen,M,77,00:35:40,00:35:33,10e Bruggenloop ,2015-09-06
+97,A714,Bert Hof,Bemmel,M,78,00:35:41,00:34:58,10e Bruggenloop ,2015-09-06
+98,A809,Ron Blom,Huissen,M,79,00:35:44,00:35:12,10e Bruggenloop ,2015-09-06
+99,A2,Raimond van der Logt,Wijchen,M,80,00:35:48,00:35:24,10e Bruggenloop ,2015-09-06
+100,A537,Servaas van Elteren,Lent,M,81,00:35:52,00:35:19,10e Bruggenloop ,2015-09-06
+101,A11,Jan van Sas,Nijmegen,M,82,00:35:54,00:35:39,10e Bruggenloop ,2015-09-06
+102,A10,Erik-jan van Sas,Nijmegen,M,83,00:35:54,00:35:44,10e Bruggenloop ,2015-09-06
+103,A900,Johan Rothuizen,Nijmegen,M,84,00:35:58,00:35:24,10e Bruggenloop ,2015-09-06
+104,A741,Astrid Jansen,Nijmegen,V,20,00:36:02,00:35:42,10e Bruggenloop ,2015-09-06
+105,A661,Arend Slagman,Doetinchem,M,85,00:36:05,00:35:46,10e Bruggenloop ,2015-09-06
+106,A654,Petra Bernart,Nijmegen,V,21,00:36:05,00:35:54,10e Bruggenloop ,2015-09-06
+107,A796,Patrick Aan de Kerk,Nijmegen,M,86,00:36:08,00:35:57,10e Bruggenloop ,2015-09-06
+108,A950,Anco Wittebol, ,M,87,00:36:17,00:35:46,10e Bruggenloop ,2015-09-06
+109,A460,Frits Treffers,Grave,M,88,00:36:17,00:36:04,10e Bruggenloop ,2015-09-06
+110,A417,Mark Meuldijk,Nijmegen,M,89,00:36:17,00:35:57,10e Bruggenloop ,2015-09-06
+111,A527,Rob Peters,Nijmegen,M,90,00:36:26,00:36:16,10e Bruggenloop ,2015-09-06
+112,A692,Hans Graat,Oeffelt,M,91,00:36:29,00:36:05,10e Bruggenloop ,2015-09-06
+113,A154,Chantal Treffers-van Gent,Grave,V,22,00:36:33,00:36:13,10e Bruggenloop ,2015-09-06
+114,A84,Lydia peters,Grave,V,23,00:36:33,00:36:11,10e Bruggenloop ,2015-09-06
+115,A682,Sybrine Bultena,Nijmegen,V,24,00:36:47,00:36:36,10e Bruggenloop ,2015-09-06
+116,A793,Karlijn klein Breteler,Nijmegen,V,25,00:36:55,00:36:45,10e Bruggenloop ,2015-09-06
+117,A469,Renee Heynen,Nijmegen,V,26,00:36:56,00:36:34,10e Bruggenloop ,2015-09-06
+118,A426,Christiaan Kwint,'s-Gravenhage,M,92,00:36:57,00:36:18,10e Bruggenloop ,2015-09-06
+119,A431,Cynthia Peperkamp,Arnhem,V,27,00:37:03,00:36:43,10e Bruggenloop ,2015-09-06
+120,A452,Raoul van den Berg,Oss,M,93,00:37:08,00:36:51,10e Bruggenloop ,2015-09-06
+121,A443,Iris van Susteren,Wijchen,V,28,00:37:09,00:36:41,10e Bruggenloop ,2015-09-06
+122,A751,Sandra Nobels,Zutphen,V,29,00:37:13,00:37:05,10e Bruggenloop ,2015-09-06
+123,A166,Ronald Meijs,Nijmegen,M,94,00:37:18,00:36:57,10e Bruggenloop ,2015-09-06
+124,A442,Paul Gerards,Nijmegen,M,95,00:37:20,00:37:02,10e Bruggenloop ,2015-09-06
+125,A211,Bo Hendriks,Nijmegen,V,30,00:37:23,00:37:11,10e Bruggenloop ,2015-09-06
+126,A780,Fien Kraanen,Nijmegen,V,31,00:37:24,00:36:46,10e Bruggenloop ,2015-09-06
+127,A204,Mirjam Hakvoort,Bemmel,V,32,00:37:25,00:37:09,10e Bruggenloop ,2015-09-06
+128,A779,Mariette van Haaften,Nijmegen,V,33,00:37:26,00:37:21,10e Bruggenloop ,2015-09-06
+129,A565,Jenneken Schouten,Bemmel,V,34,00:37:26,00:36:44,10e Bruggenloop ,2015-09-06
+130,A425,Hanneke Schweitzer,Nijmegen,V,35,00:37:27,00:37:04,10e Bruggenloop ,2015-09-06
+131,A787,Yvonne Popping,Lent,V,36,00:37:28,00:37:14,10e Bruggenloop ,2015-09-06
+132,A489,Coen de Beer,Malden,M,96,00:37:32,00:37:16,10e Bruggenloop ,2015-09-06
+133,A444,Wimmie Vos,Nijmegen,V,37,00:37:36,00:37:20,10e Bruggenloop ,2015-09-06
+134,A542,Robin Heijna,Nijmegen,V,38,00:37:37,00:37:19,10e Bruggenloop ,2015-09-06
+135,A541,Joost eysvogels,Nijmegen,M,97,00:37:37,00:37:20,10e Bruggenloop ,2015-09-06
+136,A149,Willemijn van Koningsveld,Nijmegen,V,39,00:37:49,00:37:37,10e Bruggenloop ,2015-09-06
+137,A639,Patrick Peters,Lent,M,98,00:37:50,00:37:26,10e Bruggenloop ,2015-09-06
+138,A887,Lilian Brouwer,Lent,V,40,00:37:51,00:37:27,10e Bruggenloop ,2015-09-06
+139,A298,Jan Klomp,Kekerdom,M,99,00:37:52,00:37:11,10e Bruggenloop ,2015-09-06
+140,A788,Bram Plomp,Cuijk,M,100,00:37:54,00:37:40,10e Bruggenloop ,2015-09-06
+141,A628,Ivo Vloed,Nijmegen,M,101,00:37:55,00:37:36,10e Bruggenloop ,2015-09-06
+142,A277,Richard Vermeulen,Uithoorn,M,102,00:38:00,00:37:39,10e Bruggenloop ,2015-09-06
+143,A383,Maurice Sengers,Weurt,M,103,00:38:02,00:37:51,10e Bruggenloop ,2015-09-06
+144,A444,Wimmie Vos, ,M,104,00:38:03,00:37:49,10e Bruggenloop ,2015-09-06
+145,A429,Sharon van der Pol, ,V,41,00:38:09,00:37:50,10e Bruggenloop ,2015-09-06
+146,A440,Martin Magdelijns,Lent,M,105,00:38:13,00:37:14,10e Bruggenloop ,2015-09-06
+147,A445,Joke Lemmen,Nijmegen,V,42,00:38:21,00:38:07,10e Bruggenloop ,2015-09-06
+148,A238,Eric de Wit,Duiven,M,106,00:38:29,00:37:34,10e Bruggenloop ,2015-09-06
+149,A420,Arjan Arts,Nijmegen,M,107,00:38:30,00:37:49,10e Bruggenloop ,2015-09-06
+150,A92,Geert van den Elzen,Nijmegen,M,108,00:38:31,00:37:38,10e Bruggenloop ,2015-09-06
+151,A91,Sarah van den Elzen,Nijmegen,V,43,00:38:31,00:37:38,10e Bruggenloop ,2015-09-06
+152,A825,Hennie van Diest,Bemmel,M,109,00:38:32,00:38:24,10e Bruggenloop ,2015-09-06
+153,A418,Nienke Helmink,Megchelen,V,44,00:38:33,00:38:22,10e Bruggenloop ,2015-09-06
+154,A523,Marja Bakker,Borne,V,45,00:38:34,00:37:41,10e Bruggenloop ,2015-09-06
+155,A687,Frans Teunissen,Bemmel,M,110,00:38:35,00:38:13,10e Bruggenloop ,2015-09-06
+156,A800,Ronald Smitjes,Nijmegen,M,111,00:38:36,00:38:05,10e Bruggenloop ,2015-09-06
+157,A563,Ferry Bos,Oosterhout Nb,M,112,00:38:38,00:38:01,10e Bruggenloop ,2015-09-06
+158,A538,Timo Tielens,Lent,M,113,00:38:39,00:38:05,10e Bruggenloop ,2015-09-06
+159,A802,Julia Smitjes,Nijmegen,V,46,00:38:40,00:38:11,10e Bruggenloop ,2015-09-06
+160,A606,Marij Loete,Nijmegen,V,47,00:38:45,00:38:20,10e Bruggenloop ,2015-09-06
+161,A78,Coert Langenhuijzen,Beuningen Gld,M,114,00:38:49,00:38:31,10e Bruggenloop ,2015-09-06
+162,A167,Karin Meijs,Nijmegen,V,48,00:38:50,00:38:30,10e Bruggenloop ,2015-09-06
+163,A630,Marga Bistervelds,Nijmegen,V,49,00:38:52,00:38:13,10e Bruggenloop ,2015-09-06
+164,A325,Marijke Muller,Nijmegen,V,50,00:38:53,00:38:39,10e Bruggenloop ,2015-09-06
+165,A289,Marlijn Peters,Nijmegen,V,51,00:38:56,00:38:21,10e Bruggenloop ,2015-09-06
+166,A146,Tom van den Heiligenberg,Heesch,M,115,00:38:59,00:38:25,10e Bruggenloop ,2015-09-06
+167,A109,Lisette Landsheer,Wijchen,V,52,00:39:00,00:38:19,10e Bruggenloop ,2015-09-06
+168,A461,Josette Snoeijen,Nijmegen,V,53,00:39:04,00:38:33,10e Bruggenloop ,2015-09-06
+169,A456,Marc van de Ven,Wijchen,M,116,00:39:05,00:38:42,10e Bruggenloop ,2015-09-06
+170,A59,Mandy Mesu - van Duijn,Nijmegen,V,54,00:39:07,00:38:46,10e Bruggenloop ,2015-09-06
+171,A592,Andrea van Kolmeschate,Nijmegen,V,55,00:39:10,00:38:45,10e Bruggenloop ,2015-09-06
+172,A486,Michelle Smeltink,Lent,V,56,00:39:17,00:38:57,10e Bruggenloop ,2015-09-06
+173,A228,Marloes van Rossum,Nijmegen,V,57,00:39:23,00:38:58,10e Bruggenloop ,2015-09-06
+174,A321,Roland Hut,Beuningen Gld,M,117,00:39:24,00:38:57,10e Bruggenloop ,2015-09-06
+175,A933,Josette van Luytelaan,Nijmegen,V,58,00:39:29,00:39:11,10e Bruggenloop ,2015-09-06
+176,A629,Ton Reijnders,Nijmegen,M,118,00:39:33,00:38:55,10e Bruggenloop ,2015-09-06
+177,A647,Coen Cuppen,Nijmegen,M,119,00:39:45,00:38:57,10e Bruggenloop ,2015-09-06
+178,A806,Laura Cuppen,Utrecht,V,59,00:39:46,00:38:58,10e Bruggenloop ,2015-09-06
+179,A147,Karen Hendriks,Nijmegen,V,60,00:39:51,00:39:17,10e Bruggenloop ,2015-09-06
+180,A768,Anne Kemming,Nijmegen,V,61,00:39:51,00:39:18,10e Bruggenloop ,2015-09-06
+181,A494,Marijke Klunder,Lent,V,62,00:39:51,00:39:26,10e Bruggenloop ,2015-09-06
+182,A451,Ralph van Geuns,Leuth,M,120,00:39:54,00:39:17,10e Bruggenloop ,2015-09-06
+183,A566,Ronald Otters,Bemmel,M,121,00:39:54,00:39:12,10e Bruggenloop ,2015-09-06
+184,A249,Maud Aaldering,Nijmegen,V,63,00:39:56,00:39:17,10e Bruggenloop ,2015-09-06
+185,A601,Inge Ahout,Nijmegen,V,64,00:40:01,00:39:55,10e Bruggenloop ,2015-09-06
+186,A330,Margo Ploumen,Nijmegen,V,65,00:40:02,00:39:48,10e Bruggenloop ,2015-09-06
+187,A562,Loes van Deursen,Nijmegen,V,66,00:40:03,00:39:45,10e Bruggenloop ,2015-09-06
+188,A666,Jacqueline Claessen,Kerkrade,V,67,00:40:08,00:39:41,10e Bruggenloop ,2015-09-06
+189,A575,Sabine van den Akker,Nijmegen,V,68,00:40:10,00:39:30,10e Bruggenloop ,2015-09-06
+190,A186,Esther Landsheer,Nijmegen,V,69,00:40:14,00:39:33,10e Bruggenloop ,2015-09-06
+191,A353,Ineke Degen,Oosterhout Gld,V,70,00:40:16,00:39:59,10e Bruggenloop ,2015-09-06
+192,A801,Jacqueline Tiemens,Nijmegen,V,71,00:40:17,00:39:48,10e Bruggenloop ,2015-09-06
+193,A155,Ruud Krosse,Nijmegen,M,122,00:40:17,00:39:37,10e Bruggenloop ,2015-09-06
+194,A39,Susan Tempelaar,York,V,72,00:40:18,00:39:42,10e Bruggenloop ,2015-09-06
+195,A252,Paul ter Laak,Nijmegen,M,123,00:40:21,00:39:54,10e Bruggenloop ,2015-09-06
+196,A471,Arjan Moerman,Nijmegen,M,124,00:40:23,00:39:37,10e Bruggenloop ,2015-09-06
+197,A397,Jantien de Vries,Lent,V,73,00:40:28,00:39:43,10e Bruggenloop ,2015-09-06
+198,A578,Bern Lauriks,Arnhem,M,125,00:40:33,00:39:53,10e Bruggenloop ,2015-09-06
+199,A478,Sandra van Eijk,Lent,V,74,00:40:35,00:39:58,10e Bruggenloop ,2015-09-06
+200,A814,Imke Munnix,Nijmegen,V,75,00:40:37,00:40:08,10e Bruggenloop ,2015-09-06
+201,A72,Kim Messelink,Nijmegen,V,76,00:40:37,00:39:50,10e Bruggenloop ,2015-09-06
+202,A638,Petra Verwey,Nijmegen,V,77,00:40:39,00:40:15,10e Bruggenloop ,2015-09-06
+203,A221,Lisette van Oorschot,Duiven,V,78,00:40:40,00:40:02,10e Bruggenloop ,2015-09-06
+204,A702,Theo Engelen,Nijmegen,M,126,00:40:47,00:40:03,10e Bruggenloop ,2015-09-06
+205,A302,Henry Verbij,Meppel,M,127,00:40:50,00:40:22,10e Bruggenloop ,2015-09-06
+206,A880,Annet Simons,Nijmegen,V,79,00:40:52,00:40:08,10e Bruggenloop ,2015-09-06
+207,A237,Esther van Riemsdijk,Hendrik-Ido-Ambacht,V,80,00:40:57,00:40:09,10e Bruggenloop ,2015-09-06
+208,A148,Melissa meurkens,Cuijk,V,81,00:41:00,00:40:48,10e Bruggenloop ,2015-09-06
+209,A577,Marleen Janssen,Arnhem,V,82,00:41:01,00:40:20,10e Bruggenloop ,2015-09-06
+210,A427,Patricia van Middendorp,Wijchen,V,83,00:41:01,00:40:17,10e Bruggenloop ,2015-09-06
+211,A931,Peter Sengers, ,M,128,00:41:04,00:40:36,10e Bruggenloop ,2015-09-06
+212,A423,Annet Hietberg,Nijmegen,V,84,00:41:10,00:40:40,10e Bruggenloop ,2015-09-06
+213,A230,Gea Bregt,Arnhem,V,85,00:41:11,00:40:48,10e Bruggenloop ,2015-09-06
+214,A557,Laura Heman,Maastricht,V,86,00:41:12,00:40:48,10e Bruggenloop ,2015-09-06
+215,A392,Peter Derks,Nijmegen,M,129,00:41:13,00:41:09,10e Bruggenloop ,2015-09-06
+216,A777,Sarah Verhoeff,Nijmegen,V,87,00:41:16,00:40:49,10e Bruggenloop ,2015-09-06
+217,A848,Masja van Hoof, ,V,88,00:41:16,00:40:33,10e Bruggenloop ,2015-09-06
+218,A846,Ricardo papeleu,Tiel,M,130,00:41:24,00:41:21,10e Bruggenloop ,2015-09-06
+219,A216,Geertje Jeuken,Lent,V,89,00:41:32,00:41:08,10e Bruggenloop ,2015-09-06
+220,A543,Paul van Buul,Nijmegen,M,131,00:41:36,00:41:07,10e Bruggenloop ,2015-09-06
+221,A651,Bart Bonhof,Nijmegen,M,132,00:41:40,00:41:03,10e Bruggenloop ,2015-09-06
+222,A315,Ingrid van Weerdenburg,Boven-Leeuwen,V,90,00:41:42,00:41:07,10e Bruggenloop ,2015-09-06
+223,A854,Nancy lucius,Nijmegen,V,91,00:41:48,00:41:02,10e Bruggenloop ,2015-09-06
+224,A162,Louise Verkleij,Boven-Leeuwen,V,92,00:41:53,00:40:56,10e Bruggenloop ,2015-09-06
+225,A19,Marieke Lindenschot,Nijmegen,V,93,00:41:56,00:41:21,10e Bruggenloop ,2015-09-06
+226,A232,Bouwdien Jansen,Nijmegen,V,94,00:41:57,00:41:34,10e Bruggenloop ,2015-09-06
+227,A65,Harrit Gilham,Weurt,V,95,00:42:03,00:41:19,10e Bruggenloop ,2015-09-06
+228,A239,Antoon de Wilde van Orden,Nijmegen,M,133,00:42:09,00:41:14,10e Bruggenloop ,2015-09-06
+229,A180,Dorothe dijkstra,Nijmegen,V,96,00:42:13,00:41:18,10e Bruggenloop ,2015-09-06
+230,A549,Daisy Oliemeulen,'s-Hertogenbosch,V,97,00:42:15,00:41:38,10e Bruggenloop ,2015-09-06
+231,A199,Margriet Kooistra,Nijmegen,V,98,00:42:20,00:41:41,10e Bruggenloop ,2015-09-06
+232,A55,Eelke Payens,Nijmegen,V,99,00:42:20,00:41:54,10e Bruggenloop ,2015-09-06
+233,A524,Edward Bakker,Borne,M,134,00:42:26,00:41:31,10e Bruggenloop ,2015-09-06
+234,A678,Martin Reuselaars,Angeren,M,135,00:42:31,00:41:35,10e Bruggenloop ,2015-09-06
+235,A676,Mari Wolters,Nijmegen,V,100,00:42:31,00:41:46,10e Bruggenloop ,2015-09-06
+236,A675,Ruud Wolters,Nijmegen,M,136,00:42:31,00:41:46,10e Bruggenloop ,2015-09-06
+237,A412,Angelique Kersten,Wijchen,V,101,00:42:32,00:41:42,10e Bruggenloop ,2015-09-06
+238,A244,Eefje Baars,Beek-Ubbergen,V,102,00:42:34,00:41:43,10e Bruggenloop ,2015-09-06
+239,A713,Anouck hunck,Rotterdam,V,103,00:42:37,00:41:59,10e Bruggenloop ,2015-09-06
+240,A382,Nynke Nagtzaam,Nijmegen,V,104,00:42:37,00:42:00,10e Bruggenloop ,2015-09-06
+241,A326,Marijke van Gemert,Utrecht,V,105,00:42:40,00:42:05,10e Bruggenloop ,2015-09-06
+242,A735,Piet Zegelaar,Barendrecht,M,137,00:42:40,00:42:18,10e Bruggenloop ,2015-09-06
+243,A106,Marieke Ketel,Nijmegen,V,106,00:42:43,00:42:20,10e Bruggenloop ,2015-09-06
+244,A280,Letty van Gemert,Nijmegen,V,107,00:42:45,00:42:11,10e Bruggenloop ,2015-09-06
+245,A243,Ren Croonen,Groesbeek,M,138,00:42:49,00:42:19,10e Bruggenloop ,2015-09-06
+246,A31,Ron van Kolck,Nijmegen,M,139,00:42:52,00:42:14,10e Bruggenloop ,2015-09-06
+247,A179,Peter Zijderveld,Nijmegen,M,140,00:42:54,00:41:59,10e Bruggenloop ,2015-09-06
+248,A304,Audrey Smits,Belfeld,V,108,00:43:02,00:42:35,10e Bruggenloop ,2015-09-06
+249,A766,Willem Korstanje,Nijmegen,M,141,00:43:03,00:42:57,10e Bruggenloop ,2015-09-06
+250,A716,Maritte van Oers,Nijmegen,V,109,00:43:03,00:42:58,10e Bruggenloop ,2015-09-06
+251,A765,Nicolette Loning,Nijmegen,V,110,00:43:03,00:42:57,10e Bruggenloop ,2015-09-06
+252,A723,Nora Caerteling,Nijmegen,V,111,00:43:03,00:42:57,10e Bruggenloop ,2015-09-06
+253,A648,Eva Cuppen,Nijmegen,V,112,00:43:08,00:42:20,10e Bruggenloop ,2015-09-06
+254,A528,Sanne Geurts,Nijmegen,V,113,00:43:23,00:42:35,10e Bruggenloop ,2015-09-06
+255,A890,Hans Evers,Huissen,M,142,00:43:35,00:42:55,10e Bruggenloop ,2015-09-06
+256,A185,Guus de Bruijn,Nijmegen,M,143,00:43:38,00:42:57,10e Bruggenloop ,2015-09-06
+257,A222,Alina van Lierop,Zevenaar,V,114,00:43:39,00:42:59,10e Bruggenloop ,2015-09-06
+258,A829,Marieke Meijer,Nijmegen,V,115,00:43:48,00:42:52,10e Bruggenloop ,2015-09-06
+259,A822,Steffie Bosch,Nijmegen,V,116,00:43:50,00:43:09,10e Bruggenloop ,2015-09-06
+260,A409,Chantal Peters,Nijmegen,V,117,00:43:52,00:43:09,10e Bruggenloop ,2015-09-06
+261,A773,Eef van Dijk,Nijmegen,V,118,00:43:52,00:43:10,10e Bruggenloop ,2015-09-06
+262,A370,Marloes Wannet,Weurt,V,119,00:43:57,00:43:07,10e Bruggenloop ,2015-09-06
+263,A64,Marion Verhulsdonck,Berg en Dal,V,120,00:43:58,00:43:37,10e Bruggenloop ,2015-09-06
+264,A770,Charlotte van Tuyll,Lent,V,121,00:44:13,00:43:28,10e Bruggenloop ,2015-09-06
+265,A207,Hennie Hofman,Nijmegen,M,144,00:44:22,00:44:18,10e Bruggenloop ,2015-09-06
+266,A744,Carla van den Broek,Nijmegen,V,122,00:44:28,00:43:38,10e Bruggenloop ,2015-09-06
+267,A33,Lonneke Verhoeff,Nijmegen,V,123,00:44:34,00:44:07,10e Bruggenloop ,2015-09-06
+268,A725,Ingrid Thoonen,Nijmegen,V,124,00:44:40,00:44:26,10e Bruggenloop ,2015-09-06
+269,A198,Richard van Oers,Nijmegen,M,145,00:44:40,00:44:18,10e Bruggenloop ,2015-09-06
+270,A165,Joshua Calis,Uithoorn,M,146,00:44:50,00:44:32,10e Bruggenloop ,2015-09-06
+271,A161,Claudia Verstrepen,Wijchen,V,125,00:44:52,00:44:18,10e Bruggenloop ,2015-09-06
+272,A285,Nicole Voets,Nuland,V,126,00:44:52,00:44:16,10e Bruggenloop ,2015-09-06
+273,A439,Wilma van Ewijk,Cuijk,V,127,00:44:53,00:44:21,10e Bruggenloop ,2015-09-06
+274,A279,Timo Vermeulen,De Kwakel,M,147,00:44:55,00:44:39,10e Bruggenloop ,2015-09-06
+275,A227,John van Ochten,Lent,M,148,00:44:55,00:44:06,10e Bruggenloop ,2015-09-06
+276,A9,Patricia van Zuijlen,Lent,V,128,00:44:58,00:44:18,10e Bruggenloop ,2015-09-06
+277,A111,Henriksen-Delaney Vicky,Malden,V,129,00:44:58,00:44:26,10e Bruggenloop ,2015-09-06
+278,A410,Catheleyne Creusen,Nijmegen,V,130,00:45:00,00:44:34,10e Bruggenloop ,2015-09-06
+279,A225,Myriam Jacobs,Lent,V,131,00:45:07,00:44:16,10e Bruggenloop ,2015-09-06
+280,A511,Ineke Wiegman,Beek-Ubbergen,V,132,00:45:14,00:44:21,10e Bruggenloop ,2015-09-06
+281,A497,Bo Faber,Nijmegen,V,133,00:45:25,00:44:55,10e Bruggenloop ,2015-09-06
+282,A496,Leen Kap,Nijmegen,M,149,00:45:25,00:44:55,10e Bruggenloop ,2015-09-06
+283,A264,Jackie Kersten,Nijmegen,V,134,00:45:32,00:44:45,10e Bruggenloop ,2015-09-06
+284,A223,Angela de Zeeuw,Ede Gld,V,135,00:45:38,00:44:44,10e Bruggenloop ,2015-09-06
+285,A851,Karin Verberkt,Cuijk,V,136,00:45:47,00:45:27,10e Bruggenloop ,2015-09-06
+286,A850,Bianca Schrurs,Nijmegen,V,137,00:45:47,00:45:28,10e Bruggenloop ,2015-09-06
+287,A641,Amel Schussler,Nijmegen,V,138,00:45:48,00:45:02,10e Bruggenloop ,2015-09-06
+288,A116,Patricia Janssen,Nijmegen,V,139,00:46:05,00:45:16,10e Bruggenloop ,2015-09-06
+289,A66,Michael Gilham,Weurt,M,150,00:46:16,00:45:33,10e Bruggenloop ,2015-09-06
+290,A785,Ria Schrijvers,Duiven,V,140,00:46:18,00:45:39,10e Bruggenloop ,2015-09-06
+291,A611,Frieda Jansen-Bastiaans,Nijmegen,V,141,00:46:26,00:46:07,10e Bruggenloop ,2015-09-06
+292,A18,Sari Koppens,Nijmegen,V,142,00:46:38,00:45:56,10e Bruggenloop ,2015-09-06
+293,A37,Pascale Companjen,Nijmegen,V,143,00:47:01,00:46:09,10e Bruggenloop ,2015-09-06
+294,A152,Raymond Freni,Ewijk,M,151,00:47:23,00:46:36,10e Bruggenloop ,2015-09-06
+295,A89,Anita Christ,Nijmegen,V,144,00:47:37,00:46:45,10e Bruggenloop ,2015-09-06
+296,A90,Christel van Brakel,Nijmegen,V,145,00:47:37,00:46:46,10e Bruggenloop ,2015-09-06
+297,A552,Lieneke van Holten,Nijmegen,V,146,00:47:41,00:46:55,10e Bruggenloop ,2015-09-06
+298,A823,Hanneke Henzen,Nijmegen,V,147,00:47:41,00:46:47,10e Bruggenloop ,2015-09-06
+299,A428,Igna Reijnders,'s-Gravenhage,V,148,00:47:42,00:46:51,10e Bruggenloop ,2015-09-06
+300,A507,Roos Cuppen,Nijmegen,V,149,00:47:46,00:46:57,10e Bruggenloop ,2015-09-06
+301,A860,Ivette vd wijngaard,Lent,V,150,00:48:09,00:48:05,10e Bruggenloop ,2015-09-06
+302,A339,Joyce werts,Nijmegen,V,151,00:48:15,00:47:23,10e Bruggenloop ,2015-09-06
+303,A300,Hennie Wijgman,Kekerdom,V,152,00:48:21,00:47:39,10e Bruggenloop ,2015-09-06
+304,A241,Ans de Waal,Nijmegen,V,153,00:48:51,00:48:41,10e Bruggenloop ,2015-09-06
+305,A640,Laura Klaassen,Nijmegen,V,154,00:48:52,00:48:42,10e Bruggenloop ,2015-09-06
+306,A193,Inge Verhoogt,Nijmegen,V,155,00:48:52,00:48:00,10e Bruggenloop ,2015-09-06
+307,A540,Charli Janssen,Nijmegen,V,156,00:48:53,00:48:04,10e Bruggenloop ,2015-09-06
+308,A539,Hennie de Swart,Elst Gld,V,157,00:48:53,00:48:05,10e Bruggenloop ,2015-09-06
+309,A349,Karin Hombergen,Groesbeek,V,158,00:49:11,00:48:15,10e Bruggenloop ,2015-09-06
+310,A514,Ellen Verhoeven,Malden,V,159,00:49:27,00:48:32,10e Bruggenloop ,2015-09-06
+311,A791,Marloes willems Schuurman,Cuijk,V,160,00:49:53,00:49:17,10e Bruggenloop ,2015-09-06
+312,A245,Joyce van Oosterhout,Nijmegen,V,161,00:50:16,00:49:25,10e Bruggenloop ,2015-09-06
+313,A875,Orlanda Goncalves,Ede Gld,V,162,00:50:35,00:50:03,10e Bruggenloop ,2015-09-06
+314,A876,Bianca Gomes,Ede Gld,V,163,00:50:35,00:50:03,10e Bruggenloop ,2015-09-06
+315,A303,Gerla Verbij,Meppel,V,164,00:50:35,00:50:07,10e Bruggenloop ,2015-09-06
+316,A220,Katrine Huijbers,Nijmegen,V,165,00:50:53,00:50:02,10e Bruggenloop ,2015-09-06
+317,A697,Petra Rutten,Nijmegen,V,166,00:50:59,00:50:08,10e Bruggenloop ,2015-09-06
+318,A808,Roos Huijbers,Nijmegen,V,167,00:50:59,00:50:07,10e Bruggenloop ,2015-09-06
+319,A807,Maarten Huijbers,Nijmegen,M,152,00:50:59,00:50:07,10e Bruggenloop ,2015-09-06
+320,A455,Oliva Peeters,Nijmegen,V,168,00:51:56,00:51:30,10e Bruggenloop ,2015-09-06
+321,A843,Sonja van oosterhout,Bemmel,V,169,00:52:08,00:52:02,10e Bruggenloop ,2015-09-06
+322,A301,Miriam Mols,Reuver,V,170,00:52:57,00:52:31,10e Bruggenloop ,2015-09-06
+323,A156,Ingrid Meijer,Nijmegen,V,171,00:55:00,00:54:17,10e Bruggenloop ,2015-09-06
+324,A475,Sven Glazenburg,Nijmegen,M,153,01:05:03,01:04:15,10e Bruggenloop ,2015-09-06

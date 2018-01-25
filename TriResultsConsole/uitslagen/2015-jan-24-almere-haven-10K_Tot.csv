@@ -1,0 +1,232 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,ATC,CatATC,race,date
+1,1,Bas de Waal,Almere,H20,1,00:33:35,00:33:35, , ,RIXAX KidneyRun@Night ,2015-01-24
+2,70,Merlijn Dekker,Almere,H20,2,00:33:38,00:33:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+3,55,Tsega Dames Ayulu,Almere,H20,3,00:35:16,00:35:16, , ,RIXAX KidneyRun@Night ,2015-01-24
+4,67,Martijn Boot,Almere,H20,4,00:35:30,00:35:28, , ,RIXAX KidneyRun@Night ,2015-01-24
+5,60,Tjerk Tjallema,Almere,H20,5,00:35:48,00:35:48, , ,RIXAX KidneyRun@Night ,2015-01-24
+6,194,Mohammed Zemouri,Almere,H40,1,00:35:55,00:35:54, , ,RIXAX KidneyRun@Night ,2015-01-24
+7,5,Pim Lebouille,Almere,H20,6,00:36:33,00:36:33, , ,RIXAX KidneyRun@Night ,2015-01-24
+8,105,Randy Hendriks,Lelystad,H40,2,00:36:51,00:36:51,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+9,75,Dennis de Knijff,Almere,H20,7,00:36:51,00:36:50, , ,RIXAX KidneyRun@Night ,2015-01-24
+10,71,Wouter Viskil,Almere,H20,8,00:37:14,00:37:13,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+11,101,Wannie Friderichs,Almere,H40,3,00:37:28,00:37:26, , ,RIXAX KidneyRun@Night ,2015-01-24
+12,26,Stefan Staartjes,Almere,H20,9,00:37:32,00:37:30, , ,RIXAX KidneyRun@Night ,2015-01-24
+13,212,Petrus Lenes,Almere,H40,4,00:37:56,00:37:54, , ,RIXAX KidneyRun@Night ,2015-01-24
+14,213,Anthonie Dam,Almere,H40,5,00:37:58,00:37:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+15,57,Robbert Springveld,Almere,H20,10,00:38:14,00:38:12, , ,RIXAX KidneyRun@Night ,2015-01-24
+16,198,Wim Dokter,Almere,H40,6,00:38:32,00:38:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+17,50,Thomas Bennis,Almere,H20,11,00:39:14,00:39:14,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+18,3,Glenn Wesseling,Almere,H20,12,00:39:19,00:39:18, , ,RIXAX KidneyRun@Night ,2015-01-24
+19,148,Cor Boerman,Almere,H40,7,00:39:20,00:39:19, , ,RIXAX KidneyRun@Night ,2015-01-24
+20,136,Hans Lampe,Almere,H40,8,00:39:41,00:39:39,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+21,199,Remko Riebeek,Almere,H40,9,00:40:07,00:40:04, , ,RIXAX KidneyRun@Night ,2015-01-24
+22,18,Marten Visser,Almere,H20,13,00:40:22,00:40:19,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+23,72,Sietse-Jan Sietzema,Lelystad,H20,14,00:40:48,00:40:45, , ,RIXAX KidneyRun@Night ,2015-01-24
+24,104,Wilfred Frederiks,Almere,H40,10,00:40:53,00:40:51,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+25,188,Maarten Hienekamp,Amersfoort,H40,11,00:40:56,00:40:51, , ,RIXAX KidneyRun@Night ,2015-01-24
+26,11,Jeroen van den Berg,Almere,H20,15,00:41:51,00:41:49,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+27,13,Emile Cornelisse,Almere,H20,16,00:42:13,00:42:10,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+28,126,Erik Bloklander,Almere,H40,12,00:42:22,00:42:19,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+29,32,Marco Weisbeek,Almere,H20,17,00:42:50,00:42:47, , ,RIXAX KidneyRun@Night ,2015-01-24
+30,66,Mortin Jelders,Oudehaske,H20,18,00:43:00,00:43:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+31,37,Jan Sprengers,Utrecht,H20,19,00:43:27,00:43:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+32,200,Pascal Jalhay,Almere,H40,13,00:43:34,00:43:23, , ,RIXAX KidneyRun@Night ,2015-01-24
+33,58,Dennis Winters,Almere,H20,20,00:43:41,00:43:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+34,46,Sjors Stam,Naarden,H20,21,00:44:02,00:44:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+35,73,Remko Toorenburgh,Almere,H20,22,00:44:10,00:44:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+36,131,Martin Lieberom,Almere,H40,14,00:44:12,00:44:06,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+37,117,Leo Muijs,Almere,H40,15,00:44:19,00:44:14,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+38,437,Doris Gritsch,Almere,D40,1,00:44:23,00:44:21, , ,RIXAX KidneyRun@Night ,2015-01-24
+39,177,Patrick Matthiesen,Almere,H40,16,00:44:31,00:44:28, , ,RIXAX KidneyRun@Night ,2015-01-24
+40,167,Martijn van Ouwerkerk,Almere,H40,17,00:44:33,00:44:30,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+41,56,Tim Meijer,Almere,H20,23,00:44:35,00:44:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+42,27,Guido Luyb,Amsterdam,H20,24,00:44:37,00:44:17, , ,RIXAX KidneyRun@Night ,2015-01-24
+43,168,Leon Lankester,Naaldwijk,H40,18,00:44:40,00:44:38,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+44,185,Hans Nuijts,Almere,H40,19,00:44:44,00:44:40, , ,RIXAX KidneyRun@Night ,2015-01-24
+45,192,Manuel Mertens,Almere,H40,20,00:45:08,00:44:55, , ,RIXAX KidneyRun@Night ,2015-01-24
+46,17,Roy Nicolaas Ponder,Almere,H20,25,00:45:12,00:45:08,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+47,61,Maikel van Wier,Almere,H20,26,00:45:16,00:44:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+48,147,Jos van der Velden,Almere,H40,21,00:45:20,00:45:15,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+49,336,Iris Heuckeroth,Staphorst,D20,1,00:45:22,00:45:16, , ,RIXAX KidneyRun@Night ,2015-01-24
+50,76,Sander Hannot,Almere,H20,27,00:45:28,00:45:21, , ,RIXAX KidneyRun@Night ,2015-01-24
+51,123,Marco Groot,Duivendrecht,H40,22,00:45:34,00:45:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+52,114,Rob van der Velden,Almere,H40,23,00:45:35,00:45:13, , ,RIXAX KidneyRun@Night ,2015-01-24
+53,164,Jan-willem Aikens,Almere,H40,24,00:45:40,00:45:28,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+54,144,Bas Lacroix,Almere,H40,25,00:46:14,00:46:06, , ,RIXAX KidneyRun@Night ,2015-01-24
+55,133,Paul Schijff,Almere,H40,26,00:46:20,00:46:16,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+56,172,Michiel de Graaf,Almere,H40,27,00:46:37,00:46:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+57,155,Wim de Wit,Almere,H40,28,00:46:46,00:46:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+58,409,Gieny van Niejenhuis,Almere,D40,2,00:47:03,00:47:00,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+59,197,Wim Steenman,Almere,H40,29,00:47:21,00:47:12, , ,RIXAX KidneyRun@Night ,2015-01-24
+60,443,Margalith Goud,Lelystad,D40,3,00:47:25,00:47:23,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+61,163,Wouter Kooij,Harderwijk,H40,30,00:47:35,00:47:16, , ,RIXAX KidneyRun@Night ,2015-01-24
+62,174,Richard Strobbe,Almere,H40,31,00:47:38,00:47:25,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+63,43,Dylan Navis,Almere,H20,28,00:47:41,00:47:37, , ,RIXAX KidneyRun@Night ,2015-01-24
+64,402,Karen Prantl,Amersfoort,D40,4,00:47:46,00:47:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+65,24,Tim Zittersteijn,Almere,H20,29,00:47:53,00:47:44, , ,RIXAX KidneyRun@Night ,2015-01-24
+66,183,Henk Bode,Almere,H40,32,00:48:03,00:48:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+67,49,Robin Verkade,Almere,H20,30,00:48:04,00:47:56, , ,RIXAX KidneyRun@Night ,2015-01-24
+68,191,Eric Beltzer,Almere,H40,33,00:48:05,00:47:49, , ,RIXAX KidneyRun@Night ,2015-01-24
+69,338,Tessa Schijff,Almere,D20,2,00:48:16,00:48:12,ATC,D20,RIXAX KidneyRun@Night ,2015-01-24
+70,139,Ronald Jansen,Almere,H40,34,00:48:18,00:48:12, , ,RIXAX KidneyRun@Night ,2015-01-24
+71,138,Jan Fhijnbeen,Almere,H40,35,00:48:25,00:48:17,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+72,102,Simon de Birk,Almere,H40,36,00:48:32,00:48:25, , ,RIXAX KidneyRun@Night ,2015-01-24
+73,36,Henk van Niejenhuis,Amsterdam,H20,31,00:48:34,00:48:13,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+74,65,Jeroen Beugeling,Almere,H20,32,00:48:36,00:48:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+75,173,Michiel Timmerman,Dronten,H40,37,00:48:47,00:48:38,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+76,176,Martijn Nanninga,Amersfoort,H40,38,00:48:59,00:48:41, , ,RIXAX KidneyRun@Night ,2015-01-24
+77,135,Arnold Wever,Zwolle,H40,39,00:48:59,00:48:51, , ,RIXAX KidneyRun@Night ,2015-01-24
+78,187,Wilco Kleefsman,Almere,H40,40,00:48:59,00:48:54, , ,RIXAX KidneyRun@Night ,2015-01-24
+79,180,Emiel van Raalte,Almere,H40,41,00:49:18,00:49:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+80,119,Jan Aland,Almere,H40,42,00:49:20,00:49:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+81,211,Peter Caron,Almere,H40,43,00:49:22,00:49:08, , ,RIXAX KidneyRun@Night ,2015-01-24
+82,209,Martijn Dijkman,Almere,H40,44,00:49:29,00:49:18, , ,RIXAX KidneyRun@Night ,2015-01-24
+83,440,Brenda Pestman,Almere,D40,5,00:49:37,00:49:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+84,74,Maarten Droogendijk,Almere,H20,33,00:49:38,00:49:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+85,151,Jan de Wolde,Almere,H40,45,00:49:41,00:49:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+86,424,Astrid Spoelder,Almere,D40,6,00:49:49,00:49:35,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+87,404,Ingeborg Schoonackers,Almere,D40,7,00:49:53,00:49:49, , ,RIXAX KidneyRun@Night ,2015-01-24
+88,160,Erik Kruse,Zoetermeer,H40,46,00:50:01,00:49:45, , ,RIXAX KidneyRun@Night ,2015-01-24
+89,320,Dra Rvsz,Amsterdam,D20,3,00:50:01,00:49:49,ATC,D20,RIXAX KidneyRun@Night ,2015-01-24
+90,405,Astrid Schluter,Bussum,D40,8,00:50:03,00:49:45, , ,RIXAX KidneyRun@Night ,2015-01-24
+91,331,Britt de Waal,Almere,D20,4,00:50:13,00:50:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+92,21,Maarten Kuiter,Almere,H20,34,00:50:18,00:50:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+93,137,Albert Callenbach,Almere,H40,47,00:50:25,00:50:21,ATC,H50,RIXAX KidneyRun@Night ,2015-01-24
+94,171,Barry van Oostrom,Almere,H40,48,00:50:34,00:50:15, , ,RIXAX KidneyRun@Night ,2015-01-24
+95,202,Rien Dekker,Almere,H40,49,00:50:48,00:50:41, , ,RIXAX KidneyRun@Night ,2015-01-24
+96,303,Julia Glazenburg,Amsterdam,D20,5,00:50:54,00:50:33, , ,RIXAX KidneyRun@Night ,2015-01-24
+97,190,Peter Wolters Van Der Weij,Almere,H40,50,00:50:57,00:50:41, , ,RIXAX KidneyRun@Night ,2015-01-24
+98,417,Dalva Hubert,Almere,D40,9,00:51:00,00:50:38, , ,RIXAX KidneyRun@Night ,2015-01-24
+99,42,Jori Faber,Almere,H20,35,00:51:19,00:51:15, , ,RIXAX KidneyRun@Night ,2015-01-24
+100,313,Ellen te Kaat,Rijswijk,D20,6,00:51:29,00:51:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+101,165,Paul Kramer,Almere,H40,51,00:51:34,00:51:22, , ,RIXAX KidneyRun@Night ,2015-01-24
+102,146,Dick van Roekel,Almere,H40,52,00:51:39,00:51:33, , ,RIXAX KidneyRun@Night ,2015-01-24
+103,40,Kees Ursem,Amsterdam,H20,36,00:51:44,00:51:25, , ,RIXAX KidneyRun@Night ,2015-01-24
+104,301,Fiona Mirea,Almere,D20,7,00:51:44,00:51:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+105,446,Petra Eckhardt,Amersfoort,D40,10,00:51:56,00:51:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+106,442,Esther Aikens,Almere,D40,11,00:52:09,00:51:55,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+107,103,Herman te Rietmuide,Almere,H40,53,00:52:20,00:52:08, , ,RIXAX KidneyRun@Night ,2015-01-24
+108,312,Jolinn Leatemia,Almere,D20,8,00:52:21,00:52:09, , ,RIXAX KidneyRun@Night ,2015-01-24
+109,450,Anke van Genesen,Almere,D40,12,00:52:32,00:52:21, , ,RIXAX KidneyRun@Night ,2015-01-24
+110,39,Michel Kars,Almere,H20,37,00:52:43,00:52:33, , ,RIXAX KidneyRun@Night ,2015-01-24
+111,208,Theo Voermans,Almere,H40,54,00:52:47,00:52:29, , ,RIXAX KidneyRun@Night ,2015-01-24
+112,62,Jaap Bouwsma,Almere,H20,38,00:52:48,00:52:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+113,129,Volker Prinz,Koeln,H40,55,00:52:49,00:52:38, , ,RIXAX KidneyRun@Night ,2015-01-24
+114,154,Andre Strobbe,Almere,H40,56,00:52:55,00:52:40, , ,RIXAX KidneyRun@Night ,2015-01-24
+115,109,Wim van Brummen,Almere,H40,57,00:53:05,00:52:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+116,337,Melanie Mikkelsen,Almere,D20,9,00:53:08,00:52:53, , ,RIXAX KidneyRun@Night ,2015-01-24
+117,54,Rick Kostelijk,Almere,H20,39,00:53:09,00:53:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+118,309,Sylvia Prins,Lisse,D20,10,00:53:09,00:52:51, , ,RIXAX KidneyRun@Night ,2015-01-24
+119,20,Cor Boutkan,Almere,H20,40,00:53:10,00:52:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+120,77,Mark van Meer,Drunen,H20,41,00:53:12,00:52:50, , ,RIXAX KidneyRun@Night ,2015-01-24
+121,448,Jolanda Kroese,Almere,D40,13,00:53:17,00:52:59,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+122,316,Maryvonne van den Berg,Almere,D20,11,00:53:20,00:53:08,ATC,D20,RIXAX KidneyRun@Night ,2015-01-24
+123,158,Jean-paul Snelders,Almere,H40,58,00:53:21,00:53:17, , ,RIXAX KidneyRun@Night ,2015-01-24
+124,449,Gabie ter Braake,Almere,D40,14,00:53:24,00:53:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+125,426,Winni Jansen,Almere,D40,15,00:53:38,00:53:34, , ,RIXAX KidneyRun@Night ,2015-01-24
+126,143,Klaas Boersma,Almere,H40,59,00:53:42,00:53:38, , ,RIXAX KidneyRun@Night ,2015-01-24
+127,134,Eric Collette,Leusden,H40,60,00:53:43,00:53:24, , ,RIXAX KidneyRun@Night ,2015-01-24
+128,201,Robert van Lemmeren,Almere,H40,61,00:53:48,00:53:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+129,445,Ellen Morrin,Almere,D40,16,00:53:48,00:53:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+130,116,Martin Esman,Bussum,H40,62,00:53:48,00:53:27, , ,RIXAX KidneyRun@Night ,2015-01-24
+131,169,Eugene Florentinus,Almere,H40,63,00:53:52,00:53:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+132,203,Remy Snel,Almere,H40,64,00:53:55,00:53:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+133,161,Sander Hospers,Almere,H40,65,00:54:02,00:53:49,ATC,H40,RIXAX KidneyRun@Night ,2015-01-24
+134,204,Kor de Boer,Almere,H40,66,00:54:06,00:53:55, , ,RIXAX KidneyRun@Night ,2015-01-24
+135,150,Erwin Loff,Almere,H40,67,00:54:07,00:54:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+136,31,Edwin Mertens,Almere,H20,42,00:54:13,00:54:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+137,153,Kennard van der Bijl,Ede,H40,68,00:54:29,00:54:17, , ,RIXAX KidneyRun@Night ,2015-01-24
+138,107,Gerhard Munniks,Almere,H40,69,00:54:34,00:54:15, , ,RIXAX KidneyRun@Night ,2015-01-24
+139,325,Maayke Seinstra,Dsseldorf,D20,12,00:54:36,00:54:33, , ,RIXAX KidneyRun@Night ,2015-01-24
+140,47,Rens van Leeuwen,Hoorn,H20,43,00:54:38,00:54:38,ATC,H20,RIXAX KidneyRun@Night ,2015-01-24
+141,419,Irene Zijlstra,Almere,D40,17,00:54:56,00:54:40, , ,RIXAX KidneyRun@Night ,2015-01-24
+142,421,Kitty Verburg,Almere,D40,18,00:55:01,00:54:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+143,25,Erik Petter,Almere,H20,44,00:55:13,00:55:03, , ,RIXAX KidneyRun@Night ,2015-01-24
+144,179,Martin Mijnlieff,Almere,H40,70,00:55:59,00:55:49, , ,RIXAX KidneyRun@Night ,2015-01-24
+145,69,Thomas Hollander,Almere,H20,45,00:55:59,00:55:43, , ,RIXAX KidneyRun@Night ,2015-01-24
+146,318,Coy Uijleman,Almere,D20,13,00:56:14,00:56:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+147,327,Patty Cramer,Almere,D20,14,00:56:16,00:56:11,ATC,D20,RIXAX KidneyRun@Night ,2015-01-24
+148,128,Theo van der Meulen,Almere,H40,71,00:56:28,00:56:17, , ,RIXAX KidneyRun@Night ,2015-01-24
+149,447,Geesken Zikking-dommerholt,Almere,D40,19,00:56:56,00:56:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+150,434,Vera Baltus,Almere,D40,20,00:57:04,00:56:56, , ,RIXAX KidneyRun@Night ,2015-01-24
+151,127,Alex Baltus,Almere,H40,72,00:57:05,00:56:56, , ,RIXAX KidneyRun@Night ,2015-01-24
+152,51,Sander Verkade,Almere,H20,46,00:57:05,00:56:57, , ,RIXAX KidneyRun@Night ,2015-01-24
+153,110,Peter van Heijningen,Almere,H40,73,00:57:07,00:57:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+154,206,Vilmar Arduin,Almere,H40,74,00:57:26,00:57:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+155,38,Jeffrey Bouwmeester,Almere,H20,47,00:57:31,00:57:11, , ,RIXAX KidneyRun@Night ,2015-01-24
+156,319,Joyce Bloemhard,Almere,D20,15,00:57:35,00:57:24, , ,RIXAX KidneyRun@Night ,2015-01-24
+157,23,Jeffrey Rijpkema,Almere,H20,48,00:57:35,00:57:25, , ,RIXAX KidneyRun@Night ,2015-01-24
+158,406,Anneke Anrochte,Almere,D40,21,00:57:48,00:57:43,ATC,D40,RIXAX KidneyRun@Night ,2015-01-24
+159,302,Angela Link,Weesp,D20,16,00:57:49,00:57:43, , ,RIXAX KidneyRun@Night ,2015-01-24
+160,425,Esmeralda Beeldsnijder,Almere,D40,22,00:57:56,00:57:44, , ,RIXAX KidneyRun@Night ,2015-01-24
+161,195,Tjeerd Glastra,Purmerend,H40,75,00:57:56,00:57:43, , ,RIXAX KidneyRun@Night ,2015-01-24
+162,308,Silvia Monden,Almere,D20,17,00:58:01,00:57:49, , ,RIXAX KidneyRun@Night ,2015-01-24
+163,304,Marije Graven,Utrecht,D20,18,00:58:01,00:57:48, , ,RIXAX KidneyRun@Night ,2015-01-24
+164,112,Jaap den Hartog,Almere,H40,76,00:58:13,00:58:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+165,186,Gertjan Detering,Almere,H40,77,00:58:13,00:58:08, , ,RIXAX KidneyRun@Night ,2015-01-24
+166,125,John Hofland,Almere,H40,78,00:58:19,00:58:03, , ,RIXAX KidneyRun@Night ,2015-01-24
+167,413,Marianne Vrijsen,Almere,D40,23,00:58:27,00:58:21, , ,RIXAX KidneyRun@Night ,2015-01-24
+168,436,Els Barria,Almere,D40,24,00:58:28,00:58:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+169,64,Jasper ter Lauw,Almere,H40,79,00:58:36,00:58:19, , ,RIXAX KidneyRun@Night ,2015-01-24
+170,63,Mike Diender,Almere,H40,80,00:58:36,00:58:19, , ,RIXAX KidneyRun@Night ,2015-01-24
+171,156,Edwin Vijsma,Velserbroek,H40,81,00:58:38,00:58:14, , ,RIXAX KidneyRun@Night ,2015-01-24
+172,175,Enrico de Harder,Almere,H40,82,00:58:41,00:58:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+173,130,Bob van Roosendaal,Almere,H40,83,00:58:47,00:58:29, , ,RIXAX KidneyRun@Night ,2015-01-24
+174,166,Dennis Sleeuwenhoek,Almere,H40,84,00:58:54,00:58:41, , ,RIXAX KidneyRun@Night ,2015-01-24
+175,418,Mieke Link,Almere,D40,25,00:59:06,00:59:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+176,124,Marlon Scholsberg,Almere,H40,85,00:59:08,00:59:01, , ,RIXAX KidneyRun@Night ,2015-01-24
+177,170,Henk de Hoog,Almere,H40,86,00:59:19,00:59:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+178,48,Yannick Hartman,Almere,H20,49,00:59:22,00:59:12, , ,RIXAX KidneyRun@Night ,2015-01-24
+179,35,Niels Heijnis,Almere,H20,50,00:59:22,00:59:11, , ,RIXAX KidneyRun@Night ,2015-01-24
+180,444,Anita de Lange,Almere,D40,26,00:59:38,00:59:14, , ,RIXAX KidneyRun@Night ,2015-01-24
+181,118,J.J. Vogel,Almere,H40,87,00:59:41,00:59:25, , ,RIXAX KidneyRun@Night ,2015-01-24
+182,34,Eddy van der Plas,Huizen,H20,51,00:59:45,00:59:29, , ,RIXAX KidneyRun@Night ,2015-01-24
+183,59,Anton van Tol,Amersfoort,H20,52,00:59:56,00:59:38, , ,RIXAX KidneyRun@Night ,2015-01-24
+184,15,Johan Florie,Vleuten,H20,53,00:59:56,00:59:36, , ,RIXAX KidneyRun@Night ,2015-01-24
+185,307,Michelle Wevers,Huizen,D20,19,01:00:00,00:59:39, , ,RIXAX KidneyRun@Night ,2015-01-24
+186,142,Marko van Bemmel,Reeuwijk,H40,88,01:00:00,00:59:37, , ,RIXAX KidneyRun@Night ,2015-01-24
+187,428,Nicoline Brugman,Almere,D40,27,01:00:00,00:59:37, , ,RIXAX KidneyRun@Night ,2015-01-24
+188,120,Egon Oltmans,Aalsmeer,H40,89,01:00:16,01:00:11, , ,RIXAX KidneyRun@Night ,2015-01-24
+189,416,Els Lindeboom,Almere,D40,28,01:00:16,01:00:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+190,322,Selma Ramselaar,Eemnes,D20,20,01:00:20,00:59:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+191,439,Chonita Beverwijk,Almere,D40,29,01:01:06,01:00:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+192,334,Brigitte Beverwijk,Almere,D20,21,01:01:06,01:00:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+193,68,Martijn van Langen,Amsterdam,H40,90,01:01:06,01:00:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+194,415,Diana Verhage,Almere,D40,30,01:01:23,01:00:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+195,414,Maaike Knijnenburg,Almere,D40,31,01:01:23,01:01:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+196,427,Janine Scherpenberg,Almere,D40,32,01:01:30,01:01:15, , ,RIXAX KidneyRun@Night ,2015-01-24
+197,145,Rob Markus,Lelystad,H40,91,01:01:46,01:01:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+198,108,Jan Jonker,Lelystad,H40,92,01:01:46,01:01:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+199,411,Saskia van der Mei,Almere,D40,33,01:01:56,01:01:32, , ,RIXAX KidneyRun@Night ,2015-01-24
+200,403,Cilia Fennis,Almere,D40,34,01:02:06,01:02:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+201,52,Daniel Leutscher,Almere,H20,54,01:02:58,01:02:44, , ,RIXAX KidneyRun@Night ,2015-01-24
+202,140,Erik Leutscher,Almere,H40,93,01:03:02,01:02:47, , ,RIXAX KidneyRun@Night ,2015-01-24
+203,330,Tamara Kops,Almere,D20,22,01:03:02,01:02:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+204,410,Marga Koning,Volendam,D40,35,01:03:06,01:02:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+205,451,Silvia Knauff,Almere,D40,36,01:03:18,01:03:09, , ,RIXAX KidneyRun@Night ,2015-01-24
+206,207,Bart Knauff,Almere,H40,94,01:03:19,01:03:10, , ,RIXAX KidneyRun@Night ,2015-01-24
+207,193,Michael ter Braake,Almere,H40,95,01:04:08,01:03:46, , ,RIXAX KidneyRun@Night ,2015-01-24
+208,205,Louis Ebbinkhuijsen,Almere,H40,96,01:04:08,01:04:02, , ,RIXAX KidneyRun@Night ,2015-01-24
+209,407,Angelique Vonsee,Hooglanderveen,D40,37,01:04:41,01:04:21, , ,RIXAX KidneyRun@Night ,2015-01-24
+210,184,Ben van Rooij,Almere,H40,97,01:04:47,01:04:34, , ,RIXAX KidneyRun@Night ,2015-01-24
+211,210,Ageeth Lagendijk,Almere,D40,38,01:04:52,01:04:47, , ,RIXAX KidneyRun@Night ,2015-01-24
+212,113,Kim Kodde,Almere,H40,98,01:05:03,01:04:46, , ,RIXAX KidneyRun@Night ,2015-01-24
+213,335,Sandra de Jonge,Nieuwendijk,D20,23,01:05:24,01:05:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+214,332,Cindy Bunschoten,Almere,D20,24,01:05:24,01:05:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+215,106,Henk Berkelaar,Almere,H40,99,01:06:03,01:06:00, , ,RIXAX KidneyRun@Night ,2015-01-24
+216,317,Magda van Dinteren,Almere,D20,25,01:06:05,01:05:42, , ,RIXAX KidneyRun@Night ,2015-01-24
+217,433,Wilma Blaauwendraat,Almere,D40,39,01:06:06,01:05:53, , ,RIXAX KidneyRun@Night ,2015-01-24
+218,314,Wendy Mertens,Almere,D20,26,01:06:06,01:05:53, , ,RIXAX KidneyRun@Night ,2015-01-24
+219,431,Jeannet van der Sluis,Almere,D40,40,01:06:08,01:05:55, , ,RIXAX KidneyRun@Night ,2015-01-24
+220,44,Niels Tol,Almere,H20,55,01:06:43,01:01:44, , ,RIXAX KidneyRun@Night ,2015-01-24
+221,306,Mariska de Hoog,Almere,D20,27,01:07:19,01:07:05, , ,RIXAX KidneyRun@Night ,2015-01-24
+222,16,Peter Huis,Almere,H20,56,01:07:33,01:07:26, , ,RIXAX KidneyRun@Night ,2015-01-24
+223,430,Petra Lobee-groen,Almere,D40,41,01:07:54,01:07:31, , ,RIXAX KidneyRun@Night ,2015-01-24
+224,33,Jeffrey Heijnis,Almere,H20,57,01:08:05,01:07:55, , ,RIXAX KidneyRun@Night ,2015-01-24
+225,438,Inge van Willigenburg,Almere,D40,42,01:08:08,01:07:52, , ,RIXAX KidneyRun@Night ,2015-01-24
+226,29,Daan Loeffen,Utrecht,H20,58,01:08:19,01:07:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+227,329,Kim Albers,Utrecht,D20,28,01:08:19,01:07:59, , ,RIXAX KidneyRun@Night ,2015-01-24
+228,441,Elisabeth van Dalen,Vianen,D40,43,01:08:27,01:08:17, , ,RIXAX KidneyRun@Night ,2015-01-24
+229,401,Sandra van Egmond,Voorhout,D40,44,01:09:23,01:08:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+230,132,Jan van Egmond,Almere,H40,100,01:09:23,01:08:58, , ,RIXAX KidneyRun@Night ,2015-01-24
+231,311,Linda Wildbret,Almere,D20,29,01:12:10,01:12:03, , ,RIXAX KidneyRun@Night ,2015-01-24

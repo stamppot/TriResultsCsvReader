@@ -1,0 +1,197 @@
+Pos,StartNr,Categ,Naam,Woonplaats,Zwem,#Zw,Wis1,#W1,Fiets,#Fie,NaFiets,#NaF,Wis2,#W2,Loop,#Loop,Total,DQ,race,date
+1,850,MSEN,Bram Koppenaal,Nijmegen, ,0, ,0, ,0, ,0, ,0, ,0,01:06:08, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+2,938,MSEN,Matt Warnock,Amsterdam,00:10:37,1,00:01:55,9,00:33:11,1,00:45:42,1,00:02:15,3,00:18:32,5,01:06:28, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+3,926,MSEN,Bas Veldhuis,Amsterdam,00:11:12,2,00:02:03,14,00:34:22,2,00:47:36,2,00:02:28,17,00:20:07,21,01:10:10, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+4,811,MSEN,David Eitelberg,Amsterdam,00:13:53,27,00:02:29,43,00:34:54,4,00:51:15,7,00:02:44,46,00:18:18,2,01:12:17, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+5,834,M40,Sten Iseger,Amsterdam,00:12:42,15,00:02:25,38,00:34:34,3,00:49:41,4,00:02:17,5,00:20:48,33,01:12:45, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+6,929,M40,Rick Verbree,Amsterdam,00:11:57,5,00:02:09,16,00:35:19,6,00:49:24,3,00:02:34,26,00:20:58,36,01:12:55, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+7,872,MSEN,Joris Matthee,Culemborg,00:12:04,7,00:01:34,1,00:36:08,10,00:49:45,5,00:02:21,8,00:21:44,52,01:13:48, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+8,801,M40,Jason van der Burgt,Amsterdam,00:13:52,26,00:01:51,7,00:36:53,19,00:52:35,13,00:02:24,10,00:19:02,10,01:14:00, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+9,905,MSEN,Bart Speet,Oss,00:12:17,12,00:02:22,32,00:37:42,32,00:52:21,11,00:02:35,29,00:19:42,17,01:14:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+10,842,MSEN,Renze Jongman,Amsterdam,00:14:23,37,00:02:53,71,00:35:45,8,00:53:01,17,00:02:35,30,00:19:16,11,01:14:51, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+11,788,MSEN,Ronald Boogaard,Amsterdam,00:12:11,10,00:02:10,17,00:37:18,24,00:51:37,8,00:02:45,49,00:21:19,42,01:15:39, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+12,808,MSEN,Peter van Dartel,Amsterdam,00:11:37,3,00:03:19,109,00:36:42,16,00:51:38,9,00:02:30,22,00:21:39,49,01:15:46, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+13,833,MSEN,William Ireson,Amsterdam,00:14:33,39,00:02:23,33,00:37:56,38,00:54:51,26,00:02:26,14,00:18:34,6,01:15:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+14,776,MSEN,Sander Aardenburg,Krommenie,00:15:02,42,00:02:15,23,00:35:12,5,00:52:28,12,00:02:32,24,00:21:24,44,01:16:23, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+15,860,MSEN,Arent Jan Linde,Amsterdam,00:13:28,23,00:02:20,29,00:37:07,22,00:52:54,14,00:02:31,23,00:21:03,38,01:16:26, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+16,754,VSEN,Kirsten van de Ruit,Hoofddorp,00:12:47,16,00:01:57,11,00:39:18,58,00:54:02,19,00:02:16,4,00:20:29,27,01:16:46, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+17,827,MSEN,Giel Hermans,Hoofddorp,00:12:30,13,00:02:46,61,00:36:36,15,00:51:52,10,00:02:40,41,00:22:24,67,01:16:55, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+18,868,MSEN,Gerald Malenstein,Huizen,00:16:14,57,00:02:55,72,00:36:49,18,00:55:57,34,00:02:56,65,00:18:31,4,01:17:23, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+19,940,MSEN,Stefan Wehnes,Assendelft,00:12:07,9,00:02:34,46,00:38:21,49,00:53:00,16,00:02:43,45,00:21:53,56,01:17:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+20,812,MSEN,David Emmelkamp,Amsterdam,00:12:31,14,00:02:27,40,00:36:12,11,00:51:09,6,00:02:28,18,00:24:04,106,01:17:41, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+21,907,MSEN,Keith Steenkamp,Amsterdam,00:11:59,6,00:01:54,8,00:40:42,86,00:54:34,23,00:02:25,11,00:20:56,35,01:17:54, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+22,866,M40,Remko van Lun,Krommenie,00:13:18,22,00:02:16,26,00:37:24,25,00:52:58,15,00:02:25,12,00:22:50,81,01:18:13, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+23,826,MSEN,Marcel Heijnen,Mijdrecht,00:15:09,44,00:02:10,19,00:37:50,34,00:55:07,27,00:02:26,13,00:20:44,31,01:18:16, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+24,924,MSEN,Dan Vasile,Amsterdam,00:16:29,65,00:02:11,20,00:37:27,27,00:56:06,35,00:02:36,33,00:19:36,16,01:18:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+25,831,MSEN,Niels Huisman,Malden,00:16:58,77,00:02:23,34,00:35:27,7,00:54:48,25,00:02:37,35,00:21:02,37,01:18:26, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+26,888,MSEN,Stanley Puijk,Hilversum,00:13:55,29,00:02:42,53,00:37:57,41,00:54:33,22,00:02:40,40,00:21:22,43,01:18:34, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+27,793,MSEN,Koen Bremer,Amsterdam,00:15:15,45,00:02:24,35,00:37:55,37,00:55:32,30,00:02:36,32,00:20:43,30,01:18:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+28,832,MSEN,Trond Husby,Amsterdam,00:15:53,53,00:02:24,37,00:36:30,14,00:54:46,24,00:02:47,54,00:21:28,46,01:19:00, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+29,945,M50,Jan Wisse,Middelburg,00:15:38,48,00:02:39,50,00:35:47,9,00:54:03,20,00:03:25,126,00:21:40,50,01:19:08, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+30,728,VSEN,Monica Haydock,Amsterdam,00:16:26,64,00:02:02,13,00:39:23,61,00:57:51,52,00:02:27,16,00:18:53,7,01:19:10, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+31,798,MSEN,Frederik Buijs,Amsterdam,00:16:45,73,00:02:48,65,00:38:10,46,00:57:42,49,00:03:36,138,00:18:19,3,01:19:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+32,912,MSEN,Martin Strub,Amsterdam,00:17:00,78,00:02:25,39,00:38:06,44,00:57:30,46,00:02:22,9,00:19:49,19,01:19:40, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+33,847,MSEN,Barry Koenders,Amsterdam,00:15:07,43,00:02:50,67,00:36:18,12,00:54:15,21,00:03:17,96,00:22:11,64,01:19:41, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+34,944,MSEN,Douwe Wildschut,Amsterdam,00:15:35,47,00:02:10,18,00:37:46,33,00:55:31,29,00:02:39,38,00:22:02,60,01:20:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+35,835,M50,Kruno Ivancic,Amsterdam,00:15:01,41,00:02:39,51,00:37:57,40,00:55:36,32,00:03:11,90,00:21:42,51,01:20:28, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+36,879,M40,Francesco Morici,Rotterdam,00:17:55,98,00:03:19,110,00:37:39,30,00:58:53,61,00:02:41,42,00:18:56,8,01:20:28, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+37,747,MSEN,Tijmen Essers, ,00:16:36,67,00:02:47,63,00:38:09,45,00:57:31,47,00:02:46,51,00:20:18,23,01:20:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+38,881,MSEN,Arthur Muller,Hilversum,00:17:55,99,00:03:05,91,00:37:25,26,00:58:25,60,00:02:14,2,00:20:15,22,01:20:52, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+39,939,MSEN,Bryan Warrink,Hoorn,00:16:26,63,00:02:00,12,00:39:33,67,00:57:58,54,00:02:34,27,00:20:26,25,01:20:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+40,856,M50,Bas Lewerissa,Leiden,00:18:04,103,00:03:20,111,00:37:01,20,00:58:23,58,00:03:03,78,00:19:32,15,01:20:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+41,784,MSEN,Thomas Beving,Amsterdam,00:17:34,90,00:03:58,142,00:37:52,35,00:59:23,64,00:02:44,47,00:18:59,9,01:21:05, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+42,886,M40,Henk van der Pijl,Amsterdam,00:18:12,106,00:02:27,41,00:36:45,17,00:57:22,45,00:02:51,61,00:20:54,34,01:21:06, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+43,813,M40,Job baart de l Faille,Amsterdam,00:16:37,68,00:02:53,69,00:37:41,31,00:57:11,42,00:03:06,82,00:21:18,41,01:21:34, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+44,874,MSEN,Rutger van der Meulen,Arnhem,00:17:02,79,00:01:41,4,00:37:33,28,00:56:16,36,00:02:57,67,00:22:40,74,01:21:52, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+45,858,MSEN,Howard Liem,Amsterdam,00:16:43,71,00:02:59,84,00:37:36,29,00:57:18,44,00:03:02,74,00:21:35,47,01:21:54, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+46,870,M50,Rob Marinus,Limmen,00:13:34,24,00:02:17,28,00:37:56,39,00:53:46,18,00:02:54,64,00:25:26,136,01:22:05, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+47,861,M40,Willem van der Linden,Amsterdam,00:14:10,33,00:03:22,113,00:40:50,88,00:58:21,57,00:03:18,100,00:20:33,28,01:22:12, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+48,726,VSEN,Colette Gaillard,De meern,00:14:43,40,00:01:35,3,00:40:04,77,00:56:21,37,00:02:49,56,00:23:04,87,01:22:12, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+49,890,MSEN,Matthieu Reboul,Amsterdam,00:16:08,55,00:03:46,133,00:37:53,36,00:57:47,50,00:02:51,62,00:21:37,48,01:22:15, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+50,895,MSEN,Thijs Sanders,Amsterdam,00:18:35,117,00:02:47,62,00:39:22,60,01:00:44,75,00:02:20,6,00:19:19,12,01:22:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+51,869,MSEN,Job de Man,Amsterdam,00:14:27,38,00:02:42,54,00:39:29,65,00:56:37,40,00:02:50,58,00:22:58,84,01:22:25, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+52,882,MSEN,Michael Negrijn,Amsterdam,00:13:54,28,00:03:36,125,00:39:47,73,00:57:17,43,00:03:14,93,00:22:02,59,01:22:33, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+53,916,MSEN,Valerio Targon,Den haag,00:16:17,59,00:05:46,181,00:38:43,54,01:00:45,76,00:04:10,169,00:17:58,1,01:22:52, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+54,906,M40,Stan Steegeling,Amsterdam,00:11:39,4,00:04:47,164,00:39:26,63,00:55:51,33,00:02:58,69,00:24:04,105,01:22:52, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+55,880,M50,Mark van Dijk,Amsterdam,00:18:59,130,00:02:44,58,00:36:25,13,00:58:08,55,00:02:42,44,00:22:08,63,01:22:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+56,770,VSEN,Annemarie de Witte,Honselerdijk,00:16:22,61,00:01:50,6,00:37:03,21,00:55:15,28,00:03:02,73,00:24:42,121,01:22:58, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+57,841,MSEN,Thijs de Jong,Amsterdam,00:14:03,31,00:03:27,119,00:39:02,55,00:56:31,39,00:03:24,121,00:23:05,88,01:22:59, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+58,756,V40,Daniela Schellenberg,Rotterdam,00:16:48,74,00:02:30,44,00:40:24,81,00:59:41,68,00:02:33,25,00:21:06,39,01:23:19, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+59,914,MSEN,Guido Stut,Amsterdam,00:18:30,114,00:02:56,74,00:38:01,42,00:59:26,65,00:03:38,142,00:20:19,24,01:23:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+60,936,MSEN,Willem van Waes,Amsterdam,00:14:20,36,00:01:56,10,00:40:11,78,00:56:25,38,00:02:34,28,00:24:46,123,01:23:45, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+61,803,M40,Enrique Cabrera Poo,Amsterdam,00:18:01,101,00:03:07,93,00:38:26,50,00:59:33,67,00:02:57,68,00:21:28,45,01:23:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+62,942,MSEN,Tobias Wesselius,Amsterdam,00:18:32,116,00:02:59,83,00:38:43,53,01:00:12,71,00:02:59,70,00:21:08,40,01:24:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+63,804,MSEN,Andrew Cahill,Amsterdam,00:17:47,96,00:03:29,122,00:37:09,23,00:58:24,59,00:03:35,137,00:22:42,75,01:24:40, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+64,917,MSEN,Ron Thijssen,Amsterdam,00:16:39,69,00:02:53,70,00:38:17,47,00:57:48,51,00:03:46,152,00:23:07,90,01:24:40, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+65,904,MSEN,Nick Snelleman,Amsterdam,00:15:28,46,00:01:48,5,00:38:19,48,00:55:34,31,00:02:40,39,00:26:43,156,01:24:56, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+66,822,MSEN,Matthijs de Groot,Amsterdam,00:17:44,95,00:03:19,107,00:39:41,70,01:00:43,74,00:02:27,15,00:21:47,55,01:24:56, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+67,923,MSEN,Art Valkenburg,Amsterdam,00:13:04,19,00:03:30,123,00:40:28,84,00:57:01,41,00:03:22,112,00:24:36,117,01:24:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+68,837,MSEN,Roel Jacobs,Nieuw-vennep,00:12:54,17,00:03:10,98,00:41:32,103,00:57:35,48,00:02:47,53,00:24:50,125,01:25:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+69,893,MSEN,Alberto Rossini,Amsterdam,00:18:02,102,00:03:24,115,00:41:28,101,01:02:53,93,00:02:51,60,00:19:48,18,01:25:30, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+70,844,M40,Frido Karreman,Hilversum,00:19:00,131,00:04:31,159,00:39:08,56,01:02:38,92,00:03:27,128,00:19:28,14,01:25:32, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+71,840,MSEN,Nanning de Jong,Den haag,00:16:10,56,00:02:16,25,00:41:36,107,01:00:02,69,00:03:02,76,00:22:46,77,01:25:49, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+72,724,VSEN,Caroline Folmer,Amsterdam,00:17:04,80,00:02:38,49,00:39:45,72,00:59:27,66,00:02:49,57,00:23:50,98,01:26:05, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+73,823,M40,Vincent de Groot,Hoorn,00:17:38,92,00:02:43,55,00:38:41,52,00:59:01,62,00:03:25,122,00:23:57,101,01:26:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+74,746,VSEN,Elsemieke Nuijten,Dordrecht,00:17:23,85,00:02:13,21,00:39:34,68,00:59:09,63,00:03:07,83,00:24:11,111,01:26:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+75,896,M40,Ramon Schellevis,Amsterdam,00:13:13,20,00:02:13,22,00:42:46,127,00:58:11,56,00:02:38,37,00:26:02,144,01:26:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+76,733,VSEN,Esther Hoogstad,Amsterdam,00:18:24,110,00:02:22,31,00:40:59,89,01:01:44,88,00:03:18,101,00:22:02,61,01:27:04, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+77,863,M40,Maurice Lomans,Den haag,00:17:30,88,00:02:28,42,00:41:04,90,01:01:01,78,00:02:21,7,00:23:56,100,01:27:17, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+78,871,MSEN,Juan David Marulanda Ruiz,Putten,00:20:06,149,00:02:58,80,00:42:51,130,01:05:54,128,00:02:05,1,00:19:20,13,01:27:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+79,901,MSEN,Fred Slats,Amsterdam,00:19:15,136,00:04:05,147,00:39:41,71,01:03:01,99,00:03:45,151,00:20:35,29,01:27:21, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+80,718,VSEN,Christine Eenhorst,Amsterdam,00:18:53,126,00:03:06,92,00:39:41,69,01:01:39,85,00:03:12,91,00:22:31,70,01:27:21, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+81,898,MSEN,Charles Senly,Hilversum,00:20:59,156, ,0, ,0, ,0, ,0,00:20:48,32,01:27:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+82,921,MSEN,Stefan Tuinenga,Amsterdam,00:15:42,49,00:03:57,140,00:42:05,109,01:01:44,87,00:03:36,139,00:22:17,66,01:27:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+83,782,MSEN,Max Benattar,Amsterdam,00:17:51,97,00:03:11,99,00:39:28,64,01:00:30,72,00:03:09,86,00:24:21,115,01:27:59, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+84,707,VSEN,Nanouk Botman,Zeist,00:16:52,76,00:02:56,76,00:43:08,134,01:02:55,95,00:02:36,34,00:22:30,69,01:28:01, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+85,713,VSEN,Natascha Burgers,Utrecht,00:14:08,32,00:02:58,82,00:43:52,145,01:00:57,77,00:02:35,31,00:24:56,126,01:28:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+86,887,M40,Jeroen Preijde,Heemstede,00:18:43,122,00:02:41,52,00:40:45,87,01:02:08,89,00:03:27,129,00:23:01,86,01:28:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+87,763,VSEN,Marleen Velthuis,Amsterdam,00:16:02,54,00:02:56,75,00:41:06,91,01:00:03,70,00:03:22,115,00:25:11,133,01:28:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+88,884,MSEN,Peter Pelzer,Amsterdam,00:19:42,142,00:04:30,158,00:39:19,59,01:03:30,110,00:03:17,95,00:21:58,57,01:28:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+89,817,MSEN,Maurice Gilissen,Amsterdam,00:17:25,86,00:04:36,161,00:39:26,62,01:01:25,82,00:03:02,75,00:24:18,114,01:28:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+90,805,MSEN,Tim Cardol,Amsterdam,00:19:41,141,00:03:37,127,00:42:08,112,01:05:24,124,00:03:21,111,00:20:05,20,01:28:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+91,899,MSEN,Bas Sietses,Amsterdam,00:20:02,146,00:03:23,114,00:39:51,74,01:03:15,106,00:03:52,157,00:21:44,53,01:28:51, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+92,908,MSEN,Jimmy Stijntjes,Amsterdam,00:17:22,83,00:04:48,165,00:41:19,94,01:03:28,109,00:02:37,36,00:22:49,79,01:28:53, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+93,789,M40,Sebastien Boulle,Amsterdam,00:17:15,82,00:04:10,151,00:42:51,131,01:04:15,118,00:02:29,20,00:22:11,65,01:28:54, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+94,778,MSEN,Jorrit Baken,Amsterdam,00:16:30,66,00:04:21,153,00:42:14,117,01:03:04,100,00:02:42,43,00:23:16,92,01:29:00, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+95,843,M40,Patrick Jurgens,Hendrik ido ambacht,00:18:56,128,00:04:14,152,00:38:03,43,01:01:12,80,00:03:45,150,00:24:06,110,01:29:02, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+96,775,M40,Timo Aaldijk,Amsterdam,00:15:51,52,00:03:04,88,00:42:13,116,01:01:07,79,00:03:19,102,00:24:43,122,01:29:08, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+97,854,MSEN,Willem Leeuwenkamp,Amsterdam,00:20:04,148,00:03:57,141,00:39:32,66,01:03:32,111,00:03:39,144,00:22:07,62,01:29:17, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+98,875,MSEN,Mario Milos,Amsterdam,00:13:59,30,00:03:48,134,00:43:32,141,01:01:18,81,00:02:52,63,00:25:11,132,01:29:21, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+99,920,M40,Jos Tollenaar,Amsterdam,00:19:29,139,00:02:43,57,00:38:28,51,01:00:39,73,00:03:26,127,00:25:47,141,01:29:51, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+100,931,MSEN,Steve Vickery,Chesterfield,00:12:04,8,00:03:37,128,00:48:53,172,01:04:33,120,00:03:01,71,00:22:32,71,01:30:06, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+101,753,VSEN,Judith Rouwenhorst,Gemert,00:15:47,51,00:03:13,102,00:44:23,156,01:03:23,108,00:02:45,50,00:24:05,108,01:30:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+102,768,V40,Louise Wilcocks,Amsterdam,00:18:38,120,00:02:17,27,00:42:14,118,01:03:08,103,00:02:44,48,00:24:40,119,01:30:31, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+103,752,VSEN,Lisa de Rooij,Amsterdam,00:20:03,147,00:03:00,86,00:39:57,75,01:02:59,98,00:03:10,89,00:24:33,116,01:30:42, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+104,717,V40,Renee Duurinck,Amsterdam,00:18:05,104,00:02:48,64,00:42:13,115,01:03:05,102,00:03:34,135,00:24:05,107,01:30:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+105,922,M50,Erik Ulrich,Amsterdam,00:17:22,84,00:04:02,145,00:42:22,121,01:03:45,112,00:04:24,173,00:22:53,82,01:31:02, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+106,814,M40,Ronald Hensberger, ,00:18:24,109,00:05:38,180,00:39:08,57,01:03:09,104,00:03:37,140,00:24:17,113,01:31:02, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+107,706,V40,Esther van den Bolt,Utrecht,00:19:05,134,00:03:43,131,00:40:18,79,01:03:04,101,00:03:23,117,00:24:37,118,01:31:03, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+108,919,M40,Vincent Tinniglo,Amsterdam,00:19:52,143,00:02:45,59,00:42:42,125,01:05:18,123,00:02:47,52,00:23:14,91,01:31:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+109,935,MSEN,Dennis de Waal,Amsterdam,00:13:16,21,00:03:04,89,00:41:35,106,00:57:55,53,00:03:17,98,00:30:24,179,01:31:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+110,759,VSEN,Cilia Swinkels,Den haag,00:16:51,75,00:03:19,106,00:41:25,98,01:01:33,83,00:03:39,143,00:26:32,153,01:31:43, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+111,911,MSEN,Maarten Stroet,Beverwijk,00:21:02,157,00:04:02,146,00:41:28,99,01:06:31,134,00:03:20,108,00:22:00,58,01:31:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+112,857,MSEN,Jan-Joost Liebregt,Rotterdam,00:22:20,171,00:02:24,36,00:40:33,85,01:05:16,122,00:03:18,99,00:23:23,93,01:31:56, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+113,897,MSEN,Onno Schopenhouer,Bilthoven,00:17:44,94,00:03:38,129,00:41:33,104,01:02:54,94,00:02:51,59,00:26:23,151,01:32:06, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+114,742,VSEN,Maartje van de Lindeloof,Oud gastel,00:15:44,50,00:03:07,94,00:44:05,150,01:02:56,96,00:03:14,92,00:26:02,145,01:32:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+115,839,MSEN,Nick Jaensson,Utrecht,00:22:54,179,00:03:04,90,00:40:27,83,01:06:24,131,00:03:20,107,00:22:29,68,01:32:12, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+116,796,MSEN,Michiel Brouwer,Amsterdam,00:19:58,145,00:03:00,85,00:40:03,76,01:02:59,97,00:03:59,161,00:25:25,135,01:32:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+117,838,MSEN,Robin Jaegers,Amsterdan,00:17:42,93,00:05:10,171,00:41:18,93,01:04:09,117,00:03:58,160,00:24:16,112,01:32:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+118,736,V40,Claire Jansen,Amsterdam,00:18:56,127,00:02:58,81,00:42:30,123,01:04:23,119,00:03:05,81,00:25:01,129,01:32:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+119,797,MSEN,Tim Buffing,Amsterdam,00:13:03,18,00:03:59,143,00:45:24,160,01:02:25,90,00:04:49,180,00:25:23,134,01:32:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+120,757,V50,Gees van der Schoor,Amsterdam,00:19:01,132,00:02:37,48,00:42:58,132,01:04:34,121,00:03:09,84,00:25:02,130,01:32:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+121,794,VSEN,Lindsay Brenneman,Amsterdam,00:18:46,123,00:02:49,66,00:43:57,146,01:05:31,125,00:03:09,87,00:24:05,109,01:32:45, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+122,749,VSEN,Neeltje de Quaij,Amsterdam,00:20:46,153,00:03:10,97,00:43:15,136,01:07:10,139,00:03:53,158,00:21:45,54,01:32:47, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+123,824,MSEN,Bart Hagendoorn,Rotterdam,00:22:14,170,00:02:16,24,00:41:24,97,01:05:53,127,00:04:10,170,00:22:46,76,01:32:48, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+124,734,VSEN,Kim van der Horst,Amsterdam,00:20:44,152,00:03:25,118,00:43:30,140,01:07:38,140,00:02:28,19,00:22:54,83,01:33:00, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+125,829,MSEN,Rein Hoogstraaten,Utrecht,00:22:09,169,00:05:31,179,00:41:23,95,01:09:02,155,00:03:38,141,00:20:27,26,01:33:06, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+126,761,V40,Stephanie Van Doorn,Baarn,00:13:38,25,00:03:29,121,00:45:27,161,01:02:33,91,00:03:19,105,00:27:26,165,01:33:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+127,743,VSEN,Manou Lissauer,Utrecht,00:18:31,115,00:03:10,96,00:42:06,110,01:03:46,113,00:03:24,118,00:26:09,147,01:33:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+128,937,MSEN,Thomas Wals,Amsterdam,00:21:39,167,00:02:43,56,00:41:53,108,01:06:15,129,00:03:19,104,00:23:55,99,01:33:28, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+129,780,M50,Steve Belgraver,Amsterdam,00:17:32,89,00:04:25,156,00:41:23,96,01:03:19,107,00:03:44,149,00:26:43,155,01:33:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+130,709,VSEN,Gerda Bouwman-Heiligers,Amsterdam,00:16:19,60,00:03:28,120,00:44:22,155,01:04:09,116,00:04:12,171,00:25:30,137,01:33:49, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+131,877,MSEN,Taco Moll,Rotterdam,00:21:33,164,00:03:38,130,00:41:15,92,01:06:25,132,00:03:35,136,00:23:58,102,01:33:57, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+132,864,MSEN,Thijs van Loon,Eindhoven,00:18:11,105,00:04:55,166,00:42:46,126,01:05:50,126,00:03:24,120,00:24:58,128,01:34:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+133,730,VSEN,Merel Hellemons,Amsterdam,00:18:29,113,00:02:21,30,00:43:17,137,01:04:06,115,00:04:09,168,00:26:07,146,01:34:20, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+134,767,V40,Diana Wempe,Amsterdam,00:19:02,133,00:03:24,116,00:44:10,153,01:06:36,135,00:04:30,176,00:23:34,96,01:34:39, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+135,836,M40,Pieter Izeboud,Amsterdam,00:14:12,34,00:03:12,101,00:45:48,162,01:03:12,105,00:03:01,72,00:28:29,173,01:34:41, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+136,704,VSEN,Tessa Bakker,Zwanenburg,00:16:45,72,00:02:35,47,00:42:22,122,01:01:41,86,00:03:23,116,00:29:43,175,01:34:46, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+137,765,VSEN,Rachel Wallace,Amsterdam,00:18:37,119,00:02:51,68,00:46:44,167,01:08:10,146,00:03:04,80,00:23:33,95,01:34:47, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+138,781,MSEN,Anil Ramjini,Amsterdam,00:22:31,172,00:03:19,108,00:40:27,82,01:06:16,130,00:03:43,148,00:24:50,124,01:34:48, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+139,815,MSEN,Sjoerd van Gellecum,Amsterdam,00:23:21,182,00:04:09,150,00:41:31,102,01:09:00,154,00:03:19,106,00:22:34,72,01:34:53, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+140,876,MSEN,Dennis Mohnen,Amsterdam,00:17:36,91,00:05:12,172,00:46:13,165,01:09:00,153,00:03:21,110,00:22:38,73,01:34:58, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+141,825,MSEN,Wils Haije,Amsterdam,00:18:36,118,00:03:15,103,00:42:08,111,01:03:58,114,00:03:31,132,00:27:37,169,01:35:05, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+142,903,M40,Marc Smit,Amsterdam,00:18:42,121,00:05:49,182,00:42:11,114,01:06:41,137,00:04:01,163,00:24:41,120,01:35:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+143,755,VSEN,Anne Schellekens,Amsterdam,00:21:34,165,00:03:50,136,00:42:48,129,01:08:11,147,00:03:16,94,00:24:01,103,01:35:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+144,740,V40,Martine de Koning,Utrecht,00:19:06,135,00:03:56,139,00:43:29,139,01:06:30,133,00:03:22,114,00:26:21,150,01:36:13, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+145,732,V50,Regina Homan,Purmerend,00:21:26,162,00:04:07,148,00:44:07,152,01:09:38,161,00:03:41,147,00:23:00,85,01:36:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+146,928,M50,Jos Verberne,Someren,00:16:23,62,00:02:56,73,00:42:17,120,01:01:35,84,00:04:28,175,00:30:16,178,01:36:19, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+147,853,M50,Math Leeuwenkamp,Amsterdam,00:23:16,181,00:05:55,185,00:40:21,80,01:09:31,160,00:04:27,174,00:22:48,78,01:36:45, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+148,855,M50,Adrie de Leu,Amsterdam,00:23:32,183,00:03:17,104,00:42:37,124,01:09:26,157,00:03:28,130,00:24:02,104,01:36:55, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+149,806,MSEN,Babak Dadvar,Delft,00:20:51,155,00:05:21,177,00:41:28,100,01:07:39,141,00:03:24,119,00:26:16,149,01:37:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+150,745,VSEN,Caterina Natale,Amsterdam,00:19:53,144,00:02:56,77,00:45:19,158,01:08:07,145,00:03:03,77,00:26:14,148,01:37:23, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+151,845,MSEN,Maarten Kaufmann,Amsteradm,00:18:27,112,00:06:11,186,00:44:06,151,01:08:43,148,00:02:56,66,00:26:01,143,01:37:39, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+152,932,MSEN,Floris Visscher,Amsterdam,00:18:16,108,00:03:50,135,00:50:24,180,01:12:30,171,00:02:29,21,00:23:06,89,01:38:04, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+153,941,M50,Ruud Wempe,Tienhoven ut,00:18:00,100,00:04:47,163,00:43:51,143,01:06:37,136,00:04:32,177,00:27:08,162,01:38:16, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+154,710,VSEN,Frerieke van Bree,Den haag,00:19:22,137,00:05:17,176,00:43:03,133,01:07:41,142,00:04:02,165,00:26:50,158,01:38:32, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+155,725,VSEN,Nathalie Fournel,Utrecht,00:24:20,185,00:03:25,117,00:42:09,113,01:09:53,163,00:03:48,153,00:24:56,127,01:38:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+156,927,MSEN,Guus Verberne,Amsterdam,00:22:59,180,00:03:02,87,00:43:28,138,01:09:28,158,00:03:49,154,00:25:35,138,01:38:50, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+157,731,VSEN,Judith Hoefnagel,Amsterdam,00:18:48,124,00:04:23,154,00:44:44,157,01:07:54,143,00:04:03,166,00:26:55,161,01:38:51, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+158,883,MSEN,Ralph Offerhaus,Amsterdam,00:22:44,174,00:07:03,187,00:42:46,128,01:12:32,172,00:03:19,103,00:23:29,94,01:39:19, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+159,723,VSEN,Eleonora Ferrero,Amsterdam,00:18:59,129,00:03:46,132,00:45:23,159,01:08:06,144,00:03:40,145,00:27:37,168,01:39:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+160,943,MSEN,Alain de Wilde,Amsterdam,00:16:40,70,00:04:37,162,00:45:50,163,01:07:06,138,00:04:01,164,00:28:42,174,01:39:48, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+161,700,VSEN,Lenny van den Akker,Amsterdam,00:14:20,35,00:02:58,79,00:51:31,181,01:08:47,151,00:03:04,79,00:27:58,170,01:39:48, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+162,764,VSEN,Els Verbrugge,Rotterdam,00:21:44,168,00:03:09,95,00:44:02,149,01:08:53,152,00:03:09,85,00:28:09,171,01:40:11, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+163,821,M40,Eric Groenen,Amsterdam,00:21:04,158,00:04:55,167,00:44:01,148,01:10:00,165,00:03:32,133,00:26:41,154,01:40:12, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+164,739,V40,Margi Kirschenmann,Amsterdam,00:21:22,161,00:02:46,60,00:46:09,164,01:10:16,166,00:03:25,123,00:26:45,157,01:40:25, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+165,702,VSEN,Esmee Bais,Amsterdam,00:22:52,177,00:03:52,137,00:43:09,135,01:09:52,162,00:03:33,134,00:27:36,167,01:41:00, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+166,885,M40,Sander Pieters,Amsterdam,00:21:15,159,00:05:27,178,00:44:01,147,01:10:41,167,00:03:50,156,00:26:52,159,01:41:22, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+167,910,MSEN,Rick Streefland,Rotterdam,00:20:11,150,00:05:55,184,00:43:51,144,01:09:57,164,00:04:06,167,00:27:27,166,01:41:29, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+168,738,VSEN,Marlies Jongman,Amsterdam,00:22:51,176,00:03:36,126,00:42:17,119,01:08:43,149,00:03:30,131,00:30:07,177,01:42:18, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+169,915,M40,Friso Tammes,Amsterdam,00:25:56,189,00:05:55,183,00:43:37,142,01:15:27,176,00:04:21,172,00:22:49,80,01:42:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+170,714,VSEN,Paula Campo,Amsterdam,00:22:43,173,00:04:26,157,00:48:54,173,01:16:01,177,00:03:20,109,00:23:41,97,01:43:02, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+171,703,VSEN,Melisse Bais,Amsterdam,00:22:50,175,00:03:54,138,00:44:14,154,01:10:57,168,00:03:40,146,00:28:28,172,01:43:05, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+172,779,M40,Bas Bakker,Amsterdam,00:25:39,187,00:05:13,173,00:41:34,105,01:12:24,170,00:04:56,183,00:26:52,160,01:44:12, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+173,748,V40,Nathalie Punt,Amsterdam,00:20:50,154,00:04:02,144,00:49:39,178,01:14:29,175,00:02:47,55,00:27:16,163,01:44:32, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+174,810,VSEN,Alma Dijkstra, ,00:17:27,87,00:04:34,160,00:47:19,168,01:09:19,156,00:03:49,155,00:31:47,181,01:44:54, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+175,737,VSEN,Christine Jeon,Amsterdam,00:19:24,138,00:04:58,168,00:52:10,182,01:16:32,179,00:03:17,97,00:25:07,131,01:44:55, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+176,909,MSEN,Luke Stone,Amsterdam,00:18:26,111,00:04:24,155,00:53:59,184,01:16:49,181,00:04:00,162,00:25:48,142,01:46:35, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+177,708,VSEN,Tes Bouwman,Amsterdam,00:16:17,58,00:03:20,112,00:49:55,179,01:09:31,159,00:03:25,125,00:33:41,183,01:46:36, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+178,889,M40,Robbert Pullen,Oegstgeest,00:17:09,81, ,0, ,0, ,0, ,0,00:25:43,140,01:46:44, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+179,913,M40,Pascal Stumpers,Haarlem,00:21:38,166,00:05:17,175,00:49:18,177,01:16:12,178,00:04:50,182,00:25:43,139,01:46:45, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+180,735,VSEN,Kim de Jager,Amsterdam,00:18:16,107,00:04:08,149,00:49:15,175,01:11:38,169,00:03:58,159,00:31:32,180,01:47:07, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+181,769,V40,Ciska Wilson,Hilversum,00:21:30,163,00:03:17,105,00:48:15,170,01:13:02,173,00:04:50,181,00:30:03,176,01:47:53, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+182,918,M40,Daniel Timmer,Amsterdam,00:23:53,184,00:05:06,170,00:47:35,169,01:16:33,180,00:04:48,179,00:27:18,164,01:48:38, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+183,751,VSEN,Manon Reynaud,Utrecht,00:24:52,186,00:05:03,169,00:49:01,174,01:18:54,183,00:03:22,113,00:26:25,152,01:48:40, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+184,705,VSEN,Babette Bodlaender,Amsterdam,00:22:53,178,00:02:57,78,00:48:23,171,01:14:12,174,00:03:09,88,00:32:07,182,01:49:27, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+185,760,V50,Jos Thiel,Zwaag,00:20:20,151,00:03:34,124,00:53:29,183,01:17:23,182,00:04:35,178,00:42:51,185,02:04:47, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+186,930,M50,Ronald Verbrugge,Zwaag,00:25:53,188,00:05:13,174,00:49:17,176,01:20:22,184,00:06:00,184,00:38:38,184,02:04:59, ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+187,712,VSEN,Angela Buckens,Oud gastel,00:19:29,140,00:02:31,45,00:46:44,166,01:08:43,150,00:03:25,124, ,0, , ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+188,892,M40,Simon Rijke,Amsterdam,00:18:53,125,00:02:08,15, ,0, ,0, ,0, ,0, , ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+189,792,M40,Martin Breedijk,Amsterdam,00:12:14,11,00:01:34,2, ,0, ,0, ,0, ,0, , ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+190,750,VSEN,Emma Rainford,Amsterdam,00:21:19,160,00:03:12,100, ,0, ,0, ,0, ,0, , ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+191,891,MSEN,Nick Reineman,Amsterdam,00:13:49,0,00:02:06,0,00:29:59,0,00:45:54,0,00:04:00,0,00:24:26,0,01:14:19,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+192,878,MSEN,Thijs Moll,Amsterdam,00:19:49,0,00:03:38,0,00:31:29,0,00:54:55,0,00:03:16,0,00:19:59,0,01:18:09,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+193,900,M40,Menno Simons,Amsterdam,00:21:38,0,00:04:54,0,00:34:07,0,01:00:38,0,00:02:55,0,00:14:58,0,01:18:30,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+194,721,VSEN,Sophia Ellis,Hilversum,00:30:43,0,00:03:36,0,00:36:19,0,01:10:37,0,00:03:54,0,00:27:48,0,01:42:18,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+195,859,MSEN,Constatijn van Limburg Strirum,Amsterdam,00:27:32,0,00:04:56,0,00:37:47,0,01:10:15,0,00:03:53,0,00:31:31,0,01:45:38,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07
+196,741,V40,C.j. Linde,Amsterdam,00:25:27,0,00:06:45,0,00:40:06,0,01:12:18,0,00:04:14,0,00:36:59,0,01:53:30,DQ,10e Triatlon Amsterdam Nieuw West   07-06-2015,2015-06-07

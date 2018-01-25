@@ -1,0 +1,454 @@
+Plts,StartNr,Naam,Team/Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,746,Tomas Hendrickx,Arendonk,M30,1,00:32:49,00:32:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+2,292,Ben Vriends,Eindhoven,MSR,1,00:34:39,00:34:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+3,164,Horcio Pereira,Veghel,M30,2,00:34:46,00:34:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+4,866,Bram Vlassak,Studio Springstof B01,MSR,2,00:35:57,00:35:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+5,411,Ralph Tilburgs,Veghel,M40,1,00:37:31,00:37:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+6,256,Bas van Summeren,Uden,M30,3,00:37:39,00:37:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+7,83,Ronnie Langens,Veghel,M40,2,00:37:53,00:37:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+8,286,Gert-jan vanKessel,Schijndel,M40,3,00:38:41,00:38:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+9,301,Joost van Boxmeer,Eindhoven,M30,4,00:39:16,00:39:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+10,865,Johan van den Berg,Studio Springstof B01,M30,5,00:39:36,00:39:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+11,867,Teun Teunis,Studio Springstof B01,MSR,3,00:39:43,00:39:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+12,253,Thijs Dekkers,Sint-Oedenrode,M30,6,00:39:46,00:39:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+13,877,Mark Driessen,ASN Bons Veghel B01,M40,4,00:39:56,00:39:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+14,989,Peter vd Ven,Bakkerij van Leur B02,MSR,4,00:40:01,00:40:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+15,346,Ruud van den Tillaart,Heerenhuys Veghel B01,M30,7,00:40:15,00:40:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+16,965,Jaap Norbruis,Autobedrijf van den Udenhout B01,MSR,5,00:40:28,00:40:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+17,402,Rene Braam,Veghel,M50,1,00:40:34,00:40:29,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+18,274,Pim van Lier,Oss,MSR,6,00:41:16,00:41:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+19,33,Mike Claasen,Veghel,M40,5,00:41:40,00:41:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+20,77,Marc Heesbeen,Megen,M30,8,00:41:44,00:41:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+21,948,Peter Baaijens,BusinessCom B02,M50,2,00:41:51,00:41:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+22,130,Maarten vanden Broek,Uden,M30,9,00:41:52,00:41:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+23,219,Joost Vanden Broek,Breda,M30,10,00:41:54,00:41:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+24,69,Edward van Stiphout,Rotterdam,M40,6,00:42:07,00:42:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+25,407,Art Vissers,Veghel,M50,3,00:42:07,00:42:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+26,250,Raymond Ahsmann,Oss,MSR,7,00:42:09,00:42:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+27,329,Maarten Bosch,Schijndel,M50,4,00:42:10,00:42:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+28,178,Ton Rijkers,Uden,M40,7,00:42:20,00:42:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+29,242,Carlo Muller,Oss,M40,8,00:42:26,00:42:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+30,235,Rob Brekelmans,Vught,M40,9,00:42:26,00:42:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+31,893,Gezegorz Hnida,Jumbo Supermarkten B01,M30,11,00:42:54,00:42:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+32,236,Andre Arts,Erp,M30,12,00:43:03,00:42:58,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+33,45,Etienne Vissers,Veghel,M40,10,00:43:34,00:43:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+34,396,Tonio Andre,Veghel,M40,11,00:43:53,00:43:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+35,222,Gielion de Wit,Veghel,M40,12,00:43:59,00:43:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+36,39,Peer Maas,Veghel,M40,13,00:44:01,00:43:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+37,348,Job Heijman,Heerenhuys Veghel B01,MSR,8,00:44:07,00:44:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+38,152,Peter Nooijen,Veghel,M40,14,00:44:13,00:44:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+39,352,Jos van Langh,Veghel,M50,5,00:44:13,00:43:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+40,336,Huibert Crijns,Sint-Michielsgestel,M40,15,00:44:17,00:44:08,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+41,952,Danny Megens,BusinessCom B02,M40,16,00:44:21,00:44:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+42,57,Eric Bosch,Veghel,M30,13,00:44:36,00:44:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+43,291,Tim v.d. Elzen,Erp,MSR,9,00:44:41,00:44:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+44,151,Sander van Aar,Veghel,M30,14,00:44:52,00:44:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+45,201,Silvan Kayim,Veghel,M40,17,00:44:52,00:44:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+46,340,Rob Brands,Veghel,M30,15,00:44:53,00:44:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+47,264,Bart vander Sanden,Veghel,M30,16,00:44:54,00:44:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+48,383,Peter van Galen,Veghel,M50,6,00:45:01,00:44:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+49,964,Boy de Punder,Autobedrijf van den Udenhout B01,MSR,10,00:45:10,00:45:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+50,342,Hein Verhoeven,Boekel,M50,7,00:45:11,00:45:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+51,195,Joan Hendriks,Veghel,M40,18,00:45:12,00:45:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+52,113,Antwan van Haaren,Arnhem,M40,19,00:45:15,00:45:08,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+53,345,Floris Christiaans,Heerenhuys Veghel B01,MSR,11,00:45:22,00:45:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+54,923,Steven Vissers,VINCI Facilities B01,M30,17,00:45:26,00:45:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+55,136,Walter Vanden Berkmortel,Veghel,M40,20,00:45:26,00:44:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+56,899,Sander Koolwijk,Jumbo Supermarkten B02,M30,18,00:45:30,00:45:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+57,257,Luc Maes,Uden,M50,8,00:45:40,00:45:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+58,920,Michael van Mil,VINCI Facilities B01,M40,21,00:45:40,00:45:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+59,141,Patrick Dekkers,Tilburg,M30,19,00:45:42,00:45:35,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+60,894,Pieter van de Wijgert,Jumbo Supermarkten B01,M40,22,00:45:45,00:45:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+61,260,Ben Cuppen,Veghel,M50,9,00:45:53,00:45:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+62,50,Maurice Kempkens,Boekel,M30,20,00:45:58,00:45:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+63,101,Stephanie Vander Heijden,Veghel,V30,1,00:45:58,00:45:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+64,206,Engelbert van Bentum,Veghel,M50,10,00:46:03,00:45:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+65,339,Ren van Bakel,Etten-Leur,M50,11,00:46:07,00:46:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+66,175,Randy Deckers,Uden,M40,23,00:46:13,00:46:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+67,73,Rob Reuser,Veghel,M50,12,00:46:28,00:46:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+68,142,Patrick vanden Elzen,Veghel,M40,24,00:46:34,00:46:31,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+69,363,Frank Vos,Veghel,M40,25,00:46:37,00:46:25,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+70,887,Roel Hommeles,Koflexwerk B02,MSR,12,00:46:43,00:46:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+71,272,Jappe Help,Arnhem,M30,21,00:46:51,00:46:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+72,80,Edwin Schoo,Veghel,M50,13,00:46:57,00:46:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+73,376,Vic van Heeswijk,Veghel,M40,26,00:47:01,00:46:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+74,94,Yolanda Simons,Veghel,V50,1,00:47:08,00:47:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+75,884,Frank Pulles,Koflexwerk B02,M40,27,00:47:11,00:47:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+76,181,Chiel Kanters,Veghel,M30,22,00:47:15,00:46:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+77,145,Jeroen van Zwieten,Veghel,M40,28,00:47:16,00:47:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+78,167,Rob Pivkhard,Eindhoven,M50,14,00:47:17,00:46:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+79,215,Manu Bruneel,Veghel,M30,23,00:47:22,00:47:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+80,124,Coen Kuijpers,Veghel,M40,29,00:47:24,00:47:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+81,86,Denise Steenbakkers,Veghel,VSR,1,00:47:24,00:47:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+82,924,Carlos schoenmakers,Schoenmakerij Carlos B01,M40,30,00:47:27,00:47:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+83,72,Bas Arnoldussen,Veghel,M40,31,00:47:36,00:47:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+84,7,Paul Verrijdt,Veghel,M40,32,00:47:37,00:47:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+85,139,Yannick Jussen,Veghel,MSR,13,00:47:38,00:47:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+86,138,Nick Dekkers,Veghel,MSR,14,00:47:38,00:47:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+87,251,Joris Reefman,Nistelrode,MSR,15,00:47:44,00:47:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+88,191,Yorni van Vorselen,Utrecht,MSR,16,00:47:44,00:47:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+89,163,Kyra van Denken,'s-Hertogenbosch,VSR,2,00:47:51,00:47:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+90,990,Stephan van Bruggen,Bakkerij van Leur B02,MSR,17,00:47:53,00:47:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+91,384,Niels van der Linden,Veghel,M30,24,00:47:54,00:47:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+92,896,Henk Couwenberg,Jumbo Supermarkten B01,M50,15,00:47:57,00:47:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+93,343,Dorinne Swinkels,Nistelrode,V40,1,00:47:59,00:47:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+94,17,Ferenc Welten,Veghel,M40,33,00:48:01,00:47:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+95,954,Dick van schie,corvanschie B01,M50,16,00:48:03,00:47:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+96,96,Marco Buijinck,Uden,M40,34,00:48:03,00:47:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+97,27,Henri Joosten,Veghel,M50,17,00:48:04,00:47:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+98,408,Albert van der Werf,Veghel,M50,18,00:48:06,00:47:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+99,380,Marc van den Berkmortel,Veghel,M50,19,00:48:08,00:47:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+100,895,Phillip van den Heuvel,Jumbo Supermarkten B01,M40,35,00:48:09,00:48:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+101,148,Esther van Duijnhoven,Uden,V40,2,00:48:11,00:48:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+102,328,Rianne Smits-vanBakel,Berghem,V50,2,00:48:14,00:48:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+103,350,Patrick van Es,Autobedrijf van den Udenhout B01,M40,36,00:48:16,00:47:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+104,285,Saskia Kivits,Schijndel,V40,3,00:48:21,00:48:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+105,176,Frank vande Wijgert,Veghel,M40,37,00:48:24,00:48:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+106,957,Lotte van de Bosch,corvanschie B01,VSR,3,00:48:28,00:47:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+107,55,Marc vanden Biggelaar,Veghel,M50,20,00:48:29,00:47:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+108,397,Ruben Cozijnsen,Veghel,M40,38,00:48:30,00:48:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+109,74,Robin Theunissen,Veghel,MSR,18,00:48:36,00:48:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+110,337,Sanne van Gessel,Kerkdriel,VSR,4,00:48:40,00:48:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+111,11,Bjrn vander Struif,Veghel,M50,21,00:48:46,00:48:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+112,104,Ad vander Heijden,Sint-Oedenrode,M50,22,00:48:46,00:48:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+113,410,Albert Pepers,Veghel,M50,23,00:48:46,00:48:31,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+114,211,Niels de Lange,Veghel,M30,25,00:48:57,00:48:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+115,84,Armand vanden Akker,Veghel,M30,26,00:48:58,00:48:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+116,249,Lisanne Harmsen,Oss,VSR,5,00:48:59,00:48:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+117,123,Gonny van Zutven,Sint-Oedenrode,V50,3,00:49:00,00:48:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+118,106,Lisette vander Kallen,Sint-Oedenrode,V40,4,00:49:00,00:48:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+119,223,Sander Rams,Veghel,M40,39,00:49:02,00:48:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+120,284,Harrie Kemps,Schijndel,M40,40,00:49:15,00:49:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+121,111,Lisbeth Van Ras,Veghel,V40,5,00:49:39,00:48:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+122,209,Jos van Uden,Schijndel,M50,24,00:49:43,00:49:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+123,950,Marilotte Boon,BusinessCom B02,V30,2,00:49:46,00:49:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+124,58,Jeroen Jonkers,Veghel,M40,41,00:49:47,00:49:36,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+125,379,Harry Kalis,Veghel,M50,25,00:49:54,00:49:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+126,975,Dorke Nous,Brandweer Veghel B01,V50,4,00:49:56,00:48:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+127,290,Etienne Houben,Eindhoven,M40,42,00:49:56,00:49:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+128,400,Hennie Nouwen,Veghel,M50,26,00:49:57,00:49:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+129,335,Paul van Schil,Essen,M50,27,00:49:59,00:49:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+130,100,Hugo de Vries,Sleeuwijk,M50,28,00:50:00,00:49:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+131,30,Paul van Mullem,Veghel,M50,29,00:50:02,00:49:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+132,968,Stan Pijnenburg,Autobedrijf van den Udenhout B02,MSR,19,00:50:10,00:49:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+133,334,Mark schalken,Sprang-Capelle,MSR,20,00:50:14,00:50:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+134,287,Jeroen vanden Bergh,Tilburg,M30,27,00:50:16,00:49:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+135,177,Marc van Riel,Veghel,M40,43,00:50:16,00:50:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+136,377,Ad van den Boogaard,Veghel,M50,30,00:50:19,00:50:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+137,43,Roeland Scheeren,Eindhoven,M50,31,00:50:23,00:49:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+138,214,Antoine van Blokland,Veghel,M40,44,00:50:26,00:49:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+139,268,Linda Verheggen,Wijchen,V40,6,00:50:32,00:49:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+140,38,Noud Hendriks,Veghel,M40,45,00:50:34,00:50:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+141,190,Hein Vissers,Veghel,M50,32,00:50:35,00:49:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+142,26,Michel Jansen,Veghel,M50,33,00:50:36,00:50:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+143,14,Rick Lewis,Veghel,MSR,21,00:50:39,00:49:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+144,12,Marielle Metselaars,Veghel,V30,3,00:50:39,00:50:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+145,199,Gerbert Breukink,Veghel,M40,46,00:50:40,00:50:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+146,81,Jeroen van Gemert,Veghel,M30,28,00:50:40,00:49:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+147,378,Patrick van Asperen,Veghel,M30,29,00:50:43,00:50:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+148,371,Ilona Rullens,Veghel,VSR,6,00:50:46,00:50:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+149,370,Mark van Boekel,Veghel,MSR,22,00:50:47,00:50:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+150,210,Sebastian Claassen,Oss,M30,30,00:50:52,00:50:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+151,217,Eric van Horen,Veghel,M50,34,00:50:59,00:50:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+152,244,Twan Verstralen,Veghel,M50,35,00:50:59,00:50:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+153,259,Remco de LangeWendels,Sint-Oedenrode,M30,31,00:51:00,00:50:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+154,269,Maarten Kanters,Veghel,M30,32,00:51:01,00:50:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+155,227,Rick van Dijk,Veghel,M50,36,00:51:01,00:50:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+156,116,Jarno Daling,Veghel,M30,33,00:51:01,00:50:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+157,229,Mathijs van Bentum,Vught,MSR,23,00:51:03,00:50:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+158,971,Nico Siers,Autobedrijf van den Udenhout B03,M50,37,00:51:08,00:50:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+159,298,Silvia Kastelijn,Schijndel,V40,7,00:51:09,00:50:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+160,161,Roland vd Tillaart,Veghel,M40,47,00:51:10,00:50:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+161,969,Rob de Waard,Autobedrijf van den Udenhout B02,M40,48,00:51:11,00:50:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+162,197,Hannie Stoffelen,Veghel,V50,5,00:51:14,00:51:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+163,900,Eric Goorts,Jumbo Supermarkten B02,MSR,24,00:51:15,00:50:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+164,44,Maarten Korz,'s-Hertogenbosch,M40,49,00:51:19,00:50:17,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+165,266,Patty van Uden,Heeswijk-Dinther,V30,4,00:51:21,00:51:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+166,92,Arnold Jansen,Haarlem,M50,38,00:51:22,00:51:17,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+167,247,Anita Van Lith,Veghel,V50,6,00:51:27,00:51:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+168,25,Ton van Uden,Veghel,M50,39,00:51:38,00:50:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+169,114,Nico van Haaren,Oss,M50,40,00:51:42,00:51:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+170,977,David Hommel,Brandweer Veghel B01,M40,50,00:51:43,00:50:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+171,110,Marc V. Ras,Veghel,M40,51,00:51:43,00:50:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+172,406,Fred Verhoeven,Veghel,M50,41,00:51:43,00:51:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+173,20,Jan van Houtum,Veghel,M50,42,00:51:45,00:51:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+174,213,Antoon Bekkers,Erp,M50,43,00:51:46,00:51:18,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+175,13,Steven Doorduyn,Veghel,M40,52,00:51:47,00:51:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+176,66,Mark vanden Hurk,Veghel,M40,53,00:51:50,00:51:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+177,157,Alan de Vries,Veghel,M40,54,00:51:52,00:51:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+178,109,Wilco Jansen,Veghel,M50,44,00:51:53,00:51:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+179,390,Cor van Ooijen,Veghel,M50,45,00:51:54,00:50:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+180,248,Peter Bijvelds,Veghel,M50,46,00:52:05,00:51:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+181,170,Pepijn Berendes,Veghel,M40,55,00:52:05,00:51:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+182,277,Peter van Lith,Veghel,M50,47,00:52:18,00:52:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+183,986,Paul Rombout,Bakkerij van Leur B01,MSR,25,00:52:22,00:51:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+184,388,Robin van der Heijden,Veghel,M40,56,00:52:24,00:51:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+185,115,Richard Muijshondt,Veghel,M50,48,00:52:24,00:52:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+186,154,Myriam Simons,Veghel,V50,7,00:52:28,00:52:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+187,951,Bregina Schol,BusinessCom B02,V40,8,00:52:29,00:52:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+188,188,Suzan Dortmans,Veghel,VSR,7,00:52:31,00:52:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+189,189,Audrey vande Dinter,Veghel,V30,5,00:52:32,00:52:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+190,76,Harold Coppens,Veghel,M50,49,00:52:33,00:52:29,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+191,149,Bert Jacobi,Veghel,M40,57,00:52:35,00:51:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+192,341,Rian Vander Linden,Veghel,VSR,8,00:52:39,00:52:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+193,102,Eugene van Kessel,Veghel,M40,58,00:52:46,00:52:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+194,590,Christ van Lissum,Roosendaal,M50,50,00:52:47,00:52:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+195,322,Franca van zutven,Veghel,V50,8,00:52:52,00:52:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+196,382,Robert Theyssen,Veghel,M50,51,00:52:55,00:52:29,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+197,330,Monique Donkers,Schijndel,V40,9,00:52:55,00:52:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+198,207,Marco Verberk,Veghel,M40,59,00:52:56,00:52:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+199,386,Karel Hendrikx,Veghel,M30,34,00:52:57,00:52:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+200,901,Wido Broeren,Jumbo Supermarkten B03,M40,60,00:52:58,00:52:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+201,355,Edwin Kemps,Veghel,M30,35,00:53:00,00:52:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+202,316,Elise vande Wijgert,Veghel,V40,10,00:53:01,00:52:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+203,392,Danielle van Houtum,Veghel,VSR,9,00:53:01,00:52:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+204,99,Marieke Pisters,Eindhoven,V30,6,00:53:02,00:52:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+205,353,Lotte van de Linden,Veghel,VSR,10,00:53:02,00:52:35,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+206,885,Ton Verbruggen,Koflexwerk B02,M50,52,00:53:06,00:53:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+207,391,Daan Rijsinus,Veghel,M30,36,00:53:11,00:52:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+208,59,Marleen Merkx,Den Dungen,V30,7,00:53:18,00:53:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+209,246,Robbert vanden Broek,Veghel,M50,53,00:53:21,00:53:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+210,394,Peter Habraken,Veghel,M50,54,00:53:24,00:52:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+211,949,Marisa Geukens,BusinessCom B02,V40,11,00:53:24,00:53:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+212,275,Manon van Lith,Veghel,VSR,11,00:53:25,00:53:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+213,898,A Kourouma,Jumbo Supermarkten B02,M30,37,00:53:25,00:53:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+214,216,Rinie Terhaard,Wijchen,V50,9,00:53:28,00:53:17,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+215,18,Rudi Holl,Veghel,M40,61,00:53:30,00:53:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+216,966,Marissa Hos,Autobedrijf van den Udenhout B02,VSR,12,00:53:34,00:52:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+217,133,Kim vander Linden,Uden,V30,8,00:53:37,00:53:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+218,307,Ines van Oort,Uden,V50,10,00:53:38,00:52:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+219,208,Jaap Keeren,Veghel,M30,38,00:53:40,00:53:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+220,61,Carlo Hulsen,Veghel,M40,62,00:53:41,00:52:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+221,89,Desiree Vander Linden,Veghel,V40,12,00:53:41,00:52:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+222,134,Maartje Vd Heijden,Heeswijk-Dinther,V30,9,00:53:42,00:53:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+223,963,Henry van der Doelen,Autobedrijf van den Udenhout B01,M50,55,00:53:49,00:53:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+224,122,Sanja van Hees,Veghel,V30,10,00:53:55,00:53:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+225,166,Martijn Keetels,Oirschot,MSR,26,00:54:04,00:53:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+226,897,Paul van den Broek,Jumbo Supermarkten B02,M50,56,00:54:08,00:53:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+227,37,Ronald Grentzius,Veghel,M30,39,00:54:09,00:54:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+228,32,Kees van summeren,Veghel,M40,63,00:54:17,00:54:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+229,90,Hans Holdijk,Sint-Oedenrode,M50,57,00:54:17,00:53:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+230,364,Frans van Uden,Veghel,M50,58,00:54:17,00:53:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+231,357,Adwin Mathon,Veghel,M50,59,00:54:18,00:53:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+232,203,Yvonne De Kok,Schijndel,V30,11,00:54:18,00:53:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+233,299,Jose Hanenberg,Boekel,V50,11,00:54:20,00:54:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+234,180,Anne vanden Berg,Veghel,V30,12,00:54:21,00:53:17,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+235,309,Richard Maurix,Den Dungen,M40,64,00:54:22,00:54:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+236,273,Peter Appels,Eindhoven,M50,60,00:54:32,00:53:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+237,289,Sandra Vander Sanden,Schijndel,V30,13,00:54:36,00:53:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+238,373,Gerard Lenssen,Veghel,M50,61,00:54:38,00:53:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+239,374,Matty van Est,Veghel,M40,65,00:54:38,00:53:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+240,943,Nick de Haas,BusinessCom B01,M30,40,00:54:39,00:53:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+241,91,Seb van Deursen,Rotterdam,M40,66,00:54:42,00:54:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+242,36,Minke Verstappen,Veghel,V30,14,00:54:43,00:54:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+243,158,Edwin Bakkum,Veghel,M40,67,00:54:45,00:54:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+244,79,Ad van Deursen,Veghel,M50,62,00:54:45,00:54:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+245,919,Bas van Boxtel,VINCI Facilities B01,M40,68,00:54:52,00:54:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+246,156,Bas Van Meurs,Veghel,M40,69,00:54:56,00:54:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+247,319,Martijn vande Koolwijk,Uden,M30,41,00:55:07,00:54:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+248,944,Pieter van Eldonk,BusinessCom B01,M30,42,00:55:09,00:54:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+249,318,Karin Vander Linden,Uden,V30,15,00:55:10,00:54:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+250,387,Wim van de Staay,Veghel,M50,63,00:55:11,00:54:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+251,228,Femke van Bentum,Vught,V30,16,00:55:11,00:54:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+252,409,Eveline Hoek,Veghel,V50,12,00:55:15,00:55:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+253,131,Berry De Graauw,Veghel,M50,64,00:55:17,00:54:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+254,288,Ger Houben,Schijndel,M50,65,00:55:18,00:55:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+255,187,Rob Wierenga,Veghel,M40,70,00:55:21,00:54:58,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+256,405,Elle van den Broek,Veghel,V40,13,00:55:22,00:54:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+257,241,Joyce Goijaarts,Veghel,V30,17,00:55:26,00:54:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+258,381,Geert Jansen,Veghel,M50,66,00:55:28,00:55:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+259,398,Koen van de Wetering,Veghel,MSR,27,00:55:30,00:55:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+260,60,Gerard van Loon,Veghel,M40,71,00:55:32,00:54:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+261,297,Bertil van Blokland,Veghel,M50,67,00:55:34,00:54:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+262,174,Rinio Vander Ven,Odiliapeel,M50,68,00:55:40,00:55:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+263,347,Philip Christiaans,Heerenhuys Veghel B01,MSR,28,00:55:41,00:55:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+264,349,Olivier Christiaans,Heerenhuys Veghel B01,MSR,29,00:55:41,00:55:37,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+265,15,Christel Verberne,Veghel,V30,18,00:55:42,00:55:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+266,404,Bart Brugmans,Veghel,M30,43,00:55:42,00:54:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+267,874,Marco Bons,ASN Bons Veghel B01,M50,69,00:55:44,00:55:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+268,254,Jorgen de Ronde,Geldrop,M40,72,00:55:48,00:55:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+269,51,Gea Kempkens,Boekel,V30,19,00:55:51,00:55:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+270,78,Jeanne Riswick,Berlicum Nb,V50,13,00:55:52,00:55:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+271,880,Patrick de Jong,Koflexwerk B01,M40,73,00:55:55,00:55:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+272,326,Singha De Koning,Sint-Oedenrode,V30,20,00:55:55,00:55:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+273,64,Rob van Doremalen,Uden,MSR,30,00:55:57,00:55:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+274,65,Frans van Doremalen,Veghel,M50,70,00:55:58,00:55:25,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+275,315,Leon Janssen,Veghel,M50,71,00:55:58,00:55:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+276,234,Hans Bogers,Veghel,M50,72,00:55:58,00:55:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+277,1,Manon Reijnders,Heeswijk-Dinther,VSR,13,00:55:59,00:55:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+278,153,Jasmijn Vos,Oss,VSR,14,00:56:02,00:55:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+279,118,Marjolijn Hooijer,Veghel,V40,14,00:56:05,00:55:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+280,999,Hans Mangnus,Wilschut Advocaten B01,M40,74,00:56:06,00:55:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+281,312,Barry Lombarts,Uden,M30,44,00:56:06,00:55:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+282,93,Nadja Sikkers,Oss,V30,21,00:56:07,00:55:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+283,338,Nancy Beem,Veghel,V30,22,00:56:08,00:55:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+284,296,Jacomijn van Vonno,Uden,V40,15,00:56:16,00:55:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+285,926,Debby van berkel,Schoenmakerij Carlos B01,V40,16,00:56:22,00:55:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+286,179,July Schrama,Erp,V40,17,00:56:22,00:56:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+287,196,Hans Herwig,Veghel,M50,73,00:56:27,00:55:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+288,132,Antoon vanden Acker,Veghel,M40,75,00:56:36,00:55:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+289,233,Lizette van Doorn,Breda,V50,14,00:56:40,00:56:31,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+290,232,Arian Broeren,Schijndel,M50,74,00:56:41,00:56:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+291,231,Glenn Verstappen,Veghel,MSR,31,00:56:43,00:56:25,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+292,54,Francis Relou,Veghel,V30,23,00:56:43,00:55:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+293,171,Alinda Boskma,Eindhoven,V40,18,00:56:47,00:56:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+294,168,Yvonne Aben,Eindhoven,V50,15,00:56:47,00:56:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+295,169,Miriam Meulenberg,Eindhoven,V40,19,00:56:48,00:56:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+296,245,Nicole Vonk,Veghel,V30,24,00:56:51,00:56:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+297,194,Bianca van Doorn,Veghel,V30,25,00:56:52,00:56:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+298,16,Henriette Vander Vaart,Veghel,V30,26,00:56:53,00:56:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+299,143,Verine Vissers,Veghel,VSR,15,00:57:00,00:56:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+300,144,Sophie Dirkse,Veghel,VSR,16,00:57:00,00:56:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+301,68,Marieke Jacobs,Veghel,V30,27,00:57:01,00:56:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+302,226,Monique vanden Broek,Veghel,V50,16,00:57:04,00:56:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+303,34,Peer Hurkmans,Veghel,M50,75,00:57:07,00:56:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+304,311,Michael Moonen,Sint-Oedenrode,M50,76,00:57:08,00:56:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+305,956,Nancy van Berlo,corvanschie B01,V40,20,00:57:09,00:56:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+306,120,Kim Vulders,Veghel,V30,28,00:57:10,00:56:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+307,878,Gerard de Kock,Koflexwerk B01,M40,76,00:57:17,00:57:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+308,281,Kylie van Santvoort,Veghel,VSR,17,00:57:20,00:57:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+309,243,Claudia Kemps,Veghel,V30,29,00:57:24,00:57:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+310,182,Kees van Corven,Veghel,M50,77,00:57:26,00:57:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+311,998,Harold Dahlmans,Wilschut Advocaten B01,M50,78,00:57:30,00:56:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+312,126,Angela Middelweerd,Veghel,V30,30,00:57:31,00:57:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+313,967,Yvonne Hos,Autobedrijf van den Udenhout B02,V50,17,00:57:33,00:56:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+314,925,Angeline bouwdewijns,Schoenmakerij Carlos B01,V40,21,00:57:38,00:57:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+315,863,Ronny de Haas,Koele Boois B01,M30,45,00:57:45,00:57:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+316,323,Richard vanden Boogaart,Veghel,M40,77,00:57:45,00:57:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+317,859,Dirk Bons,Koele Boois B01,MSR,32,00:57:45,00:57:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+318,862,J.B. Pot,Koele Boois B01,M30,46,00:57:46,00:57:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+319,861,Nico van Rooij,Koele Boois B01,M30,47,00:57:46,00:57:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+320,860,Bart Beekwilder,Koele Boois B01,MSR,33,00:57:47,00:57:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+321,988,Noortje van Straten,Bakkerij van Leur B01,VSR,18,00:57:52,00:57:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+322,984,Merel van Doorn,Bakkerij van Leur B01,VSR,19,00:57:52,00:57:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+323,6,Werner Roovers,Uden,M40,78,00:57:53,00:57:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+324,882,Janny Pulles,Koflexwerk B01,V30,31,00:57:58,00:57:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+325,2,Miranda van Lissum,Sint-Oedenrode,V30,32,00:57:59,00:57:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+326,62,Joost Gerrits,Veghel,M50,79,00:58:14,00:57:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+327,3,Gabi Roovers,Uden,V50,18,00:58:16,00:58:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+328,351,Kay Aras,Autobedrijf van den Udenhout B03,M40,79,00:58:36,00:57:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+329,974,Erik Basten,Autobedrijf van den Udenhout B03,M40,80,00:58:37,00:57:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+330,1000,Ren Aalders,Wilschut Advocaten B01,M50,80,00:58:42,00:58:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+331,365,Sandra Verwijst,Veghel,V40,22,00:58:42,00:58:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+332,172,Mieke van Helvoirt,Veghel,V40,23,00:58:49,00:58:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+333,970,Peter van den Hout,Autobedrijf van den Udenhout B02,M40,81,00:58:51,00:57:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+334,294,Peter Stalpers,Veghel,M40,82,00:58:55,00:58:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+335,193,Sylvia Cornelissen,Veghel,VSR,20,00:59:00,00:58:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+336,310,Ben Helmes,Veghel,M50,81,00:59:06,00:58:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+337,401,Kitty Mandos,Veghel,V50,19,00:59:22,00:58:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+338,98,Helen Willemsen,Oss,V40,24,00:59:26,00:59:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+339,385,Anne-Sophie van Galen,Veghel,VSR,21,00:59:31,00:59:29,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+340,212,Carola Swinkels,'s-Hertogenbosch,VSR,22,00:59:33,00:59:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+341,71,Phyllis Besems,Veghel,VSR,23,00:59:40,00:59:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+342,173,Marianne Daandels,Veghel,V40,25,00:59:42,00:59:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+343,265,Brigitte Kooijman,Eindhoven,V40,26,00:59:50,00:59:18,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+344,366,Marielle van Tol,Veghel,V40,27,00:59:55,00:59:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+345,372,Joyce van Heugten,Veghel,V40,28,00:59:55,00:59:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+346,955,Patries,corvanschie B01,V50,20,00:59:55,00:58:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+347,119,Annitra Franken,Veghel,V40,29,01:00:02,00:59:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+348,46,Frank Pepers,Veghel,M50,82,01:00:03,00:59:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+349,902,Jacomien Assmann,Jumbo Supermarkten B03,V40,30,01:00:04,00:59:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+350,252,Sandra Smits,Veghel,V40,31,01:00:06,00:59:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+351,972,Marcel Winkens,Autobedrijf van den Udenhout B03,M30,48,01:00:07,00:59:18,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+352,881,Rob van Donzel,Koflexwerk B01,M40,83,01:00:19,01:00:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+353,922,Rien van den Bogaart,VINCI Facilities B01,M50,83,01:00:22,00:59:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+354,304,Sandy Smits,Schijndel,V30,33,01:00:22,00:59:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+355,137,Mitchel Boer,Veghel,M40,84,01:00:22,00:59:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+356,127,Marc Middelweerd,Veghel,M30,49,01:00:22,00:59:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+357,320,Erica Olivier,Heeswijk-Dinther,V50,21,01:00:23,00:59:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+358,295,Marian Brands,Veghel,V40,32,01:00:23,00:59:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+359,237,Marianne Law,Veghel,V40,33,01:00:23,00:59:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+360,82,Ruud Vermeulen,Veghel,M50,84,01:00:26,00:59:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+361,240,Geert Vander Burgt,Uden,M50,85,01:00:38,01:00:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+362,150,Wilma vande Scheur,Veghel,V50,22,01:00:45,00:59:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+363,987,Sharon Olde Bijvank,Bakkerij van Leur B01,VSR,24,01:00:55,01:00:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+364,205,Mieke van Lieshout,Helmond,V40,34,01:01:08,01:00:58,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+365,359,Marianne van Bakel,Veghel,V30,34,01:01:10,01:01:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+366,362,Luuk Hermse,Veghel,MSR,34,01:01:10,01:01:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+367,344,Rik Beekmans,Jumbo Supermarkten B03,MSR,35,01:01:11,01:00:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+368,29,Patrick Wouters-Smulders,Veghel,M40,85,01:01:14,01:01:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+369,270,Yvonne Rooijakkers,Eindhoven,V50,23,01:01:25,01:00:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+370,276,Annie Ouborg,Eindhoven,V50,24,01:01:25,01:00:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+371,368,Bart van Esch,Veghel,M30,50,01:01:30,01:01:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+372,354,Erik Panken,Veghel,M40,86,01:01:35,01:00:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+373,162,Steyn Schalkx,Veghel,M50,86,01:01:38,01:00:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+374,125,Erma Koster,Veghel,V40,35,01:01:38,01:01:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+375,8,Silvy Arts,Veghel,V40,36,01:01:47,01:01:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+376,202,Marijke Hendriks,Erp,V40,37,01:01:47,01:01:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+377,128,Marissa Hughes-Keijzer,Nootdorp,V40,38,01:01:49,01:01:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+378,40,Lemmia Laaroussi,Veghel,V30,35,01:01:52,01:01:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+379,278,Paul Verstraeten,Nuenen,M50,87,01:01:53,01:01:08,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+380,358,Erwin Mathon,Veghel,MSR,36,01:01:54,01:00:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+381,395,Leona Sieben,Veghel,V30,36,01:01:56,01:01:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+382,303,Rianne van Kemenade,Schijndel,V40,39,01:01:59,01:01:17,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+383,883,John Janssen,Koflexwerk B02,M50,88,01:02:02,01:01:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+384,160,Iris De Bekker,Uden,V30,37,01:02:05,01:01:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+385,121,Jeroen vanden Tillaart,Veghel,M40,87,01:02:07,01:01:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+386,22,Frank Punte,Veghel,M50,89,01:02:11,01:01:18,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+387,185,Joyce Cornelissen,Veghel,VSR,25,01:02:12,01:01:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+388,129,Stefan Edwards,'s-Hertogenbosch,M40,88,01:02:12,01:02:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+389,192,Christian Plompen,Veghel,M40,89,01:02:14,01:02:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+390,47,Jessica vanden Heuvel,Veghel,V40,40,01:02:18,01:02:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+391,279,Conny van Geffen,Veghel,V40,41,01:02:18,01:02:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+392,184,Marina Cornelissen,Veghel,V40,42,01:02:28,01:02:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+393,976,Edgar Ottens,Brandweer Veghel B01,M40,90,01:02:31,01:01:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+394,979,Mirelle van den Oetelaar,Brandweer Veghel B01,V40,43,01:02:31,01:01:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+395,282,Hilde vander Pas,Heeswijk-Dinther,VSR,26,01:02:50,01:02:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+396,306,Karin Slippens,Veghel,V50,25,01:03:09,01:02:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+397,293,Harriet van Diemen,Veghel,V50,26,01:03:09,01:02:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+398,135,Marja van Andel,Veghel,V40,44,01:03:10,01:02:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+399,864,Koen Kerkhof,Studio Springstof B01,M30,51,01:03:17,01:02:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+400,868,Peter Teunis,Studio Springstof B01,M50,90,01:03:17,01:02:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+401,41,Colette Danse,Veghel,V40,45,01:03:32,01:03:08,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+402,159,Marielle griffioen,Uden,V40,46,01:03:35,01:03:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+403,67,Chantal vanden Boogaart,Veghel,V40,47,01:03:35,01:03:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+404,973,Jan van der Heijden,Autobedrijf van den Udenhout B03,M50,91,01:03:37,01:02:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+405,375,Mieke Bosch,Veghel,V50,27,01:03:37,01:02:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+406,991,Kim Sonderen,Bakkerij van Leur B02,VSR,27,01:03:38,01:02:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+407,220,Toon Swinkels,Uden,M50,92,01:03:38,01:03:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+408,875,Ton Vos,ASN Bons Veghel B01,M50,93,01:03:39,01:03:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+409,985,Judith van Erp,Bakkerij van Leur B01,VSR,28,01:03:39,01:02:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+410,619,Bart van Mourik,Veghel,M40,91,01:03:40,01:02:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+411,108,Margriet van AsperenVeuskens,Veghel,V50,28,01:03:44,01:02:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+412,200,Jolien Alofs,Arnhem,V30,38,01:03:48,01:03:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+413,992,Nicole de Klein,Bakkerij van Leur B02,VSR,29,01:04:33,01:03:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+414,367,Jennifer Baillie,Veghel,V40,48,01:04:44,01:04:35,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+415,879,Tine van Kessel,Koflexwerk B01,VSR,30,01:05:02,01:04:58,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+416,945,Jose Broeren,BusinessCom B01,V50,29,01:05:08,01:04:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+417,224,Barbara Simons,Veghel,V40,49,01:05:08,01:04:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+418,221,Erni van Sleuwen,Veghel,V40,50,01:05:08,01:04:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+419,947,Tamara de Haas,BusinessCom B01,V30,39,01:05:10,01:04:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+420,63,Anouk vander Bijl,Sommelsdijk,V30,40,01:05:16,01:04:43,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+421,903,Conny de Groot,Jumbo Supermarkten B03,V40,51,01:05:17,01:04:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+422,978,karin van Grunsven,Brandweer Veghel B01,V40,52,01:05:21,01:04:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+423,886,Kelly Oosterom,Koflexwerk B02,V30,41,01:05:49,01:05:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+424,313,Wil Kivits,Sint-Oedenrode,M50,94,01:05:52,01:05:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+425,314,Annette Boonstoppel,Sint-Oedenrode,V50,30,01:05:52,01:05:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+426,10,Wendy van Dooren,Erp,VSR,31,01:05:59,01:05:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+427,186,Femke vander Velden,Veghel,V30,42,01:06:06,01:05:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+428,399,Petra Koenraad,Veghel,V40,53,01:06:10,01:05:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+429,204,Jody Scholten,Helmond,VSR,32,01:06:12,01:06:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+430,87,Niels van Kampen,Apeldoorn,M30,52,01:06:19,01:06:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+431,620,Conny van Mourik,Veghel,V40,54,01:06:28,01:05:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+432,332,Astrid Habraken,Heeswijk-Dinther,V30,43,01:06:34,01:06:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+433,331,Sandy Verkuijlen,Heeswijk-Dinther,V30,44,01:06:34,01:06:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+434,317,Marille van Alebeek,Heeswijk-Dinther,V30,45,01:06:34,01:06:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+435,198,Janine Verhaaff,Arnhem,V30,46,01:07:07,01:06:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+436,393,Anja van Houtum,Veghel,V50,31,01:07:20,01:07:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+437,369,Jeroen van de Velden,Veghel,M30,53,01:07:34,01:07:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+438,140,Els Vanden Berg,Veghel,V50,32,01:07:38,01:06:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+439,85,Marco Blonk,Schijndel,MSR,37,01:07:54,01:07:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+440,271,Claudia Goorman-Vorstenbosch,Veghel,V30,47,01:08:27,01:08:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+441,147,Anke Jansen,Veghel,V30,48,01:08:42,01:08:07,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+442,261,Karin Dekkers,Sint-Oedenrode,V30,49,01:09:08,01:08:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+443,75,Paul Theunissen,Oosterbeek,M50,95,01:09:11,01:08:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+444,19,Adrie Mulders,Veghel,M50,96,01:09:49,01:09:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+445,876,Patick Meulensteen,ASN Bons Veghel B01,M40,92,01:10:06,01:09:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+446,946,Anita de Haas,BusinessCom B01,V50,33,01:10:24,01:09:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+447,921,Ilse van Collenburg,VINCI Facilities B01,V40,55,01:12:54,01:12:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+448,42,Desiree Enters,Oss,VSR,33,01:14:10,01:14:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+449,324,Rien vander Linden,Veghel,M50,97,01:14:53,01:14:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+450,360,Gemma van Casteren,Veghel,V40,56,01:16:28,01:16:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+451,361,Lieke Bos,Veghel,VSR,34,01:16:28,01:16:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+452,356,Wim Heyman,Veghel,M50,98,01:19:32,01:18:36,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+453,5,Ineke de Wild,Uden,V50,34,01:21:19,01:21:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08

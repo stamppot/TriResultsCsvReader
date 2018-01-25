@@ -1,0 +1,442 @@
+Plts,StartNr,Naam,Vereniging/Woonplaats,Cat,PltsCat,NettoTijd,Na1800m,Na5km,race,date
+1,1927,Sam Baarspul,Amsterdam,Man,1,00:27:25,00:07:42,00:20:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+2,1806,Bernard Koeleman,Amsterdam,Man,2,00:27:28,00:07:02,00:20:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+3,1139,Sieme Luijckx,Amsterdam,Man,3,00:28:21,00:07:16,00:20:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+4,991,Sander Perry,Amsterdam,Man,4,00:28:21,00:07:17,00:20:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+5,2078,Leon de Keijze,Barleaus,Man,5,00:28:23,00:07:11,00:21:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+6,1975,David Baarspul,Amsterdam,Man,6,00:28:23,00:07:51,00:21:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+7,335,Paulus Egberts,Amsterdam,Man,7,00:28:32,00:07:58,00:21:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+8,803,Bas Arts,Amsterdam,Man,8,00:28:36,00:07:09,00:21:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+9,873,Robert Schouten,Amsterdam,Man,9,00:28:43,00:07:01,00:21:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+10,1926,Jannick Kapnisakes,Amsterdam,Man,10,00:28:47,00:07:33,00:21:17,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+11,1668,Danuta Mazurel,Amsterdam,Vrouw,1,00:29:26,00:07:25,00:21:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+12,1581,Richard van der Neut,Amsterdam,Man,11,00:29:31,00:07:41,00:22:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+13,872,Nienke Bakker,Amsterdam,Vrouw,2,00:29:33,00:07:35,00:21:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+14,993,Thomas Damen,Amsterdam,Man,12,00:29:36, ,00:22:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+15,1949,Mark Droogleever,Amsterdam,Man,13,00:29:37,00:07:58,00:22:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+16,1954,Pelle Elsten,Amsterdam,Man,14,00:29:40,00:07:31,00:21:54,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+17,1768,Peter Kuyper,Maarssen,Man,15,00:29:50,00:07:33,00:22:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+18,1065,Tjibbe Galama,Amsterdam,Man,16,00:30:16,00:07:48,00:22:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+19,1973,Michael Dekker,Amsterdam,Man,17,00:31:13,00:08:25,00:23:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+20,620,Tijn van den Boogaard,Amsterdam,Man,18,00:31:23,00:08:18,00:23:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+21,1983,Daan Vos,Amsterdam,Man,19,00:31:26,00:08:21,00:23:19,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+22,1982,Thomas Knappers,Amsterdam,Man,20,00:31:32,00:08:46,00:23:55,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+23,2080,Sam Whitehead,Barleaus,Man,21,00:31:32,00:07:56,00:23:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+24,1062,Jodie Smith,Amsterdam,Vrouw,3,00:31:38,00:08:01,00:23:14,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+25,1953,Thijl Kropholler,Amsterdam,Man,22,00:31:38,00:07:31,00:22:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+26,841,Kde Valk,Zwolle,Man,23,00:31:40,00:08:35,00:23:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+27,1716,Koen Yang,Heemskerk,Man,24,00:31:46,00:08:01,00:23:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+28,1329,Caroline Baan,Amsterdam,Vrouw,4,00:31:51,00:07:43,00:23:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+29,2087,Mike Neuhuys,Barleaus,Man,25,00:31:52,00:08:37,00:23:58,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+30,242,Ben Roest,Abcoude,Man,26,00:32:04,00:07:44,00:23:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+31,809,Frans van Breugel,Amsterdam,Man,27,00:32:11,00:08:05,00:23:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+32,1795,Ivar van Hoorn,Amsterdam,Man,28,00:32:22,00:08:39,00:24:39,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+33,1947,Olivier van de Weerdhof,Amsterdam,Man,29,00:32:22, , ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+34,2077,Sacha van der Beek,Barleaus,Vrouw,5,00:32:24,00:08:45,00:24:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+35,292,Sjors de Valk,Amersfoort,Man,30,00:32:31,00:08:56,00:24:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+36,1901,Jan Willem Bruin Slot,Amsterdam,Man,31,00:32:32,00:08:09,00:23:55,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+37,2084,Jesse Peters,Barleaus,Man,32,00:32:34,00:08:11,00:23:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+38,2082,Chasseron Hellmund,Barleaus,Man,33,00:32:34,00:08:11,00:23:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+39,1619,Michiel Alkemade,Amsterdam,Man,34,00:32:47,00:08:25,00:24:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+40,1872,Marjolein Tromp,Amsterdam,Vrouw,6,00:32:59,00:08:32,00:24:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+41,823,JH Kindberg,Amstelveen,Man,35,00:33:10,00:09:06,00:25:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+42,913,Martijn Verzijden,Purmerend,Man,36,00:33:10,00:08:03,00:24:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+43,2081,Paolo Leijssen,Barleaus,Vrouw,7,00:33:17,00:08:33,00:24:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+44,2058,Mauve Rosenberg,Barleaus,Vrouw,8,00:33:20,00:08:57,00:24:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+45,1742,Jan Willem Buijs,Bergen Nh,Man,37,00:33:21,00:09:12,00:25:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+46,1417,Thijs Rosken,Amsterdam,Man,38,00:33:22,00:09:25,00:25:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+47,490,Wiebe Menger,Amsterdam,Man,39,00:33:30,00:09:01,00:25:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+48,1210,Julian Bouw,Amsterdam,Man,40,00:33:34,00:09:04,00:25:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+49,469,Mischa Otjes,Alkmaar,Man,41,00:33:35,00:08:32,00:24:55,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+50,1459,Leonie van Grieken,Utrecht,Vrouw,9,00:33:41,00:08:40,00:25:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+51,1896,George Panis,Amsterdam,Man,42,00:34:01,00:09:28,00:25:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+52,837,Dani Alberto,'s-Hertogenbosch,Man,43,00:34:02,00:08:09,00:25:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+53,2048,Sil Hes,Barleaus,Man,44,00:34:05,00:08:51,00:25:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+54,1921,Alisa Roo,Amsterdam,Vrouw,10,00:34:09,00:08:50,00:25:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+55,1908,Floris Leijten,Amsterdam,Man,45,00:34:18,00:09:26,00:25:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+56,1903,Wouter Jonker,Amsterdam,Man,46,00:34:19,00:09:21,00:25:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+57,1972,Jacques Bontje,Amsterdam,Man,47,00:34:20,00:08:52,00:25:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+58,1955,Wouter Kool,Amsterdam,Man,48,00:34:20,00:09:43,00:25:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+59,554,Jasper Versteeg,Weesp,Man,49,00:34:21,00:08:45,00:25:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+60,1397,Milan Busiello,Almere,Man,50,00:34:26,00:08:07,00:24:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+61,488,Marloes Konterman,Amsterdam,Vrouw,11,00:34:32,00:09:00,00:25:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+62,2085,Nikki Weststeijn,Barleaus,Vrouw,12,00:34:34,00:08:56,00:25:54,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+63,1087,Laura Fresco,Amsterdam,Vrouw,13,00:34:48,00:09:29,00:26:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+64,910,Jelijn van Barneveld,Zaandam,Vrouw,14,00:34:49,00:09:14,00:26:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+65,2043,Mick van Timmeren,Barleaus,Man,51,00:34:51,00:08:51,00:25:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+66,1909,Mathijs van Eeuwijk,Amsterdam,Man,52,00:34:54,00:09:28,00:25:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+67,472,Heleen de Jonge,Hilversum,Vrouw,15,00:34:59,00:08:53,00:25:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+68,836,Alexmarie Alberto,'s-Hertogenbosch,Vrouw,16,00:35:04,00:09:09,00:25:58,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+69,1585,Silje van Duivenbode,Amstelveen,Vrouw,17,00:35:16,00:09:20,00:26:25,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+70,2042,Moos Teunissen,Barleaus,Man,53,00:35:18,00:08:48,00:26:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+71,2037,Wynand van der Burgt,Barleaus,Man,54,00:35:19,00:08:51,00:26:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+72,1500,Bram van de Sanden,Amsterdam,Man,55,00:35:21,00:08:34,00:25:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+73,1418,Maaike Hoffstedde,Amstelveen,Vrouw,18,00:35:22,00:09:25,00:26:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+74,861,Boudewijn Schaap,Bussum,Man,56,00:35:23,00:09:27,00:26:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+75,1346,Dikla Zeidler,Amsterdam,Vrouw,19,00:35:28,00:09:25,00:26:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+76,1448,Julian Toonk,Amsterdam,Man,57,00:35:28,00:09:41,00:27:10,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+77,897,Rene Hendrikse,Bussum,Man,58,00:35:31,00:09:25,00:26:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+78,1592,Marjan Kruijer,Amsterdam,Vrouw,20,00:35:32,00:09:45,00:26:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+79,1450,Werner Toonk,Amsterdam,Man,59,00:35:40,00:09:40,00:27:10,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+80,2075,Philipa Mos,Barleaus,Vrouw,21,00:35:50,00:09:38,00:27:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+81,702,Wisse van Os,Amsterdam,Man,60,00:35:53,00:09:46,00:27:18,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+82,898,Rozemarijn Hendrikse,Bussum,Vrouw,22,00:35:53,00:09:25,00:26:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+83,2062,Philip Broerse,Barleaus,Man,61,00:35:53,00:09:19,00:26:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+84,860,Dick Schaap,Bussum,Man,62,00:35:54,00:09:27,00:26:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+85,2065,Soleil Leddy Gouveia,Barleaus,Vrouw,23,00:35:54,00:09:24,00:26:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+86,539,Kim van de Sanden,Amsterdam,Vrouw,24,00:35:56,00:08:40,00:26:12,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+87,1639,Yvonne Kunst,Amsterdam,Vrouw,25,00:36:02,00:09:45,00:26:55,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+88,8,Thomas van Steenbergen,Phanos,Man,63,00:36:04,00:06:12,00:17:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+89,2070,Boris Braun,Barleaus,Man,64,00:36:04,00:08:39,00:26:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+90,765,Lois Bisschop,Amsterdam,Vrouw,26,00:36:11,00:08:45,00:26:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+91,1146,Monique Al,Haarlem,Vrouw,27,00:36:23,00:09:22,00:27:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+92,1445,Eline Brinkhuis,Amsterdam,Vrouw,28,00:36:25,00:09:07,00:26:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+93,1143,Marieke Schilling,Abcoude,Vrouw,29,00:36:26,00:09:19,00:26:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+94,2132,Martine Kassing,Haarlem,Vrouw,30,00:36:28,00:09:54,00:27:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+95,390,Frits van den Born,Amsterdam,Man,65,00:36:28,00:10:16,00:27:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+96,388,Eva van den Born,Amsterdam,Vrouw,31,00:36:29,00:10:16,00:27:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+97,1704,Stefanie Barzanova,Haarlem,Vrouw,32,00:36:32,00:09:54,00:27:19,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+98,1017,Marcel Schouten,De Lier,Man,66,00:36:32,00:09:55,00:27:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+99,2074,Alice van den Broek,Barleaus,Vrouw,33,00:36:39,00:09:40,00:27:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+100,1780,Matthew Whitehead,Amsterdam,Man,67,00:36:42,00:09:36,00:27:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+101,1807,Sera Yosta,Amsterdam,Vrouw,34,00:36:48,00:09:17,00:27:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+102,2040,Boetie Rosenberg,Barleaus,Vrouw,35,00:36:52,00:09:23,00:27:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+103,2041,Isabel van der Beek,Barleaus,Vrouw,36,00:36:54,00:09:31,00:27:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+104,1788,Tessa te Riele,Amsterdam,Vrouw,37,00:36:56,00:09:21,00:27:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+105,1931,Martijn Letschert,Amsterdam,Man,68,00:36:57,00:09:05,00:27:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+106,1408,Wyke Beeking,Amsterdam,Vrouw,38,00:37:02,00:09:45,00:27:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+107,1647,Esther Remmelink,Amsterdam,Vrouw,39,00:37:02,00:09:41,00:27:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+108,1653,Nina Straat,Utrecht,Vrouw,40,00:37:02,00:09:41,00:27:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+109,933,Nayibe Statia,Amsterdam Zuidoost,Vrouw,41,00:37:04,00:09:45,00:27:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+110,580,Bob Tjon-En-Fa,Amsterdam,Man,69,00:37:08,00:10:48,00:28:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+111,621,Sam van den Boogaard,Amsterdam,Man,70,00:37:11,00:09:45,00:27:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+112,624,Joop de Langen,Bergen Nh,Man,71,00:37:11,00:09:39,00:27:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+113,625,Danielle de Langen,Amsterdam,Vrouw,42,00:37:12,00:09:40,00:27:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+114,643,Nicolette Broekman,Amsterdam,Vrouw,43,00:37:15,00:10:16,00:28:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+115,946,Frank Grootenboer,Haarlem,Man,72,00:37:17,00:09:32,00:27:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+116,1914,Maike Geerlink,Amsterdam,Vrouw,44,00:37:20,00:10:24,00:28:18,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+117,1364,Jolet van Raamsdonk,Amsterdam,Vrouw,45,00:37:20,00:10:00,00:28:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+118,2068,Barbara de Meijer,Barleaus,Vrouw,46,00:37:22,00:09:24,00:27:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+119,2051,Stijn Heertje,Barleaus,Man,73,00:37:23,00:09:05,00:27:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+120,1916,Yvette Schurink,Amsterdam,Vrouw,47,00:37:23,00:10:27,00:28:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+121,1890,Lisanne Tieland,Amsterdam,Vrouw,48,00:37:25,00:09:57,00:27:58,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+122,1945,Tim Hoeberechts,Amsterdam,Man,74,00:37:25,00:09:57,00:27:59,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+123,856,Lucia Hanstede,Zoetermeer,Vrouw,49,00:37:29,00:09:51,00:27:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+124,2079,Devrim Aslan,Barleaus,Man,75,00:37:30,00:09:21,00:27:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+125,2076,Abel Levie,Barleaus,Man,76,00:37:32,00:09:11,00:27:33,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+126,333,Louise Reijrink,'s-Gravenhage,Vrouw,50,00:37:34,00:09:26,00:27:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+127,2125,Judith Burgemeister,Amsterdam,Vrouw,51,00:37:36,00:09:28,00:27:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+128,2126,Rachelle van den Dool,Amsterdam,Vrouw,52,00:37:36,00:09:28,00:27:47,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+129,489,Jette Reij,Amsterdam,Vrouw,53,00:37:38,00:09:46,00:28:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+130,1695,Irene van As,Amsterdam,Vrouw,54,00:37:45,00:10:21,00:28:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+131,344,Charlotte Gulikers,Amsterdam,Vrouw,55,00:37:45,00:09:55,00:28:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+132,167,Ali Gucceri,Amsterdam,Man,77,00:37:49,00:09:28,00:28:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+133,1730,Sabine Blok,Amsterdam,Vrouw,56,00:37:50,00:10:41,00:28:25,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+134,1952,Karlijn Strackee,Amsterdam,Vrouw,57,00:37:50,00:09:56,00:27:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+135,711,Ronald van Veen,Amsterdam,Man,78,00:37:51,00:10:03,00:28:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+136,565,Friso van Overbeek,Amsterdam,Man,79,00:37:51,00:10:48,00:28:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+137,1434,Kim Djoa,Amsterdam,Man,80,00:37:55,00:09:54,00:28:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+138,1612,Elly Lode,Amsterdam,Vrouw,58,00:37:55,00:10:23,00:28:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+139,1978,Misha Sier,Amsterdam,Vrouw,59,00:37:58,00:09:58,00:28:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+140,1557,Biljana van Zanten,Amsterdam,Vrouw,60,00:37:59,00:09:53,00:28:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+141,2071,Jeske Kielstra,Barleaus,Vrouw,61,00:37:59,00:09:47,00:28:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+142,1601,Bas van Noortwijk,Amsterdam,Man,81,00:38:02,00:09:53,00:28:08,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+143,694,Rickert van der Vlies,Amsterdam,Man,82,00:38:05,00:09:52,00:28:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+144,2434,Maria Murtagh,Run2Day team 3,Vrouw,62,00:38:06,00:10:00,00:28:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+145,772,Ryneira Domacasse,Amsterdam Zuidoost,Vrouw,63,00:38:09,00:09:39,00:28:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+146,1842,Sangita de Jong,Amsterdam,Vrouw,64,00:38:10,00:09:46,00:28:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+147,945,Christiaan Kleczewski,Amsterdam,Man,83,00:38:10,00:09:59,00:28:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+148,1476,Grold Nicolasen,Utrecht,Man,84,00:38:11,00:10:08,00:28:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+149,1475,Cynthia de Nijs,Amsterdam,Vrouw,65,00:38:11,00:10:15,00:28:47,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+150,416,Caroline Tjan,Amstelveen,Vrouw,66,00:38:14,00:10:14,00:28:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+151,1232,Jacobien Gerbrandij,Duivendrecht,Vrouw,67,00:38:16,00:10:04,00:28:58,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+152,1934,Quirenne Michels,Amsterdam,Vrouw,68,00:38:19,00:10:23,00:28:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+153,1990,Anne Vos,Amsterdam,Vrouw,69,00:38:21,00:10:04,00:28:25,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+154,1758,Annick Bijkerk,Amsterdam,Vrouw,70,00:38:24,00:09:20,00:27:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+155,2038,Ramsus Klerk,Barleaus,Man,85,00:38:26,00:09:42,00:28:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+156,1783,Guido Bakker,Uitgeest,Man,86,00:38:26,00:09:47,00:28:33,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+157,480,Machteld Zock,Amsterdam,Vrouw,71,00:38:27,00:10:04,00:28:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+158,1566,Leroy Yzer,Amsterdam,Man,87,00:38:29,00:10:27,00:29:19,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+159,2053,Babette Cremers,Barleaus,Vrouw,72,00:38:31,00:09:34,00:28:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+160,2052,Andrej Galic,Barleaus,Man,88,00:38:33,00:09:39,00:28:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+161,724,Erwin Meulmeester,Hoorn Nh,Man,89,00:38:35,00:10:03,00:28:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+162,1114,Igor Molina Sotillo,Amsterdam,Man,90,00:38:36,00:10:54,00:29:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+163,674,Paloma Kalf,Hardloopclub Amsterdam,Vrouw,73,00:38:41,00:09:36,00:28:17,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+164,289,Minke Kolstein,Purmerend,Vrouw,74,00:38:46,00:10:07,00:28:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+165,1538,Anouk Evers,Haarlem,Vrouw,75,00:38:50,00:10:00,00:28:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+166,1231,Maartje de Ruijter,Duivendrecht,Vrouw,76,00:38:52,00:10:19,00:29:04,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+167,1913,Willem Bloem,Amsterdam,Vrouw,77,00:38:52,00:10:04,00:29:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+168,1368,David Hollanders,Amsterdam,Man,91,00:38:57,00:09:37,00:28:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+169,1451,Latzar Matitaputty,Dordrecht,Man,92,00:38:59,00:10:22,00:29:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+170,1217,Jaap Veerman,Volendam,Man,93,00:39:01,00:09:33,00:28:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+171,2097,Nicola van Ommeren,Wageningen,Vrouw,78,00:39:02,00:10:06,00:29:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+172,1912,Femke van Casteren,Amsterdam,Vrouw,79,00:39:07,00:10:04,00:28:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+173,1991,Laurens Wormhoudt,Amsterdam,Man,94,00:39:07,00:09:21,00:28:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+174,1555,Tim Steenge,Amsterdam,Man,95,00:39:08,00:10:10,00:29:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+175,984,Natasja Veldhoven,Uden,Vrouw,80,00:39:08,00:10:26,00:29:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+176,1199,Jacob Degeffa,Amsterdam,Man,96,00:39:17, , ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+177,1501,Marijke Cieremans,Amsterdam,Vrouw,81,00:39:20,00:10:43,00:29:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+178,1968,Maryse Bakema,Amsterdam,Vrouw,82,00:39:22,00:10:33,00:29:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+179,1971,Helena Arntz,Amsterdam,Vrouw,83,00:39:22,00:10:33,00:29:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+180,428,Johan Abbink,Haarlem,Man,97,00:39:25,00:10:07,00:29:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+181,1984,Marlous Been,Amsterdam,Vrouw,84,00:39:33,00:10:24,00:29:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+182,992,Monique de Paauw,Amsterdam,Vrouw,85,00:39:34,00:10:14,00:29:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+183,1989,Milan de Niet,Amsterdam,Man,98,00:39:38,00:10:15,00:29:54,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+184,1943,Marle Engbers,Amsterdam,Vrouw,86,00:39:38,00:10:24,00:29:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+185,1923,Pia Schoyen,Amsterdam,Vrouw,87,00:39:41,00:10:54,00:30:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+186,1777,Francis Dijkstra,Amsterdam,Vrouw,88,00:39:42,00:10:44,00:30:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+187,1516,Rosanne van Tol,Leiden,Vrouw,89,00:39:47, ,00:29:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+188,1515,Linda Bel,Leiden,Vrouw,90,00:39:48, ,00:29:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+189,1749,Joris Winkelman,Amsterdam,Man,99,00:39:49,00:10:40,00:30:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+190,718,Muhabbat Komil,Enschede,Vrouw,91,00:39:50,00:10:33,00:29:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+191,1750,Anouk Griffioen,Amsterdam,Vrouw,92,00:39:50,00:10:40,00:29:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+192,1778,Rosan Winkelman,Amsterdam,Vrouw,93,00:39:50,00:10:40,00:29:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+193,1935,Rebecca Karsten,Amsterdam,Vrouw,94,00:39:51,00:10:55,00:30:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+194,351,Dolly Urueta,Amstelveen,Vrouw,95,00:39:58,00:10:02,00:29:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+195,350,Ileana van Hagen,Amstelveen,Vrouw,96,00:39:58,00:10:08,00:29:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+196,234,Linda Reichardt,Amsterdam,Vrouw,97,00:39:58,00:10:18,00:29:59,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+197,1220,Marille de Reus,Hoofddorp,Vrouw,98,00:40:01,00:10:20,00:29:29,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+198,855,Michel Kershof,Zoetermeer,Man,100,00:40:03,00:09:51,00:29:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+199,1932,Emilie Funken,Amsterdam,Vrouw,99,00:40:04,00:10:23,00:30:17,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+200,314,Ulla van Sprang,Amsterdam,Vrouw,100,00:40:06,00:10:47,00:30:14,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+201,1987,Sephan Ramb,Amsterdam,Man,101,00:40:07,00:09:27,00:29:05,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+202,1614,Janique Wienk,Amsterdam,Vrouw,101,00:40:10,00:10:49,00:30:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+203,1527,Natalie Dubois,Amsterdam,Vrouw,102,00:40:10,00:10:49,00:30:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+204,1616,Bente Dubois,Amsterdam,Vrouw,103,00:40:17,00:10:49,00:30:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+205,1301,Bonnie De Boer,Amsterdam,Vrouw,104,00:40:21,00:09:48, ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+206,885,Monique Frohn,Almere,Vrouw,105,00:40:23,00:11:00,00:30:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+207,1933,Karlijn Beers,Amsterdam,Vrouw,106,00:40:26,00:10:23,00:30:17,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+208,1172,Meike Wouda,Amsterdam,Vrouw,107,00:40:32,00:10:47,00:30:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+209,2127,Nienke Wajon,Amsterdam,Vrouw,108,00:40:32,00:10:42,00:30:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+210,215,Henk Hommel,Raamsdonksveer,Man,102,00:40:32,00:10:11,00:29:39,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+211,216,Nelly Donkersloot,Raamsdonksveer,Vrouw,109,00:40:32,00:10:11,00:29:39,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+212,639,Yvonne Peters,Venlo,Vrouw,110,00:40:33,00:10:50,00:30:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+213,409,Esther Kloet,Amsterdam,Vrouw,111,00:40:33,00:10:49,00:30:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+214,1163,Willy van Heel,Almere,Vrouw,112,00:40:33,00:09:19,00:29:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+215,755,Dionne Kolderman,Almere,Vrouw,113,00:40:35,00:10:25,00:30:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+216,1076,Patricia Caron,Almere,Vrouw,114,00:40:37,00:10:56,00:30:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+217,2351,Edwin Kroos,GVB team 1,Man,103,00:40:40,00:09:20,00:29:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+218,2055,Anastacia Peters,Barleaus,Vrouw,115,00:40:41,00:10:04,00:29:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+219,1039,Gina Cossiga,Amsterdam,Vrouw,116,00:40:43,00:10:55,00:30:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+220,2072,Magali Remarque,Barleaus,Vrouw,117,00:40:43,00:10:33,00:30:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+221,1061,Rosanne van Meer,Amsterdam,Vrouw,118,00:40:45,00:10:50,00:30:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+222,1608,Stephan Peters,Hilversum,Man,104,00:40:46,00:10:55,00:30:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+223,2069,Amba Jil Stapert,Barleaus,Vrouw,119,00:40:52,00:09:46,00:30:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+224,2073,Cleo Holtrust,Barleaus,Vrouw,120,00:40:53,00:10:32,00:30:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+225,1433,Sophia van Nood,Amsterdam,Vrouw,121,00:40:53,00:10:18,00:29:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+226,1568,Lidy Moerbeek,Amsterdam,Vrouw,122,00:40:54,00:10:50,00:30:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+227,2100,Hellen de Leijer,Amsterdam,Vrouw,123,00:40:59,00:10:39,00:30:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+228,1803,Joris Smeets,Amsterdam,Man,105,00:41:01,00:10:42,00:31:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+229,205,Hans Siebbeles,Amsterdam,Man,106,00:41:01,00:10:20,00:30:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+230,1342,Mandy Eksteen,Amsterdam,Vrouw,124,00:41:02,00:10:23,00:30:04,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+231,174,Sandra Hoogeboom,Amsterdam,Vrouw,125,00:41:03,00:10:11,00:29:55,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+232,1410,Evelyne Dielen,Amsterdam,Vrouw,126,00:41:06,00:11:13,00:31:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+233,2115,Kimberley Elberse,Amstelveen,Vrouw,127,00:41:11,00:10:40,00:30:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+234,1917,Bibi van Dijk,Amsterdam,Vrouw,128,00:41:18,00:11:27,00:31:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+235,1454,Kimberly Sieval,Purmerend,Vrouw,129,00:41:18,00:09:48,00:29:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+236,1918,Elke van Gerven,Amsterdam,Vrouw,130,00:41:18,00:11:28,00:31:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+237,1455,Dion Bosschieter,Purmerland,Man,107,00:41:19,00:09:48,00:29:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+238,1937,Myrthe Baars,Amsterdam,Vrouw,131,00:41:19,00:10:54,00:31:05,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+239,848,Lou Robinson,Amsterdam,Vrouw,132,00:41:23,00:10:51,00:30:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+240,2066,Emma Wieske,Barleaus,Vrouw,133,00:41:24,00:10:40,00:31:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+241,1540,Arnoud Dokkum,Amsterdam,Man,108,00:41:26,00:10:56,00:31:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+242,501,Melissa Clauzing,Amsterdam,Vrouw,134,00:41:27,00:10:49,00:30:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+243,2044,Hannah Reijnders,Barleaus,Man,109,00:41:28,00:10:32,00:31:29,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+244,467,Veronique Willems,Amsterdam,Vrouw,135,00:41:28,00:10:11,00:30:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+245,2047,Katy Alberdingk Thijm,Barleaus,Vrouw,136,00:41:34,00:10:31,00:31:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+246,1798,Marloes Griffioen,Amsterdam,Vrouw,137,00:41:39,00:10:40,00:30:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+247,1162,Arnold Wessels,Purmerend,Man,110,00:41:41,00:10:54,00:30:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+248,1936,Anne Myrthe Korvinus,Amsterdam,Vrouw,138,00:41:41,00:10:57,00:31:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+249,576,Mark Bergman,Amsterdam,Man,111,00:41:44,00:11:02,00:31:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+250,1866,Ivet Pieper,Phanos,Vrouw,139,00:41:45,00:11:00,00:31:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+251,575,Jet Klarenbeek,Muiden,Vrouw,140,00:41:46,00:11:10,00:31:14,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+252,574,Robbert Fokkens,Muiden,Man,112,00:41:47,00:11:09,00:31:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+253,556,Ruth Langemeijer,Amsterdam,Vrouw,141,00:41:49,00:11:00,00:31:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+254,830,Merel Groenewoud,Feniks,Vrouw,142,00:41:50,00:10:54,00:30:58,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+255,1767,Sophie van Overeem,Almere,Vrouw,143,00:41:51,00:10:42,00:30:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+256,318,Felicia Lusing,Amsterdam Zuidoost,Vrouw,144,00:41:55,00:10:47,00:30:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+257,553,Nikie Steffers,Noord-Scharwoude,Vrouw,145,00:41:55,00:10:39,00:31:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+258,789,Monique Verheul,Dutch Runners,Vrouw,146,00:41:57,00:10:31,00:30:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+259,1133,Sandra Korteknie,Amsterdam,Vrouw,147,00:42:00,00:11:44,00:31:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+260,1071,Jordy Egging,Amsterdam,Man,113,00:42:00,00:10:55,00:31:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+261,929,Carlijn van Loon,Zeist,Vrouw,148,00:42:01,00:11:13,00:31:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+262,1135,Gerard Pouw,Amsterdam,Man,114,00:42:02,00:10:56,00:31:25,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+263,930,Marin Kellaert,Zeist,Vrouw,149,00:42:02,00:11:13,00:31:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+264,1205,Tijn Antonisse,Amsterdam,Man,115,00:42:05,00:11:30,00:31:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+265,1204,Jasmijn Antonisse,Amsterdam,Vrouw,150,00:42:05,00:11:30,00:31:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+266,1528,Paul Romer,Amsterdam,Man,116,00:42:06,00:10:44,00:31:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+267,187,Gokhan Aksoy,Amsterdam,Man,117,00:42:08,00:10:10,00:30:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+268,710,Anja Meulmeester,Amsterdam,Vrouw,151,00:42:09,00:10:44,00:31:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+269,1362,Noor Pennings,Amsterdam,Vrouw,152,00:42:10,00:10:49,00:31:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+270,356,Melissa Bahlman,Amsterdam Zuidoost,Vrouw,153,00:42:10,00:10:48,00:30:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+271,479,Marieke Snijder,Amsterdam,Vrouw,154,00:42:12,00:10:53,00:31:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+272,2067,Nadia Iassievitch,Barleaus,Vrouw,155,00:42:13,00:10:40,00:31:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+273,1884,Linda de Jong,Amsterdam,Vrouw,156,00:42:15,00:10:53,00:31:18,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+274,2036,Tabo Stekelenburg,Barleaus,Vrouw,157,00:42:18,00:10:34,00:31:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+275,1344,Naomi Mungroo,Almere,Vrouw,158,00:42:19,00:09:55,00:31:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+276,1791,Barbera Los,Amstelveen,Vrouw,159,00:42:21,00:11:27,00:31:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+277,233,Floor Huisman,Amsterdam,Vrouw,160,00:42:22,00:10:49,00:31:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+278,1661,Esther Stoker,Haag Atletiek,Vrouw,161,00:42:23,00:11:29,00:31:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+279,655,Valerie Bos,Amsterdam,Vrouw,162,00:42:23,00:11:15,00:31:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+280,1536,Lucretia de Vries,Leiden,Vrouw,163,00:42:25, , ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+281,1069,Merel Mans,Amsterdam,Vrouw,164,00:42:26,00:11:37,00:31:48,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+282,1263,Juul van der Baan,Amsterdam,Vrouw,165,00:42:27,00:11:05,00:31:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+283,1113,Lorella Simcic,Amsterdam,Vrouw,166,00:42:27,00:10:54,00:31:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+284,1470,Mariska Flink-Booijen,Aalsmeer,Vrouw,167,00:42:31,00:10:51,00:31:33,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+285,406,Jessika Pietersen,Amsterdam,Vrouw,168,00:42:31,00:11:21,00:32:04,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+286,2046,Fiena Blitz,Barleaus,Vrouw,169,00:42:32,00:10:36,00:31:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+287,2049,Machteld Hammink,Barleaus,Vrouw,170,00:42:33,00:10:36,00:31:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+288,1757,Fauzia Deerveld,Amstelveen,Vrouw,171,00:42:36,00:10:53,00:31:19,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+289,2039,Joris Dekker,Barleaus,Man,118,00:42:41,00:10:03,00:31:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+290,372,Romana Cabri,Santpoort-Zuid,Vrouw,172,00:42:41,00:11:18,00:31:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+291,371,Mylene Cabri,Santpoort-Noord,Vrouw,173,00:42:41,00:11:18,00:31:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+292,332,Nienke Reijrink,Amsterdam,Vrouw,174,00:42:42,00:11:08,00:31:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+293,494,Jan Koster,Koog aan de Zaan,Man,119,00:42:42,00:10:55,00:31:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+294,493,Suzan Hof,Amsterdam,Vrouw,175,00:42:42,00:10:56,00:31:17,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+295,979,Denise van Zitteren,Amsterdam,Vrouw,176,00:42:44,00:10:49,00:31:31,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+296,1816,Deborah Alfarez,Amsterdam,Vrouw,177,00:42:44,00:10:42,00:31:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+297,2045,Zoe Stek,Barleaus,Vrouw,178,00:42:46,00:10:32,00:31:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+298,1170,Lidwien vd Wollenberg,ZOEV,Vrouw,179,00:42:54,00:11:06,00:31:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+299,874,Caroline Schouten,De Lier,Vrouw,180,00:42:59,00:11:32,00:32:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+300,1088,Hannah Kousbroek,Amsterdam,Vrouw,181,00:43:15,00:11:21,00:32:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+301,330,Robert Cloutier,Amsterdam,Man,120,00:43:15,00:11:21,00:32:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+302,243,Yvette Klaar,Monnickendam,Vrouw,182,00:43:18,00:11:08,00:32:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+303,2486,Krista Westerbos,Amsterdam Zuidoost,Vrouw,183,00:43:19,00:11:06,00:32:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+304,1186,Carla van Paridon,Amsterdam,Vrouw,184,00:43:20,00:11:16,00:32:14,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+305,668,Annette Wesselink,Amsterdam,Vrouw,185,00:43:26,00:11:19,00:32:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+306,285,Rick Pronk,Amsterdam,Man,121,00:43:32,00:11:29,00:32:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+307,1832,Frenchie de Kunder,Amsterdam,Vrouw,186,00:43:33,00:11:26,00:32:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+308,843,Joanne van Bekhoven,Amsterdam,Vrouw,187,00:43:35,00:11:08,00:32:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+309,2418,Annet Kleiboer,Run2Day team 1,Vrouw,188,00:43:35,00:11:26,00:32:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+310,340,Mirjam Bach,Abcoude,Vrouw,189,00:43:36, , ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+311,2432,Cindy van Gastel,Run2Day team 3,Vrouw,190,00:43:36,00:11:26,00:32:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+312,1118,Chloe Ajamlou,Amsterdam,Vrouw,191,00:43:36,00:11:49,00:33:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+313,1878,Eva Hombroek,Amsterdam,Vrouw,192,00:43:37,00:10:47,00:32:01,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+314,669,BaukeJan Wiersma,Haarlem,Man,122,00:43:39,00:11:19,01:00:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+315,1103,Inge Brouwer,Amsterdam,Vrouw,193,00:43:43,00:10:49,00:32:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+316,1262,Lisa Grasso,Amsterdam,Vrouw,194,00:43:45,00:10:52,00:32:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+317,253,Anna Steinebach,Amsterdam,Vrouw,195,00:43:51,00:11:12,00:32:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+318,1304,Simone Seegers,Amsterdam Zuidoost,Vrouw,196,00:43:52,00:11:22,00:32:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+319,2086,Maen Gaikhorst,Barleaus,Vrouw,197,00:43:55,00:11:59,00:33:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+320,1197,Michou Mastboom,Amsterdam,Vrouw,198,00:43:56,00:10:59,00:32:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+321,269,Patricia Swart,Amsterdam,Vrouw,199,00:43:57,00:11:06,00:32:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+322,985,Tia Groeneweg,Vianen Ut,Vrouw,200,00:43:57,00:11:00,00:32:47,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+323,1922,Hanne-eva van Bremen,Amsterdam,Vrouw,201,00:44:03,00:11:22,00:32:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+324,1985,Ankje Vulto,Amsterdam,Vrouw,202,00:44:04,00:11:22,00:32:53,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+325,2431,Iris Warmenhoven,Run2Day team 3,Vrouw,203,00:44:05,00:11:26,00:32:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+326,2377,Montse Lloveras,Brandweer Adam/Amstel team 1,Vrouw,204,00:44:18,00:07:36,00:36:35,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+327,1370,Andrea Matteman,Amsterdam,Vrouw,205,00:44:18,00:11:37,00:33:12,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+328,508,Wieneke Pietersen,Amsterdam,Vrouw,206,00:44:18,00:11:37,00:33:12,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+329,1603,Joke van Koppen,Amsterdam,Vrouw,207,00:44:18,00:10:48,00:32:39,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+330,1939,Eline Ruidendaal,Amsterdam,Vrouw,208,00:44:19,00:11:32,00:32:57,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+331,1705,Astrid van Stek,Amsterdam,Vrouw,209,00:44:22,00:11:44,00:33:24,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+332,1025,Marian van der Sluijs,Volendam,Vrouw,210,00:44:23,00:10:47,00:32:05,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+333,1006,Jean Pierre Kraamwinkel,Amsterdam,Man,123,00:44:30,00:11:02,00:32:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+334,2050,June Gibbs,Barleaus,Vrouw,211,00:44:30,00:10:16,00:32:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+335,1036,Karin de Gooijer,Badhoevedorp,Vrouw,212,00:44:31,00:11:37,00:32:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+336,1002,Jessica van Langen,Purmerend,Vrouw,213,00:44:36,00:11:01,00:32:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+337,1092,Charity Miller,Amsterdam,Vrouw,214,00:44:37,00:11:49,00:33:33,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+338,1607,Astrid Alewijnse,Hilversum,Vrouw,215,00:44:38,00:11:29,00:33:02,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+339,1707,Ralph Rollman,Amsterdam,Man,124,00:44:41,00:11:22,00:33:12,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+340,1717,Laura Baay,Amsterdam Zuidoost,Vrouw,216,00:44:44,00:10:18,00:33:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+341,1715,Peter van der Horst,Purmerend,Man,125,00:44:46,00:10:18,00:33:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+342,671,Lucinda Allen,Amsterdam,Vrouw,217,00:44:49,00:10:55,00:33:05,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+343,1701,Irene Huttinga,Amsterdam,Vrouw,218,00:44:50,00:11:24,00:33:15,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+344,222,Steffen Chocolaad,Weesp,Man,126,00:44:51,00:13:09,00:35:28,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+345,828,Dave Gronert,Amsterdam,Man,127,00:44:52,00:11:22,00:32:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+346,988,Denise van Tessel,Amsterdam,Vrouw,219,00:44:52,00:11:43,00:33:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+347,1610,Bea de Buisonje,Amsterdam,Vrouw,220,00:44:55,00:11:04,00:33:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+348,906,Frank Drost,Amsterdam,Man,128,00:44:58,00:11:19,00:33:39,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+349,2123,Leeuw van Moerkerken,Amsterdam,Man,129,00:45:09,00:12:09,00:35:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+350,347,Rebecca Lindner,Amsterdam,Vrouw,221,00:45:11,00:12:01,00:33:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+351,1533,Janice Deul,Leiden,Vrouw,222,00:45:13,00:11:14,00:33:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+352,1648,Elin Gerlagh,Amsterdam,Vrouw,223,00:45:24,00:11:37,00:33:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+353,1657,Caroline van den Brink,Amsterdam,Vrouw,224,00:45:25,00:11:37,00:33:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+354,1811,Nick Baatsen,AV '23,Vrouw,225,00:45:29,00:11:48,00:33:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+355,1319,Ria Proper,AV Monnickendam,Vrouw,226,00:45:29,00:11:44,00:33:40,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+356,1067,Aysen Ustubici,Amsterdam,Vrouw,227,00:45:30,00:11:42,00:33:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+357,1810,Jolanda Geel,Diemen,Vrouw,228,00:45:30,00:11:48,00:33:51,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+358,1751,Kimberley Werkman,Amsterdam,Vrouw,229,00:45:31,00:11:07,00:33:48,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+359,358,Hinke Schreuders,Amsterdam,Vrouw,230,00:45:40,00:11:25, ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+360,1331,Laura van der Spek,Amsterdam,Vrouw,231,00:45:41,00:11:51,00:34:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+361,1332,Una Jongenelis,Amsterdam,Vrouw,232,00:45:41,00:11:52,00:34:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+362,784,Guusje van Blokland,Amsterdam,Vrouw,233,00:46:11,00:11:55,00:34:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+363,1474,Hanneke Kart-Pos,Alkmaar,Vrouw,234,00:46:12,00:11:56,00:34:36,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+364,2146,Liza Botros,USC UvA-HvA team 1,Vrouw,235,00:46:16,00:08:19,00:23:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+365,2120,Bruno van Moerkerken,AV '23,Man,130,00:46:23,00:12:09,00:35:06,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+366,1385,Femke Pos,Alkmaar,Vrouw,236,00:46:24,00:11:55,00:34:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+367,1070,Dajella Overweg,Amsterdam,Vrouw,237,00:46:24,00:12:28,00:35:04,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+368,435,Mirjam Dam,Abcoude,Vrouw,238,00:46:26,00:12:12,00:34:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+369,1885,Mendy Stremler - Mellema,Amsterdam,Vrouw,239,00:46:32,00:11:38,00:34:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+370,1066,Mandy Swart,Purmerend,Vrouw,240,00:46:36,00:11:48,00:34:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+371,1064,Ingrid van Herwijnen,Amsterdam,Vrouw,241,00:46:36,00:11:48,00:34:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+372,2397,Kristof Mens,Sysmex team 1,Man,131,00:46:37,00:23:00,00:38:10,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+373,98,Marinca Dinkla-Visser,AV Monnickendam,Vrouw,242,00:46:37,00:07:38,00:38:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+374,927,Leo van Loon,Zeist,Man,132,00:46:44,00:11:31,00:34:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+375,1886,Natasja Dommisse,Amsterdam,Vrouw,243,00:46:58,00:11:38,00:34:49,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+376,1623,Ambrosio Acal,Amsterdam,Man,133,00:46:59,00:11:08,00:34:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+377,535,Fran Taihuttu,Amsterdam,Vrouw,244,00:47:05,00:11:38,00:34:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+378,701,Neeltje van Os,Amsterdam,Vrouw,245,00:47:08,00:11:33, ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+379,2433,Nadia van de Merwe,Run2Day team 3,Vrouw,246,00:47:14,00:12:03,00:35:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+380,1863,Lisette Meerman,Amsterdam,Vrouw,247,00:47:15,00:11:05,00:32:20,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+381,1739,Desmin Dekker,Watergang,Man,134,00:47:15,00:11:47,00:35:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+382,1859,Vivian de Vries,Amsterdam,Vrouw,248,00:47:15,00:11:13,00:34:29,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+383,1920,Paula de Beer,Amsterdam,Vrouw,249,00:47:39,00:11:48,00:35:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+384,1915,Alissa Blokker,Amsterdam,Vrouw,250,00:47:44,00:12:13,00:35:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+385,1919,Iris de Graaff,Amsterdam,Vrouw,251,00:47:44,00:12:13,00:35:50,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+386,1380,Frits Nisters,Aalsmeer,Man,135,00:47:58,00:12:19,00:35:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+387,932,Peter Puister,Amsterdam,Man,136,00:47:58,00:11:57,00:35:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+388,286,Wendy Zilder,Almere,Vrouw,252,00:47:58,00:11:57,00:35:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+389,287,Zil Zilder,Almere,Man,137,00:47:58,00:11:57,00:35:34,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+390,1447,Robert Jan Koopman,Aalsmeer,Man,138,00:47:59,00:12:20,00:35:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+391,1129,Bob Zijp,Amsterdam,Man,139,00:48:02,00:12:03,00:35:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+392,1128,Bianca Boyer,Amsterdam,Vrouw,253,00:48:03,00:12:03,00:35:33,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+393,1379,Herman Coorengel,Aalsmeer,Man,140,00:48:04,00:12:18,00:35:43,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+394,1595,Anne Wesselink,Amsterdam,Vrouw,254,00:48:06,00:11:50,00:35:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+395,1593,Sabrina Bosma,Amsterdam,Vrouw,255,00:48:06,00:11:50,00:35:16,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+396,1115,Marjolein de Heer,Zaandam,Vrouw,256,00:48:15,00:12:25,00:35:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+397,1449,Alice Eikenaar,Amsterdam,Vrouw,257,00:48:27,00:12:22,00:36:07,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+398,1206,Dominique Almeida,Amsterdam,Vrouw,258,00:48:28,00:11:58,00:35:37,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+399,2488,Mariam Boussallam,Beverwijk,Vrouw,259,00:48:29,00:11:39,00:35:46,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+400,2248,Bastian Baas,Motivaction Int. B.V. team 1,Man,141,00:48:33,00:09:16,00:40:23,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+401,1673,Tessa Middelbosch,Amsterdam,Vrouw,260,00:48:54,00:12:07,00:35:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+402,1674,Janneke Fraterman,Rotterdam,Vrouw,261,00:48:54,00:12:06,00:35:56,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+403,1535,Elisabeth Nagtegaal,Leiden,Vrouw,262,00:49:00,00:12:10,00:36:03,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+404,373,Anki Timmermans,Oss,Vrouw,263,00:49:03,00:12:13,00:35:48,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+405,367,Adle van Gemert,Westervoort,Vrouw,264,00:49:11,00:12:33,00:36:30,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+406,2198,Mark Assink,USC UvA-HvA team 9,Man,142,00:49:12,00:23:53,00:40:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+407,689,Robert Berkers,Delft,Man,143,00:49:12,00:13:01,00:37:22,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+408,1015,Jihane Biotteau,Wormerveer,Vrouw,265,00:49:13,00:12:08, ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+409,338,Marloes Vleeschouwer,Amsterdam,Vrouw,266,00:49:31,00:12:09,00:36:12,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+410,1091,Esther Hagendoorn,Amsterdam,Vrouw,267,00:49:34,00:12:39,00:37:11,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+411,1573,Liecke Geers,Amsterdam,Vrouw,268,00:49:43,00:12:41,00:37:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+412,1726,Kirsty Vernooij-Sondaar,Amsterdam,Vrouw,269,00:49:43,00:12:41,00:37:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+413,2060,Imaan Demir,Barleaus,Vrouw,270,00:49:56,00:12:08,00:37:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+414,2057,Rosa Bax,Barleaus,Vrouw,271,00:50:00,00:12:08,00:37:42,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+415,225,Aroushka Britton,Haarlem,Vrouw,272,00:50:02,00:11:33,00:36:41,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+416,1174,Janneke van de Rotten,Amsterdam,Vrouw,273,00:50:08,00:13:10,00:37:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+417,1883,Siebe Arntzen,Amsterdam Zuidoost,Man,144,00:50:23,00:11:45,00:36:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+418,1881,Frits Arntzen,Amsterdam Zuidoost,Man,145,00:50:23,00:11:45,00:36:00,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+419,638,Ivette Tjon,Amsterdam,Vrouw,274,00:50:25,00:12:43,00:37:18,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+420,460,Karin Desaunois,Feniks,Vrouw,275,00:50:36,00:12:18,00:38:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+421,1860,Babette Waltman,Amsterdam,Vrouw,276,00:50:38,00:14:35,00:37:52,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+422,153,Joke Dijkstra,Amsterdam,Vrouw,277,00:50:54,00:11:56,00:36:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+423,154,Eva Naten,Amsterdam,Vrouw,278,00:50:54,00:11:56,00:36:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+424,743,Rob Ramaekers,Amsterdam,Man,146,00:51:00,00:12:32,00:37:27,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+425,381,Menke Peper,Amsterdam,Vrouw,279,00:51:01,00:12:51,00:37:32,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+426,2312,Klein Biha,Vondel Hotels team 2,Man,147,00:51:01,00:24:41,00:42:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+427,599,Ben Bremmer,Weesp,Man,148,00:51:25,00:11:29,00:37:26,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+428,464,Chantal Breure,Maarssen,Vrouw,280,00:52:05,00:12:18,00:38:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+429,1654,Elena Marchisella,Amsterdam,Vrouw,281,00:52:28,00:13:54,00:39:38,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+430,673,Peter Clabou,Assendelft,Man,149,00:52:37,00:12:40,00:38:08,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+431,1117,Caroline Merkx,Almere,Vrouw,282,00:53:02,00:13:19,00:39:09,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+432,969,Renata Punt,Almere,Vrouw,283,00:53:03,00:13:19,00:39:10,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+433,448,Jose Baks,Amsterdam,Vrouw,284,00:53:18,00:12:44,00:38:44,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+434,1646,Randhir Kumar,Amsterdam,Man,150,00:54:31,00:12:37,00:39:19,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+435,401,Ellen Tinholt,Uden,Vrouw,285,00:57:19,00:13:09,00:41:13,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+436,403,Leendert Lohstroh,Uden,Man,151,00:57:20,00:13:13,00:41:14,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+437,1058,Harold Huijzer,Amsterdam,Man,152,00:57:38,00:13:40,00:42:25,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+438,1004,Zahide Saglam,Amsterdam,Vrouw,286,00:58:49,00:14:12,00:42:45,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+439,652,Merel Rietveld,Amsterdam,Vrouw,287,01:00:35,00:15:24,00:45:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+440,975,Elisa Romano,Amsterdam,Vrouw,288,01:00:47,00:15:48,00:45:21,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18
+441,716,Nonna M van den Boogaard,Amsterdam,Vrouw,289,01:06:13,00:11:31, ,41e Vondelparkloop   Amsterdam   18-01-2015,2015-01-18

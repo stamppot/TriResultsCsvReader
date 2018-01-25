@@ -1,0 +1,675 @@
+Plts,StartNr,Naam,Residence,Nation,Cat,#Cat,FinishTime,ChipTime,3K,7K,Video,race,date
+1,1386,Frenk Beijersbergen,Nootdorp,NED,M,1,00:40:19,00:40:19,00:11:57,00:27:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+2,418,Ronald Langenhuizen,Roermond,NED,M,2,00:43:25,00:43:24,00:11:56,00:27:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+3,1064,Henk de Jong,Bunschoten-Spakenburg,NED,M,3,00:43:27,00:43:26,00:12:23,00:28:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+4,1420,Sander Kock,Willemstad,CUW,M,4,00:43:41,00:43:10,00:13:23,00:28:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+5,1710,Yannick van Kastel,Nijmegen,NED,M,5,00:44:39,00:44:38,00:12:49,00:29:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+6,2710,Aniek Aper, , ,V,1,00:44:42,00:44:42,00:12:53,00:29:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+7,434,Nick Kiebert,Julianadorp,CUW,M,6,00:46:54,00:46:52,00:13:52,00:31:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+8,2733,Racenumber 2733, , ,V,2,00:47:03,00:47:02,00:13:00,00:30:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+9,967,Gerben Hamberg,La Privada,CUW,M,7,00:47:23,00:47:08,00:14:08,00:31:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+10,2736,Gijs Winters,Willemstad,CUW,M,8,00:47:32,00:47:24,00:14:17,00:31:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+11,884,Jorrit Heekelaar,St Willibrordus,CUW,M,9,00:47:59,00:47:54,00:13:46,00:31:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+12,1142,Genevieve Jubitana,Rotterdam,NED,V,3,00:48:42,00:48:40,00:13:37,00:31:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+13,852,Juan Vasquez,Willemstad,CUW,M,10,00:48:54,00:48:53,00:13:49,00:31:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+14,551,Marco dos Santos,Damakor,CUW,M,11,00:49:12,00:48:39,00:14:33,00:32:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+15,686,Roangelo Lodewijks,Wiilemstad,CUW,M,12,00:50:04,00:49:53,00:14:53,00:33:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+16,1593,Jaap Smelik,Haarlem,NED,M,13,00:50:18,00:50:14,00:14:38,00:33:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+17,1854,George Bergmann jr,Willemstad,CUW,M,14,00:50:28,00:50:28,00:14:43,00:33:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+18,396,Patrick Schroor,St. Rosa,CUW,M,15,00:50:41,00:50:15,00:14:26,00:32:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+19,747,Bas Hogendorf,Amstelveen,NED,M,16,00:50:50,00:50:36,00:14:01,00:32:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+20,597,Ely Bastardo,Curazao,VEN,M,17,00:50:54,00:50:48,00:14:23,00:32:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+21,982,MMM Pannekoek,Amsterdam,NED,M,18,00:51:49,00:51:45,00:15:43,00:35:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+22,633,Annemarie Lorier,Willemstad,NED,V,4,00:51:52,00:51:52,00:15:55,00:35:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+23,623,Hans Spee,Curacao,CUW,M,19,00:51:58,00:51:27,00:15:44,00:34:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+24,2689,Racenumber 2689, , ,M,20,00:52:03,00:52:01,00:14:52,00:34:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+25,1034,Raily Goedgedrag,Willemstad,CUW,M,21,00:52:12,00:51:59,00:15:37,00:34:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+26,1005,Sander van Genderen,Nederlands,CUW,M,22,00:52:16,00:52:10,00:14:35,00:33:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+27,207,Omar Maldonado,Noord,ARU,M,23,00:52:36,00:52:34,00:15:03,00:34:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+28,208,Lando Dirks,St Cruz,ARU,M,24,00:52:55,00:52:52,00:15:02,00:34:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+29,870,Sabine Ehlert,Willemstad,CUW,V,5,00:52:59,00:52:50,00:16:09,00:35:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+30,83,Aard Lettink,Willemstad,CUW,M,25,00:53:06,00:52:48,00:15:53,00:34:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+31,1382,Arjo van Antwerpen,Willemstad,CUW,M,26,00:53:26,00:53:03,00:15:51,00:35:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+32,1464,Asha Robins,St. Eustatius,BES,V,6,00:53:30,00:53:30,00:15:09,00:35:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+33,1650,Lorenzo de Bruin,Amsterdam,NED,M,27,00:53:33,00:52:25,00:16:22,00:35:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+34,990,Barbara van der Woude,Willemstad,CUW,V,7,00:53:42,00:53:24,00:16:41,00:36:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+35,866,Sjaak Bijl,Pijnacker,NED,M,28,00:54:15,00:53:49,00:16:07,00:35:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+36,431,Elfried Laker,Curacao,CUW,M,29,00:54:24,00:54:03,00:15:08,00:34:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+37,1183,Chris Kuster,Willemstad,CUW,M,30,00:54:27,00:54:14,00:15:59,00:35:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+38,1269,Hidde Jansen,Willemstad,CUW,M,31,00:54:50,00:53:15,00:15:50,00:34:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+39,2785,Racenumber 2785, , ,M,32,00:54:53,00:53:55,00:15:58,00:35:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+40,1211,Arjen De Man,Amstelveen,NED,M,33,00:54:59,00:54:45,00:16:00,00:36:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+41,1184,Wernher Suares,Willemstad,CUW,M,34,00:55:56,00:55:43,00:16:36,00:36:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+42,822,Simon Bolhuis,Willemstad,BES,M,35,00:56:08,00:55:44,00:15:43,00:35:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+43,552,Chloe Deniz,Piscadera,CUW,V,8,00:56:28,00:56:25,00:16:07,00:36:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+44,2666,Racenumber 2666, , ,M,36,00:56:32,00:56:20,00:14:37,00:35:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+45,535,Vincent Adolfs,Purmerend,NED,M,37,00:57:02,00:55:02,00:15:02,00:34:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+46,2769,Racenumber 2769, , ,M,38,00:57:04,00:57:01,00:17:20,00:38:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+47,1845,Conny Lie-A-Lien-Bosch,Rotterdam,NED,V,9,00:57:04,00:57:01,00:17:21,00:38:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+48,94,Kate van Rijen,Willemstad,CUW,V,10,00:57:21,00:57:09,00:17:41,00:38:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+49,1481,Laura Vermeulen,Ilpendam,NED,V,11,00:57:28,00:56:57,00:18:40,00:38:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+50,1586,Harm Klomp,dokkum,NED,M,39,00:57:42,00:57:26,00:17:23,00:37:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+51,591,Tijn van der Gulik,Emmastad,CUW,M,40,00:57:56,00:57:29,00:17:26,00:38:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+52,1568,Rubinald Zinhagel,Buenavista,CUW,M,41,00:58:00,00:57:58,00:15:13,00:36:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+53,321,Margreth de Groot,Noordwijk Zh,NED,V,12,00:58:02,00:57:34,00:16:32,00:37:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+54,1800,Pascal van Dam,Voorhout,NED,V,13,00:58:04,00:57:47,00:17:34,00:38:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+55,1164,Uriel Trustfull,Curacao,CUW,M,42,00:58:07,00:57:43,00:17:31,00:38:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+56,2658,Racenumber 2658, , ,V,14,00:58:09,00:57:09,00:18:28,00:39:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+57,1390,Mirko Eichblatt,22455 Hamburg,GER,M,43,00:58:15,00:57:42,00:17:49,00:38:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+58,1110,Edwin Gortjes,Amsterdam,NED,M,44,00:58:17,00:58:10,00:17:14,00:38:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+59,1223,Linda Tiemens,Amstelveen,NED,V,15,00:58:22,00:58:11,00:17:11,00:38:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+60,1608,Maria Romero,Willemstad,CUW,V,16,00:58:35,00:58:31,00:17:02,00:38:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+61,794,Yoel Sousa,Willemstad,CUW,M,45,00:58:42,00:58:29,00:16:19,00:38:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+62,1815,Job Claassen,Haarlem,NED,M,46,00:58:47,00:58:34,00:16:15,00:37:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+63,1274,Martijn Siffels,Zwolle,NED,M,47,00:58:58,00:57:53,00:17:06,00:38:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+64,2000,Racenumber 2000, , ,M,48,00:58:59,00:58:36,00:17:33,00:39:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+65,831,Jeroen de Looff,Willemstad,CUW,M,49,00:59:19,00:56:22,00:15:45,00:36:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+66,689,John Texel,Willemstad,CUW,M,50,00:59:19,00:56:20,00:15:44,00:36:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+67,119,Chris Visscher,Hoofddorp,NED,M,51,00:59:21,00:58:46,00:16:43,00:37:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+68,667,Ans van Vught,Rif St Marie,CUW,V,17,00:59:24,00:59:19,00:17:54,00:39:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+69,1954,Loes van de Vorst,Willemstad,CUW,V,18,00:59:28,00:59:25,00:17:00,00:39:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+70,367,Tania Jarmohamed,Tilburg,NED,V,19,00:59:37,00:59:37,00:16:58,00:39:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+71,952,Wouter Lindner,naarden,NED,M,52,00:59:38,00:59:21,00:17:27,00:38:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+72,2676,Racenumber 2676, , ,V,20,00:59:47,00:59:36,00:18:25,00:40:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+73,314,Digna Geerman,Oranjestad,ARU,V,21,00:59:50,00:59:47,00:17:19,00:39:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+74,1724,Maike Onnertz,Krefeld,GER,V,22,00:59:52,00:59:12,00:17:49,00:39:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+75,585,Dirma Verkuil,Rotterdam,NED,V,23,01:00:00,00:59:55,00:18:14,00:40:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+76,2075,Racenumber 2075, , ,M,53,01:00:03,00:58:53,00:15:57,00:37:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+77,715,Frank van Ooijen,Willemstad,CUW,M,54,01:00:08,00:59:37,00:16:02,00:36:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+78,34,Dirk Hettinga,Almere,NED,M,55,01:00:11,01:00:02,00:18:19,00:39:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+79,1336,Anne van den Heuvel,Willemstad,CUW,V,24,01:00:19,01:00:12,00:17:35,00:39:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+80,1741,Iulian Sorescu,Bucharest,ROU,M,56,01:00:21,00:59:47,00:17:47,00:39:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+81,253,Orpheuo Helstone,Willemstad,CUW,M,57,01:00:21,00:59:57,00:17:42,00:39:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+82,1049,Arthur Rosaria,Toni Kunchi,CUW,M,58,01:00:25,00:58:57,00:17:49,00:39:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+83,2726,Krista de Wildt,Bonaire,BES,V,25,01:00:30,00:59:38,00:24:31,00:42:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+84,2720,Racenumber 2720, , ,M,59,01:00:39,00:59:27,00:16:47,00:39:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+85,2639,Racenumber 2639, , ,M,60,01:00:39,00:59:27,00:18:20,00:38:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+86,1722,Rens Erdhuizen,'s Heerenberg,NED,M,61,01:00:46,01:00:28,00:17:46,00:40:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+87,817,Louis Mesman,Willemstad,CUW,M,62,01:00:46,01:00:42,00:17:23,00:39:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+88,1660,Wladek Rzemieniecki,Curacao,CUW,M,63,01:00:48,01:00:44,00:17:01,00:39:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+89,1443,Joao Paulo Carrara,Itatiba,BRA,M,64,01:00:50,01:00:32,00:17:35,00:39:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+90,513,Mans van Rooijen,Curacao,CUW,M,65,01:00:51,01:00:26,00:16:35,00:37:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+91,79,Bo Steehouwer,Willemstad,CUW,M,66,01:00:56,01:00:32,00:17:01,00:39:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+92,1641,Stanley Coffy,Willemstad,CUW,M,67,01:01:01,01:00:50,00:17:00,00:39:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+93,389,Brian Zending,Willemstad,CUW,M,68,01:01:05,01:00:24,00:17:10,00:39:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+94,1024,Liesbeth Mau-Asam,Leidschendam,NED,V,26,01:01:18,01:01:08,00:17:43,00:40:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+95,1503,Zorisha Hernandez,Port Of Spain,TRI,V,27,01:01:25,01:01:25,00:16:07,00:39:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+96,1002,Tim Endstra,'s-Gravenhage,NED,M,69,01:01:25,01:00:59,00:18:05,00:38:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+97,1976,Richelle Faulborn,Rotterdam,NED,V,28,01:01:35,01:00:41,00:18:09,00:40:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+98,980,Margery Quast,Willemstad,CUW,V,29,01:01:36,01:01:11,00:17:38,00:39:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+99,1774,Zeudi Glaudemans,Willemstad,CUW,V,30,01:01:37,01:01:12,00:17:33,00:39:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+100,1027,Eric Sussenbach,Willemstad,CUW,M,70,01:01:39,01:01:35,00:17:22,00:39:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+101,688,Eric-Jan Beunk,Willemstad,CUW,M,71,01:01:46,01:01:20,00:17:07,00:39:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+102,500,Wies van de Poel,Willemstad,CUW,V,31,01:01:51,01:01:34,00:18:00,00:40:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+103,1205,Wim ter Haar,Wiilemstad,CUW,M,72,01:02:07,01:01:49,00:17:57,00:40:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+104,167,Tineke Strijland,Willemstad,CUW,V,32,01:02:19,01:01:51,00:18:03,00:40:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+105,1607,Mike van Vught,Hallum,NED,M,73,01:02:19,01:02:05,00:17:51,00:40:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+106,1424,Thaynno Calorina,Willemstad,CUW,M,74,01:02:25,01:01:45,00:18:42,00:40:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+107,2651,Racenumber 2651, , ,M,75,01:02:27,01:01:17,00:18:14,00:42:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+108,1433,Glenn Glazenborg,Willemstad,CUW,M,76,01:02:27,01:02:22,00:17:41,00:41:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+109,114,Joan Lucassen,Bussum,NED,V,33,01:02:30,01:01:54,00:18:24,00:40:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+110,1353,Fabian Gonzalez,Willemstad,CUW,M,77,01:02:32,01:01:50,00:17:49,00:39:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+111,2748,Racenumber 2748, , ,M,78,01:02:34,01:02:24,00:16:51,00:40:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+112,1772,Guillaume Mountesant,Willemstad,CUW,M,79,01:02:38,01:02:12,00:16:02,00:39:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+113,620,Riny van den Brink,Sunset Heights,CUW,V,34,01:02:52,01:01:55,00:19:19,00:41:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+114,670,Monique Lakeman,Curacao,CUW,V,35,01:02:53,01:01:55,00:19:19,00:41:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+115,1018,Dario Pita,Curacao,CUW,M,80,01:02:53,01:02:51,00:16:31,00:39:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+116,1088,Rene Eleveld,Hilversum,NED,M,81,01:03:04,01:02:38,00:15:48,00:40:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+117,313,Benjamin Christen,Leiden,NED,M,82,01:03:07,01:02:52,00:18:01,00:41:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+118,2704,Racenumber 2704, , ,M,83,01:03:10,01:02:32,00:18:52,00:41:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+119,1180,Christopher Adamus,Willemstad,CUW,M,84,01:03:13,01:02:32,00:17:53,00:40:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+120,1265,William Koelman,Amstelveen,NED,M,85,01:03:16,01:03:10,00:17:13,00:40:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+121,1499,Gabriel Corvera,Seattle,USA,M,86,01:03:28,01:02:53,00:19:47,00:42:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+122,1388,Claudia Meyer,22297 Hamburg,GER,V,36,01:03:41,01:03:08,00:18:05,00:41:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+123,1057,Liesbeth Waalboer,Kralendijk,NED,V,37,01:03:42,01:03:14,00:19:06,00:42:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+124,776,Sharon Heyliger,Haarlem,NED,V,38,01:03:48,01:02:33,00:18:30,00:41:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+125,739,Tyronne Heerenveen,Julianadorp,CUW,M,87,01:03:50,01:02:33,00:18:42,00:40:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+126,300,Vincent Roering,AMERSFOORT,NED,M,88,01:04:04,01:03:37,00:17:44,00:40:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+127,336,Philene Aris,Fontein,CUW,V,39,01:04:10,01:04:10,00:18:38,00:42:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+128,2649,Racenumber 2649, , ,M,89,01:04:14,01:03:06,00:18:39,00:40:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+129,950,Jurgen Camps,Oude Water,CUW,M,90,01:04:16,01:04:13,00:16:18,00:41:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+130,1316,Jarred Meilink,Utrecht,NED,M,91,01:04:19,01:03:00,00:15:05,00:34:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+131,2673,Racenumber 2673, , ,M,92,01:04:19,01:03:01,00:18:29,00:41:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+132,1314,Robin van Baalen,Willemstad,BES,M,93,01:04:23,01:03:53,00:20:13,00:44:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+133,278,Roos van der Haar,Curacao,CUW,V,40,01:04:28,01:04:21,00:17:36,00:41:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+134,386,Nynke Komdeur,Julianadorp,CUW,V,41,01:04:30,01:04:29,00:17:58,00:41:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+135,1563,Olaf Komdeur,Julianadorp,CUW,M,94,01:04:31,01:04:29,00:17:57,00:41:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+136,2749,Racenumber 2749, , ,M,95,01:04:37,01:04:37,00:16:30,00:41:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+137,1764,Cesar Gonzalez,Willemstad,CUW,M,96,01:04:41,01:04:37,00:17:51,00:42:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+138,1470,Kaydee Buijs,Willemstad,CUW,V,42,01:04:42,01:04:34,00:18:17,00:41:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+139,1203,Carelia van Loon,Willemstad,CUW,V,43,01:04:43,01:04:19,00:19:19,00:42:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+140,783,Marcel van Dam,Den Haag,NED,M,97,01:04:44,01:03:46,00:16:59,00:41:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+141,376,Jos Roubos,Amsterdam,NED,M,98,01:04:49,01:03:39,00:17:27,00:41:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+142,227,Mascha Chavez G vd Vlies,Willemstad,CUW,V,44,01:04:54,01:04:51,00:18:15,00:41:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+143,241,Ernst Lam,Jan Thiel,CUW,M,99,01:04:59,01:04:40,00:19:21,00:42:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+144,344,Michel Nicolaas,Willemstad,CUW,M,100,01:05:01,01:04:53,00:16:32,00:41:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+145,270,Anna Korenromp,Willemstad,CUW,V,45,01:05:04,01:04:03,00:18:24,00:41:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+146,738,Lysander Anthonia,Willemstad,CUW,M,101,01:05:05,01:04:29,00:18:51,00:41:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+147,1598,Robert de Wilde,Jan-Thiel,CUW,M,102,01:05:14,01:05:01,00:18:55,00:42:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+148,307,Earney Heyliger,Purmerend,NED,M,103,01:05:18,01:04:19,00:17:47,00:41:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+149,1167,Omar Zimmerman,Curacao,CUW,M,104,01:05:28,01:05:13,00:16:12,00:42:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+150,195,Emile van Dommelen,Best,NED,M,105,01:05:33,01:05:00,00:19:31,00:43:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+151,1068,Edwin Alexander,Curacao,CUW,M,106,01:05:37,01:05:22,00:18:52,00:42:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+152,2072,Racenumber 2072, , ,M,107,01:05:46,01:05:43,00:17:46,00:42:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+153,292,Eric Beuk,Noordwijk Zh,NED,M,108,01:05:53,01:05:46,00:18:27,00:42:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+154,237,Arthur Liqui Lung,Curacao,CUW,M,109,01:06:07,01:05:57,00:18:12,00:42:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+155,1135,Sephany Lacroes,rotterdam,NED,V,46,01:06:21,01:06:21,00:17:12,00:40:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+156,1699,Derek Bongaertz,Willemstad,CUW,M,110,01:06:26,01:05:52,00:17:19,00:41:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+157,511,Robin Vroon,Curacao,CUW,V,47,01:06:32,01:06:07,00:19:07,00:42:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+158,1370,Neco Dusseldorp,Willemstad,CUW,M,111,01:06:39,01:05:39,00:15:51,00:42:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+159,1242,Iris Poels,Amstelveen,NED,V,48,01:06:42,01:06:31,00:18:34,00:42:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+160,2677,Racenumber 2677, , ,V,49,01:07:00,01:06:46,00:18:23,00:43:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+161,2678,Racenumber 2678, , ,M,112,01:07:00,01:06:47,00:18:24,00:43:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+162,1658,Raymond Faneyte,WIllemstad,CUW,M,113,01:07:02,01:06:33,00:18:50,00:43:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+163,2723,Naftalie Dickens,Curacao,CUW,M,114,01:07:04,01:06:47,00:18:43,00:44:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+164,1380,Ingenie Dammers,Willemstad,CUW,V,50,01:07:08,01:06:59,00:18:46,00:44:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+165,302,Marijke Elens Rietveld,Salou (Tgn),ESP,V,51,01:07:17,01:07:07,00:19:26,00:43:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+166,395,Sandra Schroor,St. Rosa,CUW,V,52,01:07:21,01:06:54,00:18:55,00:43:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+167,1620,Pedzi Girigori,Willemstad,CUW,V,53,01:07:23,01:07:17,00:19:16,00:44:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+168,752,Liron Bade,Rooi Santu,CUW,V,54,01:07:35,01:06:18,00:18:58,00:41:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+169,2019,Rosanne Buitendijk, ,NED,V,55,01:07:39,01:07:25,00:20:24,00:44:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+170,2018,Kim Crolla, ,NED,V,56,01:07:41,01:07:27,00:20:26,00:44:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+171,118,Raymond des Bouvrie,Noordwijkerhout,NED,M,115,01:07:49,01:07:10,00:19:36,00:43:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+172,1021,Suzanne Mau-Asam,Den Haag,NED,V,57,01:07:50,01:07:40,00:18:22,00:43:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+173,1619,Danique Zimmerman,Willemstad,CUW,V,58,01:08:10,01:08:05,00:19:02,00:43:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+174,1360,Evelien Leijgraaff,Hilversum,NED,V,59,01:08:13,01:07:36,00:19:37,00:43:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+175,1615,Bram Hoogeveen,Willemstad,CUW,M,116,01:08:29,01:07:15,00:18:21,00:43:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+176,2654,Didi Wildeman, , ,V,60,01:08:31,01:05:41,00:18:24,00:43:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+177,728,Shurandy Martina,Willemstad,CUW,M,117,01:08:31,01:08:13,00:18:03,00:43:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+178,372,Joost Wijker,Utrecht,NED,M,118,01:08:35,01:08:30,00:17:40,00:43:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+179,635,Abril Young,Grote Berg,CUW,V,61,01:08:35,01:07:52,00:21:49,00:45:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+180,717,Beth Pollock,Willemstad,CUW,V,62,01:08:37,01:07:54,00:21:50,00:45:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+181,904,Claudia Jijau,Bucharest,ROU,V,63,01:08:40,01:08:08,00:19:59,00:44:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+182,19,Annelie Eck Arvstrand,Åre,SWE,V,64,01:08:41,01:08:24,00:19:20,00:44:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+183,1592,Francisco Tortolero,Willemstad,CUW,M,119,01:08:43,01:07:13,00:18:42,00:42:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+184,1670,Gino Faulborn,Willemstad,CUW,M,120,01:08:46,01:07:53,00:19:55,00:44:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+185,916,Brian Pieter,Willemstad,CUW,M,121,01:08:49,01:08:20,00:19:10,00:43:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+186,275,Brett Minzner,Winter Garen,USA,M,122,01:08:49,01:08:20,00:19:09,00:44:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+187,139,Teun Visscher,Willemstad,CUW,M,123,01:08:51,01:08:43,00:19:22,00:43:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+188,140,Lucie Brouwer,Willemstad,CUW,V,65,01:08:51,01:08:43,00:19:23,00:43:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+189,1327,Anna Wilhelmina van Dijk,Montagne Ray,CUW,V,66,01:08:54,01:08:24,00:20:14,00:44:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+190,773,Ilse Pensart,Willemstad,BEL,V,67,01:08:54,01:08:27,00:19:17,00:44:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+191,1072,Arthur Rozendal,Willemstad,CUW,M,124,01:09:03,01:08:29,00:20:24,00:45:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+192,1736,Bas Horsten,Curacao,CUW,M,125,01:09:03,01:08:29,00:20:07,00:45:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+193,1426,Jeremi Kirindongo,Willemstad,CUW,M,126,01:09:34,01:08:53,00:18:41,00:43:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+194,1165,Kamilah Sint Jago,Emmastad,CUW,V,68,01:09:35,01:09:10,00:18:57,00:42:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+195,2732,Kristie van der Woude,Curacao,CUW,V,69,01:09:44,01:09:25,00:20:52,00:46:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+196,867,Lise Teron,Kent Bridge,CAN,V,70,01:09:53,01:08:44,00:19:30,00:44:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+197,1060,Annet Kooistra,St. Willibrordus,CUW,V,71,01:09:53,01:09:46,00:17:36,00:43:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+198,1381,Monique van Antwerpen,Willemstad,CUW,V,72,01:09:58,01:09:36,00:19:26,00:45:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+199,683,Cor Dammers,Willemstad,CUW,M,127,01:10:08,01:09:54,00:19:16,00:45:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+200,682,David Vos,Willemstad,CUW,M,128,01:10:09,01:09:56,00:19:16,00:45:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+201,2076,Racenumber 2076, , ,M,129,01:10:19,01:09:08,00:18:14,00:43:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+202,1501,Klaus Mandau,Freiberg,GER,M,130,01:10:34,01:10:13,00:20:26,00:46:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+203,1500,Sabine Mandau,Freiberg,GER,V,73,01:10:34,01:10:13,00:20:26,00:46:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+204,2016,Frank Oostdam,'s-Gravenhage,NED,M,131,01:10:36,01:10:14,00:17:08,00:38:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+205,2707,Racenumber 2707, , ,M,132,01:10:43,01:09:14,00:20:18,00:45:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+206,618,Richard van Herk,Noordwijk Zh,NED,M,133,01:10:52,01:10:40,00:18:59,00:45:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+207,890,Kamila Bomfim,Serra,BRA,V,74,01:10:56,01:09:52,00:21:52,00:46:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+208,306,Angelique Heyliger-Wisman,Purmerend,NED,V,75,01:10:57,01:09:55,00:20:41,00:46:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+209,1623,Rudny Martha,Willemstad,CUW,M,134,01:11:03,01:09:38,00:25:15,00:47:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+210,343,Jason Nicolaas,Willemstad,CUW,M,135,01:11:21,01:11:10,00:19:04,00:47:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+211,443,Bryan Richards,Willemstad,CUW,M,136,01:11:34,01:10:35,00:18:30,00:45:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+212,903,Dragon Jijau,Bucharest,ROU,M,137,01:11:37,01:11:06,00:19:59,00:45:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+213,1207,Marjolein Leonora,Wiilemstad,CUW,V,76,01:11:40,01:11:18,00:21:04,00:47:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+214,871,Jeffrey Halters,Curacao,BES,M,138,01:11:41,01:11:09,00:20:51,00:47:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+215,1694,Wim Vijge,Druten,NED,M,139,01:11:49,01:11:19,00:21:13,00:46:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+216,629,Malu de Wit,Venlo,NED,V,77,01:11:52,01:11:28,00:20:45,00:47:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+217,1334,Jip Hinssen,Willemstad,CUW,V,78,01:11:52,01:11:28,00:20:43,00:47:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+218,1140,Carin Kleinveld,IJmuiden,NED,V,79,01:11:58,01:10:51,00:21:19,00:47:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+219,924,Nathalia Ferigolo Trevisan,Brasilia,BRA,V,80,01:12:02,01:11:45,00:22:13,00:48:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+220,1778,Paul van Dalen,Wervershoof,NED,M,140,01:12:02,01:11:41,00:18:14,00:47:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+221,1610,Stef de Jong,Willemstad,CUW,M,141,01:12:06,01:11:18,00:21:46,00:49:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+222,1213,Daisy Peeters,Amstelveen,NED,V,81,01:12:11,01:12:01,00:19:12,00:47:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+223,331,Ruud Hamers,Willemstad,CUW,M,142,01:12:17,01:11:52,00:19:46,00:46:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+224,50,Nicole Posch,excursie,NED,V,82,01:12:21,01:11:18,00:19:54,00:47:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+225,48,Anne Schoute,excursie,NED,V,83,01:12:22,01:11:19,00:19:40,00:47:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+226,1591,Tineke Akkens,Willemstad,CUW,V,84,01:12:27,01:11:26,00:20:31,00:47:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+227,1193,Jair Almeida Toussaint,Willemstad,CUW,M,143,01:12:41,01:12:05,00:17:24,00:43:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+228,2771,Racenumber 2771, , ,M,144,01:12:45,01:12:45,00:21:47,00:48:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+229,2790,Racenumber 2790, , ,M,145,01:13:06,01:11:49,00:20:52,00:47:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+230,1042,Tanja Elsenaar,Willemstad,CUW,V,85,01:13:10,01:13:01,00:21:32,00:48:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+231,510,Cindy Goené,Curacao,CUW,V,86,01:13:30,01:13:04,00:19:40,00:46:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+232,402,Age Boersma,Willemstad,CUW,M,146,01:13:33,01:12:50,00:20:38,00:48:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+233,750,Saskia Vandemars,Willemstad,CUW,V,87,01:13:35,01:13:35,00:32:53,00:53:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+234,868,Jill Driessen,Willemstad,CUW,V,88,01:13:37,01:13:28,00:19:28,00:47:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+235,1763,Humphrey Wout,Willemstad,CUW,M,147,01:13:54,01:13:49,00:18:51,00:49:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+236,1898,Hubert Spoelstra,'s-Gravenhage,NED,M,148,01:14:29,01:14:21,00:20:32,00:47:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+237,4,Dorian Vogels,Curacao,CUW,M,149,01:14:36,01:13:31,00:23:35,00:52:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+238,2160,Racenumber 2160, , ,M,150,01:14:36,01:13:30,00:23:34,00:52:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+239,780,Francis Foendador,Sta Maria,CUW,M,151,01:14:37,01:14:21,00:22:38,00:49:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+240,2712,Racenumber 2712, , ,M,152,01:14:42,01:14:00,00:21:31,00:49:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+241,759,Thirza Buil,Willemstad Curacao,CUW,V,89,01:14:44,01:14:40,00:19:47,00:48:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+242,2719,Racenumber 2719, , ,V,90,01:14:57,01:13:46,00:22:40,00:50:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+243,279,Nancy Huizing,Willemstad,CUW,V,91,01:15:11,01:15:03,00:21:09,00:48:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+244,416,Ciaretta Profas,"Willemstad, Curaçao",CUW,V,92,01:15:26,01:15:10,00:21:34,00:49:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+245,1150,Lisa Servage,Curacao,CUW,V,93,01:15:35,01:15:09,00:21:17,00:50:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+246,1762,Raoul Blankestijn,Arnhem,NED,M,153,01:15:40,01:15:18,00:23:33,00:49:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+247,112,Laurine van Hees,Curacao,CUW,V,94,01:15:41,01:15:19,00:23:33,00:50:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+248,1556,Martinus Terstall,Jan Thiel,CUW,M,154,01:15:48,01:12:30,00:20:39,00:45:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+249,1257,Daniela Fleig,Amstelveen,NED,V,95,01:15:57,01:15:06,00:22:10,00:49:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+250,230,Ward Aerts,Eindhoven,NED,M,155,01:16:02,01:15:27,00:21:24,00:48:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+251,956,Marjanne Tjaberings,Delft,NED,V,96,01:16:08,01:16:02,00:20:32,00:49:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+252,778,Jonne Korthuis,Haarlem,NED,V,97,01:16:23,01:15:09,00:19:46,00:47:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+253,1777,Nienke ten Bruggencate,Willemstad,CUW,V,98,01:16:29,01:16:26,00:20:05,00:48:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+254,2077,Racenumber 2077, , ,M,156,01:16:30,01:15:23,00:19:27,00:49:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+255,1325,Paul de Kleijn,De Rips,NED,M,157,01:16:32,01:15:25,00:20:30,00:48:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+256,781,Shurenda Bruno,Tera Kora,CUW,V,99,01:16:59,01:16:42,00:22:14,00:49:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+257,231,Daniëlle Hahn,Eindhoven,NED,V,100,01:17:00,01:16:27,00:20:02,00:47:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+258,383,Diante Scheepers,Willemstad,CUW,V,101,01:17:05,01:15:39,00:20:52,00:50:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+259,2791,Racenumber 2791, , ,V,102,01:17:06,01:15:50,00:20:53,00:49:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+260,27,Daphne Jansen,Eindhoven,NED,V,103,01:17:09,01:17:02,00:21:57,00:50:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+261,861,Jose Ernesto Espinosa,Cuba,CUW,M,158,01:17:09,01:13:37,00:22:02,00:50:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+262,1248,Jessica Heyliger,Haarlem,NED,V,104,01:17:25,01:16:11,00:21:46,00:50:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+263,925,Viènne Buitink,Kralendijk,BES,V,105,01:17:43,01:17:15, ,00:51:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+264,1611,Roos de Jong,Willemstad,CUW,V,106,01:17:46,01:16:57,00:21:45,00:49:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+265,571,Dick de Jong,Grote Berg,CUW,M,159,01:17:47,01:16:58,00:21:45,00:49:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+266,799,Wilder Garcia,Cali,COL,M,160,01:17:49,01:15:54,00:21:47,00:48:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+267,438,Marieke van Ballegooijen,Curacao,CUW,V,107,01:17:51,01:17:25,00:22:46,00:50:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+268,896,Yvonne Buunk-Werkhoven,Amsterdam,NED,V,108,01:18:14,01:17:10,00:22:47,00:50:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+269,423,Matthias Lanuschny,Amsterdam Zuidoost,NED,M,161,01:18:14,01:17:56,00:21:31,00:51:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+270,246,Arlette Kooiman,Willemstad,CUW,V,109,01:18:24,01:16:11,00:22:15,00:49:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+271,926,Bianca Dadalto,Serra,BRA,V,110,01:18:25,01:17:21,00:22:50,00:51:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+272,22,Fred Colin,Oosterhout Nb,NED,M,162,01:18:27,01:17:45,00:21:05,00:51:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+273,1272,Maura Brown,Noord,ARU,V,111,01:18:30,01:17:35,00:20:56,00:49:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+274,1195,Christel de Vries,Willemstad,CUW,V,112,01:18:40,01:17:45,00:24:09,00:52:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+275,1039,Ricardo De Gregorio,Amsterdam,NED,M,163,01:18:43,01:18:14,00:23:11,00:50:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+276,2798,Racenumber 2798, , ,M,164,01:18:45,01:18:45,00:39:29,00:58:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+277,276,Annette van den Berg,Winter Garden,USA,V,113,01:18:45,01:18:18,00:20:38,00:49:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+278,1436,Sabina de vries,Rooi santu,CUW,V,114,01:18:46,01:17:52,00:23:47,00:52:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+279,1017,Marcia Pita,Curacao,CUW,V,115,01:18:53,01:18:50,00:22:02,00:50:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+280,1602,Nicole Gout,Spijkenisse,NED,V,116,01:18:59,01:18:51,00:21:38,00:50:49,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+281,1254,Marciano Zalman,Paramaribo,SUR,M,165,01:19:03,01:18:07,00:24:26,00:52:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+282,1786,George Noordpool,Willemstad,CUW,M,166,01:19:05,01:18:10,00:24:28,00:52:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+283,251,Bjorn Muskus,Kooyman 2015,CUW,M,167,01:19:14,01:18:07,00:22:19,00:50:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+284,411,Rowan Kol,Willemstad,CUW,V,117,01:19:23,01:18:56,00:21:53,00:51:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+285,429,Esther Kiebert,Julianadorp,CUW,V,118,01:19:24,01:18:55,00:21:53,00:51:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+286,451,Gijs van Bakel,Willstad,CUW,M,168,01:19:24,01:18:55,00:21:51,00:51:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+287,430,Rob Kiebert,Julianadorp,CUW,M,169,01:19:24,01:18:53,00:21:52,00:51:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+288,1273,Bryan Elshot,Willemstad,CUW,M,170,01:19:38,01:19:26,00:22:04,00:52:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+289,1467,Francisca van Kraaij,Willemstad,BES,V,119,01:19:39,01:19:37,00:26:32,00:57:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+290,234,Marisol Giraldo Diaz,Curacao,CUW,V,120,01:19:39,01:19:36,00:21:12,00:50:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+291,1780,Alfrind Elisabeth,Sunset Heights,CUW,M,171,01:19:40,01:18:56,00:22:11,00:50:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+292,2725,Isiomar de Leeuw,Cur,CUW,M,172,01:19:52,01:17:22,00:17:44,00:44:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+293,1378,Darianela Narvaez Marchen,Curacao,CUW,V,121,01:20:03,01:19:38,00:22:24,00:51:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+294,2727,Maarten Boon,Bonaire,BES,M,173,01:20:16,01:19:24,00:24:45,00:52:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+295,879,Fransjan van den Elzen,Gemert,NED,M,174,01:20:20,01:19:42,00:19:29,00:50:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+296,860,Martin Kattestaart,Willemstad,CUW,M,175,01:20:24,01:20:16,00:21:36,00:52:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+297,596,Nynke Mouthaan-Bouma,Santa Catharina,CUW,V,122,01:20:47,01:18:33,00:23:00,00:51:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+298,1654,Darren Kleijn,Curacao,CUW,M,176,01:21:20,01:20:35,00:25:00,00:57:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+299,61,Herbert Maduro,Curacao,CUW,M,177,01:21:32,01:20:45,00:26:13,00:55:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+300,2722,Racenumber 2722, , ,V,123,01:21:40,01:20:30,00:22:27,00:51:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+301,2770,Racenumber 2770, , ,M,178,01:21:53,01:21:02,00:23:29,00:53:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+302,1377,Rushenny Vriend,Willemstad,CUW,M,179,01:22:19,01:21:27,00:21:14,00:54:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+303,1008,Liselle Pas,Willemstad,CUW,V,124,01:22:46,01:21:55,00:22:34,00:54:03,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+304,1483,Niek Timmers,'s-Gravenhage,NED,M,180,01:22:48,01:22:13,00:21:17,00:51:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+305,1482,Jetse Timmers,'s-Gravenhage,NED,M,181,01:22:48,01:22:14,00:21:27,00:52:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+306,2670,Racenumber 2670, , ,M,182,01:22:55,01:21:57,00:24:29,00:53:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+307,937,Jeanette Pita daSilva,Willemstad,CUW,V,125,01:23:08,01:23:03,00:20:53,00:51:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+308,1418,Ursula Dorothea,Willemstad,CUW,V,126,01:23:21,01:23:21, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+309,1564,Ruttgard Wijngaarde,Willemstad,CUW,M,183,01:23:24,01:22:00,00:26:03,00:54:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+310,1578,Lydia Reigina,Curacao,CUW,V,127,01:23:25,01:22:32,00:25:59,00:55:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+311,469,Wladimir Curiel,Willemstad,CUW,M,184,01:23:34,01:23:34,00:23:18,00:54:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+312,972,Carl Prince,Willemstad,CUW,M,185,01:23:44,01:23:38,00:23:37,00:54:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+313,2644,Racenumber 2644, , ,V,128,01:24:02,01:23:13,00:22:03,00:53:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+314,2643,Racenumber 2643, , ,V,129,01:24:02,01:23:12,00:22:10,00:53:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+315,730,John van Harskamp,Willemstad,CUW,M,186,01:24:11,01:23:16,00:24:22,00:55:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+316,1622,America Barrios,Oranjestad,ARU,V,130,01:24:15,01:23:18,00:24:21,00:54:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+317,1479,Pnina Cohen,Willemstad,CUW,V,131,01:24:37,01:23:27,00:24:53,00:54:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+318,2758,Racenumber 2758, , ,V,132,01:24:42,01:23:26,00:25:38,00:55:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+319,1649,Gijs Goselink,Curacao,CUW,M,187,01:24:43,01:23:57,00:25:01,00:57:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+320,1655,Willem Cijntje,Korporaal,CUW,M,188,01:24:48,01:23:51,00:24:28,00:54:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+321,787,Harm Kreulen,Amstelveen,NED,M,189,01:24:55,01:24:52,00:22:41,00:53:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+322,758,Olga Pita da Silva,Curacao,CUW,V,133,01:25:21,01:25:15,00:23:42,00:56:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+323,1691,Milouska Sambo,Curacao,CUW,V,134,01:25:27,01:25:20,00:25:44,00:56:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+324,1149,Geomaly Martes,Curacao,CUW,M,190,01:25:44,01:24:47,00:25:49,00:56:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+325,827,Martina Ihnroh,Willemstad,CUW,M,191,01:25:52,01:22:27,00:53:42, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+326,2747,Racenumber 2747, , ,V,135,01:26:14,01:25:16,00:26:50,00:57:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+327,516,Chimene Verweij,Grote Berg,CUW,V,136,01:26:16,01:25:45,00:24:32,00:55:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+328,517,Chantal Taams,Mahaai,CUW,V,137,01:26:20,01:25:47,00:24:33,00:55:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+329,1070,Shelwyn Salesia,Curacao,CUW,M,192,01:26:21,01:25:59,00:26:01,00:57:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+330,21,Joyce Colin,Oosterhout Nb,NED,V,138,01:26:25,01:25:41,00:22:00,00:54:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+331,592,Celine Jilesen,Mahaai,CUW,V,139,01:26:26,01:25:51,00:24:31,00:55:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+332,1624,Robert Martis,Zuid Zapateer,CUW,M,193,01:26:29,01:25:42,00:26:11,00:58:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+333,1746,Ramiro Schotborgh,Curacao,CUW,M,194,01:26:32,01:26:02,00:26:35,00:57:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+334,335,Daan Jansen,Willemstad,CUW,M,195,01:26:33,01:26:13,00:25:00,00:56:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+335,1468,Milan van der Meer,Willemstad,BES,M,196,01:26:55,01:26:53,00:26:31,01:00:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+336,1318,Norberto da Silva Canastr,Willemstad,CUW,M,197,01:27:01,01:27:00,00:25:38,00:57:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+337,1009,Janis Vinck,Willemstad,CUW,V,140,01:27:03,01:26:11,00:22:28,00:55:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+338,679,Kimberley Richardson,Curacao,CUW,V,141,01:27:39,01:27:24,00:22:38,00:55:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+339,1192,Gilbert Pablo,Willemstad,CUW,M,198,01:27:51,01:26:29,00:26:51,00:57:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+340,1186,Odette Doest,Willemstad,CUW,V,142,01:27:51,01:27:36,00:26:10,00:59:13,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+341,1348,Sue Ann Hudson,Curacao,CUW,V,143,01:28:22,01:25:51,00:25:46,00:56:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+342,1061,Jessica Flocker,Biesheuvel,CUW,V,144,01:28:23,01:27:07,00:29:20,00:57:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+343,961,Roald Dekker,Curacao,CUW,M,199,01:28:29,01:27:48,00:29:00,01:00:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+344,1756,Eduardo Alberto Castro Roque,Serra,BRA,M,200,01:28:33,01:27:27,00:22:49,00:52:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+345,889,Carlos Henrique Bomfim,Serra,BRA,M,201,01:28:33,01:27:26,00:20:57,00:52:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+346,492,Angelo Philpsgous,Willemstad,CUW,M,202,01:28:49,01:22:23,00:24:45,00:55:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+347,524,Milnald Seferina,Willemstad,CUW,M,203,01:28:50,01:22:25,00:24:45,00:55:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+348,168,Naiella Seferina,Willemstad,CUW,V,145,01:28:51,01:28:03,00:26:12,00:57:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+349,878,Elly Penninx,Gemert,NED,V,146,01:28:59,01:28:22,00:25:42,00:59:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+350,2675,Racenumber 2675, , ,M,204,01:29:05,01:29:05,00:29:37,01:00:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+351,1732,Carmen Gonzalez,Mahaai,CUW,V,147,01:29:08,01:28:16,00:23:42,00:56:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+352,915,Sabine Davidse,Willemstad,CUW,V,148,01:29:18,01:28:49,00:24:44,00:56:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+353,959,Natalie van Tol,Curacao,CUW,V,149,01:29:22,01:28:56,00:28:11,00:59:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+354,2706,Racenumber 2706, , ,M,205,01:29:22,01:28:26,00:23:34,00:54:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+355,1361,Maraline Stephens,Willemstad,CUW,V,150,01:29:37,01:28:19,00:29:36,01:00:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+356,969,Maria Torres,Maracaibo,VEN,V,151,01:29:47,01:29:06,00:29:01,01:00:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+357,26,Dominique Jansen,Veldhoven,NED,V,152,01:29:55,01:29:48,00:25:51,00:58:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+358,177,Favian Rodriguez,Willemstad,CUW,M,206,01:29:55,01:29:55, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+359,537,Ingrid Heyer-Linnebank,Curacao,CUW,V,153,01:29:56,01:29:40,00:25:42,00:58:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+360,706,Karin van der Hilst,Curacao,CUW,V,154,01:29:58,01:28:44,00:29:46,01:00:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+361,1206,Julieta Carvajal P,Wiilemstad,CUW,V,155,01:30:00,01:29:18,00:28:04,00:59:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+362,948,Hariette Davelaar,Willemstad,CUW,V,156,01:30:12,01:28:48,00:27:34,01:01:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+363,1000,Shirley van Wageningen,Willemstad,CUW,V,157,01:30:24,01:30:12,00:28:01,00:59:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+364,1260,Signaira Florentina,Willemstad,CUW,V,158,01:30:31,01:30:17,00:28:06,01:00:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+365,146,Daniela Westerhoff,Thedinghausen,GER,V,159,01:30:35,01:30:17,00:24:51,00:58:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+366,566,Gwendolyn Bohorquez,Willemstad,CUW,V,160,01:30:39,01:30:30,00:24:14,00:58:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+367,468,Ferdy Cannister,Willemstad,CUW,M,207,01:30:46,01:29:21,00:26:43,00:58:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+368,178,Michael Rodrigues,Willemstad,CUW,M,208,01:30:50,01:30:50, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+369,936,Jose Manuel de Quintal,Willemstad,CUW,M,209,01:31:01,01:30:55,01:01:09, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+370,938,Bernadette Pita da Silva,Willemstad,CUW,V,161,01:31:02,01:30:55,01:01:11, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+371,2685,Racenumber 2685, , ,M,210,01:31:09,01:21:37,00:22:05,00:59:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+372,949,Hariette Davelaar,Willemstad,CUW,V,162,01:31:24,01:30:02,00:27:34,01:01:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+373,1457,Nadine Willems-Antersijn,Oranjestad,ARU,V,163,01:31:36,01:30:38,00:26:05,00:59:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+374,1253,Amy Koense,Wiilemstad,CUW,V,164,01:32:09,01:31:54,01:00:13, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+375,1628,Fausto Kirindongo,Curasol,CUW,M,211,01:32:19,01:32:06,00:29:47,01:02:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+376,2740,Racenumber 2740, , ,M,212,01:32:25,01:30:56,00:28:32,01:01:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+377,2017,Andy Espia,Willemstad,CUW,M,213,01:32:40,01:31:58,00:28:44,01:01:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+378,695,Albert Hartogh,Willemstad,CUW,M,214,01:32:43,01:31:31,00:28:35,01:01:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+379,1719,Mitsui Maduro-Croes,Curacao,CUW,V,165,01:32:43,01:32:03,00:28:27,01:01:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+380,1718,Tariq Maduro,Curacao,CUW,M,215,01:32:43,01:32:03,00:28:25,01:01:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+381,282,Jennifer Kock,San Nicolas,ARU,V,166,01:32:48,01:32:41,00:27:56,01:01:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+382,1403,Estherina Garcia,Willemstad,CUW,V,167,01:33:01,01:31:25,00:28:59,01:02:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+383,1083,Martha Ayoubi,Willemstad,CUW,V,168,01:33:05,01:31:49,00:29:11,01:02:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+384,1123,Charleston Sophia,Willemstad,CUW,M,216,01:33:05,01:31:49,00:29:09,01:02:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+385,414,Gerhard Treurniet,Willemstad,CUW,M,217,01:33:11,01:31:52,00:36:51, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+386,1431,Joel Daflaar,Willemstad,CUW,M,218,01:33:12,01:32:31,00:28:47,01:01:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+387,631,Natalie Jonis-vd Hansz,Curaçao,CUW,V,169,01:33:16,01:32:23,00:29:13,01:02:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+388,262,Nicole Kleinmoedig,Curacao,CUW,V,170,01:33:22,01:32:54,00:29:42,01:03:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+389,2200,Idiree Tromp,Willemstad,CUW,V,171,01:33:28,01:32:46,00:29:34,01:01:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+390,2728,Andy Luisa,Willemstad,CUW,M,219,01:33:32,01:32:51,00:28:41,01:01:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+391,1319,Richard Stijl,Lijnden,NED,M,220,01:33:50,01:33:09,00:20:48,01:11:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+392,222,Isonette Polonius,Curacao,CUW,V,172,01:34:01,01:33:33,00:29:42,01:03:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+393,579,Henriette van Eesteren,'s-Gravenhage,NED,V,173,01:34:07,01:33:59,00:26:29,01:02:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+394,577,Anjo Spoelstra-Krumbach,'s-Gravenhage,NED,V,174,01:34:08,01:34:01,00:26:30,01:02:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+395,332,Toos Smeulders,Girouette,CUW,V,175,01:34:08,01:33:56,00:30:03,01:03:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+396,705,Luna Schuurman,Willemstad,CUW,V,176,01:34:08,01:33:19,00:35:09,01:05:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+397,775,Arianne Roest,Haarlem,NED,V,177,01:34:11,01:32:56,00:25:47,01:00:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+398,2671,Racenumber 2671, , ,V,178,01:34:20,01:32:13,00:30:44,01:04:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+399,338,Thijs Jansen,Willemstad,CUW,M,221,01:34:32,01:34:12,00:29:38,01:03:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+400,404,Ferdinand van Zuijlen,Curaçao,CUW,M,222,01:34:44,01:33:23,00:28:38,01:02:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+401,1279,Erick Libier,Sta. Rosa,CUW,M,223,01:35:05,01:33:35,00:28:30,01:01:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+402,1642,Alex Hellings,Otrobanda,CUW,M,224,01:35:05,01:33:43,00:28:37,01:01:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+403,988,Anne-Rose Suriel,Willemstad,CUW,V,179,01:35:07,01:34:30,00:29:59,01:04:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+404,697,Hildo Plate,Wiillemstad,CUW,M,225,01:35:09,01:34:53,00:27:01,01:02:32,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+405,991,Emma van Delden,Willemstad,CUW,V,180,01:35:09,01:33:56,00:30:20,01:02:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+406,702,Evelyn van Lamoen,Willemstad,CUW,V,181,01:35:16,01:34:59,00:29:12,01:03:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+407,622,Wilma van der Vorst,Willemstad,CUW,V,182,01:35:37,01:34:37,00:29:41,01:03:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+408,1657,Martin Janssen,Jongbloed,CUW,M,226,01:35:39,01:34:40,00:29:43,01:03:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+409,2800,Racenumber 2800, , ,M,227,01:35:43,01:34:49,00:29:04,01:02:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+410,337,Sanne Jansen,Willemstad,CUW,V,183,01:35:44,01:35:24,00:30:21,01:04:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+411,333,Norman Jansen,Willemstad,CUW,M,228,01:35:44,01:35:26,00:30:22,01:05:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+412,334,Diaan Jansen,Willemstad,CUW,V,184,01:35:45,01:35:25,00:30:20,01:05:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+413,2674,Racenumber 2674, , ,M,229,01:35:52,01:33:42,00:30:43,01:04:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+414,1369,Jose Mendes,Willemstad,CUW,M,230,01:35:54,01:34:34,00:29:36,01:03:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+415,573,Rosa Stamper diaz,Oranjestad,ARU,V,185,01:36:27,01:36:23,00:28:50,01:03:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+416,1200,Kamia de Haas,Willemstad,CUW,V,186,01:36:34,01:36:15,00:29:21,01:04:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+417,226,Petra Soer,Willemstad,CUW,V,187,01:36:35,01:36:15,00:29:21,01:04:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+418,736,Gina Anthonia-Lont,Willemstad,CUW,V,188,01:36:44,01:36:08,00:30:13,01:04:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+419,448,Sidney Ustasia,Willemstad,CUW,M,231,01:36:44,01:35:46,00:28:36,01:01:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+420,2786,Racenumber 2786, , ,M,232,01:36:48,01:36:31,00:32:17,01:09:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+421,1669,Rudyan Poulo,Bandabou,CUW,M,233,01:36:48,01:36:31,00:32:16,01:09:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+422,63,Jouène Doran,Curacao,CUW,V,189,01:36:49,01:35:35,00:28:18,01:02:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+423,1159,Irma Philbert,Curacao,CUW,V,190,01:36:54,01:36:48,00:30:18,01:04:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+424,1160,Monika Kolen,Curacao,CUW,V,191,01:36:56,01:36:49,00:30:17,01:04:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+425,172,Shirliane Rondon,Curacao,CUW,V,192,01:36:59,01:36:59,00:30:24,01:04:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+426,1338,Gonzalo Pacheco Torres,Willemstad,CUW,M,234,01:37:10,01:27:47,00:23:23,00:56:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+427,1496,Brian Henriquez,Willemstad,CUW,M,235,01:37:26,01:35:59,00:33:44,01:08:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+428,1605,Melanie de Man,Willemstad,CUW,V,193,01:37:30,01:36:56,00:29:51,01:04:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+429,711,Jenny Ignacio,Willemstad,CUW,V,194,01:37:43,01:36:16, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+430,236,Indra Rossen-Lucasius,Willemstad,CUW,V,195,01:37:48,01:36:41,00:31:14,01:04:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+431,979,Clay Winklaar,Willemstad,CUW,M,236,01:37:57,01:36:45,00:32:01,01:05:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+432,1674,Nancy Tielman,Curacao,CUW,V,196,01:37:59,01:36:37,00:27:34,01:01:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+433,2757,Racenumber 2757, , ,V,197,01:38:22,01:37:07,00:28:46,01:03:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+434,1073,Judith Laurencia,Willemstad,CUW,V,198,01:38:27,01:37:12,00:29:14,01:03:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+435,1379,Dokko O'Niel,Curaçao,CUW,M,237,01:38:49,01:38:24,00:31:19,01:06:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+436,906,Robert Leanez,Willemstad,CUW,M,238,01:39:03,01:37:51,00:29:53,01:04:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+437,905,Mayorlene Leanez,Willemstad,CUW,V,199,01:39:04,01:37:55,00:29:56,01:04:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+438,642,Janneke de Ruiter,Willemstad,CUW,V,200,01:39:11,01:38:07,00:32:16,01:06:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+439,2653,Racenumber 2653, , ,V,201,01:39:11,01:38:07,00:32:17,01:06:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+440,779,Nicole de Kruijf,Willemstad,CUW,V,202,01:39:12,01:38:06,00:32:15,01:06:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+441,1589,Cindy Zichem,Willemstad,CUW,V,203,01:39:20,01:38:47,00:30:39,01:05:44,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+442,1010,Esther Winklaar,Willemstad,CUW,V,204,01:39:39,01:39:27,00:31:01,01:06:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+443,935,Paul Saffrie,Halsteren,NED,M,239,01:39:45,01:39:15,00:27:36,01:05:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+444,1791,Samantha Vermaire,Jan Thiel,CUW,V,205,01:39:45,01:38:58,00:31:09,01:06:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+445,754,Taisa Carmelia,Willemstad,CUW,V,206,01:39:46,01:38:27,00:31:55,01:07:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+446,755,Sigmar Carmelia,Willemstad,CUW,M,240,01:39:46,01:38:29,00:32:11,01:07:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+447,1333,Catalina Pineda Rodriguez,Willemstad,CUW,V,207,01:39:53,01:30:30,00:25:57,00:59:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+448,726,Henriquez Zizany,Willemstad,CUW,V,208,01:39:54,01:38:33,00:30:08,01:05:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+449,727,Gilianne Lourensz,Willemstad,CUW,V,209,01:39:54,01:38:33,00:30:08,01:05:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+450,1344,Yerys kwidama,Willemstad,CUW,V,210,01:39:55,01:39:55,00:35:22,01:09:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+451,2661,Racenumber 2661, , ,V,211,01:40:02,01:38:33,00:34:28,01:07:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+452,1447,Aishel Sophia,Willemstad,CUW,V,212,01:40:02,01:39:47,00:31:18,01:07:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+453,100,Gerard Beelen,Didam,NED,M,241,01:40:32,01:39:06,00:31:12,01:07:09,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+454,993,Nilusca Martines,Willemstad,CUW,V,213,01:40:39,01:39:27,00:30:08,01:06:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+455,1126,Monique Da Costa Gomez,Willemstad,CUW,V,214,01:40:40,01:39:30,00:30:22,01:06:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+456,86,Theresia van der Schot,Curacao,CUW,V,215,01:40:58,01:39:49,00:31:33,01:07:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+457,1451,Ruthmilla Isenia,Curaçao,CUW,V,216,01:40:59,01:40:39,00:30:11,01:06:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+458,1452,Muzo Marlien,Curaçao,CUW,V,217,01:41:00,01:40:40,00:30:11,01:06:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+459,538,Roxana vd Brink dos Santos,Curaçao,CUW,V,218,01:41:16,01:40:59,00:29:00,01:05:34,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+460,206,Gilmond M.M. Offerman,Curasol,CUW,M,242,01:41:45,01:41:45,00:34:15,01:13:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+461,421,Heflin William,Cabo Verde,CUW,M,243,01:41:56,01:40:58,00:29:19,01:06:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+462,734,Ralph Streedel,Willemstad,CUW,M,244,01:42:03,01:41:39,00:29:21,01:05:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+463,405,Nilyan Hodge,Curacao,CUW,V,219,01:42:06,01:41:06,00:31:13,01:07:33,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+464,2756,Racenumber 2756, , ,V,220,01:42:25,01:41:53,00:30:42,01:06:07,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+465,1063,Susan Vrolijk,Willemstad,CUW,V,221,01:42:26,01:41:12,00:29:39,01:06:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+466,1124,Irving Schenker,Willemstad,CUW,M,245,01:42:27,01:41:04,00:31:50,01:08:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+467,1702,Wick Reitsma,Willemstad,CUW,M,246,01:42:29,01:42:01,00:32:49,01:13:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+468,1438,Ellvio Cijntje,Jandoret,CUW,M,247,01:42:37,01:42:13,00:32:25,01:08:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+469,1303,Karensa Ignacio,Willemstad,CUW,V,222,01:42:52,01:41:24,00:33:42,01:07:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+470,708,Edsel Ignacio,Willemstad,CUW,M,248,01:42:52,01:41:26,00:34:10,01:08:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+471,2663,Racenumber 2663, , ,V,223,01:42:59,01:42:23,00:30:10,01:08:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+472,437,Gerry Adriaansen,Curacao,CUW,V,224,01:43:05,01:42:28,00:31:38,01:09:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+473,612,Valery Gomez,Willemstad,CUW,V,225,01:43:19,01:42:43,00:31:37,01:09:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+474,1422,Villien Alberto,Willemstad,CUW,V,226,01:43:23,01:42:43,00:30:55,01:08:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+475,18,Otoniel Modest,Willemstad,CUW,M,249,01:43:24,01:42:42,00:30:53,01:07:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+476,1580,Ronald Rondeel,Curaçao,CUW,M,250,01:43:24,01:43:03,00:32:16,01:10:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+477,1581,Mawuena Rondeel,Curaçao,CUW,V,227,01:43:24,01:43:04,00:32:17,01:10:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+478,735,Monique Rosalina,Willemstad,CUW,V,228,01:43:26,01:43:14,00:32:04,01:09:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+479,2750,Racenumber 2750, , ,V,229,01:43:26,01:43:14,00:32:04,01:09:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+480,417,Gregory Silonero,Willemstad,CUW,M,251,01:43:30,01:43:04,00:32:12,01:07:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+481,1375,Nick Rosalina,Willemstad,CUW,M,252,01:43:33,01:42:28,00:33:53,01:10:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+482,1701,Chantal Kruijssen,Willemstad,CUW,V,230,01:43:34,01:43:07,00:32:50,01:13:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+483,2799,Racenumber 2799, , ,M,253,01:43:34,01:43:07,00:32:50,01:13:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+484,1341,Lieniondric Lindeborg,Willemstad,CUW,M,254,01:43:34,01:42:26,00:33:53,01:09:58,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+485,1633,Gerda Kos,Huizen,NED,V,231,01:43:49,01:43:06,00:33:12,01:11:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+486,138,Gerry Doche,Huizen,NED,V,232,01:43:51,01:43:05,00:33:10,01:11:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+487,692,Bart van Fulpen,Willemstas,CUW,M,255,01:43:57,01:42:37,00:32:20,01:09:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+488,691,Marcel van Fulpen,Willemstad,CUW,M,256,01:43:57,01:42:38,00:32:19,01:09:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+489,693,Eva van Fulpen,Willemstad,CUW,V,233,01:43:58,01:42:37,00:32:20,01:09:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+490,463,Marisela Bouthisma,Willemstad,CUW,V,234,01:44:17,01:43:21,00:32:27,01:09:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+491,1577,Suendra Perez,Curacao,CUW,V,235,01:44:24,01:44:24,00:31:39,01:07:43,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+492,449,Ciro Ogenio,Willemstad,CUW,M,257,01:44:46,01:43:46,00:32:18,01:08:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+493,699,Michel Giraldo,Curacao,CUW,M,258,01:45:02,01:43:30,00:31:34,01:09:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+494,698,Debora Rozendal,Curacao,CUW,V,236,01:45:02,01:43:30,00:31:35,01:09:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+495,272,Jacqueline Bos,Rotterdam,NED,V,237,01:45:16,01:45:04,00:28:13,01:04:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+496,1603,Barbara Vrutaal,Willemstad,CUW,V,238,01:45:16,01:45:05,00:32:16,01:08:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+497,1600,Reinita Angeligue,Willemstad,CUW,V,239,01:45:16,01:45:05,00:32:16,01:08:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+498,1767,Andy Carolie,"Willemstad, Curacao",CUW,M,259,01:45:18,01:45:18,00:33:26,01:11:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+499,1770,Q-Shantely Carolie,Curacao,CUW,V,240,01:45:19,01:45:19,00:33:26,01:11:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+500,1555,Kirsten Van Diepen,Amstelveen,NED,V,241,01:45:21,01:44:34,00:36:11,01:12:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+501,2660,Racenumber 2660, , ,V,242,01:45:45,01:44:15,00:34:28,01:10:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+502,2662,Racenumber 2662, , ,V,243,01:45:46,01:44:17,00:34:29,01:10:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+503,305,Alan Evertsz,Curacao,CUW,M,260,01:45:55,01:45:30,00:33:12,01:09:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+504,825,Nikail Melfor,Willemstad,CUW,M,261,01:46:02,01:46:02, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+505,1485,Nilsa Melfor,Curacao,CUW,V,244,01:46:02,01:46:02, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+506,1171,Rosalinda Castro,Willemstad,CUW,V,245,01:46:15,01:46:15,00:34:37,01:12:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+507,1170,Lynn Fleming,Willemstad,CUW,V,246,01:46:15,01:42:01,00:30:24,01:08:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+508,986,Chris de Cocq,Houten,NED,M,262,01:46:21,01:43:58,00:31:35,01:09:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+509,1838,Angelo Davelaar,Curacao,CUW,M,263,01:46:27,01:45:14,00:31:59,01:11:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+510,54,Lissette Winklaar,Willemstad,CUW,V,247,01:46:29,01:45:16,00:31:58,01:11:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+511,742,Danique Regina,Willemstad,CUW,V,248,01:46:34,01:46:34,00:32:54,01:10:40,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+512,2759,Racenumber 2759, , ,V,249,01:46:35,01:46:08,00:31:52,01:10:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+513,745,Edwina Baistow,London,GBR,V,250,01:46:43,01:46:20,00:30:04,01:09:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+514,2760,Racenumber 2760, , ,V,251,01:46:47,01:46:47,00:34:12,01:15:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+515,1236,Yvette Verheijen,Amstelveen,NED,V,252,01:46:53,01:46:09,00:33:53,01:12:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+516,477,Curtly Bacuna,Willemstad,CUW,M,264,01:46:57,01:44:16,00:32:54,01:09:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+517,515,Chiara Bakker,Jan Sofat,CUW,V,253,01:46:59,01:46:11,00:33:06,01:14:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+518,1662,Jenilee Kenepa,Willemstad,CUW,V,254,01:46:59,01:44:18,00:32:54,01:09:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+519,2708,Racenumber 2708, , ,V,255,01:47:02,01:47:02,01:10:42, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+520,1277,Mariela Sille Doran,St. Michiel,CUW,V,256,01:47:02,01:45:35,00:31:23,01:09:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+521,1006,Carla Eering,Willemstad,CUW,V,257,01:47:03,01:42:58,00:31:55,01:09:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+522,1007,Petra Spelter,Alhier,CUW,V,258,01:47:04,01:42:57,00:31:56,01:09:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+523,1139,Daisy Seferina,Willemstad,CUW,V,259,01:47:06,01:39:20,00:29:28,01:05:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+524,565,Myra Rauchbaar,Willemstad,CUW,V,260,01:47:12,01:46:25,00:33:14,01:11:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+525,486,Rita Koopmanschap,Julianadorp,CUW,V,261,01:47:12,01:46:26,00:33:15,01:11:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+526,570,Daphne van der Fluit,Grote Berg,CUW,V,262,01:47:22,01:46:33,00:34:08,01:01:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+527,1612,Daan de Jong,Willemstad,CUW,M,265,01:47:22,01:46:32,01:01:55, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+528,1062,Annelies Lourentz,Willemstad,CUW,V,263,01:47:29,01:46:14,00:31:49,01:09:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+529,1117,Ralph Sobers,Willemstad,CUW,M,266,01:47:46,01:46:45,00:34:01,01:12:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+530,1449,Dylan Glazenborg,Willemstad,CUW,M,267,01:47:52,01:47:00,00:33:11,01:12:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+531,658,Stacey Rene,Curacao,CUW,V,264,01:47:53,01:46:38,00:32:14,01:11:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+532,1712,Sharella Rooi,Souax,CUW,V,265,01:47:54,01:46:37,00:33:12,01:12:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+533,555,Willem Mink,Cas Grandi,CUW,M,268,01:47:56,01:47:18,00:32:51,01:11:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+534,608,Jacqueline Mulder,Huizen,NED,V,266,01:48:32,01:47:43,00:33:24,01:13:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+535,1201,Mieke Hombergen Geurts,Willemstad,CUW,V,267,01:48:48,01:48:01,00:32:52,01:12:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+536,1202,Linda van de Braber,Willemstad,CUW,V,268,01:48:50,01:48:03,00:32:52,01:12:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+537,1583,Henry Schultz,Curacao,CUW,M,269,01:49:12,01:48:37,00:31:22,01:10:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+538,643,Ivette van der Velden,Willemstad,CUW,V,269,01:49:27,01:48:24,00:32:20,01:12:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+539,1582,Donatella Wanga,Curacao,CUW,V,270,01:49:31,01:48:56,00:31:22,01:10:36,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+540,1450,Anita Glazenborg,Willemstad,CUW,V,271,01:49:36,01:48:44,00:33:11,01:12:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+541,218,Nicole Hoogvliet,Willemstad,CUW,V,272,01:49:36,01:49:36,00:34:02,01:13:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+542,380,Ilona de la Ruelle,Koewacht,NED,V,273,01:49:52,01:48:43,00:33:16,01:13:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+543,80,Stanny de la Ruelle,Koewacht,NED,M,270,01:49:52,01:48:43,00:33:15,01:13:04,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+544,174,Jureska Costa Gomez,Curacao,CUW,V,274,01:50:02,01:49:09,00:34:32,01:15:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+545,2646,Racenumber 2646, , ,M,271,01:50:04,01:48:32,00:34:41,01:15:22,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+546,2647,Racenumber 2647, , ,M,272,01:50:05,01:48:32,00:34:42,01:15:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+547,1689,Manou van Antwerpen,Willemstad,CUW,V,275,01:50:05,01:48:59,00:35:10,01:18:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+548,581,Rosan IJzer,Willemstad,CUW,V,276,01:50:05,01:48:59,00:35:10,01:18:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+549,1355,Ann Scoop,Curacao,CUW,V,277,01:50:24,01:50:24,00:39:32,01:16:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+550,1112,Nacheska Johannes,Curacao,CUW,V,278,01:50:24,01:50:24,00:39:33,01:16:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+551,1354,Dianira Castillo-Sint Jago,Curacao,CUW,V,279,01:50:24,01:50:24,00:39:34,01:16:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+552,1174,Viorello Caciano,Willemstad,CUW,M,273,01:50:25,01:46:30,00:32:42,01:12:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+553,1081,Nihaila Henriquez,Willemstad,CUW,V,280,01:50:26,01:46:32,00:32:42,01:12:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+554,1804,Muryad de Bruin,Curacao,CUW,M,274,01:50:40,01:49:13,00:33:35,01:15:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+555,1805,Caroline de Groot,Curacao,CUW,V,281,01:50:41,01:49:17,00:33:38,01:15:26,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+556,1613,Leonilda Curie,Curacao,CUW,V,282,01:50:55,01:50:15,00:32:55,01:13:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+557,1614,Leonsy Curie,Curacao,CUW,V,283,01:50:56,01:50:17,00:32:56,01:13:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+558,1092,Millycent Bernardina,Curacao,NED,V,284,01:51:00,01:50:28,00:35:35,01:13:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+559,252,Saynarra Mercelita,Montagne,CUW,V,285,01:51:12,01:49:35,00:40:20,01:07:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+560,70,Marcel van der Leyde,Willemstad,CUW,M,275,01:51:13,01:49:57,00:32:41,01:12:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+561,250,Shudaiska Molina,Curacao,CUW,V,286,01:51:13,01:49:36,00:40:20,01:07:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+562,2746,Racenumber 2746, , ,V,287,01:51:38,01:51:38,00:47:29,01:20:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+563,2693,Racenumber 2693, , ,V,288,01:51:45,01:51:08,00:34:46,01:15:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+564,362,Kevin Mulder,Duivendrecht,NED,M,276,01:52:31,01:51:41,00:33:24,01:13:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+565,363,Koeun Namgung,Duivendrecht,NED,V,289,01:52:31,01:51:42,00:33:25,01:14:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+566,2698,Racenumber 2698, , ,V,290,01:52:58,01:51:58,00:32:11,01:14:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+567,1051,Suhail Hato Davelaar,Emmastad,CUW,V,291,01:53:08,01:41:49,00:30:49,01:07:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+568,1053,Jamal Hato,Emmastad,CUW,M,277,01:53:09,01:41:49,00:30:49,01:07:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+569,1052,Jayden Hato,Emmastad,CUW,M,278,01:53:09,01:41:48,00:30:48,01:07:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+570,1050,Randell Hato,Emmastad,CUW,M,279,01:53:09,01:41:50,00:30:49,01:07:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+571,1584,Mariana Marisella,Willemstad,CUW,V,292,01:53:25,01:52:23,00:34:25,01:16:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+572,657,Riordan Satornilia,Willemstad,CUW,M,280,01:53:31,01:52:08,00:35:24,01:15:31,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+573,654,Sandra Ventura,Willemstad,CUW,V,293,01:53:33,01:52:06,00:35:18,01:15:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+574,651,Stacey Sampson,Curacao,CUW,V,294,01:53:33,01:52:06,00:35:17,01:15:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+575,2694,Racenumber 2694, , ,V,295,01:53:59,01:53:23,00:34:20,01:15:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+576,1753,Lita Lesire,Curacao,CUW,V,296,01:53:59,01:53:21,00:34:20,01:15:08,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+577,1749,Stanley Cijntje,Curacao,CUW,M,281,01:53:59,01:53:20,00:34:18,01:15:06,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+578,1844,Caitlin Martie,Curacao,CUW,V,297,01:54:00,01:53:23,00:34:23,01:15:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+579,1748,Vanessa Martie,Curacao,CUW,V,298,01:54:00,01:53:21,00:34:21,01:15:15,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+580,1814,Coenraad Coenen,Ittenvoort,NED,M,282,01:54:06,01:54:06,00:36:04,01:17:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+581,1813,Ruud Coenen,Roermond,NED,M,283,01:54:07,01:54:07,00:36:05,01:17:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+582,2645,Racenumber 2645, , ,V,299,01:54:07,01:54:07,00:36:05,01:17:50,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+583,173,Michelene de Wind,Curacao,CUW,V,300,01:54:07,01:53:16,00:34:37,01:16:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+584,366,Sophie Bos,Willemstad,CUW,V,301,01:54:11,01:53:23,00:33:05,01:14:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+585,339,Fleur van Ringen,Julianadorp,CUW,V,302,01:54:11,01:53:23,00:33:05,01:14:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+586,855,Corina Verweij,Grote Berg,CUW,V,303,01:54:20,01:53:11,00:35:09,01:18:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+587,473,Sheraldini Odulia,Willemstad,CUW,V,304,01:54:24,01:54:24,00:36:22,01:16:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+588,499,Asherlina Victoria,Sta. Maria,CUW,V,305,01:54:25,01:54:25,00:36:21,01:16:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+589,2780,Racenumber 2780, , ,V,306,01:54:32,01:53:11,00:34:00,01:15:20,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+590,384,Geraldine Scheepers,Willemstad,CUW,V,307,01:54:32,01:53:07,00:33:58,01:15:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+591,1026,Dagmar van Eijk,Willemstad,CUW,V,308,01:54:36,01:53:47,00:35:10,01:17:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+592,704,Renate Schuurman,Willemstad,CUW,V,309,01:54:36,01:53:47,00:35:17,01:17:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+593,111,Benjamin Alibasah,Willemstad,CUW,M,284,01:54:42,01:53:53,00:35:19,01:17:28,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+594,582,Karlijn IJzer,Willemstad,CUW,V,310,01:54:48,01:53:41,00:35:06,01:18:21,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+595,2159,Racenumber 2159, , ,V,311,01:54:54,01:54:09,00:33:50,01:14:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+596,1969,Patricia van Oord,Amstelveen,NED,V,312,01:54:54,01:54:09,00:33:50,01:14:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+597,293,Thea van Spaandonck,Amstelveen,NED,V,313,01:54:54,01:54:10,00:33:51,01:14:17,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+598,1587,Edsel Igwatia,Curacao,CUW,M,285,01:54:58,01:54:08,00:34:51,01:16:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+599,790,Susanne Adriaansen,Jan Thiel,CUW,V,314,01:55:07,01:54:03,00:34:24,01:15:46,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+600,593,Annechien Jilesen,Mahaai,CUW,V,315,01:55:07,01:54:04,00:34:25,01:15:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+601,789,Kim van Sambeeck,Jan Thiel,CUW,V,316,01:55:07,01:54:04,00:34:25,01:15:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+602,1352,Jennifer Donker,Curacao,CUW,V,317,01:55:12,01:53:51,00:35:32,01:15:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+603,641,Axia Arroyo,Willemstad,CUW,V,318,01:55:18,01:50:33,00:32:23,01:12:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+604,640,Tamo Cohen,Willemstad,CUW,V,319,01:55:20,01:50:35,00:32:23,01:12:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+605,854,Bernardina Gerrel,Curacao,NED,M,286,01:55:23,01:54:00,00:35:30, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+606,583,Linda Schuurman,Willemstad,CUW,V,320,01:55:29,01:54:22,00:35:04,01:18:24,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+607,580,Gerwin IJzer,Willemstad,CUW,M,287,01:55:30,01:54:22,00:35:11,01:18:27,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+608,1166,Margareth Gregorio,Curacao,CUW,V,321,01:55:52,01:55:15,00:34:18,01:16:41,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+609,556,Beatriz Mink-Yung,Cas Grandi,CUW,V,322,01:55:53,01:55:14,00:34:17,01:16:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+610,677,Reika Cijntje,Jandoret,CUW,V,323,01:56:01,01:55:42,00:34:55,01:16:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+611,676,Ivette Cijntje,Jandoret,CUW,V,324,01:56:02,01:55:41,00:34:55,01:16:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+612,205,Angelique G.R. Martina,Curasol,CUW,V,325,01:56:04,01:56:04,00:34:17,01:16:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+613,1521,Ryneilfa Macharius,Curaçao,CUW,V,326,01:56:04,01:55:08,00:34:45,01:15:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+614,694,Frans Linssen,Willemstad,CUW,M,288,01:56:05,01:55:08,00:34:45,01:15:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+615,2744,Racenumber 2744, , ,V,327,01:56:10,01:55:31,00:34:32,01:17:12,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+616,2796,Racenumber 2796, , ,M,289,01:56:10,01:55:30,00:34:31,01:17:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+617,1787,Lara Chirino,Willemstad,CUW,V,328,01:57:19,01:57:19,00:35:50,01:17:25,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+618,1222,Imca-Rian Reinders,Amstelveen,NED,V,329,01:57:29,01:56:42,00:34:32,01:21:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+619,1755,Vontina van der Schot,Curacao,CUW,V,330,01:58:47,01:58:09,01:17:31, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+620,1751,Nubia Bonefacio,Curacao,CUW,V,331,01:58:51,01:58:12,01:17:31, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+621,176,Julie M.F. Hengeveld,Willemstad,CUW,V,332,01:58:59,01:57:53,00:39:02,01:19:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+622,1107,Giuseppe Ignecia,Mahoema,CUW,M,290,01:59:22,01:58:51,00:34:20,01:17:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+623,1108,Gideon Ignecia,Mahoema,CUW,M,291,01:59:22,01:58:52,00:34:22,01:17:56,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+624,221,Lucie de Jong,Willemstad,CUW,V,333,01:59:53,01:59:53,00:37:18,01:18:57,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+625,1243,Marianne van de Fliert,Amstelveen,NED,V,334,01:59:59,01:59:17,00:34:36,01:22:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+626,1264,Gabriela Smits,Amstelveen,NED,V,335,02:00:02,01:59:20,00:34:36,01:21:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+627,1256,Pieter Daffodill,Wiilemstad,CUW,M,292,02:00:10,02:00:10,00:42:31,01:22:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+628,1397,Leroy Lewis,Curacao,CUW,M,293,02:00:11,02:00:11,00:42:31,01:22:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+629,482,Ilvienne Ogenio,Willemstad,CUW,V,336,02:00:24,01:59:28,00:38:22,01:21:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+630,1357,Chermine Schoop,Curacao,CUW,V,337,02:00:28,02:00:28,00:40:59,01:22:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+631,2664,Racenumber 2664, , ,M,294,02:01:14,01:59:42,00:34:18,01:21:01,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+632,2665,Racenumber 2665, , ,V,338,02:01:15,01:59:41,00:34:18,01:21:02,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+633,472,Kae-Linn Boekhoudt,Souax,CUW,V,339,02:01:31,01:59:55,00:36:26,01:20:10,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+634,471,Varicella Boekhoudt,Souax,CUW,V,340,02:01:32,01:59:56,00:36:27,01:20:11,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+635,487,Angelique Foendoe,Willemstad,CUW,V,341,02:02:15,02:01:19,00:38:28,01:21:37,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+636,638,Eartha Thode,Curacao,CUW,V,342,02:02:31,02:02:31,00:43:25,01:23:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+637,645,Jochanella Balentina,Willemstad,CUW,V,343,02:02:31,02:02:31, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+638,835,Kowsoleea Ziagnee,Willemstad,CUW,V,344,02:02:32,02:02:32,00:43:26,01:23:14,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+639,2784,Racenumber 2784, , ,V,345,02:02:47,02:02:47,00:34:11,01:19:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+640,1158,Dayene Janga,Curacao,CUW,V,346,02:03:37,02:02:26,00:36:32,01:21:05,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+641,1152,Gioevella Servage,Curacao,CUW,V,347,02:04:43,02:04:16,00:42:02,01:25:00,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+642,1573,Yvonne Hinds,Curaçao,CUW,V,348,02:04:44,01:53:34,00:31:19,01:14:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+643,1198,Sanne Soeriasantoso,Willemstad,CUW,V,349,02:04:46,02:03:23,00:36:15,01:22:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+644,1693,Caroline Castendijk,Willemstad,CUW,V,350,02:04:48,02:03:24,00:36:16,01:22:38,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+645,1199,Diaz Soeriasanto,Willemstad,CUW,M,295,02:04:48,02:03:23,00:36:17,01:22:39,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+646,1346,Yackeisha Mercelina,Willemstad,CUW,V,351,02:05:17,02:04:12,00:37:07,01:21:45,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+647,1351,Signalda Vrutaal,Willemstad,CUW,V,352,02:05:17,02:04:10,00:37:06,01:21:42,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+648,1594,Valeska Isidora,Grote Berg,CUW,V,353,02:05:40,02:04:22,00:37:15,01:22:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+649,186,Marianne van Os,Willemstad,CUW,V,354,02:05:42,02:04:23, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+650,1595,Truus Woolthuis,Grote Berg,CUW,V,355,02:05:43,02:04:26,00:37:18,01:22:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+651,187,Anita Isidora,Grote Berg,CUW,V,356,02:05:43,02:04:26,00:37:16,01:22:55,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+652,1469,Mariela Merkies,Grote Berg,CUW,V,357,02:05:43,02:04:25,00:37:13,01:22:54,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+653,1113,Rita Hupsel,Willemstad,CUW,V,358,02:05:59,02:04:59,00:37:39,01:23:35,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+654,1606,Shulaika Petronilia,Willemstad,CUW,V,359,02:09:16,02:08:13,00:38:28,01:24:47,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+655,1247,Ruthsella Petronilio,Wiilemstad,CUW,V,360,02:09:17,02:08:14,00:38:29,01:24:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+656,1145,Srihastatie Redjowikromo,Willemstad,CUW,V,361,02:10:13,02:09:15,00:38:05,01:24:48,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+657,660,Janela Pereira,Willemstad,CUW,V,362,02:15:28,02:15:28,00:51:53,01:34:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+658,661,Jaimie Evers,Willemstad,CUW,V,363,02:15:28,02:15:28,01:35:00, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+659,662,Marquina Onofra,Willemstad,CUW,V,364,02:15:28,02:15:28,01:35:00, ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+660,792,Elton Steenbaar,Willemstad,CUW,M,296,02:15:29,02:15:29,00:51:53,01:34:59,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+661,1393,Heidi Kristel van Goens,Curacao,CUW,V,365,02:16:13,02:12:53,00:35:21,01:27:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+662,1414,Gladys Cuales,Willemstad,CUW,V,366,02:16:14,02:12:54,00:35:22,01:27:29,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+663,568,Hyrick Hooi,WIllwmstad,CUW,M,297,02:17:22,02:16:26,00:38:58,01:31:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+664,441,Shudeska Laken,Willemstad,CUW,V,367,02:17:44,02:16:49,00:38:51,01:31:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+665,1784,Danielle van Lieshout,Willemstad,CUW,V,368,02:18:04,02:18:04,00:38:31,01:28:52,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+666,998,Tristan Feij,Willemstad,CUW,M,298,02:18:08,02:18:08,00:38:30,01:28:53,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+667,484,Dana vd Meulen,Willemstad,CUW,V,369,02:18:08,02:17:13,00:38:38,01:31:18,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+668,485,Dina Cabaco,Willemstad,CUW,V,370,02:18:08,02:17:12,00:38:41,01:31:16,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+669,60,Militza Evertsz,Willemstad,CUW,V,371,02:19:06,02:18:01,00:36:00,01:24:23,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+670,1189,Carlos Zimmerman,Willemstad,CUW,M,299,02:26:29,02:26:29, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+671,1104,Jan Willem Fidder,amstelveen,NED,M,300,02:29:13,02:28:57,00:21:36,01:54:19,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+672,1146,Gina Seran,Willemstad,CUW,V,372,02:32:32,02:31:36,00:38:08,01:24:51,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+673,2700,Racenumber 2700, , ,V,373,02:33:09,02:33:09, , ,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29
+674,1342,Miljelvischka Andrade,Willemstad,CUW,V,374,02:43:33,02:43:33,00:52:17,01:48:30,"",2nd KLM Curaçao Marathon   29-11-2015,2015-11-29

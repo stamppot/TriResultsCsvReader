@@ -1,0 +1,75 @@
+Pos,StartNr,Naam,Cat,Run1,PosRun1,Wis1,Fiets,#Fie,NaFiets,#NaF,Wis2,Run2,PosRun2,Totaal,DQ,race,date
+1,1001,Alexander Picard,H20+,00:07:55,3,00:01:20,00:32:45,1,00:41:59,1,00:00:50,00:16:15,1,00:59:03, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+2,1002,Stein Posthuma,H20+,00:07:47,1,00:01:20,00:32:55,3,00:42:00,2,00:00:55,00:16:46,2,00:59:40, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+3,1004,Joep Staps,H20+,00:07:55,2,00:01:22,00:32:47,2,00:42:02,3,00:00:54,00:16:55,3,00:59:50, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+4,1095,Raimond van der Boom,H40+,00:08:35,4,00:01:34,00:34:13,10,00:44:22,6,00:01:19,00:17:03,4,01:02:44, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+5,1049,Sep Thijssen,H20+,00:08:54,7,00:01:42,00:33:46,6,00:44:20,5,00:01:02,00:18:04,5,01:03:26, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+6,1052,Joey van 't Verlaat,H14+,00:08:36,5,00:01:26,00:34:22,11,00:44:23,7,00:00:53,00:18:35,10,01:03:49, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+7,1062,Bas van Beek,H40+,00:08:59,8,00:01:31,00:34:11,9,00:44:41,10,00:01:05,00:18:16,7,01:04:01, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+8,1029,Taco de Jong,H20+,00:09:00,9,00:01:28,00:34:09,7,00:44:36,9,00:00:58,00:19:10,12,01:04:43, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+9,1075,Jeroen Lute,H20+,00:09:11,11,00:01:36,00:33:13,4,00:43:59,4,00:01:06,00:20:01,22,01:05:05, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+10,1023,Charles Helsper,H20+,00:09:34,23,00:01:20,00:34:10,8,00:45:04,11,00:01:05,00:19:13,13,01:05:21, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+11,1096,Sjors Stam,H20+,00:09:20,18,00:01:35,00:33:32,5,00:44:26,8,00:01:05,00:20:05,25,01:05:35, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+12,1027,Lotte Jacobs,D20+,00:09:08,10,00:01:30,00:36:09,23,00:46:46,18,00:01:14,00:18:14,6,01:06:13, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+13,1077,Jack Niessen,H40+,00:09:22,19,00:01:36,00:36:10,24,00:47:06,21,00:01:01,00:18:22,8,01:06:28, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+14,1042,Arno Nieuwenhuizen,H20+,00:09:13,16,00:01:51,00:35:22,15,00:46:26,13,00:01:17,00:19:10,11,01:06:51, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+15,1008,Sandra de Jonge,D40+,00:09:27,20,00:01:46,00:35:26,17,00:46:38,15,00:01:02,00:19:20,14,01:07:00, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+16,1024,Johan van den Hoogen,H20+,00:09:17,17,00:01:53,00:35:09,14,00:46:18,12,00:01:08,00:19:47,20,01:07:12, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+17,1028,Marco Jansen,H40+,00:09:46,27,00:01:45,00:34:56,12,00:46:26,14,00:01:14,00:19:36,19,01:07:15, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+18,1006,Marina van Dijk,D20+,00:09:39,26,00:01:38,00:35:24,16,00:46:40,17,00:01:06,00:19:51,21,01:07:36, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+19,1007,May Kerstens,D20+,00:09:52,32,00:01:37,00:35:38,19,00:47:06,20,00:01:01,00:20:29,30,01:08:36, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+20,1047,Bram Smit,H20+,00:09:32,21,00:01:52,00:35:38,20,00:47:01,19,00:01:22,00:20:22,27,01:08:44, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+21,1030,René Kleizen,H20+,00:09:12,12,00:01:52,00:37:09,33,00:48:12,25,00:01:15,00:19:23,17,01:08:50, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+22,1097,Cees den Dunen,H40+,00:09:48,28,00:01:50,00:35:02,13,00:46:39,16,00:01:13,00:21:01,37,01:08:51, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+23,1040,Sophie van der Most,D20+,00:09:13,13,00:01:41,00:37:29,37,00:48:23,27,00:01:15,00:19:22,16,01:08:58, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+24,1085,Jasper Veldman,H20+,00:09:37,25,00:01:51,00:36:40,26,00:48:07,24,00:01:17,00:20:03,24,01:09:26, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+25,1093,Ron van der Graaf,H20+,00:09:13,15,00:01:52,00:36:57,29,00:48:01,23,00:01:34,00:20:26,29,01:09:59, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+26,1055,Paul van der Weijden,H40+,00:09:50,30,00:02:00,00:36:45,27,00:48:34,29,00:01:24,00:20:22,26,01:10:19, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+27,1021,Luuk te Grotenhuis,H20+,00:09:34,22,00:01:52,00:37:19,36,00:48:44,30,00:01:27,00:20:25,28,01:10:35, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+28,1084,Chris van Trigt,H20+,00:09:57,34,00:01:58,00:36:03,21,00:47:57,22,00:01:26,00:21:32,41,01:10:54, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+29,1041,Bart Mulders,H40+,00:10:25,44,00:02:02,00:36:06,22,00:48:33,28,00:01:31,00:20:53,33,01:10:56, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+30,1068,Robert de Bruin,H40+,00:09:54,33,00:02:03,00:37:10,34,00:49:07,31,00:01:14,00:20:44,31,01:11:04, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+31,1034,Bouke Kooreman,H20+,00:08:41,6,00:02:05,00:39:33,48,00:50:18,37,00:02:31,00:18:32,9,01:11:20, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+32,1037,Andre van Loo,H20+,00:09:13,14,00:01:50,00:39:46,50,00:50:48,38,00:01:24,00:19:32,18,01:11:43, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+33,1045,Guido Sala,H40+,00:10:32,49,00:01:48,00:37:15,35,00:49:34,33,00:01:26,00:21:00,36,01:11:58, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+34,1060,Leon Aarts,H40+,00:10:09,38,00:02:39,00:35:29,18,00:48:16,26,00:01:46,00:22:00,45,01:12:00, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+35,1046,Pascal Schonis,H20+,00:10:30,46,00:02:07,00:37:05,32,00:49:42,35,00:01:30,00:20:59,35,01:12:10, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+36,1038,Marleen Meij,D20+,00:10:00,36,00:02:02,00:39:56,51,00:51:57,43,00:01:13,00:20:46,32,01:13:55, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+37,1025,Ellen Houweling,D20+,00:10:00,35,00:01:52,00:40:49,61,00:52:40,49,00:01:22,00:20:01,23,01:14:01, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+38,1081,Mark Snapper,H20+,00:10:17,41,00:02:28,00:36:49,28,00:49:33,32,00:01:43,00:22:48,52,01:14:03, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+39,1065,Hans Boven,H40+,00:10:31,48,00:02:08,00:37:38,39,00:50:16,36,00:01:33,00:22:34,49,01:14:22, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+40,1035,Rob Kromwijk,H20+,00:10:09,39,00:02:09,00:41:22,62,00:53:39,59,00:01:33,00:19:21,15,01:14:32, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+41,1048,Ruud van Suijdam,H40+,00:09:51,31,00:01:55,00:40:31,58,00:52:15,46,00:01:19,00:21:12,39,01:14:45, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+42,1078,Jan Pater,H40+,00:09:37,24,00:01:58,00:40:30,56,00:52:04,44,00:01:16,00:21:28,40,01:14:47, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+43,1070,Willem Giesbers,H20+,00:10:43,51,00:02:07,00:39:27,46,00:52:16,47,00:01:38,00:21:04,38,01:14:58, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+44,1072,Alexander Hoffman,H20+,00:09:49,29,00:02:17,00:39:38,49,00:51:43,41,00:01:47,00:21:56,44,01:15:25, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+45,1039,Koos Meinsma,H40+,00:10:19,42,00:02:26,00:36:57,30,00:49:40,34,00:02:48,00:23:00,54,01:15:27, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+46,1033,Edwin Koolhoven,H20+,00:10:27,45,00:02:11,00:40:09,53,00:52:46,50,00:00:52,00:22:25,47,01:16:03, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+47,1010,Jeroen Alkemade,H40+,00:10:33,50,00:02:31,00:39:15,44,00:52:19,48,00:01:37,00:22:53,53,01:16:48, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+48,1057,Saskia Wijnalda-TeVelde,D40+,00:10:47,53,00:02:25,00:39:57,52,00:53:08,52,00:01:29,00:22:12,46,01:16:49, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+49,1069,Ard Cloo,H40+,00:10:13,40,00:03:01,00:40:28,55,00:53:41,60,00:02:25,00:20:55,34,01:17:00, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+50,1013,Eveline van Buel,D20+,00:10:19,43,00:02:24,00:40:31,59,00:53:12,54,00:02:07,00:21:43,42,01:17:02, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+51,1050,Margje Timmerman,D20+,00:11:19,59,00:02:18,00:38:28,41,00:52:04,45,00:01:31,00:23:40,58,01:17:15, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+52,1087,Lennart Verdel,H20+,00:10:31,47,00:02:15,00:40:40,60,00:53:25,55,00:01:28,00:22:34,50,01:17:26, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+53,1053,Elly Visser,D50+,00:11:28,61,00:01:57,00:40:11,54,00:53:34,57,00:01:29,00:22:42,51,01:17:44, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+54,1018,Ria Slingerland ,D20+,00:11:59,62,00:01:58,00:37:41,40,00:51:37,40,00:01:21,00:24:54,64,01:17:52, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+55,1058,Gerard van Wissen,H40+,00:12:03,64,00:02:21,00:37:32,38,00:51:54,42,00:01:25,00:24:56,66,01:18:14, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+56,1016,Alexander Degenkamp,H20+,00:12:04,66,00:02:22,00:39:12,43,00:53:37,58,00:01:47,00:23:14,55,01:18:37, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+57,1064,Rutger-Jan Bevers,H40+,00:10:01,37,00:02:35,00:41:53,63,00:54:28,62,00:02:21,00:22:31,48,01:19:20, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+58,1015,Joshua Cozijnsen,H40+,00:11:03,56,00:02:27,00:39:21,45,00:52:49,51,00:02:26,00:24:07,62,01:19:22, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+59,1082,Jan Tichelaar,H40+,00:13:15,71,00:01:41,00:36:16,25,00:51:11,39,00:01:12,00:27:06,70,01:19:28, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+60,1036,Sarah Lammens,D20+,00:11:13,58,00:02:06,00:40:30,57,00:53:48,61,00:01:41,00:24:05,61,01:19:33, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+61,1063,Eddy van den Berg,H40+,00:10:45,52,00:01:46,00:42:03,65,00:54:32,63,00:01:17,00:23:54,59,01:19:42, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+62,1092,Hans van Wijk,H40+,00:12:00,63,00:01:59,00:39:28,47,00:53:26,56,00:01:48,00:24:30,63,01:19:43, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+63,1022,Bob Hart,H40+,00:10:53,54,00:02:25,00:42:00,64,00:55:17,65,00:02:40,00:21:52,43,01:19:48, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+64,1054,Yoush van Vlimmeren,H20+,00:12:04,65,00:02:21,00:38:46,42,00:53:09,53,00:01:53,00:24:56,65,01:19:57, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+65,1009,Caja van der Woude,D40+,00:11:12,57,00:01:47,00:44:31,67,00:57:29,66,00:01:11,00:23:59,60,01:22:38, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+66,1044,Dilys Renaud,D20+,00:11:24,60,00:02:30,00:44:09,66,00:58:02,67,00:01:52,00:23:29,57,01:23:22, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+67,1012,Rianne Bosman,D20+,00:10:58,55,00:02:58,00:46:17,72,01:00:12,69,00:02:05,00:23:23,56,01:25:39, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+68,1026,Arjan Hulsebos,H40+,00:14:50,74,00:02:54,00:37:04,31,00:54:47,64,00:02:30,00:30:16,74,01:27:32, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+69,1020,Gerrit van Ginkel,H40+,00:13:06,70,00:02:56,00:44:37,68,01:00:38,71,00:02:23,00:25:44,67,01:28:44, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+70,1073,Yvette Keemink,D20+,00:12:40,67,00:02:42,00:44:44,69,01:00:05,68,00:02:00,00:26:44,69,01:28:48, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+71,1076,Wouter Morsink,H20+,00:12:59,69,00:02:44,00:44:44,70,01:00:27,70,00:02:33,00:25:52,68,01:28:52, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+72,1080,Huub Sio,H40+,00:14:48,73,00:02:25,00:48:12,73,01:05:25,74,00:01:31,00:27:25,71,01:34:20, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+73,1031,Jo Klerken,H40+,00:14:18,72,00:02:21,00:46:07,71,01:02:46,72,00:01:53,00:30:15,73,01:34:52, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12
+74,1032,Loeka van der Kooij,D20+,00:12:53,68,00:03:00,00:49:18,74,01:05:11,73,00:01:58,00:28:05,72,01:35:13, ,11e Rijwielpaleis Bilthoven Triathlon ,2015-07-12

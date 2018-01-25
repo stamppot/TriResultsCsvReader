@@ -1,0 +1,147 @@
+Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,1080,Tom Joosten,Veghel,J1012,1,00:02:46,00:02:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+2,1081,Bram Joosten,Veghel,J1012,2,00:02:48,00:02:48,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+3,1146,Thijs Lambregts,Veghel,J1012,3,00:03:02,00:03:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+4,1063,Joep Van Leur,Veghel,J1012,4,00:03:03,00:03:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+5,1149,Ferm Koppelmans,Veghel,J7_9,1,00:03:19,00:03:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+6,1023,Fearne Hughes,Nootdorp,M1012,1,00:03:20,00:03:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+7,1029,Koen van zwieten,Veghel,J7_9,2,00:03:22,00:03:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+8,1131,Morris van de Lee,Veghel,J7_9,3,00:03:23,00:03:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+9,1078,Ties de Bie,Veghel,J7_9,4,00:03:23,00:03:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+10,1053,Tim Bouman,Veghel,J7_9,5,00:03:24,00:03:24,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+11,1100,Lucas Henrickx,Aarendonk,J7_9,6,00:03:24,00:03:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+12,1026,Marleen van Aarle,Sint-Michielsgestel,M1012,2,00:03:28,00:03:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+13,1025,Sophie van Aarle,Sint-Michielsgestel,M7_9,1,00:03:30,00:03:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+14,1068,Florian Kanters,Veghel,J7_9,7,00:03:31,00:03:31,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+15,1099,Ruben Hendrickx,Aarendonk,J0_6,1,00:03:34,00:03:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+16,1143,Olivier Hondelink,Veghel,J7_9,8,00:03:37,00:03:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+17,1084,Elze Ariens,Ravenstein,M1012,3,00:03:40,00:03:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+18,1074,Milan Schuurmans,Veghel,J7_9,9,00:03:40,00:03:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+19,1066,Jamie Kivits,Schijndel,J7_9,10,00:03:45,00:03:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+20,1015,Tygo Hulsen,Veghel,J7_9,11,00:03:46,00:03:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+21,1112,Yassin el Meliani,Veghel,J7_9,12,00:03:47,00:03:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+22,1005,Jorik Willems,Heeswijk-Dinther,J7_9,13,00:03:49,00:03:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+23,1055,Beau Bouman,Veghel,J7_9,14,00:03:49,00:03:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+24,1017,Amy Reuser,Veghel,M7_9,2,00:03:50,00:03:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+25,1086,Luke vanden Broek,Veghel,J1012,5,00:03:51,00:03:49,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+26,1016,Tijs van nieuwenhuize,Veghel,J7_9,15,00:03:52,00:03:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+27,1001,Sanne van Herwaarden,Veghel,M7_9,3,00:03:52,00:03:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+28,1009,Diede Verstappen,Veghel,M7_9,4,00:03:52,00:03:50,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+29,1024,Thijmen Paap,Zutphen,J1012,6,00:03:55,00:03:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+30,1073,Bregje Schuurmans,Veghel,M7_9,5,00:03:57,00:03:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+31,1145,Falco Rombouts,Veghel,J1012,7,00:03:57,00:03:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+32,1003,Stijn van Bruggen,Veghel,J7_9,16,00:03:57,00:03:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+33,1059,Sander de Groot,Veghel,J7_9,17,00:04:00,00:03:58,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+34,1018,Mara vander Heijden,Veghel,M7_9,6,00:04:02,00:03:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+35,1037,Jip van Uden,Veghel,M7_9,7,00:04:03,00:04:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+36,1182,Tristan Schoenmakers,Nistelrode,J1012,8,00:04:03,00:04:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+37,1075,Lieke Bosch,Veghel,M7_9,8,00:04:03,00:04:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+38,1031,Veerle Kuijpers,Veghel,M7_9,9,00:04:03,00:04:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+39,1004,Mats Van Dijk,Veghel,J0_6,2,00:04:04,00:04:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+40,1126,Bente,Veghel,M7_9,10,00:04:05,00:04:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+41,1125,Chris Goorts,Veghel,J0_6,3,00:04:06,00:04:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+42,1070,Tim Doorduyn,Veghel,J7_9,18,00:04:07,00:04:02,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+43,1147,Fenne Padua,Veghel,M1012,4,00:04:10,00:04:10,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+44,1071,Femke Doorduyn,Veghel,M1012,5,00:04:12,00:04:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+45,1042,Anouk Rombout,Veghel,M7_9,11,00:04:12,00:04:09,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+46,1132,Meike de Laat,Veghel,M7_9,12,00:04:13,00:04:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+47,1117,Anne Arnoldussen,Veghel,M7_9,13,00:04:13,00:04:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+48,1130,Jayden Pardoel,Veghel,J0_6,4,00:04:14,00:04:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+49,1064,Floortje Van Leur,Veghel,M0_6,1,00:04:14,00:04:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+50,1038,Valrie Mulders,Veghel,M7_9,14,00:04:15,00:04:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+51,1060,Madelief de Laat,Veghel,M7_9,15,00:04:15,00:04:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+52,1040,Cedric Mulders,Veghel,J7_9,19,00:04:16,00:04:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+53,1133,Inge van Heeswijk,Veghel,M7_9,16,00:04:17,00:04:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+54,1106,Milan van den Heuvel,Veghel,J7_9,20,00:04:18,00:04:12,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+55,1105,Manu de Wit,Veghel,M7_9,17,00:04:19,00:04:13,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+56,1036,Quinty De Bekker,Uden,M7_9,18,00:04:21,00:04:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+57,1035,Britt Griffioen,Uden,M7_9,19,00:04:22,00:04:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+58,1109,Retief,Veghel,J7_9,21,00:04:22,00:04:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+59,1045,Thomas Bruneel,Veghel,J0_6,5,00:04:23,00:04:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+60,1134,Anouk van Heeswijk,Veghel,M7_9,20,00:04:24,00:04:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+61,1087,Roxanne Bressers,Veghel,M7_9,21,00:04:24,00:04:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+62,1011,Ziva Verstappen,Veghel,M0_6,2,00:04:25,00:04:23,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+63,1049,Lucas Gommers,Veghel,J7_9,22,00:04:26,00:04:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+64,1030,Sterre Kuijpers,Veghel,M7_9,22,00:04:27,00:04:25,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+65,1089,Yzze van Boxtel,Veghel,M7_9,23,00:04:28,00:04:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+66,1021,Pleun Vanos,Veghel,M0_6,3,00:04:28,00:04:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+67,1121,Janne de Lange,Veghel,M0_6,4,00:04:30,00:04:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+68,1076,Femke Bosch,Veghel,M7_9,24,00:04:30,00:04:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+69,1124,Merle Goorts,Veghel,M7_9,25,00:04:32,00:04:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+70,1002,Lars van Bruggen,Veghel,J7_9,23,00:04:33,00:04:31,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+71,1022,Jonas van Os,Veghel,J7_9,24,00:04:34,00:04:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+72,1032,Julian Middelweerd,Veghel,J0_6,6,00:04:34,00:04:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+73,1108,Maxime,Veghel,M7_9,26,00:04:34,00:04:32,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+74,1072,Benjamin de Grauw,Veghel,J0_6,7,00:04:35,00:04:26,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+75,1127,Niene,Veghel,M0_6,5,00:04:37,00:04:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+76,1008,Lana vanGrinsven,Veghel,M7_9,27,00:04:38,00:04:35,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+77,1144,Jason Rombouts,Veghel,J7_9,25,00:04:38,00:04:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+78,1079,Emma Staring,Veghel,M7_9,28,00:04:40,00:04:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+79,1012,Bommel Heesakkers,Veghel,J0_6,8,00:04:41,00:04:34,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+80,1115,Filou,Veghel,M0_6,6,00:04:41,00:04:41,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+81,1138,Aboudez Kourouma,Veghel,J7_9,26,00:04:43,00:04:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+82,1028,Thijn van Erp,Veghel,J7_9,27,00:04:43,00:04:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+83,1019,Melle vander Heijden,Veghel,M0_6,7,00:04:44,00:04:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+84,1010,Arden Verstappen,Veghel,J0_6,9,00:04:46,00:04:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+85,1122,Sven Brands,Veghel,J0_6,10,00:04:47,00:04:44,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+86,1041,Stef Rombout,Veghel,J0_6,11,00:04:49,00:04:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+87,1091,Dan van Boxtel,Veghel,M0_6,8,00:04:49,00:04:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+88,1067,Lars Nooijen,Veghel,J0_6,12,00:04:49,00:04:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+89,1129,Kyra Goorman,Veghel,M7_9,29,00:04:49,00:04:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+90,1007,Kai BarriosAbels,Uden,J7_9,28,00:04:50,00:04:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+91,1088,Yasmine Bressers,Veghel,M7_9,30,00:04:53,00:04:51,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+92,412,Thom Barten,Veghel,J0_6,13,00:04:53,00:04:47,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+93,1135,Morrison Hanegraaf,Veghel,J0_6,14,00:04:54,00:04:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+94,1139,Luuk Kanters,Veghel,J0_6,15,00:04:54,00:04:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+95,1057,Birgit van Summeren,Uden,M0_6,9,00:04:55,00:04:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+96,1006,Roos vander Meijden,Veghel,M7_9,31,00:04:56,00:04:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+97,1033,Mila van Doorn,Veghel,M7_9,32,00:04:57,00:04:53,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+98,1148,Belle Koppelmans,Veghel,M0_6,10,00:04:59,00:04:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+99,1118,Jelle Smit,Veghel,J7_9,29,00:05:00,00:04:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+100,1142,Mees Hondelink,Veghel,J0_6,16,00:05:02,00:04:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+101,1137,Manou Camara,Veghel,M0_6,11,00:05:03,00:04:57,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+102,1077,Sara De Bie,Veghel,M0_6,12,00:05:03,00:04:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+103,1136,Anzou Camara,Veghel,J0_6,17,00:05:03,00:04:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+104,1039,Babette Mulders,Veghel,M7_9,33,00:05:04,00:04:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+105,1046,Lotte Rams,Veghel,M0_6,13,00:05:07,00:05:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+106,1047,Sofie Rams,Veghel,M0_6,14,00:05:07,00:05:03,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+107,1014,Nalu BarriosAbels,Uden,M0_6,15,00:05:10,00:05:05,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+108,1141,Ilja Loos,Veghel,M0_6,16,00:05:11,00:05:04,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+109,1150,Janne Barten,Veghel,M7_9,34,00:05:12,00:05:06,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+110,1095,Diede van Boxmeer,Veghel,M0_6,17,00:05:16,00:05:11,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+111,1048,Sander Loos,Heeswijk-Dinther,J0_6,18,00:05:20,00:05:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+112,1054,Sem Bouman,Veghel,J0_6,19,00:05:21,00:05:21,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+113,1043,Matthijs Welten,Veghel,J0_6,20,00:05:22,00:05:14,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+114,1199,Nawfel Benyahya,Veghel,J0_6,21,00:05:24,00:05:20,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+115,1058,Sanne Goorman,Veghel,M7_9,35,00:05:25,00:05:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+116,1065,Jinane Ouassou,Veghel,M0_6,18,00:05:35,00:05:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+117,1061,Julius de Laat,Veghel,J0_6,22,00:05:36,00:05:29,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+118,1092,Pauline Deenen,Veghel,M0_6,19,00:05:37,00:05:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+119,1027,Floor van Erp,Veghel,M0_6,20,00:05:37,00:05:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+120,1034,Stan vande Wert,Veghel,J0_6,23,00:05:38,00:05:33,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+121,1020,Vera Van Asperen,Veghel,M7_9,36,00:05:39,00:05:27,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+122,1107,Isabelle,Veghel,M0_6,21,00:05:40,00:05:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+123,1069,Jazz Stalpers,Veghel,M0_6,22,00:05:46,00:05:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+124,1082,Lonne van denTillart,Veghel,M0_6,23,00:05:47,00:05:39,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+125,1094,Lauren Van Vessem,Schijndel,M0_6,24,00:05:47,00:05:40,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+126,1116,Janske van de Weert,Veghel,M0_6,25,00:05:48,00:05:42,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+127,1083,Tijn van denTillart,Veghel,J0_6,24,00:05:51,00:05:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+128,1123,Jurre,Veghel,J0_6,25,00:05:52,00:05:45,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+129,1013,Broes Heesakkers,Veghel,J0_6,26,00:05:53,00:05:46,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+130,1113,Soumira el Meliani,Veghel,M0_6,26,00:05:59,00:05:55,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+131,1120,Alisha Verberne,Veghel,M0_6,27,00:06:02,00:05:52,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+132,1110,Annemijn,Veghel,M0_6,28,00:06:03,00:05:59,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+133,1051,Julia Gommers,Veghel,M0_6,29,00:06:08,00:05:56,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+134,1050,Thimo Gommers,Veghel,J0_6,27,00:06:12,00:06:01,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+135,1044,Rienke Ketelaars,Veghel,M0_6,30,00:06:13,00:06:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+136,1093,Cane vande Sande,Veghel,J1012,9,00:06:17,00:06:15,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+137,1128,Thijmen Loos,Veghel,J0_6,28,00:06:21,00:06:16,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+138,1111,Julius van de Velden,Veghel,J0_6,29,00:06:35,00:06:30,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+139,1056,Phileine Keeren,Veghel,M0_6,31,00:06:38,00:06:38,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+140,1114,Fleur Ariaens,Veghel,M0_6,32,00:06:38,00:06:28,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+141,1090,Lone van Boxtel,Veghel,M0_6,33,00:06:44,00:06:35,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+142,1140,Elin Loos,Veghel,M0_6,34,00:07:01,00:06:54,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+143,1052,Joes van Rooij,Veghel,M0_6,35,00:07:22,00:07:19,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+144,1098,Emilie Lammers,Veghel,M0_6,36,00:07:25,00:07:22,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+145,1085,Floris Staring,Veghel,J0_6,30,00:07:27,00:07:18,2e Krollenloop   Veghel   08-11-2015,2015-11-08
+146,1119,Mila Jacobs,Veghel,M0_6,37,00:08:10,00:08:00,2e Krollenloop   Veghel   08-11-2015,2015-11-08

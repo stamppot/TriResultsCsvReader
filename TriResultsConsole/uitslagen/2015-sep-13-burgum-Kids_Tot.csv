@@ -1,0 +1,70 @@
+Plts,StNr,Naam,Woonplaats,Cat,PltsCat,BrutoTijd,NettoTijd,race,date
+1,27,Ruben Talstra,Drachten,M,1,00:08:50,00:08:50,BurgumRun ,2015-09-13
+2,38,Jelle van der Veer,Ede Gld,M,2,00:09:48,00:09:48,BurgumRun ,2015-09-13
+3,35,Gwenda Struiving,Surhuisterveen,V,1,00:10:14,00:10:12,BurgumRun ,2015-09-13
+4,51,Duco Klooster,Wijnjewoude,M,3,00:10:20,00:10:17,BurgumRun ,2015-09-13
+5,44,Floor Kram,IJlst,V,2,00:10:22,00:10:21,BurgumRun ,2015-09-13
+6,30,Stefan de Jonge,Oentsjerk,M,4,00:10:23,00:10:21,BurgumRun ,2015-09-13
+7,41,Jesmer de Graaf,Hurdegaryp,M,5,00:10:40,00:10:38,BurgumRun ,2015-09-13
+8,17,Emma van Wieren,Drachten,V,3,00:10:45,00:10:43,BurgumRun ,2015-09-13
+9,36,Nathalie Boersma,Burgum,V,4,00:10:47,00:10:45,BurgumRun ,2015-09-13
+10,68,Albert Plantinga,Garijp,M,6,00:10:49,00:10:46,BurgumRun ,2015-09-13
+11,54,Niels Boersma,Hurdegaryp,M,7,00:11:12,00:11:10,BurgumRun ,2015-09-13
+12,72,Christian Visbeek,Gytsjerk,M,8,00:11:14,00:11:13,BurgumRun ,2015-09-13
+13,39,Aron Polet,Hurdegaryp,M,9,00:11:17,00:11:14,BurgumRun ,2015-09-13
+14,28,Hannah Talstra,Drachten,V,5,00:11:17,00:11:17,BurgumRun ,2015-09-13
+15,26,Andries Weening,Surhuisterveen,M,10,00:11:21,00:11:21,BurgumRun ,2015-09-13
+16,43,Jelle bosma,Burgum,M,11,00:11:30,00:11:28,BurgumRun ,2015-09-13
+17,31,Mirjam de Jonge,Oentsjerk,V,6,00:11:54,00:11:52,BurgumRun ,2015-09-13
+18,42,Thyme bosma,Burgum,M,12,00:12:07,00:12:05,BurgumRun ,2015-09-13
+19,47,Stella Pultrum,Surhuisterveen,V,7,00:12:24,00:12:22,BurgumRun ,2015-09-13
+20,13,Tessa Kooistra,Eastermar,V,8,00:12:35,00:12:31,BurgumRun ,2015-09-13
+21,40,Siebrand Polet,Hurdegaryp,M,13,00:12:38,00:12:34,BurgumRun ,2015-09-13
+22,59,Johan Postma,Burgum,M,14,00:12:38,00:12:36,BurgumRun ,2015-09-13
+23,71,Martijn Visbeek,Gytsjerk,M,15,00:12:43,00:12:43,BurgumRun ,2015-09-13
+24,6,Sem Schuhmacher,Stiens,M,16,00:12:49,00:12:48,BurgumRun ,2015-09-13
+25,22,Marne van der Kooi,Burgum,M,17,00:12:51,00:12:48,BurgumRun ,2015-09-13
+26,46,Jelke Oege Boers,Oentsjerk,M,18,00:12:56,00:12:54,BurgumRun ,2015-09-13
+27,11,Aline Eelkema,Hantum,V,9,00:12:59,00:12:57,BurgumRun ,2015-09-13
+28,32,Ingrid de Jonge,Oentsjerk,V,10,00:13:00,00:12:58,BurgumRun ,2015-09-13
+29,12,Femke de Boer,Eastermar,V,11,00:13:17,00:13:14,BurgumRun ,2015-09-13
+30,8,Jelle Hogenhout,Akkrum,M,19,00:13:18,00:13:16,BurgumRun ,2015-09-13
+31,3,Elza van der Meulen,Leeuwarden,V,12,00:13:25,00:13:25,BurgumRun ,2015-09-13
+32,2,Iris Bruinenberg,Hurdegaryp,V,13,00:13:25,00:13:23,BurgumRun ,2015-09-13
+33,16,Renske de Boer,Eastermar,V,14,00:13:28,00:13:24,BurgumRun ,2015-09-13
+34,37,Rochelle Boersma,Burgum,V,15,00:13:32,00:13:30,BurgumRun ,2015-09-13
+35,66,Lisca van Gelder,Leeuwarden,V,16,00:13:34,00:13:32,BurgumRun ,2015-09-13
+36,7,Nya Schuhmacher,Stiens,V,17,00:13:34,00:13:34,BurgumRun ,2015-09-13
+37,29,Minke de Ruiter,De Westereen,V,18,00:13:41,00:13:40,BurgumRun ,2015-09-13
+38,50,Trinette schevel,Burgum,V,19,00:13:43,00:13:41,BurgumRun ,2015-09-13
+39,15,Nynke de Vries,Suwald,V,20,00:13:44,00:13:42,BurgumRun ,2015-09-13
+40,58,Joran van der Wal,Burgum,M,20,00:13:46,00:13:45,BurgumRun ,2015-09-13
+41,52,Fleur de Vries,Drachten,V,21,00:13:51,00:13:49,BurgumRun ,2015-09-13
+42,14,Justine van der Veen,Eastermar,V,22,00:13:57,00:13:54,BurgumRun ,2015-09-13
+43,70,Brecht Planting,Garijp,V,23,00:14:02,00:13:59,BurgumRun ,2015-09-13
+44,33,Marille Schievink,Burgum,V,24,00:14:03,00:14:00,BurgumRun ,2015-09-13
+45,1,Remco Bruinenberg,Hurdegaryp,M,21,00:14:04,00:14:01,BurgumRun ,2015-09-13
+46,19,Yuen Terpstra,Gytsjerk,V,25,00:14:08,00:14:05,BurgumRun ,2015-09-13
+47,48,Lisanne van der Haag,Suwald,V,26,00:14:15,00:14:12,BurgumRun ,2015-09-13
+48,45,Dirma Polet,Hurdegaryp,V,27,00:14:55,00:14:53,BurgumRun ,2015-09-13
+49,67,Dione van Gelder,Leeuwarden,V,28,00:14:58,00:14:55,BurgumRun ,2015-09-13
+50,57,Martin v.d. Wal,Burgum,M,22,00:15:29,00:15:28,BurgumRun ,2015-09-13
+51,65,Ilsa Poelstra,Noordbergum,V,29,00:15:36,00:15:31,BurgumRun ,2015-09-13
+52,49,Michelle Rieke,Burgum,V,30,00:15:41,00:15:38,BurgumRun ,2015-09-13
+53,34,Rixt Offringa,Burgum,V,31,00:15:42,00:15:39,BurgumRun ,2015-09-13
+54,18,Lieon Terpstra,Gytsjerk,M,23,00:15:49,00:15:45,BurgumRun ,2015-09-13
+55,9,Marrit Hogenhout,Akkrum,V,32,00:16:19,00:16:16,BurgumRun ,2015-09-13
+56,56,Nynke van der Meulen,Garyp,V,33,00:16:19,00:16:17,BurgumRun ,2015-09-13
+57,55,Marit van de Meulen,Garyp,V,34,00:16:25,00:16:22,BurgumRun ,2015-09-13
+58,5,Jasper Veldman,Stiens,M,24,00:16:34,00:16:32,BurgumRun ,2015-09-13
+59,69,Gerk Jan Bosma,Garyp,M,25,00:16:54,00:16:51,BurgumRun ,2015-09-13
+60,21,Anne-Fleur van Assen,Drachten,V,35,00:17:15,00:17:11,BurgumRun ,2015-09-13
+61,10,Antoinette van der Pol,Stiens,V,36,00:17:16,00:17:14,BurgumRun ,2015-09-13
+62,23,Wytse-Jan van der Kooi,Burgum,M,26,00:17:17,00:17:14,BurgumRun ,2015-09-13
+63,62,Yoran van der Vlist,Leeuwarden,M,27,00:17:42,00:17:38,BurgumRun ,2015-09-13
+64,61,Ninthe Scholten,Leeuwarden,V,37,00:17:56,00:17:52,BurgumRun ,2015-09-13
+65,20,Troy Dijkstra,Gorredijk,M,28,00:18:14,00:18:11,BurgumRun ,2015-09-13
+66,53,Eric Breukers,Hurdegaryp,M,29,00:18:22,00:18:19,BurgumRun ,2015-09-13
+67,63,Irene Breukers,Hurdegaryp,V,38,00:19:03,00:19:00,BurgumRun ,2015-09-13
+68,60,Jesse Postma,Burgum,M,30,00:19:12,00:19:12,BurgumRun ,2015-09-13
+69,64,Roan Poelstra,Noardburgum,M,31,00:19:39,00:19:34,BurgumRun ,2015-09-13
