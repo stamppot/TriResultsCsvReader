@@ -52,6 +52,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="uitslagen\2014-aug-10-Nordseeman-2014.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2014-jun-15-Speedman-Groningen-achtste.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -80,9 +83,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2015-aug-1-vinkeveen-Combi_TotV.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2015-aug-1-vinkeveen-Loop_Tot - Copy.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2015-aug-1-vinkeveen-Loop_Tot.csv">
@@ -470,6 +470,10 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2016-07-31-IronmanMaastricht_2016.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2016-sep-03-Zwem2mijl.csv" />
+    <None Include="uitslagen\2017-aug-13-Nordseeman-2017.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-aug-06-IronmanMaastricht_2017.csv">
@@ -1724,6 +1728,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-aug-20-IronmanCopenhagen_2017.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2017-sep-02-Zwem2mijl.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2017-sep-24-Monstertijdrit_2017.csv">

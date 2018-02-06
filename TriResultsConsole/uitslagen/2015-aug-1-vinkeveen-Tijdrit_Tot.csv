@@ -1,549 +1,549 @@
 Plts,StartNr,Naam,Woonplaats,Cat,PltsCat,TotaalTijd,race,date
-1,56,"Schroder, Erik",GRONINGEN,M,1,00:39:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-2,1,"Reijnders, Jeffrey",SITTARD,M,2,00:40:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-3,72,"Wachter, Jonas de",WILLEBROEK,M,3,00:41:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-4,21,"Heijsteeg, Davy",AALSMEER,M,4,00:42:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-5,7,"Schelvis, Alex",NOORDWIJK,M,5,00:42:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-6,3,"Bohm, Vincent",VEENENDAAL,M,6,00:42:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-7,4,"Barel, Rob",OVERBERG,M,7,00:42:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-8,2,"Veltman, Sjoerd",EDE,M,8,00:42:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-9,52,"Oag, Bobby",ORKNEY,M,9,00:43:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-10,74,"Dewilde, Michael",EEKLO,M,10,00:43:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-11,19,"Vliet, Bjorn van",HEINENOORD,M,11,00:43:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-12,6,"Dingenen, Sam van",RUMST,M,12,00:43:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-13,81,"Huitema, Elianne",ZWARTSLUIS,V,1,00:44:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-14,11,"Hutten, Jeroen",UTRECHT,M,13,00:44:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-15,12,"Oldeman, Ferdinand",VOORBURG,M,14,00:44:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-16,37,"Binsbergen, Hanno van",VEENENDAAL,M,15,00:45:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-17,49,"Steenkamp, Vernon",AMSTERDAM,M,16,00:45:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-18,54,"Heteren, Frans van",AALSMEER,M,17,00:45:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-19,8,"Koolhaas, Johan",AMSTELVEEN,M,18,00:45:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-20,82,"Brusse, Cindy",AALTEN,V,2,00:46:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-21,16,"Heteren, Jan van",AALSMEER,M,19,00:46:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-22,109,"Zijgers, Rina",APELDOORN,V,3,00:46:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-23,27,"Gang, Niels de",HOFSTADE,M,20,00:47:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-24,73,"Molkens, Steven",RUMST,M,21,00:47:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-25,169,"Alberts, Bart",NIJMEGEN,M,22,00:47:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-26,622,"Kleinjans, Lennart",BENNEKOM,M,23,00:47:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-27,15,"Peters, Micha",VINKEVEEN,M,24,00:47:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-28,62,"Schip, Jeffrey van 't",MIJDRECHT,M,25,00:47:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-29,28,"Gang, Jochen de",HOFSTADE,M,26,00:47:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-30,473,"Meuffels, Fiona",ECHT,V,4,00:47:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-31,17,"Boer, Jelle de (Bo ter Ham)",ZAANDAM,M,27,00:48:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-32,132,"Posthumus, Wibo",UTRECHT,M,28,00:48:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-33,83,"Heijnen, Germijn",UTRECHT,V,5,00:48:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-34,600,"Fangmann, Annika",DE HOEF,V,6,00:48:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-35,18,"Nieuwenhuys, Sander",MAARSSEN,M,29,00:48:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-36,138,"Smiers, Coen",UTRECHT,M,30,00:48:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-37,13,"Oosterbaan, Sjoerd",ASSENDELFT,M,31,00:48:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-38,25,"Mosch, Marten",KROMMENIE,M,32,00:48:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-39,91,"Meynen, Ninke",MECHELEN,V,7,00:48:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-40,26,"Edelman, Ruud",BODEGRAVEN,M,33,00:48:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-41,153,"Duren, Ruben van",HILVERSUM,M,34,00:48:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-42,601,"Wal, Bart van der",ZEIST,M,35,00:49:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-43,40,"Meijer, Jorrit",UTRECHT,M,36,00:49:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-44,22,"Besseling, Michel",AMERSFOORT,M,37,00:49:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-45,32,"Duits, Sven",HOLKERWEG,M,38,00:49:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-46,161,"Zinger, Jeroen de",BAARN,M,39,00:49:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-47,87,"Casteleijn, Jorieke",AMERSFOORT,V,8,00:49:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-48,71,"Breedam, Jonas van",MECHELEN,M,40,00:49:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-49,238,"Wilke, Olav",LELYSTAD,M,41,00:49:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-50,119,"Meijden, Heleen van der",HERWIJNEN,V,9,00:49:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-51,24,"Brink, Arthur van den",ELST (GELDERLAND),M,42,00:49:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-52,131,"Danckaarts, Roy",MAARSSEN,M,43,00:49:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-53,121,"Kamminga, Sam",GRONINGEN,M,44,00:49:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-54,64,"Schmidt, Allard",AMERSFOORT,M,45,00:49:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-55,120,"Wolbers, Marco",HARDERWIJK,M,46,00:49:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-56,94,"Molkens, Stephanie",RUMST,V,10,00:49:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-57,200,"Leersum, Karin van",ENSCHEDE,V,11,00:49:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-58,130,"Obst, Tommy",HILVERSUM,M,47,00:49:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-59,88,"Plaatzer, Heleen",NIJMEGEN,V,12,00:49:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-60,335,"Berge, Hanneke van den",VEENENDAAL,V,13,00:50:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-61,92,"Kleinveld, Helen",DEN HAAG,V,14,00:50:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-62,84,"Nieberg, Marloes",UTRECHT,V,15,00:50:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-63,44,"Kooman, Ingmar",LEIDERDORP,M,48,00:50:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-64,77,"Franken, Simon",AERDENHOUT,M,49,00:50:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-65,157,"Tongeren, Jorg van",ANKEVEEN,M,50,00:50:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-66,627,"Fortuin, Pim",MAASSLUIS,M,51,00:51:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-67,296,"Heijsteeg, John",AALSMEER,M,52,00:51:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-68,125,"Zwan, Bert van der",APELDOORN,M,53,00:51:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-69,158,"Meier, Martijn",APPINGEDAM,M,54,00:51:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-70,522,"Bijlard, Douwe",ZAANDAM,M,55,00:51:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-71,117,"Verbakel, Mandy",WOERDEN,V,16,00:51:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-72,31,"Ravenzwaaij, Rene van",AMSTERDAM,M,56,00:51:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-73,403,"Groeneveld, Charlotte",UTRECHT,V,17,00:51:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-74,115,"Stellaard, Anne",UTRECHT,V,18,00:51:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-75,149,"Miltenburg, Rene",UTRECHT,M,57,00:51:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-76,5,"El Yousfi, Yassin",AARTSELAAR,M,58,00:51:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-77,209,"Slot, Ruben",DALFSEN,M,59,00:51:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-78,61,"Flikweert, Jaap","TITCHMARSH, GROOT BRITTANNIE",M,60,00:51:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-79,23,"Coevert, Erik",LAMBERTSCHAAG,M,61,00:52:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-80,101,"Meynen, Shari",MECHELEN,V,19,00:52:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-81,129,"Wallet, Bert",AMERSFOORT,M,62,00:52:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-82,413,"Kruk, Judith van der",DEN HAAG,V,20,00:52:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-83,67,"Schram, Mark",AMSTERDAM,M,63,00:52:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-84,156,"Jansen, Mark",PUTTERSHOEK,M,64,00:52:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-85,30,"Snel, Maarten",KORTENHOEF,M,65,00:52:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-86,297,"Flietstra, Peter",AMSTERDAM,M,66,00:52:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-87,118,"Verdam, Hedda",GOES,V,21,00:52:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-88,210,"Uem, Arjan van",ENSCHEDE,M,67,00:52:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-89,143,"Hijstek, Jeroen",NIEUW VENNEP,M,68,00:52:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-90,141,"Bult, Theo",WAGENINGEN,M,69,00:52:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-91,111,"Prins, Henrieke",AMERSFOORT,V,22,00:52:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-92,96,"Schuurkamp, Brenda",DEN HAAG,V,23,00:52:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-93,478,"Wolbers, Michiel",UTRECHT,M,70,00:52:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-94,202,"Hanse, Abel",ENSCHEDE,M,71,00:53:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-95,86,"Schmidt, Anne",UTRECHT,V,24,00:53:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-96,410,"Eitelberg, David",AMSTERDAM,M,72,00:53:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-97,163,"Klijn, Henri",DRUNEN,M,73,00:53:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-98,166,"Hirtum, Michel van",ENSCHEDE,M,74,00:53:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-99,582,"Koemans, Tom",NIJMEGEN,M,75,00:53:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-100,159,"Heinis, Mark",ASSENDELFT,M,76,00:53:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-101,579,"Krol, Cas",OEGSTGEEST,M,77,00:53:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-102,281,"Berkhof, Tom van der",NIEUWEGEIN,M,78,00:53:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-103,104,"Meindertsma, Welmoed",HALLE,V,25,00:53:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-104,47,"Kamp, Ruud",ZEIST,M,79,00:53:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-105,388,"Eisse, Jan",ZWOLLE,M,80,00:53:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-106,167,"Freriks, Peter",HOOFDDORP,M,81,00:53:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-107,211,"Baumgardt, Alex",DUITSLAND,M,82,00:53:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-108,175,"Montfoort, Gertjan van",UTRECHT,M,83,00:53:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-109,362,"Kramer, Peter",HOUTEN,M,84,00:53:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-110,179,"Schaefers, Francis",ZETTEN,M,85,00:53:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-111,548,"Boer, Michel",SASSENHEIM,M,86,00:53:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-112,496,"Breukelen, Job van",NAARDEN,M,87,00:53:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-113,126,"Meulem, Robbert van",OOSTWOUD,M,88,00:53:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-114,99,"Burgt, Julia van der",UTRECHT,V,26,00:53:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-115,69,"Docquir, Elias",KAMPENHOUT,M,89,00:54:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-116,122,"Spek, Klaas-Jan",ZALTBOMMEL,M,90,00:54:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-117,147,"Veen, Roland van",UTRECHT,M,91,00:54:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-118,191,"Meier, Ronald",GRONINGEN,M,92,00:54:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-119,369,"Hagen, Alida",EDE,V,27,00:54:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-120,345,"Schrauwers, Mark",VEENENDAAL,M,93,00:54:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-121,135,"Daems, Erik",MECHELEN,M,94,00:54:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-122,102,"Stoelhorst, Anne",RENKUM,V,28,00:54:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-123,128,"Borst, Martijn",ALMERE-HAVEN,M,95,00:54:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-124,586,"Gool, Zoe",NOORDWIJK,V,29,00:54:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-125,50,"Jongh, Gerben de",MEERKERK,M,96,00:54:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-126,68,"Knelange, Carl",UTRECHT,M,97,00:54:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-127,540,"Raad, Jaap de",HAARLEM,M,98,00:54:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-128,544,"Kremers, Rianne",GORINCHEM,V,30,00:54:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-129,174,"Mellema, Aaldert",UTRECHT,M,99,00:55:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-130,416,"Groot, Jannes de",VEENENDAAL,M,100,00:55:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-131,534,"Nys, Jana",ZUTENDAAL,V,31,00:55:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-132,154,"Alphen, Belinda van",ALPHEN AAN DEN RIJN,V,32,00:55:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-133,85,"Zwet, Marinka van der",UTRECHT,V,33,00:55:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-134,39,"Rippens, Michael",ZWAAG,M,101,00:55:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-135,108,"Hoor, Alinda ten",FOCHTELOO,V,34,00:55:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-136,20,"Veen, Maarten van der",UTRECHT,M,102,00:55:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-137,575,"Veen, Jelle van der",LEIDERDORP,M,103,00:55:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-138,310,"Kort, Kajan",UTRECHT,M,104,00:55:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-139,164,"Haar, Peter van de",EDE,M,105,00:55:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-140,452,"Zijl, Niek van",ROTTERDAM,M,106,00:55:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-141,480,"Schwab, Silvia",BLARICUM,V,35,00:55:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-142,387,"Weerd, Johan van de",VEENENDAAL,M,107,00:55:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-143,607,"Rijk, Wouter de",VEENENDAAL,M,108,00:55:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-144,155,"Plaatzer, Mieke",DEN HAAG,V,36,00:55:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-145,145,"Hoff, Michiel",KROMMENIE,M,109,00:55:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-146,356,"Nieborg, G.H.",VEENENDAAL,M,110,00:55:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-147,114,"Politiek, Klaziena",GRONINGEN,V,37,00:56:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-148,511,"Heinis, Anne",ZAANDAM,V,38,00:56:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-149,516,"Zanten, Philip van",ZALTBOMMEL,M,111,00:56:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-150,228,"Walsem, Louis",UTRECHT,M,112,00:56:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-151,477,"Keyser, Robin de",HEVER,V,39,00:56:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-152,274,"Broek, Joost van den",UTRECHT,M,113,00:56:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-153,318,"Roemburg, Erwin van",LOENEN AAN DE VECHT,M,114,00:56:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-154,261,"Freytag, Sarah",UTRECHT,V,40,00:56:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-155,595,"Zaal, Ralf",VINKEVEEN,M,115,00:56:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-156,142,"Davelaar, Marco",VEENENDAAL,M,116,00:56:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-157,95,"Geerlings, Esther",LEIDEN,V,41,00:56:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-158,404,"Evers, Adrienne",AMERSFOORT,V,42,00:56:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-159,134,"Raymaekers, Peter",MECHELEN,M,117,00:56:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-160,176,"Peters, Mickey",VINKEVEEN,M,118,00:56:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-161,165,"Lohuis, Jasper",ENSCHEDE,M,119,00:56:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-162,272,"Pots, Jessica",UTRECHT,V,43,00:56:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-163,351,"Hartman, Jakob",VEENENDAAL,M,120,00:56:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-164,170,"Quist, Pim",DEN HAAG,M,121,00:56:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-165,539,"Laan, Wander van der",NIEUW VENNEP,M,122,00:56:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-166,581,"Dam, Wendy van",NIEUWKOOP,V,44,00:56:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-167,246,"Schmitz, Lieke",UTRECHT,V,45,00:56:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-168,562,"Kikstra, Nadieh",LEEUWARDEN,V,46,00:56:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-169,33,"Rooijen, Joost van",HUIZEN,M,123,00:57:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-170,546,"Donk, Denise van der",GROENLO,V,47,00:57:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-171,593,"Verlaan, Coen",VINKEVEEN,M,124,00:57:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-172,218,"Gelderblom, Marcel",EEMNES,M,125,00:57:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-173,610,"Boer, Freek de",NIEUW-VENNEP,M,126,00:57:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-174,611,"Jongkind, Ruben",VOLENDAM,M,127,00:57:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-175,162,"Gool, Bas van",DORDRECHT,M,128,00:57:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-176,123,"Noort, Eelco",KERKWIJK,M,129,00:57:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-177,559,"Lubbinge, Jorn",LEEUWARDEN,M,130,00:57:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-178,451,"Lieshout, Moniek van",DEN HAAG,V,48,00:57:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-179,229,"Bezooijen, Julius van",ALMERE,M,131,00:57:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-180,223,"Perdon, Ron",UTRECHT,M,132,00:57:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-181,184,"Tersteeg, John",DOORN,M,133,00:57:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-182,270,"Hooijdonk, Ralph van",NIEUWEGEIN,M,134,00:57:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-183,484,"Merckx, Joachim",HAACHT,M,135,00:57:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-184,561,"Chisholm, Jamie",LEIDEN,M,136,00:57:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-185,367,"Hirschberg, Camiel",TILBURG,M,137,00:57:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-186,396,"Zumberink, Michiel",WOUDENBERG,M,138,00:57:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-187,445,"Bennekom, Jan van",HEINENOORD,M,139,00:57:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-188,588,"Roovers, Marit",NULAND,V,49,00:57:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-189,514,"Posthumus, Jan",DIEMEN,M,140,00:57:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-190,257,"Nuland, Bob van",UTRECHT,M,141,00:57:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-191,206,"Slot, Paul",DALFSEN,M,142,00:57:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-192,556,"Lubbers, Anneke",LEEUWARDEN,V,50,00:57:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-193,177,"Velde, Robert van de",WASSENAAR,M,143,00:57:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-194,151,"Oort, Hans van",UTRECHT,M,144,00:58:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-195,168,"Vos, Erik de",KROMMENIE,M,145,00:58:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-196,221,"Bruns, Ivo",BAAMBRUGGE,M,146,00:58:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-197,305,"Beerda, Jurrien",WOERDEN,M,147,00:58:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-198,42,"Treskes, Roderick",LEIDEN,M,148,00:58:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-199,243,"Soudant, Xander",DE MEERN,M,149,00:58:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-200,150,"Rietveld, Youri",UTRECHT,M,150,00:58:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-201,133,"Raymaekers, Sofie",MECHELEN,V,51,00:58:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-202,609,"Schoffelen, Titus",DRIEBERGEN,M,151,00:58:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-203,278,"Kollenburg, Mieke van",UTRECHT,V,52,00:58:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-204,106,"Stiphout, Thirza",VEENENDAAL,V,53,00:58:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-205,398,"Vlek, Bas",AMSTELVEEN,M,152,00:58:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-206,279,"Lint, Annelore van der",AMSTERDAM,V,54,00:58:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-207,180,"Miltenburg, Theo",ENSCHEDE,M,153,00:58:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-208,136,"Noorlander, Robert",DEN HAAG,M,154,00:58:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-209,241,"Nagel, Bart Willem",LELYSTAD,M,155,00:58:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-210,103,"Mulder, Cora",OVERBERG,V,55,00:58:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-211,328,"Aalten, Frank",SOEST,M,156,00:58:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-212,194,"Scheffers, Rob",ARNHEM,M,157,00:58:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-213,222,"Oosterbroek, Ida",MIJDRECHT,V,56,00:58:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-214,204,"Kooten, Janine van",ANKEVEEN,V,57,00:58:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-215,433,"Smit, Oscar de",ALPHEN AAN DEN RIJN,M,158,00:58:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-216,406,"Heymann, Sanne",VEENENDAAL,V,58,00:58:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-217,301,"Bodinckhuijsen, Henri van",AMSTERDAM,M,159,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-218,181,"Schootemeijer, Frank", ,M,160,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-219,472,"Kiffen, Conny",MEGEN,V,59,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-220,187,"Adams, Yvette",POORTUGAAL,V,60,00:59:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-221,189,"Hobbelt, Anne",GRONINGEN,V,61,00:59:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-222,615,"Vos, Roeland",UTRECHT,M,161,00:59:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-223,265,"Klinkien, Danny",NIEUWEGEIN,M,162,00:59:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-224,589,"Wijk, Stefan van",VINKEVEEN,M,163,00:59:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-225,266,"Weduwe, Kees der",COTHEN,M,164,00:59:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-226,244,"Vries, Ecoo de",MAARSSEN,M,165,00:59:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-227,57,"Knevelbaard, Martijn",GRONINGEN,M,166,00:59:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-228,481,"Eenoo, Peter van",ONZE-LIEVE-VROUW-WAVER,M,167,00:59:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-229,411,"Lodewijk, Niels",DEN HAAG,M,168,00:59:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-230,434,"Speksnijder, Carina",STOLWIJK,V,62,00:59:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-231,190,"Spengen, Joyce van",ABCOUDE,V,63,00:59:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-232,447,"Veen, Annet van der",LEKKERKERK,V,64,00:59:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-233,572,"Spijker, Janneke van",LEIDERDORP,V,65,00:59:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-234,172,"Klein, Maarten",ROELOFARENDSVEEN,M,169,00:59:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-235,124,"Andringa, Wouter",ENSCHEDE,M,170,00:59:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-236,467,"Vliet, Theo van",MAASLAND,M,171,00:59:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-237,330,"Beving, Tom",AMSTERDAM,M,172,00:59:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-238,205,"Hanse, Izak",ENSCHEDE,M,173,00:59:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-239,536,"Jaring, Claudia",ZAANDAM,V,66,00:59:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-240,395,"Bulsink, Martijn",ELST,M,174,00:59:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-241,498,"Weerdt, Andr de",ONZE-LIEVE-VROUW WAVER,M,175,00:59:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-242,553,"Hanse, Joris",LEIDEN,M,176,00:59:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-243,236,"Kuiter, Maarten",ALMERE,M,177,00:59:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-244,70,"Tijssen, Jean",ARNHEM,M,178,00:59:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-245,239,"Westerlaken, Gerben",ALMKERK,M,179,00:59:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-246,152,"Stapelkamp, Michiel",UTRECHT,M,180,00:59:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-247,255,"Kraan-Lakeman, Simone",BOVENKARSPEL,V,67,01:00:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-248,590,"Veen, Olaf van",VINKEVEEN,M,181,01:00:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-249,277,"Berga, Chantal",UTRECHT,V,68,01:00:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-250,217,"Jacobs-Minneboo, Jolie",APELDOORN,V,69,01:00:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-251,462,"Kok, Nancy de",MAASLAND,V,70,01:00:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-252,245,"Hillen, Bart",BARENDRECHT,M,182,01:00:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-253,242,"Nagel, Linda",LELYSTAD,V,71,01:00:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-254,361,"Lodder, Tatiana",UTRECHT,V,72,01:00:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-255,475,"Veldhoen, Ron",MAASLAND,M,183,01:00:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-256,45,"Haasteren, Jeffrey van",SPIJKENISSE,M,184,01:00:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-257,350,"Baak, Vincent",HILLEGOM,M,185,01:00:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-258,453,"Bloemendaal, Erik",DEN HAAG,M,186,01:00:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-259,407,"Marrewijk, John van",DE LIER,M,187,01:00:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-260,465,"Schoonhoven, Mark",ROTTERDAM,M,188,01:00:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-261,258,"Curtis, Julian",AMSTERDAM,M,189,01:00:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-262,137,"Noorlander, Bas",OEGSTGEEST,M,190,01:00:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-263,29,"Haastrecht, Dirk van",UTRECHT,M,191,01:00:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-264,256,"Spuij, Rob",NIEUWEGEIN,M,192,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-265,254,"Timmermans, Ruud",ARNHEM,M,193,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-266,307,"Bijl, Robert",HILVERSUM,M,194,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-267,192,"Hendriks, Cindy",VELP,V,73,01:01:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-268,512,"Slagmolen, Pieter",KESSEL-LO,M,195,01:01:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-269,197,"Ekris, Evi van",BENNEKOM,V,74,01:01:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-270,461,"Haak, Richard vd",LISSE,M,196,01:01:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-271,520,"Koning, Edwin de",MIJDRECHT,M,197,01:01:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-272,464,"Szydlo, Joanna",LISSE,V,75,01:01:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-273,380,"Heije, Bernhard",EDE,M,198,01:01:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-274,312,"Moes, Sipke",AMSTERDAM,M,199,01:01:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-275,463,"Arnold, Eric",ROTTERDAM,M,200,01:01:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-276,443,"Merwe, Jolanda van de",PUTTERSHOEK,V,76,01:01:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-277,338,"Shirbaz, Kamal",WEESP,M,201,01:01:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-278,571,"Spijker, Henk van",LEIDERDORP,M,202,01:01:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-279,273,"Stelt, Onno van der",AMSTERDAM,M,203,01:01:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-280,140,"Helsper, Lieke",DE BILT,V,77,01:01:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-281,384,"Vrosch, Rene",EDE,M,204,01:01:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-282,368,"Stam, Maarten Jan",WIJK BIJ DUURSTEDE,M,205,01:01:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-283,282,"Veenendaal, Elmer van",NIEUWEGEIN,M,206,01:01:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-284,390,"Bogaard, Rick",LEERDAM,M,207,01:01:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-285,370,"Brouwer, Coos",WILNIS,M,208,01:01:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-286,260,"Horst, Tim van der",COTHEN,M,209,01:01:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-287,148,"Lammerts van Bueren, Ben",UTRECHT,M,210,01:01:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-288,98,"Eckhardt, Petra",AMERSFOORT,V,78,01:01:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-289,251,"Reintjes, Jochem",NIEUWEGEIN,M,211,01:01:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-290,379,"Zanten, Gert van",VEENENDAAL,M,212,01:01:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-291,354,"Sabel, Pieter",AMSTERDAM,M,213,01:01:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-292,486,"Meynen, Jef",MECHELEN,M,214,01:01:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-293,459,"Biesma, Sander",UTRECHT,M,215,01:01:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-294,440,"Jacquot, Ton",EINDHOVEN,M,216,01:01:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-295,233,"Oudejans, Ans",SANTPOORT-NOORD,V,79,01:01:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-296,554,"Lubbers, Frank",LEEUWARDEN,M,217,01:01:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-297,542,"Schreuders, jannes",HAARLEM,M,218,01:01:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-298,598,"Brugman, Jelmer",VIANEN,M,219,01:02:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-299,375,"Jagers, Daan",HOOFDDORP,M,220,01:02:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-300,247,"Lent, Hans van",AMSTERDAM,M,221,01:02:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-301,198,"Schaap, Bettine",GRONINGEN,V,80,01:02:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-302,320,"Mooy, Matthijs",UTRECHT,M,222,01:02:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-303,304,"Mulder, Nikki",AMSTERDAM,V,81,01:02:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-304,517,"Vanheers, Brecht",BERINGEN,M,223,01:02:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-305,584,"Klein, Marloes",ROELOFARENDSVEEN,V,82,01:02:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-306,337,"Doorn, Helma van",VEENENDAAL,V,83,01:02:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-307,38,"Oprins, Adriaan",UTRECHT,M,224,01:02:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-308,66,"Andrews, Conor",AMSTERDAM,M,225,01:02:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-309,352,"Go, Jennifer",WEESP / WOERDEN,V,84,01:02:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-310,386,"Boersma, Erik",UTRECHT,M,226,01:02:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-311,503,"Blancquaert, Thomas",DENDERMONDE,M,227,01:02:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-312,346,"Laan, Joep van der",WEESP,M,228,01:02:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-313,409,"Loois, Gwendolyn",UTRECHT,V,85,01:02:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-314,342,"Haar, Jolanda van de",VEENENDAAL,V,86,01:02:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-315,264,"Rouw, Maaike",DE MEERN,V,87,01:02:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-316,482,"Vercauteren, Rik",MUIZEN,M,229,01:02:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-317,295,"Graaf, Robert de",WOERDEN,M,230,01:02:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-318,286,"Steen, Mathieu",AMSTERDAM,M,231,01:02:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-319,237,"Eilers, Renske",AMERSFOORT,V,88,01:02:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-320,53,"Hoogland, Daan",UTRECHT,M,232,01:02:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-321,424,"Cok, Leo",ZEGVELD,M,233,01:02:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-322,425,"Westdijk, Dennis",ALPHEN AAN DEN RIJN,M,234,01:02:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-323,196,"Spoelder, Lisette",ABCOUDE,V,89,01:02:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-324,127,"Verbree, Bas",VINKEVEEN,M,235,01:03:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-325,60,"Polman, Rob",EINDHOVEN,M,236,01:03:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-326,348,"Prins, Marleen",HOOFDDORP,V,90,01:03:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-327,199,"Verbree, Wouter",ABCOUDE,M,237,01:03:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-328,43,"Berg, Ron van den",MAASSLUIS,M,238,01:03:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-329,401,"Vermeer-van Hunen, Cora",VEENENDAAL,V,91,01:03:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-330,271,"Rossen, Yvette van",AMSTERDAM,V,92,01:03:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-331,576,"Zwart, W van der",LEIDERDORP,V,93,01:03:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-332,112,"Schaik, Lonneke van",HAARLEM,V,94,01:03:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-333,315,"Cornelissen, Tim",AMSTERDAM,M,239,01:03:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-334,235,"Woude, Caja van der",UTRECHT,V,95,01:03:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-335,314,"Kraal, Antoinette",AMSTERDAM,V,96,01:03:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-336,552,"Bos, Jan Jacob",WOUDENBERG,M,240,01:03:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-337,497,"Slagmolen, Jan",SINT-KATELIJNE-WAVER,M,241,01:03:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-338,564,"Harmsma, Jeltsje",LEEUWARDEN,V,97,01:03:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-339,537,"Muller, Patrick",NAARDEN,M,242,01:03:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-340,400,"Verlaat, Selfa",CASTRICUM,V,98,01:03:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-341,422,"Harms, Suus",UTRECHT,V,99,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-342,113,"Zilverentant, Jacoline",BILTHOVEN,V,100,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-343,474,"Stam, Thijs",UTRECHT,M,243,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-344,252,"Klaassen, Marielle",UTRECHT,V,101,01:03:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-345,491,"Derycke, Ludovic",MECHELEN,M,244,01:03:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-346,597,"Bruin, Marjan de",UITHOORN,V,102,01:03:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-347,550,"Lubbers, Luuk",LEIDEN,M,245,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-348,383,"Boersma, Carolien",UTRECHT,V,103,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-349,248,"Veek, Jeanine van der",BARNEVELD,V,104,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-350,567,"Carlotti, Francoise",LEIDEN,V,105,01:03:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-351,249,"Seijsener, Annemieke",LEIDEN,V,106,01:03:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-352,319,"Vermeulen, Maite",AMSTERDAM,V,107,01:03:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-353,308,"Seebus, Erik",RENKUM,M,246,01:03:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-354,532,"Wittevrongel, Ine",DIEST,V,108,01:03:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-355,294,"Zalen, Hans van",AMSTERDAM,M,247,01:03:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-356,613,"Rijling, Carla",LEIDEN,V,109,01:04:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-357,207,"Telgen, Ineke",APELDOORN,V,110,01:04:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-358,397,"Schievink, Harry",VEENENDAAL,M,248,01:04:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-359,280,"Jong, Wim de",ABCOUDE,M,249,01:04:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-360,227,"Voorhout, Marloes",HARMELEN,V,111,01:04:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-361,363,"Vleems, Hermien",RHENEN,V,112,01:04:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-362,283,"Koers, Willeke",UTRECHT,V,113,01:04:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-363,303,"Bergers, Martijn",ASSENDELFT,M,250,01:04:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-364,469,"Helmond, Petra",UTRECHT,V,114,01:04:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-365,415,"Duijvenbode, Eelco van",RIDDERKERK,M,251,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-366,417,"Jamard, Karine",RIDDERKERK,V,115,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-367,355,"Bou Chamach, Jamila",HOORN,V,116,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-368,525,"Declercq, Koen",LICHTERVELDE (BELGIE),M,252,01:04:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-369,612,"Blommendaal, Bas",WOERDEN,M,253,01:04:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-370,530,"Ebing, Matth",OOSTERBEEK,M,254,01:05:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-371,41,"Veenstra, Bertus",NIEUW VENNEP,M,255,01:05:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-372,583,"Pieters, Goke",NIJMEGEN,V,117,01:05:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-373,234,"Aarsman, Bror",ALMERE,M,256,01:05:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-374,203,"Pepping, Ruben",ABCOUDE,M,257,01:05:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-375,287,"Ekris, Steven van",WOERDEN,M,258,01:05:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-376,292,"Brak, Hilda",ZEGVELD,V,118,01:05:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-377,505,"Radaelli, Marianela",BAARN,V,119,01:05:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-378,311,"Elverding, Anja",KEIJENBORG,V,120,01:05:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-379,527,"Velde, Annemiek van der",UTRECHT,V,121,01:05:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-380,515,"Stichele, Stijn vander",MECHELEN,M,259,01:05:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-381,449,"Heinsbroek, Hillie",VLAARDINGEN,V,122,01:05:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-382,339,"Tijssens, Manja",AMSTERDAM,V,123,01:05:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-383,421,"Becker, Katinka",AMERSFOORT,V,124,01:06:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-384,267,"Bois, Rutger de",NIEUWEGEIN,M,260,01:06:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-385,293,"Hardeman, Robert",AALSMEER,M,261,01:06:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-386,332,"Hoogenboom, Loes",ROELOFARENDSVEEN,V,125,01:06:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-387,545,"Veenendaal, Almer",HAARLEM,M,262,01:06:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-388,563,"Groen, Floremce de",LEIDEN,V,126,01:06:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-389,570,"Verkade, Rene",MAASSLUIS,M,263,01:06:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-390,499,"Merckx, Sebastiaan",HAACHT,M,264,01:06:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-391,289,"Zelderen, Teus van",WOERDEN,M,265,01:06:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-392,587,"Piersma, Femke",UTRECHT,V,127,01:06:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-393,426,"Maita, Cesar",AMERSFOORT,M,266,01:06:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-394,275,"Timmermans, Mette",AMSTERDAM,V,128,01:06:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-395,521,"Claerhout, Helena",MECHELEN,V,129,01:06:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-396,429,"Veerman, Laura",UTRECHT,V,130,01:06:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-397,423,"Crielaard, Jack",VEENENDAAL,M,267,01:06:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-398,557,"Vennik, Jannie",TJALLEBERD,V,131,01:06:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-399,524,"Kiffen, Esmee-Carlijn",MEGEN,V,132,01:06:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-400,186,"Beer, Denise de",DOORN,V,133,01:06:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-401,391,"Raad, Henk de",HOOFDDORP,M,268,01:06:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-402,183,"Baas, Stefan",AALTEN,M,269,01:06:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-403,225,"Vos, Frida",UTRECHT,V,134,01:07:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-404,226,"Hoef, Carolien van de",VLEUTEN,V,135,01:07:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-405,285,"Laan, Claudia van der",WOERDEN,V,136,01:07:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-406,569,"Berg, Piet",LEIDERDORP,M,270,01:07:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-407,470,"Dreu, Dies de",UTRECHT,M,271,01:07:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-408,377,"Lauffer, Peter",WILNIS,V,137,01:07:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-409,420,"Cameron, Colin",AMSTERDAM,M,272,01:07:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-410,240,"Gribnau, Olav",HEUKELUM,M,273,01:07:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-411,430,"Brinkbaumer, Mario",AMERSFOORT,M,274,01:07:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-412,290,"Jong, Rolf de",ABCOUDE,M,275,01:07:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-413,412,"Dijk, Harry van",VEENENDAAL,M,276,01:07:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-414,195,"Huisman, Mirte",GRONINGEN,V,138,01:07:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-415,454,"Kroese, Vincent",UTRECHT,M,277,01:07:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-416,495,"Zande, Stefan van der",LEUVEN,M,278,01:07:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-417,216,"Werner, Nils",DUITSLAND,M,279,01:07:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-418,431,"Stevens, Alphons",ALPHEN AAN DEN RIJN,M,280,01:08:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-419,551,"Vos, Celia de",GELDERMALSEN,V,139,01:08:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-420,518,"Decime, Daisy",MECHELEN,V,140,01:08:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-421,220,"Schalij, Ruut",UTRECHT,M,281,01:08:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-422,573,"Dijk, Aafje van",MAASSLUIS,V,141,01:08:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-423,436,"Visser, Sylvia",DEN HAAG,V,142,01:08:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-424,214,"Capel, Mia",APELDOORN,V,143,01:08:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-425,51,"Oude Nijhuis, Albert",UTRECHT,M,282,01:08:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-426,385,"Rietveld, Hans",KATWIJK  ZH,M,283,01:08:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-427,317,"Heerdt, Ilona",BUSSUM,V,144,01:08:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-428,494,"Maas, Ellen",LEUVEN,V,145,01:08:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-429,428,"Smit, Marleen",ALPHEN AAN DEN RIJN,V,146,01:08:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-430,78,"Nagel, Ruben",ABCOUDE,M,284,01:08:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-431,263,"Purmer, Marianne",DELFT,V,147,01:08:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-432,450,"Lint, Carla van",WIJK BIJ DUURSTEDE,V,148,01:08:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-433,215,"Abma, Marijke",ENSCHEDE,V,149,01:08:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-434,79,"Daalhuizen, Gerard",VINKEVEEN,M,285,01:08:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-435,325,"Withagen, Richard",LOOSDRECHT,M,286,01:08:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-436,327,"Mak, Irina",UTRECHT,V,150,01:08:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-437,224,"Hoop, Margriet de",UTRECHT,V,151,01:08:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-438,298,"Rossewij, Arjan",WOERDEN,M,287,01:09:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-439,394,"Dee, Tessa van",AMSTELVEEN,V,152,01:09:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-440,519,"Vos, Tessa",ZALTBOMMEL,V,153,01:09:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-441,490,"Evenblij, Yolanda",OEGSTGEEST,V,154,01:09:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-442,444,"Winters, Karlijn",UTRECHT,V,155,01:09:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-443,340,"Meeldijk, Alex",BUNNIK,M,288,01:09:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-444,580,"Castelein, Steven",NIJMEGEN,M,289,01:09:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-445,182,"Asselt, Bert van",AALTEN,M,290,01:09:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-446,578,"Krol, Jacques",OEGSTGEEST,M,291,01:09:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-447,483,"Velzen, Hans van",UTRECHT,M,292,01:09:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-448,489,"Vliet, Elly",MAASLAND,V,156,01:09:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-449,435,"Gerritse, Youri",UTRECHT,M,293,01:09:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-450,509,"Dionys, Stijn",GEEL,M,294,01:09:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-451,306,"Terwel, Loes",KORTENHOEF,V,157,01:09:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-452,549,"Frans, Vincent",WORMERVEER,M,295,01:10:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-453,418,"Konijn, Maaike",WADDINXVEEN,V,158,01:10:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-454,605,"Kamp, Wouter",UTRECHT,M,296,01:10:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-455,160,"Juffermans, Eva",ENSCHEDE,V,159,01:10:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-456,349,"Allaart, Janneke",UTRECHT,V,160,01:10:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-457,513,"Latruwe, Sem",MECHELEN,M,297,01:10:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-458,300,"Baumeister, Caro",HILVERSUM,V,161,01:10:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-459,566,"Spieksma, Cindy",LEEUWARDEN,V,162,01:10:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-460,373,"Ruiter, Paul de",AMSTELVEEN,M,298,01:10:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-461,414,"Kruger, Lisa Johanna",UTRECHT,V,163,01:11:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-462,347,"Legemaate, Kees",BURGH HAAMSTEDE,M,299,01:11:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-463,250,"Luxemburg, Jorden van",UTRECHT,M,300,01:11:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-464,476,"Korsmit, Frank",RAAMSDONKSVER,M,301,01:11:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-465,59,"Bolt,  Klaas",VINKEVEEN,M,302,01:11:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-466,341,"Spaander, Johan",HILVERSUMSE MEENT,M,303,01:11:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-467,359,"Tiemens, Vincent",HOOFDDORP,V,164,01:11:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-468,620,"Bekkum, Jesse van",UTRECHT,M,304,01:11:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-469,360,"Zaat, Esther",TILBURG,V,165,01:12:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-470,201,"Poser, Kathrin",BENNEKOM,V,166,01:12:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-471,565,"Lugt, Eric van der",BERKEL EN RODENRIJS,M,305,01:12:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-472,466,"Verbeek, Eva",UTRECHT,V,167,01:12:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-473,523,"Herymans, Lieve",HAACHT,V,168,01:12:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-474,614,"Rhoon, Claudia van",ROELOFARENDSVEEN,V,169,01:12:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-475,526,"Merckx, Mattia",HAACHT,V,170,01:12:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-476,541,"Striegel, Conor",HAARLEM,M,306,01:12:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-477,568,"Freeke, Ruud",LEIDEN,M,307,01:12:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-478,344,"Rijke, Peter de",UTRECHT,M,308,01:13:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-479,438,"Dijk, Tanja van",DEN HAAG,V,171,01:13:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-480,441,"Kempen, Madelon",UTRECHT,V,172,01:13:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-481,585,"Wortman, Laura",ZOETERMEER,V,173,01:13:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-482,208,"Klomp, Wouter",ALKMAAR,M,309,01:13:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-483,508,"Bos, Klaas",HEEMSTEDE,M,310,01:13:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-484,382,"Hoek, Mara van",AMSTERDAM,V,174,01:14:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-485,107,"Casteleijn, Vera",ZEEWOLDE,V,175,01:14:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-486,213,"Zwan, Patricia van der",APELDOORN,V,176,01:14:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-487,458,"Hijdra, Yvonne",SPIJKENISSE,V,177,01:14:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-488,405,"Haaften, Christina van",KERKWIJK,V,178,01:14:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-489,606,"Boer, Zimri van de",UTRECHT,M,311,01:14:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-490,577,"Molen, Pia van der",NIEUWESCHOOT,V,179,01:14:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-491,500,"Peters, Ingrid",DEN HAAG,V,180,01:15:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-492,316,"Hogenelst, Martijn",HILVERSUM,M,312,01:15:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-493,230,"Faber, Stefanie",DE MEERN,V,181,01:15:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-494,432,"Groeneveld, Marleen",VEENENDAAL,V,182,01:15:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-495,528,"Slagmolen, Karolien",GEEL,V,183,01:15:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-496,353,"Diekmann, Sandra",AMSTELVEEN,V,184,01:15:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-497,617,"Nio, Denise",VINKEVEEN,V,185,01:15:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-498,616,"Vergouwen, Saskia",BUSSUM,V,186,01:15:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-499,231,"Kaaij, Els van der",ALMERE,V,187,01:15:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-500,313,"Varga Morillo, Aroa",KEIJENBORG,V,188,01:15:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-501,291,"Ouden, Jaap den",WOERDEN,M,313,01:15:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-502,592,"Leeflang, Richard",WAVERVEEN,M,314,01:16:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-503,378,"Klinkenberg, Mirjam",ISTANBOEL,V,189,01:16:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-504,269,"Boer, Arnout",NIEUWEGEIN,M,315,01:16:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-505,502,"Gies, Paul",LANGBROEK,M,316,01:16:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-506,365,"Ruiter, Helga de",AMSTELVEEN,V,190,01:16:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-507,105,"Beekman, Esther",ZEEWOLDE,V,191,01:16:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-508,543,"Bulthuis, Zora",HAARLEM,V,192,01:16:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-509,603,"Bloois, Irene de",MAASSLUIS,V,193,01:16:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-510,535,"Merckx, Ingrid",HEVERLEE,V,194,01:16:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-511,596,"Willems, Remi",UTRECHT,M,317,01:16:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-512,488,"Merckx, Marc",HAACHT,M,318,01:17:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-513,366,"Tiel, Petra",AMSTERDAM,V,195,01:17:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-514,479,"Vermeer, Helma",MAASLAND,V,196,01:17:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-515,621,"Driel, Pieter van",HAARLEM,M,319,01:17:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-516,437,"Kerbof, Henk",VEENENDAAL,M,320,01:17:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-517,309,"Rooij, Roelof de",HILVERSUM,M,321,01:18:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-518,371,"Roy, Klaas de",ABCOUDE,M,322,01:18:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-519,485,"Leijendekkers, Joyce",MAASLAND,V,197,01:18:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-520,555,"Lodder, Martien",CULEMBORG,M,323,01:18:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-521,219,"Tondeur, Sandra",BAAMBRUGGE,V,198,01:18:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-522,493,"Werf, Walter van de",MECHELEN,M,324,01:19:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-523,334,"Blokland, Rini van",UTRECHT,V,199,01:19:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-524,487,"Mustafic, Demir",UTRECHT,M,325,01:20:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-525,331,"Piets, Cliff",AMSTERDAM,M,326,01:20:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-526,188,"Paul, Hanni",ABCOUDE,V,200,01:20:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-527,185,"Paul, Jacomine",ABCOUDE,V,201,01:20:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-528,471,"Sluijter, Petra",MAASLAND,V,202,01:20:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-529,538,"Heinis, Marjola",ZAANDAM,V,203,01:21:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-530,501,"Gies, Els",LANGBROEK,V,204,01:21:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-531,374,"bakker, erik",AMSTERDAM,M,327,01:21:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-532,288,"Smid, Rolf",AMSTERDAM,M,328,01:22:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-533,604,"Vermeer, Fred",MAASSLUIS,M,329,01:24:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-534,507,"Blekxtoon, Anneloes",BAARN,V,205,01:24:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-535,323,"Schut, Frederique",AMSTERDAM,V,206,01:24:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-536,460,"Kroes, Maureen",LISSE,V,207,01:25:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-537,76,"Kroes, Hans",LISSE,M,330,01:25:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-538,602,"Schreurs, Sylvia",VINKEVEEN,V,208,01:26:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-539,333,"Hurk, Stijn van den",UTRECHT,M,331,01:26:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-540,448,"Leeuwen, Sigrid van",UTRECHT,V,209,01:26:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-541,492,"Blancquaert, Pascal",MECHELEN,M,332,01:28:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-542,324,"Langerak, Mary",HILVERSUM,V,210,01:28:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-543,594,"Linden, Karin van der",VINKEVEEN,V,211,01:30:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-544,510,"Genderen, Hester van",WAVERVEEN,V,212,01:30:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-545,358,"Smid, Emma",AMSTERDAM,V,213,01:32:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-546,371,"Roy, Klaas de",ABCOUDE,M,333,01:36:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-547,619,"Snoodijk, Pieter",GOES,M,334,01:41:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
-548,618,"Krooshof, Ruth",HILVERSUM,M,335,01:41:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+1,56,"Erik Schroder",GRONINGEN,M,1,00:39:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+2,1,"Jeffrey Reijnders",SITTARD,M,2,00:40:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+3,72,"Jonas de Wachter",WILLEBROEK,M,3,00:41:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+4,21,"Davy Heijsteeg",AALSMEER,M,4,00:42:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+5,7,"Alex Schelvis",NOORDWIJK,M,5,00:42:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+6,3,"Vincent Bohm",VEENENDAAL,M,6,00:42:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+7,4,"Rob Barel",OVERBERG,M,7,00:42:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+8,2,"Sjoerd Veltman",EDE,M,8,00:42:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+9,52,"Bobby Oag",ORKNEY,M,9,00:43:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+10,74,"Michael Dewilde",EEKLO,M,10,00:43:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+11,19,"Bjorn van Vliet",HEINENOORD,M,11,00:43:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+12,6,"Sam van Dingenen",RUMST,M,12,00:43:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+13,81,"Elianne Huitema",ZWARTSLUIS,V,1,00:44:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+14,11,"Jeroen Hutten",UTRECHT,M,13,00:44:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+15,12,"Ferdinand Oldeman",VOORBURG,M,14,00:44:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+16,37,"Hanno van Binsbergen",VEENENDAAL,M,15,00:45:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+17,49,"Vernon Steenkamp",AMSTERDAM,M,16,00:45:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+18,54,"Frans van Heteren",AALSMEER,M,17,00:45:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+19,8,"Johan Koolhaas",AMSTELVEEN,M,18,00:45:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+20,82,"Cindy Brusse",AALTEN,V,2,00:46:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+21,16,"Jan van Heteren",AALSMEER,M,19,00:46:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+22,109,"Rina Zijgers",APELDOORN,V,3,00:46:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+23,27,"Niels de Gang",HOFSTADE,M,20,00:47:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+24,73,"Steven Molkens",RUMST,M,21,00:47:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+25,169,"Bart Alberts",NIJMEGEN,M,22,00:47:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+26,622,"Lennart Kleinjans",BENNEKOM,M,23,00:47:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+27,15,"Micha Peters",VINKEVEEN,M,24,00:47:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+28,62,"Jeffrey van 't Schip",MIJDRECHT,M,25,00:47:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+29,28,"Jochen de Gang",HOFSTADE,M,26,00:47:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+30,473,"Fiona Meuffels",ECHT,V,4,00:47:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+31,17,"Jelle de (Bo ter Ham) Boer",ZAANDAM,M,27,00:48:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+32,132,"Wibo Posthumus",UTRECHT,M,28,00:48:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+33,83,"Germijn Heijnen",UTRECHT,V,5,00:48:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+34,600,"Annika Fangmann",DE HOEF,V,6,00:48:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+35,18,"Sander Nieuwenhuys",MAARSSEN,M,29,00:48:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+36,138,"Coen Smiers",UTRECHT,M,30,00:48:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+37,13,"Sjoerd Oosterbaan",ASSENDELFT,M,31,00:48:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+38,25,"Marten Mosch",KROMMENIE,M,32,00:48:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+39,91,"Ninke Meynen",MECHELEN,V,7,00:48:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+40,26,"Ruud Edelman",BODEGRAVEN,M,33,00:48:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+41,153,"Ruben van Duren",HILVERSUM,M,34,00:48:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+42,601,"Bart van der Wal",ZEIST,M,35,00:49:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+43,40,"Jorrit Meijer",UTRECHT,M,36,00:49:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+44,22,"Michel Besseling",AMERSFOORT,M,37,00:49:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+45,32,"Sven Duits",HOLKERWEG,M,38,00:49:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+46,161,"Jeroen de Zinger",BAARN,M,39,00:49:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+47,87,"Jorieke Casteleijn",AMERSFOORT,V,8,00:49:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+48,71,"Jonas van Breedam",MECHELEN,M,40,00:49:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+49,238,"Olav Wilke",LELYSTAD,M,41,00:49:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+50,119,"Heleen van der Meijden",HERWIJNEN,V,9,00:49:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+51,24,"Arthur van den Brink",ELST (GELDERLAND),M,42,00:49:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+52,131,"Roy Danckaarts",MAARSSEN,M,43,00:49:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+53,121,"Sam Kamminga",GRONINGEN,M,44,00:49:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+54,64,"Allard Schmidt",AMERSFOORT,M,45,00:49:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+55,120,"Marco Wolbers",HARDERWIJK,M,46,00:49:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+56,94,"Stephanie Molkens",RUMST,V,10,00:49:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+57,200,"Karin van Leersum",ENSCHEDE,V,11,00:49:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+58,130,"Tommy Obst",HILVERSUM,M,47,00:49:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+59,88,"Heleen Plaatzer",NIJMEGEN,V,12,00:49:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+60,335,"Hanneke van den Berge",VEENENDAAL,V,13,00:50:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+61,92,"Helen Kleinveld",DEN HAAG,V,14,00:50:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+62,84,"Marloes Nieberg",UTRECHT,V,15,00:50:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+63,44,"Ingmar Kooman",LEIDERDORP,M,48,00:50:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+64,77,"Simon Franken",AERDENHOUT,M,49,00:50:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+65,157,"Jorg van Tongeren",ANKEVEEN,M,50,00:50:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+66,627,"Pim Fortuin",MAASSLUIS,M,51,00:51:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+67,296,"John Heijsteeg",AALSMEER,M,52,00:51:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+68,125,"Bert van der Zwan",APELDOORN,M,53,00:51:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+69,158,"Martijn Meier",APPINGEDAM,M,54,00:51:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+70,522,"Douwe Bijlard",ZAANDAM,M,55,00:51:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+71,117,"Mandy Verbakel",WOERDEN,V,16,00:51:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+72,31,"Rene van Ravenzwaaij",AMSTERDAM,M,56,00:51:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+73,403,"Charlotte Groeneveld",UTRECHT,V,17,00:51:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+74,115,"Anne Stellaard",UTRECHT,V,18,00:51:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+75,149,"Rene Miltenburg",UTRECHT,M,57,00:51:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+76,5,"Yassin El Yousfi",AARTSELAAR,M,58,00:51:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+77,209,"Ruben Slot",DALFSEN,M,59,00:51:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+78,61,"Jaap Flikweert","GROOT BRITTANNIE TITCHMARSH",M,60,00:51:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+79,23,"Erik Coevert",LAMBERTSCHAAG,M,61,00:52:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+80,101,"Shari Meynen",MECHELEN,V,19,00:52:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+81,129,"Bert Wallet",AMERSFOORT,M,62,00:52:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+82,413,"Judith van der Kruk",DEN HAAG,V,20,00:52:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+83,67,"Mark Schram",AMSTERDAM,M,63,00:52:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+84,156,"Mark Jansen",PUTTERSHOEK,M,64,00:52:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+85,30,"Maarten Snel",KORTENHOEF,M,65,00:52:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+86,297,"Peter Flietstra",AMSTERDAM,M,66,00:52:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+87,118,"Hedda Verdam",GOES,V,21,00:52:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+88,210,"Arjan van Uem",ENSCHEDE,M,67,00:52:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+89,143,"Jeroen Hijstek",NIEUW VENNEP,M,68,00:52:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+90,141,"Theo Bult",WAGENINGEN,M,69,00:52:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+91,111,"Henrieke Prins",AMERSFOORT,V,22,00:52:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+92,96,"Brenda Schuurkamp",DEN HAAG,V,23,00:52:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+93,478,"Michiel Wolbers",UTRECHT,M,70,00:52:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+94,202,"Abel Hanse",ENSCHEDE,M,71,00:53:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+95,86,"Anne Schmidt",UTRECHT,V,24,00:53:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+96,410,"David Eitelberg",AMSTERDAM,M,72,00:53:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+97,163,"Henri Klijn",DRUNEN,M,73,00:53:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+98,166,"Michel van Hirtum",ENSCHEDE,M,74,00:53:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+99,582,"Tom Koemans",NIJMEGEN,M,75,00:53:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+100,159,"Mark Heinis",ASSENDELFT,M,76,00:53:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+101,579,"Cas Krol",OEGSTGEEST,M,77,00:53:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+102,281,"Tom van der Berkhof",NIEUWEGEIN,M,78,00:53:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+103,104,"Welmoed Meindertsma",HALLE,V,25,00:53:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+104,47,"Ruud Kamp",ZEIST,M,79,00:53:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+105,388,"Jan Eisse",ZWOLLE,M,80,00:53:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+106,167,"Peter Freriks",HOOFDDORP,M,81,00:53:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+107,211,"Alex Baumgardt",DUITSLAND,M,82,00:53:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+108,175,"Gertjan van Montfoort",UTRECHT,M,83,00:53:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+109,362,"Peter Kramer",HOUTEN,M,84,00:53:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+110,179,"Francis Schaefers",ZETTEN,M,85,00:53:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+111,548,"Michel Boer",SASSENHEIM,M,86,00:53:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+112,496,"Job van Breukelen",NAARDEN,M,87,00:53:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+113,126,"Robbert van Meulem",OOSTWOUD,M,88,00:53:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+114,99,"Julia van der Burgt",UTRECHT,V,26,00:53:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+115,69,"Elias Docquir",KAMPENHOUT,M,89,00:54:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+116,122,"Klaas-Jan Spek",ZALTBOMMEL,M,90,00:54:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+117,147,"Roland van Veen",UTRECHT,M,91,00:54:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+118,191,"Ronald Meier",GRONINGEN,M,92,00:54:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+119,369,"Alida Hagen",EDE,V,27,00:54:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+120,345,"Mark Schrauwers",VEENENDAAL,M,93,00:54:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+121,135,"Erik Daems",MECHELEN,M,94,00:54:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+122,102,"Anne Stoelhorst",RENKUM,V,28,00:54:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+123,128,"Martijn Borst",ALMERE-HAVEN,M,95,00:54:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+124,586,"Zoe Gool",NOORDWIJK,V,29,00:54:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+125,50,"Gerben de Jongh",MEERKERK,M,96,00:54:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+126,68,"Carl Knelange",UTRECHT,M,97,00:54:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+127,540,"Jaap de Raad",HAARLEM,M,98,00:54:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+128,544,"Rianne Kremers",GORINCHEM,V,30,00:54:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+129,174,"Aaldert Mellema",UTRECHT,M,99,00:55:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+130,416,"Jannes de Groot",VEENENDAAL,M,100,00:55:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+131,534,"Jana Nys",ZUTENDAAL,V,31,00:55:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+132,154,"Belinda van Alphen",ALPHEN AAN DEN RIJN,V,32,00:55:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+133,85,"Marinka van der Zwet",UTRECHT,V,33,00:55:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+134,39,"Michael Rippens",ZWAAG,M,101,00:55:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+135,108,"Alinda ten Hoor",FOCHTELOO,V,34,00:55:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+136,20,"Maarten van der Veen",UTRECHT,M,102,00:55:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+137,575,"Jelle van der Veen",LEIDERDORP,M,103,00:55:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+138,310,"Kajan Kort",UTRECHT,M,104,00:55:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+139,164,"Peter van de Haar",EDE,M,105,00:55:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+140,452,"Niek van Zijl",ROTTERDAM,M,106,00:55:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+141,480,"Silvia Schwab",BLARICUM,V,35,00:55:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+142,387,"Johan van de Weerd",VEENENDAAL,M,107,00:55:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+143,607,"Wouter de Rijk",VEENENDAAL,M,108,00:55:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+144,155,"Mieke Plaatzer",DEN HAAG,V,36,00:55:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+145,145,"Michiel Hoff",KROMMENIE,M,109,00:55:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+146,356,"G.H. Nieborg",VEENENDAAL,M,110,00:55:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+147,114,"Klaziena Politiek",GRONINGEN,V,37,00:56:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+148,511,"Anne Heinis",ZAANDAM,V,38,00:56:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+149,516,"Philip van Zanten",ZALTBOMMEL,M,111,00:56:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+150,228,"Louis Walsem",UTRECHT,M,112,00:56:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+151,477,"Robin de Keyser",HEVER,V,39,00:56:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+152,274,"Joost van den Broek",UTRECHT,M,113,00:56:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+153,318,"Erwin van Roemburg",LOENEN AAN DE VECHT,M,114,00:56:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+154,261,"Sarah Freytag",UTRECHT,V,40,00:56:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+155,595,"Ralf Zaal",VINKEVEEN,M,115,00:56:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+156,142,"Marco Davelaar",VEENENDAAL,M,116,00:56:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+157,95,"Esther Geerlings",LEIDEN,V,41,00:56:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+158,404,"Adrienne Evers",AMERSFOORT,V,42,00:56:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+159,134,"Peter Raymaekers",MECHELEN,M,117,00:56:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+160,176,"Mickey Peters",VINKEVEEN,M,118,00:56:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+161,165,"Jasper Lohuis",ENSCHEDE,M,119,00:56:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+162,272,"Jessica Pots",UTRECHT,V,43,00:56:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+163,351,"Jakob Hartman",VEENENDAAL,M,120,00:56:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+164,170,"Pim Quist",DEN HAAG,M,121,00:56:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+165,539,"Wander van der Laan",NIEUW VENNEP,M,122,00:56:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+166,581,"Wendy van Dam",NIEUWKOOP,V,44,00:56:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+167,246,"Lieke Schmitz",UTRECHT,V,45,00:56:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+168,562,"Nadieh Kikstra",LEEUWARDEN,V,46,00:56:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+169,33,"Joost van Rooijen",HUIZEN,M,123,00:57:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+170,546,"Denise van der Donk",GROENLO,V,47,00:57:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+171,593,"Coen Verlaan",VINKEVEEN,M,124,00:57:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+172,218,"Marcel Gelderblom",EEMNES,M,125,00:57:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+173,610,"Freek de Boer",NIEUW-VENNEP,M,126,00:57:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+174,611,"Ruben Jongkind",VOLENDAM,M,127,00:57:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+175,162,"Bas van Gool",DORDRECHT,M,128,00:57:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+176,123,"Eelco Noort",KERKWIJK,M,129,00:57:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+177,559,"Jorn Lubbinge",LEEUWARDEN,M,130,00:57:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+178,451,"Moniek van Lieshout",DEN HAAG,V,48,00:57:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+179,229,"Julius van Bezooijen",ALMERE,M,131,00:57:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+180,223,"Ron Perdon",UTRECHT,M,132,00:57:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+181,184,"John Tersteeg",DOORN,M,133,00:57:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+182,270,"Ralph van Hooijdonk",NIEUWEGEIN,M,134,00:57:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+183,484,"Joachim Merckx",HAACHT,M,135,00:57:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+184,561,"Jamie Chisholm",LEIDEN,M,136,00:57:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+185,367,"Camiel Hirschberg",TILBURG,M,137,00:57:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+186,396,"Michiel Zumberink",WOUDENBERG,M,138,00:57:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+187,445,"Jan van Bennekom",HEINENOORD,M,139,00:57:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+188,588,"Marit Roovers",NULAND,V,49,00:57:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+189,514,"Jan Posthumus",DIEMEN,M,140,00:57:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+190,257,"Bob van Nuland",UTRECHT,M,141,00:57:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+191,206,"Paul Slot",DALFSEN,M,142,00:57:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+192,556,"Anneke Lubbers",LEEUWARDEN,V,50,00:57:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+193,177,"Robert van de Velde",WASSENAAR,M,143,00:57:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+194,151,"Hans van Oort",UTRECHT,M,144,00:58:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+195,168,"Erik de Vos",KROMMENIE,M,145,00:58:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+196,221,"Ivo Bruns",BAAMBRUGGE,M,146,00:58:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+197,305,"Jurrien Beerda",WOERDEN,M,147,00:58:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+198,42,"Roderick Treskes",LEIDEN,M,148,00:58:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+199,243,"Xander Soudant",DE MEERN,M,149,00:58:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+200,150,"Youri Rietveld",UTRECHT,M,150,00:58:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+201,133,"Sofie Raymaekers",MECHELEN,V,51,00:58:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+202,609,"Titus Schoffelen",DRIEBERGEN,M,151,00:58:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+203,278,"Mieke van Kollenburg",UTRECHT,V,52,00:58:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+204,106,"Thirza Stiphout",VEENENDAAL,V,53,00:58:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+205,398,"Bas Vlek",AMSTELVEEN,M,152,00:58:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+206,279,"Annelore van der Lint",AMSTERDAM,V,54,00:58:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+207,180,"Theo Miltenburg",ENSCHEDE,M,153,00:58:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+208,136,"Robert Noorlander",DEN HAAG,M,154,00:58:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+209,241,"Bart Willem Nagel",LELYSTAD,M,155,00:58:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+210,103,"Cora Mulder",OVERBERG,V,55,00:58:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+211,328,"Frank Aalten",SOEST,M,156,00:58:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+212,194,"Rob Scheffers",ARNHEM,M,157,00:58:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+213,222,"Ida Oosterbroek",MIJDRECHT,V,56,00:58:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+214,204,"Janine van Kooten",ANKEVEEN,V,57,00:58:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+215,433,"Oscar de Smit",ALPHEN AAN DEN RIJN,M,158,00:58:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+216,406,"Sanne Heymann",VEENENDAAL,V,58,00:58:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+217,301,"Henri van Bodinckhuijsen",AMSTERDAM,M,159,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+218,181,"Frank Schootemeijer", ,M,160,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+219,472,"Conny Kiffen",MEGEN,V,59,00:58:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+220,187,"Yvette Adams",POORTUGAAL,V,60,00:59:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+221,189,"Anne Hobbelt",GRONINGEN,V,61,00:59:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+222,615,"Roeland Vos",UTRECHT,M,161,00:59:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+223,265,"Danny Klinkien",NIEUWEGEIN,M,162,00:59:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+224,589,"Stefan van Wijk",VINKEVEEN,M,163,00:59:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+225,266,"Kees der Weduwe",COTHEN,M,164,00:59:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+226,244,"Ecoo de Vries",MAARSSEN,M,165,00:59:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+227,57,"Martijn Knevelbaard",GRONINGEN,M,166,00:59:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+228,481,"Peter van Eenoo",ONZE-LIEVE-VROUW-WAVER,M,167,00:59:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+229,411,"Niels Lodewijk",DEN HAAG,M,168,00:59:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+230,434,"Carina Speksnijder",STOLWIJK,V,62,00:59:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+231,190,"Joyce van Spengen",ABCOUDE,V,63,00:59:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+232,447,"Annet van der Veen",LEKKERKERK,V,64,00:59:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+233,572,"Janneke van Spijker",LEIDERDORP,V,65,00:59:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+234,172,"Maarten Klein",ROELOFARENDSVEEN,M,169,00:59:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+235,124,"Wouter Andringa",ENSCHEDE,M,170,00:59:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+236,467,"Theo van Vliet",MAASLAND,M,171,00:59:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+237,330,"Tom Beving",AMSTERDAM,M,172,00:59:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+238,205,"Izak Hanse",ENSCHEDE,M,173,00:59:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+239,536,"Claudia Jaring",ZAANDAM,V,66,00:59:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+240,395,"Martijn Bulsink",ELST,M,174,00:59:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+241,498,"Andr de Weerdt",ONZE-LIEVE-VROUW WAVER,M,175,00:59:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+242,553,"Joris Hanse",LEIDEN,M,176,00:59:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+243,236,"Maarten Kuiter",ALMERE,M,177,00:59:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+244,70,"Jean Tijssen",ARNHEM,M,178,00:59:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+245,239,"Gerben Westerlaken",ALMKERK,M,179,00:59:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+246,152,"Michiel Stapelkamp",UTRECHT,M,180,00:59:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+247,255,"Simone Kraan-Lakeman",BOVENKARSPEL,V,67,01:00:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+248,590,"Olaf van Veen",VINKEVEEN,M,181,01:00:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+249,277,"Chantal Berga",UTRECHT,V,68,01:00:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+250,217,"Jolie Jacobs-Minneboo",APELDOORN,V,69,01:00:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+251,462,"Nancy de Kok",MAASLAND,V,70,01:00:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+252,245,"Bart Hillen",BARENDRECHT,M,182,01:00:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+253,242,"Linda Nagel",LELYSTAD,V,71,01:00:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+254,361,"Tatiana Lodder",UTRECHT,V,72,01:00:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+255,475,"Ron Veldhoen",MAASLAND,M,183,01:00:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+256,45,"Jeffrey van Haasteren",SPIJKENISSE,M,184,01:00:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+257,350,"Vincent Baak",HILLEGOM,M,185,01:00:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+258,453,"Erik Bloemendaal",DEN HAAG,M,186,01:00:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+259,407,"John van Marrewijk",DE LIER,M,187,01:00:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+260,465,"Mark Schoonhoven",ROTTERDAM,M,188,01:00:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+261,258,"Julian Curtis",AMSTERDAM,M,189,01:00:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+262,137,"Bas Noorlander",OEGSTGEEST,M,190,01:00:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+263,29,"Dirk van Haastrecht",UTRECHT,M,191,01:00:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+264,256,"Rob Spuij",NIEUWEGEIN,M,192,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+265,254,"Ruud Timmermans",ARNHEM,M,193,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+266,307,"Robert Bijl",HILVERSUM,M,194,01:00:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+267,192,"Cindy Hendriks",VELP,V,73,01:01:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+268,512,"Pieter Slagmolen",KESSEL-LO,M,195,01:01:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+269,197,"Evi van Ekris",BENNEKOM,V,74,01:01:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+270,461,"Richard vd Haak",LISSE,M,196,01:01:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+271,520,"Edwin de Koning",MIJDRECHT,M,197,01:01:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+272,464,"Joanna Szydlo",LISSE,V,75,01:01:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+273,380,"Bernhard Heije",EDE,M,198,01:01:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+274,312,"Sipke Moes",AMSTERDAM,M,199,01:01:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+275,463,"Eric Arnold",ROTTERDAM,M,200,01:01:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+276,443,"Jolanda van de Merwe",PUTTERSHOEK,V,76,01:01:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+277,338,"Kamal Shirbaz",WEESP,M,201,01:01:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+278,571,"Henk van Spijker",LEIDERDORP,M,202,01:01:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+279,273,"Onno van der Stelt",AMSTERDAM,M,203,01:01:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+280,140,"Lieke Helsper",DE BILT,V,77,01:01:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+281,384,"Rene Vrosch",EDE,M,204,01:01:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+282,368,"Maarten Jan Stam",WIJK BIJ DUURSTEDE,M,205,01:01:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+283,282,"Elmer van Veenendaal",NIEUWEGEIN,M,206,01:01:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+284,390,"Rick Bogaard",LEERDAM,M,207,01:01:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+285,370,"Coos Brouwer",WILNIS,M,208,01:01:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+286,260,"Tim van der Horst",COTHEN,M,209,01:01:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+287,148,"Ben Lammerts van Bueren",UTRECHT,M,210,01:01:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+288,98,"Petra Eckhardt",AMERSFOORT,V,78,01:01:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+289,251,"Jochem Reintjes",NIEUWEGEIN,M,211,01:01:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+290,379,"Gert van Zanten",VEENENDAAL,M,212,01:01:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+291,354,"Pieter Sabel",AMSTERDAM,M,213,01:01:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+292,486,"Jef Meynen",MECHELEN,M,214,01:01:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+293,459,"Sander Biesma",UTRECHT,M,215,01:01:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+294,440,"Ton Jacquot",EINDHOVEN,M,216,01:01:53,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+295,233,"Ans Oudejans",SANTPOORT-NOORD,V,79,01:01:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+296,554,"Frank Lubbers",LEEUWARDEN,M,217,01:01:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+297,542,"jannes Schreuders",HAARLEM,M,218,01:01:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+298,598,"Jelmer Brugman",VIANEN,M,219,01:02:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+299,375,"Daan Jagers",HOOFDDORP,M,220,01:02:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+300,247,"Hans van Lent",AMSTERDAM,M,221,01:02:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+301,198,"Bettine Schaap",GRONINGEN,V,80,01:02:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+302,320,"Matthijs Mooy",UTRECHT,M,222,01:02:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+303,304,"Nikki Mulder",AMSTERDAM,V,81,01:02:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+304,517,"Brecht Vanheers",BERINGEN,M,223,01:02:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+305,584,"Marloes Klein",ROELOFARENDSVEEN,V,82,01:02:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+306,337,"Helma van Doorn",VEENENDAAL,V,83,01:02:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+307,38,"Adriaan Oprins",UTRECHT,M,224,01:02:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+308,66,"Conor Andrews",AMSTERDAM,M,225,01:02:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+309,352,"Jennifer Go",WEESP / WOERDEN,V,84,01:02:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+310,386,"Erik Boersma",UTRECHT,M,226,01:02:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+311,503,"Thomas Blancquaert",DENDERMONDE,M,227,01:02:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+312,346,"Joep van der Laan",WEESP,M,228,01:02:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+313,409,"Gwendolyn Loois",UTRECHT,V,85,01:02:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+314,342,"Jolanda van de Haar",VEENENDAAL,V,86,01:02:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+315,264,"Maaike Rouw",DE MEERN,V,87,01:02:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+316,482,"Rik Vercauteren",MUIZEN,M,229,01:02:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+317,295,"Robert de Graaf",WOERDEN,M,230,01:02:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+318,286,"Mathieu Steen",AMSTERDAM,M,231,01:02:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+319,237,"Renske Eilers",AMERSFOORT,V,88,01:02:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+320,53,"Daan Hoogland",UTRECHT,M,232,01:02:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+321,424,"Leo Cok",ZEGVELD,M,233,01:02:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+322,425,"Dennis Westdijk",ALPHEN AAN DEN RIJN,M,234,01:02:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+323,196,"Lisette Spoelder",ABCOUDE,V,89,01:02:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+324,127,"Bas Verbree",VINKEVEEN,M,235,01:03:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+325,60,"Rob Polman",EINDHOVEN,M,236,01:03:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+326,348,"Marleen Prins",HOOFDDORP,V,90,01:03:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+327,199,"Wouter Verbree",ABCOUDE,M,237,01:03:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+328,43,"Ron van den Berg",MAASSLUIS,M,238,01:03:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+329,401,"Cora Vermeer-van Hunen",VEENENDAAL,V,91,01:03:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+330,271,"Yvette van Rossen",AMSTERDAM,V,92,01:03:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+331,576,"W van der Zwart",LEIDERDORP,V,93,01:03:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+332,112,"Lonneke van Schaik",HAARLEM,V,94,01:03:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+333,315,"Tim Cornelissen",AMSTERDAM,M,239,01:03:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+334,235,"Caja van der Woude",UTRECHT,V,95,01:03:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+335,314,"Antoinette Kraal",AMSTERDAM,V,96,01:03:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+336,552,"Jan Jacob Bos",WOUDENBERG,M,240,01:03:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+337,497,"Jan Slagmolen",SINT-KATELIJNE-WAVER,M,241,01:03:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+338,564,"Jeltsje Harmsma",LEEUWARDEN,V,97,01:03:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+339,537,"Patrick Muller",NAARDEN,M,242,01:03:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+340,400,"Selfa Verlaat",CASTRICUM,V,98,01:03:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+341,422,"Suus Harms",UTRECHT,V,99,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+342,113,"Jacoline Zilverentant",BILTHOVEN,V,100,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+343,474,"Thijs Stam",UTRECHT,M,243,01:03:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+344,252,"Marielle Klaassen",UTRECHT,V,101,01:03:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+345,491,"Ludovic Derycke",MECHELEN,M,244,01:03:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+346,597,"Marjan de Bruin",UITHOORN,V,102,01:03:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+347,550,"Luuk Lubbers",LEIDEN,M,245,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+348,383,"Carolien Boersma",UTRECHT,V,103,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+349,248,"Jeanine van der Veek",BARNEVELD,V,104,01:03:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+350,567,"Francoise Carlotti",LEIDEN,V,105,01:03:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+351,249,"Annemieke Seijsener",LEIDEN,V,106,01:03:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+352,319,"Maite Vermeulen",AMSTERDAM,V,107,01:03:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+353,308,"Erik Seebus",RENKUM,M,246,01:03:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+354,532,"Ine Wittevrongel",DIEST,V,108,01:03:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+355,294,"Hans van Zalen",AMSTERDAM,M,247,01:03:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+356,613,"Carla Rijling",LEIDEN,V,109,01:04:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+357,207,"Ineke Telgen",APELDOORN,V,110,01:04:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+358,397,"Harry Schievink",VEENENDAAL,M,248,01:04:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+359,280,"Wim de Jong",ABCOUDE,M,249,01:04:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+360,227,"Marloes Voorhout",HARMELEN,V,111,01:04:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+361,363,"Hermien Vleems",RHENEN,V,112,01:04:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+362,283,"Willeke Koers",UTRECHT,V,113,01:04:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+363,303,"Martijn Bergers",ASSENDELFT,M,250,01:04:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+364,469,"Petra Helmond",UTRECHT,V,114,01:04:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+365,415,"Eelco van Duijvenbode",RIDDERKERK,M,251,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+366,417,"Karine Jamard",RIDDERKERK,V,115,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+367,355,"Jamila Bou Chamach",HOORN,V,116,01:04:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+368,525,"Koen Declercq",LICHTERVELDE (BELGIE),M,252,01:04:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+369,612,"Bas Blommendaal",WOERDEN,M,253,01:04:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+370,530,"Matth Ebing",OOSTERBEEK,M,254,01:05:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+371,41,"Bertus Veenstra",NIEUW VENNEP,M,255,01:05:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+372,583,"Goke Pieters",NIJMEGEN,V,117,01:05:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+373,234,"Bror Aarsman",ALMERE,M,256,01:05:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+374,203,"Ruben Pepping",ABCOUDE,M,257,01:05:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+375,287,"Steven van Ekris",WOERDEN,M,258,01:05:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+376,292,"Hilda Brak",ZEGVELD,V,118,01:05:25,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+377,505,"Marianela Radaelli",BAARN,V,119,01:05:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+378,311,"Anja Elverding",KEIJENBORG,V,120,01:05:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+379,527,"Annemiek van der Velde",UTRECHT,V,121,01:05:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+380,515,"Stijn vander Stichele",MECHELEN,M,259,01:05:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+381,449,"Hillie Heinsbroek",VLAARDINGEN,V,122,01:05:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+382,339,"Manja Tijssens",AMSTERDAM,V,123,01:05:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+383,421,"Katinka Becker",AMERSFOORT,V,124,01:06:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+384,267,"Rutger de Bois",NIEUWEGEIN,M,260,01:06:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+385,293,"Robert Hardeman",AALSMEER,M,261,01:06:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+386,332,"Loes Hoogenboom",ROELOFARENDSVEEN,V,125,01:06:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+387,545,"Almer Veenendaal",HAARLEM,M,262,01:06:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+388,563,"Floremce de Groen",LEIDEN,V,126,01:06:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+389,570,"Rene Verkade",MAASSLUIS,M,263,01:06:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+390,499,"Sebastiaan Merckx",HAACHT,M,264,01:06:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+391,289,"Teus van Zelderen",WOERDEN,M,265,01:06:20,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+392,587,"Femke Piersma",UTRECHT,V,127,01:06:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+393,426,"Cesar Maita",AMERSFOORT,M,266,01:06:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+394,275,"Mette Timmermans",AMSTERDAM,V,128,01:06:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+395,521,"Helena Claerhout",MECHELEN,V,129,01:06:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+396,429,"Laura Veerman",UTRECHT,V,130,01:06:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+397,423,"Jack Crielaard",VEENENDAAL,M,267,01:06:48,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+398,557,"Jannie Vennik",TJALLEBERD,V,131,01:06:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+399,524,"Esmee-Carlijn Kiffen",MEGEN,V,132,01:06:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+400,186,"Denise de Beer",DOORN,V,133,01:06:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+401,391,"Henk de Raad",HOOFDDORP,M,268,01:06:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+402,183,"Stefan Baas",AALTEN,M,269,01:06:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+403,225,"Frida Vos",UTRECHT,V,134,01:07:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+404,226,"Carolien van de Hoef",VLEUTEN,V,135,01:07:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+405,285,"Claudia van der Laan",WOERDEN,V,136,01:07:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+406,569,"Piet Berg",LEIDERDORP,M,270,01:07:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+407,470,"Dies de Dreu",UTRECHT,M,271,01:07:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+408,377,"Peter Lauffer",WILNIS,V,137,01:07:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+409,420,"Colin Cameron",AMSTERDAM,M,272,01:07:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+410,240,"Olav Gribnau",HEUKELUM,M,273,01:07:33,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+411,430,"Mario Brinkbaumer",AMERSFOORT,M,274,01:07:37,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+412,290,"Rolf de Jong",ABCOUDE,M,275,01:07:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+413,412,"Harry van Dijk",VEENENDAAL,M,276,01:07:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+414,195,"Mirte Huisman",GRONINGEN,V,138,01:07:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+415,454,"Vincent Kroese",UTRECHT,M,277,01:07:55,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+416,495,"Stefan van der Zande",LEUVEN,M,278,01:07:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+417,216,"Nils Werner",DUITSLAND,M,279,01:07:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+418,431,"Alphons Stevens",ALPHEN AAN DEN RIJN,M,280,01:08:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+419,551,"Celia de Vos",GELDERMALSEN,V,139,01:08:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+420,518,"Daisy Decime",MECHELEN,V,140,01:08:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+421,220,"Ruut Schalij",UTRECHT,M,281,01:08:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+422,573,"Aafje van Dijk",MAASSLUIS,V,141,01:08:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+423,436,"Sylvia Visser",DEN HAAG,V,142,01:08:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+424,214,"Mia Capel",APELDOORN,V,143,01:08:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+425,51,"Albert Oude Nijhuis",UTRECHT,M,282,01:08:17,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+426,385,"Hans Rietveld",KATWIJK  ZH,M,283,01:08:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+427,317,"Ilona Heerdt",BUSSUM,V,144,01:08:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+428,494,"Ellen Maas",LEUVEN,V,145,01:08:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+429,428,"Marleen Smit",ALPHEN AAN DEN RIJN,V,146,01:08:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+430,78,"Ruben Nagel",ABCOUDE,M,284,01:08:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+431,263,"Marianne Purmer",DELFT,V,147,01:08:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+432,450,"Carla van Lint",WIJK BIJ DUURSTEDE,V,148,01:08:44,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+433,215,"Marijke Abma",ENSCHEDE,V,149,01:08:45,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+434,79,"Gerard Daalhuizen",VINKEVEEN,M,285,01:08:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+435,325,"Richard Withagen",LOOSDRECHT,M,286,01:08:51,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+436,327,"Irina Mak",UTRECHT,V,150,01:08:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+437,224,"Margriet de Hoop",UTRECHT,V,151,01:08:58,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+438,298,"Arjan Rossewij",WOERDEN,M,287,01:09:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+439,394,"Tessa van Dee",AMSTELVEEN,V,152,01:09:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+440,519,"Tessa Vos",ZALTBOMMEL,V,153,01:09:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+441,490,"Yolanda Evenblij",OEGSTGEEST,V,154,01:09:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+442,444,"Karlijn Winters",UTRECHT,V,155,01:09:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+443,340,"Alex Meeldijk",BUNNIK,M,288,01:09:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+444,580,"Steven Castelein",NIJMEGEN,M,289,01:09:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+445,182,"Bert van Asselt",AALTEN,M,290,01:09:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+446,578,"Jacques Krol",OEGSTGEEST,M,291,01:09:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+447,483,"Hans van Velzen",UTRECHT,M,292,01:09:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+448,489,"Elly Vliet",MAASLAND,V,156,01:09:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+449,435,"Youri Gerritse",UTRECHT,M,293,01:09:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+450,509,"Stijn Dionys",GEEL,M,294,01:09:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+451,306,"Loes Terwel",KORTENHOEF,V,157,01:09:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+452,549,"Vincent Frans",WORMERVEER,M,295,01:10:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+453,418,"Maaike Konijn",WADDINXVEEN,V,158,01:10:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+454,605,"Wouter Kamp",UTRECHT,M,296,01:10:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+455,160,"Eva Juffermans",ENSCHEDE,V,159,01:10:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+456,349,"Janneke Allaart",UTRECHT,V,160,01:10:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+457,513,"Sem Latruwe",MECHELEN,M,297,01:10:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+458,300,"Caro Baumeister",HILVERSUM,V,161,01:10:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+459,566,"Cindy Spieksma",LEEUWARDEN,V,162,01:10:43,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+460,373,"Paul de Ruiter",AMSTELVEEN,M,298,01:10:59,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+461,414,"Lisa Johanna Kruger",UTRECHT,V,163,01:11:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+462,347,"Kees Legemaate",BURGH HAAMSTEDE,M,299,01:11:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+463,250,"Jorden van Luxemburg",UTRECHT,M,300,01:11:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+464,476,"Frank Korsmit",RAAMSDONKSVER,M,301,01:11:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+465,59,"Klaas Bolt",VINKEVEEN,M,302,01:11:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+466,341,"Johan Spaander",HILVERSUMSE MEENT,M,303,01:11:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+467,359,"Vincent Tiemens",HOOFDDORP,V,164,01:11:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+468,620,"Jesse van Bekkum",UTRECHT,M,304,01:11:38,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+469,360,"Esther Zaat",TILBURG,V,165,01:12:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+470,201,"Kathrin Poser",BENNEKOM,V,166,01:12:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+471,565,"Eric van der Lugt",BERKEL EN RODENRIJS,M,305,01:12:26,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+472,466,"Eva Verbeek",UTRECHT,V,167,01:12:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+473,523,"Lieve Herymans",HAACHT,V,168,01:12:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+474,614,"Claudia van Rhoon",ROELOFARENDSVEEN,V,169,01:12:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+475,526,"Mattia Merckx",HAACHT,V,170,01:12:49,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+476,541,"Conor Striegel",HAARLEM,M,306,01:12:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+477,568,"Ruud Freeke",LEIDEN,M,307,01:12:54,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+478,344,"Peter de Rijke",UTRECHT,M,308,01:13:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+479,438,"Tanja van Dijk",DEN HAAG,V,171,01:13:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+480,441,"Madelon Kempen",UTRECHT,V,172,01:13:16,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+481,585,"Laura Wortman",ZOETERMEER,V,173,01:13:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+482,208,"Wouter Klomp",ALKMAAR,M,309,01:13:29,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+483,508,"Klaas Bos",HEEMSTEDE,M,310,01:13:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+484,382,"Mara van Hoek",AMSTERDAM,V,174,01:14:03,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+485,107,"Vera Casteleijn",ZEEWOLDE,V,175,01:14:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+486,213,"Patricia van der Zwan",APELDOORN,V,176,01:14:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+487,458,"Yvonne Hijdra",SPIJKENISSE,V,177,01:14:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+488,405,"Christina van Haaften",KERKWIJK,V,178,01:14:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+489,606,"Zimri van de Boer",UTRECHT,M,311,01:14:36,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+490,577,"Pia van der Molen",NIEUWESCHOOT,V,179,01:14:56,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+491,500,"Ingrid Peters",DEN HAAG,V,180,01:15:02,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+492,316,"Martijn Hogenelst",HILVERSUM,M,312,01:15:06,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+493,230,"Stefanie Faber",DE MEERN,V,181,01:15:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+494,432,"Marleen Groeneveld",VEENENDAAL,V,182,01:15:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+495,528,"Karolien Slagmolen",GEEL,V,183,01:15:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+496,353,"Sandra Diekmann",AMSTELVEEN,V,184,01:15:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+497,617,"Denise Nio",VINKEVEEN,V,185,01:15:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+498,616,"Saskia Vergouwen",BUSSUM,V,186,01:15:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+499,231,"Els van der Kaaij",ALMERE,V,187,01:15:39,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+500,313,"Aroa Varga Morillo",KEIJENBORG,V,188,01:15:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+501,291,"Jaap den Ouden",WOERDEN,M,313,01:15:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+502,592,"Richard Leeflang",WAVERVEEN,M,314,01:16:01,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+503,378,"Mirjam Klinkenberg",ISTANBOEL,V,189,01:16:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+504,269,"Arnout Boer",NIEUWEGEIN,M,315,01:16:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+505,502,"Paul Gies",LANGBROEK,M,316,01:16:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+506,365,"Helga de Ruiter",AMSTELVEEN,V,190,01:16:15,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+507,105,"Esther Beekman",ZEEWOLDE,V,191,01:16:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+508,543,"Zora Bulthuis",HAARLEM,V,192,01:16:19,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+509,603,"Irene de Bloois",MAASSLUIS,V,193,01:16:22,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+510,535,"Ingrid Merckx",HEVERLEE,V,194,01:16:27,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+511,596,"Remi Willems",UTRECHT,M,317,01:16:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+512,488,"Marc Merckx",HAACHT,M,318,01:17:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+513,366,"Petra Tiel",AMSTERDAM,V,195,01:17:07,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+514,479,"Helma Vermeer",MAASLAND,V,196,01:17:12,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+515,621,"Pieter van Driel",HAARLEM,M,319,01:17:34,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+516,437,"Henk Kerbof",VEENENDAAL,M,320,01:17:47,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+517,309,"Roelof de Rooij",HILVERSUM,M,321,01:18:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+518,371,"Klaas de Roy",ABCOUDE,M,322,01:18:10,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+519,485,"Joyce Leijendekkers",MAASLAND,V,197,01:18:13,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+520,555,"Martien Lodder",CULEMBORG,M,323,01:18:35,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+521,219,"Sandra Tondeur",BAAMBRUGGE,V,198,01:18:52,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+522,493,"Walter van de Werf",MECHELEN,M,324,01:19:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+523,334,"Rini van Blokland",UTRECHT,V,199,01:19:50,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+524,487,"Demir Mustafic",UTRECHT,M,325,01:20:00,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+525,331,"Cliff Piets",AMSTERDAM,M,326,01:20:05,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+526,188,"Hanni Paul",ABCOUDE,V,200,01:20:21,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+527,185,"Jacomine Paul",ABCOUDE,V,201,01:20:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+528,471,"Petra Sluijter",MAASLAND,V,202,01:20:32,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+529,538,"Marjola Heinis",ZAANDAM,V,203,01:21:18,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+530,501,"Els Gies",LANGBROEK,V,204,01:21:30,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+531,374,"erik bakker",AMSTERDAM,M,327,01:21:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+532,288,"Rolf Smid",AMSTERDAM,M,328,01:22:41,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+533,604,"Fred Vermeer",MAASSLUIS,M,329,01:24:28,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+534,507,"Anneloes Blekxtoon",BAARN,V,205,01:24:31,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+535,323,"Frederique Schut",AMSTERDAM,V,206,01:24:57,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+536,460,"Maureen Kroes",LISSE,V,207,01:25:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+537,76,"Hans Kroes",LISSE,M,330,01:25:42,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+538,602,"Sylvia Schreurs",VINKEVEEN,V,208,01:26:09,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+539,333,"Stijn van den Hurk",UTRECHT,M,331,01:26:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+540,448,"Sigrid van Leeuwen",UTRECHT,V,209,01:26:46,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+541,492,"Pascal Blancquaert",MECHELEN,M,332,01:28:14,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+542,324,"Mary Langerak",HILVERSUM,V,210,01:28:23,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+543,594,"Karin van der Linden",VINKEVEEN,V,211,01:30:04,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+544,510,"Hester van Genderen",WAVERVEEN,V,212,01:30:11,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+545,358,"Emma Smid",AMSTERDAM,V,213,01:32:08,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+546,371,"Klaas de Roy",ABCOUDE,M,333,01:36:40,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+547,619,"Pieter Snoodijk",GOES,M,334,01:41:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01
+548,618,"Ruth Krooshof",HILVERSUM,M,335,01:41:24,4e Het Rondje Eilanden Vinkeveen 01-08-2015,2015-08-01

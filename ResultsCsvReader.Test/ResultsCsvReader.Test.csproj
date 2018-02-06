@@ -63,6 +63,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResultsReaderCsvTest.cs" />
     <Compile Include="StandardizeCsvTest.cs" />
+    <Compile Include="ValidateCsvTest.cs" />
     <Compile Include="WriteStandardizedCsvResultsTest.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -140,6 +141,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="files\2016-sep-17-vroomshoop-Heren_TusInd.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="files\2017-aug-13-Nordseeman-2017.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="files\2017-sep-9-almere-UitslagHTTot.csv">

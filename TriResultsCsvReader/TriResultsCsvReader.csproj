@@ -84,6 +84,7 @@
     <Compile Include="PipelineSteps\CsvWriterStep.cs" />
     <Compile Include="StepData.cs" />
     <Compile Include="PipelineSteps\StandardizeHeadersAndFilterStep.cs" />
+    <Compile Include="ValidateCsvNumberOfColumns.cs" />
     <Compile Include="WhitelistFilter.cs" />
     <Compile Include="ResultsReaderCsv.cs" />
     <Compile Include="StandardizeHeaders\Column.cs" />

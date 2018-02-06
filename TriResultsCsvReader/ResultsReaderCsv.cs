@@ -52,6 +52,13 @@ namespace TriResultsCsvReader
             // 1. standardize header
             var csvLines = File.ReadAllLines(csvFilename);
 
+            var columnValidator = new ValidateCsvNumberOfColumns();
+            var isValid = columnValidator.Validate(csvLines);
+            if(!isValid)
+            {
+                Console.WriteLine("Error!  Number of columns mismatch in csv file: " + csvFilename);
+            }
+
             var standardizedCsv = _csvStandardizer.Read(csvLines);
 
             IEnumerable<ResultRow> records;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
+using System.IO;
 
 namespace ResultsCsvReader.Test
 {
@@ -14,6 +15,23 @@ namespace ResultsCsvReader.Test
         public ResultsReaderCsvTest()
         {
             _resultsReaderCsv = new ResultsReaderCsv();
+        }
+
+        [TestMethod]
+        public void EqualColumnsTest()
+        {
+            var csvFile = "files/2017-aug-13-Nordseeman-2017.csv";
+
+            var fullPath = Path.GetFullPath(csvFile);
+
+            var dirExists = Directory.Exists(@"C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\files");
+            if (File.Exists(fullPath)) {
+                var validator = new ValidateCsvNumberOfColumns();
+                var results = validator.Validate(csvFile);
+
+                Assert.IsTrue(results);
+
+            }
         }
 
         [TestMethod]
