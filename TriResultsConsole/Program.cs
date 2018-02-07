@@ -85,11 +85,6 @@ namespace TriResultsConsole
 
 
 
-                if (!string.IsNullOrEmpty(options.OutputFolder)) { }
-
-
-                var resultsReaderCsv = new ResultsReaderCsv(configFile, (str => Console.WriteLine(str)));
-
                 if(string.IsNullOrEmpty(options.OutputFolder))
                 {
                     Console.WriteLine("No output folder given, using 'output'");
@@ -100,22 +95,21 @@ namespace TriResultsConsole
                     Directory.CreateDirectory(options.OutputFolder);
                 }
 
+
+                /// Read and filter races
                 
                 var filteredRaces = new List<StepData>();
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
-                    Console.WriteLine("filePAth! " + filePath);
+                    Console.WriteLine("filePath: " + filePath);
                     var raceData = GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
-                    var raceName = raceData.Name;
-                    var raceDate = raceData.Date;
       
-                    Console.Write("P! race (from filename): {0}, date: {1}, name: {2}", raceName, raceData.Date, raceData.Name);
+                    Console.Write("P! race (from filename): {0}, date: {1}", raceData.Name, raceData.Date);
 
                     if (options.Verbose)
                     {
-                        Console.WriteLine($"Parsing file {file}. Race: {raceName}, date: {raceDate}. Output file: {raceData.OutputFile}");
+                        Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
                     }
-                    
 
                     var stepData = new StepData {InputFile = filePath,
                         Filter = filterExp,
@@ -132,6 +126,8 @@ namespace TriResultsConsole
                 // order races by newest first
                 filteredRaces = filteredRaces.OrderByDescending(r => r.RaceData.Date).ToList();
 
+
+                /// Write normalized race data (columns are normalized, results are filtered) output as csv. One file per race.
                 var writeStep = new CsvWriterStep();
 
                 foreach (var race in filteredRaces)
@@ -141,7 +137,7 @@ namespace TriResultsConsole
                     writeStep.Process(race);
                 }
                 
-                // output steps
+                /// Combined output steps
 
                 var htmlOutputStep = new CombineOutputHtmlStep();
                 var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
@@ -150,12 +146,16 @@ namespace TriResultsConsole
                 var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
                 var output = htmlOutputStep.Process("output", outputfile, columns, races);
 
-                var sqlCreateTableStep = new SqlCreateTableStep();
-                var sqlCreateTableStmt = sqlCreateTableStep.Process(columns);
-                Console.WriteLine("Create table syntax: " + sqlCreateTableStmt);
+                options.OutputSql = true; // for now, always set it to true, since it's easier when running from within VS
+                if (options.OutputSql)
+                {
+                    var sqlCreateTableStep = new SqlCreateTableStep();
+                    var sqlCreateTableStmt = sqlCreateTableStep.Process(columns);
+                    Console.WriteLine("Create table syntax: " + sqlCreateTableStmt);
 
-                var sqlInsertOutputStep = new CombineOutputSqlInsertStep();
-                var outputSqlInsert = sqlInsertOutputStep.Process("output", outputfile, columns, races);
+                    var sqlInsertOutputStep = new CombineOutputSqlInsertStep();
+                    var outputSqlInsert = sqlInsertOutputStep.Process("output", outputfile, columns, races);
+                }
             }
         }
 

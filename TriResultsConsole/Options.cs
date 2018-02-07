@@ -25,6 +25,10 @@ namespace TriResultsConsole
         [Option('o', "output folder")]
         public string OutputFolder { get; set; }
 
+
+        [Option('s', "output to sql file")]
+        public bool OutputSql { get; set; }
+
         //[Option('d', "output directory")]
         //public string OutputDirectory { get; set; }
 
