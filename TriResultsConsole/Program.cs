@@ -140,9 +140,8 @@ namespace TriResultsConsole
                     race.OutputFolder = Path.Combine(options.InputFile, options.OutputFolder);
                     writeStep.Process(race);
                 }
-
-                // TODO: write all races to one combined files
-                // TODO: write output in separate class 
+                
+                // output steps
 
                 var htmlOutputStep = new CombineOutputHtmlStep();
                 var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);

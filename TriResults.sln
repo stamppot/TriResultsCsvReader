@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsConsole", "TriRes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsInputOutput", "TriResultsInputOutput\TriResultsInputOutput.csproj", "{3F873495-D4D8-44B5-8CE2-32E6FAE8C2E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeHtmlResults", "ScrapeHtmlResults\ScrapeHtmlResults.csproj", "{F1EE4B53-0344-4AF8-B530-5A673C2B109E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{3F873495-D4D8-44B5-8CE2-32E6FAE8C2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F873495-D4D8-44B5-8CE2-32E6FAE8C2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F873495-D4D8-44B5-8CE2-32E6FAE8C2E6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1EE4B53-0344-4AF8-B530-5A673C2B109E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1EE4B53-0344-4AF8-B530-5A673C2B109E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1EE4B53-0344-4AF8-B530-5A673C2B109E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1EE4B53-0344-4AF8-B530-5A673C2B109E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
