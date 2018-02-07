@@ -85,17 +85,17 @@
     </mapfrom>
   </column>
   <column>
-    <name>#T1</name>
+    <name>PosT1</name>
     <mapfrom>
-      <altname>PosT1</altname>
+      <altname>#T1</altname>
       <altname>#W1</altname>
       <altname>PosWis1</altname>
     </mapfrom>
   </column>
   <column>
-    <name>#AfterT1</name>
+    <name>PosAfterT1</name>
     <mapfrom>
-      <altname>PosAfterT1</altname>
+      <altname>#AfterT1</altname>
       <altname>#NaW1</altname>
       <altname>PosNaWis1</altname>
       <!--<altname>AftChg1</altname>-->
@@ -137,9 +137,9 @@
     </mapfrom>
   </column>
   <column>
-    <name>#AfterBike</name>
+    <name>PosAfterBike</name>
     <mapfrom>
-      <altname>PosAfterBike</altname>
+      <altname>#AfterBike</altname>
       <altname>PltsNaFiets</altname>
       <altname>PltsNaFie</altname>
       <altname>#NaFiets</altname>
@@ -159,17 +159,17 @@
     </mapfrom>
   </column>
   <column>
-    <name>#T2</name>
+    <name>PosT2</name>
     <mapfrom>
-      <altname>PosT2</altname>
+      <altname>#T2</altname>
       <altname>#W2</altname>
       <altname>PosWis2</altname>
     </mapfrom>
   </column>
   <column>
-    <name>#AfterT2</name>
+    <name>PosAfterT2</name>
     <mapfrom>
-      <altname>PosAfterT2</altname>
+      <altname>#AfterT2</altname>
       <altname>#NaW2</altname>
       <altname>PosNaWis2</altname>
       <!--<altname>AftChg2</altname>-->

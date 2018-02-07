@@ -72,12 +72,15 @@
     <Compile Include="Exceptions\BadConfigurationException.cs" />
     <Compile Include="PipelineSteps\CombineOutputCsvStep.cs" />
     <Compile Include="PipelineSteps\CombineOutputHtmlStep.cs" />
+    <Compile Include="PipelineSteps\CombineOutputSqlInsertStep.cs" />
+    <Compile Include="PipelineSteps\SqlCreateTableStep.cs" />
     <Compile Include="PipelineSteps\FilterStep.cs" />
     <Compile Include="PipelineSteps\IPipelineStep.cs" />
     <Compile Include="IWhitelistFilter.cs" />
     <Compile Include="MemberReaderCsv.cs" />
     <Compile Include="MemberRow.cs" />
     <Compile Include="PipelineSteps\ReadAndFilterCsvFiles.cs" />
+    <Compile Include="PropertyType.cs" />
     <Compile Include="QueryExtensions.cs" />
     <Compile Include="Race.cs" />
     <Compile Include="RaceTypeGuesser.cs" />

@@ -146,9 +146,17 @@ namespace TriResultsConsole
 
                 var htmlOutputStep = new CombineOutputHtmlStep();
                 var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
-                
+                var races = filteredRaces.Select(f => f.RaceData).ToList();
+
                 var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
-                var output = htmlOutputStep.Process("output", outputfile, columns, filteredRaces.Select(f => f.RaceData).ToList());
+                var output = htmlOutputStep.Process("output", outputfile, columns, races);
+
+                var sqlCreateTableStep = new SqlCreateTableStep();
+                var sqlCreateTableStmt = sqlCreateTableStep.Process(columns);
+                Console.WriteLine("Create table syntax: " + sqlCreateTableStmt);
+
+                var sqlInsertOutputStep = new CombineOutputSqlInsertStep();
+                var outputSqlInsert = sqlInsertOutputStep.Process("output", outputfile, columns, races);
             }
         }
 

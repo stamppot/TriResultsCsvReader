@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Reflection;
 
 namespace TriResultsCsvReader
 {
@@ -93,6 +89,30 @@ namespace TriResultsCsvReader
                 return prop.GetValue(this, null);
             }
             return null;
+        }
+
+        public PropertyType GetPropertyType(string name)
+        {
+            var prop = this.GetType().GetProperty(name);
+            var propType = prop.PropertyType;
+            if (propType.Name == "String")
+            {
+                return PropertyType.aString;
+            }
+            if(propType.Name == "Int32")
+            {
+                return PropertyType.anInt;
+            }
+            if (propType.Name.StartsWith("Nullable") && propType.FullName.Contains("Int32"))
+            {
+                return PropertyType.aNullableInt;
+            }
+            if (propType.Name == "DateTime")
+            {
+                return PropertyType.aDate;
+            }
+            
+            return PropertyType.aString;
         }
     }
 }
