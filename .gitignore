@@ -3,8 +3,6 @@
 ################################################################################
 
 /packages
-/.vs/TriResults/v15
-/.vs/TriResults/lut
 /TriResultsConsole/bin/Debug/uitslagen/output
 /TriResultsConsole/bin/Debug/uitslagen
 **/bin/Debug
