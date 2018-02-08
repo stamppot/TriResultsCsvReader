@@ -1109,9 +1109,6 @@
     <None Include="uitslagen\2016-jun-26-deurningen-IndTot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2016-jun-26-deurningen-IndTotAll.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2016-jun-26-deurningen-Kid1Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -1137,9 +1134,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2016-jun-26-merelbeke%28b%29-5k_Tot.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2016-jun-26-zeewolde-10k_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2016-jun-26-zeewolde-1k_Tot.csv">

@@ -1,4 +1,4 @@
-Nr,StartNr,Cat,Naam,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaaltijd,DQ,race,date
+Pos,StartNr,Cat,Naam,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaal,DQ,race,date
 1,29,Man 40-,Thijs Wiggers,00:24:39,1,00:00:35,00:25:13,00:43:29,1,01:08:42,00:00:24,01:09:05,00:13:08,4,01:22:13,,Run Bike Run Deurningen 26-06-2016,2016-06-26
 2,23,Man 40-,Koen Wiggers,00:24:57,3,00:00:44,00:25:40,00:45:55,5,01:11:34,00:00:27,01:12:01,00:12:24,1,01:24:24,,Run Bike Run Deurningen 26-06-2016,2016-06-26
 3,100,Man 40+,Arnold Klieverik,00:24:57,2,00:00:49,00:25:45,00:45:47,3,01:11:31,00:00:32,01:12:02,00:12:29,2,01:24:31,,Run Bike Run Deurningen 26-06-2016,2016-06-26

@@ -5,6 +5,7 @@
     <mapfrom>
       <altname>Plts</altname>
       <altname>Pl</altname>
+      <altname>Nr</altname>
     </mapfrom>
   </column>
   <column>
@@ -211,6 +212,7 @@
     <mapfrom>
       <altname>#Loop1</altname>
       <altname>#L1</altname>
+      <altname>PltsLoop1</altname>
     </mapfrom>
   </column>
   <column>
@@ -225,6 +227,7 @@
     <mapfrom>
       <altname>#Loop2</altname>
       <altname>#L2</altname>
+      <altname>PltsLoop2</altname>
     </mapfrom>
   </column>
   <!-- end RBR -->

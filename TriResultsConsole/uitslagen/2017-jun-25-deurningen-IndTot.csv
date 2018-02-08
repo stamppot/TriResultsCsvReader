@@ -1,4 +1,4 @@
-Nr,StartNr,Cat,Naam,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaaltijd,DQ,race,date
+Pos,StartNr,Cat,Naam,Loop1,PlstLoop1,Wissel1,NaWissel1,Fiets,PltsFiets,NaFiets,Wissel2,NaWissel2,Loop2,PltsLoop2,Totaal,DQ,race,date
 1,31,Man 40-,Thijs Wiggers,00:24:44,1,00:00:40,00:25:24,00:43:53,2,01:09:17,00:00:22,01:09:38,00:13:36,7,01:23:13,,Run Bike Run Deurningen 25-06-2017,2017-06-25
 2,28,Man 40-,Pim de Kok,00:25:02,5,00:00:40,00:25:42,00:45:33,3,01:11:14,00:00:25,01:11:38,00:12:10,1,01:23:48,,Run Bike Run Deurningen 25-06-2017,2017-06-25
 3,56,Man 40-,Niels te Pas,00:24:44,2,00:00:40,00:25:24,00:45:53,7,01:11:17,00:00:19,01:11:35,00:12:35,2,01:24:10,,Run Bike Run Deurningen 25-06-2017,2017-06-25
