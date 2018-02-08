@@ -2,15 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/TriResultsCsvReader/bin/Debug
-/TriResultsCsvReader/obj/Debug
-/TriResultsCsvReader/obj/Debug
 /packages
 /.vs/TriResults/v15
 /.vs/TriResults/lut
 /TriResultsConsole/bin/Debug/uitslagen/output
 /TriResultsConsole/bin/Debug/uitslagen
-/TriResultsInputOutput/bin/Debug
-/TriResultsInputOutput/obj/Debug
 **/bin/Debug
 **/obj/Debug
+.vs/
+**/*.csproj.user
