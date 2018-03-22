@@ -3032,6 +3032,9 @@
     <None Include="uitslagen\2017-sep-9-winschoten-50k_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2018-mar-04-OceanLava-Tenerife.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvReader.csproj">
