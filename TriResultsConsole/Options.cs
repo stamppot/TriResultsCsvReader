@@ -29,23 +29,15 @@ namespace TriResultsConsole
         [Option('s', "output to sql file")]
         public bool OutputSql { get; set; }
 
-        //[Option('d', "output directory")]
-        //public string OutputDirectory { get; set; }
+        public bool OutputCsv { get; set; }
 
-
-        //[Option('r', "race name")]
-        //public string RaceName { get; set; }
-
+        public bool Debug { get; set; }
 
         [Option('d', "race date")]
         public DateTime RaceDate { get; set; }
-
-
-        [Option('u', "url to results page")]
-        public string Url { get; set; }
-
-        [ParserState]
-        public IParserState LastParserState { get; set; }
+        
+        //[ParserState]
+        //public IParserState LastParserState { get; set; }
 
         [Option('v', "verbose", DefaultValue = true, HelpText = "Prints all messages to standard output.")]
         public bool Verbose { get; set; }

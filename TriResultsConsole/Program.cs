@@ -9,6 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
+using TriResultsCsvReader.Utils;
 
 namespace TriResultsConsole
 {
@@ -36,7 +37,9 @@ namespace TriResultsConsole
                     Console.WriteLine("No input folder given, using 'uitslagen'");
                     options.InputFile = "uitslagen";
                 }
-                var inputFiles = GetAllFiles(options.InputFile);
+
+                var fileUtils = new FileUtils();
+                var inputFiles = fileUtils.GetAllFiles(options.InputFile);
 
                 if (!inputFiles.Any()) { Console.WriteLine("No input file or folder given, will do nothing."); }
 
@@ -102,7 +105,7 @@ namespace TriResultsConsole
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
                     Console.WriteLine("filePath: " + filePath);
-                    var raceData = GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
+                    var raceData = ProgramRunner.GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
       
                     Console.Write("P! race (from filename): {0}, date: {1}", raceData.Name, raceData.Date);
 
@@ -160,108 +163,7 @@ namespace TriResultsConsole
         }
 
 
-
-        public class RaceFileData
-        {
-            public DateTime Date { get; set; }
-            public string Name { get; set; }
-            public string OutputFile { get; set; }
-
-            public string FullPath { get; set; }
-        }
-
-        private static RaceFileData GetRaceFileData(string filename, string outputDir, DateTime raceDate)
-        {
-            var fi = new FileInfo(filename);
-
-            var index = fi.Name.IndexOf(".csv");
-            var name = ReplaceStringMonth(fi.Name);
-
-            RaceFileData output = new RaceFileData() { Name = name };
-
-            if (raceDate.Equals(DateTime.MinValue))
-            {
-                Console.WriteLine("raceDate is null, will try to get date from filename");
-                var datePart = name.Substring(0, 10);
-                if (DateTime.TryParseExact(datePart, "yyyy-MM-dd", Thread.CurrentThread.CurrentCulture, DateTimeStyles.None, out var racedate))
-                {
-                    Console.WriteLine("Got raceDate from filename: " + racedate.ToShortDateString());
-                    output.Date = racedate;
-                    output.Name = name.Substring(9); // remove date
-                    raceDate = racedate;
-                }
-                else
-                {
-                    //throw new FormatException("Filename must start with date in format yyyyMMdd_racefile.csv");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Using racedate given by args: " + (raceDate == null ? default(DateTime) : raceDate).ToShortDateString());
-                output.Date = raceDate;
-            }
-
-            output.Name = output.Name.Replace(".csv", "");
-            var raceDateStr = DateTime.MinValue == raceDate ? "" : raceDate.ToString("yyyyMMdd");
-
-            output.FullPath = Path.Combine(fi.Directory.FullName, outputDir);
-            output.OutputFile = Path.Combine(fi.Directory.FullName, outputDir, name);
-            Console.WriteLine("OutputFile: " + output.OutputFile);
-            return output;
-        }
-
-        private static string ReplaceStringMonth(string name)
-        {
-            return name
-                .Replace("-jan-", "-01-")
-                .Replace("-feb-", "-02-")
-                .Replace("-mar-", "-03-")
-                .Replace("-apr-", "-04-")
-                .Replace("-may-", "-05-")
-                .Replace("-jun-", "-06-")
-                .Replace("-jul-", "-07-")
-                .Replace("-aug-", "-08-")
-                .Replace("-sep-", "-09-")
-                .Replace("-oct-", "-10-")
-                .Replace("-nov-", "-11-")
-                .Replace("-dec-", "-12-");
-        }
-
-        private static List<string> GetAllFiles(string inputFileOrFolder, bool printVerboseOutput = true)
-        {
-            var files = new List<string>();
-
-            var dirInfo = new DirectoryInfo(inputFileOrFolder);
-
-            if (printVerboseOutput)
-            {
-                Console.WriteLine($"Input {inputFileOrFolder}");
-            }
-
-            if (dirInfo.Exists)
-            {
-                Console.WriteLine($"Is a folder {inputFileOrFolder}");
-                // a directory is given
-                files.AddRange(dirInfo.GetFiles("*.csv", SearchOption.TopDirectoryOnly).Select(f => f.FullName).Where(f => !f.EndsWith("_output.csv")));
-            }
-            else
-            {
-                Console.WriteLine($"Is a file {inputFileOrFolder}");
-                // a file is given
-                var fileInfo = new FileInfo(inputFileOrFolder);
-                if (!fileInfo.Exists) { var errorMessage = $"Input file does not exist: {inputFileOrFolder}"; Console.WriteLine(errorMessage); throw new FileNotFoundException(errorMessage); }
-
-                files.Add(fileInfo.FullName);
-            }
-
-            if (printVerboseOutput)
-            {
-                Console.WriteLine("Found files:\n");
-                files.ForEach(f => Console.WriteLine($"{f}"));
-            }
-
-            return files;
-        }
+     
 
         private static bool ExistsFile(string filename)
         {

@@ -75,6 +75,7 @@ namespace TriResultsCsvReader.PipelineSteps
 
                 htmlBuilder.Append("<p/>");
 
+
                 var skippedColumnsStr = skippedColumns.Select(p => string.Join(", ", string.Format("{0}: {1} ", p.Key, p.Value)));
                 Console.WriteLine(string.Format("Skip columns: {0}", String.Join(", ", skippedColumnsStr)));
             }

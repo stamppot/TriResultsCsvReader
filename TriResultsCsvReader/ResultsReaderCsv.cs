@@ -53,7 +53,18 @@ namespace TriResultsCsvReader
             var csvLines = File.ReadAllLines(csvFilename);
 
             var columnValidator = new ValidateCsvNumberOfColumns();
-            var isValid = columnValidator.Validate(csvLines);
+            bool isValid = false;
+
+            try
+            {
+                isValid = columnValidator.Validate(csvLines);
+            }
+            catch (FormatException ex)
+            {
+                var message = $"File doesn't have an equal amount of columns: {csvFilename}.";
+                throw new CsvFormatException(message, ex);
+            }
+
             if(!isValid)
             {
                 Console.WriteLine("Error!  Number of columns mismatch in csv file: " + csvFilename);
@@ -72,9 +83,15 @@ namespace TriResultsCsvReader
                 try
                 {
                     records = csvReader.GetRecords<ResultRow>().ToList();
+                }
+                catch (CsvHelperException ex)
+                {
+                    var message = string.Format("Error parsing csv file (Check column types and missing data and/or DNF where position should be: {0}: {1}", csvFilename, ex.Message);
+                    throw new CsvFormatException(message, ex);
                 } catch(Exception ex)
                 {
                     Console.WriteLine("Error reading csv file: {0}: {1}", csvFilename, ex.Message);
+                    
                     throw;
                 }
                 if (filter != null)
