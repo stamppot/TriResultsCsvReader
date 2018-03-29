@@ -3053,9 +3053,6 @@
     <None Include="uitslagen\2018-mar-24-Marathon-Bordeaux.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2018-mar-24-MarathonsBordeaux.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="uitslagen\2018-mar-25-24eHaaksbergse-engelse-mijlenloop.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

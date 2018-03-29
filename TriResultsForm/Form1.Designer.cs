@@ -39,16 +39,18 @@
             this.button1 = new System.Windows.Forms.Button();
             this.inputFolderTextBox1 = new System.Windows.Forms.TextBox();
             this.inputGroupBox = new System.Windows.Forms.GroupBox();
+            this.verboseCheckBox1 = new System.Windows.Forms.CheckBox();
+            this.outputHtmlCheckBox = new System.Windows.Forms.CheckBox();
+            this.filteredCsvOutputCheckBox = new System.Windows.Forms.CheckBox();
+            this.outputSqlCheckBox = new System.Windows.Forms.CheckBox();
             this.button4 = new System.Windows.Forms.Button();
             this.outputFolderTextBox = new System.Windows.Forms.TextBox();
             this.outputFolderLabel = new System.Windows.Forms.Label();
-            this.outputSqlCheckBox = new System.Windows.Forms.CheckBox();
-            this.filteredCsvOutputCheckBox = new System.Windows.Forms.CheckBox();
-            this.outputHtmlCheckBox = new System.Windows.Forms.CheckBox();
             this.outputGroupBox1 = new System.Windows.Forms.GroupBox();
             this.outputTextBox = new System.Windows.Forms.TextBox();
             this.runButton5 = new System.Windows.Forms.Button();
-            this.verboseCheckBox1 = new System.Windows.Forms.CheckBox();
+            this.openFileButton = new System.Windows.Forms.Button();
+            this.validateFileButton5 = new System.Windows.Forms.Button();
             this.inputGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
             this.outputGroupBox1.SuspendLayout();
@@ -59,12 +61,13 @@
             this.inputFolderLabel1.AutoSize = true;
             this.inputFolderLabel1.Location = new System.Drawing.Point(6, 30);
             this.inputFolderLabel1.Name = "inputFolderLabel1";
-            this.inputFolderLabel1.Size = new System.Drawing.Size(83, 17);
+            this.inputFolderLabel1.Size = new System.Drawing.Size(78, 17);
             this.inputFolderLabel1.TabIndex = 0;
-            this.inputFolderLabel1.Text = "Input Folder";
+            this.inputFolderLabel1.Text = "File / folder";
             // 
             // inputGroupBox1
             // 
+            this.inputGroupBox1.Controls.Add(this.openFileButton);
             this.inputGroupBox1.Controls.Add(this.button3);
             this.inputGroupBox1.Controls.Add(this.columnsConfigFileTextBox);
             this.inputGroupBox1.Controls.Add(this.configFileLabel1);
@@ -140,7 +143,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 25);
             this.button1.TabIndex = 2;
-            this.button1.Text = "Open";
+            this.button1.Text = "Folder...";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.selectInputFolderButton_Click);
             // 
@@ -166,6 +169,56 @@
             this.inputGroupBox.TabIndex = 2;
             this.inputGroupBox.TabStop = false;
             this.inputGroupBox.Text = "Output options";
+            // 
+            // verboseCheckBox1
+            // 
+            this.verboseCheckBox1.AutoSize = true;
+            this.verboseCheckBox1.Checked = true;
+            this.verboseCheckBox1.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.verboseCheckBox1.Location = new System.Drawing.Point(307, 134);
+            this.verboseCheckBox1.Name = "verboseCheckBox1";
+            this.verboseCheckBox1.Size = new System.Drawing.Size(83, 21);
+            this.verboseCheckBox1.TabIndex = 11;
+            this.verboseCheckBox1.Text = "Verbose";
+            this.verboseCheckBox1.UseVisualStyleBackColor = true;
+            this.verboseCheckBox1.CheckedChanged += new System.EventHandler(this.verboseCheckBox1_CheckedChanged);
+            // 
+            // outputHtmlCheckBox
+            // 
+            this.outputHtmlCheckBox.AutoSize = true;
+            this.outputHtmlCheckBox.Checked = true;
+            this.outputHtmlCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.outputHtmlCheckBox.Location = new System.Drawing.Point(9, 79);
+            this.outputHtmlCheckBox.Name = "outputHtmlCheckBox";
+            this.outputHtmlCheckBox.Size = new System.Drawing.Size(68, 21);
+            this.outputHtmlCheckBox.TabIndex = 10;
+            this.outputHtmlCheckBox.Text = "HTML";
+            this.outputHtmlCheckBox.UseVisualStyleBackColor = true;
+            this.outputHtmlCheckBox.CheckedChanged += new System.EventHandler(this.outputHtmlCheckBox_CheckedChanged);
+            // 
+            // filteredCsvOutputCheckBox
+            // 
+            this.filteredCsvOutputCheckBox.AutoSize = true;
+            this.filteredCsvOutputCheckBox.Checked = true;
+            this.filteredCsvOutputCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.filteredCsvOutputCheckBox.Location = new System.Drawing.Point(9, 133);
+            this.filteredCsvOutputCheckBox.Name = "filteredCsvOutputCheckBox";
+            this.filteredCsvOutputCheckBox.Size = new System.Drawing.Size(108, 21);
+            this.filteredCsvOutputCheckBox.TabIndex = 9;
+            this.filteredCsvOutputCheckBox.Text = "Filtered CSV";
+            this.filteredCsvOutputCheckBox.UseVisualStyleBackColor = true;
+            this.filteredCsvOutputCheckBox.CheckedChanged += new System.EventHandler(this.filteredCsvOutputCheckBox_CheckedChanged);
+            // 
+            // outputSqlCheckBox
+            // 
+            this.outputSqlCheckBox.AutoSize = true;
+            this.outputSqlCheckBox.Location = new System.Drawing.Point(9, 106);
+            this.outputSqlCheckBox.Name = "outputSqlCheckBox";
+            this.outputSqlCheckBox.Size = new System.Drawing.Size(104, 21);
+            this.outputSqlCheckBox.TabIndex = 8;
+            this.outputSqlCheckBox.Text = "SQL inserts";
+            this.outputSqlCheckBox.UseVisualStyleBackColor = true;
+            this.outputSqlCheckBox.CheckedChanged += new System.EventHandler(this.outputSqlCheckBox_CheckedChanged);
             // 
             // button4
             // 
@@ -193,43 +246,6 @@
             this.outputFolderLabel.Size = new System.Drawing.Size(95, 17);
             this.outputFolderLabel.TabIndex = 3;
             this.outputFolderLabel.Text = "Output Folder";
-            // 
-            // outputSqlCheckBox
-            // 
-            this.outputSqlCheckBox.AutoSize = true;
-            this.outputSqlCheckBox.Location = new System.Drawing.Point(9, 106);
-            this.outputSqlCheckBox.Name = "outputSqlCheckBox";
-            this.outputSqlCheckBox.Size = new System.Drawing.Size(104, 21);
-            this.outputSqlCheckBox.TabIndex = 8;
-            this.outputSqlCheckBox.Text = "SQL inserts";
-            this.outputSqlCheckBox.UseVisualStyleBackColor = true;
-            this.outputSqlCheckBox.CheckedChanged += new System.EventHandler(this.outputSqlCheckBox_CheckedChanged);
-            // 
-            // filteredCsvOutputCheckBox
-            // 
-            this.filteredCsvOutputCheckBox.AutoSize = true;
-            this.filteredCsvOutputCheckBox.Checked = true;
-            this.filteredCsvOutputCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.filteredCsvOutputCheckBox.Location = new System.Drawing.Point(9, 133);
-            this.filteredCsvOutputCheckBox.Name = "filteredCsvOutputCheckBox";
-            this.filteredCsvOutputCheckBox.Size = new System.Drawing.Size(108, 21);
-            this.filteredCsvOutputCheckBox.TabIndex = 9;
-            this.filteredCsvOutputCheckBox.Text = "Filtered CSV";
-            this.filteredCsvOutputCheckBox.UseVisualStyleBackColor = true;
-            this.filteredCsvOutputCheckBox.CheckedChanged += new System.EventHandler(this.filteredCsvOutputCheckBox_CheckedChanged);
-            // 
-            // outputHtmlCheckBox
-            // 
-            this.outputHtmlCheckBox.AutoSize = true;
-            this.outputHtmlCheckBox.Checked = true;
-            this.outputHtmlCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.outputHtmlCheckBox.Location = new System.Drawing.Point(9, 79);
-            this.outputHtmlCheckBox.Name = "outputHtmlCheckBox";
-            this.outputHtmlCheckBox.Size = new System.Drawing.Size(68, 21);
-            this.outputHtmlCheckBox.TabIndex = 10;
-            this.outputHtmlCheckBox.Text = "HTML";
-            this.outputHtmlCheckBox.UseVisualStyleBackColor = true;
-            this.outputHtmlCheckBox.CheckedChanged += new System.EventHandler(this.outputHtmlCheckBox_CheckedChanged);
             // 
             // outputGroupBox1
             // 
@@ -260,30 +276,39 @@
             this.runButton5.UseVisualStyleBackColor = true;
             this.runButton5.Click += new System.EventHandler(this.runButton5_Click);
             // 
-            // verboseCheckBox1
+            // openFileButton
             // 
-            this.verboseCheckBox1.AutoSize = true;
-            this.verboseCheckBox1.Checked = true;
-            this.verboseCheckBox1.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.verboseCheckBox1.Location = new System.Drawing.Point(307, 134);
-            this.verboseCheckBox1.Name = "verboseCheckBox1";
-            this.verboseCheckBox1.Size = new System.Drawing.Size(83, 21);
-            this.verboseCheckBox1.TabIndex = 11;
-            this.verboseCheckBox1.Text = "Verbose";
-            this.verboseCheckBox1.UseVisualStyleBackColor = true;
-            this.verboseCheckBox1.CheckedChanged += new System.EventHandler(this.verboseCheckBox1_CheckedChanged);
+            this.openFileButton.Location = new System.Drawing.Point(234, 58);
+            this.openFileButton.Name = "openFileButton";
+            this.openFileButton.Size = new System.Drawing.Size(75, 25);
+            this.openFileButton.TabIndex = 9;
+            this.openFileButton.Text = "File...";
+            this.openFileButton.UseVisualStyleBackColor = true;
+            this.openFileButton.Click += new System.EventHandler(this.openFileButton_Click);
+            // 
+            // validateFileButton5
+            // 
+            this.validateFileButton5.Location = new System.Drawing.Point(422, 412);
+            this.validateFileButton5.Name = "validateFileButton5";
+            this.validateFileButton5.Size = new System.Drawing.Size(75, 26);
+            this.validateFileButton5.TabIndex = 5;
+            this.validateFileButton5.Text = "Test file";
+            this.validateFileButton5.UseVisualStyleBackColor = true;
+            this.validateFileButton5.Visible = false;
+            this.validateFileButton5.Click += new System.EventHandler(this.validateFileButton5_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.validateFileButton5);
             this.Controls.Add(this.runButton5);
             this.Controls.Add(this.outputGroupBox1);
             this.Controls.Add(this.inputGroupBox);
             this.Controls.Add(this.inputGroupBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "De uitslagengenerator";
             this.inputGroupBox1.ResumeLayout(false);
             this.inputGroupBox1.PerformLayout();
             this.inputGroupBox.ResumeLayout(false);
@@ -317,6 +342,8 @@
         private System.Windows.Forms.TextBox outputTextBox;
         private System.Windows.Forms.Button runButton5;
         private System.Windows.Forms.CheckBox verboseCheckBox1;
+        private System.Windows.Forms.Button openFileButton;
+        private System.Windows.Forms.Button validateFileButton5;
     }
 }
 

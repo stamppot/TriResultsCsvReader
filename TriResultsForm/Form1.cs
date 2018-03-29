@@ -16,6 +16,8 @@ namespace TriResultsForm
 {
     public partial class Form1 : Form
     {
+        public bool IsFileSelected { get; set; }
+
         public ProgramOptions Options { get; private set; }
 
         public Form1()
@@ -81,6 +83,28 @@ namespace TriResultsForm
             }
         }
 
+
+        private void openFileButton_Click(object sender, EventArgs e)
+        {
+            var fileDialog = new CommonOpenFileDialog("Select input file")
+            {
+                EnsurePathExists = true,
+                AllowNonFileSystemItems = false,
+                IsFolderPicker = false
+            };
+
+            var dialogResult = fileDialog.ShowDialog();
+            if (dialogResult == CommonFileDialogResult.Ok)
+            {
+                Options.OutputFolder = fileDialog.FileName;
+                outputFolderTextBox.Text = Options.OutputFolder;
+
+                // show validate file button
+                IsFileSelected = true;
+                validateFileButton5.Visible = IsFileSelected;
+            }
+        }
+
         private void filteredCsvOutputCheckBox_CheckedChanged(object sender, EventArgs e)
         {
             Options.OutputCsv = filteredCsvOutputCheckBox.Checked;
@@ -120,6 +144,11 @@ namespace TriResultsForm
         private void verboseCheckBox1_CheckedChanged(object sender, EventArgs e)
         {
             Options.Verbose = verboseCheckBox1.Checked;
+        }
+
+        private void validateFileButton5_Click(object sender, EventArgs e)
+        {
+            // TODO: run something like runner.Process which tests a single csv file
         }
     }
 }
