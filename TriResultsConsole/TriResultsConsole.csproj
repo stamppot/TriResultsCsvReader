@@ -3059,6 +3059,12 @@
     <None Include="uitslagen\2018-mar-25-ICW-Middelstum.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2018-mar-31-RBR-series-Oldenzaal-H.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2018-mar-31-RBR-series-Oldenzaal-V.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvReader.csproj">

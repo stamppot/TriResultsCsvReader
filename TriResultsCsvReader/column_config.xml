@@ -201,6 +201,19 @@
   </column>
   <!-- RBR -->
   <column>
+    <name>TeamNr</name>
+    <mapfrom>
+      <altname>TeamNo</altname>
+      <altname>TeamNumber</altname>
+    </mapfrom>
+  </column>
+  <column>
+    <name>TeamTotal</name>
+    <mapfrom>
+      <altname>TeamTotaal</altname>
+    </mapfrom>
+  </column>
+  <column>
     <name>Run1</name>
     <mapfrom>
       <altname>Loop1</altname>
@@ -247,6 +260,7 @@
   <column>
     <name>TeamRank</name>
     <mapfrom>
+      <altname>TeamPos</altname>
       <altname>RankTeam</altname>
     </mapfrom>
   </column>

@@ -67,7 +67,11 @@ namespace TriResultsCsvReader
         /*** Team fields ***/
         public int? TeamPoints { get; set; }
 
+        public int? TeamNr { get; set; }
+
         public int? TeamTotalPoints { get; set; }
+
+        public string TeamTotal { get; set; }
 
         public int? TeamRank { get; set; }
 
