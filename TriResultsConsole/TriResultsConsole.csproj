@@ -3059,6 +3059,9 @@
     <None Include="uitslagen\2018-mar-25-ICW-Middelstum.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2018-mar-31-Diever-voorjaarsmarathon.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2018-mar-31-RBR-series-Oldenzaal-H.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
