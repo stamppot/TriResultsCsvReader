@@ -30,6 +30,7 @@
         {
             this.inputFolderLabel1 = new System.Windows.Forms.Label();
             this.inputGroupBox1 = new System.Windows.Forms.GroupBox();
+            this.openFileButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.columnsConfigFileTextBox = new System.Windows.Forms.TextBox();
             this.configFileLabel1 = new System.Windows.Forms.Label();
@@ -49,11 +50,16 @@
             this.outputGroupBox1 = new System.Windows.Forms.GroupBox();
             this.outputTextBox = new System.Windows.Forms.TextBox();
             this.runButton5 = new System.Windows.Forms.Button();
-            this.openFileButton = new System.Windows.Forms.Button();
             this.validateFileButton5 = new System.Windows.Forms.Button();
+            this.raceGroupBox1 = new System.Windows.Forms.GroupBox();
+            this.raceNameTextBox1 = new System.Windows.Forms.TextBox();
+            this.raceNameLabel1 = new System.Windows.Forms.Label();
+            this.raceDateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.raceDateLabel = new System.Windows.Forms.Label();
             this.inputGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
             this.outputGroupBox1.SuspendLayout();
+            this.raceGroupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -67,6 +73,7 @@
             // 
             // inputGroupBox1
             // 
+            this.inputGroupBox1.Controls.Add(this.raceGroupBox1);
             this.inputGroupBox1.Controls.Add(this.openFileButton);
             this.inputGroupBox1.Controls.Add(this.button3);
             this.inputGroupBox1.Controls.Add(this.columnsConfigFileTextBox);
@@ -79,14 +86,24 @@
             this.inputGroupBox1.Controls.Add(this.inputFolderLabel1);
             this.inputGroupBox1.Location = new System.Drawing.Point(12, 21);
             this.inputGroupBox1.Name = "inputGroupBox1";
-            this.inputGroupBox1.Size = new System.Drawing.Size(396, 245);
+            this.inputGroupBox1.Size = new System.Drawing.Size(396, 368);
             this.inputGroupBox1.TabIndex = 1;
             this.inputGroupBox1.TabStop = false;
             this.inputGroupBox1.Text = "Input options";
             // 
+            // openFileButton
+            // 
+            this.openFileButton.Location = new System.Drawing.Point(234, 58);
+            this.openFileButton.Name = "openFileButton";
+            this.openFileButton.Size = new System.Drawing.Size(75, 25);
+            this.openFileButton.TabIndex = 9;
+            this.openFileButton.Text = "File...";
+            this.openFileButton.UseVisualStyleBackColor = true;
+            this.openFileButton.Click += new System.EventHandler(this.openFileButton_Click);
+            // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(315, 210);
+            this.button3.Location = new System.Drawing.Point(315, 317);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 25);
             this.button3.TabIndex = 8;
@@ -95,7 +112,7 @@
             // 
             // columnsConfigFileTextBox
             // 
-            this.columnsConfigFileTextBox.Location = new System.Drawing.Point(123, 182);
+            this.columnsConfigFileTextBox.Location = new System.Drawing.Point(123, 289);
             this.columnsConfigFileTextBox.Name = "columnsConfigFileTextBox";
             this.columnsConfigFileTextBox.Size = new System.Drawing.Size(267, 22);
             this.columnsConfigFileTextBox.TabIndex = 7;
@@ -104,7 +121,7 @@
             // configFileLabel1
             // 
             this.configFileLabel1.AutoSize = true;
-            this.configFileLabel1.Location = new System.Drawing.Point(6, 182);
+            this.configFileLabel1.Location = new System.Drawing.Point(6, 289);
             this.configFileLabel1.Name = "configFileLabel1";
             this.configFileLabel1.Size = new System.Drawing.Size(111, 17);
             this.configFileLabel1.TabIndex = 6;
@@ -112,7 +129,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(315, 126);
+            this.button2.Location = new System.Drawing.Point(315, 245);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 25);
             this.button2.TabIndex = 5;
@@ -122,7 +139,7 @@
             // 
             // filterMemberTextBox
             // 
-            this.filterMemberTextBox.Location = new System.Drawing.Point(125, 98);
+            this.filterMemberTextBox.Location = new System.Drawing.Point(125, 217);
             this.filterMemberTextBox.Name = "filterMemberTextBox";
             this.filterMemberTextBox.Size = new System.Drawing.Size(265, 22);
             this.filterMemberTextBox.TabIndex = 4;
@@ -131,7 +148,7 @@
             // filterMemberLabel
             // 
             this.filterMemberLabel.AutoSize = true;
-            this.filterMemberLabel.Location = new System.Drawing.Point(6, 98);
+            this.filterMemberLabel.Location = new System.Drawing.Point(6, 220);
             this.filterMemberLabel.Name = "filterMemberLabel";
             this.filterMemberLabel.Size = new System.Drawing.Size(120, 17);
             this.filterMemberLabel.TabIndex = 3;
@@ -163,7 +180,7 @@
             this.inputGroupBox.Controls.Add(this.button4);
             this.inputGroupBox.Controls.Add(this.outputFolderTextBox);
             this.inputGroupBox.Controls.Add(this.outputFolderLabel);
-            this.inputGroupBox.Location = new System.Drawing.Point(12, 280);
+            this.inputGroupBox.Location = new System.Drawing.Point(12, 404);
             this.inputGroupBox.Name = "inputGroupBox";
             this.inputGroupBox.Size = new System.Drawing.Size(396, 158);
             this.inputGroupBox.TabIndex = 2;
@@ -252,7 +269,7 @@
             this.outputGroupBox1.Controls.Add(this.outputTextBox);
             this.outputGroupBox1.Location = new System.Drawing.Point(415, 21);
             this.outputGroupBox1.Name = "outputGroupBox1";
-            this.outputGroupBox1.Size = new System.Drawing.Size(373, 382);
+            this.outputGroupBox1.Size = new System.Drawing.Size(757, 532);
             this.outputGroupBox1.TabIndex = 3;
             this.outputGroupBox1.TabStop = false;
             this.outputGroupBox1.Text = "Output";
@@ -262,13 +279,14 @@
             this.outputTextBox.Location = new System.Drawing.Point(7, 22);
             this.outputTextBox.Multiline = true;
             this.outputTextBox.Name = "outputTextBox";
-            this.outputTextBox.Size = new System.Drawing.Size(360, 354);
+            this.outputTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.outputTextBox.Size = new System.Drawing.Size(744, 504);
             this.outputTextBox.TabIndex = 0;
             this.outputTextBox.Text = "Select Input file...";
             // 
             // runButton5
             // 
-            this.runButton5.Location = new System.Drawing.Point(707, 409);
+            this.runButton5.Location = new System.Drawing.Point(707, 559);
             this.runButton5.Name = "runButton5";
             this.runButton5.Size = new System.Drawing.Size(75, 26);
             this.runButton5.TabIndex = 4;
@@ -276,19 +294,9 @@
             this.runButton5.UseVisualStyleBackColor = true;
             this.runButton5.Click += new System.EventHandler(this.runButton5_Click);
             // 
-            // openFileButton
-            // 
-            this.openFileButton.Location = new System.Drawing.Point(234, 58);
-            this.openFileButton.Name = "openFileButton";
-            this.openFileButton.Size = new System.Drawing.Size(75, 25);
-            this.openFileButton.TabIndex = 9;
-            this.openFileButton.Text = "File...";
-            this.openFileButton.UseVisualStyleBackColor = true;
-            this.openFileButton.Click += new System.EventHandler(this.openFileButton_Click);
-            // 
             // validateFileButton5
             // 
-            this.validateFileButton5.Location = new System.Drawing.Point(422, 412);
+            this.validateFileButton5.Location = new System.Drawing.Point(422, 562);
             this.validateFileButton5.Name = "validateFileButton5";
             this.validateFileButton5.Size = new System.Drawing.Size(75, 26);
             this.validateFileButton5.TabIndex = 5;
@@ -297,11 +305,58 @@
             this.validateFileButton5.Visible = false;
             this.validateFileButton5.Click += new System.EventHandler(this.validateFileButton5_Click);
             // 
+            // raceGroupBox1
+            // 
+            this.raceGroupBox1.Controls.Add(this.raceDateLabel);
+            this.raceGroupBox1.Controls.Add(this.raceDateTimePicker);
+            this.raceGroupBox1.Controls.Add(this.raceNameLabel1);
+            this.raceGroupBox1.Controls.Add(this.raceNameTextBox1);
+            this.raceGroupBox1.Location = new System.Drawing.Point(9, 98);
+            this.raceGroupBox1.Name = "raceGroupBox1";
+            this.raceGroupBox1.Size = new System.Drawing.Size(381, 101);
+            this.raceGroupBox1.TabIndex = 10;
+            this.raceGroupBox1.TabStop = false;
+            this.raceGroupBox1.Text = "Race";
+            this.raceGroupBox1.Visible = false;
+            // 
+            // raceNameTextBox1
+            // 
+            this.raceNameTextBox1.Location = new System.Drawing.Point(116, 31);
+            this.raceNameTextBox1.Name = "raceNameTextBox1";
+            this.raceNameTextBox1.Size = new System.Drawing.Size(259, 22);
+            this.raceNameTextBox1.TabIndex = 0;
+            // 
+            // raceNameLabel1
+            // 
+            this.raceNameLabel1.AutoSize = true;
+            this.raceNameLabel1.Location = new System.Drawing.Point(12, 32);
+            this.raceNameLabel1.Name = "raceNameLabel1";
+            this.raceNameLabel1.Size = new System.Drawing.Size(80, 17);
+            this.raceNameLabel1.TabIndex = 1;
+            this.raceNameLabel1.Text = "Race name";
+            // 
+            // raceDateTimePicker
+            // 
+            this.raceDateTimePicker.Location = new System.Drawing.Point(116, 59);
+            this.raceDateTimePicker.Name = "raceDateTimePicker";
+            this.raceDateTimePicker.Size = new System.Drawing.Size(259, 22);
+            this.raceDateTimePicker.TabIndex = 2;
+            this.raceDateTimePicker.ValueChanged += new System.EventHandler(this.raceDateTimePicker_ValueChanged);
+            // 
+            // raceDateLabel
+            // 
+            this.raceDateLabel.AutoSize = true;
+            this.raceDateLabel.Location = new System.Drawing.Point(12, 64);
+            this.raceDateLabel.Name = "raceDateLabel";
+            this.raceDateLabel.Size = new System.Drawing.Size(38, 17);
+            this.raceDateLabel.TabIndex = 3;
+            this.raceDateLabel.Text = "Date";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1184, 600);
             this.Controls.Add(this.validateFileButton5);
             this.Controls.Add(this.runButton5);
             this.Controls.Add(this.outputGroupBox1);
@@ -315,6 +370,8 @@
             this.inputGroupBox.PerformLayout();
             this.outputGroupBox1.ResumeLayout(false);
             this.outputGroupBox1.PerformLayout();
+            this.raceGroupBox1.ResumeLayout(false);
+            this.raceGroupBox1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -344,6 +401,11 @@
         private System.Windows.Forms.CheckBox verboseCheckBox1;
         private System.Windows.Forms.Button openFileButton;
         private System.Windows.Forms.Button validateFileButton5;
+        private System.Windows.Forms.GroupBox raceGroupBox1;
+        private System.Windows.Forms.Label raceDateLabel;
+        private System.Windows.Forms.DateTimePicker raceDateTimePicker;
+        private System.Windows.Forms.Label raceNameLabel1;
+        private System.Windows.Forms.TextBox raceNameTextBox1;
     }
 }
 

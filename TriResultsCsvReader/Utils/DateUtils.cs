@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Optional;
 
 namespace TriResultsCsvReader
 {
@@ -23,6 +20,31 @@ namespace TriResultsCsvReader
                 .Replace("-oct-", "-10-")
                 .Replace("-nov-", "-11-")
                 .Replace("-dec-", "-12-");
+        }
+
+        public static string ToFilenameFormat(DateTime dt)
+        {
+            return dt.ToString("yyyy-MMM-dd");
+        }
+
+        public static Option<DateTime> FromFilename(string filename)
+        {
+            filename = filename.Substring(1 + filename.LastIndexOf('\\'));
+            var dtStr = ReplaceStringMonth(filename).Substring(0, 10);
+
+            DateTime output = DateTime.MinValue;
+
+                if (DateTime.TryParse(dtStr, out output))
+                {
+                    return Option.Some<DateTime>(output);
+                }
+
+            return Option.None<DateTime>();
+        }
+
+        public static string ToRaceFilename(DateTime dt, string raceName)
+        {
+            return ToFilenameFormat(dt) + "_" + raceName.Replace(" ", "-");
         }
     }
 }

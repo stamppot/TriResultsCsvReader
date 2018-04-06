@@ -36,5 +36,7 @@ namespace TriResultsForm
 
         //[Option('d', "race date")]
         public DateTime RaceDate { get; set; }
+
+        public string RaceName { get; set; }
     }
 }

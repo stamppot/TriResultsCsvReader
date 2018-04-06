@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
 using Microsoft.WindowsAPICodePack.Dialogs;
+using Optional;
 using TriResultsCsvReader;
 
 namespace TriResultsForm
@@ -68,6 +69,8 @@ namespace TriResultsForm
 
         private void outputFolderButton4_Click(object sender, EventArgs e)
         {
+            raceGroupBox1.Visible = false;
+
             var dirDialog = new CommonOpenFileDialog("Select input file or folder")
             {
                 EnsurePathExists = true,
@@ -96,16 +99,38 @@ namespace TriResultsForm
             var dialogResult = fileDialog.ShowDialog();
             if (dialogResult == CommonFileDialogResult.Ok)
             {
-                Options.OutputFolder = fileDialog.FileName;
-                outputFolderTextBox.Text = Options.OutputFolder;
-
+                inputFolderTextBox1.Text = fileDialog.FileName;
+                Options.InputFolderOrFile = fileDialog.FileName;
+                
                 // show validate file button
                 IsFileSelected = true;
                 validateFileButton5.Visible = IsFileSelected;
+
+                raceGroupBox1.Visible = true;
+
+                // parse file datetime
+                var date = DateUtils.FromFilename(Options.InputFolderOrFile);
+
+                SetRaceName(date, raceNameLabel1.Text, Options);
             }
         }
 
-        private void filteredCsvOutputCheckBox_CheckedChanged(object sender, EventArgs e)
+        private void SetRaceName(Option<DateTime> date, string raceName, ProgramOptions options)
+        {
+            var raceDate = date.ValueOr(DateTime.Now);
+            
+            if (date.HasValue)
+            {
+                raceDateTimePicker.Value = raceDate;
+            }
+
+            if (!string.IsNullOrEmpty(raceName) && date.HasValue)
+            {
+                options.RaceName = raceName;
+            }
+        }
+
+    private void filteredCsvOutputCheckBox_CheckedChanged(object sender, EventArgs e)
         {
             Options.OutputCsv = filteredCsvOutputCheckBox.Checked;
         }
@@ -132,7 +157,7 @@ namespace TriResultsForm
             }
             catch (CsvFormatException ex)
             {
-                
+
             }
 
             if (!success)
@@ -148,7 +173,43 @@ namespace TriResultsForm
 
         private void validateFileButton5_Click(object sender, EventArgs e)
         {
+            if (IsFileSelected)
+            {
+                Options.RaceName = raceNameTextBox1.Text;
+
+                if (string.IsNullOrEmpty(Options.RaceName))
+                {
+                    outputTextBox.Text += Environment.NewLine + "Do you want to add a race name or is that in the csv file?" + Environment.NewLine;
+                }
+            }
+
             // TODO: run something like runner.Process which tests a single csv file
+            var runner = new ProgramRunner();
+
+            var valid = runner.Test(Options);
+
+            outputTextBox.Text += string.Join(Environment.NewLine, runner.Info);
+            
+            if (!valid)
+            {
+                outputTextBox.Text += string.Join(Environment.NewLine, runner.Errors);
+            }
+            else
+            {
+                outputTextBox.Text += $"File '{Options.InputFolderOrFile}' is good!" + Environment.NewLine;
+
+                outputTextBox.Text += String.Join(Environment.NewLine, runner.Output);
+            }
+        }
+
+        private void raceDateTimePicker_ValueChanged(object sender, EventArgs e)
+        {
+            var date = raceDateTimePicker.Value;
+            Options.RaceDate = date;
+
+            var raceName = raceNameLabel1.Text;
+
+            SetRaceName(Option.Some(date), raceName, Options);
         }
     }
 }

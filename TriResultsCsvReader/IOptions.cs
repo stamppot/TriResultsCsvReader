@@ -25,5 +25,9 @@ namespace TriResultsCsvReader
         bool Verbose { get; set; }
 
         DateTime RaceDate { get;  }
+
+        string RaceName { get; }
+
+        
     }
 }
