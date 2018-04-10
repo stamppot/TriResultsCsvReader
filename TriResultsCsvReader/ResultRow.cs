@@ -26,6 +26,11 @@ namespace TriResultsCsvReader
 
         public int? PosSwim { get; set; }
 
+
+        public string Run1 { get; set; }
+
+        public int? PosRun1 { get; set; }
+
         public string T1 { get; set; }
         public int? PosT1 { get; set; }
         public int? PosAfterT1 { get; set; }
@@ -53,9 +58,6 @@ namespace TriResultsCsvReader
 
         //<!-- RBR -->
 
-        public string Run1 { get; set; }
-
-        public int? PosRun1 { get; set; }
 
         public string Run2 { get; set; }
 

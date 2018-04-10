@@ -115,6 +115,25 @@ namespace TriResultsForm
             }
         }
 
+
+        private void openConfigFileButton_Click(object sender, EventArgs e)
+        {
+            var fileDialog = new CommonOpenFileDialog("Select columns config file")
+            {
+                EnsurePathExists = true,
+                AllowNonFileSystemItems = false,
+                IsFolderPicker = false
+            };
+
+            var dialogResult = fileDialog.ShowDialog();
+            if (dialogResult == CommonFileDialogResult.Ok)
+            {
+                columnsConfigFileTextBox.Text = fileDialog.FileName;
+                Options.ConfigFile = fileDialog.FileName;
+
+            }
+        }
+
         private void SetRaceName(Option<DateTime> date, string raceName, ProgramOptions options)
         {
             var raceDate = date.ValueOr(DateTime.Now);
@@ -196,7 +215,7 @@ namespace TriResultsForm
             }
             else
             {
-                outputTextBox.Text += $"File '{Options.InputFolderOrFile}' is good!" + Environment.NewLine;
+                outputTextBox.Text += $"File '{Options.InputFolderOrFile}' is GOOD!" + Environment.NewLine;
 
                 outputTextBox.Text += String.Join(Environment.NewLine, runner.Output);
             }
@@ -211,5 +230,6 @@ namespace TriResultsForm
 
             SetRaceName(Option.Some(date), raceName, Options);
         }
+
     }
 }

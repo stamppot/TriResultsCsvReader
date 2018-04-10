@@ -30,8 +30,13 @@
         {
             this.inputFolderLabel1 = new System.Windows.Forms.Label();
             this.inputGroupBox1 = new System.Windows.Forms.GroupBox();
+            this.raceGroupBox1 = new System.Windows.Forms.GroupBox();
+            this.raceDateLabel = new System.Windows.Forms.Label();
+            this.raceDateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.raceNameLabel1 = new System.Windows.Forms.Label();
+            this.raceNameTextBox1 = new System.Windows.Forms.TextBox();
             this.openFileButton = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.openConfigFileButton = new System.Windows.Forms.Button();
             this.columnsConfigFileTextBox = new System.Windows.Forms.TextBox();
             this.configFileLabel1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
@@ -51,15 +56,10 @@
             this.outputTextBox = new System.Windows.Forms.TextBox();
             this.runButton5 = new System.Windows.Forms.Button();
             this.validateFileButton5 = new System.Windows.Forms.Button();
-            this.raceGroupBox1 = new System.Windows.Forms.GroupBox();
-            this.raceNameTextBox1 = new System.Windows.Forms.TextBox();
-            this.raceNameLabel1 = new System.Windows.Forms.Label();
-            this.raceDateTimePicker = new System.Windows.Forms.DateTimePicker();
-            this.raceDateLabel = new System.Windows.Forms.Label();
             this.inputGroupBox1.SuspendLayout();
+            this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
             this.outputGroupBox1.SuspendLayout();
-            this.raceGroupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -75,7 +75,7 @@
             // 
             this.inputGroupBox1.Controls.Add(this.raceGroupBox1);
             this.inputGroupBox1.Controls.Add(this.openFileButton);
-            this.inputGroupBox1.Controls.Add(this.button3);
+            this.inputGroupBox1.Controls.Add(this.openConfigFileButton);
             this.inputGroupBox1.Controls.Add(this.columnsConfigFileTextBox);
             this.inputGroupBox1.Controls.Add(this.configFileLabel1);
             this.inputGroupBox1.Controls.Add(this.button2);
@@ -91,6 +91,53 @@
             this.inputGroupBox1.TabStop = false;
             this.inputGroupBox1.Text = "Input options";
             // 
+            // raceGroupBox1
+            // 
+            this.raceGroupBox1.Controls.Add(this.raceDateLabel);
+            this.raceGroupBox1.Controls.Add(this.raceDateTimePicker);
+            this.raceGroupBox1.Controls.Add(this.raceNameLabel1);
+            this.raceGroupBox1.Controls.Add(this.raceNameTextBox1);
+            this.raceGroupBox1.Location = new System.Drawing.Point(9, 98);
+            this.raceGroupBox1.Name = "raceGroupBox1";
+            this.raceGroupBox1.Size = new System.Drawing.Size(381, 101);
+            this.raceGroupBox1.TabIndex = 10;
+            this.raceGroupBox1.TabStop = false;
+            this.raceGroupBox1.Text = "Race";
+            this.raceGroupBox1.Visible = false;
+            // 
+            // raceDateLabel
+            // 
+            this.raceDateLabel.AutoSize = true;
+            this.raceDateLabel.Location = new System.Drawing.Point(12, 64);
+            this.raceDateLabel.Name = "raceDateLabel";
+            this.raceDateLabel.Size = new System.Drawing.Size(38, 17);
+            this.raceDateLabel.TabIndex = 3;
+            this.raceDateLabel.Text = "Date";
+            // 
+            // raceDateTimePicker
+            // 
+            this.raceDateTimePicker.Location = new System.Drawing.Point(116, 59);
+            this.raceDateTimePicker.Name = "raceDateTimePicker";
+            this.raceDateTimePicker.Size = new System.Drawing.Size(259, 22);
+            this.raceDateTimePicker.TabIndex = 2;
+            this.raceDateTimePicker.ValueChanged += new System.EventHandler(this.raceDateTimePicker_ValueChanged);
+            // 
+            // raceNameLabel1
+            // 
+            this.raceNameLabel1.AutoSize = true;
+            this.raceNameLabel1.Location = new System.Drawing.Point(12, 32);
+            this.raceNameLabel1.Name = "raceNameLabel1";
+            this.raceNameLabel1.Size = new System.Drawing.Size(80, 17);
+            this.raceNameLabel1.TabIndex = 1;
+            this.raceNameLabel1.Text = "Race name";
+            // 
+            // raceNameTextBox1
+            // 
+            this.raceNameTextBox1.Location = new System.Drawing.Point(116, 31);
+            this.raceNameTextBox1.Name = "raceNameTextBox1";
+            this.raceNameTextBox1.Size = new System.Drawing.Size(259, 22);
+            this.raceNameTextBox1.TabIndex = 0;
+            // 
             // openFileButton
             // 
             this.openFileButton.Location = new System.Drawing.Point(234, 58);
@@ -101,14 +148,15 @@
             this.openFileButton.UseVisualStyleBackColor = true;
             this.openFileButton.Click += new System.EventHandler(this.openFileButton_Click);
             // 
-            // button3
+            // openConfigFileButton
             // 
-            this.button3.Location = new System.Drawing.Point(315, 317);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 25);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "Open";
-            this.button3.UseVisualStyleBackColor = true;
+            this.openConfigFileButton.Location = new System.Drawing.Point(315, 317);
+            this.openConfigFileButton.Name = "openConfigFileButton";
+            this.openConfigFileButton.Size = new System.Drawing.Size(75, 25);
+            this.openConfigFileButton.TabIndex = 8;
+            this.openConfigFileButton.Text = "Open";
+            this.openConfigFileButton.UseVisualStyleBackColor = true;
+            this.openConfigFileButton.Click += new System.EventHandler(this.openConfigFileButton_Click);
             // 
             // columnsConfigFileTextBox
             // 
@@ -305,53 +353,6 @@
             this.validateFileButton5.Visible = false;
             this.validateFileButton5.Click += new System.EventHandler(this.validateFileButton5_Click);
             // 
-            // raceGroupBox1
-            // 
-            this.raceGroupBox1.Controls.Add(this.raceDateLabel);
-            this.raceGroupBox1.Controls.Add(this.raceDateTimePicker);
-            this.raceGroupBox1.Controls.Add(this.raceNameLabel1);
-            this.raceGroupBox1.Controls.Add(this.raceNameTextBox1);
-            this.raceGroupBox1.Location = new System.Drawing.Point(9, 98);
-            this.raceGroupBox1.Name = "raceGroupBox1";
-            this.raceGroupBox1.Size = new System.Drawing.Size(381, 101);
-            this.raceGroupBox1.TabIndex = 10;
-            this.raceGroupBox1.TabStop = false;
-            this.raceGroupBox1.Text = "Race";
-            this.raceGroupBox1.Visible = false;
-            // 
-            // raceNameTextBox1
-            // 
-            this.raceNameTextBox1.Location = new System.Drawing.Point(116, 31);
-            this.raceNameTextBox1.Name = "raceNameTextBox1";
-            this.raceNameTextBox1.Size = new System.Drawing.Size(259, 22);
-            this.raceNameTextBox1.TabIndex = 0;
-            // 
-            // raceNameLabel1
-            // 
-            this.raceNameLabel1.AutoSize = true;
-            this.raceNameLabel1.Location = new System.Drawing.Point(12, 32);
-            this.raceNameLabel1.Name = "raceNameLabel1";
-            this.raceNameLabel1.Size = new System.Drawing.Size(80, 17);
-            this.raceNameLabel1.TabIndex = 1;
-            this.raceNameLabel1.Text = "Race name";
-            // 
-            // raceDateTimePicker
-            // 
-            this.raceDateTimePicker.Location = new System.Drawing.Point(116, 59);
-            this.raceDateTimePicker.Name = "raceDateTimePicker";
-            this.raceDateTimePicker.Size = new System.Drawing.Size(259, 22);
-            this.raceDateTimePicker.TabIndex = 2;
-            this.raceDateTimePicker.ValueChanged += new System.EventHandler(this.raceDateTimePicker_ValueChanged);
-            // 
-            // raceDateLabel
-            // 
-            this.raceDateLabel.AutoSize = true;
-            this.raceDateLabel.Location = new System.Drawing.Point(12, 64);
-            this.raceDateLabel.Name = "raceDateLabel";
-            this.raceDateLabel.Size = new System.Drawing.Size(38, 17);
-            this.raceDateLabel.TabIndex = 3;
-            this.raceDateLabel.Text = "Date";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -366,12 +367,12 @@
             this.Text = "De uitslagengenerator";
             this.inputGroupBox1.ResumeLayout(false);
             this.inputGroupBox1.PerformLayout();
+            this.raceGroupBox1.ResumeLayout(false);
+            this.raceGroupBox1.PerformLayout();
             this.inputGroupBox.ResumeLayout(false);
             this.inputGroupBox.PerformLayout();
             this.outputGroupBox1.ResumeLayout(false);
             this.outputGroupBox1.PerformLayout();
-            this.raceGroupBox1.ResumeLayout(false);
-            this.raceGroupBox1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -386,7 +387,7 @@
         private System.Windows.Forms.TextBox filterMemberTextBox;
         private System.Windows.Forms.Label filterMemberLabel;
         private System.Windows.Forms.GroupBox inputGroupBox;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button openConfigFileButton;
         private System.Windows.Forms.TextBox columnsConfigFileTextBox;
         private System.Windows.Forms.Label configFileLabel1;
         private System.Windows.Forms.Button button4;
