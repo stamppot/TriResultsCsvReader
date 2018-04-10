@@ -3032,12 +3032,8 @@
     <None Include="uitslagen\2017-sep-9-winschoten-50k_Tot.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="uitslagen\2018-apr-08-RBR-series-Geel-M.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="uitslagen\2018-apr-08-RBR-series-Geel-V.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <None Include="uitslagen\2018-apr-07-RBR-series-Geel-M.csv" />
+    <None Include="uitslagen\2018-apr-07-RBR-series-Geel-V.csv" />
     <None Include="uitslagen\2018-mar-04-OceanLava-Tenerife.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
