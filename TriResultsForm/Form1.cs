@@ -11,7 +11,9 @@ using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
+using Optional.Unsafe;
 using TriResultsCsvReader;
+using TriResultsCsvReader.Utils;
 
 namespace TriResultsForm
 {
@@ -101,7 +103,7 @@ namespace TriResultsForm
             {
                 inputFolderTextBox1.Text = fileDialog.FileName;
                 Options.InputFolderOrFile = fileDialog.FileName;
-                
+
                 // show validate file button
                 IsFileSelected = true;
                 validateFileButton5.Visible = IsFileSelected;
@@ -109,12 +111,17 @@ namespace TriResultsForm
                 raceGroupBox1.Visible = true;
 
                 // parse file datetime
-                var date = DateUtils.FromFilename(Options.InputFolderOrFile);
+                var raceData = new FileUtils().GetRaceDataFromFilename(Options.InputFolderOrFile);
 
-                SetRaceName(date, raceNameLabel1.Text, Options);
+                if (raceData.HasValue)
+                {
+                    var date = raceData.ValueOrDefault().Date;
+                    var race = raceData.ValueOrDefault().Name;
+
+                    SetRaceName(date, race, Options);
+                }
             }
         }
-
 
         private void openConfigFileButton_Click(object sender, EventArgs e)
         {
@@ -134,22 +141,24 @@ namespace TriResultsForm
             }
         }
 
-        private void SetRaceName(Option<DateTime> date, string raceName, ProgramOptions options)
+        private void SetRaceName(Option<DateTime> date, Option<string> raceName, ProgramOptions options)
         {
-            var raceDate = date.ValueOr(DateTime.Now);
-            
             if (date.HasValue)
             {
-                raceDateTimePicker.Value = raceDate;
+                raceDateTimePicker.Value = date.ValueOr(DateTime.Now);
             }
 
-            if (!string.IsNullOrEmpty(raceName) && date.HasValue)
+            if (raceName.HasValue)
             {
-                options.RaceName = raceName;
+                raceNameTextBox1.Text = raceName.ValueOrDefault();
+            }
+            if (raceName.HasValue && date.HasValue)
+            {
+                options.RaceName = raceName.ValueOrDefault();
             }
         }
 
-    private void filteredCsvOutputCheckBox_CheckedChanged(object sender, EventArgs e)
+        private void filteredCsvOutputCheckBox_CheckedChanged(object sender, EventArgs e)
         {
             Options.OutputCsv = filteredCsvOutputCheckBox.Checked;
         }
@@ -210,7 +219,7 @@ namespace TriResultsForm
             var valid = runner.Test(Options);
 
             outputTextBox.Text += string.Join(Environment.NewLine, runner.Info);
-            
+
             if (!valid)
             {
                 outputTextBox.Text += string.Join(Environment.NewLine, runner.Errors);
@@ -230,7 +239,7 @@ namespace TriResultsForm
 
             var raceName = raceNameLabel1.Text;
 
-            SetRaceName(Option.Some(date), raceName, Options);
+            SetRaceName(Option.Some(date), string.IsNullOrEmpty(raceName) ? Option.None<string>() : Option.Some(raceName), Options);
         }
 
     }

@@ -199,7 +199,7 @@ namespace TriResultsCsvReader
 
             Info.Add($"Html output to {outputFolder}\\{outputfile}");
 
-            options.OutputSql = true; // for now, always set it to true, since it's easier when running from within VS
+            //options.OutputSql = true; // for now, always set it to true, since it's easier when running from within VS
             if (options.OutputSql)
             {
                 var sqlCreateTableStep = new SqlCreateTableStep();
