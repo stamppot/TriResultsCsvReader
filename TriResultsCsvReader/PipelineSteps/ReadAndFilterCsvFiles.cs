@@ -22,7 +22,7 @@ namespace TriResultsCsvReader.PipelineSteps
 
                 var stepData = new StepData { InputFile = filePath, ColumnConfig = columnsConfig, OutputOptions = new List<string> { "csv" } };
 
-                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
+                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, _ => true);
 
                 var nextStep = readAndFilterStep.Process(stepData);
 

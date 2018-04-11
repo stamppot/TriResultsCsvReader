@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace TriResultsCsvReader
 {
@@ -23,10 +18,6 @@ namespace TriResultsCsvReader
         
         public string OutputFolder { get; set; }
 
-        public Expression<Func<ResultRow, bool>> Filter { get; set; }
-
-
-        public string ColumnConfigFile { get; set; }
         public IEnumerable<Column> ColumnConfig { get; set; }
     }
 }

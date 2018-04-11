@@ -60,18 +60,14 @@ namespace CsvColumnNormalizer.Test
                 Assert.IsTrue(standardizedHeaders.Contains(expectedColumn));
             }
 
-            //var resultsReaderCsv = new ResultsReaderCsv(_configFile, (str => Console.WriteLine(str)));
-
-            var readAndFilterStep = new StandardizeHeadersAndFilterStep(_columnsConfig);
-
-
             var members = new MemberReaderCsv().Read("leden2016.csv");
             var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
             Expression<Func<ResultRow, bool>> filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
+            var readAndFilterStep = new StandardizeHeadersAndFilterStep(_columnsConfig, filterExp);
             var destFile = "files/output";
             var srcFile = "files/2017-sep-9-almere-UitslagHTTot.csv";
-            var stepData = new StepData { ColumnConfigFile = _configFile, Filter = filterExp, InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
-            //readAndFilterStep. StandardizeCsv("rotterdamLong", filename, destFile, filterExp);
+            var stepData = new StepData { InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
+            
             var race = readAndFilterStep.Process(stepData);
 
             var firstResult = race.RaceData.Results.First();

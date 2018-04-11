@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading;
-
+using Optional.Unsafe;
 using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
 using TriResultsCsvReader.Utils;
@@ -105,20 +105,16 @@ namespace TriResultsConsole
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
                     Console.WriteLine("filePath: " + filePath);
-                    var raceData = ProgramRunner.GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
+                    var raceData = new FileUtils().GetRaceDataFromFilename(filePath);
       
-                    Console.Write("P! race (from filename): {0}, date: {1}", raceData.Name, raceData.Date);
-
                     if (options.Verbose)
                     {
-                        Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
+                        Console.WriteLine($"Parsing file {file}. Race: {raceData.ValueOrDefault().Name}, date: {raceData.ValueOrDefault().Date}. ");
                     }
 
-                    var stepData = new StepData {InputFile = filePath,
-                        Filter = filterExp,
-                        ColumnConfigFile = options.ConfigFile, OutputOptions = new List<string> { "csv" } };
+                    var stepData = new StepData {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
 
-                    var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
+                    var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
                     
                     var nextStep = readAndFilterStep.Process(stepData);
 

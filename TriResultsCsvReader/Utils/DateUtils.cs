@@ -31,6 +31,11 @@ namespace TriResultsCsvReader
         {
             filename = filename.Substring(1 + filename.LastIndexOf('\\'));
             var dtStr = ReplaceStringMonth(filename).Substring(0, 10);
+            if (dtStr.EndsWith("-"))
+            {
+                dtStr = dtStr.Substring(0, dtStr.Length - 1);
+            }
+
 
             DateTime output = DateTime.MinValue;
 

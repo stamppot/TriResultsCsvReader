@@ -1,24 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using Optional;
 using Optional.Unsafe;
-using TriResultsCsvReader.Utils;
 
 namespace TriResultsCsvReader
 {
     public class StandardizeHeadersAndFilterStep : BaseStep, IPipelineStep
     {
-        private readonly string _dateFormat = "yyyy-MM-dd";
-        private string _readerConfigXml;
-        private bool _skipEmptyResults;
+        private readonly Expression<Func<ResultRow, bool>> _filterExp;
         private readonly IEnumerable<Column> _columns;
-        private readonly RaceTypeGuesser _raceGuesser = new RaceTypeGuesser();
 
-        public StandardizeHeadersAndFilterStep(IEnumerable<Column> columns, bool skipEmptyResults = true)
+        public StandardizeHeadersAndFilterStep(IEnumerable<Column> columnsConfig, Expression<Func<ResultRow, bool>> filterExp)
         {
-            _columns = columns;
-            _skipEmptyResults = skipEmptyResults;
+            _columns = columnsConfig;
+            _filterExp = filterExp;
         }
 
         public IEnumerable<Column> GetColumns()
@@ -30,14 +27,8 @@ namespace TriResultsCsvReader
         {
             var reader = new ResultsReaderCsv(GetColumns(), WriteOutput);
 
-            var raceFileData = new FileUtils().GetRaceDataFromFilename(step.InputFile);
-            if (raceFileData.HasValue)
-            {
-                step.RaceData = raceFileData.ValueOrDefault();
-            }
-
             // filtering happens here
-            var resultRows = reader.ReadFile(step.InputFile, step.Filter).ToList();
+            var resultRows = reader.ReadFile(step.InputFile, _filterExp).ToList();
 
             WriteOutput($"Read {resultRows.Count()} rows\n");
 
@@ -69,23 +60,6 @@ namespace TriResultsCsvReader
             return step;
         }
 
-        //public void StandardizeCsv(string raceName, string srcFile, string destPath, Expression<Func<ResultRow, bool>> filterExpression = null)
-        //{
-        //    var reader = new ResultsReaderCsv(_readerConfigXml, WriteOutput);
-
-        //    var resultRows = reader.ReadFile(srcFile, filterExpression).ToList();
-
-        //    var raceType = SetRaceType(resultRows);
-
-        //    WriteOutput($"Read {resultRows.Count()} rows of {raceType}\n");
-
-        //    if (_skipEmptyResults && resultRows.Any())
-        //    {
-        //        var raceDate = resultRows.First().RaceDate;
-        //        Write(destPath, raceDate, raceName, resultRows, raceType);
-        //    }
-        //}
-
         public Option<string> SetRaceType(List<ResultRow> results, Option<string> raceType)
         {
             if (results.Any())
@@ -106,36 +80,5 @@ namespace TriResultsCsvReader
 
             return raceType;
         }
-
-        //[Obsolete("Is done in another step")]
-        //public void Write(string destFolder, DateTime raceDate, string raceName, IEnumerable<ResultRow> rows, string raceType)
-        //{
-        //    foreach (var row in rows)
-        //    {
-        //        if (string.IsNullOrEmpty(row.Race)) {
-        //            row.Race = raceName;
-        //        }
-        //    }
-
-        //    var dir = new DirectoryInfo(destFolder);
-        //    if(!Directory.Exists(dir.FullName))
-        //    {
-        //        Console.WriteLine("Creating dir: " + dir.FullName);
-        //        Directory.CreateDirectory(dir.FullName);
-        //    }
-
-        //    var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
-
-        //    var filename = String.Format("{0}_{1}_{2}.csv", raceDate.ToString("yyyy-MM-dd"), raceType, raceName); 
-        //    var destFile = Path.Combine(destFolder, filename);
-        //    Console.WriteLine("destFile: " + destFile);
-
-        //    using (TextWriter writer = new StreamWriter(destFile))
-        //    {
-        //        var csvWriter = new CsvWriter(writer);
-
-        //        csvWriter.WriteRecords<ResultRow>(rows);
-        //    }
-        //}
     }
 }

@@ -119,34 +119,40 @@ namespace TriResultsCsvReader
             }
 
 
-            /// Read and filter races
-
-            var filteredRaces = new List<StepData>();
+            var steps = new List<StepData>();
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
-                Console.WriteLine("filePath: " + filePath);
-                var raceData =  GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
 
-                Console.Write("P! race (from filename): {0}, date: {1}", raceData.Name, raceData.Date);
+                var race = new FileUtils().GetRaceDataFromFilename(filePath);
 
                 if (options.Verbose)
                 {
-                    Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
+                    Console.WriteLine($"Parsing file {file}. Race: {race.ValueOrDefault()?.Name}, date: {race.ValueOrDefault().Date}.");
                 }
 
-                var raceFileData = GetRaceDataFromFilename(filePath);
+
+                if(!race.HasValue) continue;
 
                 var stepData = new StepData
                 {
                     InputFile = filePath,
-                    Filter = filterExp,
-                    ColumnConfigFile = options.ConfigFile,
                     OutputOptions = new List<string> { "csv" },
-                    RaceData = raceFileData.ValueOr(new Race())
+                    RaceData = race.ValueOr(new Race())
                 };
 
-                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
+                steps.Add(stepData);
+            }
+
+            // order races by newest first
+            steps = steps.OrderByDescending(r => r.RaceData.Date).ToList();
+
+
+            /// Read and filter races
+            var filteredRaces = new List<StepData>();
+            foreach (var stepData in steps)
+            {
+                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
 
                 try
                 {
@@ -166,9 +172,6 @@ namespace TriResultsCsvReader
                     }
                 }
             }
-
-            // order races by newest first
-            filteredRaces = filteredRaces.OrderByDescending(r => r.RaceData.Date).ToList();
 
 
             /// Write normalized race data (columns are normalized, results are filtered) output as csv. One file per race.
@@ -215,23 +218,6 @@ namespace TriResultsCsvReader
         }
 
 
-        protected Option<Race> GetRaceDataFromFilename(string filename)
-        {
-            var file = filename.Substring(filename.LastIndexOf('\\') + 1);
-
-            var raceDate = DateUtils.FromFilename(filename);
-            var raceName = Option.None<string>();
-
-            if (raceDate.HasValue)
-            {
-                raceName = Option.Some<string>(file.Substring(10).Replace(".csv", "").Replace("-", " ").Replace("_", ""));
-
-                return Option.Some(new Race() {Date = raceDate, Name = raceName});
-            }
-
-            return Option.None<Race>();
-        }
-
         public bool Test(IOptions options)
         {
             if (options.Verbose) Console.WriteLine("Filename: {0}", options.InputFolderOrFile);
@@ -261,7 +247,7 @@ namespace TriResultsCsvReader
             if (options.Verbose) { Console.WriteLine("Files to process:\n"); inputFiles.ForEach(file => Console.WriteLine(file)); }
 
 
-            var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml");
+            var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml").ToList();
 
             Expression<Func<ResultRow, bool>> filterExp = null;
             if (string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords))
@@ -320,13 +306,13 @@ namespace TriResultsCsvReader
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
                 Console.WriteLine("filePath: " + filePath);
-                var raceData = GetRaceFileData(filePath, options.OutputFolder, options.RaceDate);
+                var raceData = new FileUtils().GetRaceDataFromFilename(filePath);
 
-                Console.Write("P! race (from filename): {0}, date: {1}", raceData.Name, raceData.Date);
+                Console.Write("P! race (from filename): {0}, date: {1}", raceData.ValueOr(new Race()).Name, raceData.ValueOrDefault().Date);
 
                 if (options.Verbose)
                 {
-                    Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
+                    Console.WriteLine($"Parsing file {file}. Race: {raceData.ValueOr(new Race()).Name}, date: {raceData.ValueOrDefault().Date}");
                 }
 
 
@@ -341,13 +327,11 @@ namespace TriResultsCsvReader
                 var stepData = new StepData
                 {
                     InputFile = filePath,
-                    Filter = filterExp,
-                    ColumnConfigFile = options.ConfigFile,
                     OutputOptions = new List<string> { "csv" },
                     RaceData = race
                 };
 
-                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
+                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
 
                 try
                 {
@@ -433,49 +417,6 @@ namespace TriResultsCsvReader
                 //}
 
                 return !Errors.Any();
-        }
-
-
-
-
-        public static RaceFileData GetRaceFileData(string filename, string outputDir, DateTime raceDate)
-        {
-            var fi = new FileInfo(filename);
-
-            var index = fi.Name.IndexOf(".csv");
-            var name = DateUtils.ReplaceStringMonth(fi.Name);
-
-            RaceFileData output = new RaceFileData() { Name = name };
-
-            if (raceDate.Equals(DateTime.MinValue))
-            {
-                Console.WriteLine("raceDate is null, will try to get date from filename");
-                var datePart = name.Substring(0, 10);
-                if (DateTime.TryParseExact(datePart, "yyyy-MM-dd", Thread.CurrentThread.CurrentCulture, DateTimeStyles.None, out var racedate))
-                {
-                    Console.WriteLine("Got raceDate from filename: " + racedate.ToShortDateString());
-                    output.Date = racedate;
-                    output.Name = name.Substring(9); // remove date
-                    raceDate = racedate;
-                }
-                else
-                {
-                    //throw new FormatException("Filename must start with date in format yyyyMMdd_racefile.csv");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Using racedate given by args: " + (raceDate == null ? default(DateTime) : raceDate).ToShortDateString());
-                output.Date = raceDate;
-            }
-
-            output.Name = output.Name.Replace(".csv", "");
-            var raceDateStr = DateTime.MinValue == raceDate ? "" : raceDate.ToString("yyyyMMdd");
-
-            output.FullPath = Path.Combine(fi.Directory.FullName, outputDir);
-            output.OutputFile = Path.Combine(fi.Directory.FullName, outputDir, name);
-            Console.WriteLine("OutputFile: " + output.OutputFile);
-            return output;
         }
 
         public event NotifyCollectionChangedEventHandler CollectionChanged;
