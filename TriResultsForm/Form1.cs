@@ -166,6 +166,8 @@ namespace TriResultsForm
 
         private void runButton5_Click(object sender, EventArgs e)
         {
+            outputTextBox.Text += "Running... please wait";
+
             var runner = new ProgramRunner();
 
             bool success = false;

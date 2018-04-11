@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
+
 using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
 using TriResultsCsvReader.Utils;
@@ -127,7 +127,7 @@ namespace TriResultsConsole
                 }
  
                 // order races by newest first
-                filteredRaces = filteredRaces.OrderByDescending(r => r.RaceData.Date).ToList();
+                filteredRaces = filteredRaces.OrderByDescending(r => r.RaceData.Date.ValueOr(DateTime.MinValue)).ToList();
 
 
                 /// Write normalized race data (columns are normalized, results are filtered) output as csv. One file per race.

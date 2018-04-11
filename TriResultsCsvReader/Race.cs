@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using Optional;
+using Optional.Unsafe;
 
 namespace TriResultsCsvReader
 {
@@ -7,20 +9,22 @@ namespace TriResultsCsvReader
     {
         public Race()
         {
-            Date = DateTime.Now;
-            Name = string.Empty;
+            Date = Option.None<DateTime>();
+            Name = Option.None<String>();
+            Distance = Option.None<String>();
+            RaceType = Option.None<String>();
             Results = new List<ResultRow>();
         }
 
-        public string Name { get; set; }
-        public DateTime Date { get; set; }
-        public string Distance { get; set; }
-        public string RaceType { get; set; }
+        public Option<string> Name { get; set; }
+        public Option<DateTime> Date { get; set; }
+        public Option<string> Distance { get; set; }
+        public Option<string> RaceType { get; set; }
         public List<ResultRow> Results { get; set; }
 
         public string ToFilename()
         {
-            return string.Format("{0}_{1}", Date == null ? "0000" : Date.ToString("yyyyMMdd"), Name == null ? "___" : Name.Replace(" ", "_"));
+            return string.Format("{0}_{1}", Date == null ? "0000" : Date.ValueOrDefault().ToString("yyyyMMdd"), Name == null ? "___" : Name.ValueOrDefault().Replace(" ", "_"));
         }
     }
 

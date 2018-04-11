@@ -9,3 +9,4 @@
 **/obj/Debug
 .vs/
 **/*.csproj.user
+/TriResultsForm/bin

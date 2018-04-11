@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Optional.Unsafe;
 
 namespace TriResultsCsvReader
 {
@@ -18,6 +19,16 @@ namespace TriResultsCsvReader
             if (_skipEmptyResults && step.RaceData.Results.Any())
             {
                 var firstResult = step.RaceData.Results.First();
+
+                /* if race name and date is not present in results/csv, get them from filename and set them for each result */
+                if (firstResult.RaceDate == DateTime.MinValue && step.RaceData.Date.HasValue)
+                {
+                    step.RaceData.Results.ForEach(result => result.RaceDate = step.RaceData.Date.ValueOrDefault());
+                }
+                if (string.IsNullOrEmpty(firstResult.Race) && step.RaceData.Name.HasValue)
+                {
+                    step.RaceData.Results.ForEach(result => result.Race = step.RaceData.Name.ValueOrDefault());
+                }
                 var raceDate = firstResult.RaceDate;
                 var raceName = firstResult.Race;
 
@@ -29,7 +40,7 @@ namespace TriResultsCsvReader
                 {
                     throw new Exception("no racename: " + step.FullPath);
                 }
-                Write(destPath, raceDate, raceName, resultRows, raceType);
+                Write(destPath, raceDate, raceName, resultRows, raceType.ValueOrDefault());
             }
 
             return step;

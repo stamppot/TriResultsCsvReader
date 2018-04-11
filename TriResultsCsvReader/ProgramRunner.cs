@@ -6,6 +6,8 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
+using Optional;
+using Optional.Unsafe;
 using TriResultsCsvReader.PipelineSteps;
 using TriResultsCsvReader.Utils;
 
@@ -133,12 +135,15 @@ namespace TriResultsCsvReader
                     Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
                 }
 
+                var raceFileData = GetRaceDataFromFilename(filePath);
+
                 var stepData = new StepData
                 {
                     InputFile = filePath,
                     Filter = filterExp,
                     ColumnConfigFile = options.ConfigFile,
-                    OutputOptions = new List<string> { "csv" }
+                    OutputOptions = new List<string> { "csv" },
+                    RaceData = raceFileData.ValueOr(new Race())
                 };
 
                 var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
@@ -152,7 +157,7 @@ namespace TriResultsCsvReader
                 }
                 catch (CsvFormatException ex)
                 {
-                    var race = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date.ToShortDateString());
+                    var race = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date.ValueOrDefault().ToShortDateString());
                     Errors.Add(string.Format("Error when reading race data: {0}", race));
                     Errors.Add(ex.Message);
                     if (ex.InnerException != null)
@@ -189,9 +194,10 @@ namespace TriResultsCsvReader
             var races = filteredRaces.Select(f => f.RaceData).ToList();
 
             var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
-            var output = htmlOutputStep.Process("output", outputfile, columns, races);
+            var outputFolder = Path.Combine(options.InputFolderOrFile, options.OutputFolder);
+            var output = htmlOutputStep.Process(outputFolder, outputfile, columns, races);
 
-            Info.Add($"Html output to {outputfile}");
+            Info.Add($"Html output to {outputFolder}\\{outputfile}");
 
             options.OutputSql = true; // for now, always set it to true, since it's easier when running from within VS
             if (options.OutputSql)
@@ -201,15 +207,30 @@ namespace TriResultsCsvReader
                 Console.WriteLine("Create table syntax: " + sqlCreateTableStmt);
 
                 var sqlInsertOutputStep = new CombineOutputSqlInsertStep();
-                OutputSql = sqlInsertOutputStep.Process("output", outputfile, columns, races);
-                Info.Add($"Sql output to {outputfile}.sql");
+                OutputSql = sqlInsertOutputStep.Process(outputFolder, outputfile, columns, races);
+                Info.Add($"Sql output to {outputFolder}\\{outputfile}.sql");
             }
 
             return true;
         }
 
 
+        protected Option<Race> GetRaceDataFromFilename(string filename)
+        {
+            var file = filename.Substring(filename.LastIndexOf('\\') + 1);
 
+            var raceDate = DateUtils.FromFilename(filename);
+            var raceName = Option.None<string>();
+
+            if (raceDate.HasValue)
+            {
+                raceName = Option.Some<string>(file.Substring(10).Replace(".csv", "").Replace("-", " ").Replace("_", ""));
+
+                return Option.Some(new Race() {Date = raceDate, Name = raceName});
+            }
+
+            return Option.None<Race>();
+        }
 
         public bool Test(IOptions options)
         {
@@ -308,13 +329,22 @@ namespace TriResultsCsvReader
                     Console.WriteLine($"Parsing file {file}. Race: {raceData.Name}, date: {raceData.Date}. Output file: {raceData.OutputFile}");
                 }
 
+
+                var race = new Race();
+                race.Date = (options.RaceDate == DateTime.MinValue)
+                    ? Option.None<DateTime>()
+                    : Option.Some(options.RaceDate);
+                race.Name = string.IsNullOrEmpty(options.RaceName)
+                    ? Option.None<string>()
+                    : Option.Some(options.RaceName);
+                
                 var stepData = new StepData
                 {
                     InputFile = filePath,
                     Filter = filterExp,
                     ColumnConfigFile = options.ConfigFile,
                     OutputOptions = new List<string> { "csv" },
-                    RaceData = new Race() { Date = options.RaceDate, Name = options.RaceName }
+                    RaceData = race
                 };
 
                 var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, true);
@@ -328,8 +358,8 @@ namespace TriResultsCsvReader
                 }
                 catch (CsvFormatException ex)
                 {
-                    var race = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date);
-                    Errors.Add(string.Format("Error when reading race data: {0}", race));
+                    var raceStr = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date);
+                    Errors.Add(string.Format("Error when reading race data: {0}", raceStr));
                     Errors.Add(ex.Message);
                     if (ex.InnerException != null)
                     {
@@ -369,7 +399,7 @@ namespace TriResultsCsvReader
             // output test file
             foreach (var race in filteredRaces)
             {
-                Output.Add($"Race {race.RaceData.Name} on {race.RaceData.Date.ToShortDateString()}  type: {race.RaceData.RaceType}");
+                Output.Add($"Race {race.RaceData.Name} on {race.RaceData.Date.ValueOrDefault().ToShortDateString()}  type: {race.RaceData.RaceType}");
 
                 foreach (var line in race.RaceData.Results)
                 {

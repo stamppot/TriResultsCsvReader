@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using Optional;
+using Optional.Unsafe;
 
 namespace TriResultsCsvReader.PipelineSteps
 {
@@ -14,7 +16,7 @@ namespace TriResultsCsvReader.PipelineSteps
         {
             var destFullPath = FileHelper.CreateDestFilePath(destFolder, DateTime.Now, outputFilename, "html");
 
-            var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
+            //var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
             Console.WriteLine("destFile: " + destFullPath);
 
 
@@ -22,12 +24,12 @@ namespace TriResultsCsvReader.PipelineSteps
 
             foreach (var race in races)
             {
-                var raceDateNumeric = race.Date.ToString("dd-MM-yyyy");
+                var raceDateNumeric = race.Date.ValueOrDefault().ToString("dd-MM-yyyy");
                 if (race.Name.Contains(raceDateNumeric))
                 {
-                    race.Name = race.Name.Replace(raceDateNumeric, ""); // remove what will be a double occurrence of the date
+                    race.Name = Option.Some(race.Name.ValueOrDefault().Replace(raceDateNumeric, "")); // remove what will be a double occurrence of the date
                 }
-                htmlBuilder.AppendLine(string.Format(@"<div class=""h3 race""><span class=""racename"">{0}</span>  <span class=""racedistance"">{1}</span>  <span class=""racedate"">{2}</span> </div>", race.Name, race.Distance, race.Date.ToString("dd-MMM-yyyy")));
+                htmlBuilder.AppendLine(string.Format(@"<div class=""h3 race""><span class=""racename"">{0}</span>  <span class=""racedistance"">{1}</span>  <span class=""racedate"">{2}</span> </div>", race.Name.ValueOrDefault(), race.Distance.ValueOrDefault(), race.Date.ValueOrDefault().ToString("dd-MMM-yyyy")));
 
                 htmlBuilder.AppendLine(@"<table class=""raceresults"">");
 

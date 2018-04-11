@@ -1,124 +1,179 @@
-﻿namespace TriResultsCsvReader
+﻿using Optional;
+
+namespace TriResultsCsvReader
 {
     public class RaceTypeGuesser
     {
-        public string GetRaceDistance(string name)
+        public Option<string> GetRaceType(string filename)
+        {
+            return new FilenameRaceTypeGuesser(filename).GetRaceType();
+        }
+
+        public bool GetRaceType(string filename, out string raceType)
+        {
+            raceType = new FilenameRaceTypeGuesser(filename).GetRaceType().ValueOr(string.Empty);
+            return !string.IsNullOrEmpty(raceType);
+        }
+
+        public bool GetRaceType(ResultRow row, out string raceType)
+        {
+            raceType = new RowRaceTypeGuesser(row).GetRaceType().ValueOr(string.Empty);
+            return !string.IsNullOrEmpty(raceType);
+        }
+
+        public Option<string> GetRaceType(ResultRow row)
+        {
+            return new RowRaceTypeGuesser(row).GetRaceType();
+        }
+
+        public Option<string> GetRaceDistance(string name)
         {
             var str = name.ToLower();
+            string result = null;
 
-            if(str.Contains("achtste") || str.Contains("acht") || str.Contains("8e") || str.Contains("8ste") || str.Contains("1/8"))
+            if (str.Contains("achtste") || str.Contains("acht") || str.Contains("8e") || str.Contains("8ste") ||
+                str.Contains("1/8"))
             {
-                return "Achtste";
+                result = "Achtste";
             }
-            if (str.Contains("sprint") )
+
+            if (str.Contains("sprint"))
             {
-                return "Sprint";
+                result = "Sprint";
             }
+
             if (str.Contains("kwart") || str.Contains("1/4"))
             {
-                return "Kwart";
+                result = "Kwart";
             }
 
             if (name.Contains("OD") || str.Contains("olymp"))
             {
-                return "OD";
+                result = "OD";
             }
 
             if (name.Contains("MD") || name.Contains("Mid") || str.Contains("halve") || str.Contains("half"))
             {
-                return "Half";
+                result = "Half";
             }
 
             if (name.Contains("LD") || str.Contains("full") || str.Contains("long"))
             {
-                return "Long";
+                result = "Long";
             }
-            
+
             // run
             if (str.Contains("42k") || str.Contains("marathon") || str.Contains("42"))
             {
-                return "Marathon";
+                result = "Marathon";
             }
 
             if (str.Contains("21k") || str.Contains("21"))
             {
-                return "Half Marathon";
-            }
-
-            if (str.Contains("5k"))
-            {
-                return "5km";
-            }
-            if (str.Contains("6k"))
-            {
-                return "6km";
-            }
-
-            if (str.Contains("9k"))
-            {
-                return "9km";
-            }
-
-            if (str.Contains("10k"))
-            {
-                return "10km";
-            }
-
-            if (str.Contains("12k"))
-            {
-                return "12km";
-            }
-
-            if (str.Contains("15k"))
-            {
-                return "15km";
-            }
-            if (str.Contains("16k"))
-            {
-                return "16km";
-            }
-
-            if (str.Contains("20k"))
-            {
-                return "20km";
+                result = "Half Marathon";
             }
 
             if (str.Contains("4k"))
             {
-                return "4km";
+                result = "4km";
             }
 
+            if (str.Contains("5k"))
+            {
+                result = "5km";
+            }
+
+            if (str.Contains("6k"))
+            {
+                result = "6km";
+            }
+
+            if (str.Contains("8k"))
+            {
+                result = "8km";
+            }
+
+            if (str.Contains("9k"))
+            {
+                result = "9km";
+            }
+
+            if (str.Contains("10k"))
+            {
+                result = "10km";
+            }
+
+            if (str.Contains("12k"))
+            {
+                result = "12km";
+            }
+
+            if (str.Contains("15k"))
+            {
+                result = "15km";
+            }
+
+            if (str.Contains("16k"))
+            {
+                result = "16km";
+            }
+
+            if (str.Contains("20k"))
+            {
+                result = "20km";
+            }
 
             if (str.Contains("10em"))
             {
-                return "10 Engelse Mijl";
+                result = "10 Engelse Mijl";
             }
 
-            return "";
+            return result == null ? Option.None<string>() : Option.Some(result);
+        }
+    }
+
+
+    public interface IRaceTypeGuesser
+    {
+        Option<string> GetRaceType();
+    }
+
+    public class RowRaceTypeGuesser : IRaceTypeGuesser
+    {
+        private readonly ResultRow row;
+
+        public RowRaceTypeGuesser(ResultRow row)
+        {
+            this.row = row;
         }
 
-        public string GetRaceType(ResultRow row)
+        public Option<string> GetRaceType()
         {
-            if (row == null) return string.Empty;
+            if (null == row) return Option.None<string>();
 
-            if(IsATriathlon(row))
+            string result = null;
+
+            if (IsATriathlon(row))
             {
-                return "Tri";
-            }
-            if(IsARunBikeRun(row))
-            {
-                return "RBR";
-            }
-            if(IsARun(row))
-            {
-                return "Run";
-            }
-            if(HasSwimData(row))
-            {
-                return "Swim";
+                result = "Tri";
             }
 
-            return "-";
+            if (IsARunBikeRun(row))
+            {
+                result = "RBR";
+            }
+
+            if (IsARun(row))
+            {
+                result = "Run";
+            }
+
+            if (HasSwimData(row))
+            {
+                result = "Swim";
+            }
+
+            return result == null ? Option.None<string>() : Option.Some(result);
         }
 
         public bool IsARunBikeRun(ResultRow row)
@@ -133,7 +188,7 @@
 
         public bool IsARun(ResultRow row)
         {
-            return !HasSwimData(row) && !HasBikeData(row); 
+            return !HasSwimData(row) && !HasBikeData(row);
         }
 
         private bool HasSwimData(ResultRow result)
@@ -143,7 +198,8 @@
 
         private bool HasBikeData(ResultRow result)
         {
-            return !string.IsNullOrEmpty(result.Bike) || !string.IsNullOrEmpty(result.AfterBike) || result.PosBike.HasValue || result.PosAfterBike.HasValue;
+            return !string.IsNullOrEmpty(result.Bike) || !string.IsNullOrEmpty(result.AfterBike) ||
+                   result.PosBike.HasValue || result.PosAfterBike.HasValue;
         }
 
         private bool HasRunData(ResultRow result)
@@ -153,7 +209,83 @@
 
         private bool HasTwoRunData(ResultRow result)
         {
-            return !string.IsNullOrEmpty(result.Run1) || !string.IsNullOrEmpty(result.Run2) || result.PosRun1.HasValue || result.PosRun2.HasValue;
+            return !string.IsNullOrEmpty(result.Run1) || !string.IsNullOrEmpty(result.Run2) ||
+                   result.PosRun1.HasValue || result.PosRun2.HasValue;
+        }
+
+    }
+
+
+    public class FilenameRaceTypeGuesser : IRaceTypeGuesser
+    {
+        private readonly string row;
+
+        public FilenameRaceTypeGuesser(string filename)
+        {
+            row = filename;
+        }
+        public Option<string> GetRaceType()
+        {
+            if (row == null) return Option.None<string>();
+
+            string result = null;
+
+            if (IsATriathlon())
+            {
+                result = "Tri";
+            }
+            else
+            if (IsARunBikeRun())
+            {
+                result = "RBR";
+            }
+            else
+            if (IsARun())
+            {
+                result = "Run";
+            }
+            else
+            if (HasSwimData())
+            {
+                result = "Swim";
+            }
+
+            return result == null ? Option.None<string>() : Option.Some(result);
+        }
+
+        public bool IsARunBikeRun()
+        {
+            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("rbr")); ;
+        }
+
+        public bool IsATriathlon()
+        {
+            return row.ToLowerInvariant().Contains("tri") || HasSwimData() && HasBikeData() && HasRunData();
+        }
+
+        public bool IsARun()
+        {
+            return !HasSwimData() && !HasBikeData();
+        }
+
+        private bool HasSwimData()
+        {
+            return !string.IsNullOrWhiteSpace(row) && row.ToLowerInvariant().Contains("swim");
+        }
+
+        private bool HasBikeData()
+        {
+            return !string.IsNullOrEmpty(row) && row.ToLowerInvariant().Contains("bike");
+        }
+
+        private bool HasRunData()
+        {
+            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("loop") || row.ToLowerInvariant().Contains("run"));
+        }
+
+        private bool HasTwoRunData()
+        {
+            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("rbr"));
         }
     }
 }
