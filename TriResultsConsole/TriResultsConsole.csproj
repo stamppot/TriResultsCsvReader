@@ -3044,6 +3044,12 @@
     <None Include="uitslagen\2018-apr-08-Marathon-Rotterdam.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2018-apr-11-Clubkampioenschap-RBR-M.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2018-apr-11-Clubkampioenschap-RBR-V.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2018-mar-04-OceanLava-Tenerife.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

@@ -43,7 +43,8 @@ namespace TriResultsCsvReader
                     step.RaceData.Date = Option.Some(firstResult.RaceDate);
                 }
 
-                if (!step.RaceData.Name.HasValue)
+                // if resultrow has Race column, use this as it is a better description of the race name
+                if (!step.RaceData.Name.HasValue || !string.IsNullOrEmpty(firstResult.Race))
                 {
                     step.RaceData.Name = Option.Some(firstResult.Race);
                 }
@@ -52,6 +53,7 @@ namespace TriResultsCsvReader
                 {
                     step.RaceData.RaceType = string.IsNullOrEmpty(firstResult.RaceType) ? Option.None<string>() : Option.Some(firstResult.RaceType);
                 }
+
 
                 step.RaceData.Results = resultRows;
                 WriteOutput($"From race {step.RaceData.Name}  {firstResult.Race}\n");
