@@ -2,9 +2,9 @@
 
 namespace TriResultsCsvReader
 {
-    public class StepData
+    public class RaceStepData
     {
-        public StepData()
+        public RaceStepData()
         {
             RaceData = new Race();
         }

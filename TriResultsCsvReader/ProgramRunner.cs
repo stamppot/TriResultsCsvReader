@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Globalization;
@@ -6,6 +7,7 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
+using System.Threading.Tasks;
 using Optional;
 using Optional.Unsafe;
 using TriResultsCsvReader.PipelineSteps;
@@ -119,7 +121,7 @@ namespace TriResultsCsvReader
             }
 
 
-            var steps = new List<StepData>();
+            var raceDatas = new List<RaceStepData>();
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
@@ -134,32 +136,32 @@ namespace TriResultsCsvReader
 
                 if(!race.HasValue) continue;
 
-                var stepData = new StepData
+                var stepData = new RaceStepData
                 {
                     InputFile = filePath,
                     OutputOptions = new List<string> { "csv" },
                     RaceData = race.ValueOr(new Race())
                 };
 
-                steps.Add(stepData);
+                raceDatas.Add(stepData);
             }
 
             // order races by newest first
-            steps = steps.OrderByDescending(r => r.RaceData.Date).ToList();
+            raceDatas = raceDatas.OrderByDescending(r => r.RaceData.Date).ToList();
 
 
             /// Read and filter races
-            var filteredRaces = new List<StepData>();
-            foreach (var stepData in steps)
+            var allRaces = new List<RaceStepData>();
+            foreach (var stepData in raceDatas)
             {
-                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
+                var readAndStandardizeStep = new ReadFileAndStandardizeStep(columnsConfig, /*filterExp,*/ Info);
 
                 try
                 {
-                    var nextStep = readAndFilterStep.Process(stepData);
+                    var nextStep = readAndStandardizeStep.Process(stepData);
+                    allRaces.Add(nextStep);
 
-                    if (nextStep.RaceData.Results.Any())
-                        filteredRaces.Add(nextStep);
+                    // TODO: notify caller that step is done
                 }
                 catch (CsvFormatException ex)
                 {
@@ -173,6 +175,27 @@ namespace TriResultsCsvReader
                 }
             }
 
+            var filterStep = new FilterStep(columnsConfig, filterExp, Info);
+
+            var filteredRaces = new ConcurrentQueue<RaceStepData>();
+            Parallel.ForEach(allRaces, (currentRace) =>
+            {
+                var filteredRace = filterStep.Process(currentRace);
+                if (filteredRace.RaceData.Results.Any())
+                {
+                    filteredRaces.Enqueue(filteredRace);
+                }
+                else
+                {
+                    ;
+                }
+
+                // TODO: notify caller
+            });
+
+            // clean, not necessary, just trying to see if it makes a difference before the GC kicks in
+            allRaces.Clear();
+            allRaces = null;
 
             /// Write normalized race data (columns are normalized, results are filtered) output as csv. One file per race.
             var writeStep = new CsvWriterStep();
@@ -194,7 +217,8 @@ namespace TriResultsCsvReader
 
             var htmlOutputStep = new CombineOutputHtmlStep();
             var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
-            var races = filteredRaces.Select(f => f.RaceData).ToList();
+            var races = filteredRaces.Select(f => f.RaceData).OrderByDescending(r => r.Date.ValueOrDefault()).ToList();
+            filteredRaces = null;
 
             var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
             var outputFolder = Path.Combine(options.InputFolderOrFile, options.OutputFolder);
@@ -301,7 +325,7 @@ namespace TriResultsCsvReader
 
             /// Read and filter races
 
-            var filteredRaces = new List<StepData>();
+            var filteredRaces = new List<RaceStepData>();
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
@@ -324,14 +348,14 @@ namespace TriResultsCsvReader
                     ? Option.None<string>()
                     : Option.Some(options.RaceName);
                 
-                var stepData = new StepData
+                var stepData = new RaceStepData
                 {
                     InputFile = filePath,
                     OutputOptions = new List<string> { "csv" },
                     RaceData = race
                 };
 
-                var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
+                var readAndFilterStep = new ReadFileAndStandardizeStep(columnsConfig, Info);
 
                 try
                 {

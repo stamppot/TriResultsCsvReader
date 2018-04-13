@@ -14,7 +14,7 @@ namespace TriResultsCsvReader
     {
         private bool _skipEmptyResults = true;
 
-        public override StepData Process(StepData step)
+        public override RaceStepData Process(RaceStepData step)
         {
             if (_skipEmptyResults && step.RaceData.Results.Any())
             {

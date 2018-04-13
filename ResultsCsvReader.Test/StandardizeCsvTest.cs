@@ -63,10 +63,10 @@ namespace CsvColumnNormalizer.Test
             var members = new MemberReaderCsv().Read("leden2016.csv");
             var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
             Expression<Func<ResultRow, bool>> filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
-            var readAndFilterStep = new StandardizeHeadersAndFilterStep(_columnsConfig, filterExp);
+            var readAndFilterStep = new ReadFileAndStandardizeStep(_columnsConfig);
             var destFile = "files/output";
             var srcFile = "files/2017-sep-9-almere-UitslagHTTot.csv";
-            var stepData = new StepData { InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
+            var stepData = new RaceStepData { InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
             
             var race = readAndFilterStep.Process(stepData);
 

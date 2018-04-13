@@ -93,7 +93,7 @@
     <Compile Include="RaceTypeGuesser.cs" />
     <Compile Include="PipelineSteps\CsvWriterStep.cs" />
     <Compile Include="StepData.cs" />
-    <Compile Include="PipelineSteps\StandardizeHeadersAndFilterStep.cs" />
+    <Compile Include="PipelineSteps\ReadFileAndStandardizeStep.cs" />
     <Compile Include="Utils\FileUtils.cs" />
     <Compile Include="ProgramRunner.cs" />
     <Compile Include="ValidateCsvNumberOfColumns.cs" />

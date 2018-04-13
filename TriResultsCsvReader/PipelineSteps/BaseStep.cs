@@ -1,23 +1,35 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TriResultsCsvReader
 {
     public abstract class BaseStep : IPipelineStep
     {
         private readonly Action<string> _outputWriter;
+        protected readonly List<string> InfoLogs;
 
         public BaseStep()
         {
             _outputWriter = (str => Console.WriteLine(str));
         }
 
-        public abstract StepData Process(StepData step);
+        public BaseStep(List<string> infoLogs)
+        {
+            InfoLogs = infoLogs;
+        }
 
-        protected void WriteOutput(string message)
+        public abstract RaceStepData Process(RaceStepData step);
+
+        protected void WriteInfo(string message)
         {
             if (null != _outputWriter)
             {
-                _outputWriter.Invoke(message);
+                _outputWriter.Invoke(message + Environment.NewLine);
+            }
+
+            if (null != InfoLogs)
+            {
+                InfoLogs.Add(message + Environment.NewLine);
             }
         }
     }

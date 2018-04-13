@@ -46,7 +46,7 @@ namespace TriResultsConsole
                 if (options.Verbose) { Console.WriteLine("Files to process:\n"); inputFiles.ForEach(file => Console.WriteLine(file)); }
 
 
-                var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml");
+                var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml").ToList();
 
                 Expression<Func<ResultRow, bool>> filterExp = null;
                 if (string.IsNullOrEmpty(options.MemberFile) && string.IsNullOrEmpty(options.FilterKeywords))
@@ -100,8 +100,10 @@ namespace TriResultsConsole
 
 
                 /// Read and filter races
-                
-                var filteredRaces = new List<StepData>();
+
+                var infoLogs = new List<string>();
+
+                var filteredRaces = new List<RaceStepData>();
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
                     Console.WriteLine("filePath: " + filePath);
@@ -112,11 +114,15 @@ namespace TriResultsConsole
                         Console.WriteLine($"Parsing file {file}. Race: {raceData.ValueOrDefault().Name}, date: {raceData.ValueOrDefault().Date}. ");
                     }
 
-                    var stepData = new StepData {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
+                    var stepData = new RaceStepData {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
 
-                    var readAndFilterStep = new StandardizeHeadersAndFilterStep(columnsConfig, filterExp);
+                    var readAndStandardizeStepStep = new ReadFileAndStandardizeStep(columnsConfig, infoLogs);
                     
-                    var nextStep = readAndFilterStep.Process(stepData);
+                    var nextStep = readAndStandardizeStepStep.Process(stepData);
+
+                    var filterStep = new FilterStep(columnsConfig, filterExp, infoLogs);
+
+                    nextStep = filterStep.Process(nextStep);
 
                     if(nextStep.RaceData.Results.Any())
                         filteredRaces.Add(nextStep);

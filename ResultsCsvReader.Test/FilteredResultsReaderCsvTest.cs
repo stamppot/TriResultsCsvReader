@@ -25,7 +25,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/Leiderdorp_sprint.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _membersWhitelist.ExactMatch(row.Naam)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _membersWhitelist.ExactMatch(row.Naam)));
 
             Assert.IsTrue(!results.Any());
         }
@@ -35,7 +35,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/Leiderdorp_sprint_indi.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _membersWhitelist.ExactMatch(row.Naam)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _membersWhitelist.ExactMatch(row.Naam)));
 
             Assert.IsTrue(results.Any());
 
@@ -47,7 +47,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/Leiderdorp_1D.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _clubWhitelist.StartsWithMatch(row.Club)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _clubWhitelist.StartsWithMatch(row.Club)));
 
             Assert.IsTrue(results.Any());
         }
@@ -57,7 +57,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/ouderkerkadamstel_sprint_m.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _clubWhitelist.StartsWithMatch(row.City)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _clubWhitelist.StartsWithMatch(row.City)));
 
             Assert.IsTrue(results.Any());
         }
@@ -67,7 +67,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/utt_ochtend_overall.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _clubWhitelist.ContainsMatch(row.Club)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _clubWhitelist.ContainsMatch(row.Club)));
 
             Assert.IsTrue(results.Any());
         }
@@ -77,7 +77,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/utt_middag_overall.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _clubWhitelist.ContainsMatch(row.Club)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _clubWhitelist.ContainsMatch(row.Club)));
 
             Assert.IsTrue(results.Any());
         }
@@ -87,7 +87,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/duin_almere_team.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _membersWhitelist.ContainsMatch(row.Naam)));
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _membersWhitelist.ContainsMatch(row.Naam)));
 
             Assert.IsTrue(results.Any());
         }
@@ -128,7 +128,7 @@ namespace ResultsCsvReader.Test
         {
             var csvFile = "files/Zeewolde_OD_2D_m.csv";
 
-            var results = _resultsReaderCsv.ReadFile(csvFile, ((row) => _clubWhitelist.ContainsMatch(row.Club))); // binding whitelist to lambda
+            var results = _resultsReaderCsv.ReadFile(csvFile); //, ((row) => _clubWhitelist.ContainsMatch(row.Club))); // binding whitelist to lambda
 
             Assert.IsTrue(results.Any());
         }

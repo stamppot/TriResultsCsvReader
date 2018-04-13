@@ -47,7 +47,7 @@ namespace TriResultsCsvReader
 
 
 
-        public IEnumerable<ResultRow> ReadFile(string csvFilename, Expression<Func<ResultRow, bool>> filter = null)
+        public IEnumerable<ResultRow> ReadFile(string csvFilename)
         {
             // 1. standardize header
             var csvLines = File.ReadAllLines(csvFilename);
@@ -93,11 +93,6 @@ namespace TriResultsCsvReader
                     Console.WriteLine("Error reading csv file: {0}: {1}", csvFilename, ex.Message);
                     
                     throw;
-                }
-                if (filter != null)
-                {
-                    var compiledFilter = filter.Compile();
-                    records = records.Where(r => compiledFilter.Invoke(r));
                 }
 
                 records = records.ToList();

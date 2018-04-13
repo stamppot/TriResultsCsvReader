@@ -194,6 +194,11 @@ namespace TriResultsForm
             {
                 outputTextBox.Text = string.Join("\n", runner.Errors);
             }
+            else
+            {
+                outputTextBox.Text = string.Join("\n", runner.Info);
+                runner.Info.Clear();
+            }
         }
 
         private void verboseCheckBox1_CheckedChanged(object sender, EventArgs e)

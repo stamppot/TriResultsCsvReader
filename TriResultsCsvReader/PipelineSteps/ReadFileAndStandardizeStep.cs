@@ -1,21 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 using Optional;
 using Optional.Unsafe;
 
 namespace TriResultsCsvReader
 {
-    public class StandardizeHeadersAndFilterStep : BaseStep, IPipelineStep
+    public class ReadFileAndStandardizeStep : BaseStep, IPipelineStep
     {
-        private readonly Expression<Func<ResultRow, bool>> _filterExp;
         private readonly IEnumerable<Column> _columns;
 
-        public StandardizeHeadersAndFilterStep(IEnumerable<Column> columnsConfig, Expression<Func<ResultRow, bool>> filterExp)
+        public ReadFileAndStandardizeStep(IEnumerable<Column> columnsConfig, List<string> infoLogs = null) : base(infoLogs)
         {
             _columns = columnsConfig;
-            _filterExp = filterExp;
         }
 
         public IEnumerable<Column> GetColumns()
@@ -23,14 +20,14 @@ namespace TriResultsCsvReader
             return _columns;
         }
 
-        public override StepData Process(StepData step)
+        public override RaceStepData Process(RaceStepData step)
         {
-            var reader = new ResultsReaderCsv(GetColumns(), WriteOutput);
+            var reader = new ResultsReaderCsv(GetColumns(), WriteInfo);
 
             // filtering happens here
-            var resultRows = reader.ReadFile(step.InputFile, _filterExp).ToList();
+            var resultRows = reader.ReadFile(step.InputFile).ToList();
 
-            WriteOutput($"Read {resultRows.Count()} rows\n");
+            WriteInfo($"Read {resultRows.Count()} rows\n");
 
             if (resultRows.Any())
             {
@@ -55,8 +52,8 @@ namespace TriResultsCsvReader
                 }
 
 
-                step.RaceData.Results = resultRows;
-                WriteOutput($"From race {step.RaceData.Name}  {firstResult.Race}\n");
+                step.RaceData.Results = resultRows.ToList();
+                WriteInfo($"From race {step.RaceData.Name}  {firstResult.Race}\n");
             }
 
             return step;

@@ -8,6 +8,6 @@ namespace TriResultsCsvReader
 {
     public interface IPipelineStep
     {
-        StepData Process(StepData step);
+        RaceStepData Process(RaceStepData step);
     }
 }
