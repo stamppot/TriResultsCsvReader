@@ -78,7 +78,7 @@ namespace TriResultsCsvReader
             {
                 Errors.Add($"Member file for filtering not found: {options.MemberFile}. Select a a file with a list of members");
                 return false;
-                var errorMessage = $"Member file for filtering not found: {options.MemberFile}"; Console.WriteLine(errorMessage); throw new FileNotFoundException(errorMessage);
+                //var errorMessage = $"Member file for filtering not found: {options.MemberFile}"; Console.WriteLine(errorMessage); throw new FileNotFoundException(errorMessage);
                 
             }
             else
@@ -87,13 +87,6 @@ namespace TriResultsCsvReader
                 var memberWhitelist = new WhitelistFilter(members.Select(m => m.Name));
                 filterExp = ((row) => memberWhitelist.ExactMatch(row.Naam));
             }
-
-            //if(hasFilterKeywords)
-            //{
-            //    var keywords = options.FilterKeywords.Split(new List<char> { '\n', ',', ';' }.ToArray());
-            //    var keywordsFilter = new WhitelistFilter(keywords);
-            //    filterExp = ((row) =>  keywordsFilter.ContainsMatch(row.Club));
-            //}
 
             if (hasMemberFilter && hasFilterKeywords)
             {
@@ -121,7 +114,7 @@ namespace TriResultsCsvReader
             }
 
 
-            var raceDatas = new List<RaceStepData>();
+            var raceDatas = new List<RaceEnvelope>();
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
@@ -136,7 +129,7 @@ namespace TriResultsCsvReader
 
                 if(!race.HasValue) continue;
 
-                var stepData = new RaceStepData
+                var stepData = new RaceEnvelope
                 {
                     InputFile = filePath,
                     OutputOptions = new List<string> { "csv" },
@@ -151,10 +144,10 @@ namespace TriResultsCsvReader
 
 
             /// Read and filter races
-            var allRaces = new List<RaceStepData>();
+            var allRaces = new List<RaceEnvelope>();
             foreach (var stepData in raceDatas)
             {
-                var readAndStandardizeStep = new ReadFileAndStandardizeStep(columnsConfig, /*filterExp,*/ Info);
+                var readAndStandardizeStep = new ReadFileAndStandardizeStep(columnsConfig, Info);
 
                 try
                 {
@@ -175,19 +168,16 @@ namespace TriResultsCsvReader
                 }
             }
 
-            var filterStep = new FilterStep(columnsConfig, filterExp, Info);
+            var filterStep = new FilterReduceStep(columnsConfig, filterExp, Info);
 
-            var filteredRaces = new ConcurrentQueue<RaceStepData>();
+            var filteredRaces = new ConcurrentQueue<RaceEnvelope>();
             Parallel.ForEach(allRaces, (currentRace) =>
             {
                 var filteredRace = filterStep.Process(currentRace);
                 if (filteredRace.RaceData.Results.Any())
                 {
+                    // ReSharper disable once AccessToModifiedClosure (concurrent collection, no problem)
                     filteredRaces.Enqueue(filteredRace);
-                }
-                else
-                {
-                    ;
                 }
 
                 // TODO: notify caller
@@ -325,7 +315,7 @@ namespace TriResultsCsvReader
 
             /// Read and filter races
 
-            var filteredRaces = new List<RaceStepData>();
+            var filteredRaces = new List<RaceEnvelope>();
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
@@ -348,7 +338,7 @@ namespace TriResultsCsvReader
                     ? Option.None<string>()
                     : Option.Some(options.RaceName);
                 
-                var stepData = new RaceStepData
+                var stepData = new RaceEnvelope
                 {
                     InputFile = filePath,
                     OutputOptions = new List<string> { "csv" },

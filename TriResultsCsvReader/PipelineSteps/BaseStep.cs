@@ -18,7 +18,7 @@ namespace TriResultsCsvReader
             InfoLogs = infoLogs;
         }
 
-        public abstract RaceStepData Process(RaceStepData step);
+        public abstract RaceEnvelope Process(RaceEnvelope step);
 
         protected void WriteInfo(string message)
         {

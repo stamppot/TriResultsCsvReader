@@ -6,13 +6,13 @@ using System.Linq.Expressions;
 namespace TriResultsCsvReader.PipelineSteps
 {
 
-    public class FilterStep : BaseStep, IPipelineStep
+    public class FilterReduceStep : BaseStep, IReduceStep, IPipelineStep
     {
         private readonly Expression<Func<ResultRow, bool>> _filterExp;
         private readonly IEnumerable<Column> _columns;
         private readonly List<string> _infoLogs;
 
-        public FilterStep(IEnumerable<Column> columnsConfig, Expression<Func<ResultRow, bool>> filterExp,
+        public FilterReduceStep(IEnumerable<Column> columnsConfig, Expression<Func<ResultRow, bool>> filterExp,
             List<string> infoLogs)
         {
             _columns = columnsConfig;
@@ -26,7 +26,7 @@ namespace TriResultsCsvReader.PipelineSteps
             return _columns;
         }
 
-        public override RaceStepData Process(RaceStepData step)
+        public override RaceEnvelope Process(RaceEnvelope step)
         {
             // filtering happens here
             var allResults = step.RaceData.Results;

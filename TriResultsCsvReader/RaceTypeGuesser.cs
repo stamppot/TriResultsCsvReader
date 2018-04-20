@@ -218,15 +218,15 @@ namespace TriResultsCsvReader
 
     public class FilenameRaceTypeGuesser : IRaceTypeGuesser
     {
-        private readonly string row;
+        private readonly string _filename;
 
         public FilenameRaceTypeGuesser(string filename)
         {
-            row = filename;
+            _filename = filename;
         }
         public Option<string> GetRaceType()
         {
-            if (row == null) return Option.None<string>();
+            if (_filename == null) return Option.None<string>();
 
             string result = null;
 
@@ -255,12 +255,12 @@ namespace TriResultsCsvReader
 
         public bool IsARunBikeRun()
         {
-            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("rbr")); ;
+            return !string.IsNullOrEmpty(_filename) && (_filename.ToLowerInvariant().Contains("rbr")); ;
         }
 
         public bool IsATriathlon()
         {
-            return row.ToLowerInvariant().Contains("tri") || HasSwimData() && HasBikeData() && HasRunData();
+            return _filename.ToLowerInvariant().Contains("tri") || HasSwimData() && HasBikeData() && HasRunData();
         }
 
         public bool IsARun()
@@ -270,22 +270,22 @@ namespace TriResultsCsvReader
 
         private bool HasSwimData()
         {
-            return !string.IsNullOrWhiteSpace(row) && row.ToLowerInvariant().Contains("swim");
+            return !string.IsNullOrWhiteSpace(_filename) && _filename.ToLowerInvariant().Contains("swim");
         }
 
         private bool HasBikeData()
         {
-            return !string.IsNullOrEmpty(row) && row.ToLowerInvariant().Contains("bike");
+            return !string.IsNullOrEmpty(_filename) && _filename.ToLowerInvariant().Contains("bike");
         }
 
         private bool HasRunData()
         {
-            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("loop") || row.ToLowerInvariant().Contains("run"));
+            return !string.IsNullOrEmpty(_filename) && (_filename.ToLowerInvariant().Contains("loop") || _filename.ToLowerInvariant().Contains("run"));
         }
 
         private bool HasTwoRunData()
         {
-            return !string.IsNullOrEmpty(row) && (row.ToLowerInvariant().Contains("rbr"));
+            return !string.IsNullOrEmpty(_filename) && (_filename.ToLowerInvariant().Contains("rbr"));
         }
     }
 }

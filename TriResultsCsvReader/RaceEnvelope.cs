@@ -1,13 +1,26 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace TriResultsCsvReader
 {
-    public class RaceStepData
+    // an envelope to pass race message in
+    // metadata about the race
+
+    public class RaceEnvelope
     {
-        public RaceStepData()
+        public RaceEnvelope()
         {
+            Id = Guid.NewGuid();
+            Timestamp = DateTime.UtcNow;
             RaceData = new Race();
         }
+
+        public Guid Id { get; private set; }
+
+        /// <summary>
+        /// Creation time in UTC
+        /// </summary>
+        public DateTime Timestamp { get; private set; }
 
         public Race RaceData { get; set; }
 

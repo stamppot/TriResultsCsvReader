@@ -5,6 +5,7 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
 using System.Linq.Expressions;
+using TriResultsCsvReader.ApplicationBoundary;
 using TriResultsCsvReader.PipelineSteps;
 
 namespace CsvColumnNormalizer.Test
@@ -66,7 +67,7 @@ namespace CsvColumnNormalizer.Test
             var readAndFilterStep = new ReadFileAndStandardizeStep(_columnsConfig);
             var destFile = "files/output";
             var srcFile = "files/2017-sep-9-almere-UitslagHTTot.csv";
-            var stepData = new RaceStepData { InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
+            var stepData = new RaceEnvelope { InputFile = srcFile, FullPath = filename, OutputFolder = destFile };
             
             var race = readAndFilterStep.Process(stepData);
 

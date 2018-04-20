@@ -277,6 +277,8 @@
     <mapfrom>
       <altname>Totaal</altname>
       <altname>TotaalTijd</altname>
+      <altname>Totaaltijd</altname>
+      <altname>Eindtijd</altname>
       <altname>NETTO</altname>
       <altname>Netto</altname>
       <altname>NettoTijd</altname>

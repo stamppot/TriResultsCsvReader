@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using Optional;
-using Optional.Unsafe;
 
 namespace TriResultsCsvReader
 {
@@ -20,14 +19,12 @@ namespace TriResultsCsvReader
             return _columns;
         }
 
-        public override RaceStepData Process(RaceStepData step)
+        public override RaceEnvelope Process(RaceEnvelope raceStepData)
         {
             var reader = new ResultsReaderCsv(GetColumns(), WriteInfo);
 
             // filtering happens here
-            var resultRows = reader.ReadFile(step.InputFile).ToList();
-
-            WriteInfo($"Read {resultRows.Count()} rows\n");
+            var resultRows = reader.ReadFile(raceStepData.InputFile).ToList();
 
             if (resultRows.Any())
             {
@@ -35,49 +32,28 @@ namespace TriResultsCsvReader
 
                 // get raceType
 
-                if (!step.RaceData.Date.HasValue)
+                if (!raceStepData.RaceData.Date.HasValue)
                 {
-                    step.RaceData.Date = Option.Some(firstResult.RaceDate);
+                    raceStepData.RaceData.Date = Option.Some(firstResult.RaceDate);
                 }
 
                 // if resultrow has Race column, use this as it is a better description of the race name
-                if (!step.RaceData.Name.HasValue || !string.IsNullOrEmpty(firstResult.Race))
+                if (!raceStepData.RaceData.Name.HasValue || !string.IsNullOrEmpty(firstResult.Race))
                 {
-                    step.RaceData.Name = Option.Some(firstResult.Race);
+                    raceStepData.RaceData.Name = Option.Some(firstResult.Race);
                 }
 
-                if (!step.RaceData.RaceType.HasValue)
+                if (!raceStepData.RaceData.RaceType.HasValue)
                 {
-                    step.RaceData.RaceType = string.IsNullOrEmpty(firstResult.RaceType) ? Option.None<string>() : Option.Some(firstResult.RaceType);
+                    raceStepData.RaceData.RaceType = string.IsNullOrEmpty(firstResult.RaceType) ? Option.None<string>() : Option.Some(firstResult.RaceType);
                 }
 
 
-                step.RaceData.Results = resultRows.ToList();
-                WriteInfo($"From race {step.RaceData.Name}  {firstResult.Race}\n");
+                raceStepData.RaceData.Results = resultRows.ToList();
+                WriteInfo($"Read {resultRows.Count()} rows from race {raceStepData.RaceData.Name}  {firstResult.Race}\n");
             }
 
-            return step;
-        }
-
-        public Option<string> SetRaceType(List<ResultRow> results, Option<string> raceType)
-        {
-            if (results.Any())
-            {
-                var first = results.First(); // if set, use this, otherwise use raceType from filename
-
-
-                var raceTypeResult = !string.IsNullOrEmpty(first.Race) ? first.RaceType : raceType.ValueOrDefault();
-
-                foreach (var result in results)
-                {
-                    if (string.IsNullOrEmpty(result.RaceType))
-                        result.RaceType = raceType.ValueOrDefault();
-                }
-
-                return Option.Some(raceTypeResult);
-            }
-
-            return raceType;
+            return raceStepData;
         }
     }
 }

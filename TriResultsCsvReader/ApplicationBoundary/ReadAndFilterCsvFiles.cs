@@ -3,13 +3,21 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace TriResultsCsvReader.PipelineSteps
+namespace TriResultsCsvReader.ApplicationBoundary
 {
-    public class ReadAndFilterCsvFiles
+    // message endpoint (on boundary of application) receive data from outside, see functional architecture f# by Mark Seeman on Pluralsight
+
+    public interface IInputMessageEndPoint
     {
-        public List<RaceStepData> GetFilteredRaces(IEnumerable<string> inputFiles, string inputFolder, string outputFolder, DateTime raceDate, IEnumerable<Column> columnsConfig)
+        List<RaceEnvelope> GetFilteredRaces(IEnumerable<string> inputFiles, string inputFolder, string outputFolder,
+            DateTime raceDate, IEnumerable<Column> columnsConfig);
+    }
+
+    public class ReadAndFilterCsvFiles : IInputMessageEndPoint
+    {
+        public List<RaceEnvelope> GetFilteredRaces(IEnumerable<string> inputFiles, string inputFolder, string outputFolder, DateTime raceDate, IEnumerable<Column> columnsConfig)
         {
-            var filteredRaces = new List<RaceStepData>(inputFiles.Count());
+            var filteredRaces = new List<RaceEnvelope>(inputFiles.Count());
             foreach (var file in inputFiles)
             {
                 var filePath = Path.Combine(inputFolder, file);
@@ -18,7 +26,7 @@ namespace TriResultsCsvReader.PipelineSteps
                 Console.Write("race (from filename): {0}, date: {1}, name: {2}", srcFilename, raceDate, file);
 
 
-                var stepData = new RaceStepData { InputFile = filePath, ColumnConfig = columnsConfig, OutputOptions = new List<string> { "csv" } };
+                var stepData = new RaceEnvelope { InputFile = filePath, ColumnConfig = columnsConfig, OutputOptions = new List<string> { "csv" } };
 
                 var readAndFilterStep = new ReadFileAndStandardizeStep(columnsConfig);
 

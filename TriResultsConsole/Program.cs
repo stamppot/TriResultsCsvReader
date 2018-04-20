@@ -103,7 +103,7 @@ namespace TriResultsConsole
 
                 var infoLogs = new List<string>();
 
-                var filteredRaces = new List<RaceStepData>();
+                var filteredRaces = new List<RaceEnvelope>();
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
                     Console.WriteLine("filePath: " + filePath);
@@ -114,13 +114,13 @@ namespace TriResultsConsole
                         Console.WriteLine($"Parsing file {file}. Race: {raceData.ValueOrDefault().Name}, date: {raceData.ValueOrDefault().Date}. ");
                     }
 
-                    var stepData = new RaceStepData {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
+                    var stepData = new RaceEnvelope {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
 
                     var readAndStandardizeStepStep = new ReadFileAndStandardizeStep(columnsConfig, infoLogs);
                     
                     var nextStep = readAndStandardizeStepStep.Process(stepData);
 
-                    var filterStep = new FilterStep(columnsConfig, filterExp, infoLogs);
+                    var filterStep = new FilterReduceStep(columnsConfig, filterExp, infoLogs);
 
                     nextStep = filterStep.Process(nextStep);
 

@@ -14,36 +14,36 @@ namespace TriResultsCsvReader
     {
         private bool _skipEmptyResults = true;
 
-        public override RaceStepData Process(RaceStepData step)
+        public override RaceEnvelope Process(RaceEnvelope raceStepData)
         {
-            if (_skipEmptyResults && step.RaceData.Results.Any())
+            if (_skipEmptyResults && raceStepData.RaceData.Results.Any())
             {
-                var firstResult = step.RaceData.Results.First();
+                var firstResult = raceStepData.RaceData.Results.First();
 
                 /* if race name and date is not present in results/csv, get them from filename and set them for each result */
-                if (firstResult.RaceDate == DateTime.MinValue && step.RaceData.Date.HasValue)
+                if (firstResult.RaceDate == DateTime.MinValue && raceStepData.RaceData.Date.HasValue)
                 {
-                    step.RaceData.Results.ForEach(result => result.RaceDate = step.RaceData.Date.ValueOrDefault());
+                    raceStepData.RaceData.Results.ForEach(result => result.RaceDate = raceStepData.RaceData.Date.ValueOrDefault());
                 }
-                if (string.IsNullOrEmpty(firstResult.Race) && step.RaceData.Name.HasValue)
+                if (string.IsNullOrEmpty(firstResult.Race) && raceStepData.RaceData.Name.HasValue)
                 {
-                    step.RaceData.Results.ForEach(result => result.Race = step.RaceData.Name.ValueOrDefault());
+                    raceStepData.RaceData.Results.ForEach(result => result.Race = raceStepData.RaceData.Name.ValueOrDefault());
                 }
                 var raceDate = firstResult.RaceDate;
                 var raceName = firstResult.Race;
 
-                var destPath = step.OutputFolder;
-                var resultRows = step.RaceData.Results;
-                var raceType = step.RaceData.RaceType;
+                var destPath = raceStepData.OutputFolder;
+                var resultRows = raceStepData.RaceData.Results;
+                var raceType = raceStepData.RaceData.RaceType;
 
                 if(string.IsNullOrEmpty(raceName))
                 {
-                    throw new Exception("no racename: " + step.FullPath);
+                    throw new Exception("no racename: " + raceStepData.FullPath);
                 }
                 Write(destPath, raceDate, raceName, resultRows, raceType.ValueOrDefault());
             }
 
-            return step;
+            return raceStepData;
         }
 
         protected void Write(string destFolder, DateTime raceDate, string raceName, IEnumerable<ResultRow> rows, string raceType)
