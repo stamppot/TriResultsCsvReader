@@ -1715,6 +1715,7 @@
     <None Include="uitslagen\2017-jul-02-Sallands_Mooiste_MTB.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2017-jul-08-Frysman-Long.csv" />
     <None Include="uitslagen\2017-jul-29-Ulrum_halve_marathon.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -3065,6 +3066,9 @@
     <None Include="uitslagen\2018-apr-15-Runnersworld-Zwemloop-Sprint-V.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="uitslagen\2018-apr-29-Deventer-Triathlon.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="uitslagen\2018-mar-04-OceanLava-Tenerife.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -3099,6 +3103,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="uitslagen\2018-mar-31-RBR-series-Oldenzaal-V.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2018-may-06-NK-Run-Bike-Run-Hoogerheide-M.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="uitslagen\2018-may-06-NK-Run-Bike-Run-Hoogerheide-V.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
