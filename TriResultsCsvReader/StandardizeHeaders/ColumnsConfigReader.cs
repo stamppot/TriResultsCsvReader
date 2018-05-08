@@ -40,11 +40,12 @@ namespace TriResultsCsvReader
 
             var columns = from column in doc.Element("columns").Elements("column")
                           let name = column.Element("name")?.Value
+                          let order = Int32.Parse(column.Element("name")?.Attribute("order")?.Value ?? "0")
                           let altNames = column.Element("mapfrom")?.Elements() ?? new List<XElement>()
                           let names = altNames.Select(elem => elem.Value)
-                          select new Column() { Name = name, AlternativeNames = names };
+                          select new Column() { Name = name, AlternativeNames = names, Order = order };
             
-            return columns;
+            return columns.OrderBy(x => x.Order);
         }
     }
 }

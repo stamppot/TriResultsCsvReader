@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <columns>
   <column>
-    <name>Pos</name>
+    <name order="1">Pos</name>
     <mapfrom>
       <altname>Plts</altname>
       <altname>Pl</altname>
@@ -9,7 +9,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>StartNr</name>
+    <name order="2">StartNr</name>
     <mapfrom>
       <altname>StNr</altname>
       <altname>RaceNr</altname>
@@ -17,28 +17,28 @@
     </mapfrom>
   </column>
   <column>
-    <name>Naam</name>
+    <name order="3">Naam</name>
     <mapfrom>
       <altname>Name</altname>
       <altname>NAAM</altname>
     </mapfrom>
   </column>
   <column>
-    <name>Club</name>
+    <name order="4">Club</name>
     <mapfrom>
       <altname>Team</altname>
       <altname>Teamnaam</altname>
     </mapfrom>
   </column>
   <column>
-    <name>City</name>
+    <name order="4">City</name>
     <mapfrom>
       <altname>Woonplaats</altname>
       <altname>Club/Woonplaats</altname>
     </mapfrom>
   </column>
   <column>
-    <name>PosCat</name>
+    <name order="5">PosCat</name>
     <mapfrom>
       <altname>CatPts</altname>
       <altname>PltsCat</altname>
@@ -46,13 +46,13 @@
     </mapfrom>
   </column>
   <column>
-    <name>Cat</name>
+    <name order="6">Cat</name>
     <mapfrom>
       <altname>Categ</altname>
     </mapfrom>
   </column>
   <column>
-    <name>Swim</name>
+    <name order="7">Swim</name>
     <mapfrom>
       <altname>Zwem</altname>
       <altname>Zwemmen</altname>
@@ -60,11 +60,11 @@
     </mapfrom>
   </column>
   <column>
-    <name>SwimPace</name>
+    <name order="9">SwimPace</name>
     <mapfrom>    </mapfrom>
   </column>
   <column>
-    <name>PosSwim</name>
+    <name order="8">PosSwim</name>
     <mapfrom>
       <altname>#Swim</altname>
       <altname>PltsZwem</altname>
@@ -77,7 +77,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>T1</name>
+    <name order="10">T1</name>
     <mapfrom>
       <altname>Wis1</altname>
       <altname>Wiss1</altname>
@@ -86,7 +86,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosT1</name>
+    <name order="11">PosT1</name>
     <mapfrom>
       <altname>#T1</altname>
       <altname>#W1</altname>
@@ -94,7 +94,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterT1</name>
+    <name order="12">PosAfterT1</name>
     <mapfrom>
       <altname>#AfterT1</altname>
       <altname>#NaW1</altname>
@@ -103,7 +103,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>Bike</name>
+    <name order="13">Bike</name>
     <mapfrom>
       <altname>Fiets</altname>
       <altname>Fietsen</altname>
@@ -111,11 +111,11 @@
     </mapfrom>
   </column>
   <column>
-    <name>BikePace</name>
+    <name order="15">BikePace</name>
     <mapfrom>    </mapfrom>
   </column>
   <column>
-    <name>PosBike</name>
+    <name order="14">PosBike</name>
     <mapfrom>
       <altname>#Bike</altname>
       <altname>PltsFiets</altname>
@@ -128,7 +128,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>AfterBike</name>
+    <name order="16">AfterBike</name>
     <mapfrom>
       <altname>NaFiets</altname>
       <altname>NaF</altname>
@@ -138,7 +138,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterBike</name>
+    <name order="17">PosAfterBike</name>
     <mapfrom>
       <altname>#AfterBike</altname>
       <altname>PltsNaFiets</altname>
@@ -151,7 +151,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>T2</name>
+    <name order="18">T2</name>
     <mapfrom>
       <altname>Wis2</altname>
       <altname>Wiss2</altname>
@@ -160,7 +160,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosT2</name>
+    <name order="19">PosT2</name>
     <mapfrom>
       <altname>#T2</altname>
       <altname>#W2</altname>
@@ -168,7 +168,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>PosAfterT2</name>
+    <name order="20">PosAfterT2</name>
     <mapfrom>
       <altname>#AfterT2</altname>
       <altname>#NaW2</altname>
@@ -177,7 +177,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>Run</name>
+    <name order="21">Run</name>
     <mapfrom>
       <altname>Loop</altname>
       <altname>Lopen</altname>
@@ -185,11 +185,11 @@
     </mapfrom>
   </column>
   <column>
-    <name>RunPace</name>
+    <name order="23">RunPace</name>
     <mapfrom>    </mapfrom>
   </column>
   <column>
-    <name>PosRun</name>
+    <name order="22">PosRun</name>
     <mapfrom>
       <altname>#Run</altname>
       <altname>PltsLoop</altname>
@@ -201,27 +201,27 @@
   </column>
   <!-- RBR -->
   <column>
-    <name>TeamNr</name>
+    <name order="26">TeamNr</name>
     <mapfrom>
       <altname>TeamNo</altname>
       <altname>TeamNumber</altname>
     </mapfrom>
   </column>
   <column>
-    <name>TeamTotal</name>
+    <name order="28">TeamTotal</name>
     <mapfrom>
       <altname>TeamTotaal</altname>
     </mapfrom>
   </column>
   <column>
-    <name>Run1</name>
+    <name order="7">Run1</name>
     <mapfrom>
       <altname>Loop1</altname>
       <altname>L1</altname>
     </mapfrom>
   </column>
   <column>
-    <name>PosRun1</name>
+    <name order="8">PosRun1</name>
     <mapfrom>
       <altname>#Loop1</altname>
       <altname>#L1</altname>
@@ -229,14 +229,14 @@
     </mapfrom>
   </column>
   <column>
-    <name>Run2</name>
+    <name order="21">Run2</name>
     <mapfrom>
       <altname>Loop2</altname>
       <altname>L2</altname>
     </mapfrom>
   </column>
   <column>
-    <name>PosRun2</name>
+    <name order="22">PosRun2</name>
     <mapfrom>
       <altname>#Loop2</altname>
       <altname>#L2</altname>
@@ -246,19 +246,19 @@
   <!-- end RBR -->
   <!-- Teams -->
   <column>
-    <name>TeamPoints</name>
+    <name order="25">TeamPoints</name>
     <mapfrom>
       <altname>Pnt</altname>
     </mapfrom>
   </column>
   <column>
-    <name>TeamTotalPoints</name>
+    <name order="27">TeamTotalPoints</name>
     <mapfrom>
       <altname>Punten</altname>
     </mapfrom>
   </column>
   <column>
-    <name>TeamRank</name>
+    <name order="29">TeamRank</name>
     <mapfrom>
       <altname>TeamPos</altname>
       <altname>RankTeam</altname>
@@ -266,14 +266,14 @@
   </column>
   <!-- end Teams -->
   <column>
-    <name>Difference</name>
+    <name order="31">Difference</name>
     <mapfrom>
       <altname>Verschil</altname>
       <altname>Versch</altname>
     </mapfrom>
   </column>
   <column>
-    <name>Total</name>
+    <name order="30">Total</name>
     <mapfrom>
       <altname>Totaal</altname>
       <altname>TotaalTijd</altname>
@@ -287,7 +287,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>Race</name>
+    <name order="32">Race</name>
     <mapfrom>
       <altname>RaceName</altname>
       <altname>Event</altname>
@@ -295,7 +295,7 @@
     </mapfrom>
   </column>
   <column>
-    <name>RaceDate</name>
+    <name order="33">RaceDate</name>
     <mapfrom>
       <altname>Date</altname>
       <altname>date</altname>
