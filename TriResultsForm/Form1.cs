@@ -265,10 +265,22 @@ namespace TriResultsForm
 
             var urlFetcher = new FetchUrlContents();
             var doc = urlFetcher.GetPage(url);
+            var racename = urlFetcher.GetRacename(doc);
             var resultsTable = urlFetcher.GetResultsTable(doc);
 
+            urlOutputTextBox2.Text = racename.ValueOr("Couldn't get racename");
+
+            UpdateFont();
             urlDataGridView1.DataSource = resultsTable;
 
+        }
+
+        private void UpdateFont()
+        {
+            foreach (DataGridViewColumn c in urlDataGridView1.Columns)
+            {
+                c.DefaultCellStyle.Font = new Font("Arial", 9F, GraphicsUnit.Pixel);
+            }
         }
     }
 }

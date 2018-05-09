@@ -20,10 +20,12 @@ namespace UrlResultsFetcher
 
         public Option<string> GetRacename(HtmlDocument doc)
         {
-            var titleNode = doc.DocumentNode.SelectNodes("//tr/td[contains(@class, 'REPORTHEADER')]").First()
-                .InnerText;
+            var allowedTdClass = new[] { "REPORTHEADER" };
+            var containsClassFilter = new Func<string, bool>(className => allowedTdClass.Contains(className));
 
-            return string.IsNullOrEmpty(titleNode) ? Option.None<string>() : Option.Some(titleNode);
+            var results = GetResultsLists(doc, containsClassFilter, false).SelectMany(x => x).FirstOrDefault(x => x != null);
+
+            return results != null ? Option.Some(results) : Option.None<string>();
         }
 
         public List<string> GetFieldNames(HtmlDocument doc)
@@ -67,6 +69,13 @@ namespace UrlResultsFetcher
         {
             var notAllowedTdClass = new[] {"colspan", "REPORTHEADER", "PAGEHEADER"};
 
+            var notContainsClassFilter = new Func<string, bool>(className => !notAllowedTdClass.Contains(className));
+
+            return GetResultsLists(doc, notContainsClassFilter);
+        }
+
+        protected List<List<string>> GetResultsLists(HtmlDocument doc, Func<string,bool> classFilter, bool onlySingleColspan = true)
+        {
             var table = doc.DocumentNode.SelectNodes("//table").Cast<HtmlNode>().FirstOrDefault();
             if (table == null) return null;
 
@@ -77,11 +86,14 @@ namespace UrlResultsFetcher
                 var rowList = new List<string>();
                 foreach (var cell in row.SelectNodes("th|td"))
                 {
-                    var colspan = Int32.Parse(cell.GetAttributeValue("colspan", "1"));
-                    if(colspan > 1) continue;
+                    if (onlySingleColspan)
+                    {
+                        var colspan = Int32.Parse(cell.GetAttributeValue("colspan", "1"));
+                        if (colspan > 1) continue;
+                    }
 
                     var className = cell.GetAttributeValue("class", "");
-                    if (!notAllowedTdClass.Contains(className))
+                    if (classFilter.Invoke(className))
                     {
                         var cellValue = cell.InnerText.Replace("&nbsp;", "").Replace("<br/>", "");
                         cellValue = cellValue.Replace("DNS", "").Replace("DNF", "");

@@ -410,9 +410,9 @@
             this.groupBox1.Controls.Add(this.readUrlButton3);
             this.groupBox1.Controls.Add(this.urlTextBox1);
             this.groupBox1.Controls.Add(this.urlResultsLabel1);
-            this.groupBox1.Location = new System.Drawing.Point(22, 67);
+            this.groupBox1.Location = new System.Drawing.Point(6, 6);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(532, 528);
+            this.groupBox1.Size = new System.Drawing.Size(1155, 614);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
@@ -420,10 +420,10 @@
             // urlDataGridView1
             // 
             this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.urlDataGridView1.Location = new System.Drawing.Point(10, 251);
+            this.urlDataGridView1.Location = new System.Drawing.Point(10, 134);
             this.urlDataGridView1.Name = "urlDataGridView1";
             this.urlDataGridView1.RowTemplate.Height = 24;
-            this.urlDataGridView1.Size = new System.Drawing.Size(505, 271);
+            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 271);
             this.urlDataGridView1.TabIndex = 3;
             // 
             // readUrlButton3
@@ -454,10 +454,10 @@
             // 
             // urlOutputTextBox2
             // 
-            this.urlOutputTextBox2.Location = new System.Drawing.Point(10, 84);
+            this.urlOutputTextBox2.Location = new System.Drawing.Point(626, 21);
             this.urlOutputTextBox2.Multiline = true;
             this.urlOutputTextBox2.Name = "urlOutputTextBox2";
-            this.urlOutputTextBox2.Size = new System.Drawing.Size(505, 149);
+            this.urlOutputTextBox2.Size = new System.Drawing.Size(505, 82);
             this.urlOutputTextBox2.TabIndex = 4;
             // 
             // Form1
