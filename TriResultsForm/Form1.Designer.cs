@@ -73,6 +73,7 @@
             this.urlInputLabel3 = new System.Windows.Forms.Label();
             this.urlFilteredDataGridView1 = new System.Windows.Forms.DataGridView();
             this.urlStandardizedLabel3 = new System.Windows.Forms.Label();
+            this.urlSaveButton3 = new System.Windows.Forms.Button();
             this.inputGroupBox1.SuspendLayout();
             this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
@@ -384,7 +385,7 @@
             this.tabControl1.Location = new System.Drawing.Point(13, 13);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1191, 655);
+            this.tabControl1.Size = new System.Drawing.Size(1191, 840);
             this.tabControl1.TabIndex = 6;
             // 
             // tabPage1
@@ -408,13 +409,14 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1183, 626);
+            this.tabPage2.Size = new System.Drawing.Size(1183, 811);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.urlSaveButton3);
             this.groupBox1.Controls.Add(this.urlStandardizedLabel3);
             this.groupBox1.Controls.Add(this.urlFilteredDataGridView1);
             this.groupBox1.Controls.Add(this.urlInputLabel3);
@@ -426,7 +428,7 @@
             this.groupBox1.Controls.Add(this.urlResultsLabel1);
             this.groupBox1.Location = new System.Drawing.Point(6, 6);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1155, 732);
+            this.groupBox1.Size = new System.Drawing.Size(1155, 799);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
@@ -547,6 +549,16 @@
             this.urlStandardizedLabel3.TabIndex = 14;
             this.urlStandardizedLabel3.Text = "Standardized columns";
             // 
+            // urlSaveButton3
+            // 
+            this.urlSaveButton3.Location = new System.Drawing.Point(6, 737);
+            this.urlSaveButton3.Name = "urlSaveButton3";
+            this.urlSaveButton3.Size = new System.Drawing.Size(75, 28);
+            this.urlSaveButton3.TabIndex = 15;
+            this.urlSaveButton3.Text = "Save result...";
+            this.urlSaveButton3.UseVisualStyleBackColor = true;
+            this.urlSaveButton3.Click += new System.EventHandler(this.urlSaveButton3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -623,6 +635,7 @@
         private System.Windows.Forms.DataGridView urlFilteredDataGridView1;
         private System.Windows.Forms.Label urlInputLabel3;
         private System.Windows.Forms.Label urlStandardizedLabel3;
+        private System.Windows.Forms.Button urlSaveButton3;
     }
 }
 

@@ -12,7 +12,7 @@ namespace UrlResultsFetcher
             var dateIndex = FindFirstNumberIndex(dtStr);
             dtStr = racedata.Substring(dateIndex);
 
-            var raceStr = racedata.Substring(0, dateIndex);
+            var raceStr = racedata.Substring(0, dateIndex).Trim();
 
             if (dtStr.EndsWith("-"))
             {

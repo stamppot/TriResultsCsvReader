@@ -24,6 +24,8 @@ namespace TriResultsForm
 
         public ProgramOptions Options { get; private set; }
 
+        public Tuple<string,DateTime> UrlRaceData { get; set; }
+
         public Form1()
         {
             Options = new ProgramOptions()
@@ -267,6 +269,7 @@ namespace TriResultsForm
             var doc = urlFetcher.GetPage(url);
             var raceAndDate = urlFetcher.GetRacename(doc);
             var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
+            UrlRaceData = raceData;
 
             var resultsTable = urlFetcher.GetResultsTable(doc);
 
@@ -285,6 +288,26 @@ namespace TriResultsForm
             foreach (DataGridViewColumn c in urlDataGridView1.Columns)
             {
                 c.DefaultCellStyle.Font = new Font("Arial", 9F, GraphicsUnit.Pixel);
+            }
+        }
+
+        private void urlSaveButton3_Click(object sender, EventArgs e)
+        {
+            var filename = TriResultsCsvReader.DateUtils.ToRaceFilename(UrlRaceData.Item2, UrlRaceData.Item1);
+
+            var fileDialog = new CommonOpenFileDialog("Save file as csv")
+            {
+                //EnsurePathExists = true,
+                AllowNonFileSystemItems = false,
+                IsFolderPicker = false,
+                DefaultExtension = "csv",
+                DefaultFileName = filename + ".csv"
+            };
+
+            var dialogResult = fileDialog.ShowDialog();
+            if (dialogResult == CommonFileDialogResult.Ok)
+            {
+                ;
             }
         }
     }
