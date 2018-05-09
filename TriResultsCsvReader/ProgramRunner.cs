@@ -2,11 +2,9 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Collections.Specialized;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Threading;
 using System.Threading.Tasks;
 using Optional;
 using Optional.Unsafe;
@@ -322,7 +320,7 @@ namespace TriResultsCsvReader
                 Console.WriteLine("filePath: " + filePath);
                 var raceData = new FileUtils().GetRaceDataFromFilename(filePath);
 
-                Console.Write("P! race (from filename): {0}, date: {1}", raceData.ValueOr(new Race()).Name, raceData.ValueOrDefault().Date);
+                Console.Write("P! race (from filename): {0}, date: {1}", raceData.ValueOr(new Race()).Name, raceData.ValueOr(new Race()).Date);
 
                 if (options.Verbose)
                 {

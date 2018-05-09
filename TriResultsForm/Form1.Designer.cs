@@ -400,7 +400,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(1183, 626);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "Uitslagen genereren";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tabPage2
@@ -411,7 +411,7 @@
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(1183, 811);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.Text = "Uitslagen downloaden";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // groupBox1
@@ -431,7 +431,7 @@
             this.groupBox1.Size = new System.Drawing.Size(1155, 799);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "MyLaps";
             // 
             // urlDataGridView1
             // 
