@@ -65,6 +65,14 @@
             this.urlTextBox1 = new System.Windows.Forms.TextBox();
             this.urlResultsLabel1 = new System.Windows.Forms.Label();
             this.urlOutputTextBox2 = new System.Windows.Forms.TextBox();
+            this.urlRaceGroupBox2 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.urlRaceDateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.label2 = new System.Windows.Forms.Label();
+            this.urlRacenameTextBox1 = new System.Windows.Forms.TextBox();
+            this.urlInputLabel3 = new System.Windows.Forms.Label();
+            this.urlFilteredDataGridView1 = new System.Windows.Forms.DataGridView();
+            this.urlStandardizedLabel3 = new System.Windows.Forms.Label();
             this.inputGroupBox1.SuspendLayout();
             this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
@@ -74,6 +82,8 @@
             this.tabPage2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).BeginInit();
+            this.urlRaceGroupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -405,6 +415,10 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.urlStandardizedLabel3);
+            this.groupBox1.Controls.Add(this.urlFilteredDataGridView1);
+            this.groupBox1.Controls.Add(this.urlInputLabel3);
+            this.groupBox1.Controls.Add(this.urlRaceGroupBox2);
             this.groupBox1.Controls.Add(this.urlOutputTextBox2);
             this.groupBox1.Controls.Add(this.urlDataGridView1);
             this.groupBox1.Controls.Add(this.readUrlButton3);
@@ -412,7 +426,7 @@
             this.groupBox1.Controls.Add(this.urlResultsLabel1);
             this.groupBox1.Location = new System.Drawing.Point(6, 6);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1155, 614);
+            this.groupBox1.Size = new System.Drawing.Size(1155, 732);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
@@ -420,10 +434,10 @@
             // urlDataGridView1
             // 
             this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.urlDataGridView1.Location = new System.Drawing.Point(10, 134);
+            this.urlDataGridView1.Location = new System.Drawing.Point(6, 213);
             this.urlDataGridView1.Name = "urlDataGridView1";
             this.urlDataGridView1.RowTemplate.Height = 24;
-            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 271);
+            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 218);
             this.urlDataGridView1.TabIndex = 3;
             // 
             // readUrlButton3
@@ -454,17 +468,90 @@
             // 
             // urlOutputTextBox2
             // 
-            this.urlOutputTextBox2.Location = new System.Drawing.Point(626, 21);
+            this.urlOutputTextBox2.Location = new System.Drawing.Point(798, 21);
             this.urlOutputTextBox2.Multiline = true;
             this.urlOutputTextBox2.Name = "urlOutputTextBox2";
-            this.urlOutputTextBox2.Size = new System.Drawing.Size(505, 82);
+            this.urlOutputTextBox2.Size = new System.Drawing.Size(333, 82);
             this.urlOutputTextBox2.TabIndex = 4;
+            // 
+            // urlRaceGroupBox2
+            // 
+            this.urlRaceGroupBox2.Controls.Add(this.label1);
+            this.urlRaceGroupBox2.Controls.Add(this.urlRaceDateTimePicker);
+            this.urlRaceGroupBox2.Controls.Add(this.label2);
+            this.urlRaceGroupBox2.Controls.Add(this.urlRacenameTextBox1);
+            this.urlRaceGroupBox2.Location = new System.Drawing.Point(10, 79);
+            this.urlRaceGroupBox2.Name = "urlRaceGroupBox2";
+            this.urlRaceGroupBox2.Size = new System.Drawing.Size(381, 101);
+            this.urlRaceGroupBox2.TabIndex = 11;
+            this.urlRaceGroupBox2.TabStop = false;
+            this.urlRaceGroupBox2.Text = "Race";
+            this.urlRaceGroupBox2.Visible = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 64);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(38, 17);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Date";
+            // 
+            // urlRaceDateTimePicker
+            // 
+            this.urlRaceDateTimePicker.Location = new System.Drawing.Point(116, 59);
+            this.urlRaceDateTimePicker.Name = "urlRaceDateTimePicker";
+            this.urlRaceDateTimePicker.Size = new System.Drawing.Size(259, 22);
+            this.urlRaceDateTimePicker.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(12, 31);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(80, 17);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Race name";
+            // 
+            // urlRacenameTextBox1
+            // 
+            this.urlRacenameTextBox1.Location = new System.Drawing.Point(116, 31);
+            this.urlRacenameTextBox1.Name = "urlRacenameTextBox1";
+            this.urlRacenameTextBox1.Size = new System.Drawing.Size(259, 22);
+            this.urlRacenameTextBox1.TabIndex = 0;
+            // 
+            // urlInputLabel3
+            // 
+            this.urlInputLabel3.AutoSize = true;
+            this.urlInputLabel3.Location = new System.Drawing.Point(10, 190);
+            this.urlInputLabel3.Name = "urlInputLabel3";
+            this.urlInputLabel3.Size = new System.Drawing.Size(39, 17);
+            this.urlInputLabel3.TabIndex = 12;
+            this.urlInputLabel3.Text = "Input";
+            // 
+            // urlFilteredDataGridView1
+            // 
+            this.urlFilteredDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.urlFilteredDataGridView1.Location = new System.Drawing.Point(6, 469);
+            this.urlFilteredDataGridView1.Name = "urlFilteredDataGridView1";
+            this.urlFilteredDataGridView1.RowTemplate.Height = 24;
+            this.urlFilteredDataGridView1.Size = new System.Drawing.Size(1121, 218);
+            this.urlFilteredDataGridView1.TabIndex = 13;
+            // 
+            // urlStandardizedLabel3
+            // 
+            this.urlStandardizedLabel3.AutoSize = true;
+            this.urlStandardizedLabel3.Location = new System.Drawing.Point(6, 446);
+            this.urlStandardizedLabel3.Name = "urlStandardizedLabel3";
+            this.urlStandardizedLabel3.Size = new System.Drawing.Size(148, 17);
+            this.urlStandardizedLabel3.TabIndex = 14;
+            this.urlStandardizedLabel3.Text = "Standardized columns";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1226, 712);
+            this.ClientSize = new System.Drawing.Size(1226, 950);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "De uitslagengenerator";
@@ -482,6 +569,9 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).EndInit();
+            this.urlRaceGroupBox2.ResumeLayout(false);
+            this.urlRaceGroupBox2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -525,6 +615,14 @@
         private System.Windows.Forms.TextBox urlTextBox1;
         private System.Windows.Forms.Label urlResultsLabel1;
         private System.Windows.Forms.TextBox urlOutputTextBox2;
+        private System.Windows.Forms.GroupBox urlRaceGroupBox2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DateTimePicker urlRaceDateTimePicker;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox urlRacenameTextBox1;
+        private System.Windows.Forms.DataGridView urlFilteredDataGridView1;
+        private System.Windows.Forms.Label urlInputLabel3;
+        private System.Windows.Forms.Label urlStandardizedLabel3;
     }
 }
 

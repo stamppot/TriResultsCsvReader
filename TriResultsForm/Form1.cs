@@ -265,10 +265,15 @@ namespace TriResultsForm
 
             var urlFetcher = new FetchUrlContents();
             var doc = urlFetcher.GetPage(url);
-            var racename = urlFetcher.GetRacename(doc);
+            var raceAndDate = urlFetcher.GetRacename(doc);
+            var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
+
             var resultsTable = urlFetcher.GetResultsTable(doc);
 
-            urlOutputTextBox2.Text = racename.ValueOr("Couldn't get racename");
+            urlOutputTextBox2.Text = raceData.Item1;
+            urlRacenameTextBox1.Text = raceData.Item1;
+            urlRaceDateTimePicker.Value = raceData.Item2;
+            urlRaceGroupBox2.Visible = true;
 
             UpdateFont();
             urlDataGridView1.DataSource = resultsTable;

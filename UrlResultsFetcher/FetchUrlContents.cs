@@ -18,14 +18,16 @@ namespace UrlResultsFetcher
             return doc;
         }
 
-        public Option<string> GetRacename(HtmlDocument doc)
+        public Option<Tuple<string,DateTime>> GetRacename(HtmlDocument doc)
         {
             var allowedTdClass = new[] { "REPORTHEADER" };
             var containsClassFilter = new Func<string, bool>(className => allowedTdClass.Contains(className));
 
             var results = GetResultsLists(doc, containsClassFilter, false).SelectMany(x => x).FirstOrDefault(x => x != null);
 
-            return results != null ? Option.Some(results) : Option.None<string>();
+            var raceAndDate = DateUtils.FromRaceData(results);
+
+            return raceAndDate;
         }
 
         public List<string> GetFieldNames(HtmlDocument doc)
