@@ -73,7 +73,17 @@ namespace UrlResultsFetcher
 
             var notContainsClassFilter = new Func<string, bool>(className => !notAllowedTdClass.Contains(className));
 
-            return GetResultsLists(doc, notContainsClassFilter);
+            var rowLists = GetResultsLists(doc, notContainsClassFilter);
+
+            if (rowLists.Any())
+            {
+                var headers = rowLists.First();
+                var numColumns = headers.Count;
+
+                return rowLists.Where(row => row.Count == numColumns).ToList();
+            }
+
+            return rowLists;
         }
 
         protected List<List<string>> GetResultsLists(HtmlDocument doc, Func<string,bool> classFilter, bool onlySingleColspan = true)

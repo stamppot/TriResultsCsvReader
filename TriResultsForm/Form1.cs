@@ -295,11 +295,9 @@ namespace TriResultsForm
         {
             var filename = TriResultsCsvReader.DateUtils.ToRaceFilename(UrlRaceData.Item2, UrlRaceData.Item1);
 
-            var fileDialog = new CommonOpenFileDialog("Save file as csv")
+            var fileDialog = new CommonSaveFileDialog("Save file as csv")
             {
                 //EnsurePathExists = true,
-                AllowNonFileSystemItems = false,
-                IsFolderPicker = false,
                 DefaultExtension = "csv",
                 DefaultFileName = filename + ".csv"
             };
@@ -307,8 +305,25 @@ namespace TriResultsForm
             var dialogResult = fileDialog.ShowDialog();
             if (dialogResult == CommonFileDialogResult.Ok)
             {
-                ;
+                var urlText = urlTextBox1.Text;
+                Uri url = new Uri(urlText);
+                var urlFetcher = new FetchUrlContents();
+                var doc = urlFetcher.GetPage(url);
+                var raceAndDate = urlFetcher.GetRacename(doc);
+                var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
+                UrlRaceData = raceData;
+
+                var resultsList = urlFetcher.GetResultsLists(doc);
+
+                WriteToCsv(resultsList, fileDialog.FileName);
             }
+        }
+
+        private void WriteToCsv(List<List<string>> results, string filename)
+        {
+            //var csv = String.Join(Environment.NewLine, );
+
+            File.WriteAllLines(filename, results.Select(row => String.Join(",", row)));
         }
     }
 }

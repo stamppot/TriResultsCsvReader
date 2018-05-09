@@ -439,7 +439,7 @@
             this.urlDataGridView1.Location = new System.Drawing.Point(6, 213);
             this.urlDataGridView1.Name = "urlDataGridView1";
             this.urlDataGridView1.RowTemplate.Height = 24;
-            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 218);
+            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 444);
             this.urlDataGridView1.TabIndex = 3;
             // 
             // readUrlButton3
@@ -539,6 +539,7 @@
             this.urlFilteredDataGridView1.RowTemplate.Height = 24;
             this.urlFilteredDataGridView1.Size = new System.Drawing.Size(1121, 218);
             this.urlFilteredDataGridView1.TabIndex = 13;
+            this.urlFilteredDataGridView1.Visible = false;
             // 
             // urlStandardizedLabel3
             // 
@@ -548,6 +549,7 @@
             this.urlStandardizedLabel3.Size = new System.Drawing.Size(148, 17);
             this.urlStandardizedLabel3.TabIndex = 14;
             this.urlStandardizedLabel3.Text = "Standardized columns";
+            this.urlStandardizedLabel3.Visible = false;
             // 
             // urlSaveButton3
             // 

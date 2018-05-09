@@ -60,6 +60,18 @@ namespace UrlResultsFetcher
                     .Replace("-dec-", "-12-")
                     .Replace("-mei-", "-05-")
                     .Replace("-okt-", "-10-")
+                    .Replace("-Jan-", "-01-")
+                    .Replace("-Feb-", "-02-")
+                    .Replace("-Mar-", "-03-")
+                    .Replace("-Apr-", "-04-")
+                    .Replace("-May-", "-05-")
+                    .Replace("-Jun-", "-06-")
+                    .Replace("-Jul-", "-07-")
+                    .Replace("-Aug-", "-08-")
+                    .Replace("-Sep-", "-09-")
+                    .Replace("-Oct-", "-10-")
+                    .Replace("-Nov-", "-11-")
+                    .Replace("-Dec-", "-12-")
                 ;
         }
     }
