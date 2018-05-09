@@ -14,6 +14,7 @@ using Optional;
 using Optional.Unsafe;
 using TriResultsCsvReader;
 using TriResultsCsvReader.Utils;
+using UrlResultsFetcher;
 
 namespace TriResultsForm
 {
@@ -247,5 +248,27 @@ namespace TriResultsForm
             SetRaceName(Option.Some(date), string.IsNullOrEmpty(raceName) ? Option.None<string>() : Option.Some(raceName), Options);
         }
 
+        private void readUrlButton3_Click(object sender, EventArgs e)
+        {
+            var urlText = urlTextBox1.Text;
+
+            Uri url = null;
+
+            try
+            {
+                url = new Uri(urlText);
+            }
+            catch (UriFormatException ex)
+            {
+                urlOutputTextBox2.Text += Environment.NewLine + "Invalid URL: " + urlText;
+            }
+
+            var urlFetcher = new FetchUrlContents();
+            var doc = urlFetcher.GetPage(url);
+            var resultsTable = urlFetcher.GetResultsTable(doc);
+
+            urlDataGridView1.DataSource = resultsTable;
+
+        }
     }
 }

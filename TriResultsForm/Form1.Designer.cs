@@ -56,10 +56,24 @@
             this.outputTextBox = new System.Windows.Forms.TextBox();
             this.runButton5 = new System.Windows.Forms.Button();
             this.validateFileButton5 = new System.Windows.Forms.Button();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.urlDataGridView1 = new System.Windows.Forms.DataGridView();
+            this.readUrlButton3 = new System.Windows.Forms.Button();
+            this.urlTextBox1 = new System.Windows.Forms.TextBox();
+            this.urlResultsLabel1 = new System.Windows.Forms.Label();
+            this.urlOutputTextBox2 = new System.Windows.Forms.TextBox();
             this.inputGroupBox1.SuspendLayout();
             this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
             this.outputGroupBox1.SuspendLayout();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -84,7 +98,7 @@
             this.inputGroupBox1.Controls.Add(this.button1);
             this.inputGroupBox1.Controls.Add(this.inputFolderTextBox1);
             this.inputGroupBox1.Controls.Add(this.inputFolderLabel1);
-            this.inputGroupBox1.Location = new System.Drawing.Point(12, 21);
+            this.inputGroupBox1.Location = new System.Drawing.Point(6, 15);
             this.inputGroupBox1.Name = "inputGroupBox1";
             this.inputGroupBox1.Size = new System.Drawing.Size(396, 368);
             this.inputGroupBox1.TabIndex = 1;
@@ -228,7 +242,7 @@
             this.inputGroupBox.Controls.Add(this.button4);
             this.inputGroupBox.Controls.Add(this.outputFolderTextBox);
             this.inputGroupBox.Controls.Add(this.outputFolderLabel);
-            this.inputGroupBox.Location = new System.Drawing.Point(12, 404);
+            this.inputGroupBox.Location = new System.Drawing.Point(6, 398);
             this.inputGroupBox.Name = "inputGroupBox";
             this.inputGroupBox.Size = new System.Drawing.Size(396, 158);
             this.inputGroupBox.TabIndex = 2;
@@ -315,7 +329,7 @@
             // outputGroupBox1
             // 
             this.outputGroupBox1.Controls.Add(this.outputTextBox);
-            this.outputGroupBox1.Location = new System.Drawing.Point(415, 21);
+            this.outputGroupBox1.Location = new System.Drawing.Point(409, 15);
             this.outputGroupBox1.Name = "outputGroupBox1";
             this.outputGroupBox1.Size = new System.Drawing.Size(757, 532);
             this.outputGroupBox1.TabIndex = 3;
@@ -334,7 +348,7 @@
             // 
             // runButton5
             // 
-            this.runButton5.Location = new System.Drawing.Point(707, 559);
+            this.runButton5.Location = new System.Drawing.Point(701, 553);
             this.runButton5.Name = "runButton5";
             this.runButton5.Size = new System.Drawing.Size(75, 26);
             this.runButton5.TabIndex = 4;
@@ -344,7 +358,7 @@
             // 
             // validateFileButton5
             // 
-            this.validateFileButton5.Location = new System.Drawing.Point(422, 562);
+            this.validateFileButton5.Location = new System.Drawing.Point(416, 556);
             this.validateFileButton5.Name = "validateFileButton5";
             this.validateFileButton5.Size = new System.Drawing.Size(75, 26);
             this.validateFileButton5.TabIndex = 5;
@@ -353,16 +367,105 @@
             this.validateFileButton5.Visible = false;
             this.validateFileButton5.Click += new System.EventHandler(this.validateFileButton5_Click);
             // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(13, 13);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(1191, 655);
+            this.tabControl1.TabIndex = 6;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.inputGroupBox1);
+            this.tabPage1.Controls.Add(this.validateFileButton5);
+            this.tabPage1.Controls.Add(this.inputGroupBox);
+            this.tabPage1.Controls.Add(this.runButton5);
+            this.tabPage1.Controls.Add(this.outputGroupBox1);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(1183, 626);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.groupBox1);
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1183, 626);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.urlOutputTextBox2);
+            this.groupBox1.Controls.Add(this.urlDataGridView1);
+            this.groupBox1.Controls.Add(this.readUrlButton3);
+            this.groupBox1.Controls.Add(this.urlTextBox1);
+            this.groupBox1.Controls.Add(this.urlResultsLabel1);
+            this.groupBox1.Location = new System.Drawing.Point(22, 67);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(532, 528);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "groupBox1";
+            // 
+            // urlDataGridView1
+            // 
+            this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.urlDataGridView1.Location = new System.Drawing.Point(10, 251);
+            this.urlDataGridView1.Name = "urlDataGridView1";
+            this.urlDataGridView1.RowTemplate.Height = 24;
+            this.urlDataGridView1.Size = new System.Drawing.Size(505, 271);
+            this.urlDataGridView1.TabIndex = 3;
+            // 
+            // readUrlButton3
+            // 
+            this.readUrlButton3.Location = new System.Drawing.Point(451, 36);
+            this.readUrlButton3.Name = "readUrlButton3";
+            this.readUrlButton3.Size = new System.Drawing.Size(75, 29);
+            this.readUrlButton3.TabIndex = 2;
+            this.readUrlButton3.Text = "Read URL";
+            this.readUrlButton3.UseVisualStyleBackColor = true;
+            this.readUrlButton3.Click += new System.EventHandler(this.readUrlButton3_Click);
+            // 
+            // urlTextBox1
+            // 
+            this.urlTextBox1.Location = new System.Drawing.Point(111, 37);
+            this.urlTextBox1.Name = "urlTextBox1";
+            this.urlTextBox1.Size = new System.Drawing.Size(334, 22);
+            this.urlTextBox1.TabIndex = 1;
+            // 
+            // urlResultsLabel1
+            // 
+            this.urlResultsLabel1.AutoSize = true;
+            this.urlResultsLabel1.Location = new System.Drawing.Point(7, 40);
+            this.urlResultsLabel1.Name = "urlResultsLabel1";
+            this.urlResultsLabel1.Size = new System.Drawing.Size(98, 17);
+            this.urlResultsLabel1.TabIndex = 0;
+            this.urlResultsLabel1.Text = "URL to results";
+            // 
+            // urlOutputTextBox2
+            // 
+            this.urlOutputTextBox2.Location = new System.Drawing.Point(10, 84);
+            this.urlOutputTextBox2.Multiline = true;
+            this.urlOutputTextBox2.Name = "urlOutputTextBox2";
+            this.urlOutputTextBox2.Size = new System.Drawing.Size(505, 149);
+            this.urlOutputTextBox2.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1184, 600);
-            this.Controls.Add(this.validateFileButton5);
-            this.Controls.Add(this.runButton5);
-            this.Controls.Add(this.outputGroupBox1);
-            this.Controls.Add(this.inputGroupBox);
-            this.Controls.Add(this.inputGroupBox1);
+            this.ClientSize = new System.Drawing.Size(1226, 712);
+            this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "De uitslagengenerator";
             this.inputGroupBox1.ResumeLayout(false);
@@ -373,6 +476,12 @@
             this.inputGroupBox.PerformLayout();
             this.outputGroupBox1.ResumeLayout(false);
             this.outputGroupBox1.PerformLayout();
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -407,6 +516,15 @@
         private System.Windows.Forms.DateTimePicker raceDateTimePicker;
         private System.Windows.Forms.Label raceNameLabel1;
         private System.Windows.Forms.TextBox raceNameTextBox1;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.DataGridView urlDataGridView1;
+        private System.Windows.Forms.Button readUrlButton3;
+        private System.Windows.Forms.TextBox urlTextBox1;
+        private System.Windows.Forms.Label urlResultsLabel1;
+        private System.Windows.Forms.TextBox urlOutputTextBox2;
     }
 }
 
