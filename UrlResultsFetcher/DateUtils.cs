@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Linq;
 using Optional;
 
@@ -21,7 +22,7 @@ namespace UrlResultsFetcher
 
             DateTime output = DateTime.MinValue;
 
-            if (DateTime.TryParse(dtStr, out output))
+            if (DateTime.TryParseExact(dtStr, "dd-MM-yyyy", null, DateTimeStyles.None, out output) || DateTime.TryParse(dtStr, out output))
             {
                 return Option.Some(new Tuple<string, DateTime>(raceStr, output));
             }
@@ -36,7 +37,11 @@ namespace UrlResultsFetcher
             {
                 if (Char.IsNumber(chars[i]))
                 {
-                    return i;
+                    // try to check the next number to avoid fx "4e Zeewolde Endurance 25-06-2018
+                    if (i < chars.Length && (Char.IsNumber(chars[i + 1]) || chars[i + 1] == '-'))
+                    {
+                        return i;
+                    }
                 }
             }
 
