@@ -10,6 +10,8 @@ namespace TriResultsCsvReader
 
         string FilterKeywords { get;  }
 
+        int FilterYear { get; set; }
+
         string ConfigFile { get;  }
 
         string InputFolderOrFile { get; }
@@ -22,6 +24,7 @@ namespace TriResultsCsvReader
 
         bool OutputHtml { get; set; }
 
+        
         bool Verbose { get; set; }
 
         DateTime RaceDate { get;  }

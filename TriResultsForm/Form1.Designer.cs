@@ -60,20 +60,22 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.urlDataGridView1 = new System.Windows.Forms.DataGridView();
-            this.readUrlButton3 = new System.Windows.Forms.Button();
-            this.urlTextBox1 = new System.Windows.Forms.TextBox();
-            this.urlResultsLabel1 = new System.Windows.Forms.Label();
-            this.urlOutputTextBox2 = new System.Windows.Forms.TextBox();
+            this.urlSaveButton3 = new System.Windows.Forms.Button();
+            this.urlStandardizedLabel3 = new System.Windows.Forms.Label();
+            this.urlFilteredDataGridView1 = new System.Windows.Forms.DataGridView();
+            this.urlInputLabel3 = new System.Windows.Forms.Label();
             this.urlRaceGroupBox2 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.urlRaceDateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
             this.urlRacenameTextBox1 = new System.Windows.Forms.TextBox();
-            this.urlInputLabel3 = new System.Windows.Forms.Label();
-            this.urlFilteredDataGridView1 = new System.Windows.Forms.DataGridView();
-            this.urlStandardizedLabel3 = new System.Windows.Forms.Label();
-            this.urlSaveButton3 = new System.Windows.Forms.Button();
+            this.urlOutputTextBox2 = new System.Windows.Forms.TextBox();
+            this.urlDataGridView1 = new System.Windows.Forms.DataGridView();
+            this.readUrlButton3 = new System.Windows.Forms.Button();
+            this.urlTextBox1 = new System.Windows.Forms.TextBox();
+            this.urlResultsLabel1 = new System.Windows.Forms.Label();
+            this.outputYearComboBox = new System.Windows.Forms.ComboBox();
+            this.outputYearLabel = new System.Windows.Forms.Label();
             this.inputGroupBox1.SuspendLayout();
             this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
@@ -82,9 +84,9 @@
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).BeginInit();
-            this.urlRaceGroupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).BeginInit();
+            this.urlRaceGroupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -246,6 +248,8 @@
             // 
             // inputGroupBox
             // 
+            this.inputGroupBox.Controls.Add(this.outputYearLabel);
+            this.inputGroupBox.Controls.Add(this.outputYearComboBox);
             this.inputGroupBox.Controls.Add(this.verboseCheckBox1);
             this.inputGroupBox.Controls.Add(this.outputHtmlCheckBox);
             this.inputGroupBox.Controls.Add(this.filteredCsvOutputCheckBox);
@@ -255,7 +259,7 @@
             this.inputGroupBox.Controls.Add(this.outputFolderLabel);
             this.inputGroupBox.Location = new System.Drawing.Point(6, 398);
             this.inputGroupBox.Name = "inputGroupBox";
-            this.inputGroupBox.Size = new System.Drawing.Size(396, 158);
+            this.inputGroupBox.Size = new System.Drawing.Size(396, 210);
             this.inputGroupBox.TabIndex = 2;
             this.inputGroupBox.TabStop = false;
             this.inputGroupBox.Text = "Output options";
@@ -265,7 +269,7 @@
             this.verboseCheckBox1.AutoSize = true;
             this.verboseCheckBox1.Checked = true;
             this.verboseCheckBox1.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.verboseCheckBox1.Location = new System.Drawing.Point(307, 134);
+            this.verboseCheckBox1.Location = new System.Drawing.Point(307, 183);
             this.verboseCheckBox1.Name = "verboseCheckBox1";
             this.verboseCheckBox1.Size = new System.Drawing.Size(83, 21);
             this.verboseCheckBox1.TabIndex = 11;
@@ -278,7 +282,7 @@
             this.outputHtmlCheckBox.AutoSize = true;
             this.outputHtmlCheckBox.Checked = true;
             this.outputHtmlCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.outputHtmlCheckBox.Location = new System.Drawing.Point(9, 79);
+            this.outputHtmlCheckBox.Location = new System.Drawing.Point(9, 128);
             this.outputHtmlCheckBox.Name = "outputHtmlCheckBox";
             this.outputHtmlCheckBox.Size = new System.Drawing.Size(68, 21);
             this.outputHtmlCheckBox.TabIndex = 10;
@@ -291,7 +295,7 @@
             this.filteredCsvOutputCheckBox.AutoSize = true;
             this.filteredCsvOutputCheckBox.Checked = true;
             this.filteredCsvOutputCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.filteredCsvOutputCheckBox.Location = new System.Drawing.Point(9, 133);
+            this.filteredCsvOutputCheckBox.Location = new System.Drawing.Point(9, 182);
             this.filteredCsvOutputCheckBox.Name = "filteredCsvOutputCheckBox";
             this.filteredCsvOutputCheckBox.Size = new System.Drawing.Size(108, 21);
             this.filteredCsvOutputCheckBox.TabIndex = 9;
@@ -302,7 +306,7 @@
             // outputSqlCheckBox
             // 
             this.outputSqlCheckBox.AutoSize = true;
-            this.outputSqlCheckBox.Location = new System.Drawing.Point(9, 106);
+            this.outputSqlCheckBox.Location = new System.Drawing.Point(9, 155);
             this.outputSqlCheckBox.Name = "outputSqlCheckBox";
             this.outputSqlCheckBox.Size = new System.Drawing.Size(104, 21);
             this.outputSqlCheckBox.TabIndex = 8;
@@ -398,7 +402,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1183, 626);
+            this.tabPage1.Size = new System.Drawing.Size(1183, 811);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Uitslagen genereren";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -433,48 +437,44 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "MyLaps";
             // 
-            // urlDataGridView1
+            // urlSaveButton3
             // 
-            this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.urlDataGridView1.Location = new System.Drawing.Point(6, 213);
-            this.urlDataGridView1.Name = "urlDataGridView1";
-            this.urlDataGridView1.RowTemplate.Height = 24;
-            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 444);
-            this.urlDataGridView1.TabIndex = 3;
+            this.urlSaveButton3.Location = new System.Drawing.Point(6, 737);
+            this.urlSaveButton3.Name = "urlSaveButton3";
+            this.urlSaveButton3.Size = new System.Drawing.Size(75, 28);
+            this.urlSaveButton3.TabIndex = 15;
+            this.urlSaveButton3.Text = "Save result...";
+            this.urlSaveButton3.UseVisualStyleBackColor = true;
+            this.urlSaveButton3.Click += new System.EventHandler(this.urlSaveButton3_Click);
             // 
-            // readUrlButton3
+            // urlStandardizedLabel3
             // 
-            this.readUrlButton3.Location = new System.Drawing.Point(451, 36);
-            this.readUrlButton3.Name = "readUrlButton3";
-            this.readUrlButton3.Size = new System.Drawing.Size(75, 29);
-            this.readUrlButton3.TabIndex = 2;
-            this.readUrlButton3.Text = "Read URL";
-            this.readUrlButton3.UseVisualStyleBackColor = true;
-            this.readUrlButton3.Click += new System.EventHandler(this.readUrlButton3_Click);
+            this.urlStandardizedLabel3.AutoSize = true;
+            this.urlStandardizedLabel3.Location = new System.Drawing.Point(6, 446);
+            this.urlStandardizedLabel3.Name = "urlStandardizedLabel3";
+            this.urlStandardizedLabel3.Size = new System.Drawing.Size(148, 17);
+            this.urlStandardizedLabel3.TabIndex = 14;
+            this.urlStandardizedLabel3.Text = "Standardized columns";
+            this.urlStandardizedLabel3.Visible = false;
             // 
-            // urlTextBox1
+            // urlFilteredDataGridView1
             // 
-            this.urlTextBox1.Location = new System.Drawing.Point(111, 37);
-            this.urlTextBox1.Name = "urlTextBox1";
-            this.urlTextBox1.Size = new System.Drawing.Size(334, 22);
-            this.urlTextBox1.TabIndex = 1;
+            this.urlFilteredDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.urlFilteredDataGridView1.Location = new System.Drawing.Point(6, 469);
+            this.urlFilteredDataGridView1.Name = "urlFilteredDataGridView1";
+            this.urlFilteredDataGridView1.RowTemplate.Height = 24;
+            this.urlFilteredDataGridView1.Size = new System.Drawing.Size(1121, 218);
+            this.urlFilteredDataGridView1.TabIndex = 13;
+            this.urlFilteredDataGridView1.Visible = false;
             // 
-            // urlResultsLabel1
+            // urlInputLabel3
             // 
-            this.urlResultsLabel1.AutoSize = true;
-            this.urlResultsLabel1.Location = new System.Drawing.Point(7, 40);
-            this.urlResultsLabel1.Name = "urlResultsLabel1";
-            this.urlResultsLabel1.Size = new System.Drawing.Size(98, 17);
-            this.urlResultsLabel1.TabIndex = 0;
-            this.urlResultsLabel1.Text = "URL to results";
-            // 
-            // urlOutputTextBox2
-            // 
-            this.urlOutputTextBox2.Location = new System.Drawing.Point(798, 21);
-            this.urlOutputTextBox2.Multiline = true;
-            this.urlOutputTextBox2.Name = "urlOutputTextBox2";
-            this.urlOutputTextBox2.Size = new System.Drawing.Size(333, 82);
-            this.urlOutputTextBox2.TabIndex = 4;
+            this.urlInputLabel3.AutoSize = true;
+            this.urlInputLabel3.Location = new System.Drawing.Point(10, 190);
+            this.urlInputLabel3.Name = "urlInputLabel3";
+            this.urlInputLabel3.Size = new System.Drawing.Size(39, 17);
+            this.urlInputLabel3.TabIndex = 12;
+            this.urlInputLabel3.Text = "Input";
             // 
             // urlRaceGroupBox2
             // 
@@ -522,44 +522,66 @@
             this.urlRacenameTextBox1.Size = new System.Drawing.Size(259, 22);
             this.urlRacenameTextBox1.TabIndex = 0;
             // 
-            // urlInputLabel3
+            // urlOutputTextBox2
             // 
-            this.urlInputLabel3.AutoSize = true;
-            this.urlInputLabel3.Location = new System.Drawing.Point(10, 190);
-            this.urlInputLabel3.Name = "urlInputLabel3";
-            this.urlInputLabel3.Size = new System.Drawing.Size(39, 17);
-            this.urlInputLabel3.TabIndex = 12;
-            this.urlInputLabel3.Text = "Input";
+            this.urlOutputTextBox2.Location = new System.Drawing.Point(798, 21);
+            this.urlOutputTextBox2.Multiline = true;
+            this.urlOutputTextBox2.Name = "urlOutputTextBox2";
+            this.urlOutputTextBox2.Size = new System.Drawing.Size(333, 82);
+            this.urlOutputTextBox2.TabIndex = 4;
             // 
-            // urlFilteredDataGridView1
+            // urlDataGridView1
             // 
-            this.urlFilteredDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.urlFilteredDataGridView1.Location = new System.Drawing.Point(6, 469);
-            this.urlFilteredDataGridView1.Name = "urlFilteredDataGridView1";
-            this.urlFilteredDataGridView1.RowTemplate.Height = 24;
-            this.urlFilteredDataGridView1.Size = new System.Drawing.Size(1121, 218);
-            this.urlFilteredDataGridView1.TabIndex = 13;
-            this.urlFilteredDataGridView1.Visible = false;
+            this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.urlDataGridView1.Location = new System.Drawing.Point(6, 213);
+            this.urlDataGridView1.Name = "urlDataGridView1";
+            this.urlDataGridView1.RowTemplate.Height = 24;
+            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 444);
+            this.urlDataGridView1.TabIndex = 3;
             // 
-            // urlStandardizedLabel3
+            // readUrlButton3
             // 
-            this.urlStandardizedLabel3.AutoSize = true;
-            this.urlStandardizedLabel3.Location = new System.Drawing.Point(6, 446);
-            this.urlStandardizedLabel3.Name = "urlStandardizedLabel3";
-            this.urlStandardizedLabel3.Size = new System.Drawing.Size(148, 17);
-            this.urlStandardizedLabel3.TabIndex = 14;
-            this.urlStandardizedLabel3.Text = "Standardized columns";
-            this.urlStandardizedLabel3.Visible = false;
+            this.readUrlButton3.Location = new System.Drawing.Point(451, 36);
+            this.readUrlButton3.Name = "readUrlButton3";
+            this.readUrlButton3.Size = new System.Drawing.Size(75, 29);
+            this.readUrlButton3.TabIndex = 2;
+            this.readUrlButton3.Text = "Read URL";
+            this.readUrlButton3.UseVisualStyleBackColor = true;
+            this.readUrlButton3.Click += new System.EventHandler(this.readUrlButton3_Click);
             // 
-            // urlSaveButton3
+            // urlTextBox1
             // 
-            this.urlSaveButton3.Location = new System.Drawing.Point(6, 737);
-            this.urlSaveButton3.Name = "urlSaveButton3";
-            this.urlSaveButton3.Size = new System.Drawing.Size(75, 28);
-            this.urlSaveButton3.TabIndex = 15;
-            this.urlSaveButton3.Text = "Save result...";
-            this.urlSaveButton3.UseVisualStyleBackColor = true;
-            this.urlSaveButton3.Click += new System.EventHandler(this.urlSaveButton3_Click);
+            this.urlTextBox1.Location = new System.Drawing.Point(111, 37);
+            this.urlTextBox1.Name = "urlTextBox1";
+            this.urlTextBox1.Size = new System.Drawing.Size(334, 22);
+            this.urlTextBox1.TabIndex = 1;
+            // 
+            // urlResultsLabel1
+            // 
+            this.urlResultsLabel1.AutoSize = true;
+            this.urlResultsLabel1.Location = new System.Drawing.Point(7, 40);
+            this.urlResultsLabel1.Name = "urlResultsLabel1";
+            this.urlResultsLabel1.Size = new System.Drawing.Size(98, 17);
+            this.urlResultsLabel1.TabIndex = 0;
+            this.urlResultsLabel1.Text = "URL to results";
+            // 
+            // outputYearComboBox
+            // 
+            this.outputYearComboBox.FormattingEnabled = true;
+            this.outputYearComboBox.Location = new System.Drawing.Point(119, 63);
+            this.outputYearComboBox.Name = "outputYearComboBox";
+            this.outputYearComboBox.Size = new System.Drawing.Size(121, 24);
+            this.outputYearComboBox.TabIndex = 12;
+            this.outputYearComboBox.SelectedIndexChanged += new System.EventHandler(this.yearComboBox1_SelectedIndexChanged);
+            // 
+            // outputYearLabel
+            // 
+            this.outputYearLabel.AutoSize = true;
+            this.outputYearLabel.Location = new System.Drawing.Point(9, 66);
+            this.outputYearLabel.Name = "outputYearLabel";
+            this.outputYearLabel.Size = new System.Drawing.Size(38, 17);
+            this.outputYearLabel.TabIndex = 13;
+            this.outputYearLabel.Text = "Year";
             // 
             // Form1
             // 
@@ -582,10 +604,10 @@
             this.tabPage2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).EndInit();
             this.urlRaceGroupBox2.ResumeLayout(false);
             this.urlRaceGroupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -638,6 +660,8 @@
         private System.Windows.Forms.Label urlInputLabel3;
         private System.Windows.Forms.Label urlStandardizedLabel3;
         private System.Windows.Forms.Button urlSaveButton3;
+        private System.Windows.Forms.Label outputYearLabel;
+        private System.Windows.Forms.ComboBox outputYearComboBox;
     }
 }
 

@@ -43,12 +43,13 @@ namespace UrlResultsFetcher
             var dt = new DataTable("Results");
             dt.Clear();
 
-            var fieldNames = results.First();
+            var fieldNames = results.First().Where(f => !string.IsNullOrWhiteSpace(f)).ToList();
             results.RemoveAt(0);
 
             foreach (var fieldName in fieldNames)
             {
-                dt.Columns.Add(fieldName);
+                if(!string.IsNullOrWhiteSpace(fieldName))
+                    dt.Columns.Add(fieldName);
             }
 
             foreach (var row in results)

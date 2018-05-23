@@ -18,6 +18,8 @@ namespace TriResultsForm
         //[Option('x', HelpText = "Filter keywords")]
         public string FilterKeywords { get; set; }
 
+        public int FilterYear { get; set; }
+
         //[Option('c', HelpText = "Config file", DefaultValue = "column_config.xml")]
         public string ConfigFile { get; set; }
 
@@ -38,5 +40,6 @@ namespace TriResultsForm
         public DateTime RaceDate { get; set; }
 
         public string RaceName { get; set; }
+
     }
 }

@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows.Forms.VisualStyles;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
 using Optional.Unsafe;
@@ -38,6 +33,14 @@ namespace TriResultsForm
             };
 
             InitializeComponent();
+
+
+            var start = 2010;
+            var years = Enumerable.Range(start, DateTime.UtcNow.Year - start + 1).Reverse().Select(y => new SelectItem() {Text = y.ToString(), Value = y}).ToList();
+            years.Add(new SelectItem() {Text = "All", Value = -1});
+            outputYearComboBox.DataSource = years;
+            outputYearComboBox.DisplayMember = "Text";
+            outputYearComboBox.ValueMember = "Value";
         }
 
         public string InputFolder { get; set; }
@@ -324,6 +327,13 @@ namespace TriResultsForm
             //var csv = String.Join(Environment.NewLine, );
 
             File.WriteAllLines(filename, results.Select(row => String.Join(",", row)));
+        }
+
+        private void yearComboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            var selected = (SelectItem) outputYearComboBox.SelectedItem;
+
+            Options.FilterYear = selected.Value;
         }
     }
 }
