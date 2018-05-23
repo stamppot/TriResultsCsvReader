@@ -128,7 +128,7 @@ namespace TriResultsCsvReader
                 if(!race.HasValue) continue;
 
                 // skip races from other years than the chosen one
-                if (!(options.FilterYear > 0 && race.ValueOrDefault().Date.HasValue &&
+                if (options.FilterYear > 0  && !(race.ValueOrDefault().Date.HasValue &&
                       race.ValueOrDefault().Date.ValueOrDefault().Year == options.FilterYear))
                 {
                     continue;
