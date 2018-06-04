@@ -119,6 +119,12 @@ namespace TriResultsCsvReader
 
                 var race = new FileUtils().GetRaceDataFromFilename(filePath);
 
+                if (!race.HasValue)
+                {
+                    Console.WriteLine($"Couldn't get race data from file {file}.");
+                    continue;
+                }
+
                 if (options.Verbose)
                 {
                     Console.WriteLine($"Parsing file {file}. Race: {race.ValueOrDefault()?.Name}, date: {race.ValueOrDefault().Date}.");

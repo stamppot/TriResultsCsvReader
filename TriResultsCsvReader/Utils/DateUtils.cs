@@ -7,7 +7,7 @@ namespace TriResultsCsvReader
     {
         public static string ReplaceStringMonth(string name)
         {
-            return name
+            return name.ToLowerInvariant()
                 .Replace("-jan-", "-01-")
                 .Replace("-feb-", "-02-")
                 .Replace("-mar-", "-03-")

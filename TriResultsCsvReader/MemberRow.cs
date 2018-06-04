@@ -10,6 +10,9 @@ namespace TriResultsCsvReader
         [Name("Lidsinds")]
         public string MemberSince { get; set; }
 
+        [Name("Lidtot")]
+        public string MemberUntil { get; set; }
+
         [Name("Geslacht")]
         public string Gender { get; set; }
     }
