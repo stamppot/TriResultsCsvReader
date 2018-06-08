@@ -112,7 +112,10 @@
   </column>
   <column>
     <name order="15">BikePace</name>
-    <mapfrom>    </mapfrom>
+    <mapfrom>
+      <altname>km/u</altname>
+      <altname>km/h</altname>
+    </mapfrom>
   </column>
   <column>
     <name order="14">PosBike</name>
@@ -268,6 +271,7 @@
   <column>
     <name order="31">Difference</name>
     <mapfrom>
+      <altname>Achter</altname>
       <altname>Verschil</altname>
       <altname>Versch</altname>
     </mapfrom>
@@ -284,6 +288,7 @@
       <altname>NettoTijd</altname>
       <altname>FinishTijd</altname>
       <altname>Finish</altname>
+      <altname>Tijd</altname>
     </mapfrom>
   </column>
   <column>
