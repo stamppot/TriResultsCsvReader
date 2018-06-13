@@ -49,7 +49,7 @@ namespace TriResultsCsvReader
 
         public static string ToRaceFilename(DateTime dt, string raceName)
         {
-            return ToFilenameFormat(dt) + "_" + raceName.Replace(" ", "-");
+            return ToFilenameFormat(dt) + "-" + raceName.Replace(" ", "-");
         }
     }
 }

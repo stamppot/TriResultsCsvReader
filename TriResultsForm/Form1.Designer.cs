@@ -45,6 +45,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.inputFolderTextBox1 = new System.Windows.Forms.TextBox();
             this.inputGroupBox = new System.Windows.Forms.GroupBox();
+            this.outputYearLabel = new System.Windows.Forms.Label();
+            this.outputYearComboBox = new System.Windows.Forms.ComboBox();
             this.verboseCheckBox1 = new System.Windows.Forms.CheckBox();
             this.outputHtmlCheckBox = new System.Windows.Forms.CheckBox();
             this.filteredCsvOutputCheckBox = new System.Windows.Forms.CheckBox();
@@ -74,8 +76,9 @@
             this.readUrlButton3 = new System.Windows.Forms.Button();
             this.urlTextBox1 = new System.Windows.Forms.TextBox();
             this.urlResultsLabel1 = new System.Windows.Forms.Label();
-            this.outputYearComboBox = new System.Windows.Forms.ComboBox();
-            this.outputYearLabel = new System.Windows.Forms.Label();
+            this.tableSelectorUpDown = new System.Windows.Forms.NumericUpDown();
+            this.nextPreviewTableButton = new System.Windows.Forms.Button();
+            this.previousPreviewTableButton = new System.Windows.Forms.Button();
             this.inputGroupBox1.SuspendLayout();
             this.raceGroupBox1.SuspendLayout();
             this.inputGroupBox.SuspendLayout();
@@ -87,6 +90,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.urlFilteredDataGridView1)).BeginInit();
             this.urlRaceGroupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tableSelectorUpDown)).BeginInit();
             this.SuspendLayout();
             // 
             // inputFolderLabel1
@@ -264,6 +268,24 @@
             this.inputGroupBox.TabStop = false;
             this.inputGroupBox.Text = "Output options";
             // 
+            // outputYearLabel
+            // 
+            this.outputYearLabel.AutoSize = true;
+            this.outputYearLabel.Location = new System.Drawing.Point(9, 66);
+            this.outputYearLabel.Name = "outputYearLabel";
+            this.outputYearLabel.Size = new System.Drawing.Size(38, 17);
+            this.outputYearLabel.TabIndex = 13;
+            this.outputYearLabel.Text = "Year";
+            // 
+            // outputYearComboBox
+            // 
+            this.outputYearComboBox.FormattingEnabled = true;
+            this.outputYearComboBox.Location = new System.Drawing.Point(119, 63);
+            this.outputYearComboBox.Name = "outputYearComboBox";
+            this.outputYearComboBox.Size = new System.Drawing.Size(121, 24);
+            this.outputYearComboBox.TabIndex = 12;
+            this.outputYearComboBox.SelectedIndexChanged += new System.EventHandler(this.yearComboBox1_SelectedIndexChanged);
+            // 
             // verboseCheckBox1
             // 
             this.verboseCheckBox1.AutoSize = true;
@@ -420,6 +442,9 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.previousPreviewTableButton);
+            this.groupBox1.Controls.Add(this.nextPreviewTableButton);
+            this.groupBox1.Controls.Add(this.tableSelectorUpDown);
             this.groupBox1.Controls.Add(this.urlSaveButton3);
             this.groupBox1.Controls.Add(this.urlStandardizedLabel3);
             this.groupBox1.Controls.Add(this.urlFilteredDataGridView1);
@@ -533,10 +558,10 @@
             // urlDataGridView1
             // 
             this.urlDataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.urlDataGridView1.Location = new System.Drawing.Point(6, 213);
+            this.urlDataGridView1.Location = new System.Drawing.Point(6, 218);
             this.urlDataGridView1.Name = "urlDataGridView1";
             this.urlDataGridView1.RowTemplate.Height = 24;
-            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 444);
+            this.urlDataGridView1.Size = new System.Drawing.Size(1121, 439);
             this.urlDataGridView1.TabIndex = 3;
             // 
             // readUrlButton3
@@ -565,23 +590,37 @@
             this.urlResultsLabel1.TabIndex = 0;
             this.urlResultsLabel1.Text = "URL to results";
             // 
-            // outputYearComboBox
+            // tableSelectorUpDown
             // 
-            this.outputYearComboBox.FormattingEnabled = true;
-            this.outputYearComboBox.Location = new System.Drawing.Point(119, 63);
-            this.outputYearComboBox.Name = "outputYearComboBox";
-            this.outputYearComboBox.Size = new System.Drawing.Size(121, 24);
-            this.outputYearComboBox.TabIndex = 12;
-            this.outputYearComboBox.SelectedIndexChanged += new System.EventHandler(this.yearComboBox1_SelectedIndexChanged);
+            this.tableSelectorUpDown.Location = new System.Drawing.Point(97, 190);
+            this.tableSelectorUpDown.Name = "tableSelectorUpDown";
+            this.tableSelectorUpDown.Size = new System.Drawing.Size(120, 22);
+            this.tableSelectorUpDown.TabIndex = 16;
+            this.tableSelectorUpDown.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
-            // outputYearLabel
+            // nextPreviewTableButton
             // 
-            this.outputYearLabel.AutoSize = true;
-            this.outputYearLabel.Location = new System.Drawing.Point(9, 66);
-            this.outputYearLabel.Name = "outputYearLabel";
-            this.outputYearLabel.Size = new System.Drawing.Size(38, 17);
-            this.outputYearLabel.TabIndex = 13;
-            this.outputYearLabel.Text = "Year";
+            this.nextPreviewTableButton.Location = new System.Drawing.Point(330, 190);
+            this.nextPreviewTableButton.Name = "nextPreviewTableButton";
+            this.nextPreviewTableButton.Size = new System.Drawing.Size(75, 26);
+            this.nextPreviewTableButton.TabIndex = 17;
+            this.nextPreviewTableButton.Text = "Next";
+            this.nextPreviewTableButton.UseVisualStyleBackColor = true;
+            this.nextPreviewTableButton.Click += new System.EventHandler(this.nextPrevTableButton_Click);
+            // 
+            // previousPreviewTableButton
+            // 
+            this.previousPreviewTableButton.Location = new System.Drawing.Point(239, 190);
+            this.previousPreviewTableButton.Name = "previousPreviewTableButton";
+            this.previousPreviewTableButton.Size = new System.Drawing.Size(75, 26);
+            this.previousPreviewTableButton.TabIndex = 18;
+            this.previousPreviewTableButton.Text = "Previous";
+            this.previousPreviewTableButton.UseVisualStyleBackColor = true;
+            this.previousPreviewTableButton.Click += new System.EventHandler(this.previousPreviewTableButton_Click);
             // 
             // Form1
             // 
@@ -608,6 +647,7 @@
             this.urlRaceGroupBox2.ResumeLayout(false);
             this.urlRaceGroupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.urlDataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tableSelectorUpDown)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -662,6 +702,9 @@
         private System.Windows.Forms.Button urlSaveButton3;
         private System.Windows.Forms.Label outputYearLabel;
         private System.Windows.Forms.ComboBox outputYearComboBox;
+        private System.Windows.Forms.NumericUpDown tableSelectorUpDown;
+        private System.Windows.Forms.Button nextPreviewTableButton;
+        private System.Windows.Forms.Button previousPreviewTableButton;
     }
 }
 

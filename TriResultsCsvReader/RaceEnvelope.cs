@@ -10,12 +10,12 @@ namespace TriResultsCsvReader
     {
         public RaceEnvelope()
         {
-            Id = Guid.NewGuid();
+            //Id = Guid.NewGuid();
             Timestamp = DateTime.UtcNow;
             RaceData = new Race();
         }
 
-        public Guid Id { get; private set; }
+        //public Guid Id { get; private set; }
 
         /// <summary>
         /// Creation time in UTC
@@ -31,6 +31,6 @@ namespace TriResultsCsvReader
         
         public string OutputFolder { get; set; }
 
-        public IEnumerable<Column> ColumnConfig { get; set; }
+        //public IEnumerable<Column> ColumnConfig { get; set; }
     }
 }

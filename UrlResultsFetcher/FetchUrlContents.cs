@@ -23,7 +23,8 @@ namespace UrlResultsFetcher
             var allowedTdClass = new[] { "REPORTHEADER" };
             var containsClassFilter = new Func<string, bool>(className => allowedTdClass.Contains(className));
 
-            var results = GetResultsLists(doc, containsClassFilter, false).SelectMany(x => x).FirstOrDefault(x => x != null);
+            var firstTable = GetResultsTables(doc).FirstOrDefault();
+            var results = ParseAndFilterHtmlTable(firstTable, containsClassFilter, false).SelectMany(x => x).FirstOrDefault(x => x != null);
 
             var raceAndDate = DateUtils.FromRaceData(results);
 
@@ -36,65 +37,80 @@ namespace UrlResultsFetcher
             return nodes.Where(node => node.GetClasses().Contains("FIELDNAMES")).Select(node => node.InnerText).ToList();
         }
 
-        public DataTable GetResultsTable(HtmlDocument doc)
+        public DataSet GetResultsTable(HtmlDocument doc)
         {
-            var results = GetResultsLists(doc);
+            var tablesList = GetResultsLists(doc).ToList();
 
-            var dt = new DataTable("Results");
-            dt.Clear();
+            var dataset = new DataSet("Results");
 
-            var fieldNames = results.First().Where(f => !string.IsNullOrWhiteSpace(f)).ToList();
-            results.RemoveAt(0);
-
-            foreach (var fieldName in fieldNames)
+            for (int i = 0; i < tablesList.Count(); i++)
             {
-                if(!string.IsNullOrWhiteSpace(fieldName))
-                    dt.Columns.Add(fieldName);
-            }
+                var tableRows = tablesList[i];
+                var dt = new DataTable("Table " + i);
+                dt.Clear();
 
-            foreach (var row in results)
-            {
-                DataRow r = dt.NewRow();
+                var fieldNames = tableRows.First().Where(f => !string.IsNullOrWhiteSpace(f)).ToList();
+                tableRows.RemoveAt(0);
 
-                var nameValueList = fieldNames.Zip(row, (field, cell) => new { Field = field, Value = cell });
-                foreach (var nameValue in nameValueList)
+                foreach (var fieldName in fieldNames)
                 {
-                    r[nameValue.Field] = nameValue.Value;
+                    if (!string.IsNullOrWhiteSpace(fieldName))
+                        dt.Columns.Add(fieldName);
                 }
 
-                dt.Rows.Add(r);
+                foreach (var row in tableRows)
+                {
+                    DataRow r = dt.NewRow();
+
+                    var nameValueList = fieldNames.Zip(row, (field, cell) => new {Field = field, Value = cell});
+                    foreach (var nameValue in nameValueList)
+                    {
+                        r[nameValue.Field] = nameValue.Value;
+                    }
+
+                    dt.Rows.Add(r);
+                }
+
+                dataset.Tables.Add(dt);
             }
 
-            return dt;
+            return dataset;
         }
 
-        public List<List<string>> GetResultsLists(HtmlDocument doc)
+        public IEnumerable<List<List<string>>> GetResultsLists(HtmlDocument doc)
         {
             var notAllowedTdClass = new[] {"colspan", "REPORTHEADER", "PAGEHEADER"};
 
             var notContainsClassFilter = new Func<string, bool>(className => !notAllowedTdClass.Contains(className));
 
-            var rowLists = GetResultsLists(doc, notContainsClassFilter);
+            var tables = GetResultsTables(doc).Select(table => ParseAndFilterHtmlTable(table, notContainsClassFilter));
 
-            if (rowLists.Any())
+            var outputTables = new List<List<List<string>>>();
+            foreach (var rowLists in tables)
             {
-                var headers = rowLists.First();
-                var numColumns = headers.Count;
+                if (rowLists.Any())
+                {
+                    var headers = rowLists.First();
+                    var numColumns = headers.Count;
 
-                return rowLists.Where(row => row.Count == numColumns).ToList();
+                    outputTables.Add(rowLists.Where(row => row.Count == numColumns).ToList());
+                }
             }
 
-            return rowLists;
+            return outputTables;
         }
 
-        protected List<List<string>> GetResultsLists(HtmlDocument doc, Func<string,bool> classFilter, bool onlySingleColspan = true)
+        protected IEnumerable<HtmlNode> GetResultsTables(HtmlDocument doc)
         {
-            var table = doc.DocumentNode.SelectNodes("//table").Cast<HtmlNode>().FirstOrDefault();
-            if (table == null) return null;
+            var tables = doc.DocumentNode.SelectNodes("//table").Cast<HtmlNode>();
+            return tables;
+        }
 
+        protected List<List<string>> ParseAndFilterHtmlTable(HtmlNode tableNode, Func<string,bool> classFilter, bool onlySingleColspan = true)
+        {
             var results = new List<List<string>>();
 
-            foreach (var row in table.SelectNodes("tr").Cast<HtmlNode>())
+            foreach (var row in tableNode.SelectNodes("tr").Cast<HtmlNode>())
             {
                 var rowList = new List<string>();
                 foreach (var cell in row.SelectNodes("th|td"))

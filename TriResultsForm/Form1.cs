@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -20,6 +21,10 @@ namespace TriResultsForm
         public ProgramOptions Options { get; private set; }
 
         public Tuple<string,DateTime> UrlRaceData { get; set; }
+
+
+        private DataSet _previewDataSet;
+        private DataTable _currentPreviewDataTable;
 
         public Form1()
         {
@@ -268,13 +273,21 @@ namespace TriResultsForm
                 urlOutputTextBox2.Text += Environment.NewLine + "Invalid URL: " + urlText;
             }
 
+            if (url == null)
+            {
+                urlOutputTextBox2.Text += Environment.NewLine + "Invalid URL: " + urlText;
+            }
+
             var urlFetcher = new FetchUrlContents();
             var doc = urlFetcher.GetPage(url);
             var raceAndDate = urlFetcher.GetRacename(doc);
             var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
             UrlRaceData = raceData;
 
-            var resultsTable = urlFetcher.GetResultsTable(doc);
+            _previewDataSet = urlFetcher.GetResultsTable(doc);
+            tableSelectorUpDown.Maximum = _previewDataSet.Tables.Count + 1;
+
+            //var resultsTable = urlFetcher.GetResultsTable(doc);
 
             urlOutputTextBox2.Text = raceData.Item1;
             urlRacenameTextBox1.Text = raceData.Item1;
@@ -282,8 +295,16 @@ namespace TriResultsForm
             urlRaceGroupBox2.Visible = true;
 
             UpdateFont();
-            urlDataGridView1.DataSource = resultsTable;
+            urlDataGridView1.DataSource = _previewDataSet;
 
+            SetCurrentPreviewTable(0);
+        }
+
+        private void SetCurrentPreviewTable(int tableIndex)
+        {
+            var table = _previewDataSet.Tables[tableIndex];
+            _currentPreviewDataTable = table;
+            urlDataGridView1.DataMember = table.TableName;
         }
 
         private void UpdateFont()
@@ -305,28 +326,44 @@ namespace TriResultsForm
                 DefaultFileName = filename + ".csv"
             };
 
+            UrlRaceData = new Tuple<string, DateTime>(urlRacenameTextBox1.Text, urlRaceDateTimePicker.Value); // raceData;
+
             var dialogResult = fileDialog.ShowDialog();
             if (dialogResult == CommonFileDialogResult.Ok)
             {
-                var urlText = urlTextBox1.Text;
-                Uri url = new Uri(urlText);
-                var urlFetcher = new FetchUrlContents();
-                var doc = urlFetcher.GetPage(url);
-                var raceAndDate = urlFetcher.GetRacename(doc);
-                var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
-                UrlRaceData = raceData;
-
-                var resultsList = urlFetcher.GetResultsLists(doc);
-
+                var resultsList = TableToLists(_currentPreviewDataTable);
                 WriteToCsv(resultsList, fileDialog.FileName);
             }
         }
 
         private void WriteToCsv(List<List<string>> results, string filename)
         {
-            //var csv = String.Join(Environment.NewLine, );
-
             File.WriteAllLines(filename, results.Select(row => String.Join(",", row)));
+        }
+
+        private List<List<string>> TableToLists(DataTable table)
+        {
+            var results = new List<List<string>>();
+
+            int numberOfColumns = table.Columns.Count;
+
+            // go through each row
+            foreach (DataRow dr in table.Rows)
+            {
+                var rowList = new List<string>(table.Rows.Count);
+
+                // go through each column in the row
+                for (int i = 0; i < numberOfColumns; i++)
+                {
+                    
+                    // access cell as set or get
+                    string cell = Convert.ToString(dr[i]);
+                    rowList.Add(cell);
+                }
+                results.Add(rowList);
+            }
+
+            return results;
         }
 
         private void yearComboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -334,6 +371,30 @@ namespace TriResultsForm
             var selected = (SelectItem) outputYearComboBox.SelectedItem;
 
             Options.FilterYear = selected.Value;
+        }
+
+        private void nextPrevTableButton_Click(object sender, EventArgs e)
+        {
+            var currTable = (int) tableSelectorUpDown.Value - 1;
+            var numTables = _previewDataSet.Tables.Count;
+
+            if (numTables > currTable+1)
+            {
+                tableSelectorUpDown.Value = tableSelectorUpDown.Value + 1;
+                SetCurrentPreviewTable(currTable + 1);
+            }
+        }
+
+        private void previousPreviewTableButton_Click(object sender, EventArgs e)
+        {
+            var currTable = (int)tableSelectorUpDown.Value - 1;
+            
+            if (currTable > 0)
+            {
+                tableSelectorUpDown.Value = tableSelectorUpDown.Value - 1;
+                SetCurrentPreviewTable(currTable - 1);
+            }
+
         }
     }
 }

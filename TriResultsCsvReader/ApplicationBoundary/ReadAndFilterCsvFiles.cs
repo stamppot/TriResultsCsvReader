@@ -26,7 +26,7 @@ namespace TriResultsCsvReader.ApplicationBoundary
                 Console.Write("race (from filename): {0}, date: {1}, name: {2}", srcFilename, raceDate, file);
 
 
-                var stepData = new RaceEnvelope { InputFile = filePath, ColumnConfig = columnsConfig, OutputOptions = new List<string> { "csv" } };
+                var stepData = new RaceEnvelope { InputFile = filePath, /*ColumnConfig = columnsConfig,*/ OutputOptions = new List<string> { "csv" } };
 
                 var readAndFilterStep = new ReadFileAndStandardizeStep(columnsConfig);
 
