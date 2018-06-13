@@ -161,9 +161,9 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvReader.csproj">
+    <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
-      <Name>TriResultsCsvReader</Name>
+      <Name>TriResultsCsvLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

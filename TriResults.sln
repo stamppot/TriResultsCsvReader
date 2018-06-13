@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsCsvReader", "TriResultsCsvReader\TriResultsCsvReader.csproj", "{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsCsvLogic", "TriResultsCsvReader\TriResultsCsvLogic.csproj", "{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultsCsvReader.Test", "ResultsCsvReader.Test\ResultsCsvReader.Test.csproj", "{C4A74D9B-30A3-4F75-A66C-5BBE5BF55883}"
 EndProject
@@ -13,7 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsInputOutput", "Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsForm", "TriResultsForm\TriResultsForm.csproj", "{E8285262-60D3-4857-9DD7-B89EDA12E9AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlResultsFetcher", "UrlResultsFetcher\UrlResultsFetcher.csproj", "{A3289BD5-A2E8-4653-AF87-49C943535AD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlHtmlImplementations", "UrlResultsFetcher\UrlHtmlImplementations.csproj", "{A3289BD5-A2E8-4653-AF87-49C943535AD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. ApplicationServices", "3. ApplicationServices", "{20F99427-10F6-434C-8473-253BE4F9B877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServiceInterfaces", "AppServiceInterfaces\AppServiceInterfaces.csproj", "{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvOutputWriter", "CsvOutputWriter\CsvOutputWriter.csproj", "{92781019-3F2B-405F-AA59-96DA502372D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,9 +51,22 @@ Global
 		{A3289BD5-A2E8-4653-AF87-49C943535AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3289BD5-A2E8-4653-AF87-49C943535AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3289BD5-A2E8-4653-AF87-49C943535AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92781019-3F2B-405F-AA59-96DA502372D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92781019-3F2B-405F-AA59-96DA502372D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92781019-3F2B-405F-AA59-96DA502372D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92781019-3F2B-405F-AA59-96DA502372D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3289BD5-A2E8-4653-AF87-49C943535AD1} = {20F99427-10F6-434C-8473-253BE4F9B877}
+		{72D98940-4A4D-4FE5-A97C-69FB2C0E5A5F} = {20F99427-10F6-434C-8473-253BE4F9B877}
+		{92781019-3F2B-405F-AA59-96DA502372D6} = {20F99427-10F6-434C-8473-253BE4F9B877}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B6A885CD-2168-467F-995D-F3709DFAB475}

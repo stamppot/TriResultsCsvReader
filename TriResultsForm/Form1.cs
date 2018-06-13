@@ -5,6 +5,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
+using AppServiceInterfaces;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
 using Optional.Unsafe;
@@ -59,7 +60,6 @@ namespace TriResultsForm
                 IsFolderPicker = true
             };
 
-            // TODO: be able to choose file or folder
             var dialogResult = dirDialog.ShowDialog();
             if (dialogResult == CommonFileDialogResult.Ok)
             {
@@ -271,23 +271,24 @@ namespace TriResultsForm
             catch (UriFormatException ex)
             {
                 urlOutputTextBox2.Text += Environment.NewLine + "Invalid URL: " + urlText;
+                return;
             }
 
-            if (url == null)
+            if (string.IsNullOrEmpty(url.Host))
             {
                 urlOutputTextBox2.Text += Environment.NewLine + "Invalid URL: " + urlText;
+                return;
             }
 
-            var urlFetcher = new FetchUrlContents();
-            var doc = urlFetcher.GetPage(url);
-            var raceAndDate = urlFetcher.GetRacename(doc);
+            IHtmlTableParser htmlTableParser = HtmlTableParserFactory.Get(url.ToString());
+            IHtmlResultsFetch resultsFetcher = new ResultsPageFetcher(htmlTableParser, url);
+
+            var raceAndDate = resultsFetcher.GetRaceData();
             var raceData = raceAndDate.ValueOr(new Tuple<string, DateTime>("Couldn't get racename", DateTime.Now));
             UrlRaceData = raceData;
 
-            _previewDataSet = urlFetcher.GetResultsTable(doc);
+            _previewDataSet = resultsFetcher.GetData();
             tableSelectorUpDown.Maximum = _previewDataSet.Tables.Count + 1;
-
-            //var resultsTable = urlFetcher.GetResultsTable(doc);
 
             urlOutputTextBox2.Text = raceData.Item1;
             urlRacenameTextBox1.Text = raceData.Item1;
@@ -317,6 +318,8 @@ namespace TriResultsForm
 
         private void urlSaveButton3_Click(object sender, EventArgs e)
         {
+            UrlRaceData = new Tuple<string, DateTime>(urlRacenameTextBox1.Text, urlRaceDateTimePicker.Value); // raceData;
+
             var filename = TriResultsCsvReader.DateUtils.ToRaceFilename(UrlRaceData.Item2, UrlRaceData.Item1);
 
             var fileDialog = new CommonSaveFileDialog("Save file as csv")
@@ -325,9 +328,7 @@ namespace TriResultsForm
                 DefaultExtension = "csv",
                 DefaultFileName = filename + ".csv"
             };
-
-            UrlRaceData = new Tuple<string, DateTime>(urlRacenameTextBox1.Text, urlRaceDateTimePicker.Value); // raceData;
-
+            
             var dialogResult = fileDialog.ShowDialog();
             if (dialogResult == CommonFileDialogResult.Ok)
             {
