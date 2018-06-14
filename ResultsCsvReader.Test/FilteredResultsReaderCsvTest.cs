@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using ConfigReader;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
+using TriResultsCsvReader.StandardizeHeaders;
 
 namespace ResultsCsvReader.Test
 {
@@ -15,7 +17,8 @@ namespace ResultsCsvReader.Test
 
         public FilteredResultsReaderCsvTest()
         {
-            _resultsReaderCsv = new ResultsReaderCsv();
+            IColumnConfigProvider columnConfigProvider = new ColumnConfigProvider("column_config.xml");
+            _resultsReaderCsv = new ResultsReaderCsv(columnConfigProvider);
             _membersWhitelist = new WhitelistFilter(new List<string> { "van der Maas", "Rep", "Terwisscha Van Scheltinga", "Symen de Jong", "Niels Grote Beverborg", "Bram Smit", "Thijs Wiggers", "Erik-Jan de Groot", "Margot Reinders", "Fenna Heijnen", "Jorinde van der Laan", "Anne Hobbelt" });
             _clubWhitelist = new WhitelistFilter(new List<string> { "Tritanium", "Groningen", "Triteam Groningen" });
         }

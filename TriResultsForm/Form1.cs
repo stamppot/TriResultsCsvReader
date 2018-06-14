@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using AppServiceInterfaces;
+using FileAppServices;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
 using Optional.Unsafe;
@@ -122,7 +123,7 @@ namespace TriResultsForm
                 raceGroupBox1.Visible = true;
 
                 // parse file datetime
-                var raceData = new FileUtils().GetRaceDataFromFilename(Options.InputFolderOrFile);
+                var raceData = new RaceDataFileUtils().GetRaceDataFromFilename(Options.InputFolderOrFile);
 
                 if (raceData.HasValue)
                 {
@@ -192,6 +193,7 @@ namespace TriResultsForm
 
             bool success = false;
 
+            Options.InputFiles = new FileUtils().GetAllFiles(Options.InputFolderOrFile);
             try
             {
                 success = runner.Process(Options);

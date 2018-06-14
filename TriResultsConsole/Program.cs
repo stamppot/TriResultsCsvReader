@@ -6,6 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading;
+using FileAppServices;
 using Optional.Unsafe;
 using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
@@ -107,7 +108,7 @@ namespace TriResultsConsole
                 foreach(var file in inputFiles) {
                     var filePath = Path.Combine(options.InputFile, file);
                     Console.WriteLine("filePath: " + filePath);
-                    var raceData = new FileUtils().GetRaceDataFromFilename(filePath);
+                    var raceData = new RaceDataFileUtils().GetRaceDataFromFilename(filePath);
       
                     if (options.Verbose)
                     {

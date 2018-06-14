@@ -4,6 +4,8 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
 using System.IO;
+using ConfigReader;
+using TriResultsCsvReader.StandardizeHeaders;
 
 namespace ResultsCsvReader.Test
 {
@@ -14,7 +16,8 @@ namespace ResultsCsvReader.Test
 
         public ResultsReaderCsvTest()
         {
-            _resultsReaderCsv = new ResultsReaderCsv();
+            IColumnConfigProvider columnConfigProvider = new ColumnConfigProvider("column_config.xml");
+            _resultsReaderCsv = new ResultsReaderCsv(columnConfigProvider); 
         }
 
         [TestMethod]

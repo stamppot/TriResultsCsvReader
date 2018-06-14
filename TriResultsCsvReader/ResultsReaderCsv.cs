@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Linq.Expressions;
 using CsvHelper;
 using CsvHelper.Configuration;
+using TriResultsCsvReader.StandardizeHeaders;
 
 namespace TriResultsCsvReader
 {
@@ -13,9 +13,11 @@ namespace TriResultsCsvReader
         private readonly Action<string> _outputWriter;
         private IEnumerable<Column> _columnsConfig;
         private StandardizeResultsCsv _csvStandardizer;
+        private IColumnConfigProvider _configProvider;
 
-        public ResultsReaderCsv(Action<string> outputWriter = null) : this("column_config.xml", outputWriter)
+        public ResultsReaderCsv(IColumnConfigProvider configProvider, Action<string> outputWriter = null) : this("column_config.xml", outputWriter)
         {
+            _configProvider = configProvider;
             _outputWriter = outputWriter;
         }
 
@@ -33,7 +35,7 @@ namespace TriResultsCsvReader
                 throw new BadConfigurationException(errorMessage);
             }
 
-            _columnsConfig = CsvConfigHelper.ReadConfig(configFilePath);
+            _columnsConfig = _configProvider.Get();
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
 

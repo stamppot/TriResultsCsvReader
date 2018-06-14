@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using TriResultsCsvReader;
 
-namespace TriResultsCsvReader
+namespace ConfigReader
 {
     public class CsvConfigHelper
     {
-        public IEnumerable<Column> ReadConfig(string configFile = "column_config.xml")
+        public static IEnumerable<Column> ReadConfig(string configFile = "column_config.xml")
         {
             var csvColumnConfixXml = File.ReadAllText(configFile);
             var configReader = new ColumnsConfigReader();

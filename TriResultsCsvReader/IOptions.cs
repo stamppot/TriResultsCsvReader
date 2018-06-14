@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 
 namespace TriResultsCsvReader
@@ -31,6 +32,7 @@ namespace TriResultsCsvReader
 
         string RaceName { get; }
 
+        IEnumerable<String> InputFiles { get; }
         
     }
 }

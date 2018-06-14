@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TriResultsCsvReader;
 
 namespace TriResultsForm
@@ -40,6 +37,8 @@ namespace TriResultsForm
         public DateTime RaceDate { get; set; }
 
         public string RaceName { get; set; }
+
+        public IEnumerable<String> InputFiles { get; set; }
 
     }
 }

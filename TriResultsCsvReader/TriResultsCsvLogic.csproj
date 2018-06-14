@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="CsvOutputWriter.cs" />
     <Compile Include="CsvFormatException.cs" />
+    <Compile Include="StandardizeHeaders\IColumnConfigProvider.cs" />
     <Compile Include="Utils\DateUtils.cs" />
     <Compile Include="FileHelper.cs" />
     <Compile Include="IOptions.cs" />
@@ -85,7 +86,7 @@
     <Compile Include="PipelineSteps\CsvWriterStep.cs" />
     <Compile Include="RaceEnvelope.cs" />
     <Compile Include="PipelineSteps\ReadFileAndStandardizeStep.cs" />
-    <Compile Include="Utils\FileUtils.cs" />
+    <Compile Include="Utils\RaceDataFileUtils.cs" />
     <Compile Include="ProgramRunner.cs" />
     <Compile Include="ValidateCsvNumberOfColumns.cs" />
     <Compile Include="WhitelistFilter.cs" />

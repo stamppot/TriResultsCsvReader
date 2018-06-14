@@ -222,7 +222,7 @@
             this.filterMemberTextBox.Name = "filterMemberTextBox";
             this.filterMemberTextBox.Size = new System.Drawing.Size(265, 22);
             this.filterMemberTextBox.TabIndex = 4;
-            this.filterMemberTextBox.Text = "leden2017.csv";
+            this.filterMemberTextBox.Text = "<select a member file> -> leden2017.csv";
             // 
             // filterMemberLabel
             // 

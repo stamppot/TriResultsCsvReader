@@ -5,8 +5,11 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
 using System.Linq.Expressions;
+using ConfigReader;
 using TriResultsCsvReader.ApplicationBoundary;
 using TriResultsCsvReader.PipelineSteps;
+using TriResultsCsvReader.StandardizeHeaders;
+using CsvConfigHelper = TriResultsCsvReader.CsvConfigHelper;
 
 namespace CsvColumnNormalizer.Test
 {
@@ -19,7 +22,8 @@ namespace CsvColumnNormalizer.Test
 
         public StandardizeCsvTest()
         {
-            _columnsConfig = CsvConfigHelper.ReadConfig(_configFile).ToList();
+            IColumnConfigProvider columnConfigProvider = new ColumnConfigProvider("column_config.xml");
+            _columnsConfig = columnConfigProvider.Get().ToList();
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
 

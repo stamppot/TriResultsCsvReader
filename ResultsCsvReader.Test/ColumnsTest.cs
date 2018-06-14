@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using CsvColumnNormalizer.Test;
+using ConfigReader;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using TriResultsCsvReader.StandardizeHeaders;
 
 namespace TriResultsCsvReader.Test
 {
@@ -14,7 +14,8 @@ namespace TriResultsCsvReader.Test
 
         public ColumnsTest()
         {
-            _columnsConfig = CsvConfigHelper.ReadConfig("column_config.xml");
+            IColumnConfigProvider columnConfigProvider = new ColumnConfigProvider("column_config.xml");
+            _columnsConfig = columnConfigProvider.Get();
         }
         
         [TestMethod]

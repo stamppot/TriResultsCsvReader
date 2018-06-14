@@ -6,12 +6,13 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
+using FileAppServices;
 using Optional;
 using Optional.Unsafe;
+using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
-using TriResultsCsvReader.Utils;
 
-namespace TriResultsCsvReader
+namespace TriResultsDomainService
 {
     // TODO: better name
 
@@ -47,7 +48,8 @@ namespace TriResultsCsvReader
                 return false;
             }
 
-            var inputFiles = options.InputFiles.ToList();
+            var fileUtils = new FileUtils();
+            var inputFiles = fileUtils.GetAllFiles(options.InputFolderOrFile);
 
             if (!inputFiles.Any())
             {
@@ -258,8 +260,8 @@ namespace TriResultsCsvReader
                 return false;
             }
 
-            //var fileUtils = new FileUtils();
-            var inputFiles = options.InputFiles.ToList(); // fileUtils.GetAllFiles(options.InputFolderOrFile);
+            var fileUtils = new FileUtils();
+            var inputFiles = fileUtils.GetAllFiles(options.InputFolderOrFile);
 
             if (!inputFiles.Any())
             {

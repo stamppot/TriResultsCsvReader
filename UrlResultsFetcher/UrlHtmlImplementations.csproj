@@ -47,13 +47,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateUtils.cs" />
+    <Compile Include="RaceDataUtils.cs" />
     <Compile Include="ResultsPageFetcher.cs" />
     <Compile Include="MyLapsHtmlTableParser.cs" />
     <Compile Include="HtmlTableParserFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AppServiceInterfaces\AppServiceInterfaces.csproj">

@@ -10,10 +10,11 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ResultsCsvReader.Test</RootNamespace>
     <AssemblyName>ResultsCsvReader.Test</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -161,6 +162,10 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ColumnsConfigReader\ConfigReader.csproj">
+      <Project>{696292ea-4039-4d26-9269-6dba9618fd6d}</Project>
+      <Name>ConfigReader</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
       <Name>TriResultsCsvLogic</Name>

@@ -112,6 +112,10 @@
       <Project>{72d98940-4a4d-4fe5-a97c-69fb2c0e5a5f}</Project>
       <Name>AppServiceInterfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FileAppServices\FileAppServices.csproj">
+      <Project>{89369c0e-e0a4-40e4-9117-496b1e32c269}</Project>
+      <Name>FileAppServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
       <Project>{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}</Project>
       <Name>TriResultsCsvLogic</Name>
