@@ -174,9 +174,9 @@
       <Project>{ED74B822-DD2A-4A3D-B964-0082A19F8071}</Project>
       <Name>TriResultsDomainServices</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
+    <ProjectReference Include="..\TriResultsCsvReader\TriResultsGeneratorBL.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
-      <Name>TriResultsCsvLogic</Name>
+      <Name>TriResultsGeneratorBL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

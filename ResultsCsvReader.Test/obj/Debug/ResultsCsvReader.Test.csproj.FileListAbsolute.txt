@@ -82,3 +82,7 @@ C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\Optional.dll
 C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\Optional.xml
 C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\ColumnsConfigReader.dll
 C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\ColumnsConfigReader.pdb
+C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\FileAppServices.dll
+C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\TriResultsAppServices.dll
+C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\FileAppServices.pdb
+C:\Repos\CsvColumnNormalizer\ResultsCsvReader.Test\bin\Debug\TriResultsAppServices.pdb

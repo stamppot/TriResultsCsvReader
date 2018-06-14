@@ -120,9 +120,9 @@
       <Project>{ED74B822-DD2A-4A3D-B964-0082A19F8071}</Project>
       <Name>TriResultsDomainServices</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
+    <ProjectReference Include="..\TriResultsCsvReader\TriResultsGeneratorBL.csproj">
       <Project>{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}</Project>
-      <Name>TriResultsCsvLogic</Name>
+      <Name>TriResultsGeneratorBL</Name>
     </ProjectReference>
     <ProjectReference Include="..\UrlResultsFetcher\UrlHtmlImplementations.csproj">
       <Project>{A3289BD5-A2E8-4653-AF87-49C943535AD1}</Project>

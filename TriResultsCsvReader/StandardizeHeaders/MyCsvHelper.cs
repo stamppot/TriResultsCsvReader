@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using TriResultsCsvReader;
 
-namespace TriResultsCsvReader
+namespace TriResultsGeneratorBL
 {
     public interface ICsvHelper
     {

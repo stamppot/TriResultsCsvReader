@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsCsvLogic", "TriResultsCsvReader\TriResultsCsvLogic.csproj", "{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriResultsGeneratorBL", "TriResultsCsvReader\TriResultsGeneratorBL.csproj", "{32A9A2A3-0BC6-4E14-A75D-ECF8BCEA6D3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultsCsvReader.Test", "ResultsCsvReader.Test\ResultsCsvReader.Test.csproj", "{C4A74D9B-30A3-4F75-A66C-5BBE5BF55883}"
 EndProject

@@ -4,6 +4,7 @@ using System.Linq;
 using ConfigReader;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader.StandardizeHeaders;
+using TriResultsGeneratorBL;
 
 namespace TriResultsCsvReader.Test
 {

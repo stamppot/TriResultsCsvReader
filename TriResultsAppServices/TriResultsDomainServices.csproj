@@ -54,9 +54,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
+    <ProjectReference Include="..\TriResultsCsvReader\TriResultsGeneratorBL.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
-      <Name>TriResultsCsvLogic</Name>
+      <Name>TriResultsGeneratorBL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
