@@ -8,21 +8,22 @@ using TriResultsCsvReader.StandardizeHeaders;
 
 namespace TriResultsCsvReader
 {
-    public class ResultsReaderCsv
+    public class HeaderStandardizer
     {
         private readonly Action<string> _outputWriter;
         private IEnumerable<Column> _columnsConfig;
         private StandardizeResultsCsv _csvStandardizer;
         private IColumnConfigProvider _configProvider;
 
-        public ResultsReaderCsv(IColumnConfigProvider configProvider, Action<string> outputWriter = null) : this("column_config.xml", outputWriter)
+        public HeaderStandardizer(IColumnConfigProvider configProvider, Action<string> outputWriter = null) : this("column_config.xml", outputWriter)
         {
             _configProvider = configProvider;
-            _outputWriter = outputWriter;
         }
 
-        public ResultsReaderCsv(string configFilePath, Action<string> outputWriter)
+        public HeaderStandardizer(string configFilePath, Action<string> outputWriter)
         {
+            if (null != outputWriter) _outputWriter = outputWriter;
+
             if(string.IsNullOrEmpty(configFilePath))
             {
                 throw new BadConfigurationException("No config file given");
@@ -39,40 +40,17 @@ namespace TriResultsCsvReader
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
 
-        public ResultsReaderCsv(IEnumerable<Column> config, Action<string> outputWriter) {
+        public HeaderStandardizer(IEnumerable<Column> config, Action<string> outputWriter) {
             _columnsConfig = config;
             _outputWriter = outputWriter;
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
-
         }
 
 
-
-
-        public IEnumerable<ResultRow> ReadFile(string csvFilename)
+        public IEnumerable<ResultRow> StandardizeHeaders(IEnumerable<string> csvLines, string debugFilename)
         {
             // 1. standardize header
-            var csvLines = File.ReadAllLines(csvFilename);
-
-            var columnValidator = new ValidateCsvNumberOfColumns();
-            bool isValid = false;
-
-            try
-            {
-                isValid = columnValidator.Validate(csvLines);
-            }
-            catch (FormatException ex)
-            {
-                var message = $"File doesn't have an equal amount of columns: {csvFilename}.";
-                throw new CsvFormatException(message, ex);
-            }
-
-            if(!isValid)
-            {
-                Console.WriteLine("Error!  Number of columns mismatch in csv file: " + csvFilename);
-            }
-
-            var standardizedCsv = _csvStandardizer.Read(csvLines);
+            var standardizedCsv = _csvStandardizer.Read(csvLines.ToArray());
 
             IEnumerable<ResultRow> records;
 
@@ -88,18 +66,18 @@ namespace TriResultsCsvReader
                 }
                 catch (CsvHelperException ex)
                 {
-                    var message = string.Format("Error parsing csv file (Check column types and missing data and/or DNF where position should be: {0}: {1}", csvFilename, ex.Message);
-                    throw new CsvFormatException(message, ex);
+                    var message = string.Format("Error parsing file (Check column types and missing data and/or DNF where position should be: {0}: {1}", debugFilename, ex.Message);
+                    throw new FormatException(message, ex);
                 } catch(Exception ex)
                 {
-                    Console.WriteLine("Error reading csv file: {0}: {1}", csvFilename, ex.Message);
+                    Console.WriteLine("Error reading file: {0}: {1}", debugFilename, ex.Message);
                     
                     throw;
                 }
 
                 records = records.ToList();
 
-                WriteOutput($"Records read from file {csvFilename}: {records.Count()}");
+                WriteOutput($"Records read from file {debugFilename}: {records.Count()}");
             }
 
             return records;

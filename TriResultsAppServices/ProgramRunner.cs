@@ -6,11 +6,12 @@ using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using FileAppServices;
 using Optional;
 using Optional.Unsafe;
+using TriResultsAppServices;
 using TriResultsCsvReader;
 using TriResultsCsvReader.PipelineSteps;
+using TriResultsDomainServices;
 
 namespace TriResultsDomainService
 {
@@ -18,8 +19,11 @@ namespace TriResultsDomainService
 
     public class ProgramRunner : INotifyCollectionChanged
     {
-        public ProgramRunner()
+        private IRaceResultsReader _raceResultsReader;
+
+        public ProgramRunner(IRaceResultsReader raceResultsReader)
         {
+            _raceResultsReader = raceResultsReader;
             Errors = new List<string>();
             Info = new List<string>();
             Output = new List<string>();
@@ -48,17 +52,17 @@ namespace TriResultsDomainService
                 return false;
             }
 
-            var fileUtils = new FileUtils();
-            var inputFiles = fileUtils.GetAllFiles(options.InputFolderOrFile);
+            //var fileUtils = new FileUtils();
+            //var inputFiles = fileUtils.GetAllFiles(options.InputFolderOrFile);
 
-            if (!inputFiles.Any())
+            if (!options.InputFiles.Any())
             {
                 Errors.Add("No input files in folder or folder given, will do nothing.");
                 Console.WriteLine("No input file or folder given, will do nothing.");
                 return false;
             }
 
-            if (options.Verbose) { Console.WriteLine("Files to process:\n"); inputFiles.ForEach(file => Console.WriteLine(file)); }
+            if (options.Verbose) { Console.WriteLine("Files to process:\n"); options.InputFiles.ToList().ForEach(file => Console.WriteLine(file)); }
 
 
             var columnsConfig = new ColumnsConfigReader().ReadFile(options.ConfigFile ?? "column_config.xml");
@@ -114,7 +118,7 @@ namespace TriResultsDomainService
 
 
             var raceDatas = new List<RaceEnvelope>();
-            foreach (var file in inputFiles)
+            foreach (var file in options.InputFiles)
             {
                 var filePath = Path.Combine(options.InputFolderOrFile, file);
 
@@ -159,16 +163,19 @@ namespace TriResultsDomainService
             var allRaces = new List<RaceEnvelope>();
             foreach (var stepData in raceDatas)
             {
-                var readAndStandardizeStep = new ReadFileAndStandardizeStep(columnsConfig, Info);
+                //var resultLines = _raceResultsReader.ReadRaceRows(stepData.InputFile);
+
+                var readAndStandardizeStep = new ReadAndFilterCsvFiles(_raceResultsReader, Info); // new ReadFileAndStandardizeStep(columnsConfig, Info);
 
                 try
                 {
-                    var nextStep = readAndStandardizeStep.Process(stepData);
+                    var headerStandardizer = new HeaderStandardizer(columnsConfig, s => Console.Out.WriteLine(s));
+                    var nextStep = readAndStandardizeStep.StandardizeRace(headerStandardizer, stepData);
                     allRaces.Add(nextStep);
 
                     // TODO: notify caller that step is done
                 }
-                catch (CsvFormatException ex)
+                catch (FormatException ex)
                 {
                     var race = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date.ValueOrDefault().ToShortDateString());
                     Errors.Add(string.Format("Error when reading race data: {0}", race));
@@ -260,9 +267,7 @@ namespace TriResultsDomainService
                 return false;
             }
 
-            var fileUtils = new FileUtils();
-            var inputFiles = fileUtils.GetAllFiles(options.InputFolderOrFile);
-
+            var inputFiles = options.InputFiles.ToList();
             if (!inputFiles.Any())
             {
                 Errors.Add("No input files in folder or folder given, will do nothing.");
@@ -366,7 +371,7 @@ namespace TriResultsDomainService
                     if (nextStep.RaceData.Results.Any())
                         filteredRaces.Add(nextStep);
                 }
-                catch (CsvFormatException ex)
+                catch (FormatException ex)
                 {
                     var raceStr = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date);
                     Errors.Add(string.Format("Error when reading race data: {0}", raceStr));
@@ -417,30 +422,6 @@ namespace TriResultsDomainService
                 }
 
             }
-
-
-                ///// Combined output steps
-
-                //var htmlOutputStep = new CombineOutputHtmlStep();
-                //var columns = new ColumnsConfigReader().ReadFile(options.ConfigFile);
-                //var races = filteredRaces.Select(f => f.RaceData).ToList();
-
-                //var outputfile = string.Format("{0}_uitslagen", DateTime.Now.ToString("yyyyMMddhhmm"));
-                //var output = htmlOutputStep.Process("output", outputfile, columns, races);
-
-                //Info.Add($"Html output to {outputfile}");
-
-                //options.OutputSql = true; // for now, always set it to true, since it's easier when running from within VS
-                //if (options.OutputSql)
-                //{
-                //    var sqlCreateTableStep = new SqlCreateTableStep();
-                //    var sqlCreateTableStmt = sqlCreateTableStep.Process(columns);
-                //    Console.WriteLine("Create table syntax: " + sqlCreateTableStmt);
-
-                //    var sqlInsertOutputStep = new CombineOutputSqlInsertStep();
-                //    OutputSql = sqlInsertOutputStep.Process("output", outputfile, columns, races);
-                //    Info.Add($"Sql output to {outputfile}.sql");
-                //}
 
                 return !Errors.Any();
         }

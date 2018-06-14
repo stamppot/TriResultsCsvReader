@@ -11,8 +11,9 @@ using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
 using Optional.Unsafe;
 using TriResultsCsvReader;
-using TriResultsCsvReader.Utils;
+using TriResultsDomainService;
 using UrlResultsFetcher;
+using RaceDataFileUtils = TriResultsCsvReader.Utils.RaceDataFileUtils;
 
 namespace TriResultsForm
 {
@@ -189,7 +190,8 @@ namespace TriResultsForm
         {
             outputTextBox.Text += "Running... please wait";
 
-            var runner = new ProgramRunner();
+            var csvRaceResultsReader = new CsvResultsReader();
+            var runner = new ProgramRunner(csvRaceResultsReader);
 
             bool success = false;
 
@@ -231,8 +233,10 @@ namespace TriResultsForm
                 }
             }
 
-            // TODO: run something like runner.Process which tests a single csv file
-            var runner = new ProgramRunner();
+            var csvRaceResultsReader = new CsvResultsReader();
+            var runner = new ProgramRunner(csvRaceResultsReader);
+
+            Options.InputFiles = new FileUtils().GetAllFiles(Options.InputFolderOrFile);
 
             var valid = runner.Test(Options);
 

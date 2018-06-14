@@ -43,18 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IRaceResultsReader.cs" />
     <Compile Include="ProgramRunner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RaceDataFileUtils.cs" />
+    <Compile Include="ReadAndFilterCsvFiles.cs" />
+    <Compile Include="GetRaceDataFromResults.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FileAppServices\FileAppServices.csproj">
-      <Project>{89369C0E-E0A4-40E4-9117-496B1E32C269}</Project>
-      <Name>FileAppServices</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
       <Name>TriResultsCsvLogic</Name>

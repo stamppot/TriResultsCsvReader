@@ -21,12 +21,12 @@ namespace TriResultsCsvReader
 
         public override RaceEnvelope Process(RaceEnvelope raceStepData)
         {
-            var reader = new ResultsReaderCsv(GetColumns(), WriteInfo);
+            //var reader = new ResultsReaderCsv(GetColumns(), WriteInfo);
 
             // filtering happens here
-            var resultRows = reader.ReadFile(raceStepData.InputFile).ToList();
+            var resultRows = raceStepData.RaceData.Results; // reader.StandardizeHeaders(raceStepData.InputFile).ToList();
 
-            if (resultRows.Any())
+            if (resultRows.Any()) // TODO: use raceStepDate.Race.Results and put csv reading in outer layer
             {
                 var firstResult = resultRows.First();
 

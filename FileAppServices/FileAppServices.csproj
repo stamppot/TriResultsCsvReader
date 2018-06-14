@@ -43,11 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CsvFormatException.cs" />
+    <Compile Include="CsvResultsReader.cs" />
     <Compile Include="FileUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidateCsvNumberOfColumns.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TriResultsAppServices\TriResultsDomainServices.csproj">
+      <Project>{ed74b822-dd2a-4a3d-b964-0082a19f8071}</Project>
+      <Name>TriResultsDomainServices</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,10 +6,11 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
 using System.Linq.Expressions;
 using ConfigReader;
-using TriResultsCsvReader.ApplicationBoundary;
+using FileAppServices;
+using TriResultsAppServices;
 using TriResultsCsvReader.PipelineSteps;
 using TriResultsCsvReader.StandardizeHeaders;
-using CsvConfigHelper = TriResultsCsvReader.CsvConfigHelper;
+using TriResultsDomainServices;
 
 namespace CsvColumnNormalizer.Test
 {
@@ -27,13 +28,20 @@ namespace CsvColumnNormalizer.Test
             _csvStandardizer = new StandardizeResultsCsv(_columnsConfig);
         }
 
+        public IEnumerable<string> ReadFileResults(string file)
+        {
+            return new CsvResultsReader().ReadRaceRows(file);
+        }
+
         [TestMethod]
         public void TestMultipleFiles()
         {
             var inputFolder = "files";
             var inputFiles = new DirectoryInfo(inputFolder).GetFiles().Select(fi => fi.Name);
             var outputFolder = "output";
-            var readAndFilterFiles = new ReadAndFilterCsvFiles();
+            var infoLogs = new List<string>();
+            IRaceResultsReader csvReader = new CsvResultsReader();
+            var readAndFilterFiles = new ReadAndFilterCsvFiles(csvReader, infoLogs);
 
             var filteredRaces = readAndFilterFiles.GetFilteredRaces(inputFiles, inputFolder, outputFolder, DateTime.Now, _columnsConfig);
 

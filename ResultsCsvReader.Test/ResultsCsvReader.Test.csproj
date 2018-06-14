@@ -166,6 +166,14 @@
       <Project>{696292ea-4039-4d26-9269-6dba9618fd6d}</Project>
       <Name>ConfigReader</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FileAppServices\FileAppServices.csproj">
+      <Project>{89369C0E-E0A4-40E4-9117-496B1E32C269}</Project>
+      <Name>FileAppServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TriResultsAppServices\TriResultsDomainServices.csproj">
+      <Project>{ED74B822-DD2A-4A3D-B964-0082A19F8071}</Project>
+      <Name>TriResultsDomainServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TriResultsCsvReader\TriResultsCsvLogic.csproj">
       <Project>{32a9a2a3-0bc6-4e14-a75d-ecf8bcea6d3d}</Project>
       <Name>TriResultsCsvLogic</Name>

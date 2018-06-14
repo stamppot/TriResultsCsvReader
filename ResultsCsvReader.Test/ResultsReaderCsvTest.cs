@@ -5,6 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TriResultsCsvReader;
 using System.IO;
 using ConfigReader;
+using FileAppServices;
 using TriResultsCsvReader.StandardizeHeaders;
 
 namespace ResultsCsvReader.Test
@@ -12,12 +13,17 @@ namespace ResultsCsvReader.Test
     [TestClass]
     public class ResultsReaderCsvTest
     {
-        private ResultsReaderCsv _resultsReaderCsv;
+        private HeaderStandardizer _resultsReaderCsv;
 
         public ResultsReaderCsvTest()
         {
             IColumnConfigProvider columnConfigProvider = new ColumnConfigProvider("column_config.xml");
-            _resultsReaderCsv = new ResultsReaderCsv(columnConfigProvider); 
+            _resultsReaderCsv = new HeaderStandardizer(columnConfigProvider); 
+        }
+
+        public IEnumerable<string> ReadFileResults(string file)
+        {
+            return new CsvResultsReader().ReadRaceRows(file);
         }
 
         [TestMethod]
@@ -41,8 +47,8 @@ namespace ResultsCsvReader.Test
         public void ReadResults_LeiderdorpSprint_Test()
         {
             var csvFile = "files/Leiderdorp_sprint.csv";
-
-            var results = _resultsReaderCsv.ReadFile(csvFile);
+            var lines = ReadFileResults(csvFile);
+            var results = _resultsReaderCsv.StandardizeHeaders(lines, csvFile);
 
             Assert.IsTrue(results.Any());
         }
@@ -51,8 +57,8 @@ namespace ResultsCsvReader.Test
         public void ReadResults_LeiderdorpIndi_Test()
         {
             var csvFile = "files/Leiderdorp_sprint_indi.csv";
-
-            var results = _resultsReaderCsv.ReadFile(csvFile);
+            var lines = ReadFileResults(csvFile);
+            var results = _resultsReaderCsv.StandardizeHeaders(lines, csvFile);
 
             Assert.IsTrue(results.Any());
         }
@@ -61,8 +67,8 @@ namespace ResultsCsvReader.Test
         public void ReadResults_ouderkerkadamstel_sprint_m_Test()
         {
             var csvFile = "files/ouderkerkadamstel_sprint_m.csv";
-
-            var results = _resultsReaderCsv.ReadFile(csvFile);
+            var lines = ReadFileResults(csvFile);
+            var results = _resultsReaderCsv.StandardizeHeaders(lines, csvFile);
 
             Assert.IsTrue(results.Any());
         }
@@ -71,8 +77,8 @@ namespace ResultsCsvReader.Test
         public void ReadResults_Rotterdam_RBR_overall_Test()
         {
             var csvFile = "files/Rotterdam_RBR_overall.csv";
-
-            var results = _resultsReaderCsv.ReadFile(csvFile);
+            var lines = ReadFileResults(csvFile);
+            var results = _resultsReaderCsv.StandardizeHeaders(lines, csvFile);
 
             Assert.IsTrue(results.Any());
         }
