@@ -4,8 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TriResultsCsvReader.PipelineSteps
 {
@@ -25,8 +23,6 @@ namespace TriResultsCsvReader.PipelineSteps
             var csvReaderConfig = new Configuration() { HeaderValidated = null, SanitizeForInjection = false, TrimOptions = TrimOptions.Trim };
             Console.WriteLine("destFile: " + destFullPath);
 
-
-            var csvOutputWriter = new CsvOutputWriter();
 
             using (TextWriter writer = new StreamWriter(destFullPath))
             {
