@@ -9,6 +9,8 @@ namespace UrlResultsFetcher
         {
             if(url.Contains("mylaps.com")) return new MyLapsHtmlTableParser();
 
+            if (url.Contains("uitslagensoftware.nl")) return new MyLapsHtmlTableParser();
+
             return new MyLapsHtmlTableParser();
         }
     }

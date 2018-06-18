@@ -52,6 +52,7 @@
     <Compile Include="MyLapsHtmlTableParser.cs" />
     <Compile Include="HtmlTableParserFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UitslagensoftwareHtmlTableParser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">

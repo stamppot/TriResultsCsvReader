@@ -202,7 +202,7 @@ namespace TriResultsForm
             }
             catch (CsvFormatException ex)
             {
-
+                outputTextBox.Text += ex.Message;
             }
 
             if (!success)

@@ -45,28 +45,28 @@ namespace TriResultsDomainServices
 
         public RaceEnvelope StandardizeRace(HeaderStandardizer headerStandardizer, RaceEnvelope raceEnvelope)
         {
-            
-                // 1. Read results, put these in raceEnvelope
-                var lines = _resultsReader.ReadRaceRows(raceEnvelope.InputFile);
+            // 1. Read results, put these in raceEnvelope
+            IEnumerable<string> lines = _resultsReader.ReadRaceRows(raceEnvelope.InputFile);
 
 
-                // filtering happens here
-                var resultRows = headerStandardizer.StandardizeHeaders(lines, raceEnvelope.InputFile).ToList();
-                raceEnvelope.RaceData.Results = resultRows;
+            // filtering happens here
+            var resultRows = headerStandardizer.StandardizeHeaders(lines, raceEnvelope.InputFile).ToList();
+            raceEnvelope.RaceData.Results = resultRows;
 
-                var fillRaceDate = new GetRaceDataFromResults();
+            var fillRaceDate = new GetRaceDataFromResults();
 
 
-                raceEnvelope = fillRaceDate.FillRaceEnvelope(raceEnvelope, resultRows.FirstOrNone(r => r.Race != null));
+            raceEnvelope = fillRaceDate.FillRaceEnvelope(raceEnvelope, resultRows.FirstOrNone(r => r.Race != null));
 
-                if (raceEnvelope.RaceData != null)
-                {
-                    Console.WriteLine("Processed {0}", raceEnvelope.RaceData.Name);
-                }
-                if (raceEnvelope.RaceData == null)
-                {
-                    Console.WriteLine("Cannot read race data from file '{0}'", raceEnvelope.InputFile);
-                }
+            if (raceEnvelope.RaceData != null)
+            {
+                Console.WriteLine("Processed {0}", raceEnvelope.RaceData.Name);
+            }
+
+            if (raceEnvelope.RaceData == null)
+            {
+                Console.WriteLine("Cannot read race data from file '{0}'", raceEnvelope.InputFile);
+            }
 
             return raceEnvelope;
         }

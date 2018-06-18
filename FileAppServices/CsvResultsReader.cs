@@ -7,6 +7,13 @@ namespace FileAppServices
 {
     public class CsvResultsReader : IRaceResultsReader
     {
+        //private readonly Action<string> _logWriter;
+
+        //public CsvResultsReader(Action<string> logWriter)
+        //{
+        //    _logWriter = logWriter == null ? new Action<string>((s) => Console.WriteLine(s)) : logWriter;
+        //}
+
         public IEnumerable<string> ReadRaceRows(string filename)
         {
 
@@ -23,7 +30,7 @@ namespace FileAppServices
             catch (FormatException ex)
             {
                 var message = $"File doesn't have an equal amount of columns: {filename}.";
-                throw new CsvFormatException(message, ex);
+                throw new FormatException(message, ex);
             }
 
             if (!isValid)

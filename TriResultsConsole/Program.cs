@@ -117,7 +117,7 @@ namespace TriResultsConsole
 
                     var stepData = new RaceEnvelope {InputFile = filePath, OutputOptions = new List<string> { "csv" } };
 
-                    var readAndStandardizeStepStep = new ReadFileAndStandardizeStep(columnsConfig, infoLogs);
+                    var readAndStandardizeStepStep = new GetRaceDataStep(columnsConfig, infoLogs);
                     
                     var nextStep = readAndStandardizeStepStep.Process(stepData);
 

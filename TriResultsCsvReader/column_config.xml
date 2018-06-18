@@ -67,6 +67,7 @@
     <name order="8">PosSwim</name>
     <mapfrom>
       <altname>#Swim</altname>
+      <altname>SwimPos</altname>
       <altname>PltsZwem</altname>
       <altname>PltsZw</altname>
       <altname>#Zwem</altname>
@@ -121,6 +122,7 @@
     <name order="14">PosBike</name>
     <mapfrom>
       <altname>#Bike</altname>
+      <altname>BikePos</altname>
       <altname>PltsFiets</altname>
       <altname>PltsFie</altname>
       <altname>#Fiets</altname>
@@ -194,6 +196,7 @@
   <column>
     <name order="22">PosRun</name>
     <mapfrom>
+      <altname>RunPos</altname>
       <altname>#Run</altname>
       <altname>PltsLoop</altname>
       <altname>PltsRun</altname>

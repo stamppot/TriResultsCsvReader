@@ -83,7 +83,7 @@
     <Compile Include="RaceTypeGuesser.cs" />
     <Compile Include="PipelineSteps\CsvWriterStep.cs" />
     <Compile Include="RaceEnvelope.cs" />
-    <Compile Include="PipelineSteps\ReadFileAndStandardizeStep.cs" />
+    <Compile Include="PipelineSteps\GetRaceDataStep.cs" />
     <Compile Include="Utils\RaceDataFileUtils.cs" />
     <Compile Include="WhitelistFilter.cs" />
     <Compile Include="HeaderStandardizer.cs" />
@@ -100,6 +100,7 @@
   <ItemGroup>
     <Content Include="column_config.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>

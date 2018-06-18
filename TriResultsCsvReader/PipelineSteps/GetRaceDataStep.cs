@@ -5,11 +5,11 @@ using Optional;
 
 namespace TriResultsCsvReader
 {
-    public class ReadFileAndStandardizeStep : BaseStep, IPipelineStep
+    public class GetRaceDataStep : BaseStep, IPipelineStep
     {
         private readonly IEnumerable<Column> _columns;
 
-        public ReadFileAndStandardizeStep(IEnumerable<Column> columnsConfig, List<string> infoLogs = null) : base(infoLogs)
+        public GetRaceDataStep(IEnumerable<Column> columnsConfig, List<string> infoLogs = null) : base(infoLogs)
         {
             _columns = columnsConfig;
         }
@@ -26,7 +26,7 @@ namespace TriResultsCsvReader
             // filtering happens here
             var resultRows = raceStepData.RaceData.Results; // reader.StandardizeHeaders(raceStepData.InputFile).ToList();
 
-            if (resultRows.Any()) // TODO: use raceStepDate.Race.Results and put csv reading in outer layer
+            if (resultRows.Any())
             {
                 var firstResult = resultRows.First();
 

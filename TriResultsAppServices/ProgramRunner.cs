@@ -247,7 +247,7 @@ namespace TriResultsDomainService
                 Info.Add($"Sql output to {outputFolder}\\{outputfile}.sql");
             }
 
-            return true;
+            return Errors.Any();
         }
 
 
@@ -362,11 +362,11 @@ namespace TriResultsDomainService
                     RaceData = race
                 };
 
-                var readAndFilterStep = new ReadFileAndStandardizeStep(columnsConfig, Info);
+                var getRaceDataStep = new GetRaceDataStep(columnsConfig, Info);
 
                 try
                 {
-                    var nextStep = readAndFilterStep.Process(stepData);
+                    var nextStep = getRaceDataStep.Process(stepData);
 
                     if (nextStep.RaceData.Results.Any())
                         filteredRaces.Add(nextStep);
