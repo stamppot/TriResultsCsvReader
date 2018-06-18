@@ -10,7 +10,6 @@ using FileAppServices;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using Optional;
 using Optional.Unsafe;
-using TriResultsCsvReader;
 using TriResultsDomainService;
 using UrlResultsFetcher;
 using RaceDataFileUtils = TriResultsCsvReader.Utils.RaceDataFileUtils;

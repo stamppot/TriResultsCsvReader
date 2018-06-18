@@ -165,26 +165,28 @@ namespace TriResultsDomainService
             {
                 //var resultLines = _raceResultsReader.ReadRaceRows(stepData.InputFile);
 
-                var readAndStandardizeStep = new ReadAndFilterCsvFiles(_raceResultsReader, Info); // new ReadFileAndStandardizeStep(columnsConfig, Info);
+                var nextStep = ReadAndStandardizeRace(columnsConfig, stepData);
+                allRaces.Add(nextStep);
+                //var readAndStandardizeStep = new ReadAndFilterCsvFiles(_raceResultsReader, Info); // new ReadFileAndStandardizeStep(columnsConfig, Info);
 
-                try
-                {
-                    var headerStandardizer = new HeaderStandardizer(columnsConfig, s => Console.Out.WriteLine(s));
-                    var nextStep = readAndStandardizeStep.StandardizeRace(headerStandardizer, stepData);
-                    allRaces.Add(nextStep);
+                //try
+                //{
+                //    var headerStandardizer = new HeaderStandardizer(columnsConfig, s => Console.Out.WriteLine(s));
+                //    var nextStep = readAndStandardizeStep.StandardizeRace(headerStandardizer, stepData);
+                //    allRaces.Add(nextStep);
 
-                    // TODO: notify caller that step is done
-                }
-                catch (FormatException ex)
-                {
-                    var race = string.Format("{0} {1}", stepData.RaceData.Name, stepData.RaceData.Date.ValueOrDefault().ToShortDateString());
-                    Errors.Add(string.Format("Error when reading race data: {0}", race));
-                    Errors.Add(ex.Message);
-                    if (ex.InnerException != null)
-                    {
-                        Errors.Add(ex.InnerException.Message);
-                    }
-                }
+                //    // TODO: notify caller that step is done
+                //}
+                //catch (FormatException ex)
+                //{
+                //    var race = string.Format("{0} {1}", stepData.RaceData.Name.ValueOrDefault(), stepData.RaceData.Date.ValueOrDefault().ToShortDateString());
+                //    Errors.Add(string.Format("Error when reading race data: {0}", race));
+                //    Errors.Add(ex.Message);
+                //    if (ex.InnerException != null)
+                //    {
+                //        Errors.Add(ex.InnerException.Message);
+                //    }
+                //}
             }
 
             var filterStep = new FilterReduceStep(columnsConfig, filterExp, Info);
@@ -217,7 +219,7 @@ namespace TriResultsDomainService
                 if (options.Verbose)
                 {
                     var raceData = $"{race.RaceData.Date} {race.RaceData}";
-                    Info.Add($"Processed {raceData}");
+                    Info.Add(Environment.NewLine + $"Processed {raceData}");
                     // TODO: CollectionChanged($"Processed {raceData}", null);
                 }
             }
@@ -247,7 +249,7 @@ namespace TriResultsDomainService
                 Info.Add($"Sql output to {outputFolder}\\{outputfile}.sql");
             }
 
-            return Errors.Any();
+            return !Errors.Any();
         }
 
 
@@ -364,9 +366,10 @@ namespace TriResultsDomainService
 
                 var getRaceDataStep = new GetRaceDataStep(columnsConfig, Info);
 
+                RaceEnvelope nextStep = null;
                 try
                 {
-                    var nextStep = getRaceDataStep.Process(stepData);
+                    nextStep = getRaceDataStep.Process(stepData);
 
                     if (nextStep.RaceData.Results.Any())
                         filteredRaces.Add(nextStep);
@@ -381,6 +384,10 @@ namespace TriResultsDomainService
                         Errors.Add(ex.InnerException.Message);
                     }
                 }
+
+
+                // validate CSV
+                ReadAndStandardizeRace(columnsConfig, nextStep);
             }
 
             // order races by newest first
@@ -404,7 +411,7 @@ namespace TriResultsDomainService
                 writeStep.Process(race);
                 if (options.Verbose)
                 {
-                    var raceData = $"{race.RaceData.Date} {race.RaceData}";
+                    var raceData = $"{race.RaceData.Date.ValueOrDefault().ToShortDateString()} {race.RaceData.Name}";
                     Info.Add($"Processed {raceData}");
                     // TODO: CollectionChanged($"Processed {raceData}", null);
                 }
@@ -436,6 +443,34 @@ namespace TriResultsDomainService
             {
                 //handler(this, new NotifyCollectionChangedEventArgs());
             }
+        }
+
+
+        public RaceEnvelope ReadAndStandardizeRace(IEnumerable<Column> columnsConfig, RaceEnvelope raceData)
+        {
+            var readAndStandardizeStep = new ReadAndFilterCsvFiles(_raceResultsReader, Info);
+
+            RaceEnvelope nextStep = raceData;
+            try
+            {
+                var headerStandardizer = new HeaderStandardizer(columnsConfig, s => Console.Out.WriteLine(s));
+                nextStep = readAndStandardizeStep.StandardizeRace(headerStandardizer, raceData);
+                //allRaces.Add(nextStep);
+
+                // TODO: notify caller that step is done
+            }
+            catch (FormatException ex)
+            {
+                var race = string.Format("{0} {1}", raceData.RaceData.Name.ValueOrDefault(), raceData.RaceData.Date.ValueOrDefault().ToShortDateString());
+                Errors.Add(string.Format("Error when reading race data: {0}", race));
+                Errors.Add(ex.Message);
+                if (ex.InnerException != null)
+                {
+                    Errors.Add(ex.InnerException.Message);
+                }
+            }
+
+            return nextStep;
         }
     }
 }
