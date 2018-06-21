@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using CsvHelper;
 using CsvHelper.Configuration;
 using TriResultsCsvReader.StandardizeHeaders;
@@ -49,8 +50,14 @@ namespace TriResultsCsvReader
 
         public IEnumerable<ResultRow> StandardizeHeaders(IEnumerable<string> csvLines, string debugFilename)
         {
+            var lines = csvLines.ToList();
+            if(lines.Any() && new Regex(@"^\d").IsMatch(lines.First()))
+            {
+                throw new FormatException($"No header found in file {debugFilename}: " + lines.First());
+            }
+            
             // 1. standardize header
-            var standardizedCsv = _csvStandardizer.Read(csvLines.ToArray());
+            var standardizedCsv = _csvStandardizer.Read(lines.ToArray());
 
             IEnumerable<ResultRow> records;
 

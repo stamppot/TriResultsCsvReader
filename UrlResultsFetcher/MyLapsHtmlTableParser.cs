@@ -25,7 +25,7 @@ namespace UrlResultsFetcher
             var firstTable = ExtractTableNodes(doc).FirstOrDefault();
             var results = ParseAndFilterHtmlTable(firstTable, containsClassFilter, false).SelectMany(x => x).FirstOrDefault(x => x != null);
 
-            var raceAndDate = RaceDataUtils.FromRaceData(results);
+            var raceAndDate = RaceDataUtils.FromRaceData(string.IsNullOrEmpty(results) ? String.Empty : results);
 
             return raceAndDate;
         }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using Optional;
+using Optional.Unsafe;
 
 namespace UrlResultsFetcher
 {
@@ -10,9 +11,9 @@ namespace UrlResultsFetcher
         {
             var dtStr = DateUtils.ReplaceStringMonth(racedata);
             var dateIndex = DateUtils.FindFirstNumberIndex(dtStr);
-            dtStr = racedata.Substring(dateIndex);
+            dtStr = dateIndex.IfPresentWithDefault(t => racedata.Substring(dateIndex.ValueOrDefault()), string.Empty);
 
-            var raceStr = racedata.Substring(0, dateIndex).Trim();
+            var raceStr = racedata.Substring(0, dateIndex.ValueOrDefault()).Trim();
 
             if (dtStr.EndsWith("-"))
             {

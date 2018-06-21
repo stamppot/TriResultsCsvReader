@@ -1,12 +1,12 @@
 ﻿using System;
-using System.Globalization;
 using System.Linq;
+using Optional;
 
 namespace UrlResultsFetcher
 {
     public class DateUtils
     {
-        public static int FindFirstNumberIndex(string str)
+        public static Option<int> FindFirstNumberIndex(string str)
         {
             var chars = str.AsEnumerable().ToArray();
             for (int i = 0; i < chars.Length; i++)
@@ -16,12 +16,12 @@ namespace UrlResultsFetcher
                     // try to check the next number to avoid fx "4e Zeewolde Endurance 25-06-2018
                     if (i < chars.Length && (Char.IsNumber(chars[i + 1]) || chars[i + 1] == '-'))
                     {
-                        return i;
+                        return Option.Some(i);
                     }
                 }
             }
 
-            return -1;
+            return Option.None<int>();
         }
 
         public static string ReplaceStringMonth(string name)

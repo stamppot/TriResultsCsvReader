@@ -19,7 +19,7 @@ namespace FileAppServices
         public bool Validate(string[] csvLines)
         {
             var linesInfo = 
-            csvLines.Select((line, index) => { var hasQuote = line.Contains("\""); var cols = line.Split(separator); return new { RowNumber = index+1, Columns = cols, NumColumns = cols.Count(), IsQuoted = hasQuote }; });
+            csvLines.Select((line, index) => { var hasQuote = line.Contains("\""); var cols = line.Split(separator); return new { RowNumber = index+1, Columns = cols, NumColumns = cols.Count(), IsQuoted = hasQuote }; }).ToList();
 
             var header = linesInfo.First();
             var headerColumnNum = header.NumColumns;
@@ -44,7 +44,7 @@ namespace FileAppServices
                     sb.AppendLine(String.Format("{0} Row: columns: {1}, : {2}", li.RowNumber, li.NumColumns, string.Join(separator.ToString(), li.Columns)));
                 }
 
-                throw new FormatException("Not equal amount of columns:\n" + sb.ToString());
+                throw new FormatException("Not equal amount of columns:" + Environment.NewLine + sb.ToString());
             }
 
             return hasSameAmountOfColumns;

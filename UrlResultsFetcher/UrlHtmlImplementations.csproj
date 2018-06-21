@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateUtils.cs" />
+    <Compile Include="OptionalExtensions.cs" />
     <Compile Include="RaceDataUtils.cs" />
     <Compile Include="ResultsPageFetcher.cs" />
     <Compile Include="MyLapsHtmlTableParser.cs" />
